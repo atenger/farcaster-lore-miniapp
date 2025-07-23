@@ -65,7 +65,7 @@ export default function CastGrid({ casts, onLoadMore, hasMore, isLoading }: Cast
       
       {!hasMore && casts.length > 0 && (
         <div className="text-center py-8 text-gray-500">
-          <p>You've reached the end! 🎉</p>
+          <p>You&apos;ve reached the end! 🎉</p>
         </div>
       )}
     </div>

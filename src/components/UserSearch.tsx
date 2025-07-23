@@ -52,7 +52,7 @@ export default function UserSearch({ onUserSelect, isOpen, onClose }: UserSearch
       <div className="bg-white rounded-lg p-6 w-80 max-w-[90vw]">
         <h3 className="text-lg font-semibold mb-4">Pick a User</h3>
         <p className="text-sm text-gray-600 mb-4">
-          Enter a username (e.g., "dwr") or FID (e.g., "194")
+          Enter a username (e.g., &quot;dwr&quot;) or FID (e.g., &quot;194&quot;)
         </p>
         
         <input
