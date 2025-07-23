@@ -6,13 +6,19 @@ import { formatDistanceToNow } from 'date-fns';
 export default function CastCard({ cast }: CastCardProps) {
   const formatDate = (timestamp: string) => {
     try {
-      return formatDistanceToNow(new Date(timestamp), { addSuffix: true });
+      if (!timestamp) return 'Unknown time';
+      
+      const date = new Date(timestamp);
+      if (isNaN(date.getTime())) return 'Unknown time';
+      
+      return formatDistanceToNow(date, { addSuffix: true });
     } catch {
       return 'Unknown time';
     }
   };
 
-  const truncateText = (text: string, maxLength: number = 200) => {
+  const truncateText = (text: string | null | undefined, maxLength: number = 200) => {
+    if (!text) return '';
     if (text.length <= maxLength) return text;
     return text.substring(0, maxLength) + '...';
   };

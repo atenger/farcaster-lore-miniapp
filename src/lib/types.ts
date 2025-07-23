@@ -4,7 +4,7 @@ export interface Cast {
   author_username: string;
   author_fid: number;
   timestamp: string;
-  text: string;
+  text: string | null;
   embeds: string[];
   source_episode_id: string;
 }

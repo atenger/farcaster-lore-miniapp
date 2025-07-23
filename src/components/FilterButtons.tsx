@@ -2,12 +2,29 @@
 
 import { FilterButtonsProps } from '@/lib/types';
 
-export default function FilterButtons({ onFilterChange, activeFilter }: FilterButtonsProps) {
+interface ExtendedFilterButtonsProps extends FilterButtonsProps {
+  onDatePickerOpen: () => void;
+  onUserSearchOpen: () => void;
+  selectedDate?: string | null;
+  selectedUser?: { username?: string; fid?: number } | null;
+}
+
+export default function FilterButtons({ onFilterChange, activeFilter, onDatePickerOpen, onUserSearchOpen, selectedDate, selectedUser }: ExtendedFilterButtonsProps) {
   const filters = [
     { id: 'all', label: 'All Casts' },
-    { id: 'my-casts', label: 'My Casts' },
-    { id: 'pick-date', label: 'Pick a Date' }
+    { id: 'pick-user', label: selectedUser ? `👤 @${selectedUser.username || `FID:${selectedUser.fid}`}` : 'Pick a User' },
+    { id: 'pick-date', label: selectedDate ? `📅 ${selectedDate}` : 'Pick a Date' }
   ];
+
+  const handleFilterClick = (filterId: string) => {
+    if (filterId === 'pick-date') {
+      onDatePickerOpen();
+    } else if (filterId === 'pick-user') {
+      onUserSearchOpen();
+    } else {
+      onFilterChange(filterId);
+    }
+  };
 
   return (
     <div className="sticky top-0 z-10 bg-white border-b border-gray-200 px-4 py-3">
@@ -15,9 +32,9 @@ export default function FilterButtons({ onFilterChange, activeFilter }: FilterBu
         {filters.map((filter) => (
           <button
             key={filter.id}
-            onClick={() => onFilterChange(filter.id)}
+            onClick={() => handleFilterClick(filter.id)}
             className={`px-4 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-colors ${
-              activeFilter === filter.id
+              activeFilter === filter.id || (filter.id === 'pick-date' && selectedDate) || (filter.id === 'pick-user' && selectedUser)
                 ? 'bg-gradient-to-r from-purple-500 to-blue-600 text-white'
                 : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
             }`}
