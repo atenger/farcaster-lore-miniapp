@@ -6,6 +6,7 @@ import CastGrid from '@/components/CastGrid';
 import FilterButtons from '@/components/FilterButtons';
 import DatePicker from '@/components/DatePicker';
 import UserSearch from '@/components/UserSearch';
+import Link from 'next/link';
 
 const CASTS_PER_PAGE = 20;
 
@@ -133,20 +134,30 @@ export default function Home() {
     <main className="min-h-screen bg-gray-50">
       <header className="bg-white shadow-sm border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 py-6">
-          <h1 className="text-2xl font-bold text-gray-900">
-            Farcaster Lore
-          </h1>
-          <p className="text-gray-600 mt-1">
-            Explore casts featured on{' '}
-            <a 
-              href="https://www.youtube.com/@gmfarcaster"
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-purple-600 hover:text-purple-800 font-medium"
+          <div className="flex items-center justify-between">
+            <div>
+              <h1 className="text-2xl font-bold text-gray-900">
+                Farcaster Lore
+              </h1>
+              <p className="text-gray-600 mt-1">
+                Explore casts featured on{' '}
+                <a 
+                  href="https://www.youtube.com/@gmfarcaster"
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="text-purple-600 hover:text-purple-800 font-medium"
+                >
+                  GM Farcaster
+                </a>
+              </p>
+            </div>
+            <Link 
+              href="/leaderboard"
+              className="px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors"
             >
-              GM Farcaster
-            </a>
-          </p>
+              🏆 Leaderboard
+            </Link>
+          </div>
         </div>
       </header>
 
