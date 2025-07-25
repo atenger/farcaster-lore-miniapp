@@ -2,14 +2,7 @@
 
 import { FilterButtonsProps } from '@/lib/types';
 
-interface ExtendedFilterButtonsProps extends FilterButtonsProps {
-  onDatePickerOpen: () => void;
-  onUserSearchOpen: () => void;
-  selectedDate?: string | null;
-  selectedUser?: { username?: string; fid?: number } | null;
-}
-
-export default function FilterButtons({ onFilterChange, activeFilter, onDatePickerOpen, onUserSearchOpen, selectedDate, selectedUser }: ExtendedFilterButtonsProps) {
+export default function FilterButtons({ onFilterChange, activeFilter, onDatePickerOpen, onUserSearchOpen, selectedDate, selectedUser }: FilterButtonsProps) {
   const filters = [
     { id: 'all', label: 'All Casts' },
     { id: 'pick-user', label: selectedUser ? `👤 @${selectedUser.username || `FID:${selectedUser.fid}`}` : 'Pick a User' },
