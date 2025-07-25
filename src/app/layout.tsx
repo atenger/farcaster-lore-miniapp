@@ -22,7 +22,7 @@ export const metadata: Metadata = {
       "version": "next",
       "imageUrl": miniAppConfig.imageUrl(),
       "button": {
-        "title": "📚 Explore",
+        "title": "Travel Through Farcaster History",
         "action": {
           "type": "launch_miniapp",
           "name": "Farcaster Lore",
