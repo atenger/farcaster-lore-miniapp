@@ -16,9 +16,9 @@ export function getAssetUrl(path: string): string {
 
 // Mini App specific URLs
 export const miniAppConfig = {
-  iconUrl: () => getAssetUrl('/icon.svg'),
+  iconUrl: () => getAssetUrl('/loredark_icon.png'),
   homeUrl: () => getBaseUrl(),
-  imageUrl: () => getAssetUrl('/opengraph-image.svg'),
-  splashImageUrl: () => getAssetUrl('/logo.svg'),
-  splashBackgroundColor: '#f3f4f6',
+  imageUrl: () => getAssetUrl('/loredark_image.png'),
+  splashImageUrl: () => getAssetUrl('/loredark_icon.png'),
+  splashBackgroundColor: '#6a329f',
 }; 
