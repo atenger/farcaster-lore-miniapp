@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { analyzeCastIndex, getCastHashDetails, getAuthorCasts } from '@/lib/dataValidation';
-import { AnalysisResult, CastIndexEntry, EnrichedCast } from '@/lib/types';
+import { AnalysisResult, CastIndexEntry } from '@/lib/types';
 
 export default function AnalysisPage() {
   const [analysisResult, setAnalysisResult] = useState<AnalysisResult | null>(null);

@@ -147,7 +147,7 @@ export async function GET(request: Request) {
         'Content-Type': 'application/json',
       },
     });
-  } catch (error) {
+  } catch {
     return NextResponse.json(
       { error: 'Internal server error' },
       { status: 500 }

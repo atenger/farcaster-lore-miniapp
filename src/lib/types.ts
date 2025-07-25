@@ -56,8 +56,6 @@ export interface SearchResponse {
   offset: number;
 }
 
-export interface EpisodeData extends Array<EnrichedCast> {}
-
 export interface CastGridProps {
   casts: EnrichedCast[];
   onLoadMore: () => void;
