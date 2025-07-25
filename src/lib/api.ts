@@ -1,7 +1,7 @@
-import { SearchFilters, SearchResponse, EnrichedCast, EpisodeData } from './types';
+import { SearchFilters, SearchResponse, EnrichedCast } from './types';
 
 // Cache for episode data to avoid repeated API calls
-const episodeCache = new Map<string, EpisodeData>();
+const episodeCache = new Map<string, EnrichedCast[]>();
 
 /**
  * Search casts with filters and pagination
@@ -36,7 +36,7 @@ export async function getAllCasts(limit: number = 50, offset: number = 0): Promi
 /**
  * Get episode data with caching
  */
-export async function getEpisodeData(videoId: string): Promise<EpisodeData> {
+export async function getEpisodeData(videoId: string): Promise<EnrichedCast[]> {
   // Check cache first
   if (episodeCache.has(videoId)) {
     return episodeCache.get(videoId)!;
