@@ -170,13 +170,6 @@ export default function Home() {
 
   return (
     <main className="min-h-screen bg-gray-50">
-      {/* Mini App Context Display */}
-      {isSDKLoaded && context && (
-        <div className="bg-purple-100 border-b border-purple-200 px-4 py-2 text-sm text-purple-800">
-          🎯 Mini App Context: {JSON.stringify(context)}
-        </div>
-      )}
-
       <header className="bg-white shadow-sm border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 py-6">
           <div className="flex items-center justify-between">

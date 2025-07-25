@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import MiniAppWrapper from "@/components/MiniAppWrapper";
+import { miniAppConfig } from "@/lib/config";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -15,19 +16,19 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Farcaster Lore - GM Farcaster Casts",
-  description: "Explore casts from GM Farcaster episodes in a browsable, searchable interface",
+  description: "Explore casts featured on GM Farcaster episodes through time",
   other: {
     "fc:frame": JSON.stringify({
       "version": "next",
-      "imageUrl": "https://farcaster-lore-miniapp.vercel.app/opengraph-image.png",
+      "imageUrl": miniAppConfig.imageUrl(),
       "button": {
         "title": "📚 Explore",
         "action": {
           "type": "launch_miniapp",
           "name": "Farcaster Lore",
-          "url": "https://farcaster-lore-miniapp.vercel.app/",
-          "splashImageUrl": "https://farcaster-lore-miniapp.vercel.app/logo.png",
-          "splashBackgroundColor": "#f3f4f6"
+          "url": miniAppConfig.homeUrl(),
+          "splashImageUrl": miniAppConfig.splashImageUrl(),
+          "splashBackgroundColor": miniAppConfig.splashBackgroundColor
         }
       }
     })
