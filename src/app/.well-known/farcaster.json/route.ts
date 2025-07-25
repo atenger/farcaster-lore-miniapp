@@ -3,6 +3,12 @@ import { miniAppConfig } from '../../../lib/config';
 
 export async function GET() {
   const manifest = {
+    // TODO: Add accountAssociation after signing with Farcaster custody address
+    // accountAssociation: {
+    //   header: "...",
+    //   payload: "...", 
+    //   signature: "..."
+    // },
     miniapp: {
       version: "1",
       name: "Farcaster Lore",
