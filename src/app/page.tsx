@@ -14,7 +14,6 @@ const CASTS_PER_PAGE = 20;
 export default function Home() {
   const [casts, setCasts] = useState<EnrichedCast[]>([]);
   const [totalCasts, setTotalCasts] = useState(0);
-  const [currentPage, setCurrentPage] = useState(1);
   const [isLoading, setIsLoading] = useState(true);
   const [isLoadingMore, setIsLoadingMore] = useState(false);
   const [activeFilter, setActiveFilter] = useState('all');
@@ -69,7 +68,7 @@ export default function Home() {
       const cleanedCasts = validateAndCleanCasts(response.casts);
       
       setCasts(prev => [...prev, ...cleanedCasts]);
-      setCurrentPage(prev => prev + 1);
+      // setCurrentPage(prev => prev + 1); // This line was removed
     } catch (error) {
       console.error('Error loading more casts:', error);
       setError('Failed to load more casts. Please try again.');
@@ -80,7 +79,7 @@ export default function Home() {
 
   const handleFilterChange = async (filter: string) => {
     setActiveFilter(filter);
-    setCurrentPage(1);
+    // setCurrentPage(1); // This line was removed
     
     if (filter === 'all') {
       // Clear all filters when going back to "All Casts"
@@ -94,7 +93,7 @@ export default function Home() {
     console.log('[DatePicker] Selected date:', date);
     setSelectedDate(date);
     setActiveFilter(date ? 'pick-date' : 'all');
-    setCurrentPage(1);
+    // setCurrentPage(1); // This line was removed
     
     // Clear user search when switching to date filter
     setSelectedUser(null);
@@ -137,7 +136,7 @@ export default function Home() {
   const handleUserSelect = async (username: string | null, fid: number | null) => {
     setSelectedUser(username ? { username } : fid ? { fid } : null);
     setActiveFilter((username || fid) ? 'pick-user' : 'all');
-    setCurrentPage(1);
+    // setCurrentPage(1); // This line was removed
     
     // Clear date filter when switching to user search
     setSelectedDate(null);

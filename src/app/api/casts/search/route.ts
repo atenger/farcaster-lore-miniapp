@@ -2,6 +2,7 @@ import { NextResponse } from 'next/server';
 import { readFileSync } from 'fs';
 import { join } from 'path';
 import castsIndex from '@/data/casts_index.json';
+import { EnrichedCast } from '@/lib/types';
 
 interface CastIndexEntry {
   cast_hash: string;
@@ -42,7 +43,7 @@ function filterCasts(casts: CastIndexEntry[], filters: SearchFilters): CastIndex
   });
 }
 
-async function enrichCastsWithEpisodeData(casts: CastIndexEntry[]): Promise<any[]> {
+async function enrichCastsWithEpisodeData(casts: CastIndexEntry[]): Promise<EnrichedCast[]> {
   // Get unique episode IDs
   const episodeIds = [...new Set(casts.map(cast => cast.source_episode_id))];
   
@@ -52,10 +53,10 @@ async function enrichCastsWithEpisodeData(casts: CastIndexEntry[]): Promise<any[
   for (const episodeId of episodeIds) {
     try {
       const filePath = join(process.cwd(), 'src', 'data', 'episodes', `episode_${episodeId}.json`);
-      const episodeData = JSON.parse(readFileSync(filePath, 'utf8'));
+      const episodeData: EnrichedCast[] = JSON.parse(readFileSync(filePath, 'utf8'));
       
       // Create a map of cast_hash to enriched data
-      episodeData.forEach((enrichedCast: any) => {
+      episodeData.forEach((enrichedCast) => {
         episodeDataMap.set(enrichedCast.cast_hash, enrichedCast);
       });
     } catch (error) {
@@ -71,7 +72,7 @@ async function enrichCastsWithEpisodeData(casts: CastIndexEntry[]): Promise<any[
 }
 
 // Function to filter enriched casts (after episode data is loaded)
-function filterEnrichedCasts(casts: any[], filters: SearchFilters): any[] {
+function filterEnrichedCasts(casts: EnrichedCast[], filters: SearchFilters): EnrichedCast[] {
   return casts.filter(cast => {
     // FID filtering can only be done on enriched data
     if (filters.fid && cast.author_fid !== filters.fid) return false;

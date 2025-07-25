@@ -76,4 +76,15 @@ export interface FilterButtonsProps {
   onUserSearchOpen: () => void;
   selectedDate: string | null;
   selectedUser: { username?: string; fid?: number } | null;
+}
+
+export interface AnalysisResult {
+  totalCasts: number;
+  uniqueHashes: number;
+  uniqueAuthors: number;
+  uniqueEpisodes: number;
+  duplicateHashes: number;
+  duplicateAuthorHashes: number;
+  duplicateHashDetails: [string, number][];
+  duplicateAuthorHashDetails: [string, number][];
 } 

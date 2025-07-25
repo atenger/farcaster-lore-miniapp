@@ -40,7 +40,8 @@ export function analyzeCastIndex() {
   
   if (duplicateHashes.length > 0) {
     console.log('\n=== Top 10 Most Duplicated Cast Hashes ===');
-    duplicateHashes.slice(0, 10).forEach(([hash, count]) => {
+    duplicateHashes.slice(0, 10).forEach((entry) => {
+      const [hash, count] = entry;
       const casts = castsIndex.filter(cast => cast.cast_hash === hash);
       console.log(`${hash}: ${count} times`);
       casts.forEach(cast => {
@@ -51,7 +52,8 @@ export function analyzeCastIndex() {
   
   if (duplicateAuthorHashes.length > 0) {
     console.log('\n=== Top 10 Most Duplicated Author+Hash Combinations ===');
-    duplicateAuthorHashes.slice(0, 10).forEach(([key, count]) => {
+    duplicateAuthorHashes.slice(0, 10).forEach((entry) => {
+      const [key, count] = entry;
       const [hash, author] = key.split('-');
       console.log(`${author} - ${hash}: ${count} times`);
     });

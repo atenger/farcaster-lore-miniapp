@@ -2,11 +2,12 @@
 
 import { useState } from 'react';
 import { analyzeCastIndex, getCastHashDetails, getAuthorCasts } from '@/lib/dataValidation';
+import { AnalysisResult, CastIndexEntry, EnrichedCast } from '@/lib/types';
 
 export default function AnalysisPage() {
-  const [analysisResult, setAnalysisResult] = useState<any>(null);
-  const [castHashDetails, setCastHashDetails] = useState<any>(null);
-  const [authorCasts, setAuthorCasts] = useState<any>(null);
+  const [analysisResult, setAnalysisResult] = useState<AnalysisResult | null>(null);
+  const [castHashDetails, setCastHashDetails] = useState<CastIndexEntry[] | null>(null);
+  const [authorCasts, setAuthorCasts] = useState<CastIndexEntry[] | null>(null);
   const [selectedHash, setSelectedHash] = useState('');
   const [selectedAuthor, setSelectedAuthor] = useState('');
 
@@ -118,7 +119,7 @@ export default function AnalysisPage() {
             <div className="mt-4 p-4 bg-gray-50 rounded">
               <h3 className="font-semibold mb-2">Cast Hash Details:</h3>
               <div className="space-y-2">
-                {castHashDetails.map((cast: any, index: number) => (
+                {castHashDetails.map((cast, index: number) => (
                   <div key={index} className="text-sm border-l-2 border-blue-500 pl-3">
                     <div><strong>Author:</strong> {cast.author_username}</div>
                     <div><strong>Date:</strong> {cast.show_date}</div>
@@ -154,7 +155,7 @@ export default function AnalysisPage() {
             <div className="mt-4 p-4 bg-gray-50 rounded">
               <h3 className="font-semibold mb-2">Author Casts ({authorCasts.length} total):</h3>
               <div className="space-y-2 max-h-96 overflow-y-auto">
-                {authorCasts.map((cast: any, index: number) => (
+                {authorCasts.map((cast, index: number) => (
                   <div key={index} className="text-sm border-l-2 border-purple-500 pl-3">
                     <div><strong>Hash:</strong> {cast.cast_hash}</div>
                     <div><strong>Date:</strong> {cast.show_date}</div>

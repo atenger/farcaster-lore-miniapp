@@ -43,6 +43,7 @@ export default function CastCard({ cast }: CastCardProps) {
       <div className="flex items-start justify-between mb-2 px-4 pt-4 cursor-pointer" onClick={() => window.open(cast.url, '_blank')}>
         <div className="flex items-center space-x-2">
           {cast.author_pfp && (
+            // TODO: Migrate to Next.js <Image /> for optimization
             <img 
               src={cast.author_pfp} 
               alt={`${cast.author_username}'s profile`}
@@ -70,6 +71,7 @@ export default function CastCard({ cast }: CastCardProps) {
         
         {embedImage && (
           <div className="mt-3">
+            {/* TODO: Migrate to Next.js <Image /> for optimization */}
             <img 
               src={embedImage} 
               alt="Embed preview"

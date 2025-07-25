@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
+import { CastIndexEntry, EnrichedCast } from '@/lib/types';
 
 interface UserStats {
   username: string;
@@ -18,12 +19,12 @@ export default function Leaderboard() {
       try {
         // Fetch the cast index data
         const response = await fetch('/api/casts/index');
-        const casts = await response.json();
+        const casts: CastIndexEntry[] = await response.json();
         
         // Group by author_username
         const userMap = new Map<string, UserStats>();
         
-        casts.forEach((cast: any) => {
+        casts.forEach((cast: CastIndexEntry) => {
           const username = cast.author_username;
           if (!username) return;
           
@@ -39,7 +40,7 @@ export default function Leaderboard() {
         });
         
         // Convert to array and sort by count (descending)
-        let stats = Array.from(userMap.values())
+        const stats = Array.from(userMap.values())
           .sort((a, b) => b.count - a.count)
           .slice(0, 100); // Top 100 users
 
@@ -47,8 +48,8 @@ export default function Leaderboard() {
         // Step 1: Get all unique episode IDs needed for top 100 users
         const userEpisodeMap = new Map<string, string[]>();
         stats.forEach(user => {
-          const userCasts = casts.filter((c: any) => c.author_username === user.username);
-          const episodeIds = [...new Set(userCasts.map((c: any) => c.source_episode_id))];
+          const userCasts = casts.filter((c: CastIndexEntry) => c.author_username === user.username);
+          const episodeIds = [...new Set(userCasts.map((c: CastIndexEntry) => c.source_episode_id))];
           userEpisodeMap.set(user.username, episodeIds);
         });
 
@@ -56,12 +57,12 @@ export default function Leaderboard() {
         const allEpisodeIds = [...new Set(Array.from(userEpisodeMap.values()).flat().filter((id): id is string => typeof id === 'string'))];
         
         // Step 3: Load all episode files in parallel
-        const episodeDataMap = new Map<string, any[]>();
+        const episodeDataMap = new Map<string, EnrichedCast[]>();
         await Promise.all(allEpisodeIds.map(async (episodeId) => {
           try {
             const response = await fetch(`/api/episodes/${episodeId}`);
             if (response.ok) {
-              const data = await response.json();
+              const data: EnrichedCast[] = await response.json();
               episodeDataMap.set(episodeId, data);
             }
           } catch (error) {
@@ -71,8 +72,8 @@ export default function Leaderboard() {
 
         // Step 4: Build username -> PFP lookup map
         const usernamePfpMap = new Map<string, string>();
-        episodeDataMap.forEach((episodeData, episodeId) => {
-          episodeData.forEach((cast: any) => {
+        episodeDataMap.forEach((episodeData) => {
+          episodeData.forEach((cast: EnrichedCast) => {
             if (cast.author_username && cast.author_pfp && !usernamePfpMap.has(cast.author_username)) {
               usernamePfpMap.set(cast.author_username, cast.author_pfp);
             }
