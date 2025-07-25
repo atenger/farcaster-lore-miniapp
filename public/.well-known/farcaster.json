@@ -1,0 +1,13 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Farcaster Lore",
+    "iconUrl": "https://farcaster-lore-miniapp.vercel.app/icon.png",
+    "homeUrl": "https://farcaster-lore-miniapp.vercel.app/",
+    "imageUrl": "https://farcaster-lore-miniapp.vercel.app/opengraph-image.png",
+    "buttonTitle": "📚 Explore",
+    "splashImageUrl": "https://farcaster-lore-miniapp.vercel.app/logo.png",
+    "splashBackgroundColor": "#f3f4f6",
+    "description": "Explore casts featured on GM Farcaster episodes"
+  }
+} 

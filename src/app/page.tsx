@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { useMiniApp } from '@neynar/react';
 import { EnrichedCast, SearchFilters } from '@/lib/types';
 import { searchCasts, getAllCasts, validateAndCleanCasts } from '@/lib/api';
 import CastGrid from '@/components/CastGrid';
@@ -12,6 +13,7 @@ import Link from 'next/link';
 const CASTS_PER_PAGE = 20;
 
 export default function Home() {
+  const { isSDKLoaded, context } = useMiniApp();
   const [casts, setCasts] = useState<EnrichedCast[]>([]);
   const [totalCasts, setTotalCasts] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
@@ -68,7 +70,6 @@ export default function Home() {
       const cleanedCasts = validateAndCleanCasts(response.casts);
       
       setCasts(prev => [...prev, ...cleanedCasts]);
-      // setCurrentPage(prev => prev + 1); // This line was removed
     } catch (error) {
       console.error('Error loading more casts:', error);
       setError('Failed to load more casts. Please try again.');
@@ -79,7 +80,6 @@ export default function Home() {
 
   const handleFilterChange = async (filter: string) => {
     setActiveFilter(filter);
-    // setCurrentPage(1); // This line was removed
     
     if (filter === 'all') {
       // Clear all filters when going back to "All Casts"
@@ -93,7 +93,6 @@ export default function Home() {
     console.log('[DatePicker] Selected date:', date);
     setSelectedDate(date);
     setActiveFilter(date ? 'pick-date' : 'all');
-    // setCurrentPage(1); // This line was removed
     
     // Clear user search when switching to date filter
     setSelectedUser(null);
@@ -136,7 +135,6 @@ export default function Home() {
   const handleUserSelect = async (username: string | null, fid: number | null) => {
     setSelectedUser(username ? { username } : fid ? { fid } : null);
     setActiveFilter((username || fid) ? 'pick-user' : 'all');
-    // setCurrentPage(1); // This line was removed
     
     // Clear date filter when switching to user search
     setSelectedDate(null);
@@ -172,6 +170,13 @@ export default function Home() {
 
   return (
     <main className="min-h-screen bg-gray-50">
+      {/* Mini App Context Display */}
+      {isSDKLoaded && context && (
+        <div className="bg-purple-100 border-b border-purple-200 px-4 py-2 text-sm text-purple-800">
+          🎯 Mini App Context: {JSON.stringify(context)}
+        </div>
+      )}
+
       <header className="bg-white shadow-sm border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 py-6">
           <div className="flex items-center justify-between">
