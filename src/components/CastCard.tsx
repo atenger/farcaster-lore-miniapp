@@ -2,12 +2,16 @@
 
 import { EnrichedCast } from '@/lib/types';
 import { formatCastDate } from '@/lib/api';
+import { useMiniApp } from '@neynar/react';
+import { sdk } from '@farcaster/miniapp-sdk';
 
 interface CastCardProps {
   cast: EnrichedCast;
 }
 
 export default function CastCard({ cast }: CastCardProps) {
+  const { isSDKLoaded, context } = useMiniApp();
+  
   const formatDate = (dateString?: string) => {
     if (!dateString) return null;
     try {
@@ -37,10 +41,17 @@ export default function CastCard({ cast }: CastCardProps) {
 
   const embedImage = getEmbedImage();
   const formattedDate = formatDate(cast.cast_date);
+  const isMiniApp = !!context;
 
   return (
     <div className="bg-white rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition-shadow">
-      <div className="flex items-start justify-between mb-2 px-4 pt-4 cursor-pointer" onClick={() => window.open(cast.url, '_blank')}>
+      <div className="flex items-start justify-between mb-2 px-4 pt-4 cursor-pointer" onClick={() => {
+        if (isMiniApp) {
+          sdk.actions.viewCast({ hash: cast.cast_hash });
+        } else {
+          window.open(cast.url, '_blank');
+        }
+      }}>
         <div className="flex items-center space-x-2">
           {cast.author_pfp && (
             // TODO: Migrate to Next.js <Image /> for optimization
@@ -64,7 +75,13 @@ export default function CastCard({ cast }: CastCardProps) {
         )}
       </div>
       
-      <div className="p-4 cursor-pointer" onClick={() => window.open(cast.url, '_blank')}>
+      <div className="p-4 cursor-pointer" onClick={() => {
+        if (isMiniApp) {
+          sdk.actions.viewCast({ hash: cast.cast_hash });
+        } else {
+          window.open(cast.url, '_blank');
+        }
+      }}>
         <p className="text-gray-800 text-sm leading-relaxed mb-3">
           {truncateText(cast.text)}
         </p>
@@ -86,7 +103,13 @@ export default function CastCard({ cast }: CastCardProps) {
       
       <div 
         className="flex items-center justify-center text-xs text-gray-500 py-2 bg-purple-50 cursor-pointer" 
-        onClick={() => window.open(`https://www.youtube.com/watch?v=${cast.source_episode_id}`, '_blank')}
+        onClick={() => {
+          if (isMiniApp) {
+            sdk.actions.openUrl(`https://www.youtube.com/watch?v=${cast.source_episode_id}`);
+          } else {
+            window.open(`https://www.youtube.com/watch?v=${cast.source_episode_id}`, '_blank');
+          }
+        }}
       >
         <span>Mentioned on </span>
         <span className="text-purple-600 font-medium ml-1">
