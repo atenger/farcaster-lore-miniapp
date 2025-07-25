@@ -1,0 +1,476 @@
+[
+  {
+    "cast_hash": "0x3fe5dbd8",
+    "url": "https://warpcast.com/df/0x3fe5dbd8",
+    "author_username": "df",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "author_fid": 1214,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a6497fe-5e4e-4297-fd02-26a1c052fe00/original",
+    "cast_date": "2024-03-01T04:29:51.000Z",
+    "text": "Farnoggles have gone from NFT to reality 🤯",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1214,
+          "hash": "0xc8a26735069251d3ab17f4c33ad3f4a986a3d974"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc8a26735069251d3ab17f4c33ad3f4a986a3d974",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1214,
+            "username": "df",
+            "display_name": "df",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a6497fe-5e4e-4297-fd02-26a1c052fe00/original",
+            "custody_address": "0xcd1bae2391651198850b076c2b600d534df53ade"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc8a26735069251d3ab17f4c33ad3f4a986a3d974",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Shoutout to @publu for these farnoggles and to @afra for the pic. \n\nMore coming in other colorways at the Farcaster meetup. Feeling nounish",
+          "timestamp": "2024-03-01T04:28:46.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/TzG5wgJ.jpg",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 419601,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1352,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x497c8366",
+    "url": "https://warpcast.com/v/0x497c8366",
+    "author_username": "v",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-03-03T17:27:41.000Z",
+    "text": "Some of you got verification emails from Warpcast today.\n\nYour account is safe and this was not a phishing attack. Warpcast was not compromised.\n\nBut you should always:  \n\n1. Check that emails and links come from farcaster.xyz or warpcast.com\n2. Never share your recovery phrase on any web site.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfde62e2e",
+    "url": "https://warpcast.com/jessepollak/0xfde62e2e",
+    "author_username": "jessepollak",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "author_fid": 840315,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c253f4e8-308d-4ddb-2194-d66bec428200/rectcrop3",
+    "cast_date": "2024-11-25T09:14:17.000Z",
+    "text": " Khổ quá! 😝😆💕 Cảm ơn chị đã giúp mình mở rộng tầm nhìn!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x36ff3c18",
+    "url": "https://warpcast.com/nounishprof/0x36ff3c18",
+    "author_username": "nounishprof",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-04T11:49:00.000Z",
+    "text": "I just voted in BuilderDAO Base Jump: calling all artists!: https://prop.house/0x948324fcfbbb9bfc241de7e784fabc37469508ce \n\nVoting ends later today so get your votes in!",
+    "embeds": [
+      {
+        "url": "https://prop.house/0x948324fcfbbb9bfc241de7e784fabc37469508ce",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://prop.house/",
+            "ogType": "website",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://prop.house/home-card.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Prop House",
+            "ogLocale": "en",
+            "ogDescription": "Prop House is a simple and fun way to award people onchain. Set up a round, tell the internet and watch magic happen."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfb2cb382",
+    "url": "https://warpcast.com/faristocats/0xfb2cb382",
+    "author_username": "faristocats",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "author_fid": 319675,
+    "author_pfp": "https://i.imgur.com/MN2zn5b.jpg",
+    "cast_date": "2024-03-02T18:05:19.000Z",
+    "text": "Farcaster OGs claim is LIVE!🐈‍⬛🎩\n\n🔘free mint on /zora \n🔘1 cat per badge\n🔘ends in 48 hrs!\n\nMinting wallet must hold a Farcaster OG NFT!\n\nPublic mint to start right after, stay tuned to /faristocats!🔔\n\nhttps://zora.co/collect/base:0x2d660d49473dbbcaf63929d10d0e3501b4533182",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd880d6a6",
+    "url": "https://warpcast.com/nonlinear.eth/0xd880d6a6",
+    "author_username": "nonlinear.eth",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "author_fid": 576,
+    "author_pfp": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+    "cast_date": "2024-03-04T14:23:30.000Z",
+    "text": "founders coming home from eth denver",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/Tv00YfO.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 521480,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1083,
+            "height_px": 938
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5ee9d69b",
+    "url": "https://warpcast.com/adrienne/0x5ee9d69b",
+    "author_username": "adrienne",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-02-29T22:50:15.000Z",
+    "text": "The journos have entered the building \n\n@dawufi @jpetrich",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/t20ZOET.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 281183,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8880d100",
+    "url": "https://warpcast.com/nounishprof/0x8880d100",
+    "author_username": "nounishprof",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-01T16:02:47.000Z",
+    "text": "ok here's the real background lol -- could not figure out how to change it -- and also WHY did I use google meet when I didn't have to? no one knows (just such a habit lol)\n\nThanks to our amazing chat who supports us even when it's a crazy episode -- but kinda appropriate for ep69!",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/0QUsoJo.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 969153,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1071,
+            "height_px": 717
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x803f3ad2",
+    "url": "https://warpcast.com/ccarella.eth/0x803f3ad2",
+    "author_username": "ccarella.eth",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x8f7bb014",
+    "url": "https://warpcast.com/nounishprof/0x8f7bb014",
+    "author_username": "nounishprof",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-02T00:01:55.000Z",
+    "text": "This will make so much more sense when y’all see the recording 🤣 but yeah that’s a thing now",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3642,
+          "hash": "0x2e402a59891bc515c31be7369a59950116b074a4"
+        },
+        "cast": {}
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf3f1ad38",
+    "url": "https://warpcast.com/adrienne/0xf3f1ad38",
+    "author_username": "adrienne",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-03-02T17:18:43.000Z",
+    "text": "The calm before the storm",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/k7dvK2o.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 235771,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://i.imgur.com/d5iUjvy.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 393356,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2667,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7c9f5ffb",
+    "url": "https://warpcast.com/oxb/0x7c9f5ffb",
+    "author_username": "oxb",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "author_fid": 20286,
+    "author_pfp": "https://i.imgur.com/5lTpsyy.jpg",
+    "cast_date": "2024-03-02T21:21:08.000Z",
+    "text": "I was singing loudly today to get the T-shirt \nProudly wearing it \n💜 you all \nhuge THANK YOU for the best start of the day @adrienne @nounishprof",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/iJZfTJD.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 370834,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x030843bf",
+    "url": "https://warpcast.com/adrienne/0x030843bf",
+    "author_username": "adrienne",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-03-02T18:56:52.000Z",
+    "text": "25 USDC for @metamonk to wear the /gmfarcaster crop top to the farcaster meetup @bountybot \n\nExpires March 3",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/2OMPFL2.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 233612,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf3d3de01",
+    "url": "https://warpcast.com/nounishprof/0xf3d3de01",
+    "author_username": "nounishprof",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-03T19:37:05.000Z",
+    "text": "My fave pic from last night — @metamonk gun show wearing a /gmfarcaster crop top with a @dwr.eth tattoo & ⌐◨-◨ which was how he claimed @adrienne’s bounty on @bountycaster \n\nclose second — @dawufi in the lavender /gmfarcaster crop top with the dwr lower back tattoo.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/ojxl1us.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 293760,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x146a4a73",
+    "url": "https://warpcast.com/dwr.eth/0x146a4a73",
+    "author_username": "dwr.eth",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-03-03T04:18:49.000Z",
+    "text": "stated vs. revealed preference",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 347,
+          "hash": "0xa3f0cb63352e73f9d8a53186bfb723ff7fb61b45"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa3f0cb63352e73f9d8a53186bfb723ff7fb61b45",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 347,
+            "username": "greg",
+            "display_name": "Greg",
+            "pfp_url": "https://i.seadn.io/gae/YsASemS2qwPJK2yI9fmN8HX1-DeIDy9EQxX4KsRk9rkniwn9A7xUyMu_vKR75Oxrs8QAKfIjqdmf6Aw9A9fsehJHWSz2LiNpnV_TPQ?w=500&auto=format",
+            "custody_address": "0xb4f195e9a982c2ba58988cb2132557378e9e6b08"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa3f0cb63352e73f9d8a53186bfb723ff7fb61b45",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "@dawufi got a @dwr.eth tramp stamp…",
+          "timestamp": "2024-03-03T01:56:10.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/bk9JTnu.jpg",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 288115,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcc37581e",
+    "url": "https://warpcast.com/paigexx/0xcc37581e",
+    "author_username": "paigexx",
+    "show_date": "2024-03-04",
+    "show_title": "GM Farcaster ep70, March 4, 2024",
+    "source_episode_id": "Q3OO9coDTrw",
+    "author_fid": 15974,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f81d934d-3094-4396-b049-82f4e001fe00/rectcrop3",
+    "cast_date": "2024-03-03T01:57:40.000Z",
+    "text": "Haters will say it’s fake",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/jTWgToH.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 371373,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

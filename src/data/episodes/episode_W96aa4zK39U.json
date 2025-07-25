@@ -1,0 +1,365 @@
+[
+  {
+    "cast_hash": "0x24295a0a",
+    "url": "https://warpcast.com/v/0x24295a0a",
+    "author_username": "v",
+    "show_date": "2024-01-30",
+    "show_title": "GM Farcaster ep54, Jan 30, 2024",
+    "source_episode_id": "W96aa4zK39U",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-01-29T23:59:32.000Z",
+    "text": "Frame Feature: Redirect Buttons\n\nButtons can send users to your webpage when clicked. You can also immediately log the user into your app using the signature packet. \n\nPlease leave feedback in comments, feature will go live soon!",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/BpzhxgZ.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 61541,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1112,
+            "height_px": 628
+          }
+        }
+      },
+      {
+        "url": "https://i.imgur.com/iEm2X1v.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 186928,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1678,
+            "height_px": 752
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x06279b73",
+    "url": "https://warpcast.com/jessepollak/0x06279b73",
+    "author_username": "jessepollak",
+    "show_date": "2024-01-30",
+    "show_title": "GM Farcaster ep54, Jan 30, 2024",
+    "source_episode_id": "W96aa4zK39U",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-01-29T00:12:59.000Z",
+    "text": "so proud of how fast the @base.base.eth and /coinbase teams shipped since frame friday. over the weekend, we've shipped:\n\n1. grants for based frames\n2. pizza for frame hackers\n3. simple utilities for frame builders in onchainkit\n4. a based frame guide and tutorial\n5. a frame builder chat\n\nabsolutely unreal. links in thread.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0609590c",
+    "url": "https://warpcast.com/wbnns/0x0609590c",
+    "author_username": "wbnns",
+    "show_date": "2024-01-30",
+    "show_title": "GM Farcaster ep54, Jan 30, 2024",
+    "source_episode_id": "W96aa4zK39U",
+    "author_fid": 12144,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/25fac8e0-0bbb-4127-5a47-4a81e03d7100/original",
+    "cast_date": "2024-01-28T14:46:05.000Z",
+    "text": "5 steps to get started making your own Based Frame...\n\n1. Read the docs about Farcaster Frames https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5",
+    "embeds": [
+      {
+        "url": "https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5",
+            "ogType": "article",
+            "favicon": "https://warpcast.notion.site/image/https%3A%2F%2Fwarpcast.notion.site%2F%F0%9F%94%B2?table=block&id=4bd47fe9-7dc7-4a42-a48d-3a234636d8c5&spaceId=1ae150b5-547b-47f9-9f29-638305dbba7a&width=2000&userId=&cache=v2",
+            "ogImage": [
+              {
+                "url": "https://warpcast.notion.site/images/meta/notion-wordmark.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Farcaster Frames | Notion",
+            "ogLocale": "en_US",
+            "ogSiteName": "Warpcast on Notion",
+            "ogDescription": "Documentation has moved here: https://docs.farcaster.xyz/learn/what-is-farcaster/frames"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x74241374",
+    "url": "https://warpcast.com/jessepollak/0x74241374",
+    "author_username": "jessepollak",
+    "show_date": "2024-01-30",
+    "show_title": "GM Farcaster ep54, Jan 30, 2024",
+    "source_episode_id": "W96aa4zK39U",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-01-29T16:13:38.000Z",
+    "text": "some @base.base.eth'd frames from the weekend:\n\n1. most viral cast of all time - @jacopo.eth \n2. first native ad unit - @woj \n3. an onframe game - @seangeng \n4. first song mint - @saihaj \n5. first generative art mint - @bchow \n6. first faucet - @haardikkk \n7. degen casino - @jpren.eth \n\nwhat will you build? links in thread!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x066c949c",
+    "url": "https://warpcast.com/zinger/0x066c949c",
+    "author_username": "zinger",
+    "show_date": "2024-01-30",
+    "show_title": "GM Farcaster ep54, Jan 30, 2024",
+    "source_episode_id": "W96aa4zK39U",
+    "author_fid": 1407,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/def58dd1-1eba-4976-87de-8f6a4767b400/original",
+    "cast_date": "2024-01-28T17:32:12.000Z",
+    "text": "How does @base.base.eth support builders? By sending 26 pizzas to the /frames-hackathon! 🍕\n\n🔵🤝🏻🖼️",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/UGu8G2m.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 444134,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2667,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb7492430",
+    "url": "https://warpcast.com/jessepollak/0xb7492430",
+    "author_username": "jessepollak",
+    "show_date": "2024-01-30",
+    "show_title": "GM Farcaster ep54, Jan 30, 2024",
+    "source_episode_id": "W96aa4zK39U",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-01-29T20:34:55.000Z",
+    "text": "the @base.base.eth team works in a virtual office - including our all hands!\n\nhere is us getting fired up about /frames today\n\nwe're considering opening up a public part of our office that the broader /base ecosystem could hang out in (likely only during certain times). \n\nwould folks be interested in that?",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/UDxq8M4.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 697362,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3265,
+            "height_px": 2298
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1242265e",
+    "url": "https://warpcast.com/jessepollak/0x1242265e",
+    "author_username": "jessepollak",
+    "show_date": "2024-01-30",
+    "show_title": "GM Farcaster ep54, Jan 30, 2024",
+    "source_episode_id": "W96aa4zK39U",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-01-30T00:59:17.000Z",
+    "text": "/frames are so based by @deebee \n\nhttps://zora.co/collect/base:0x5e67db91b1398bd7d6fdbfb65d80cc09fe0cb5fc/5?referrer=0x6590cf228419A851de850e1714BAE534221d1292",
+    "embeds": [
+      {
+        "url": "https://zora.co/collect/base:0x5e67db91b1398bd7d6fdbfb65d80cc09fe0cb5fc/5?referrer=0x6590cf228419A851de850e1714BAE534221d1292",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://zora.co/collect/base:0x5e67db91b1398bd7d6fdbfb65d80cc09fe0cb5fc/5",
+            "favicon": "https://zora.co/favicon/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://zora.co/api/og-image/post/base:0x5e67db91b1398bd7d6fdbfb65d80cc09fe0cb5fc/5?v=2&mints=141"
+              }
+            ],
+            "ogTitle": "Frames are SO BASED",
+            "ogLocale": "en",
+            "ogSiteName": "Zora",
+            "ogDescription": "Frames. SO BASED\n\n>>> Farcaster /sobased",
+            "fcFrame": {
+              "button": {
+                "title": "Buy",
+                "action": {
+                  "url": "https://zora.co/collect/base:0x5e67db91b1398bd7d6fdbfb65d80cc09fe0cb5fc/5/frame-v2",
+                  "name": "Buy",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://zora.co/assets/logo.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://zora.co/api/og-image/post/base:0x5e67db91b1398bd7d6fdbfb65d80cc09fe0cb5fc/5?v=2&mints=141&crop=farcaster"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Buy",
+            "image": "https://zora.co/api/og-image/post/base:0x5e67db91b1398bd7d6fdbfb65d80cc09fe0cb5fc/5?v=2&mints=141&crop=farcaster",
+            "frames_url": "https://zora.co/collect/base:0x5e67db91b1398bd7d6fdbfb65d80cc09fe0cb5fc/5?referrer=0x6590cf228419A851de850e1714BAE534221d1292"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3a5ad0e0",
+    "url": "https://warpcast.com/betashop.eth/0x3a5ad0e0",
+    "author_username": "betashop.eth",
+    "show_date": "2024-01-30",
+    "show_title": "GM Farcaster ep54, Jan 30, 2024",
+    "source_episode_id": "W96aa4zK39U",
+    "author_fid": 602,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5e14f7a-a60d-4aeb-3496-55305ecdd500/original",
+    "cast_date": "2024-01-30T01:06:59.000Z",
+    "text": "🚀 the 1st product launch via Farcaster Frames!\n\n@zora is now 100% composable with Farcaster, Base, Ethereum, Polygon, ENS, XMTP, POAP, Lens, more with Airstack APIs\n\n(1) mint \n(2) go to dev dot airstack dot xyz\n(3) sign in with Farcaster\n(4) claim $100 free Airstack credits + future 🎁 \n\nhttps://frame.airstack.xyz",
+    "embeds": [
+      {
+        "url": "https://frame.airstack.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://airstack-frame.vercel.app/img-2.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "frame.airstack.xyz",
+            "ogLocale": "en",
+            "ogDescription": "airstack 🤝 zora"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8ad449a6",
+    "url": "https://warpcast.com/4484/0x8ad449a6",
+    "author_username": "4484",
+    "show_date": "2024-01-30",
+    "show_title": "GM Farcaster ep54, Jan 30, 2024",
+    "source_episode_id": "W96aa4zK39U",
+    "author_fid": 2420,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bea705be-4116-44e2-4806-c341116a8900/rectcrop3",
+    "cast_date": "2024-01-30T03:17:46.000Z",
+    "text": "the ultimate based question is \n\n\ndoes @jesse.base.eth ever sleep?\n\nhttps://fc-polls.vercel.app/polls/15f2d638-0471-406a-8d04-c98c4eaabbf9",
+    "embeds": [
+      {
+        "url": "https://fc-polls.vercel.app/polls/15f2d638-0471-406a-8d04-c98c4eaabbf9",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://fc-polls.vercel.app/api/image?id=15f2d638-0471-406a-8d04-c98c4eaabbf9"
+              }
+            ],
+            "ogTitle": "No poll found",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7687813f",
+    "url": "https://warpcast.com/dwr.eth/0x7687813f",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-30",
+    "show_title": "GM Farcaster ep54, Jan 30, 2024",
+    "source_episode_id": "W96aa4zK39U",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-28T18:36:53.000Z",
+    "text": "Starting today, Farcaster sign ups for US-based users are free on Warpcast.\n\nScan the QR code or share with a friend to get started:",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/7245QpY.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 77587,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1204,
+            "height_px": 716
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4a555941",
+    "url": "https://warpcast.com/javabu.eth/0x4a555941",
+    "author_username": "javabu.eth",
+    "show_date": "2024-01-30",
+    "show_title": "GM Farcaster ep54, Jan 30, 2024",
+    "source_episode_id": "W96aa4zK39U",
+    "author_fid": 13893,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e8c83523-12ec-466d-11e8-7d22757d7d00/original",
+    "cast_date": "2024-01-22T20:38:13.000Z",
+    "text": "I'm excited to announce the first /AMA on /politics. @512mace kindly agreed to answer questions about Stand With Crypto. It will be on Friday, January 26.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/lax1sNP.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 275429,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa46f17fe",
+    "url": "https://warpcast.com/ted/0xa46f17fe",
+    "author_username": "ted",
+    "show_date": "2024-01-30",
+    "show_title": "GM Farcaster ep54, Jan 30, 2024",
+    "source_episode_id": "W96aa4zK39U",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-01-24T16:44:54.000Z",
+    "text": "going through FarCon applications (first wave of approvals comes out feb 6!) and there is one overwhelming theme: friendship and community.\n\nthe internet strangers to real friends pipeline is a phenomenon that is somewhat unique to farcaster. we may grow out of it as the protocol scales, so cherish the opportunity now.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/jVANX6S.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 343011,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1432,
+            "height_px": 1026
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

@@ -1,0 +1,1336 @@
+[
+  {
+    "cast_hash": "0x0501e509",
+    "url": "https://warpcast.com/toadyhawk.eth/0x0501e509",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-02-06T17:02:56.000Z",
+    "text": "🚨 New Zero Rights Media Collab Series Alert! 🚨 \n\n\"Last Month on Farcaster\" is a new short video series by our friends @adrienne and @nounishprof at @gmfarcaster, designed to bring you up to speed on everything that's new on the purple app in 3 minutes or less.\n\nThe pilot episode is now live across all @zerorightsmedia socials. Please like it, share it and collect a copy on @base.base.eth via @zora from the frame below to support independent onchain content creators. 💛  \n\nWhile you're at it, make sure you follow /gmfarcaster with notis on so you can catch their twice-weekly live show about all things Farcaster!\n\nhttps://zora.co/collect/base:0xa21c3e9d751129c6cb3c26b6f191f64eea664bfb/5?referrer=0x0b379F1848fA2aab7790966373618F4B0Fea6A6e",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/0194dc35-1ecb-7d5c-a3f4-633cee200f9f.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 157.09
+          }
+        }
+      },
+      {
+        "url": "https://zora.co/collect/base:0xa21c3e9d751129c6cb3c26b6f191f64eea664bfb/5?referrer=0x0b379F1848fA2aab7790966373618F4B0Fea6A6e",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://zora.co/collect/base:0xa21c3e9d751129c6cb3c26b6f191f64eea664bfb/5",
+            "favicon": "https://zora.co/favicon/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://zora.co/api/og-image/post/base:0xa21c3e9d751129c6cb3c26b6f191f64eea664bfb/5?v=2&mints=3429"
+              }
+            ],
+            "ogTitle": "Last Month on Farcaster for January 2025 | A Gm Farcaster x Zero Rights Media Joint",
+            "ogLocale": "en",
+            "ogSiteName": "Zora",
+            "ogDescription": "Our friends Nounish Prof and Adrienne from GM Farcaster Network are here to catch you up on everything that happened on Farcaster this past month. From memecoin mania to minigames and miniapps, they break it all down in 3 minutes. \n\nBe sure to tune in to GM Farcaster's twice weekly livestream news show, all details at gmfarcaster.com.\n\nVideo created and edited by @nounishprof (fc) and @adrienne Shulman . Music by SuperTightWoody. Post editing by Toady Hawk for Zero Rights Media. All content \"CC-by\", feel free to use however you like with fair attribution.   ",
+            "fcFrame": {
+              "button": {
+                "title": "Buy",
+                "action": {
+                  "url": "https://zora.co/collect/base:0xa21c3e9d751129c6cb3c26b6f191f64eea664bfb/5/frame-v2",
+                  "name": "Buy",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://zora.co/assets/logo.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://zora.co/api/og-image/post/base:0xa21c3e9d751129c6cb3c26b6f191f64eea664bfb/5?v=2&mints=3429&crop=farcaster"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Buy",
+            "image": "https://zora.co/api/og-image/post/base:0xa21c3e9d751129c6cb3c26b6f191f64eea664bfb/5?v=2&mints=3429&crop=farcaster",
+            "frames_url": "https://zora.co/collect/base:0xa21c3e9d751129c6cb3c26b6f191f64eea664bfb/5?referrer=0x0b379F1848fA2aab7790966373618F4B0Fea6A6e"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x18bf1d14",
+    "url": "https://warpcast.com/dwr.eth/0x18bf1d14",
+    "author_username": "dwr.eth",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-02-05T17:39:36.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c1a9cf8d-3c6b-413e-4e59-343a2f51b400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 209725,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1000,
+            "height_px": 918
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 358,
+          "hash": "0x86cdad17bbf2fbd73ee6c8745f17e67fd9c041ea"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x86cdad17bbf2fbd73ee6c8745f17e67fd9c041ea",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 358,
+            "username": "corbin.eth",
+            "display_name": "Corbin Page",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/38dad038-6092-4a1b-ae05-cfb316b4ef00/original",
+            "custody_address": "0x3bcadeaef7f8e3bf5ec9ca5212cc9c72556c43ed"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x86cdad17bbf2fbd73ee6c8745f17e67fd9c041ea",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "ETH price should bounce on this alone\n\nNeed one for FC too\n\nhttps://x.com/jackbutcher/status/1887159739815018794?s=46&t=NFK1uYN8d9GWb2GGveucpA",
+          "timestamp": "2025-02-05T17:29:12.000Z",
+          "embeds": [
+            {
+              "url": "https://x.com/jackbutcher/status/1887159739815018794?s=46&t=NFK1uYN8d9GWb2GGveucpA",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "oembed": {
+                    "url": "https://twitter.com/jackbutcher/status/1887159739815018794",
+                    "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">needs refining but heres a 10 minute crack at it <a href=\"https://t.co/pTDfoE0sqh\">https://t.co/pTDfoE0sqh</a> <a href=\"https://t.co/pMG56rAQfL\">pic.twitter.com/pMG56rAQfL</a></p>&mdash; jack (@jackbutcher) <a href=\"https://twitter.com/jackbutcher/status/1887159739815018794?ref_src=twsrc%5Etfw\">February 5, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+                    "type": "rich",
+                    "width": 550,
+                    "height": null,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "cache_age": "3153600000",
+                    "author_url": "https://twitter.com/jackbutcher",
+                    "author_name": "jack",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter"
+                  },
+                  "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                      "type": "svg"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "X (formerly Twitter)"
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x538b96ca",
+    "url": "https://warpcast.com/matthew/0x538b96ca",
+    "author_username": "matthew",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 473,
+    "author_pfp": "https://i.imgur.com/uwD4rUh.jpg",
+    "cast_date": "2025-02-06T02:29:56.000Z",
+    "text": "who manages the @farcaster_xyz twitter account?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x01286b63",
+    "url": "https://warpcast.com/dwr.eth/0x01286b63",
+    "author_username": "dwr.eth",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-02-05T20:03:24.000Z",
+    "text": "Our current plan\n\n1. Grow the number of daily active users on Farcaster\n\n2. This benefits creators because they have a larger potential audience\n\n3. This also benefits developers because they have a large potential user base\n\n4. Super joining Warpcast allows us to invest more time on growth (no. 1)\n\n5. Base bringing Farcaster into Coinbase Wallet—an app that has millions of existing users—helps with growth (no. 1)\n\n6. We’re working on several big growth initiatives—both product-led (Woj will be helping with this!) and marketing / sales led (more announcements here soon!)\n\n7. We’re investing more time in outbound messaging. You’ve likely seen our X / Twitter account get more active recently. Will be doing more here as well.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf76932d1",
+    "url": "https://warpcast.com/dwr.eth/0xf76932d1",
+    "author_username": "dwr.eth",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-02-03T19:12:03.000Z",
+    "text": "Two offers accepted today. Accelerate!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/544c135a-a624-4835-468a-d2d61cec7800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 180368,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 500,
+            "height_px": 511
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4e772765",
+    "url": "https://warpcast.com/dwr.eth/0x4e772765",
+    "author_username": "dwr.eth",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-02-05T18:08:18.000Z",
+    "text": "We're beyond excited to have Super / @woj joining Warpcast to help accelerate Farcaster's growth!\n\nWe're playing to win this year.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 680,
+          "hash": "0xf0c8895c20b77f5a5c080e4e48c88c6a28972deb"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf0c8895c20b77f5a5c080e4e48c88c6a28972deb",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 680,
+            "username": "woj",
+            "display_name": "​woj",
+            "pfp_url": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+            "custody_address": "0x0b28a373fc8d92669aefb420499e74ce2dd5d356"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf0c8895c20b77f5a5c080e4e48c88c6a28972deb",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "announcement time: super is joining warpcast\n\nwe are joining forces with @dwr.eth and @v to build farcaster into the most important social network on the planet, together\n\nfarcaster has never been stronger and i’m grateful for everyone who helped us get here\n\nbelow is the story and what is happening next",
+          "timestamp": "2025-02-05T18:04:03.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bfaf7c9a-e064-487d-9a99-2c8663a87c00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 105215,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1558,
+                  "height_px": 876
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf0c8895c",
+    "url": "https://warpcast.com/woj.eth/0xf0c8895c",
+    "author_username": "woj.eth",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2025-02-05T18:04:03.000Z",
+    "text": "announcement time: super is joining warpcast\n\nwe are joining forces with @dwr.eth and @v to build farcaster into the most important social network on the planet, together\n\nfarcaster has never been stronger and i’m grateful for everyone who helped us get here\n\nbelow is the story and what is happening next",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bfaf7c9a-e064-487d-9a99-2c8663a87c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 105215,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1558,
+            "height_px": 876
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x522e2ced",
+    "url": "https://warpcast.com/superanon/0x522e2ced",
+    "author_username": "superanon",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 862100,
+    "author_pfp": "https://supercast.mypinata.cloud/ipfs/QmTEc3VftGvKYtwS6SUzdGYaviqiEcbJjwfwfwyqzogNE3?filename=anon-bw-3.png",
+    "cast_date": "2025-02-05T20:23:16.000Z",
+    "text": "Super is dead, long live Farcaster and Warpcast! 💜",
+    "embeds": [
+      {
+        "url": "https://supercast.mypinata.cloud/ipfs/QmNS4JU3Bynoj65xCq9Ha2tEH6HGTwjRPDkVoJsfRYH3fX?filename=B1563132-0122-4D0B-9507-AF62340173A3.jpeg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 115789,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 587,
+            "height_px": 500
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdcfff2b1",
+    "url": "https://warpcast.com/androidsixteen.eth/0xdcfff2b1",
+    "author_username": "androidsixteen.eth",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 3635,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/68e0858a-bd96-41ab-ca47-3e25868d6a00/rectcrop3",
+    "cast_date": "2025-02-05T18:59:45.000Z",
+    "text": "Ok but nobody is asking the important question \n\nWhat happens to the dog?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9dd1c666-9d53-485b-205c-fcd0fd944d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 32449,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 571,
+            "height_px": 415
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 680,
+          "hash": "0xf0c8895c20b77f5a5c080e4e48c88c6a28972deb"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf0c8895c20b77f5a5c080e4e48c88c6a28972deb",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 680,
+            "username": "woj",
+            "display_name": "​woj",
+            "pfp_url": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+            "custody_address": "0x0b28a373fc8d92669aefb420499e74ce2dd5d356"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf0c8895c20b77f5a5c080e4e48c88c6a28972deb",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "announcement time: super is joining warpcast\n\nwe are joining forces with @dwr.eth and @v to build farcaster into the most important social network on the planet, together\n\nfarcaster has never been stronger and i’m grateful for everyone who helped us get here\n\nbelow is the story and what is happening next",
+          "timestamp": "2025-02-05T18:04:03.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bfaf7c9a-e064-487d-9a99-2c8663a87c00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 105215,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1558,
+                  "height_px": 876
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe49275e9",
+    "url": "https://warpcast.com/woj.eth/0xe49275e9",
+    "author_username": "woj.eth",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2025-02-05T18:04:05.000Z",
+    "text": "what will happen with super?\n\nunfortunately, this means that we will stop the active development — my focus will remain on growing farcaster, but with warpcast\n\ni know many people rely on super in their everyday life and i will do my best to build a smooth transition\n\nso:\n- super stays live for at least the next 3 months\n- all active memberships will be refunded\n- after that, we'll likely open source it and pass the torch to a new maintainer\n\nmore updates on this soon",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf740b279",
+    "url": "https://warpcast.com/jessepollak/0xf740b279",
+    "author_username": "jessepollak",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-02-05T22:49:56.000Z",
+    "text": "hello from coinbase wallet",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5f8e2bbf",
+    "url": "https://warpcast.com/coinbasewallet/0x5f8e2bbf",
+    "author_username": "coinbasewallet",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 309857,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05c00f8a-3374-40b4-249c-7cc70a260500/original",
+    "cast_date": "2025-02-04T17:01:33.000Z",
+    "text": "Let's talk about the future of Coinbase Wallet. ↓",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/0194d1cb-f916-1689-ada7-5c4a383ccce8.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 246.69
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4189dc4b",
+    "url": "https://warpcast.com/seneca/0x4189dc4b",
+    "author_username": "seneca",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 2433,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f8579ffd-e70e-4879-bb19-404f8939c100/rectcrop3",
+    "cast_date": "2025-02-06T02:46:31.000Z",
+    "text": "channels as a core primitive seem less compatible with a more protocol centric, less opinionated farcaster. if cb wallet is a glimpse of the future (many clients across many user flows) channel complexity might not be worth it.\n\nrevealed preferences tell me i use warp more like a regular feed and less like reddit.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3d384eeb",
+    "url": "https://warpcast.com/nounishprof/0x3d384eeb",
+    "author_username": "nounishprof",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-02-06T05:42:29.000Z",
+    "text": "Needed a <30 sec clip for /gmfarcaster so just randomly grabbed this part @adrienne 😉 @cassie 🙌 amazing!",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/0194d9c6-e800-194d-536a-18f261d89c49.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 480,
+                "width_px": 872,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 654,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 436,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 24.89
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 1325,
+          "hash": "0x1f15b5d3e94d8a87265db8e0a664aa2731b6c96a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1f15b5d3e94d8a87265db8e0a664aa2731b6c96a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1325,
+            "username": "cassie",
+            "display_name": "Cassie Heart",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45bf39bb-9508-40de-a224-68811d248900/rectcrop3",
+            "custody_address": "0xd01b7167bb22262554049fb7cb207d3fb16c89bb"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1f15b5d3e94d8a87265db8e0a664aa2731b6c96a",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/farcon-nyc",
+          "root_parent_url": "https://warpcast.com/~/channel/farcon-nyc",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Farcon 2025 | Unofficial Trailer\n\nWhen: May 1-4\nWhere: New York City, NY",
+          "timestamp": "2025-02-06T03:20:06.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.warpcast.com/v1/video/0194d943-73e4-c094-0232-cf09fe17a725.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1080,
+                      "width_px": 1920,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 720,
+                      "width_px": 1280,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 480,
+                      "width_px": 852,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 360,
+                      "width_px": 640,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 240,
+                      "width_px": 426,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 276.595931
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcon-nyc",
+            "name": "FarCon NYC",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a1f4b85c-f424-4f21-35c7-43ecd6934600/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1f15b5d3",
+    "url": "https://warpcast.com/cassie/0x1f15b5d3",
+    "author_username": "cassie",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 1325,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45bf39bb-9508-40de-a224-68811d248900/rectcrop3",
+    "cast_date": "2025-02-06T03:20:06.000Z",
+    "text": "Farcon 2025 | Unofficial Trailer\n\nWhen: May 1-4\nWhere: New York City, NY",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/0194d943-73e4-c094-0232-cf09fe17a725.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 276.595931
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xec3bd904",
+    "url": "https://warpcast.com/esteez.eth/0xec3bd904",
+    "author_username": "esteez.eth",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 17571,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15501d1c-e40f-4303-c8f6-a13b425c8b00/original",
+    "cast_date": "2025-02-06T03:26:52.000Z",
+    "text": "is this the cabal everyone's talking about????",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/346621df-2994-4554-3c09-c74181181f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 134102,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1672,
+            "height_px": 980
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 1325,
+          "hash": "0x1f15b5d3e94d8a87265db8e0a664aa2731b6c96a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1f15b5d3e94d8a87265db8e0a664aa2731b6c96a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1325,
+            "username": "cassie",
+            "display_name": "Cassie Heart",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45bf39bb-9508-40de-a224-68811d248900/rectcrop3",
+            "custody_address": "0xd01b7167bb22262554049fb7cb207d3fb16c89bb"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1f15b5d3e94d8a87265db8e0a664aa2731b6c96a",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/farcon-nyc",
+          "root_parent_url": "https://warpcast.com/~/channel/farcon-nyc",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Farcon 2025 | Unofficial Trailer\n\nWhen: May 1-4\nWhere: New York City, NY",
+          "timestamp": "2025-02-06T03:20:06.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.warpcast.com/v1/video/0194d943-73e4-c094-0232-cf09fe17a725.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1080,
+                      "width_px": 1920,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 720,
+                      "width_px": 1280,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 480,
+                      "width_px": 852,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 360,
+                      "width_px": 640,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 240,
+                      "width_px": 426,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 276.595931
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcon-nyc",
+            "name": "FarCon NYC",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a1f4b85c-f424-4f21-35c7-43ecd6934600/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x610dbf2d",
+    "url": "https://warpcast.com/esteez.eth/0x610dbf2d",
+    "author_username": "esteez.eth",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 17571,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15501d1c-e40f-4303-c8f6-a13b425c8b00/original",
+    "cast_date": "2025-02-05T00:53:19.000Z",
+    "text": "First batch of allowlisted wallets have gone out tonight ✨.  If you were one of them, you should have an email from us with a link to claim. \n\nWe are working very hard to turn applications around as quickly as possible (approving in daily batches), so please don't feel discouraged if you did not receive an email tonight!\n\nOver the next two weeks we are juggling deposits for multiple venues, executing contracts with our vendors, finalizing partnerships and payments with sponsors, and allowlisting attendees on @unlock-protocol across two separate events (Summit and Builders Day). Please be patient with us + (polite request) no DCs asking about status 🙏💜",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3a751772",
+    "url": "https://warpcast.com/esteez.eth/0x3a751772",
+    "author_username": "esteez.eth",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 17571,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15501d1c-e40f-4303-c8f6-a13b425c8b00/original",
+    "cast_date": "2025-02-03T17:01:02.000Z",
+    "text": "🗽 FARCON APPLICATIONS OPEN 🗽 \n\nApply here: https://farcon.deform.cc/apply/\nLearn more about the application process here: https://farcon.nyc/tickets\n\nTLDR: Same process as last year - apply via @deform, get whitelisted to claim on @unlock-protocol. Two tickets this year (Builders Day and Summit). Better to apply sooner than later. Do not need tickets for side events/other social gatherings!\n\nCan't wait to be IRL again in just 3 months!!! ✨ \n\nAny questions go to tickets@farcon.nyc -- not DC please :)",
+    "embeds": [
+      {
+        "url": "https://farcon.deform.cc/apply/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {}
+        }
+      },
+      {
+        "url": "https://farcon.nyc/tickets",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": 16033,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcon.nyc/tickets",
+            "ogType": "website",
+            "favicon": "https://framerusercontent.com/images/N3hYY7YROdHWp1QB1Bme3t9aw.png",
+            "ogImage": [
+              {
+                "url": "https://framerusercontent.com/images/h11bkB3NvpEYvJPJWdaaBBpz4rU.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "FarCon 2025",
+            "ogLocale": "en",
+            "ogDescription": "NYC's coziest corner."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8caa1ffa",
+    "url": "https://warpcast.com/ceej/0x8caa1ffa",
+    "author_username": "ceej",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 292642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d62d96b4-f4b0-4f46-e0b6-1475b6f3ab00/original",
+    "cast_date": "2025-02-04T04:02:08.000Z",
+    "text": "i've played over 600 games of geocrush\n\ni've left people on read with words for days at a time\n\nim the least interesting caster in the bunch but at least i have spunk",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5406,
+          "hash": "0x4ca54c5ce056190577010e19f3dfa3a10ec9dbe1"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4ca54c5ce056190577010e19f3dfa3a10ec9dbe1",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5406,
+            "username": "bradq",
+            "display_name": "bradq",
+            "pfp_url": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+            "custody_address": "0x8c954dbbb315ea039a954467cc43d43de60e9d3f"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4ca54c5ce056190577010e19f3dfa3a10ec9dbe1",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "FARCON Application TIPS \n\n'Builder Credentials' that make you a lock:\n\n1. 'I build community through tipping frames'\n\n2.  'I'm a '2' on the Spam Filter'\n\n3. 'I'm consistently <500 on Rewards out of 10K people\n\nHere to serve. Good luck to all. 🫡",
+          "timestamp": "2025-02-04T00:16:35.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ecba5bad-268a-4e16-49e3-c0dd4660a500/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 466608,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1150,
+                  "height_px": 900
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 17571,
+                "hash": "0x3a751772e640fac07cdaffb65db6e72dbb37a180"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x3a751772e640fac07cdaffb65db6e72dbb37a180",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 17571
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa9c28bf3",
+    "url": "https://warpcast.com/anonpapi.eth/0xa9c28bf3",
+    "author_username": "anonpapi.eth",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 9933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/73624966-027e-43f7-82f9-d7ce481dda00/rectcrop3",
+    "cast_date": "2025-02-05T23:52:19.000Z",
+    "text": "trying on my farcon 2025 swag \n\ncc: @j4ck.eth thx for the heat 🔥",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/0194d887-000b-2e94-f790-9745f0d96204.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1244,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 830,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 622,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 414,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 24.89
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8439991e",
+    "url": "https://warpcast.com/matthew/0x8439991e",
+    "author_username": "matthew",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 473,
+    "author_pfp": "https://i.imgur.com/uwD4rUh.jpg",
+    "cast_date": "2025-02-05T21:07:56.000Z",
+    "text": "GM @mcbain and I wrote up a proposal for the FC meetup at ETHDenver and requested 3 ETH in funds to cover it. I'm including a screenshot of the proposal here but if you own a token would appreciate your vote!\n\nhttps://nouns.build/dao/base/0x8de71d80ee2c4700bc9d4f8031a2504ca93f7088/vote/25?tab=votes",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d45bc715-2ee9-4ccc-cc85-da0119148d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 203426,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1204,
+            "height_px": 1312
+          }
+        }
+      },
+      {
+        "url": "https://nouns.build/dao/base/0x8de71d80ee2c4700bc9d4f8031a2504ca93f7088/vote/25?tab=votes",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {}
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x38357172",
+    "url": "https://warpcast.com/alinaferry/0x38357172",
+    "author_username": "alinaferry",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 282672,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmbLg9mEy628dFJfv6yZRV2fCxsf5yDSmSNtQx1xEShkeT?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-02-06T01:53:38.000Z",
+    "text": "choo choo",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 332141,
+          "hash": "0xb4809c63aec07b91e43ccbefccc13b8f38e393ad"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb4809c63aec07b91e43ccbefccc13b8f38e393ad",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 332141,
+            "username": "anilaferry",
+            "display_name": "Anila Ferry",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ec55e9c3-e199-4776-ba10-ee6b324f9400/rectcrop3",
+            "custody_address": "0xfa3bf792bc6a1046bf653846bbf68ebe56621d35"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 6131,
+            "username": "neynar",
+            "display_name": "Neynar",
+            "pfp_url": "https://i.imgur.com/UjBZ3pV.png",
+            "custody_address": "0xa6a8736f18f383f1cc2d938576933e5ea7df01a1"
+          },
+          "thread_hash": "0xb4809c63aec07b91e43ccbefccc13b8f38e393ad",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "i feel it in my fingers\ni feel it in my toes\nfarcaster’s ‘bout to pop off\nnumber of DAUs grows \n\nhttps://media.tenor.com/qgmHtXOw5G0AAAAC/love-actually-billy-mack",
+          "timestamp": "2025-02-06T01:38:28.000Z",
+          "embeds": [
+            {
+              "url": "https://media.tenor.com/qgmHtXOw5G0AAAAC/love-actually-billy-mack",
+              "metadata": {
+                "content_type": "image/gif",
+                "content_length": 591429,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 408,
+                  "height_px": 214
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xea81673c",
+    "url": "https://warpcast.com/kylepatrick.eth/0xea81673c",
+    "author_username": "kylepatrick.eth",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 247143,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15b35784-d490-4144-15c4-62edc2a58c00/rectcrop3",
+    "cast_date": "2025-02-06T12:21:43.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/950a2cd9-73f2-4be3-7258-6dc2e9e95300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 292851,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 239,
+          "hash": "0xe106d5cbc0707d1e7674f674cd5afdd16032179f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe106d5cbc0707d1e7674f674cd5afdd16032179f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 239,
+            "username": "ted",
+            "display_name": "ted (not lasso)",
+            "pfp_url": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+            "custody_address": "0xc67925418dc80265720244594c632b258a5c78e8"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe106d5cbc0707d1e7674f674cd5afdd16032179f",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "farcaster is about to pop off i feel it",
+          "timestamp": "2025-02-05T22:43:06.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 426,
+                "hash": "0x4c40a6e3760360c61331cde0d8f252ab8da5eb22"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x4c40a6e3760360c61331cde0d8f252ab8da5eb22",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 426
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x734afc1c",
+    "url": "https://warpcast.com/july/0x734afc1c",
+    "author_username": "july",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 1287,
+    "author_pfp": "https://i.seadn.io/gcs/files/ed56e6b9a1b22720ce7490524db333e0.jpg?w=500&auto=format",
+    "cast_date": "2025-02-05T18:02:29.000Z",
+    "text": "Life can be beautiful, and I don’t have the patience for it not to be",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x36ffb470",
+    "url": "https://warpcast.com/nounishprof/0x36ffb470",
+    "author_username": "nounishprof",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-02-05T14:34:34.000Z",
+    "text": "Adding a thread of new Lil Nouners via /gmfarcaster — welcome! ⌐◨-◨\n\nFor anyone who picks up a new Lil Noun, be sure to tag me!\n\nAnd new Lil Nouners — be sure to check out the discord & pop in for happy hour on Thursdays 5 pm ET. https://discord.gg/Gjc2QkuDRm\n\nFirst up — welcome @rubinovitz with a cute gameboy!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7980359d-d57e-4751-ec9d-929eb9934d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 90252,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 1945
+          }
+        }
+      },
+      {
+        "url": "https://discord.gg/Gjc2QkuDRm",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://discord.com/invite/Gjc2QkuDRm",
+            "favicon": "/assets/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://cdn.discordapp.com/splashes/954142017556979752/37d5dfde1c06497efbb695feecf76f3b.jpg?size=512",
+                "type": "image/jpeg",
+                "width": "512",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Join the Lil Nouns Discord Server!",
+            "ogLocale": "en-US",
+            "ogSiteName": "Discord",
+            "ogDescription": "ONE LIL NOUN, EVERY 15 MINUTES, FOREVER | 2927 members",
+            "ogLocaleAlternate": "de"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2fec6ee9",
+    "url": "https://warpcast.com/adrienne/0x2fec6ee9",
+    "author_username": "adrienne",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-02-06T16:22:49.000Z",
+    "text": "How to get a lil noun in under 3 minutes \n\nlil nouns is gm farcaster’s newest premier sponsor and I picked one up live on our show yesterday  🙌 \n\nAppreciate all your views/likes/shares on this video: https://youtube.com/shorts/sgHrLCRbPyg?si=4vralfie-9ODM0np",
+    "embeds": [
+      {
+        "url": "https://youtube.com/shorts/sgHrLCRbPyg?si=4vralfie-9ODM0np",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "undefined",
+            "oembed": {
+              "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/sgHrLCRbPyg?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"how to buy a lil noun in under 3 minutes #lilnouns #nouns #dao\"></iframe>",
+              "type": "video",
+              "title": "how to buy a lil noun in under 3 minutes #lilnouns #nouns #dao",
+              "width": 200,
+              "height": 113,
+              "method": "provider-api",
+              "version": "1.0",
+              "author_url": "https://www.youtube.com/@GMFarcaster",
+              "author_name": "GM Farcaster",
+              "provider_url": "https://www.youtube.com/",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/sgHrLCRbPyg/hqdefault.jpg",
+              "thumbnail_width": 480,
+              "thumbnail_height": 360
+            },
+            "favicon": "https://www.youtube.com/s/desktop/70f744c3/img/logos/favicon.ico",
+            "ogTitle": " - YouTube",
+            "ogLocale": "en",
+            "ogDescription": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x86dafb00",
+    "url": "https://warpcast.com/zinger/0x86dafb00",
+    "author_username": "zinger",
+    "show_date": "2025-02-07",
+    "show_title": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth",
+    "source_episode_id": "pEtw5OqSYTM",
+    "author_fid": 1407,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/def58dd1-1eba-4976-87de-8f6a4767b400/original",
+    "cast_date": "2025-02-06T05:28:39.000Z",
+    "text": "We need more Solana on Farcaster*\n\nIt's tough to realize what an echo chamber it is here until you take a break or are able to burst the bubble and explore on your own\n\nTook me a while to learn but glad that I did\n\n*in addition to Ethereum (and other interesting tech) !",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  }
+]

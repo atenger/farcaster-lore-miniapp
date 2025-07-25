@@ -1,0 +1,1143 @@
+[
+  {
+    "cast_hash": "0xaf118f56",
+    "url": "https://warpcast.com/dwr.eth/0xaf118f56",
+    "author_username": "dwr.eth",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-10-16T01:57:02.000Z",
+    "text": "I hate brand accounts on Twitter. But the brand account interns on Farcaster are awesome.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8f3aedcb",
+    "url": "https://warpcast.com/meonbase/0x8f3aedcb",
+    "author_username": "meonbase",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 490980,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b23c06b3-9d67-4beb-29b3-ce0ceb7a3000/original",
+    "cast_date": "2024-10-15T19:32:03.000Z",
+    "text": "copying these goals and making them my own",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 436577,
+          "hash": "0x2b240524751a05ae1160874e6a6b4b50e4ad441f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x2b240524751a05ae1160874e6a6b4b50e4ad441f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 436577,
+            "username": "kevinmfer",
+            "display_name": "kevin mfer 🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2f873c75-41ae-44d1-0823-a3d1db3de300/original",
+            "custody_address": "0xcba438fdb86fb81d070e5a81cc7858a79211d211"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x2b240524751a05ae1160874e6a6b4b50e4ad441f",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "lock in time now @vitalik.eth",
+          "timestamp": "2024-10-15T18:34:26.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a5f8d92a-e96d-48f6-386f-c8857a18d100/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 502820,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1000,
+                  "height_px": 625
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2b7f9b5d",
+    "url": "https://warpcast.com/v/0x2b7f9b5d",
+    "author_username": "v",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-10-16T18:36:53.000Z",
+    "text": "FIP: Location in user profiles \n\nWe plan to release a new hubble version and broadcast location info on Friday. We need to min versions hubs on Friday to make this work. \n\nIf you have a custom hub setup with auto-upgrades disabled and will not be able to upgrade by Friday, please let us know asap.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe4359965",
+    "url": "https://warpcast.com/horsefacts.eth/0xe4359965",
+    "author_username": "horsefacts.eth",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2024-10-16T19:13:20.000Z",
+    "text": "📣 Draft spec for miniapp transaction requests. Goals are to 1) let composer actions and miniapps request transactions from the user's wallet and 2) keep this as similar to frame transactions as possible. \n\nFeedback is welcome!\n\nhttps://warpcast.notion.site/Draft-Miniapp-Transactions-1216a6c0c10180b7b9f4eec58ec51e55",
+    "embeds": [
+      {
+        "url": "https://warpcast.notion.site/Draft-Miniapp-Transactions-1216a6c0c10180b7b9f4eec58ec51e55",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.notion.site/Miniapp-Transactions-1216a6c0c10180b7b9f4eec58ec51e55",
+            "ogType": "article",
+            "favicon": "https://warpcast.notion.site/image/https%3A%2F%2Fwarpcast.notion.site%2F%E2%9A%A1?table=block&id=1216a6c0-c101-80b7-b9f4-eec58ec51e55&spaceId=1ae150b5-547b-47f9-9f29-638305dbba7a&width=2000&userId=&cache=v2",
+            "ogImage": [
+              {
+                "url": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2F5bd1709a-25b0-4031-a1b4-46773a7dc94e%2FSocialMediaPreviewImage.png?table=block&id=1216a6c0-c101-80b7-b9f4-eec58ec51e55&spaceId=1ae150b5-547b-47f9-9f29-638305dbba7a&width=2000&userId=&cache=v2",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Miniapp Transactions | Notion",
+            "ogLocale": "en_US",
+            "ogSiteName": "warpcast on Notion",
+            "ogDescription": "Problem"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x28142513",
+    "url": "https://warpcast.com/bored/0x28142513",
+    "author_username": "bored",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 3417,
+    "author_pfp": "https://i.imgur.com/UJiQAXu.jpg",
+    "cast_date": "2024-10-16T23:44:38.000Z",
+    "text": "Tons of people are private messaging me asking to become members if /confessions in order to be able to post in the channel. I'm confused, can't anyone post in it now?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4e0e1e65",
+    "url": "https://warpcast.com/cdixon.eth/0x4e0e1e65",
+    "author_username": "cdixon.eth",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 25,
+    "author_pfp": "https://i.imgur.com/ju8z8lD.jpg",
+    "cast_date": "2024-10-16T23:59:41.000Z",
+    "text": "Today we released our latest State of Crypto report.\n\nIt shares insights on key trends — like stablecoins, L2s, and AI — plus, crypto’s rise as a policy issue, new data on builders and users, and more.\n\n7 takeaways from the report:\n\n1. Crypto activity and usage hit all-time highs\n\n2. Crypto has become a key political issue ahead of the U.S. election\n\n3. Stablecoins have found product-market fit\n\n4. Major scaling upgrades have drastically reduced onchain transaction costs\n\n5. DeFi remains popular — and it’s growing\n\n6. Crypto could solve some of AI’s most pressing challenges\n\n7. More scalable infrastructure has unlocked new onchain applications\n\nRead the full report here: https://a16zcrypto.com/posts/article/state-of-crypto-report-2024/",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6a860c04-d7f0-40a0-e0e3-5b27d6270f00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 428263,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1920,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfa456f23",
+    "url": "https://warpcast.com/pfista/0xfa456f23",
+    "author_username": "pfista",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 451,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35ff884b-a727-46ff-9241-5652d35a3100/rectcrop3",
+    "cast_date": "2024-10-16T18:40:56.000Z",
+    "text": "great to see @buoy in the @a16zcrypto state of crypto report\n\nhttps://a16zcrypto.com/posts/article/state-of-crypto-report-2024/",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dffe89ba-f148-4650-da4d-49cd8e493100/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 3477726,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3046,
+            "height_px": 1716
+          }
+        }
+      },
+      {
+        "url": "https://a16zcrypto.com/posts/article/state-of-crypto-report-2024/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 59735,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://a16zcrypto.com/posts/article/state-of-crypto-report-2024/",
+            "ogType": "article",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://api.a16zcrypto.com/wp-content/uploads/2024/10/9-1.png",
+                "type": "image/png",
+                "width": "1920",
+                "height": "1080"
+              }
+            ],
+            "ogTitle": "State of Crypto Report 2024: New data on swing states, stablecoins, AI, builder energy, and more",
+            "ogLocale": "en_US",
+            "ogSiteName": "a16z crypto",
+            "ogDescription": "Our 2024 State of Crypto Report shares new data on crypto’s builders and users, stablecoins, AI, U.S. election swing states, and more."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbfb5c10e",
+    "url": "https://warpcast.com/cojo.eth/0xbfb5c10e",
+    "author_username": "cojo.eth",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 4327,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66013ade-eb0f-4eb9-7d5a-e08f1b9e1c00/original",
+    "cast_date": "2024-10-16T14:39:30.000Z",
+    "text": "NASA just launched the Europa Clipper that will take 5.5 years to reach its target (Jupiter’s orbit). One goal is to spot signs of life on Europa.\n\nBy that time Farcaster will have 600M users and we’ll look back to see who got this right. \n\nhttps://frame.weponder.io/api/polls/23848",
+    "embeds": [
+      {
+        "url": "https://frame.weponder.io/api/polls/23848",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 10704,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://frame.weponder.io/api/polls/23848/img/eyJwb2xsRGF0YSI6eyJpZCI6MjM4NDgsInR5cGUiOiJiYXNpYyIsImNoYW5uZWwiOiJzY2llbmNlIiwiY2FzdEhhc2giOiIweGJmYjVjMTBlNTlhNTA2MTI3MWU1NmUzNTA5MDljYTE4NTI3NzZlMGIiLCJ0ZXh0IjoiV2lsbCBOQVNBIGZpbmQgc2lnbnMgb2YgbGlmZSBvbiBFdXJvcGE_IiwiYXV0aG9yIjp7ImlkIjoxLCJ1dWlkIjoiNjFlMzMxM2EtODUxZS00Y2ZiLWFmODYtMjNmZjI4Y2NkZWQ4IiwiZmlkIjo0MzI3LCJ1c2VybmFtZSI6ImNvam8uZXRoIiwiZGlzcGxheU5hbWUiOiJDb2xpbiBKb2huc29uIPCfkq0iLCJwZnAiOiJodHRwczovL2kuaW1ndXIuY29tLzVrV3pDYUEuanBnIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4ZTk0M2NhODgzZWYzMjk0ZTBmYzU1YTFhMTQ1OTFhYmVhZDFiNTkyNyIsIjB4Y2FhYTI2YzU0OThkZTY3NDY2ZTY4MjNlZjY5NzE4ZmViMDRjMjk1MiJdLCJzcG9uc29yZWRDb3VudCI6NCwic2NvcmUiOjAuMDAwNTQzNTE4MTY2NTIzNDI2OCwic3RhdGlzdGljcyI6eyJhbnN3ZXJzQ291bnQiOjkyLCJ2b3Rlc0NvdW50IjoyMzA3LCJwb2xsc0NvdW50IjozMjEsInF1ZXN0aW9uc0NvdW50Ijo0MX19LCJvcHRpb25zIjpbIlllcyIsIk5vIl0sInN0YXR1cyI6ImNhbGN1bGF0ZWQiLCJjcmVhdGVkQXQiOiIyMDI0LTEwLTE2VDE0OjM0OjQzLjE0MDEwMyswMDowMCIsImV4cGlyZXNBdCI6IjIwMjQtMTAtMTdUMTQ6MzQ6MzkuOTIrMDA6MDAiLCJpc0Fub255bW91cyI6ZmFsc2UsImlzQXJjaGl2ZWQiOmZhbHNlLCJyZXN1bHRzRGF0YSI6W3sib3B0aW9uSWQiOjEsInZvdGVzIjoyOCwidGV4dCI6IlllcyIsInBlcmNlbnRPZlRvdGFsIjo2MiwiZmlsdGVycyI6eyJkZWZhdWx0Ijp7InZvdGVzIjoyOCwicGVyY2VudE9mVG90YWwiOjYyfSwicG93ZXJCYWRnZUZpZCI6eyJ2b3RlcyI6MTksInBlcmNlbnRPZlRvdGFsIjo2MS4yOTAzMjI1ODA2NDUyfSwib2dGaWQiOnsidm90ZXMiOjE2LCJwZXJjZW50T2ZUb3RhbCI6NjR9LCJwb3B1bGFyRmlkIjp7InZvdGVzIjoyMiwicGVyY2VudE9mVG90YWwiOjYyLjg1NzE0Mjg1NzE0Mjl9fX0seyJvcHRpb25JZCI6Miwidm90ZXMiOjE3LCJ0ZXh0IjoiTm8iLCJwZXJjZW50T2ZUb3RhbCI6MzgsImZpbHRlcnMiOnsiZGVmYXVsdCI6eyJ2b3RlcyI6MTcsInBlcmNlbnRPZlRvdGFsIjozOH0sInBvd2VyQmFkZ2VGaWQiOnsidm90ZXMiOjEyLCJwZXJjZW50T2ZUb3RhbCI6MzguNzA5Njc3NDE5MzU0OH0sIm9nRmlkIjp7InZvdGVzIjo5LCJwZXJjZW50T2ZUb3RhbCI6MzZ9LCJwb3B1bGFyRmlkIjp7InZvdGVzIjoxMywicGVyY2VudE9mVG90YWwiOjM3LjE0Mjg1NzE0Mjg1NzF9fX1dLCJ0b3BWb3RlcnMiOlt7ImlkIjoxLCJ1dWlkIjoiNjFlMzMxM2EtODUxZS00Y2ZiLWFmODYtMjNmZjI4Y2NkZWQ4IiwiZmlkIjo0MzI3LCJ1c2VybmFtZSI6ImNvam8uZXRoIiwiZGlzcGxheU5hbWUiOiJDb2xpbiBKb2huc29uIPCfkq0iLCJwZnAiOiJodHRwczovL2kuaW1ndXIuY29tLzVrV3pDYUEuanBnIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4ZTk0M2NhODgzZWYzMjk0ZTBmYzU1YTFhMTQ1OTFhYmVhZDFiNTkyNyIsIjB4Y2FhYTI2YzU0OThkZTY3NDY2ZTY4MjNlZjY5NzE4ZmViMDRjMjk1MiJdLCJzcG9uc29yZWRDb3VudCI6NCwic2NvcmUiOjAuMDAwNTQzNTE4MTY2NTIzNDI2OH0seyJpZCI6MTYsInV1aWQiOiJhZDAyODc4MS0zMjZkLTQxNTctYTMxZC0wYzkyNjlhMTI2ZmUiLCJmaWQiOjU4MTgsInVzZXJuYW1lIjoiYWRyaWVubmUiLCJkaXNwbGF5TmFtZSI6ImFkcmllbm5lIiwicGZwIjoiaHR0cHM6Ly9pbWFnZWRlbGl2ZXJ5Lm5ldC9CWGx1UXg0aWdlOUd1VzBJYTU2Qkh3LzE0OTA3ODIxLTA2ZjEtNGIwYi1mMjhlLTNhNzMzYTA1NGYwMC9vcmlnaW5hbCIsImNvbm5lY3RlZEFkZHJlc3NlcyI6WyIweGFlYTRhMGRlZGI5NGJhNWIyYjhlZDk0NzdhOGE1NDM3OWM1ODQ1NDIiLCIweGIxYjIxODg0YWZlNjU4MWYzYzQ5OTdiMDMyMDQ2NWYxOGU5NjgyYzAiXSwic3BvbnNvcmVkQ291bnQiOjAsInNjb3JlIjowLjAwMDg1MTY5ODU2OTAyMjExOX0seyJpZCI6MjAsInV1aWQiOiJlYmIyM2JmZC1jMjE5LTQxMzktOGY2Zi05ZjNlNDUxNzliZjgiLCJmaWQiOjExODY2LCJ1c2VybmFtZSI6InN5ZG5leWphc29uIiwiZGlzcGxheU5hbWUiOiJTeWRuZXlKYXNvbiIsInBmcCI6Imh0dHBzOi8vaS5pbWd1ci5jb20vWEV3Qkc0ci5qcGciLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHhkOTU4YmJlZmI3NTEzYjA4M2E3NDk2MmU0OWY3NTk3NDVmMzZiMDA4IiwiMHgyMWYyMzFjZThkNWUyYzZlYjBiMGEyNGRmNmNlM2Y0NGE4YTlmYjE1IiwiMHg1ZDg3NWI0YmIwMWM2OTllNmIwYTA1YTI2ZDFkYTFkYjFlMDZjZmQ0Il0sInNwb25zb3JlZENvdW50IjowLCJzY29yZSI6MC4wMDAwNjI3MjE0NTQwMTQ1MzZ9LHsiaWQiOjMwLCJ1dWlkIjoiM2YxYjVmM2YtMDhkYS00ZTRkLWI1NDUtNDgwODMwZGY4YTI5IiwiZmlkIjo0OTkxLCJ1c2VybmFtZSI6Im1hdHRoZXdtb3JlayIsImRpc3BsYXlOYW1lIjoibWF0dCDwn5KtIiwicGZwIjoiaHR0cHM6Ly9pLmltZ3VyLmNvbS9xSzQwYkpkLmpwZyIsImNvbm5lY3RlZEFkZHJlc3NlcyI6WyIweDYxNTk3MjdiZmU0ZTllZDg0NTlkZDA1ZjI0NzQzMmFlN2JlZjQ0ZDUiLCIweDc1MDkxNzVhYTRkYTkxZjRiZGZiMWM1NTA2OTIwZjkwNGUxOGJjOWMiXSwic3BvbnNvcmVkQ291bnQiOjMsInNjb3JlIjowLjAwMDAzMjMzMDg1MjI2MzgzOTkxNX0seyJpZCI6ODQsInV1aWQiOiJlYjQ4NmRmMi1hNzgyLTQxYjctODdjNi01MmQwMjJkN2IyMmYiLCJmaWQiOjQzNzMsInVzZXJuYW1lIjoibWF4cC5ldGgiLCJkaXNwbGF5TmFtZSI6Im1heCIsInBmcCI6Imh0dHBzOi8vaS5zZWFkbi5pby9nYWUvQTEwWWpuTk4tQk1UcGhhaENGeUlHUUQ3ZElaNU8zellLOVNJeVFkOVVKSy1rVno2SUdnTWo4UE5lUE9vVjdLVWRKNW5VX1E2WnlVVU9RZmt3RUNMM29fYTBBczlGLWo3ekU3cUhnP3c9NTAwJmF1dG89Zm9ybWF0IiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4MGEyZjMwMjBkMjY2YTU0ZmE4ZjBmNzJmZDQ0ODk2OWY3NDYwMjIyMiIsIjB4MzY3NjA5NGYwYjIzZDBmNjczMjJjZjc4MDFmYzIwNDU4NGEzYTc4MCJdLCJzcG9uc29yZWRDb3VudCI6MCwic2NvcmUiOjAuMDAwMjIyMzY4OTUxNjU0MDYxNjh9XSwic3RhdGlzdGljcyI6eyJ2b3Rlc0NvdW50Ijo0NSwidm90ZXJzT2dDb3VudCI6MjUsInZvdGVyc09nUGVyY2VudGFnZSI6NTYsInZvdGVyc1Bvd2VyYmFkZ2VDb3VudCI6MzEsInZvdGVyc1Bvd2VyYmFkZ2VQZXJjZW50YWdlIjo2OSwidm90ZXJzR3RlRm9sbG93ZXJzQ291bnQiOjM1LCJ2b3RlcnNHdGVGb2xsb3dlcnNQZXJjZW50YWdlIjo3OCwicmFuayI6MX0sImJvdW50eSI6bnVsbCwiZ2F0aW5nIjpudWxsfX0"
+              }
+            ],
+            "ogTitle": "Will NASA find signs of life on Europa?",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfb6c3aa1",
+    "url": "https://warpcast.com/linda/0xfb6c3aa1",
+    "author_username": "linda",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-10-16T18:56:52.000Z",
+    "text": "We launched 2 new categories on Bountycaster!\n- resumes (bountycaster.xyz/resumes)\n- for sale (bountycaster.xyz/forsale)\n\nThese are similar to our bounties where users can post and connect peer to peer (like Craigslist). Since it's a v1, DM me to get your resume or item up! Feedback welcome as we're iterating quickly",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/71ea5325-764e-4135-2265-93e6eab26e00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 155443,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1422,
+            "height_px": 818
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af7d9169-07d7-4eb0-2be7-013834a9b400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 167430,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1436,
+            "height_px": 874
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xed90e2f2",
+    "url": "https://warpcast.com/unlock-protocol/0xed90e2f2",
+    "author_username": "unlock-protocol",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 378915,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4d1e63e8-9538-4ab7-a415-b0b5ed315400/original",
+    "cast_date": "2024-10-16T15:44:26.000Z",
+    "text": "Unlock Labs has introduced Unlock Prime, a premium membership tier that offers enhanced features and exclusive benefits for creators and communities built with Unlock Protocol. Let's dig in... ✨ /thread",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e755a161-9eed-4da2-8be4-a778f36cd900/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 259949,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3200,
+            "height_px": 1680
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa64a5072",
+    "url": "https://warpcast.com/superanon/0xa64a5072",
+    "author_username": "superanon",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xc6101a56",
+    "url": "https://warpcast.com/burrrrrberry/0xc6101a56",
+    "author_username": "burrrrrberry",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 311933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c38a25a6-f3e3-471c-1d79-af3b60651500/original",
+    "cast_date": "2024-10-18T02:02:04.000Z",
+    "text": "This is my new favorite account on farcaster. \n\nFollow @superanon 🫡\n\nAll of the casts are anonymous from @super 🔥\n\nAlso:  a dating app on here would be horrible.  We're down to like 50 active users.  It'd be worse than dating in the workplace 💀",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 862100,
+          "hash": "0xfa5e2a06768ba2d8c92c2560af8076a67d761b32"
+        },
+        "cast": {}
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x01c5aec0",
+    "url": "https://warpcast.com/ted/0x01c5aec0",
+    "author_username": "ted",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-10-15T20:31:56.000Z",
+    "text": "i am pulling a @keccers.eth and today i can feel the dangerous dark downward doomerism spiral start to take hold of me\n\nplease help me stop this blackpill moment please share something that makes you excited about the future please please please",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5b43858c",
+    "url": "https://warpcast.com/nounishprof/0x5b43858c",
+    "author_username": "nounishprof",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-10-16T14:03:55.000Z",
+    "text": "This might be the cutest animal ever! TIL about the “lesser panda” from a shitpost 🤣",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 8004,
+          "hash": "0x0dc2225e21559f63041f240884d8e171ff4fceae"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0dc2225e21559f63041f240884d8e171ff4fceae",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 8004,
+            "username": "ahn.eth",
+            "display_name": "justin.ahn.eth",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cca05e9f-4f52-45c9-ebdb-c60ec8f93d00/rectcrop3",
+            "custody_address": "0x7d330a7be9e6ab47cf24f60f546537aba6bc17a8"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0dc2225e21559f63041f240884d8e171ff4fceae",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/justinahn",
+          "root_parent_url": "https://warpcast.com/~/channel/justinahn",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "me, whenver i dca a little here and a little there into eth",
+          "timestamp": "2024-10-16T09:59:59.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.warpcast.com/v1/video/5f8604b6fdaefdd08d11d868ec612219.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "codec_name": "h264",
+                      "height_px": 424,
+                      "width_px": 240
+                    }
+                  ],
+                  "duration_s": 10.6
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "justinahn",
+            "name": "justinahn",
+            "image_url": "https://i.imgur.com/n2YEWKR.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0dc2225e",
+    "url": "https://warpcast.com/ahn.eth/0x0dc2225e",
+    "author_username": "ahn.eth",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 8004,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cca05e9f-4f52-45c9-ebdb-c60ec8f93d00/rectcrop3",
+    "cast_date": "2024-10-16T09:59:59.000Z",
+    "text": "me, whenver i dca a little here and a little there into eth",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/5f8604b6fdaefdd08d11d868ec612219.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "codec_name": "h264",
+                "height_px": 424,
+                "width_px": 240
+              }
+            ],
+            "duration_s": 10.6
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5caddc91",
+    "url": "https://warpcast.com/matthewfox/0x5caddc91",
+    "author_username": "matthewfox",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 4282,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af861e5b-616c-48e8-6531-3547e7686e00/original",
+    "cast_date": "2024-10-18T02:17:40.000Z",
+    "text": "Question 10, 25M $Based on the line \n\nYou won't believe what happened next",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/5554624c92d33ec3ac7873d85e01095a.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 69.397983
+          }
+        }
+      },
+      {
+        "url": "https://www.fctrivia.xyz/api/frame/prize?fid=4282&prize=171024",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {}
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9820379d",
+    "url": "https://warpcast.com/jacek/0x9820379d",
+    "author_username": "jacek",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 15983,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+    "cast_date": "2024-10-17T21:05:36.000Z",
+    "text": "EthOS is taking being a degen to the next level with their new phone, the dGEN1, and you can grab it using $DEGEN! Just locked in my preorder. Shoutout to the team for going all-in on a crypto-first phone. Can’t wait to check out all the features! @markus @ethos",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2904,
+          "hash": "0xfaa8a956de6e02c1657aacf6d90f809b12b704a2"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xfaa8a956de6e02c1657aacf6d90f809b12b704a2",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2904,
+            "username": "wake",
+            "display_name": "wake",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/abe9a136-0384-4ad3-62a2-97d1fb11e900/original",
+            "custody_address": "0x4f09bcbc633fac4ed1821119641c133d815888f5"
+          },
+          "app": null,
+          "thread_hash": "0xfaa8a956de6e02c1657aacf6d90f809b12b704a2",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "✅ it comes with a LASER\n✅ you can pay in $DEGEN",
+          "timestamp": "2024-10-17T20:13:30.000Z",
+          "embeds": [
+            {
+              "url": "https://cdn.recaster.org/cast/8eefe880-6715-4e06-98f4-cc9d3a4fb781.png",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 153341,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1000,
+                  "height_px": 1000
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "degen",
+            "name": "Degen",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xeea4e880",
+    "url": "https://warpcast.com/yes2crypto.eth/0xeea4e880",
+    "author_username": "yes2crypto.eth",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 214447,
+    "author_pfp": "https://i.imgur.com/dBoVmnG.jpg",
+    "cast_date": "2024-10-18T13:28:56.000Z",
+    "text": "I wonder if @nounishprof  is going to do her normal “mint three“ on this\n\nOne to give away \nOne to sell\nOne to keep crypto on",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6579f73c",
+    "url": "https://warpcast.com/metacade/0x6579f73c",
+    "author_username": "metacade",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 310831,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/73209b45-3864-46b2-d743-0e662a7a3200/original",
+    "cast_date": "2024-10-17T15:32:41.000Z",
+    "text": "🚨 BIG ANNOUNCEMENT! 🚨\nWe’ve teamed up with /okbanger to host an epic community tournament! Introducing… PET HOP! 🐰💥\nCan you guide the bunny safely across the road? Or will it end up... roadkill? 😱\n\n💸 100 USDC prize pool, split across the top 3 scores!\nThink you’ve got what it takes to win?\n\n🏁 How to Play:\n1️⃣ Sign up here: https://tournaments.metacade.co\n2️⃣ Create your smart wallet\n3️⃣ BONUS: All Okbanger listeners get 2 FREE credits to play! Just drop your smart wallet address below! 👇👇\n\n🎮 Free play is available for practice, but only credit scores count towards the leaderboard! So get your practice in before you go for the win!\n\n🐰 Happy hopping and may the best bunny guide win! 🏆",
+    "embeds": [
+      {
+        "url": "https://supercast.mypinata.cloud/ipfs/QmZCtVp63XZXHud82zwpMd3JvNJSF8Gu9jn9AKwUzPzBHZ?filename=CLEAN-MCADE-GAMES-PET-HOP-ANIMATED-COVER.gif",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 6560797,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 540,
+            "height_px": 540
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x75abda3b",
+    "url": "https://warpcast.com/macbudkowski/0x75abda3b",
+    "author_username": "macbudkowski",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 1048,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a43231ca-1d8d-4563-c9b3-6a8e934c2a00/original",
+    "cast_date": "2024-10-17T15:21:52.000Z",
+    "text": "btw GM Farcaster got some love today on Kiwi, there are even rumors about @nounishprof previous career 👀",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ef767466-3fc7-440a-c5da-eea66ce76f00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 250264,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1182,
+            "height_px": 1226
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcc5b43f4",
+    "url": "https://warpcast.com/dawufi/0xcc5b43f4",
+    "author_username": "dawufi",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 6806,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/406101e5-2c23-4890-e6c9-26fc2dc03600/original",
+    "cast_date": "2024-10-17T20:24:43.000Z",
+    "text": "very delayed, but very excited to publish the vibe check with @adrienne and @nounishprof we did for their 1 year anniversary :)\n\nhttps://pods.media/vibe-check/vibe-check-12-nounishprof-and-adrienne-gmfarcaster\n\ntransparently, i've been struggling with vibe check.  With FC growing and cozy corners proliferating, my original idea for an FC coded GTM podcast doesn't seem to make sense anymore.  So officially, the pod will go on hiatus while I decide the new direction.\n\ni have the deepest appreciation and gratitude to all my guests who've come on so far, and excited to see what I can dream up as the next iteration/season 2 of the pod.  Definitely more to come - eventually :)\n\nthanks again to the /gmfarcaster hosts for coming on the show with me, I can think of a better way to cap off the first season of this experiment. We'll be back better than ever with some new ideas once I feel confident that they're ready to be tested in the wild\n\nwuf out <3",
+    "embeds": [
+      {
+        "url": "https://pods.media/vibe-check/vibe-check-12-nounishprof-and-adrienne-gmfarcaster",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://pods.media/vibe-check/vibe-check-12-nounishprof-and-adrienne-gmfarcaster",
+            "favicon": "/icon.svg?0e6eb4a8ea10ec02",
+            "ogAudio": "https://gateway.irys.xyz/J9AIPM1rnl---fadyRGSPfHpDEtI-FjtDKhcYhsC5Co/VWTrWQhoOw0bHwmnk60ycz5i67xgY55OerffpHZrMsI.mp3",
+            "ogImage": [
+              {
+                "alt": "vibe check 12 - @nounishprof and @adrienne - /gmfarcaster Cover Art",
+                "url": "https://pods.media/api/og/frame/vibe-check/vibe-check-12-nounishprof-and-adrienne-gmfarcaster"
+              }
+            ],
+            "ogTitle": "vibe check 12 - @nounishprof and @adrienne - /gmfarcaster",
+            "ogLocale": "en",
+            "ogSiteName": "pods.media",
+            "ogDescription": "Collect this episode to support Vibe Check and secure your spot on the leaderboard!",
+            "fcFrame": {
+              "button": {
+                "title": "View Episode",
+                "action": {
+                  "url": "https://pods.media/vibe-check/vibe-check-12-nounishprof-and-adrienne-gmfarcaster",
+                  "name": "View Episode",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://pods.media/icon.svg",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://pods.media/api/framesV2/og/vibe-check/vibe-check-12-nounishprof-and-adrienne-gmfarcaster"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "View Episode",
+            "image": "https://pods.media/api/framesV2/og/vibe-check/vibe-check-12-nounishprof-and-adrienne-gmfarcaster",
+            "frames_url": "https://pods.media/vibe-check/vibe-check-12-nounishprof-and-adrienne-gmfarcaster",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 13875,
+              "username": "pods",
+              "display_name": "pods.media",
+              "pfp_url": "https://i.imgur.com/9S7gylW.jpg",
+              "custody_address": "0x162a557e0f569e0ae4a5a28fb666473d2bb0b7e6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEzODc1LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MTYyQTU1N0UwZjU2OWUwQUU0QTVhMjhGQjY2NjQ3M2QyYkIwYjdFNiJ9",
+                "payload": "eyJkb21haW4iOiJwb2RzLm1lZGlhIn0",
+                "signature": "MHg0NjYzNGEyMzhiZTJjODMwMGZkOTY0MDhmYjk3Zjg2ODNjYjUyNGYzYTc0MmY1MGJiZGU4ZmFhMWVkNWEwNDQxMzBmOTJhNjU3MTQ3ODY0NmE2NTY1YmQwMjkxMzc2NjZjYWVhYjMxYjg2YTAwYjMxNWNiYmQ5NGVhYTQ2ZDA0NTFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Pods",
+                "home_url": "https://pods.media",
+                "icon_url": "https://pods.media/assets/outline-fill.png",
+                "splash_image_url": "https://pods.media/icon.svg",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://pods.media/api/framesV2/webhook",
+                "subtitle": "Collect conversations.",
+                "description": "Pods connects podcast creators with their biggest fans.",
+                "primary_category": "entertainment",
+                "tags": [
+                  "podcast",
+                  "media",
+                  "content",
+                  "social"
+                ],
+                "hero_image_url": "https://pods.media/brand/open-graph.png",
+                "tagline": "Collect conversations.",
+                "og_title": "Pods",
+                "og_description": "Pods connects podcast creators with their biggest fans.",
+                "og_image_url": "https://pods.media/brand/open-graph.png"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Pods",
+                "home_url": "https://pods.media",
+                "icon_url": "https://pods.media/assets/outline-fill.png",
+                "splash_image_url": "https://pods.media/icon.svg",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://pods.media/api/framesV2/webhook",
+                "subtitle": "Collect conversations.",
+                "description": "Pods connects podcast creators with their biggest fans.",
+                "primary_category": "entertainment",
+                "tags": [
+                  "podcast",
+                  "media",
+                  "content",
+                  "social"
+                ],
+                "hero_image_url": "https://pods.media/brand/open-graph.png",
+                "tagline": "Collect conversations.",
+                "og_title": "Pods",
+                "og_description": "Pods connects podcast creators with their biggest fans.",
+                "og_image_url": "https://pods.media/brand/open-graph.png"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x707b3f8d",
+    "url": "https://warpcast.com/jacy/0x707b3f8d",
+    "author_username": "jacy",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 2982,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63552b96-faf4-4480-7775-a93631aaa100/original",
+    "cast_date": "2024-10-17T02:19:54.000Z",
+    "text": "bringing good vibes back to the timeline. 🌈",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c01b329a-c710-46ac-9501-3113fa50e700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 652707,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3200,
+            "height_px": 1728
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x28783c8e",
+    "url": "https://warpcast.com/jacy/0x28783c8e",
+    "author_username": "jacy",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 2982,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63552b96-faf4-4480-7775-a93631aaa100/original",
+    "cast_date": "2024-10-16T18:36:12.000Z",
+    "text": "look ma, i made it!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f8bb5097-8a21-4241-38bf-0b4792464200/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 37927,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 487,
+            "height_px": 279
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x377bbd8a",
+    "url": "https://warpcast.com/betashop.eth/0x377bbd8a",
+    "author_username": "betashop.eth",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 602,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5e14f7a-a60d-4aeb-3496-55305ecdd500/original",
+    "cast_date": "2024-10-16T18:58:16.000Z",
+    "text": "users who earned more than 100,000 MOXIE (~$250) lifetime are now receiving this DC from @airstack.eth \n\nOnce received, your earnings will be automatically paused until you schedule your Fan Token launch, so that the community can win with you. \n\nWe feel like $250 of free rewards is a fair and generous amount before requiring users to participate with their own FT's\n\nOther notes:\n1. Once you schedule your FT launch, your earnings start back up again\n2. You can still claim past rewards and airdrops without a fan token. We are not taking away anything from anyone that was already given.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1a0cd63f-29f6-46d2-0bb7-1befb2cf8f00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 1334303,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1130,
+            "height_px": 1526
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3e040e97",
+    "url": "https://warpcast.com/nounishprof/0x3e040e97",
+    "author_username": "nounishprof",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-10-17T00:27:25.000Z",
+    "text": "So let me preface this with \"your coin; your rules\" so this all certainly your call @betashop.eth re: /moxie but this seems a bit hasty. I've found that carrots tend to work better than sticks. \n\nSo regarding this \"we feel that $250 in rewards is a generous amount after which to require everyone to play in the system in order to continue earning,\" which on its face isn't unreasonable except some people have actually put in funds to support the experiment but are likely being swept up into this. \n\nNo idea where I am in regards to rewards and haven't received this notice yet BUT I couldn't actually claim my airdrop when moxie first launched so I put in 1 eth of my own funds so that I could support the project and buy some fan tokens etc. \n\n(continued in replies)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 602,
+          "hash": "0x377bbd8aa711633b241983c15641c799a415638b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x377bbd8aa711633b241983c15641c799a415638b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 602,
+            "username": "betashop.eth",
+            "display_name": "Jason Goldberg",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5e14f7a-a60d-4aeb-3496-55305ecdd500/original",
+            "custody_address": "0x66bd69c7064d35d146ca78e6b186e57679fba249"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x377bbd8aa711633b241983c15641c799a415638b",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/airstack",
+          "root_parent_url": "https://warpcast.com/~/channel/airstack",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "users who earned more than 100,000 MOXIE (~$250) lifetime are now receiving this DC from @airstack.eth \n\nOnce received, your earnings will be automatically paused until you schedule your Fan Token launch, so that the community can win with you. \n\nWe feel like $250 of free rewards is a fair and generous amount before requiring users to participate with their own FT's\n\nOther notes:\n1. Once you schedule your FT launch, your earnings start back up again\n2. You can still claim past rewards and airdrops without a fan token. We are not taking away anything from anyone that was already given.",
+          "timestamp": "2024-10-16T18:58:16.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1a0cd63f-29f6-46d2-0bb7-1befb2cf8f00/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 1334303,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1130,
+                  "height_px": 1526
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "airstack",
+            "name": "Moxie Official",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2c2fd4f3-c6ab-4298-bd58-df843114cd00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8e3a8298",
+    "url": "https://warpcast.com/burrrrrberry/0x8e3a8298",
+    "author_username": "burrrrrberry",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 311933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c38a25a6-f3e3-471c-1d79-af3b60651500/original",
+    "cast_date": "2024-10-10T23:06:39.000Z",
+    "text": "10/10\n\n#1 - NL sngo\nPasscode:  gmfrens\n\n#2 - PLO sngo\nPasscode:  gmfrens\n\nIf you see a tournament in the lobby use passcode:  gmfrens\n\nAll the passcodes will be the same today. \n\nPRIZES\n🥇 - 3000 hams\n🥈 - 2000 hams\n\nlil burr bonus:  hold 1 burr token and win this tournament and win entry into the tournament of champions on 10/13\n\nMEDIUM BURR BONUS:  hold 5 burr tokens and win this tournament and add 500 moxie to your win 🔥",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ef689ccf-501f-40da-3e14-c76108fa3000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 89273,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1079,
+            "height_px": 494
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb4c791fb",
+    "url": "https://warpcast.com/burrrrrberry/0xb4c791fb",
+    "author_username": "burrrrrberry",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 311933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c38a25a6-f3e3-471c-1d79-af3b60651500/original",
+    "cast_date": "2024-10-14T18:54:16.000Z",
+    "text": "I have been forcing ham onto Burr Frens from day 1.\n\nMany Burr Frens didn't have ham allowances or know how to use it.  But they learned because they won it from poker.\n\nStick with Burr Frens, where you'll be forced into opportunity whether you want it or not 🫡🔥🫂🤍",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e32542a0-74dc-49ae-f663-b27ce84caa00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 177547,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 2184
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x030b2786",
+    "url": "https://warpcast.com/nounishprof/0x030b2786",
+    "author_username": "nounishprof",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-10-04T01:07:30.000Z",
+    "text": "If you can't make it to an IRL option for /farcasterfridays come hang URL for Farcaster Fridays poker! ♥️ ♣️ ♦️ ♠️ \n\n@burrrrrberry and I will be hosting 8 other farcasters at 7 pm ET and will be streaming the game for your viewing pleasure! RSVP in the frame below for the link to view -- click \"Request to join\" for the info. @toadyhawk.eth, @jacy and a few other players TBA will be joining us for a chance to win 10k degen! 🎩 \n\nhttps://events.xyz/events/3439bd38",
+    "embeds": [
+      {
+        "url": "https://events.xyz/events/3439bd38",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/api/frames/events/3439bd38/img/no_rsvp"
+              }
+            ],
+            "ogTitle": "URL | Farcaster Friday",
+            "ogLocale": "en",
+            "ogDescription": "FB Events for Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xff3db57d",
+    "url": "https://warpcast.com/burrrrrberry/0xff3db57d",
+    "author_username": "burrrrrberry",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 311933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c38a25a6-f3e3-471c-1d79-af3b60651500/original",
+    "cast_date": "2024-10-14T00:05:07.000Z",
+    "text": "We love to see people having a wonderful experience in Burr Frens\n\nThanks for the vote of confidence @yes2crypto.eth and thank you for introducing me to such a lovely human in @kingten.\n\nI just know she and I are going to be fast friends 🫂🤍🫡",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 214447,
+          "hash": "0x6e035a1b8f38e8ec34e6b1b2b5425a7a9c5bff7f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x6e035a1b8f38e8ec34e6b1b2b5425a7a9c5bff7f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 214447,
+            "username": "yes2crypto.eth",
+            "display_name": "YES2Crypto 🎩 🟪🟡",
+            "pfp_url": "https://i.imgur.com/dBoVmnG.jpg",
+            "custody_address": "0xb1f55f9b6adf2dbe565385f59f7d2c5e58730340"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x6e035a1b8f38e8ec34e6b1b2b5425a7a9c5bff7f",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/airstack",
+          "root_parent_url": "https://warpcast.com/~/channel/airstack",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Played my first poker tournament hosted by this lady. \n\nEnjoyed it and will be back\n\nI just bought @burrrrrberry's Fan Tokens powered by @moxie.eth cc @betashop.eth @airstack.eth",
+          "timestamp": "2024-10-14T00:03:48.000Z",
+          "embeds": [
+            {
+              "url": "https://moxie-frames.airstack.xyz/stim?t=fid_311933&u=214447&c=20",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://moxie-frames.airstack.xyz/stim/image?t=fid_311933&c=20&u=214447&q="
+                    }
+                  ],
+                  "ogTitle": "Moxie Single Fan Token in Market Frame",
+                  "ogLocale": "en",
+                  "ogDescription": "Farcaster Frame for Single Fan Token in Market"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "airstack",
+            "name": "Moxie Official",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2c2fd4f3-c6ab-4298-bd58-df843114cd00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3a45f167",
+    "url": "https://warpcast.com/burrrrrberry/0x3a45f167",
+    "author_username": "burrrrrberry",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 311933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c38a25a6-f3e3-471c-1d79-af3b60651500/original",
+    "cast_date": "2024-10-12T16:15:09.000Z",
+    "text": "Today, we will have another \"GM Farcaster bonus\"\n\nShow a screenshot proving that you are a subscriber of the YouTube channel \"GM Farcaster\" with @nounishprof and @adrienne and win an ADDITIONAL 500 DEGEN today if you also WIN a Burr Frens Tournament.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3f864986-71be-4889-31fc-0352edb24700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 121917,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1336
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5af747fa",
+    "url": "https://warpcast.com/aviationdoctor.eth/0x5af747fa",
+    "author_username": "aviationdoctor.eth",
+    "show_date": "2024-10-18",
+    "show_title": "GM Farcaster ep170 Friday October 18, 2024 with guest @burrrrrberry",
+    "source_episode_id": "42pSYfDKMTU",
+    "author_fid": 7237,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5e8ddd60-c492-453f-3708-d6ef258b7300/original",
+    "cast_date": "2024-10-18T13:13:17.000Z",
+    "text": "1/ There is a famous investment truism that every day that you don’t sell is a day that you buy. As an early adopter, long-time hodler, and solo staker of ETH, I often remind myself that by not selling, I am constantly reinvesting in ETH. And in doing so, I keep examining my alignment with the Ethereum vision. A personal 🧵:",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  }
+]

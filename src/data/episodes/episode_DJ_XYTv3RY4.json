@@ -1,0 +1,847 @@
+[
+  {
+    "cast_hash": "0xb04075cf",
+    "url": "https://warpcast.com/dwr.eth/0xb04075cf",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-27T19:09:59.000Z",
+    "text": "Observations about channel changes a few days in\n\n- People seem to be happy with Main feeds\n- People don't like Recent since it's unfiltered and spammy\n- Can't use hide since it doesn't scale in decentralized protocol\n- If you filter recent, people complain of \"shadow banning\"",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xca4d0edc",
+    "url": "https://warpcast.com/dwr.eth/0xca4d0edc",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-27T20:18:15.000Z",
+    "text": "The fundamental challenge with building decentralized products\n\nHide is really useful, but doesn't work if you are building a decentralized version of channels.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2788,
+          "hash": "0xf37f70b171d900eeab3c9ab0287e49df5de1afdd"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf37f70b171d900eeab3c9ab0287e49df5de1afdd",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2788,
+            "username": "lsn",
+            "display_name": "Leo",
+            "pfp_url": "https://lh3.googleusercontent.com/IgpU2x49r71R1zYG3JnOYaWDewK-VMyzCl53QLRbMoE1CuYZSpnXmXqZI_II5aDI28rW0PmX8iemPVJHnpMd_M6bqfoYLKg62tMdzA",
+            "custody_address": "0x81531e9afddd8b1c8c5e54a379afccbfc9f77206"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb04075cfa1697e9fc8b81d9aebc5fc9b319c3a78",
+          "parent_hash": "0xb04075cfa1697e9fc8b81d9aebc5fc9b319c3a78",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 3
+          },
+          "text": "Hide doesn’t need to scale. It is useful as a manual tool when auto mod tools don’t work as expected\n\nPls bring it back, even if only at the client level",
+          "timestamp": "2024-05-27T20:12:20.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1a998027",
+    "url": "https://warpcast.com/dwr.eth/0x1a998027",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-24T15:44:11.000Z",
+    "text": "Will repeat a dozen more times.\n\n1. Hide / Ban is deprecated\n\n2. Main feed is either unmoderated (and then Warpcast shows Priority mode) or moderated — and then you have 100% control of what appears in the feed based on the moderator's likes\n\n3. Recent is an unfiltered protocol view. We may adjust this feed soon.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 230781,
+          "hash": "0x5bd1a547f2a40bf16eb9123462853a7cee66e29b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5bd1a547f2a40bf16eb9123462853a7cee66e29b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 230781,
+            "username": "herin",
+            "display_name": "herin 🫡🎩",
+            "pfp_url": "https://i.imgur.com/iu9rRRQ.jpg",
+            "custody_address": "0xf1585f6e14dcb88ebd78654cf847be93d66f7053"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4ef985e054a5a6cdbf1a5dbff8323ea177999f59",
+          "parent_hash": "0x4ef985e054a5a6cdbf1a5dbff8323ea177999f59",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 3
+          },
+          "text": "Did the “hide and ban” get removed? I’m only seeing mute and report now 😢",
+          "timestamp": "2024-05-24T15:40:36.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7e7b7196",
+    "url": "https://warpcast.com/dwr.eth/0x7e7b7196",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-23T19:16:51.000Z",
+    "text": "Why did you get rid of hide and ban? How can I \"clean up\" the recent feed on my channel?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/312fa993-a828-4c05-ae4a-cd64e0e83f00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 102979,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1114,
+            "height_px": 550
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x26471415",
+    "url": "https://warpcast.com/dwr.eth/0x26471415",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-23T17:38:18.000Z",
+    "text": "How do I turn on moderation for my channel?\n\n1. Web only to start\n2. Edit channel / Pencil button\n3. Configure moderation\n4. Choose your moderator\n\nNote: when you turn on moderation, the channel will appear as a single feed with no filtering for a few minutes while we generate the new main feed.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5870870b-105d-4f3d-9ae4-d675fa0c3300/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 119081,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 880,
+            "height_px": 976
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4acb1a63-d2d5-4100-8430-23a0facc4600/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 84749,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 882,
+            "height_px": 502
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xeb283fb5",
+    "url": "https://warpcast.com/dwr.eth/0xeb283fb5",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-24T16:25:46.000Z",
+    "text": "Opportunities for developers building on channels",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dba24d55-3faf-46f6-51d9-2909c5705800/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 181338,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1106,
+            "height_px": 920
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4ef985e0",
+    "url": "https://warpcast.com/dwr.eth/0x4ef985e0",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-23T20:40:40.000Z",
+    "text": "If you're a channel host struggling with how to set up moderation and a tool like @automod or @airstack.eth, feel free to reply to this cast.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x62e66567",
+    "url": "https://warpcast.com/adrienne/0x62e66567",
+    "author_username": "adrienne",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-05-25T23:22:21.000Z",
+    "text": "many such cases 😩 \n\nfear not, people are mostly being patient and understanding during this first change to channels.  channel hosting is going from moderation to curation. \n@nounishprof and I are going to cover channel curation options on our show Tuesday with guests from airstack, hypersub and more",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4996,
+          "hash": "0xa51bc77a7a8828a6a4bd5bcbf094f8dd43439cde"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa51bc77a7a8828a6a4bd5bcbf094f8dd43439cde",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4996,
+            "username": "nixo",
+            "display_name": "nixo",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e842318f-321d-45fc-4cec-202d219bd400/original",
+            "custody_address": "0x52a206b4b5dd4f7c5b92f7d6d62c2b49accc2c40"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa51bc77a7a8828a6a4bd5bcbf094f8dd43439cde",
+          "parent_hash": null,
+          "parent_url": "https://ethstaker.cc",
+          "root_parent_url": "https://ethstaker.cc",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "i no longer know how to moderate farcaster channels. I'm trying to hide things in ethstaker with the new automod bot system but they don't seem to actually be hidden. apologies for the current spam! i need to figure out this new flow",
+          "timestamp": "2024-05-25T23:15:00.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "eth-staker",
+            "name": "EthStaker",
+            "image_url": "https://warpcast.com/~/channel-images/eth-staker.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x73a62362",
+    "url": "https://warpcast.com/ispeaknerd.eth/0x73a62362",
+    "author_username": "ispeaknerd.eth",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 9391,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/23352b99-3a86-437c-43e1-0852239ea000/original",
+    "cast_date": "2024-05-27T10:25:29.000Z",
+    "text": "Channel curation is underway, check out some of the channel experiments from @nonlinear.eth @ccarella.eth and me.\n\nFeaturing info on moderation abstraction and mod bots like @automod\nby @jtgi and Airstack from @betashop.eth\n\nhttps://paragraph.xyz/@ispeaknerd.eth/curating-chaotic-channels",
+    "embeds": [
+      {
+        "url": "https://paragraph.xyz/@ispeaknerd.eth/curating-chaotic-channels",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2024-05-27T16:29:12.001Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/cc7813e78c064e45d95d46369f319cca",
+            "ogImage": [
+              {
+                "alt": "Curating Chaotic Channels",
+                "url": "https://storage.googleapis.com/papyrus_images/52f5f1f91bb1dc4015c47d84e58567a8.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Curating Chaotic Channels",
+            "ogLocale": "en",
+            "ogDescription": "Moderation changes for Farcaster on the road to decentralization and how channel owners are curating the chaos...",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@ispeaknerd.eth/curating-chaotic-channels?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Curating%20Chaotic%20Channels&blogName=0xNerdery&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fcc7813e78c064e45d95d46369f319cca&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F52f5f1f91bb1dc4015c47d84e58567a8.jpg&size=2048&publishedDate=1716827352001"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Curating%20Chaotic%20Channels&blogName=0xNerdery&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fcc7813e78c064e45d95d46369f319cca&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F52f5f1f91bb1dc4015c47d84e58567a8.jpg&size=2048&publishedDate=1716827352001",
+            "frames_url": "https://paragraph.xyz/@ispeaknerd.eth/curating-chaotic-channels",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGgueHl6In0",
+                "signature": "MHg5YmQ4MDcxNmVmNjIwZTFjM2UwZDkzMzQ5ZDNlNTU5N2MzYmU3NzQ2MDJmYTliZmE1Zjg2Mzk3Y2QxZTk4MGExM2RmNDVmMDM2ODE5Y2FhZmZiZmE5MTMxN2U3MGRlYWRlYTI2YWUzMTA2N2I1NDNiMTFkZDI3ODk3NzQ3ZWI5YjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe0c66f1e",
+    "url": "https://warpcast.com/jtgi/0xe0c66f1e",
+    "author_username": "jtgi",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 5179,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/484f9558-8a25-4df6-cd96-623c8fe59f00/original",
+    "cast_date": "2024-05-24T03:52:08.000Z",
+    "text": "\"Can I create a team of curators with automod?\"\n\nYes. You can give anyone with a fid the ability to curate posts into Main.\nAdd them as a Moderator in /automod and have them install the cast action below.\n\nNext week, you'll have the option to make it automatic from likes.\nhttps://automod.sh/install/like",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5179,
+          "hash": "0x1c63cdc8e4110ad7a3f4e6755b13fb537c18511b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1c63cdc8e4110ad7a3f4e6755b13fb537c18511b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5179,
+            "username": "jtgi",
+            "display_name": "jtgi",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/484f9558-8a25-4df6-cd96-623c8fe59f00/original",
+            "custody_address": "0x0d7167cae793b341428a3444d092d29618bf81c3"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1c63cdc8e4110ad7a3f4e6755b13fb537c18511b",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/automod",
+          "root_parent_url": "https://warpcast.com/~/channel/automod",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "You can mix manual and automatic moderation with automod.\n\nExample:\n- Baseline filters on token holders or power badges.\n- Hand curate individual casts or add users to an allowlist.\n\nAll directly in feed with cast actions.\n\nhttps://automod.sh/install/addToBypass\nhttps://automod.sh/install/like",
+          "timestamp": "2024-05-24T03:32:19.000Z",
+          "embeds": [
+            {
+              "url": "https://automod.sh/install/addToBypass",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogImage": [
+                    {
+                      "url": "https://automod.sh/actions/bypass.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Automod | Install Bypass",
+                  "ogDescription": "Always curate casts from this user"
+                }
+              }
+            },
+            {
+              "url": "https://automod.sh/install/like",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogImage": [
+                    {
+                      "url": "https://automod.sh/actions/curate.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Automod | Install Curate",
+                  "ogDescription": "Curate a cast into the Main feed."
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "automod",
+            "name": "automod",
+            "image_url": "https://i.imgur.com/M9Baltz.png"
+          }
+        }
+      },
+      {
+        "url": "https://automod.sh/install/like",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://automod.sh/actions/curate.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Automod | Install Curate",
+            "ogDescription": "Curate a cast into the Main feed."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2c354964",
+    "url": "https://warpcast.com/betashop.eth/0x2c354964",
+    "author_username": "betashop.eth",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 602,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5e14f7a-a60d-4aeb-3496-55305ecdd500/original",
+    "cast_date": "2024-05-24T05:27:09.000Z",
+    "text": "what's on the roadmap for Airstack Channel Moderation? \nand who pays?\n\n👀 👇 \nhttps://glory-bellflower-ba8.notion.site/Airstack-Channel-Mod-FAQs-b411f64310144fcebbbc173ed702069e?pvs=4",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce153fbd-6e12-40b5-1680-367321d67900/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 257673,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1810,
+            "height_px": 1534
+          }
+        }
+      },
+      {
+        "url": "https://glory-bellflower-ba8.notion.site/Airstack-Channel-Mod-FAQs-b411f64310144fcebbbc173ed702069e?pvs=4",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://glory-bellflower-ba8.notion.site/Airstack-Channel-Mod-FAQs-b411f64310144fcebbbc173ed702069e",
+            "ogType": "article",
+            "favicon": "https://glory-bellflower-ba8.notion.site/images/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://glory-bellflower-ba8.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F65513959-b209-4301-b242-0245ae6f5ba4%2F1af304ab-7ae0-43a3-bf83-c806819192be%2FScreenshot_2024-05-23_at_4.35.04_PM.png?table=block&id=f1053441-eaaf-48e1-aa88-97423c84f6be&width=2000&userId=&cache=v2",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Airstack Channel Mod FAQs | Notion",
+            "ogLocale": "en_US",
+            "ogSiteName": "Airstack on Notion",
+            "ogDescription": "FAQs"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x271d7081",
+    "url": "https://warpcast.com/nonlinear.eth/0x271d7081",
+    "author_username": "nonlinear.eth",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 576,
+    "author_pfp": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+    "cast_date": "2024-05-27T02:30:40.000Z",
+    "text": "HARP: the onchain stack for sustainable channel management and monetization\n\n@hypersub @automod @rounds @paybot \n\nare you getting it yet?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5ff0b97-c02d-4d92-1c82-f42b0a268600/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 86684,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1598,
+            "height_px": 440
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x64871ce6",
+    "url": "https://warpcast.com/nonlinear.eth/0x64871ce6",
+    "author_username": "nonlinear.eth",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 576,
+    "author_pfp": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+    "cast_date": "2024-05-26T22:43:48.000Z",
+    "text": "a few folks have reached out about using @hypersub + @automod + @rounds for sustainable channel management and monetization. i created a group chat for information sharing and technical support. if you're a host and this is something you're interested in, reply below with a link to your channel and i'll add you 🫡",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8f3254c0",
+    "url": "https://warpcast.com/nonlinear.eth/0x8f3254c0",
+    "author_username": "nonlinear.eth",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 576,
+    "author_pfp": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+    "cast_date": "2024-05-27T22:49:01.000Z",
+    "text": "1) one of crypto's fundamental properties is digital ownership\n2) experimentation is good\n3) channel/cast economics are optional✨",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3635,
+          "hash": "0x464e6e9809b807bf0ad69be96258768f2f55790a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x464e6e9809b807bf0ad69be96258768f2f55790a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3635,
+            "username": "androidsixteen.eth",
+            "display_name": "androidsixteen",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/68e0858a-bd96-41ab-ca47-3e25868d6a00/rectcrop3",
+            "custody_address": "0xf20ffbb0173d35a116fa6aeb3eed0689cff1e5dd"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x464e6e9809b807bf0ad69be96258768f2f55790a",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Feeling more “land grab” energy around channels lately\n\nI understand the desire to *own* things but it’s kind of a vibe killer ngl\n\nI just want to shitpost about different topics, not consider the economics of my content every time I cast\n\nHopefully just teething pains for a new primitive, like with frames",
+          "timestamp": "2024-05-27T21:56:37.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x87a15dab",
+    "url": "https://warpcast.com/nonlinear.eth/0x87a15dab",
+    "author_username": "nonlinear.eth",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 576,
+    "author_pfp": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+    "cast_date": "2024-05-23T21:54:06.000Z",
+    "text": "at farcon dwr said something like \"any subreddit w/ >20m people should be a $10m annual recurring revenue business\"\n\nbut that'll never happen\n\nwhy?\n\nbecause its against reddits interests, so they wont let it. all value will accrue to them, and only them\n\nnot so w/ fc.\n\npowerful channels tools are here, the time is now",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f448eaf1-0905-41f2-abaa-256276777300/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 1098365,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2400,
+            "height_px": 2554
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 2282,
+          "hash": "0xbed7cac0d0b28040f3ad8fb6b0a4630d601ca409"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbed7cac0d0b28040f3ad8fb6b0a4630d601ca409",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2282,
+            "username": "gokhan.eth",
+            "display_name": "Gökhan Turhan",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/234e650a-5fce-42f1-a59f-2529f73ae500/original",
+            "custody_address": "0xc32f2122a76ce07bddc785e44978859b713da6ef"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xbed7cac0d0b28040f3ad8fb6b0a4630d601ca409",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0xc48c325f794f9105000aa27d427fbed363fa7112",
+          "root_parent_url": "chain://eip155:7777777/erc721:0xc48c325f794f9105000aa27d427fbed363fa7112",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "playing with moderation. yes, we'll have a @hypersub. the collection has already been deployed. yes, we are going serious. yes, we'll have an A team. yes, i'll be careful for avoiding any conflict of interest for the future grant applications of ours. yes, i'm calling slavoj right now. waiting for /automod to update.",
+          "timestamp": "2024-05-23T19:32:09.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/abf39028-ef71-4c50-4377-089166268200/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 1294596,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1000,
+                  "height_px": 670
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "philosophy",
+            "name": "Philosophy",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a9959162-6981-4436-f6e4-ff81fa166300/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdfaf3d3c",
+    "url": "https://warpcast.com/nounishprof/0xdfaf3d3c",
+    "author_username": "nounishprof",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-05-27T12:09:12.000Z",
+    "text": "GM -- are you ready to OutWit, OutPlay and OutCast? These players are!\n👀",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/3dd217051b7238095e88f3ace23a504b.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 39.5
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xae35ae1d",
+    "url": "https://warpcast.com/ccarella.eth/0xae35ae1d",
+    "author_username": "ccarella.eth",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x3c802b82",
+    "url": "https://warpcast.com/ccarella.eth/0x3c802b82",
+    "author_username": "ccarella.eth",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-05-29",
+    "show_title": "GM Farcaster ep111, May 28, 2024 - Channel Moderation Episode",
+    "source_episode_id": "DJ_XYTv3RY4",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

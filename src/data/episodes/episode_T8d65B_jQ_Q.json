@@ -1,0 +1,725 @@
+[
+  {
+    "cast_hash": "0x10651f4b",
+    "url": "https://warpcast.com/v/0x10651f4b",
+    "author_username": "v",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-03-03T23:46:47.000Z",
+    "text": "Phishing emails are being sent to Warpcast users. Do not click on any links or connect your wallet. \n\nRemember: \n\n1. Always check that emails/links come from warpcast.com or farcaster.xyz.\n\n2. Don't connect your wallet to unknown websites.\n\n3. Never share your recovery phrase with a website.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/Cm9r2Qv.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 201813,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 906,
+            "height_px": 854
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x8333e03fa2a67823cecd8e8fffed8908e2f6c20b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x8333e03fa2a67823cecd8e8fffed8908e2f6c20b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x497c836675a8e5a17a504f099e8e8cb6209e2286",
+          "parent_hash": "0xe5fb17efef3f0eab7f6f6e42db1d151de57768a3",
+          "parent_url": null,
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": 2
+          },
+          "text": "What’s next?\n\nThe attacker will try to send phishing emails to these addresses to trick you into sharing your recovery phrase or clicking on a malicious link. \n\nRemember: \n\n1. Check that emails and links come from farcaster.xyz or warpcast.com\n2. Never, ever enter your recovery phrase into a website.",
+          "timestamp": "2024-03-03T17:30:02.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb1262a1e",
+    "url": "https://warpcast.com/v/0xb1262a1e",
+    "author_username": "v",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-03-01T19:19:04.000Z",
+    "text": "Did a podcast with @sinahab where we talk about frames, farcaster and more!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 52,
+          "hash": "0xaacfdfbcd51b0bd353fd105533d9d608b09d813c"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xaacfdfbcd51b0bd353fd105533d9d608b09d813c",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 52,
+            "username": "sinahab",
+            "display_name": "Sina Habibian",
+            "pfp_url": "https://i.imgur.com/T8ZPs86.jpg",
+            "custody_address": "0x04d80d1fe30b73445765383ccc10d1289e566031"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xaacfdfbcd51b0bd353fd105533d9d608b09d813c",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/intothebytecode",
+          "root_parent_url": "https://warpcast.com/~/channel/intothebytecode",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Here is my conversation with @v.\n\nWe talk about the Farcaster protocol, sufficient decentralization, learnings from Coinbase, and more.\n\nHope you enjoy!: intothebytecode.com/28-varun-farcaster",
+          "timestamp": "2024-03-01T18:50:47.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/iqOLwFD.jpg",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 176010,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2464,
+                  "height_px": 1237
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "intothebytecode",
+            "name": "Into the Bytecode",
+            "image_url": "https://i.imgur.com/O3RLkUl.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdc12e8bd",
+    "url": "https://warpcast.com/dwr.eth/0xdc12e8bd",
+    "author_username": "dwr.eth",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-03-04T17:31:32.000Z",
+    "text": "What's one thing that's confusing about Farcaster?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0135a285",
+    "url": "https://warpcast.com/obxium/0x0135a285",
+    "author_username": "obxium",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x291071a3",
+    "url": "https://warpcast.com/trish/0x291071a3",
+    "author_username": "trish",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 4877,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7e4ed783-19c7-4bbc-2d42-095bab65c700/rectcrop3",
+    "cast_date": "2024-03-05T03:50:19.000Z",
+    "text": "I’m one of the 5-15 and this stresses me out. \n\nPeople might not care now, but nobody knows how valuable a fully archived Farcaster will be.  Undoubtedly very valuable and possibly most to people who aren’t thinking of it. \n\nI’m pretty much in this space for watching history unfold.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xe06c1d17c8f5c0dcf4d0426da499cae2fd1902e4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe06c1d17c8f5c0dcf4d0426da499cae2fd1902e4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe06c1d17c8f5c0dcf4d0426da499cae2fd1902e4",
+          "parent_hash": "0x0135a28594751edbf64950a912369eba199c4e6c",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 12457
+          },
+          "text": "We should do a better job explaining.\n\nI don't think most people care about old casts? It's a 5-10% of users that really care about preserving everything.",
+          "timestamp": "2024-03-04T17:53:11.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa7eb1dbb",
+    "url": "https://warpcast.com/dwr.eth/0xa7eb1dbb",
+    "author_username": "dwr.eth",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-03-05T04:28:15.000Z",
+    "text": "If having global state on a single server is important, you get to choose two:\n\n1. Long term storage\n2. Censorship resistant\n3. Cheap",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4877,
+          "hash": "0x291071a30888e3f7f175f951cbe42945c263afa5"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x291071a30888e3f7f175f951cbe42945c263afa5",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4877,
+            "username": "trish",
+            "display_name": "Trish🫧",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7e4ed783-19c7-4bbc-2d42-095bab65c700/rectcrop3",
+            "custody_address": "0xdd17dd5659db1524115bcd7e7717a212639675b4"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x291071a30888e3f7f175f951cbe42945c263afa5",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x177aa0bf214af03499c1fe239de20f3c4c373250",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x177aa0bf214af03499c1fe239de20f3c4c373250",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I’m one of the 5-15 and this stresses me out. \n\nPeople might not care now, but nobody knows how valuable a fully archived Farcaster will be.  Undoubtedly very valuable and possibly most to people who aren’t thinking of it. \n\nI’m pretty much in this space for watching history unfold.",
+          "timestamp": "2024-03-05T03:50:19.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 3,
+                "hash": "0xe06c1d17c8f5c0dcf4d0426da499cae2fd1902e4"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xe06c1d17c8f5c0dcf4d0426da499cae2fd1902e4",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "history",
+            "name": "History",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafybeig7ib3vxqwjhmr5po54tdcpxuzbqkzrs3bmuam5bsyhsxxj4w2xxe"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe8c41f52",
+    "url": "https://warpcast.com/dwr.eth/0xe8c41f52",
+    "author_username": "dwr.eth",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-03-04T16:28:54.000Z",
+    "text": "If you don't have a suggestion, like your favorite 1-2 suggestions. Helps us understand what's most annoying.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x553ac5d4248f69d2b626d6914944c7ddf973c017"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x553ac5d4248f69d2b626d6914944c7ddf973c017",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x553ac5d4248f69d2b626d6914944c7ddf973c017",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Semi-regular Warpcast annoyances thread\n\nIf you were BDFOWF, what would you have us work on? \n\nBDFOWF = benevolent dictator for one warpcast feature",
+          "timestamp": "2024-03-04T16:21:03.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x44efc41a",
+    "url": "https://warpcast.com/heavygweit/0x44efc41a",
+    "author_username": "heavygweit",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xa7360925",
+    "url": "https://warpcast.com/dwr.eth/0xa7360925",
+    "author_username": "dwr.eth",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-03-02T17:08:48.000Z",
+    "text": "If you had a cool social connection as a result of Farcaster, reply here",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 374288,
+          "hash": "0x362e952514d3ca6edee50894bad57f4fcb9bc4a3"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x362e952514d3ca6edee50894bad57f4fcb9bc4a3",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 374288,
+            "username": "alexallware",
+            "display_name": "Alex Allware",
+            "pfp_url": "https://i.imgur.com/7ExZznv.jpg",
+            "custody_address": "0xfadd0ec35bd35fa5e4570e0eb672f7650bb1ad3e"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xfad4f6802898f57962088d5b254322d0605832dc",
+          "parent_hash": "0xfad4f6802898f57962088d5b254322d0605832dc",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 3
+          },
+          "text": "Any personal examples of Farcaster leading to cool social connections?",
+          "timestamp": "2024-03-02T16:48:16.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3057ffd4",
+    "url": "https://warpcast.com/jessepollak/0x3057ffd4",
+    "author_username": "jessepollak",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-03-04T18:34:51.000Z",
+    "text": "wow - just minted a frameme by @ok \n\nso incredible based",
+    "embeds": [
+      {
+        "url": "https://frameme.xyz/frameme/id/NgG_Px7FB",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 1198,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://frameme.xyz/frameme/image?f=1&o=2&t1=for%20you%20to%20be%20based&t2=undefined"
+              }
+            ],
+            "ogTitle": "Frameme"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x001724d3",
+    "url": "https://warpcast.com/ok/0x001724d3",
+    "author_username": "ok",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 3391,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4edde56b-6b2a-443e-f648-1900488d9e00/original",
+    "cast_date": "2024-03-04T18:00:35.000Z",
+    "text": "Introducing Frameme: Create and mint memes directly in frame!\n\nFeatures:\n- Share your meme as a custom frame\n- Mint your meme for free on @base.base.eth (limit 2 per FID, must follow me)\n- Exclusive memes for active users / followers, $DEGEN hodlers, and $TYBG hodlers\n\n🙏  to @syndicate for sponsoring gas\n\nhttps://frameme.xyz",
+    "embeds": [
+      {
+        "url": "https://frameme.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 1077,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://frameme.xyz/static/frameme/images/0.gif",
+                "type": "gif"
+              }
+            ],
+            "ogTitle": "Frameme"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x15c530d5",
+    "url": "https://warpcast.com/ted/0x15c530d5",
+    "author_username": "ted",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-03-04T20:07:25.000Z",
+    "text": "observation: the best /perl games, by measure of both entertainment + engagement, are the ones where the opponents are bought in and ready to rumble AND where the pairing makes sense\n\nbest example: @a16z + @variant \n\nif the product has to choose between entertainment and frequency, to me the choice seems obvious :)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x588138a4",
+    "url": "https://warpcast.com/depatchedmode/0x588138a4",
+    "author_username": "depatchedmode",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 2600,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce85e928-5803-4ab8-5df5-a1d7c4814500/rectcrop3",
+    "cast_date": "2024-03-05T04:07:18.000Z",
+    "text": "“@gmfarcaster: your conflict free hub for Farcaster’s top gossip”\n\nProbably not the winner @adrienne, but it’s got layers of technical pun.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc93203d6",
+    "url": "https://warpcast.com/jessepollak/0xc93203d6",
+    "author_username": "jessepollak",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-03-04T20:01:42.000Z",
+    "text": "FYI: @coinbase and @base.base.eth have done a bunch of consumer research and \"onchain\" outperforms every other word that people use for crypto\n\nif you're using blockchain, web3, crypto, etc, find a way to switch to onchain and you will be more successful",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaca2363d",
+    "url": "https://warpcast.com/coopahtroopa.eth/0xaca2363d",
+    "author_username": "coopahtroopa.eth",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 206,
+    "author_pfp": "https://i.imgur.com/0NB7bxd.gif",
+    "cast_date": "2024-03-04T22:33:33.000Z",
+    "text": "Onchain is the new online 🔵",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 99,
+          "hash": "0xc93203d6609b9d1ab6fa03de1722f9f4f6139859"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc93203d6609b9d1ab6fa03de1722f9f4f6139859",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 99,
+            "username": "jesse.base.eth",
+            "display_name": "Jesse Pollak",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+            "custody_address": "0x4ce34af3378a00c640125e4dbf4c9e64dff4c93b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc93203d6609b9d1ab6fa03de1722f9f4f6139859",
+          "parent_hash": null,
+          "parent_url": "https://onchainsummer.xyz",
+          "root_parent_url": "https://onchainsummer.xyz",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "FYI: @coinbase and @base.base.eth have done a bunch of consumer research and \"onchain\" outperforms every other word that people use for crypto\n\nif you're using blockchain, web3, crypto, etc, find a way to switch to onchain and you will be more successful",
+          "timestamp": "2024-03-04T20:01:42.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "base",
+            "name": "Base",
+            "image_url": "https://warpcast.com/~/channel-images/base.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa9f6b279",
+    "url": "https://warpcast.com/betashop.eth/0xa9f6b279",
+    "author_username": "betashop.eth",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 602,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5e14f7a-a60d-4aeb-3496-55305ecdd500/original",
+    "cast_date": "2024-03-05T03:51:20.000Z",
+    "text": "how many Farcasters do you subscribe to notifications of when they cast?\n\ni have 3:\n\n@dwr.eth @v @horsefacts.eth \n\nit's a bit obsessive but it's also my passion and my job 😉",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x19ba6cc3",
+    "url": "https://warpcast.com/variant/0x19ba6cc3",
+    "author_username": "variant",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 216023,
+    "author_pfp": "https://i.imgur.com/shveQRR.jpg",
+    "cast_date": "2024-03-05T00:30:25.000Z",
+    "text": "-1 to 0: when founders know they want to start something, but are still figuring everything out (and may still be employed)\n\nwe want to talk to you",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/dJDL0i9.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 199081,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 715,
+            "height_px": 720
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa3e815f9",
+    "url": "https://warpcast.com/nounishprof/0xa3e815f9",
+    "author_username": "nounishprof",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-05T16:08:51.000Z",
+    "text": "yay!!! I'll drop you in a group chat in a bit and we'll get you going!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x577e3a8a",
+    "url": "https://warpcast.com/adrienne/0x577e3a8a",
+    "author_username": "adrienne",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-03-05T03:58:40.000Z",
+    "text": "How it started                                How it's going\n\ndawufi fashion edition\n\nplease don't kick me out of this channel for posting this. \n\n@dawufi I'd say you're handling it quite well, my friend.  🔥",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/nBo6rU2.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 93388,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 880,
+            "height_px": 292
+          }
+        }
+      },
+      {
+        "url": "https://i.imgur.com/ODVP8Ui.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 910825,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2419,
+            "height_px": 3226
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcf0ac789",
+    "url": "https://warpcast.com/futurefae/0xcf0ac789",
+    "author_username": "futurefae",
+    "show_date": "2024-03-06",
+    "show_title": "GM Farcaster ep71, March 5, 2024",
+    "source_episode_id": "T8d65B_jQ_Q",
+    "author_fid": 4440,
+    "author_pfp": "https://i.imgur.com/e6loP4e.jpg",
+    "cast_date": "2024-03-05T07:26:10.000Z",
+    "text": "Most Warpcast users act in good faith and typically course-correct after warnings, etc., but are there any measures for serial engagement farmers who use invasive social workarounds to continue abusive tactics?",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4440,
+          "hash": "0x142598681eb57660e13ce120bb72912bd1e600cd"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x142598681eb57660e13ce120bb72912bd1e600cd",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4440,
+            "username": "futurefae",
+            "display_name": "kiki",
+            "pfp_url": "https://i.imgur.com/e6loP4e.jpg",
+            "custody_address": "0xde98d26be761a970188e98ff87dbf954109742a0"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x142598681eb57660e13ce120bb72912bd1e600cd",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/dont-do-this",
+          "root_parent_url": "https://warpcast.com/~/channel/dont-do-this",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Is this against or abuse of Warpast norms/terms?\n\n- Bullying a channel host to pin casts for engagement and top caster recognition.\n- Being removed from a channel after being warned privately and publicly for violating norms.\n- Creating a copycat troll channel to harass the channel host, etc.",
+          "timestamp": "2024-03-05T07:13:46.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "dont-do-this",
+            "name": "Don’t do this.",
+            "image_url": "https://i.imgur.com/0FjyG3K.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

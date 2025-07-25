@@ -1,0 +1,1496 @@
+[
+  {
+    "cast_hash": "0x256f86ba",
+    "url": "https://warpcast.com/dwr.eth/0x256f86ba",
+    "author_username": "dwr.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-10-07T19:34:05.000Z",
+    "text": "Channels update\n\n1. It was a big change, but overall I think sentiment is net positive across a good chunk of the network\n\n2. The most common frustrations:\na. losing access to a favorite channel, esp. if you had a streak in it\nb. seeing your reply \"below the fold\"\nc. older casts in channels disappearing from personal profiles\nd. many channels not having clear instructions for joining\n\nSo what we're doing this week\n\n3. Continue to talk to users (mostly me) and pay attention to feedback\n\n4. We're considering some tweaks to how above / below the fold works for non-members, esp. if the original caster is following someone. We won't make any sudden changes here, fwiw\n\n5. Strongly considering adding back older casts in channels to profiles (with a label on the cast). The data is untouched at the protocol level, just hidden on Warpcast right now.\n\n6. Continue to get feedback from channel owners / mods / users / developers on making request to join a channel a primitive similar to invites. Again, no sudden changes.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9825d19e",
+    "url": "https://warpcast.com/dwr.eth/0x9825d19e",
+    "author_username": "dwr.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-10-08T22:07:19.000Z",
+    "text": "Channel update summary\n\nSince this cast yesterday, we've already:\n1. Brought older channel casts back to user profiles\n2. Added a dedicated channels tab in notifications to everyone\n3. Proposed an iteration for how replies work to be more inclusive\n\nStill on our radar:\n4. Make it easier for people to request to join a channel, leveraging the growing set of tools built by developers; channel owners can decide how they want to do it\n5. Make it easier to invite people to your channel from a reply / DC / profile\n6. What to do with abandoned channels",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x256f86ba6d5ec9abc85e58957a35d932f6ba25be"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x256f86ba6d5ec9abc85e58957a35d932f6ba25be",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x256f86ba6d5ec9abc85e58957a35d932f6ba25be",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Channels update\n\n1. It was a big change, but overall I think sentiment is net positive across a good chunk of the network\n\n2. The most common frustrations:\na. losing access to a favorite channel, esp. if you had a streak in it\nb. seeing your reply \"below the fold\"\nc. older casts in channels disappearing from personal profiles\nd. many channels not having clear instructions for joining\n\nSo what we're doing this week\n\n3. Continue to talk to users (mostly me) and pay attention to feedback\n\n4. We're considering some tweaks to how above / below the fold works for non-members, esp. if the original caster is following someone. We won't make any sudden changes here, fwiw\n\n5. Strongly considering adding back older casts in channels to profiles (with a label on the cast). The data is untouched at the protocol level, just hidden on Warpcast right now.\n\n6. Continue to get feedback from channel owners / mods / users / developers on making request to join a channel a primitive similar to invites. Again, no sudden changes.",
+          "timestamp": "2024-10-07T19:34:05.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5b44250f",
+    "url": "https://warpcast.com/ccarella.eth/0x5b44250f",
+    "author_username": "ccarella.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 472,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d7e7c73d-0860-4319-20af-89d97859b800/original",
+    "cast_date": "2024-10-07T21:28:44.000Z",
+    "text": "EVERYONE has been kicked from the /purplele channel and our moderation tools are setup. \n\nIf you are a member of Purple please come to the channel and rejoin. Its now gated on our Token.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/34efb3e4-42fa-4390-29a2-00ef60e1e400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 921527,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1206,
+            "height_px": 1405
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3c483fb8",
+    "url": "https://warpcast.com/ccarella.eth/0x3c483fb8",
+    "author_username": "ccarella.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 472,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d7e7c73d-0860-4319-20af-89d97859b800/original",
+    "cast_date": "2024-10-07T22:40:02.000Z",
+    "text": "Maybe to help others.... today I setup @modbot in /purple to use our Purple NFT as the Channel Membership. But then I kicked everyone out of the channel because they were just auto-assigned to the channel and I wanted to make sure only Purple members were in the channels. \n\nWell it turns out, kicking someone out of the channel bans them, so I actually banned most of our membership! Big thanks to @haole who helped us unban everyone and now its working correctly. \n\ntldr; don't be me! If you remove someone from a channel modbot sees that as a ban (makes sense in retrospect)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6f923002",
+    "url": "https://warpcast.com/july/0x6f923002",
+    "author_username": "july",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 1287,
+    "author_pfp": "https://i.seadn.io/gcs/files/ed56e6b9a1b22720ce7490524db333e0.jpg?w=500&auto=format",
+    "cast_date": "2024-10-07T19:57:13.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc5a9c89-3a85-4910-0b51-51ba314ee200/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 1296710,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 970,
+            "height_px": 1280
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x42645ea5",
+    "url": "https://warpcast.com/oxb/0x42645ea5",
+    "author_username": "oxb",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 20286,
+    "author_pfp": "https://i.imgur.com/5lTpsyy.jpg",
+    "cast_date": "2024-10-08T11:48:36.000Z",
+    "text": "I'm wondering how new Farcaster users will get into channels.\n\nHow can they grow and be seen if they haven't been invited to certain channels because they're completely new here?\n\nAny thoughts/tips? Would casting without a channel be powerful enough to help them grow? It could be a great option if it worked that way \nShould they DM channel owners and moderators to request an invite? \n\nI'm asking because I'm constantly trying to onboard new people by encouraging them to join the /london channel here",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcfb6c0b4",
+    "url": "https://warpcast.com/adrienne/0xcfb6c0b4",
+    "author_username": "adrienne",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-10-08T00:34:07.000Z",
+    "text": "Just because you send ‘em, doesn’t mean we read ‘em",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/61679890-f851-4fed-8d2c-218103914f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 224723,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1135,
+            "height_px": 1423
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3a701f66",
+    "url": "https://warpcast.com/dwr.eth/0x3a701f66",
+    "author_username": "dwr.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-10-08T21:44:21.000Z",
+    "text": "In most cases, I agree with this.\n\nGeneral topic channels don't work well in the new model. They were built an era of channels as hashtags.\n\nThere will be some exceptions, but will require a lot of work from the channel owner and moderators to make sure a large channel becomes and stays a community.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 472,
+          "hash": "0xe67805a06688129958ebd756c81e7d85b0e4289b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe67805a06688129958ebd756c81e7d85b0e4289b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 472,
+            "username": "ccarella.eth",
+            "display_name": "Chris Carella",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d7e7c73d-0860-4319-20af-89d97859b800/original",
+            "custody_address": "0x0412883ac41b904c55b10c82e947aec06551f124"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb45ca09cf58db6e5289b78e4f82c1a6f5536a9da",
+          "parent_hash": "0xa032bf3345189127f00635efb634029172288294",
+          "parent_url": null,
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": 10799
+          },
+          "text": "I unfollowed all the huge channels, they don't make sense to me anymore. People should just broadcast into the Main feed and have more thoughtful discussions in channels.",
+          "timestamp": "2024-10-08T14:15:04.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x44989386",
+    "url": "https://warpcast.com/dwr.eth/0x44989386",
+    "author_username": "dwr.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-10-08T22:24:03.000Z",
+    "text": "What are we missing?\n\nAlso worth pointing out that the next \"big\" project is onboarding directly to a channel.\n\nRough idea: you can invite someone to Farcaster and when they sign up, they immediately join your channel(s) and their initial home feed is weighted toward your channels and people you interact with a lot. \n\nShould help solve having a group of people to interact with on Day 1 without worrying about not having access to channels and/or spam labeling.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x9825d19e7225323513cf718b6bc6776ac76a085e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x9825d19e7225323513cf718b6bc6776ac76a085e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9825d19e7225323513cf718b6bc6776ac76a085e",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Channel update summary\n\nSince this cast yesterday, we've already:\n1. Brought older channel casts back to user profiles\n2. Added a dedicated channels tab in notifications to everyone\n3. Proposed an iteration for how replies work to be more inclusive\n\nStill on our radar:\n4. Make it easier for people to request to join a channel, leveraging the growing set of tools built by developers; channel owners can decide how they want to do it\n5. Make it easier to invite people to your channel from a reply / DC / profile\n6. What to do with abandoned channels",
+          "timestamp": "2024-10-08T22:07:19.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 3,
+                "hash": "0x256f86ba6d5ec9abc85e58957a35d932f6ba25be"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x256f86ba6d5ec9abc85e58957a35d932f6ba25be",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf247c237",
+    "url": "https://warpcast.com/linda/0xf247c237",
+    "author_username": "linda",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-10-08T18:25:58.000Z",
+    "text": "We're in the process of shipping a v1 for 2 new categories on Bountycaster:\n- resumes\n- for sale\n\nGetting closer to our version of Craigslist + social + crypto :)\n\nIf you want to get a post up in either category when we launch, please DM me! We're looking for posts if you're publicly looking for your next role OR selling items (e.g. @samantha /humankind candles, @beecurious /farcastea matcha)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7d89e36-9ca8-403d-f4af-9826f2a2f400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 689947,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1740,
+            "height_px": 1500
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe2170610",
+    "url": "https://warpcast.com/samantha/0xe2170610",
+    "author_username": "samantha",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 1606,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/015f24f6-2e7e-4890-8e10-af5e66e19200/rectcrop3",
+    "cast_date": "2024-10-08T18:32:23.000Z",
+    "text": "So excited to sell /humankind candles on Bountycaster! :) Connect with Linda to sell your goods or you're if you're looking for a new role. \n\nhttps://warpcast.com/linda/0xf247c237",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 12,
+          "hash": "0xf247c23748262143c442865768fb9555c2c3670b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf247c23748262143c442865768fb9555c2c3670b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12,
+            "username": "linda",
+            "display_name": "Linda Xie",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+            "custody_address": "0xb43575d58c49d2be880e0f821ddf51d15c13c376"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf247c23748262143c442865768fb9555c2c3670b",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "We're in the process of shipping a v1 for 2 new categories on Bountycaster:\n- resumes\n- for sale\n\nGetting closer to our version of Craigslist + social + crypto :)\n\nIf you want to get a post up in either category when we launch, please DM me! We're looking for posts if you're publicly looking for your next role OR selling items (e.g. @samantha /humankind candles, @beecurious /farcastea matcha)",
+          "timestamp": "2024-10-08T18:25:58.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7d89e36-9ca8-403d-f4af-9826f2a2f400/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 689947,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1740,
+                  "height_px": 1500
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7d188633",
+    "url": "https://warpcast.com/nateliason/0x7d188633",
+    "author_username": "nateliason",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 398978,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2921ff63-6f90-40ad-02d6-0798a19d3500/rectcrop3",
+    "cast_date": "2024-10-08T16:20:20.000Z",
+    "text": "I just posted my first \"Quarterly Author Update,\" where I shared: \n\n- The most recent book sales numbers & earnings\n- A quick Crypto Confidential launch recap\n- Updates on the books I'm working on next\n- A small blog update\n\nI hope you enjoy!\n\nhttps://blog.nateliason.com/p/quarterly-author-update-1\n\n(sorry for double cast, link on the first was messed up)",
+    "embeds": [
+      {
+        "url": "https://blog.nateliason.com/p/quarterly-author-update-1",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://blog.nateliason.com/p/quarterly-author-update-1",
+            "ogType": "article",
+            "favicon": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F10bf9cff-56bc-4637-ac57-5ae294c7d95b%2Ffavicon.ico",
+            "ogImage": [
+              {
+                "url": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc2ae15c-d94f-4190-aba2-0fc8583aa603_1500x500.jpeg",
+                "type": "jpeg"
+              }
+            ],
+            "ogTitle": "Quarterly Author Update: October 2024",
+            "ogLocale": "en",
+            "ogDescription": "Book sales, next projects, and a blog update"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x133691d5",
+    "url": "https://warpcast.com/j4ck.eth/0x133691d5",
+    "author_username": "j4ck.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 431,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b82cfba-7d62-43ad-f752-1643db239b00/original",
+    "cast_date": "2024-10-07T18:26:35.000Z",
+    "text": "buckle up kids\n\n@tayyab just ran a world first import of his LinkedIn social graph into /icebreaker with no API access using zkTLS 🤯\n\nwe will be smoothing this flow over the next week or two until you can all run it yourselves as well 😎\n\nice: broken 🔨",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 66,
+          "hash": "0xc0a41c22e176fd4fe639ace5742d005b2658248e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc0a41c22e176fd4fe639ace5742d005b2658248e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 66,
+            "username": "tayyab",
+            "display_name": "Tayyab - d/acc",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04ad2f2e-0625-4125-cdc5-aacec3749c00/rectcrop3",
+            "custody_address": "0x9207401977012d588ce4181f8df26402f2514450"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc0a41c22e176fd4fe639ace5742d005b2658248e",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/icebreaker",
+          "root_parent_url": "https://warpcast.com/~/channel/icebreaker",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Soon we will be able to in a verified way bring in your existing network to Icebreaker. No manual import, just a simple UX flow to tear down the fences of walled gardens. ❄️❄️❄️",
+          "timestamp": "2024-10-07T18:19:50.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a149cb20-a2c7-480e-7073-07acc911bb00/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 149324,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 416,
+                  "height_px": 720
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "icebreaker",
+            "name": "icebreaker",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8de8c4ee-0ce0-4baa-6a37-906f1af01200/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x87dfa1fa",
+    "url": "https://warpcast.com/adrienne/0x87dfa1fa",
+    "author_username": "adrienne",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-10-07T14:25:57.000Z",
+    "text": "“progress happens too slowly to notice, but setbacks happen too quickly to ignore.”  \n\nWhen people talk about why farcaster is failing I think of this quote from The Psychology of Money by Morgan Housel \n\nProgress is incremental and you can only barely see inflection points in hindsight. Crashes happen suddenly. \n\nBuilding a house can take months or years. Demolition in days.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe3832cf4",
+    "url": "https://warpcast.com/woj.eth/0xe3832cf4",
+    "author_username": "woj.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2024-10-08T18:17:25.000Z",
+    "text": "extremely proud to launch this\n\na month ago i tried to answer a question: if farcaster is a network state, how do we measure its gdp?\n\n... and the chad @luc actually started working on putting the data together\n\nread his thread, join /farconomy and visit https://farconomy.com/ to learn more about farcaster economy and its opportunities",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4013,
+          "hash": "0x04ad2a6e1cbe780cab7b316178c6dc98dd758fbc"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x04ad2a6e1cbe780cab7b316178c6dc98dd758fbc",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4013,
+            "username": "luc",
+            "display_name": "luc",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/364f7c96-fd30-4558-570c-f11ced1cc700/rectcrop3",
+            "custody_address": "0xcd4694d2e4ec0a84467114e4ab09579a318571c5"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 193137,
+            "username": "super",
+            "display_name": "super ツ",
+            "pfp_url": "https://supercast.mypinata.cloud/ipfs/QmdvciL78gXQFgN3ZBCWecbCa5gEhPJGTU6bYcJ4WXYiwJ?filename=supercast-logo-white-pfp.png",
+            "custody_address": "0xff62ac1e5a4a63c57211b00e119b693b7f953d76"
+          },
+          "thread_hash": "0x04ad2a6e1cbe780cab7b316178c6dc98dd758fbc",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/farconomy",
+          "root_parent_url": "https://warpcast.com/~/channel/farconomy",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "farconomy.com is live\n\nwe are working with @woj to visualize all aspects of financial activity born on farcaster\n\ntoday we are launching v1 of our dashboard, this channel and a roadmap\n\nplease dm me to join the channel and keep submitting requests to make it better and show what's happening in farcaster \n\nhighlights in the thread below",
+          "timestamp": "2024-10-08T18:11:15.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farconomy",
+            "name": "farconomy",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66c88291-7deb-4b87-1f24-ae74ed98ee00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x52d70adb",
+    "url": "https://warpcast.com/afrochicks/0x52d70adb",
+    "author_username": "afrochicks",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x400e14d9",
+    "url": "https://warpcast.com/chicbangs.eth/0x400e14d9",
+    "author_username": "chicbangs.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 5328,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70e637f2-ddb4-4fd0-e56e-35bc44605a00/original",
+    "cast_date": "2024-10-09T01:13:26.000Z",
+    "text": "HIGHER DANCE CHALLENGE\n\nThe first HIGHER ATHLETICS x HIGHER FM collab is here! Complete the challenge and earn a share of the 20k $higher prize pool.\n\nThis Thursday 10/10 is World Mental Health Day and we want you to dance for your mental health!\n\nDETAILS:\n- complete a thirty minute dance practice\n- share your /receipts, video or photo under the pinned cast in either /higher-athletics or /higherfm channel\n- have fun\n\nYou have one day to complete the challenge. Rewards will be sent on Friday, 10/11. Let’s go higher together!",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/cd9b9150d55b0c0d4a4db7674a36370e.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "codec_name": "h264",
+                "height_px": 720,
+                "width_px": 720
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 480,
+                "width_px": 480
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 360,
+                "width_px": 360
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 240,
+                "width_px": 240
+              }
+            ],
+            "duration_s": 12.39
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1801b58d",
+    "url": "https://warpcast.com/macbudkowski/0x1801b58d",
+    "author_username": "macbudkowski",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 1048,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a43231ca-1d8d-4563-c9b3-6a8e934c2a00/original",
+    "cast_date": "2024-10-08T15:35:10.000Z",
+    "text": "our @kiwi x @nouns writing contest news is out!\n\nEveryone is welcome to write about cc0, decentralized governance, bottom-up brand building and other Nounish subjects.\n\nWe prepared five prompts to help authors explore the Nouniverse. We also received a prompt from one of the Nounders - @seneca. To participate in the contest, your blog post must answer at least one of the prompts.\n\nApart from the eternal glory, you will be able to win a part of the 3.5 ETH prize pool. Our contest is platform agnostic, so you can post your essay anywhere you want - on Paragraph, Mirror, Substack, X, Farcaster, or even ZORA.\n\nEven if you don’t win the main prize, you can win some attention and subscribers because Kiwi and some Nouns members will repost the best submissions.\n\nYou can learn more about the contest here:\nhttps://paragraph.xyz/@kiwi-updates/into-the-nouniverse-writing-contest\n\nPS: Thanks to @ccarella.eth, @nounishprof and @wiz, for helping to set it up, and thanks to all Nouns who supported our prop ⌐◨-◨",
+    "embeds": [
+      {
+        "url": "https://paragraph.xyz/@kiwi-updates/into-the-nouniverse-writing-contest",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2024-10-08T15:28:57.661Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/db80691f13ba99bc84d7e655938ad7ed.png",
+            "ogImage": [
+              {
+                "alt": "\"Into the Nouniverse\" writing contest",
+                "url": "https://storage.googleapis.com/papyrus_images/23f336f71c602f1e8592eae69e5aba10.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "\"Into the Nouniverse\" writing contest",
+            "ogLocale": "en",
+            "ogDescription": "Kiwi runs a writing contest with Nouns. Writers will explore cc0, decentralized governance, bottom-up brand building, and other Noun-ish subjects ⌐◨-◨. \n",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@kiwi-updates/into-the-nouniverse-writing-contest?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=%22Into%20the%20Nouniverse%22%20writing%20contest&blogName=Kiwi%20Updates&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fdb80691f13ba99bc84d7e655938ad7ed.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F23f336f71c602f1e8592eae69e5aba10.jpg&size=2048&publishedDate=1728401337661"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=%22Into%20the%20Nouniverse%22%20writing%20contest&blogName=Kiwi%20Updates&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fdb80691f13ba99bc84d7e655938ad7ed.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F23f336f71c602f1e8592eae69e5aba10.jpg&size=2048&publishedDate=1728401337661",
+            "frames_url": "https://paragraph.xyz/@kiwi-updates/into-the-nouniverse-writing-contest",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGgueHl6In0",
+                "signature": "MHg5YmQ4MDcxNmVmNjIwZTFjM2UwZDkzMzQ5ZDNlNTU5N2MzYmU3NzQ2MDJmYTliZmE1Zjg2Mzk3Y2QxZTk4MGExM2RmNDVmMDM2ODE5Y2FhZmZiZmE5MTMxN2U3MGRlYWRlYTI2YWUzMTA2N2I1NDNiMTFkZDI3ODk3NzQ3ZWI5YjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x638a05d9",
+    "url": "https://warpcast.com/jessyjeanne/0x638a05d9",
+    "author_username": "jessyjeanne",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 12921,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3310718d-160a-4e5e-1d29-98cbb9fed200/original",
+    "cast_date": "2024-10-08T09:05:03.000Z",
+    "text": "gm 🍟 I’m giving away one ticket for NFT Paris 2025 🇫🇷🍟 \n\nRULES:\n- follow me and /fries \n- comment with why you want the ticket\n- quote cast this post \n\nI’ll announce the winner this Sunday\n\nCan’t wait to see u in Paris 😘💓🍟",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6183c921-3d23-45e8-f770-45fcb6b83700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 128568,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 824,
+            "height_px": 1280
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb9b8542b",
+    "url": "https://warpcast.com/dwr.eth/0xb9b8542b",
+    "author_username": "dwr.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-10-07T19:03:01.000Z",
+    "text": "One thing I was wrong about over the last few years: sign up costs would dramatically reduce spam. \n\nTurns out spam is a top 3 problem (aside from retention and infrastructure scaling) to solve for when building a permissionless decentralized social networking protocol.\n\nSpammers are willing to pay for sign ups at prices that normal users aren't.\n\nSpam is also relative: what's spammy for one person is not for another.\n\nCorollary: when you talk to developers building on Farcaster, spam is a top of mind issue whereas users giving product feedback but not actively building in the ecosystem tend to think this isn't that big an issue / not that hard a problem to solve. \n\nAlso a good proxy for the quality of first principles thinking when suggesting \"why don't you just do this?\" if you haven't considered how would spammers abuse this and what's the solution.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x58968499",
+    "url": "https://warpcast.com/wake.eth/0x58968499",
+    "author_username": "wake.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 2904,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/abe9a136-0384-4ad3-62a2-97d1fb11e900/original",
+    "cast_date": "2024-10-08T16:11:57.000Z",
+    "text": "gm. my farcaster feed is beginning to resemble twitter, and not in a good way. squabbling, posturing, and misinformation abound, none of it funny, some of it dangerous. i won't help with that. so, instead of unfollowing anyone specifically, i've made the choice to reset my follows and exit most channels. I'll meander my way back to the channels I use and people I cherish over the coming days and weeks. Find me in the arena, as ever.\n\nSee you soon 🎩🌹",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1bf0d769-3ee9-439e-6f22-e0dc3406d800/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 834300,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 980,
+            "height_px": 637
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7d156564",
+    "url": "https://warpcast.com/base/0x7d156564",
+    "author_username": "base",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 12142,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce5460f6-40a2-4486-47c1-7801e4033e00/original",
+    "cast_date": "2024-10-07T15:55:10.000Z",
+    "text": "Roll call: Who's going to /devcon?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xce6eb2bc",
+    "url": "https://warpcast.com/toadyhawk.eth/0xce6eb2bc",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2024-10-07T19:09:44.000Z",
+    "text": "Quick roll call: Who is NOT going to be at Devcon, NOT going to be at @nounstown.eth LA, but IS going to be curled up in a FOMO-induced fetal position in the corner?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc99d1eb1",
+    "url": "https://warpcast.com/jessepollak/0xc99d1eb1",
+    "author_username": "jessepollak",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-10-07T16:37:53.000Z",
+    "text": "we are building an open source, onchain, cross platform react stack that will power @baseapp.base.eth and more\n\nif you are a world class react or react native engineer, I want you to join our team\n\nI led the rewrite of @coinbase to react native and our team is already stacked",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfc38a705",
+    "url": "https://warpcast.com/jessepollak/0xfc38a705",
+    "author_username": "jessepollak",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-10-07T16:16:43.000Z",
+    "text": "if you were benevolent dictator of @baseapp.base.eth for one day (BDOCBWFOD), what would you change?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd2ab0a16",
+    "url": "https://warpcast.com/oxb/0xd2ab0a16",
+    "author_username": "oxb",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 20286,
+    "author_pfp": "https://i.imgur.com/5lTpsyy.jpg",
+    "cast_date": "2024-10-07T16:33:35.000Z",
+    "text": "$1M!!!!!!!!!! in real based memes trading volume purely by retail and only iOS\n\nCongrats to the entire @base.base.eth community – we're doing great, no matter what others may think!\n\nLFG!!!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 20429,
+          "hash": "0xce465a6588a770081366c6f05ed870b754639bcf"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xce465a6588a770081366c6f05ed870b754639bcf",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 20429,
+            "username": "bolide",
+            "display_name": "Bolide",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d09bea26-d105-4522-f2b2-b46e04f21d00/original",
+            "custody_address": "0x909bc34e0924d60fe233b73b347def851e6a3c79"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xce465a6588a770081366c6f05ed870b754639bcf",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/bolide",
+          "root_parent_url": "https://warpcast.com/~/channel/bolide",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Bolide has surpassed $1,000,000 in volume!\n\nThis is a major milestone for memes, consumer apps, and the future of consumer-to-retail transactions on @base.base.eth.\n\nThank you for being part of this journey—keep trading and stay tuned for more exciting updates!",
+          "timestamp": "2024-10-07T16:21:58.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.warpcast.com/v1/video/a708410b16ef602f511faa1f5cb0ce23.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "codec_name": "h264",
+                      "height_px": 1920,
+                      "width_px": 1080
+                    },
+                    {
+                      "codec_name": "h264",
+                      "height_px": 1280,
+                      "width_px": 720
+                    },
+                    {
+                      "codec_name": "h264",
+                      "height_px": 852,
+                      "width_px": 480
+                    },
+                    {
+                      "codec_name": "h264",
+                      "height_px": 640,
+                      "width_px": 360
+                    },
+                    {
+                      "codec_name": "h264",
+                      "height_px": 426,
+                      "width_px": 240
+                    }
+                  ],
+                  "duration_s": 14.691997
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "bolide",
+            "name": "Bolide",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd589ed2-05a4-4b9f-59cb-0ae07882ac00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdef0a456",
+    "url": "https://warpcast.com/matthew/0xdef0a456",
+    "author_username": "matthew",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 473,
+    "author_pfp": "https://i.imgur.com/uwD4rUh.jpg",
+    "cast_date": "2024-10-08T00:13:02.000Z",
+    "text": "This week on Late Night Crew we'll discuss the channels update and how it's going. If you have thoughts, questions, or feedback, hope you'll join the discussion! I will be taking notes and forwarding suggestions to the team.\n\n Sign up below to get notified when we go live: https://events.xyz/events/09cdda",
+    "embeds": [
+      {
+        "url": "https://events.xyz/events/09cdda",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/api/frames/events/09cdda/img/no_rsvp"
+              }
+            ],
+            "ogTitle": "Eventcaster Event",
+            "ogLocale": "en",
+            "ogDescription": "FB Events for Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd15431b6",
+    "url": "https://warpcast.com/df/0xd15431b6",
+    "author_username": "df",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 1214,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a6497fe-5e4e-4297-fd02-26a1c052fe00/original",
+    "cast_date": "2024-10-07T16:13:53.000Z",
+    "text": "How to make no-code frames, including a guide on how to launch on Farcaster 👇\n\nhttps://docs.google.com/presentation/d/15j-Y7kZogu6Nb0p3r9gpEUPQLighzpgEuicS3U0i8qI/edit#slide=id.p",
+    "embeds": [
+      {
+        "url": "https://docs.google.com/presentation/d/15j-Y7kZogu6Nb0p3r9gpEUPQLighzpgEuicS3U0i8qI/edit#slide=id.p",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://docs.google.com/presentation/d/15j-Y7kZogu6Nb0p3r9gpEUPQLighzpgEuicS3U0i8qI/edit?usp=embed_facebook",
+            "ogType": "article",
+            "favicon": "https://ssl.gstatic.com/docs/presentations/images/favicon-2023q4.ico",
+            "ogImage": [
+              {
+                "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyI-LuT55knstST8Re06kPxY5rTAewLqnNW4mHQpE5rszUhxeMiBLC28HCas65h3_dI6Harm1Mkqa8vUEBqJiu8mazTMVtAG2xv7sKRlodTaj9O6fLE7=w1200-h630-p",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "No code frames workshop - Octant - 7th Oct 2024",
+            "ogLocale": "en",
+            "ogSiteName": "Google Docs",
+            "ogDescription": "No-code Frames Workshop Octant Accelerator David Furlong, 7th Oct 2024"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7e6b8135",
+    "url": "https://warpcast.com/pfista/0x7e6b8135",
+    "author_username": "pfista",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 451,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35ff884b-a727-46ff-9241-5652d35a3100/rectcrop3",
+    "cast_date": "2024-10-08T04:27:29.000Z",
+    "text": "stay safe out there\n\neasy typos for warpcast.com redirect here to drain wallets",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/62230339-5d87-44a2-7145-f7c347454000/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 504773,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2076,
+            "height_px": 1834
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc1ba2724",
+    "url": "https://warpcast.com/yes2crypto.eth/0xc1ba2724",
+    "author_username": "yes2crypto.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 214447,
+    "author_pfp": "https://i.imgur.com/dBoVmnG.jpg",
+    "cast_date": "2024-10-06T21:27:46.000Z",
+    "text": "OK, Banger!",
+    "embeds": [
+      {
+        "url": "https://aaj6tzf.warpcast.tools/api/frames/breezy-panther-38",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "http://res.cloudinary.com/di5lpszxf/image/upload/v1728246275/64bcc64a38f00dae76f0dac7ef7a180cc9b8a9ac46ce1852cbe06e2e37e3cb28.gif",
+                "type": "gif"
+              },
+              {
+                "url": "http://res.cloudinary.com/di5lpszxf/image/upload/v1728246275/64bcc64a38f00dae76f0dac7ef7a180cc9b8a9ac46ce1852cbe06e2e37e3cb28.gif",
+                "type": "gif"
+              }
+            ],
+            "ogTitle": "My cool frame"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xeeb613b1",
+    "url": "https://warpcast.com/v/0xeeb613b1",
+    "author_username": "v",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-10-08T19:01:58.000Z",
+    "text": "Protocol fees started off at $12 last year. \n\nWe've been progressively reducing them as we've gotten better at finding and labelling spam on the network. \n\nGoal is to get to $1 fees by the end of the year.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x75d6e0eb",
+    "url": "https://warpcast.com/dwr.eth/0x75d6e0eb",
+    "author_username": "dwr.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-10-08T15:05:54.000Z",
+    "text": "Looking for someone who can run /apple \n\n1. Start as a mod - adding / removing / moderating the channel\n2. If things are going well, I'll be happy to transfer ownership\n\nReply here if you're interested.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfd45f708",
+    "url": "https://warpcast.com/dwr.eth/0xfd45f708",
+    "author_username": "dwr.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-10-08T15:05:39.000Z",
+    "text": "Looking for someone who can run /screens \n\n1. Start as a mod - adding / removing / moderating the channel\n2. If things are going well, I'll be happy to transfer ownership\n\nReply here if you're interested.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe6466a98",
+    "url": "https://warpcast.com/chinmay.eth/0xe6466a98",
+    "author_username": "chinmay.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 15838,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a1227b2f-b756-4d6b-9e5f-2a2b191c0400/original",
+    "cast_date": "2024-10-08T17:15:29.000Z",
+    "text": "Joining as the new (and maybe the only) moderator for this channel. Thanks @dwr.eth \n\nHow do you want to run this channel? Any suggestions?\n\nI'll collect your ideas and share my ideas on the top of it.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/440fa773-55c4-4997-8e30-698c1131cf00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 224298,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1240,
+            "height_px": 650
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfbc07638",
+    "url": "https://warpcast.com/dwr.eth/0xfbc07638",
+    "author_username": "dwr.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-10-08T14:57:06.000Z",
+    "text": "Looking for someone who can run /founders \n\n1. Start as a mod - adding / removing / moderating the channel\n2. If things are going well, I'll be happy to transfer ownership\n\nReply here if you're interested.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0daa55f6",
+    "url": "https://warpcast.com/kazi/0x0daa55f6",
+    "author_username": "kazi",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 2134,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eab832c8-b9ef-49cb-f8b4-90fe4311c200/original",
+    "cast_date": "2024-10-08T16:37:40.000Z",
+    "text": "🚨HEAR YE! THIS IS YOUR DICTATOR SPEAKING:\n\n/Founders Banner competition 👇\n\nWe're letting the founders decide their favorite banner\n\nPrize: 200k founders will view your logo on the bottom right corner of your banner. \n\nPost below, may the best founder win!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x536b7ddc",
+    "url": "https://warpcast.com/mcbain/0x536b7ddc",
+    "author_username": "mcbain",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 1626,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6b5f14ba-508a-4090-abca-dae88b6e6d00/original",
+    "cast_date": "2024-10-08T15:46:38.000Z",
+    "text": "Look I know my \"We're going to fucking win together\" shit can be seen as cringe\n\nBut this game is hard as fuck and I'll be your champion",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xfbc076389e84f438b7b2d915be9e1375efc06594"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xfbc076389e84f438b7b2d915be9e1375efc06594",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xfbc076389e84f438b7b2d915be9e1375efc06594",
+          "parent_hash": null,
+          "parent_url": "https://farcaster.group/founders",
+          "root_parent_url": "https://farcaster.group/founders",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Looking for someone who can run /founders \n\n1. Start as a mod - adding / removing / moderating the channel\n2. If things are going well, I'll be happy to transfer ownership\n\nReply here if you're interested.",
+          "timestamp": "2024-10-08T14:57:06.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "founders",
+            "name": "Founders",
+            "image_url": "https://warpcast.com/~/channel-images/founders.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3e2c9b64",
+    "url": "https://warpcast.com/swampnet/0x3e2c9b64",
+    "author_username": "swampnet",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 471228,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2b2b9e8d-93cf-4a5f-2571-c77e6bcf5f00/rectcrop3",
+    "cast_date": "2024-10-08T16:47:05.000Z",
+    "text": "HUGE REVEAL. \n\nI kept my promise @icetoad.eth",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/9fb266b41ea1b96ab3c3e255250a615e.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 21.2
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x70bdc3bf",
+    "url": "https://warpcast.com/yes2crypto.eth/0x70bdc3bf",
+    "author_username": "yes2crypto.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 214447,
+    "author_pfp": "https://i.imgur.com/dBoVmnG.jpg",
+    "cast_date": "2024-10-07T01:56:46.000Z",
+    "text": "Farcaster is the worst designed social network.\nNone of the issues were addressed in the new version.\nIt’s ~$3/yr more expensive than alternatives, and there are no ads.\n\nBut I still joined because it sufficiently connects me to more quality people.\n\nThe ecosystem is so powerful.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 12256,
+          "hash": "0x0612b22d9813ecc5c1978529eb251ebcc9c1557f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0612b22d9813ecc5c1978529eb251ebcc9c1557f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12256,
+            "username": "kia.eth",
+            "display_name": "kia",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ad8e0dc4-20a5-46c3-8166-16b31c95c900/original",
+            "custody_address": "0xc0ef49b1b2aa1289544e422307fa787f1756678d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0612b22d9813ecc5c1978529eb251ebcc9c1557f",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/kia",
+          "root_parent_url": "https://warpcast.com/~/channel/kia",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "airpod max is the worst designed apple product\nnone of the issues were addressed in the new version\nit's ~$200 more expensive than competitors\n\nbut i still bought one cause it connects to my 4 other apple devices better\n\nthe ecosystem is so powerful",
+          "timestamp": "2024-10-07T01:41:36.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "kia",
+            "name": "kia",
+            "image_url": "https://i.imgur.com/BieVQXy.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xeb7ec518",
+    "url": "https://warpcast.com/dwr.eth/0xeb7ec518",
+    "author_username": "dwr.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-10-07T19:40:12.000Z",
+    "text": "we stopped being fun",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbc6eef0e",
+    "url": "https://warpcast.com/fun/0xbc6eef0e",
+    "author_username": "fun",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 5620,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d793c077-f8fc-4bd6-3c4c-d5b03603a400/original",
+    "cast_date": "2024-10-07T23:46:06.000Z",
+    "text": "i never stopped",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xeb7ec518b7911714ca62c16eb3eb2521e5a7c7cf"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xeb7ec518b7911714ca62c16eb3eb2521e5a7c7cf",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x68cff2a6ab728b64cf26ee81ebf8da0e244c633e",
+          "parent_hash": "0x68cff2a6ab728b64cf26ee81ebf8da0e244c633e",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 5486
+          },
+          "text": "we stopped being fun",
+          "timestamp": "2024-10-07T19:40:12.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc028a362",
+    "url": "https://warpcast.com/july/0xc028a362",
+    "author_username": "july",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 1287,
+    "author_pfp": "https://i.seadn.io/gcs/files/ed56e6b9a1b22720ce7490524db333e0.jpg?w=500&auto=format",
+    "cast_date": "2024-10-08T18:52:01.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3263df7c-d55c-4f35-2947-76f66ff92300/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 1306192,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 948,
+            "height_px": 816
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x91ad74ec",
+    "url": "https://warpcast.com/maretus.eth/0x91ad74ec",
+    "author_username": "maretus.eth",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 403619,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fdcdf847-993b-497b-f867-bca892486800/rectcrop3",
+    "cast_date": "2024-10-08T00:13:17.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f21b746e-924c-4880-760e-e42bcc60e500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 28232,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 640,
+            "height_px": 484
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x24ff3b7a",
+    "url": "https://warpcast.com/nounishprof/0x24ff3b7a",
+    "author_username": "nounishprof",
+    "show_date": "2024-10-09",
+    "show_title": "GM Farcaster ep166 Wednesday October 9, 2024 with guest cohosts @christin and @cameron",
+    "source_episode_id": "G8RtX2I-blY",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-10-08T13:17:41.000Z",
+    "text": "Just give him back the stapler already",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7a7e7979-57fd-426d-af8c-99d7e6b21000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 218868,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

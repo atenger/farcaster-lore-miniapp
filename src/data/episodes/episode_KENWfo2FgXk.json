@@ -1,0 +1,398 @@
+[
+  {
+    "cast_hash": "0x824e9883",
+    "url": "https://warpcast.com/ace/0x824e9883",
+    "author_username": "ace",
+    "show_date": "2024-01-23",
+    "show_title": "GM Farcaster ep51, Jan 23, 2024",
+    "source_episode_id": "KENWfo2FgXk",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x10fd524a",
+    "url": "https://warpcast.com/dwr.eth/0x10fd524a",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-23",
+    "show_title": "GM Farcaster ep51, Jan 23, 2024",
+    "source_episode_id": "KENWfo2FgXk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-23T01:52:12.000Z",
+    "text": "New on Warpcast mobile\n\nBetter image support in casts\n\nWe’re now capturing aspect ratios so landscape and portrait images will look more like they do on Twitter.\n\nMore to come with our new image infra…",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/VLA0OMD.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 131383,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://i.imgur.com/Z1F7WCI.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 675974,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x452027f3",
+    "url": "https://warpcast.com/dwr.eth/0x452027f3",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-23",
+    "show_title": "GM Farcaster ep51, Jan 23, 2024",
+    "source_episode_id": "KENWfo2FgXk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-23T02:21:51.000Z",
+    "text": "New aspect ratios work for all shapes and sizes.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 10259,
+          "hash": "0x07ff0f517f456abeb3aa20bceaa0dcb23b69a104"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x07ff0f517f456abeb3aa20bceaa0dcb23b69a104",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 10259,
+            "username": "alexgrover",
+            "display_name": "alex",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c93f613c-597c-455a-73fe-65f5e1610f00/original",
+            "custody_address": "0x7256a07fa8597bc1e63b7dae0cebb10dad7370ba"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x10fd524a78dbe2cb3b0e72ac73195ee8ebe88926",
+          "parent_hash": "0x10fd524a78dbe2cb3b0e72ac73195ee8ebe88926",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 3
+          },
+          "text": "",
+          "timestamp": "2024-01-23T02:20:11.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/8qlkWyu.jpg",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 399205,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 4000,
+                  "height_px": 1334
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb985b524",
+    "url": "https://warpcast.com/dwr.eth/0xb985b524",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-23",
+    "show_title": "GM Farcaster ep51, Jan 23, 2024",
+    "source_episode_id": "KENWfo2FgXk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-22T04:12:22.000Z",
+    "text": "Channel hosts — what kind of additional:\n\n- control\n- customization\n\n...would you want from channels?",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1970,
+          "hash": "0xa92605a6b27e837e4125ce6ae1dbe5eb46a06b04"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa92605a6b27e837e4125ce6ae1dbe5eb46a06b04",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1970,
+            "username": "grin",
+            "display_name": ":grin:",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e8d65d0e-42de-4237-1159-128e81c94900/original",
+            "custody_address": "0xa0114ba7fe57ad00afb47e3bc1cc0b122d28df89"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x214b5be0f4b4c4abb09b0edb960d38ccd35d465c",
+          "parent_hash": "0xfcc64d60c0cf6c3a27f78786f6a8d649e6fd6620",
+          "parent_url": null,
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": 2
+          },
+          "text": "My suggestion is to give hosts/communities more control. Everyone wants a space that’s custom to them.",
+          "timestamp": "2024-01-21T23:37:26.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x76ee73c5",
+    "url": "https://warpcast.com/dwr.eth/0x76ee73c5",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-23",
+    "show_title": "GM Farcaster ep51, Jan 23, 2024",
+    "source_episode_id": "KENWfo2FgXk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-22T16:24:58.000Z",
+    "text": "How do people manage the /degen feed given the quantity of casts per day?\n\nIs the top casts since you've been gone view helpful?\n\nWhat's something annoying about the /degen feed?\n\nAre you primarily viewing /degen casts in your home feed or visiting the /degen icon / feed to browse?",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/iQ9IRN7.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 21457,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1354,
+            "height_px": 134
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa85e33bf",
+    "url": "https://warpcast.com/farcasteradmin.eth/0xa85e33bf",
+    "author_username": "farcasteradmin.eth",
+    "show_date": "2024-01-23",
+    "show_title": "GM Farcaster ep51, Jan 23, 2024",
+    "source_episode_id": "KENWfo2FgXk",
+    "author_fid": 1356,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1be9d191-44f4-4dcb-1bc0-7538c07b9000/original",
+    "cast_date": "2024-01-22T23:33:45.000Z",
+    "text": "i thoroughly enjoy observing how @dwr and @v are having the \"oh, shit\" moment with the $degen, trying to learn how it happened, and how to replicate it, but at the same time not end up in jail or exiled from us 😂",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb773603c",
+    "url": "https://warpcast.com/christin/0xb773603c",
+    "author_username": "christin",
+    "show_date": "2024-01-23",
+    "show_title": "GM Farcaster ep51, Jan 23, 2024",
+    "source_episode_id": "KENWfo2FgXk",
+    "author_fid": 15850,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bd90b57-732c-445b-4670-00040e540100/original",
+    "cast_date": "2024-01-22T16:13:52.000Z",
+    "text": "I hope this pod will include a from-the-beginning-101 for those of us who uh, unfollowed /degen and would like the cliff's notes\n\nI'm most curious about the utility of such a token (if any), and how to...avoid being \"exit liquidity\"",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x06e3726a",
+    "url": "https://warpcast.com/jacek/0x06e3726a",
+    "author_username": "jacek",
+    "show_date": "2024-01-23",
+    "show_title": "GM Farcaster ep51, Jan 23, 2024",
+    "source_episode_id": "KENWfo2FgXk",
+    "author_fid": 15983,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+    "cast_date": "2024-01-22T14:09:18.000Z",
+    "text": "$DEGEN Update🔐: Locked the initial liquidity pool token until July '24. Sent 1/3 of team tokens (5% supply) to a 2-year vesting contract, maturing July '26. The remaining 10% is locked until July '24. Post-expiry will decide on extension/alternate use.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8588e1d8",
+    "url": "https://warpcast.com/purp/0x8588e1d8",
+    "author_username": "purp",
+    "show_date": "2024-01-23",
+    "show_title": "GM Farcaster ep51, Jan 23, 2024",
+    "source_episode_id": "KENWfo2FgXk",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x9c2640af",
+    "url": "https://warpcast.com/antimofm.eth/0x9c2640af",
+    "author_username": "antimofm.eth",
+    "show_date": "2024-01-23",
+    "show_title": "GM Farcaster ep51, Jan 23, 2024",
+    "source_episode_id": "KENWfo2FgXk",
+    "author_fid": 4923,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ecab7b34-e9a7-4c3d-2cd4-c3f0f887b500/original",
+    "cast_date": "2024-01-19T01:34:26.000Z",
+    "text": "this is not a drill\n\nthe $DEGEN sub is happening - details below\n\n- it will be on hypersub.xyz\n- i will share 50% of $DEGEN revenue with subscribers\n- you get 1 degen-related (or not, whatever) design ask per week\n\ni need your help with pricing it, pls help\n\nfeedback welcome\n\ncc @nonlinear.eth @jacek",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/hnV6kHR.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 6903,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1000,
+            "height_px": 1000
+          }
+        }
+      },
+      {
+        "url": "http://hypersub.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.hypersub.xyz",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://www.hypersub.xyz/hsog.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Hypersub",
+            "ogSiteName": "Hypersub",
+            "ogDescription": "The easiest way to create, discover, and mint subscription NFTs"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0d41247e",
+    "url": "https://warpcast.com/linda/0x0d41247e",
+    "author_username": "linda",
+    "show_date": "2024-01-23",
+    "show_title": "GM Farcaster ep51, Jan 23, 2024",
+    "source_episode_id": "KENWfo2FgXk",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-01-22T23:57:53.000Z",
+    "text": "New Bountycaster feature:\n\n$degen is now picked up by our bot 🎩\n\nWe don't have a price feed in our system yet so you'll need to specify the amount of $degen tokens for the bot to pick it up for now e.g. 50,000 $degen bounty",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc21b7cc0",
+    "url": "https://warpcast.com/0xpotus/0xc21b7cc0",
+    "author_username": "0xpotus",
+    "show_date": "2024-01-23",
+    "show_title": "GM Farcaster ep51, Jan 23, 2024",
+    "source_episode_id": "KENWfo2FgXk",
+    "author_fid": 222389,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70fa1f46-4b9b-430d-8d58-f9f3c963bb00/original",
+    "cast_date": "2024-01-22T18:35:14.000Z",
+    "text": "Coingecko lists $DEGEN as the largest gainer on their platform! 🎩 \n\n\"One small step for degentleman, one giant leap for degentlekind\"",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/rzVtv96.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 85053,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1447,
+            "height_px": 384
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xad12629c",
+    "url": "https://warpcast.com/raulonastool/0xad12629c",
+    "author_username": "raulonastool",
+    "show_date": "2024-01-23",
+    "show_title": "GM Farcaster ep51, Jan 23, 2024",
+    "source_episode_id": "KENWfo2FgXk",
+    "author_fid": 18661,
+    "author_pfp": "https://i.imgur.com/0fIlKyf.gif",
+    "cast_date": "2024-01-23T00:12:10.000Z",
+    "text": "Brian Armstrong is DEGEN 🎩💜\n\nA CC0 derivative of 1337 Brians on Base.\n\nIn collaboration with @caygeon \n\nhttps://zora.co/collect/base:0x904af2f1a3f14e4be970b351df9f9b4374d1b6ec/1",
+    "embeds": [
+      {
+        "url": "https://zora.co/collect/base:0x904af2f1a3f14e4be970b351df9f9b4374d1b6ec/1?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x07e84e79",
+    "url": "https://warpcast.com/cybershakti/0x07e84e79",
+    "author_username": "cybershakti",
+    "show_date": "2024-01-23",
+    "show_title": "GM Farcaster ep51, Jan 23, 2024",
+    "source_episode_id": "KENWfo2FgXk",
+    "author_fid": 7620,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f89ad3fc-74a4-44c1-7aa1-c61a6fd4fb00/original",
+    "cast_date": "2024-01-23T07:34:21.000Z",
+    "text": "Look no further! The ONLY onchain MEME Generator that lets you add $Degen Hats to your NFTs and Memes + ai gen support is here....\nOpening access in a few....Recast if you're EXCITED! \n\n ~ 𝙈𝙖𝙙𝙚 𝙤𝙣 @poster  - 𝙔𝙤𝙪𝙧 𝙒𝙚𝙗3 𝙎𝙤𝙘𝙞𝙖𝙡 𝙎𝙩𝙪𝙙𝙞𝙤",
+    "embeds": [
+      {
+        "url": "https://zora.co/collect/zora:0xf1cd9571f3390db3d8fdee7ccc4d5c32134c1178?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xda9fa0d4",
+    "url": "https://warpcast.com/jacek/0xda9fa0d4",
+    "author_username": "jacek",
+    "show_date": "2024-01-23",
+    "show_title": "GM Farcaster ep51, Jan 23, 2024",
+    "source_episode_id": "KENWfo2FgXk",
+    "author_fid": 15983,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+    "cast_date": "2024-01-23T11:16:57.000Z",
+    "text": "$DEGEN Logo Bounty: Time to cast your vote for the new Degen logo! Head over to https://www.degen.tips/logo-contest, pick your favorite logo, and reply under this cast with its number. Voting closes in 24 hours, at 12 noon CET tomorrow. Best of luck to all our talented participants!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  }
+]

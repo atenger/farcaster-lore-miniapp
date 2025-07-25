@@ -1,0 +1,1316 @@
+[
+  {
+    "cast_hash": "0xe936280a",
+    "url": "https://warpcast.com/eriks/0xe936280a",
+    "author_username": "eriks",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 8447,
+    "author_pfp": "https://i.seadn.io/s/raw/files/ad549379a71c7948b405e10d84e5e7b7.png?w=500&auto=format",
+    "cast_date": "2024-09-15T01:57:28.000Z",
+    "text": "purple hour on the purple app 🌊",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0d1f1274-c615-4f71-a60d-3a9b3b2c5000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 749585,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2560,
+            "height_px": 3079
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1b2c7c57",
+    "url": "https://warpcast.com/theboneys/0x1b2c7c57",
+    "author_username": "theboneys",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 5666,
+    "author_pfp": "https://i.imgur.com/l5vyy0j.gif",
+    "cast_date": "2024-09-17T23:29:32.000Z",
+    "text": "🦈🥒🚧",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/75ca3e9f-bd0e-4092-2fa0-1db041c84a00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 63914,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1334,
+            "height_px": 1334
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf8abcce9",
+    "url": "https://warpcast.com/dwr.eth/0xf8abcce9",
+    "author_username": "dwr.eth",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-09-17T17:45:09.000Z",
+    "text": "The spam filtering dilemma\n\nSharing how we think about it so people can better understand:\n\n1. Most people will only use social networks if they are fun\n\n2. Casting something and getting dozens of spammy replies is not fun\n\n3. If you get enough spammy replies, you'll just stop using the app\n\n4. So, aggressively filtering for spam is necessary to keep your existing users happy\n\n5. However, this means some good new users will hit spam filters. Understatement: this is a bad user experience for those people. It would be great to not have this happen.\n\n6. But given the choice of who to make unhappy — an existing user who has invested a ton of time and energy into the network or a new user that is most likely to churn (top tier social networks lose 50% of users!), then you have to optimize for your existing users.\n\n7. So does that mean you don’t care about new users? No! It’s existential to have new users be able to join Farcaster and find people to connect with — without being labeled as spam.\n\n1/2",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe35993fc",
+    "url": "https://warpcast.com/dwr.eth/0xe35993fc",
+    "author_username": "dwr.eth",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-09-17T18:34:37.000Z",
+    "text": "Here's another way to look at the spam filtering problem. Consider this hypothetical?\n\n1. Let's say you have a new account on the network (Account A) at they reply 100 times to the same account (Account B) with no engagement back.\n\n2. It doesn't actually matter if Account A is run by a human or a bot with AI. \n\n3. If you have 1000 accounts like Account B, Account A will just stop using the app. They'll move to another network or a messaging app.\n\n4. Ideally, Account B would reply thoughtfully a few times and Account A engages with them, and then it increases over time as they build a relationship.\n\n5. If you say \"well 100 times is too much, but 50 times is fine\", then you're admitting humans can be spammy and we're now arguing over the definition.\n\n6. Side note: I don't think anyone is ready for a world where bots powered by AI are as interesting—or even more interesting—than humans.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53dd27ee-77a0-49a7-b009-ea1ba1c8b900/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 135013,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1764,
+            "height_px": 1622
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xf8abcce9adeb30bee0ea9c026748e8621057288f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf8abcce9adeb30bee0ea9c026748e8621057288f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf8abcce9adeb30bee0ea9c026748e8621057288f",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "The spam filtering dilemma\n\nSharing how we think about it so people can better understand:\n\n1. Most people will only use social networks if they are fun\n\n2. Casting something and getting dozens of spammy replies is not fun\n\n3. If you get enough spammy replies, you'll just stop using the app\n\n4. So, aggressively filtering for spam is necessary to keep your existing users happy\n\n5. However, this means some good new users will hit spam filters. Understatement: this is a bad user experience for those people. It would be great to not have this happen.\n\n6. But given the choice of who to make unhappy — an existing user who has invested a ton of time and energy into the network or a new user that is most likely to churn (top tier social networks lose 50% of users!), then you have to optimize for your existing users.\n\n7. So does that mean you don’t care about new users? No! It’s existential to have new users be able to join Farcaster and find people to connect with — without being labeled as spam.\n\n1/2",
+          "timestamp": "2024-09-17T17:45:09.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x297198e8",
+    "url": "https://warpcast.com/dwr.eth/0x297198e8",
+    "author_username": "dwr.eth",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-09-17T20:00:03.000Z",
+    "text": "The spam filtering dilemma\n\n(Put the 3 long casts into a single spot for easier referencing.)\n\nhttps://dwr.email/the-spam-filtering-dilemma",
+    "embeds": [
+      {
+        "url": "https://dwr.email/the-spam-filtering-dilemma",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2024-09-17T19:59:25.033Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/3a15af6c6c2e9341e6e04d4b5bf36b5f",
+            "ogTitle": "The spam filtering dilemma",
+            "ogLocale": "en",
+            "ogDescription": "Sharing how we think about spam so people can better understand.Who should you prioritize?1. Most people will only use social networks if they are fun 2. Casting something and getting dozens of spammy replies is not fun 3. If you get enough spammy replies, you'll just stop using the app 4. So, aggressively filtering for spam is necessary to keep your existing users happy 5. However, this means some good new users will hit spam filters. Understatement: this is a bad user experience for those p...",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@dwr/the-spam-filtering-dilemma?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=The%20spam%20filtering%20dilemma&blogName=dwr%20updates&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F3a15af6c6c2e9341e6e04d4b5bf36b5f&coverPhotoUrl=&size=2048&publishedDate=1726603165033"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=The%20spam%20filtering%20dilemma&blogName=dwr%20updates&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F3a15af6c6c2e9341e6e04d4b5bf36b5f&coverPhotoUrl=&size=2048&publishedDate=1726603165033",
+            "frames_url": "https://dwr.email/the-spam-filtering-dilemma"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x85d793de",
+    "url": "https://warpcast.com/jrf/0x85d793de",
+    "author_username": "jrf",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 11528,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b679fba1-7f7b-4bf6-9a57-11f8a3519a00/rectcrop3",
+    "cast_date": "2024-09-17T01:44:25.000Z",
+    "text": "did someone say mini apps?? \n\nwell.. i created a no-code ai app to build farcaster ai mini apps ✨️\n\nthe *simplest* way to get started building with ai on farcaster \n\ni'm creating a @hypersub and i'd also like some people to test it out, so *like, reply and recast* if you're interested!",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/merkle-manufactory/image/fetch/c_fill,f_png/https%3A%2F%2Fi.ibb.co%2FKm279cP%2F5ae478e11fe4.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 76463,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 990,
+            "height_px": 1040
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x11be33b4",
+    "url": "https://warpcast.com/base/0x11be33b4",
+    "author_username": "base",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x3387744f",
+    "url": "https://warpcast.com/matchaxyz/0x3387744f",
+    "author_username": "matchaxyz",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 17114,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d73b034-b5d1-4ca0-d349-d99fc6aa3000/original",
+    "cast_date": "2024-09-17T05:25:17.000Z",
+    "text": "gg /farconasia 🍵🤝🏛️",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3d7c0b27-014c-4dd0-a676-7b5856287f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 1078079,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3200,
+            "height_px": 2400
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x34fa018b",
+    "url": "https://warpcast.com/ilaz/0x34fa018b",
+    "author_username": "ilaz",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 381077,
+    "author_pfp": "https://i.imgur.com/mntgQ9P.jpg",
+    "cast_date": "2024-09-17T10:00:38.000Z",
+    "text": "How are we going to grow the creator economy on Farcatser?\n\n@blockbeatsasia.eth @gregarious @0xluo.eth @elxlee Gracie \n\n@cybershakti you were missed 😝",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5aa83746-e307-4687-3b20-06f1e6287000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 881345,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3023,
+            "height_px": 2833
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x44e1308a",
+    "url": "https://warpcast.com/elxlee/0x44e1308a",
+    "author_username": "elxlee",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 231317,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d464d60e-6e7e-4c8b-1c6c-a0c6f881f600/rectcrop3",
+    "cast_date": "2024-09-17T03:56:43.000Z",
+    "text": "Happy to meet with online friends @ahn.eth at /farconasia",
+    "embeds": [
+      {
+        "url": "https://moshi.cam/pics/0x60782398233ec61630e2667b031b6d5a1b67f145/7172968000000006/2mBM2rz7UiJwKZHoJgPgEq5lOKd?bg=light",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://moshi.cam/api/og?imageUrl=https%3A%2F%2Flh3.googleusercontent.com%2F5hTzMF5jTejZiFI8CQmt4xyn_jPsff-pGGh9syZViM1EkmSxirvueHtAJyHSamtVSxZWt_nEGhG9-xKouhl3t_TrzC1a_XsgJQ%3Ds1000&useSquareAspectRatio=0&bg=light",
+                "width": "630",
+                "height": "1200"
+              }
+            ],
+            "ogTitle": "Moshi by El",
+            "ogLocale": "en",
+            "ogDescription": "Your mobile deco studio."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7683a7c1",
+    "url": "https://warpcast.com/ted/0x7683a7c1",
+    "author_username": "ted",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-09-18T02:37:39.000Z",
+    "text": "if you’re not at Token2049, here’s an on-the-ground look at the fifth floor (warning: sensory overload, like disneyworld but for crypto).\n\ndoes anyone what the llama is? what is Messi doing here? why is there a tesla? who wants to play pádel?\n\nif you are here, come say hi @matchaxyz and win some f1-inspired merch!",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/76f5f0f48f27c6d0702febbd3b4d01d2.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 61
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x05e08ec4",
+    "url": "https://warpcast.com/marissaposner/0x05e08ec4",
+    "author_username": "marissaposner",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 13901,
+    "author_pfp": "https://i.imgur.com/5qUbLkx.jpg",
+    "cast_date": "2024-09-17T02:43:28.000Z",
+    "text": "Excited to be at /farconasia and hear @jesse.base.eth speak about how crypto will grow faster than the internet grew. The internet required hardware whereas crypto only requires the same computers/phones we already have.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e9a222dc-6aff-45a4-9524-97da72cbc700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 851276,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2400,
+            "height_px": 3200
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1af6f37b",
+    "url": "https://warpcast.com/elxlee/0x1af6f37b",
+    "author_username": "elxlee",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 231317,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d464d60e-6e7e-4c8b-1c6c-a0c6f881f600/rectcrop3",
+    "cast_date": "2024-09-17T03:05:28.000Z",
+    "text": "We’re on @ted and @dwr.eth fireside chat! Live Q&A to follow - \n\nAny questions, I will to ask 🫡",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/beed97ff-833c-4d47-a413-01b8ca4fd100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 871121,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2524,
+            "height_px": 3200
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x823960e2",
+    "url": "https://warpcast.com/aviationdoctor.eth/0x823960e2",
+    "author_username": "aviationdoctor.eth",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 7237,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5e8ddd60-c492-453f-3708-d6ef258b7300/original",
+    "cast_date": "2024-09-17T03:12:08.000Z",
+    "text": "“I’m not saying it was aliens, but it was aliens”\n\nFireside chat between @ted and @dwr.eth at FarCon Asia",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a72f4793-6bc8-4c97-3c4d-68a34f414a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 819327,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3200,
+            "height_px": 2400
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7c9aad46",
+    "url": "https://warpcast.com/tricil.eth/0x7c9aad46",
+    "author_username": "tricil.eth",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 4294,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c4eb018-064a-4ea3-8880-dfbf87020600/original",
+    "cast_date": "2024-09-17T03:20:25.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/07e9eaec-5603-4d1a-e713-7d8985d80500/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 1977818,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2271,
+            "height_px": 1190
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 7237,
+          "hash": "0x823960e2dae61407e878f09525df3ab2a0c68790"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x823960e2dae61407e878f09525df3ab2a0c68790",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 7237,
+            "username": "aviationdoctor.eth",
+            "display_name": "Thomas",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5e8ddd60-c492-453f-3708-d6ef258b7300/original",
+            "custody_address": "0x039ee98d170cfe4d3c78761edd9857fbae646a36"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x823960e2dae61407e878f09525df3ab2a0c68790",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "“I’m not saying it was aliens, but it was aliens”\n\nFireside chat between @ted and @dwr.eth at FarCon Asia",
+          "timestamp": "2024-09-17T03:12:08.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a72f4793-6bc8-4c97-3c4d-68a34f414a00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 819327,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 3200,
+                  "height_px": 2400
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc2082e3c",
+    "url": "https://warpcast.com/alinaferry/0xc2082e3c",
+    "author_username": "alinaferry",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 282672,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmbLg9mEy628dFJfv6yZRV2fCxsf5yDSmSNtQx1xEShkeT?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-09-17T05:39:26.000Z",
+    "text": "when I crop out the background instead of using AI",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c6bad7b8-de90-4936-d5f1-cc5f0ce06300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 44698,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 693,
+            "height_px": 500
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 4294,
+          "hash": "0x7c9aad4600abf38efb5ca56c7d998e1da97e6037"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7c9aad4600abf38efb5ca56c7d998e1da97e6037",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4294,
+            "username": "tricil.eth",
+            "display_name": "tricil",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c4eb018-064a-4ea3-8880-dfbf87020600/original",
+            "custody_address": "0x644ec1de03d02753482c904982d075d7354f6657"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7c9aad4600abf38efb5ca56c7d998e1da97e6037",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "",
+          "timestamp": "2024-09-17T03:20:25.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/07e9eaec-5603-4d1a-e713-7d8985d80500/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 1977818,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2271,
+                  "height_px": 1190
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 7237,
+                "hash": "0x823960e2dae61407e878f09525df3ab2a0c68790"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x823960e2dae61407e878f09525df3ab2a0c68790",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 7237
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xabbc793f",
+    "url": "https://warpcast.com/kylepatrick.eth/0xabbc793f",
+    "author_username": "kylepatrick.eth",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 247143,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15b35784-d490-4144-15c4-62edc2a58c00/rectcrop3",
+    "cast_date": "2024-09-18T08:13:10.000Z",
+    "text": "its either we go to zero or valhalla\n\nno in between",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/bf20112dce33f1c5660bc6a90a7df5b1.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "codec_name": "h264",
+                "height_px": 1280,
+                "width_px": 720
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 852,
+                "width_px": 480
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 640,
+                "width_px": 360
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 426,
+                "width_px": 240
+              }
+            ],
+            "duration_s": 19.5
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc985e710",
+    "url": "https://warpcast.com/ilaz/0xc985e710",
+    "author_username": "ilaz",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 381077,
+    "author_pfp": "https://i.imgur.com/mntgQ9P.jpg",
+    "cast_date": "2024-09-17T01:13:48.000Z",
+    "text": "​Join us for a community gathering of builders who are passionate about Base and Farcaster! Organized by @snickerdoodle, @gmfarcaster, @icebreaker, /unofficial, @lazertech, Halbon, and Sushi.",
+    "embeds": [
+      {
+        "url": "https://beta.events.xyz/events/9075a5",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/api/frames/events/9075a5/img/no_rsvp"
+              }
+            ],
+            "ogTitle": "FarIRL Coffee Meetup: Connecting the Base Community",
+            "ogLocale": "en",
+            "ogDescription": "FB Events for Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa0f4bf35",
+    "url": "https://warpcast.com/phil/0xa0f4bf35",
+    "author_username": "phil",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2024-09-17T13:29:59.000Z",
+    "text": "Silicon Valley Canon is now 75% full and the quality of participants in the course is top-notch. \n\nIf you're interested, you can grab one of the last 8 spots here: https://www.hypersub.xyz/s/silicon-valley-canon\n\nSpecial thanks to everyone who has subscribed already, including: @ted @nonlinear.eth @matthew @syed @zinger @veekay @tomu @iammatthias @yb @jtgi",
+    "embeds": [
+      {
+        "url": "https://www.hypersub.xyz/s/silicon-valley-canon",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/silicon-valley-canon",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d9c78b8e-70de-446e-91c7-e0311641c9eb.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to /books: Silicon Valley Canon on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "Silicon Valley Canon is a six-week paid course based on Patrick Collison’s [book list.](https://x.com/patrickc/status/1825618450837885036) The course incl...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/books-silicon-valley-canon-1it3ti9lyyk1s?slug=books-silicon-valley-canon-1it3ti9lyyk1s",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d9c78b8e-70de-446e-91c7-e0311641c9eb.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d9c78b8e-70de-446e-91c7-e0311641c9eb.png",
+            "frames_url": "https://www.hypersub.xyz/s/silicon-valley-canon"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6e863a39",
+    "url": "https://warpcast.com/keccers.eth/0x6e863a39",
+    "author_username": "keccers.eth",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 4407,
+    "author_pfp": "https://i.imgur.com/kynnpYw.jpg",
+    "cast_date": "2024-09-17T12:37:41.000Z",
+    "text": "I know words (although several people have beat my score now, best one I saw on this test was 30k)\n\nhttps://www.arealme.com/vocabulary-size-test/en/",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ed4659c9-853a-42a5-9279-e25532e66800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 92174,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 1416
+          }
+        }
+      },
+      {
+        "url": "https://www.arealme.com/vocabulary-size-test/en/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.arealme.com/vocabulary-size-test/en/",
+            "ogType": "website",
+            "favicon": "//areal.me/fav.ico",
+            "ogImage": [
+              {
+                "alt": "Online English Vocabulary Size Test - Push Your Limits with our latest updates in 2024!",
+                "url": "https://areal.me/cover-images/vocabulary-size-test.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Online English Vocabulary Size Test - Push Your Limits with our latest updates in 2024!",
+            "ogLocale": "en-US",
+            "ogDescription": "Answer these simple questions to know your vocabulary size now! No registration, no bullcrap."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2036e007",
+    "url": "https://warpcast.com/samantha/0x2036e007",
+    "author_username": "samantha",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 1606,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/015f24f6-2e7e-4890-8e10-af5e66e19200/rectcrop3",
+    "cast_date": "2024-09-17T21:44:56.000Z",
+    "text": "im gonna be honest I took the word quiz but my brainrot brain could not pay attention that long 💀🚩",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3798ca39",
+    "url": "https://warpcast.com/cassie/0x3798ca39",
+    "author_username": "cassie",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 1325,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45bf39bb-9508-40de-a224-68811d248900/rectcrop3",
+    "cast_date": "2024-09-18T01:30:08.000Z",
+    "text": "It is no longer just breaking news for crypto that happens here, but now the rest of the world's news.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 758919,
+          "hash": "0x0a67ca08c1b98ba068eb2bb63001bccbf1f65081"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0a67ca08c1b98ba068eb2bb63001bccbf1f65081",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 758919,
+            "username": "mazmhussain",
+            "display_name": "Murtaza Hussain",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e95b6f64-1d2d-4ac2-1d50-d2c9304e0100/original",
+            "custody_address": "0x322983dcf077b79a0ec245d34f83b403c681354f"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0a67ca08c1b98ba068eb2bb63001bccbf1f65081",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/dropglobalnews",
+          "root_parent_url": "https://warpcast.com/~/channel/dropglobalnews",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Confirmed it was 2)",
+          "timestamp": "2024-09-17T22:32:16.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 758919,
+                "hash": "0x9421061a2790528d62f3775209e0ce53fab5a490"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x9421061a2790528d62f3775209e0ce53fab5a490",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 758919
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "dropglobalnews",
+            "name": "Global News",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/60cdd20c-3d0d-4a11-5e57-d00aca89c800/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0a67ca08",
+    "url": "https://warpcast.com/mazmhussain/0x0a67ca08",
+    "author_username": "mazmhussain",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 758919,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e95b6f64-1d2d-4ac2-1d50-d2c9304e0100/original",
+    "cast_date": "2024-09-17T22:32:16.000Z",
+    "text": "Confirmed it was 2)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 758919,
+          "hash": "0x9421061a2790528d62f3775209e0ce53fab5a490"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x9421061a2790528d62f3775209e0ce53fab5a490",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 758919,
+            "username": "mazmhussain",
+            "display_name": "Murtaza Hussain",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e95b6f64-1d2d-4ac2-1d50-d2c9304e0100/original",
+            "custody_address": "0x322983dcf077b79a0ec245d34f83b403c681354f"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9421061a2790528d62f3775209e0ce53fab5a490",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Few possibilities:\n\n1) Prelude to a war that throws them off balance (looking unlikely)\n\n2) The vulnerability was about to be discovered so had to be used immediately",
+          "timestamp": "2024-09-17T17:14:31.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 12256,
+                "hash": "0xf98d24a2a53b76206c789f24d2c41b3d18797ab1"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xf98d24a2a53b76206c789f24d2c41b3d18797ab1",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 12256
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2443fe59",
+    "url": "https://warpcast.com/tricil.eth/0x2443fe59",
+    "author_username": "tricil.eth",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 4294,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c4eb018-064a-4ea3-8880-dfbf87020600/original",
+    "cast_date": "2024-09-17T17:07:04.000Z",
+    "text": "only five farcasters have gotten the $5 USDC reward every single day for 23 days in a row:\n\nwould not fade us, anon",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5adebf0c-1202-4b86-0854-4a24695c7c00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 80235,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1460,
+            "height_px": 438
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x14107646",
+    "url": "https://warpcast.com/yes2crypto.eth/0x14107646",
+    "author_username": "yes2crypto.eth",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 214447,
+    "author_pfp": "https://i.imgur.com/dBoVmnG.jpg",
+    "cast_date": "2024-09-18T01:19:45.000Z",
+    "text": "Was a good night.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5345041d-60f1-4a4f-f1e4-62add7ffcd00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 703227,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3200,
+            "height_px": 2400
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 5037,
+          "hash": "0xa439ec48109983cd2168ac532977f52d46b08460"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa439ec48109983cd2168ac532977f52d46b08460",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5037,
+            "username": "earth2travis",
+            "display_name": "Ξ2T 🏰",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/21f9496f-c82e-476c-0af4-14fb7f824600/original",
+            "custody_address": "0xf5b3de91594e78c21d76a099e96e05a4252b25a9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa439ec48109983cd2168ac532977f52d46b08460",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/ethereumfilm",
+          "root_parent_url": "https://warpcast.com/~/channel/ethereumfilm",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "About to see the sneak peak of the sneak peak at the @yes2crypto.eth premiere of @ethereumfilm \n\nShout out to @linda and @carrieweprin    for proving the power of permissionlessness",
+          "timestamp": "2024-09-17T23:25:17.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 214447,
+                "hash": "0x9759438d89484cfe58fcc523e52a86a26ed1c05c"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x9759438d89484cfe58fcc523e52a86a26ed1c05c",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 214447
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "ethereumfilm",
+            "name": "Ethereum Stories",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3c64949a-912e-45bf-6144-226dcde7fe00/rectcrop3"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x83392d6d",
+    "url": "https://warpcast.com/linda/0x83392d6d",
+    "author_username": "linda",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-09-17T19:16:41.000Z",
+    "text": "Tomorrow is the worldwide theater premiere of the @ethereumfilm documentary \"Vitalik: An Ethereum Story\" screening in 23 countries! Tickets at ethereumfilm.xyz\n\nThank you all for the support, we're excited to get more high production crypto stories out there!",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/6bba121a45715e08b743e0a4787f9b65.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 2160,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1440,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 960,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 480,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 157.895961
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5a50056b",
+    "url": "https://warpcast.com/nounishprof/0x5a50056b",
+    "author_username": "nounishprof",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-09-17T02:34:02.000Z",
+    "text": "Ok I did the thing -- not a bad summary actually",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8261af92-f8b0-464d-cf7b-28f46762d200/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 112211,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1015,
+            "height_px": 659
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0x33b5e686e5dc09b0773604d75c76f2a26f41eb14"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x33b5e686e5dc09b0773604d75c76f2a26f41eb14",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x33b5e686e5dc09b0773604d75c76f2a26f41eb14",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I did the thing where I asked ChatGPT about my farcaster account and I'm just annoyed it didn't excuse me of being too toxically positive \n\nI also asked about DWR and it was kinda hilarious (see next cast)",
+          "timestamp": "2024-09-16T18:49:03.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53f72700-1927-441d-f03f-71fa53e51a00/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 179691,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1301,
+                  "height_px": 1113
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x33b5e686",
+    "url": "https://warpcast.com/adrienne/0x33b5e686",
+    "author_username": "adrienne",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-09-16T18:49:03.000Z",
+    "text": "I did the thing where I asked ChatGPT about my farcaster account and I'm just annoyed it didn't excuse me of being too toxically positive \n\nI also asked about DWR and it was kinda hilarious (see next cast)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53f72700-1927-441d-f03f-71fa53e51a00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 179691,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1301,
+            "height_px": 1113
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdcfd0dba",
+    "url": "https://warpcast.com/adrienne/0xdcfd0dba",
+    "author_username": "adrienne",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-09-16T18:51:54.000Z",
+    "text": "If you're unhappy with Warpcast and want a more tailored browsing experience on Farcaster, might I suggest you checkout Dan's Warpcast Reader, built by Dan Romero? 🤣🤣",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e97b7e41-b9dd-4986-fa47-5a5c0818c900/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 133114,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1235,
+            "height_px": 919
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa4d82751",
+    "url": "https://warpcast.com/bradq/0xa4d82751",
+    "author_username": "bradq",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2024-09-13T18:38:16.000Z",
+    "text": "wow. a veritable who's who of FC...you guys are killing it. Who are 1 or 2 guests that you haven't gotten yet that you want on the show?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd3dceae7",
+    "url": "https://warpcast.com/links/0xd3dceae7",
+    "author_username": "links",
+    "show_date": "2024-09-19",
+    "show_title": "GM Farcaster ep157 Wednesday September 18, 2024",
+    "source_episode_id": "h8GYg2V8PP8",
+    "author_fid": 18586,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06e47196-f4da-425c-a611-1a22464cfd00/rectcrop3",
+    "cast_date": "2024-09-17T02:49:40.000Z",
+    "text": "These days I never stop yawning",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/22e60c59-b074-4d19-88cf-ff7bec31b000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 55012,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 500,
+            "height_px": 899
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

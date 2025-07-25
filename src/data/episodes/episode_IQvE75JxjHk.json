@@ -1,0 +1,883 @@
+[
+  {
+    "cast_hash": "0xf6856e74",
+    "url": "https://warpcast.com/v/0xf6856e74",
+    "author_username": "v",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-01-31T05:34:33.000Z",
+    "text": "@gt shipped a bunch of Frame improvements today: \n\n- Button Redirects, to send users out to websites.\n- Clickable images, so users can navigate back to your site.\n- Frame Validator, to debug your frames as you build them. \n\nWhat else do you want see shipped?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcafc0288",
+    "url": "https://warpcast.com/v/0xcafc0288",
+    "author_username": "v",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-01-30T22:33:34.000Z",
+    "text": "A brand new Frame Validator is here thanks to @gt!\n\nPlug in your frames to get quick feedback on what's working and what isn't. \n\nhttps://warpcast.com/~/developers/frames",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/15L7yKt.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 271317,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1282,
+            "height_px": 1812
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa78473a3",
+    "url": "https://warpcast.com/dwr.eth/0xa78473a3",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-30T22:59:23.000Z",
+    "text": "ELI5 redirects\n\nFrames can now redirect you to a webpage outside of Warpcast.\n\nEnables:\n\n- 1-click onboarding with pre-filled profile / friends\n\n- Customized webpage based on your public Farcaster profile / social graph— including onchain activity\n\n- Pay with crypto on that page\n\nhttps://warpcast.com/v/0x0156ae4e",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x0156ae4e674dda551851e89ab119b1977d570a71"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0156ae4e674dda551851e89ab119b1977d570a71",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0156ae4e674dda551851e89ab119b1977d570a71",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/frames",
+          "root_parent_url": "https://warpcast.com/~/channel/frames",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Frame Redirects are now live in Warpcast! \n\nAdd a button to send your users to an external site.  Here's an example @sanjay cooked up which is also FIP-15 compliant. \n\nhttps://redirect-frame.vercel.app/",
+          "timestamp": "2024-01-30T22:11:21.000Z",
+          "embeds": [
+            {
+              "url": "https://redirect-frame.vercel.app/",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogImage": [
+                    {
+                      "url": "https://redirect-frame.vercel.app/video.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Redirect frame",
+                  "ogLocale": "en",
+                  "ogDescription": "LFG"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "frames",
+            "name": "frames",
+            "image_url": "https://i.imgur.com/vz4KzeC.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xeca24d0e",
+    "url": "https://warpcast.com/songadaymann/0xeca24d0e",
+    "author_username": "songadaymann",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 4959,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cff6628a-c2d5-441c-5064-bf8d7676d000/original",
+    "cast_date": "2024-01-30T19:58:34.000Z",
+    "text": "IT'S A SONG ABOUT FRAMES 🖼️ \nWRITTEN BY YOU 🎸\n \n\nwatch/listen: https://youtu.be/MwCn50ZVPGQ\nmint here: https://songaday.world/5508",
+    "embeds": [
+      {
+        "url": "https://youtu.be/MwCn50ZVPGQ",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "undefined",
+            "oembed": {
+              "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/MwCn50ZVPGQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"15 Minutes of Frame | Song A Day #5508\"></iframe>",
+              "type": "video",
+              "title": "15 Minutes of Frame | Song A Day #5508",
+              "width": 200,
+              "height": 113,
+              "method": "provider-api",
+              "version": "1.0",
+              "author_url": "https://www.youtube.com/@JonathanMann",
+              "author_name": "Jonathan Mann",
+              "provider_url": "https://www.youtube.com/",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/MwCn50ZVPGQ/hqdefault.jpg",
+              "thumbnail_width": 480,
+              "thumbnail_height": 360
+            },
+            "favicon": "https://www.youtube.com/s/desktop/e718aa11/img/logos/favicon.ico",
+            "ogTitle": " - YouTube",
+            "ogLocale": "en",
+            "ogDescription": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x35bbc5a0",
+    "url": "https://warpcast.com/cookie/0x35bbc5a0",
+    "author_username": "cookie",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 236626,
+    "author_pfp": "https://i.imgur.com/Gk1pNUi.png",
+    "cast_date": "2024-01-30T03:34:58.000Z",
+    "text": "🍪 $6 per box + shipping\n🍪 minimum quantity of 4 boxes\n🍪 shipping only in the USA\n🍪 invite to token-only @cookie gc\n🖼️ special onchain cookie\n\n🤭 $crumbs (?)\n\ncookiecaster.xyz/order",
+    "embeds": [
+      {
+        "url": "http://cookiecaster.xyz/order",
+        "metadata": {
+          "content_type": "text/plain;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1801f517",
+    "url": "https://warpcast.com/fiveoutofnine.eth/0x1801f517",
+    "author_username": "fiveoutofnine.eth",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 733,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8f17169f-4ba2-431c-6b51-3100000a6800/original",
+    "cast_date": "2024-01-30T17:51:14.000Z",
+    "text": "Play full-featured chess COMPLETELY inside a Farcaster Frame!\n\nhttps://onframe-chess.vercel.app/play",
+    "embeds": [
+      {
+        "url": "https://onframe-chess.vercel.app/play",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://onframe-chess.vercel.app",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://onframe-chess.vercel.app/static/og/home.png",
+                "type": "png"
+              },
+              {
+                "url": "https://onframe-chess.vercel.app/static/og/home.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Onframe Chess",
+            "ogLocale": "en_US",
+            "ogSiteName": "onframe-chess",
+            "ogDescription": "Fully featured chess game with Farcaster Frames."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xde5d10ec",
+    "url": "https://warpcast.com/owl/0xde5d10ec",
+    "author_username": "owl",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 10178,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b534cba-af6a-425f-145a-54653d0ac500/original",
+    "cast_date": "2024-01-30T21:45:52.000Z",
+    "text": "I promised to open source yesterday's degen🤝regen manifesto mint frame so here it is 🚀 https://github.com/lottopgf/zora-mint-frame If you have any issues just ping me :)\n\nOf course it's also deployed with its own free mint 👀 As always: like, recast and click the button! https://zora-mint-frame.vercel.app/",
+    "embeds": [
+      {
+        "url": "https://zora-mint-frame.vercel.app/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "alt": "Free mint!",
+                "url": "https://zora-mint-frame.vercel.app/opengraph-image.png?ecbdd0fe01cb7bbf",
+                "type": "image/png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Free mint!",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x77816706",
+    "url": "https://warpcast.com/syndicate/0x77816706",
+    "author_username": "syndicate",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 20929,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dc396a3f-437b-46b8-3113-460584615900/original",
+    "cast_date": "2024-01-31T01:36:47.000Z",
+    "text": "Introducing Syndicate Frame API. The easiest way to mint NFTs from a Frame on Base.\n\nAddress lookup, signature verification, minting by @syndicate. Gas sponsored by @base.base.eth.\n\nGo to frame.syndicate.io to learn more. DM @sammdec.eth or @will for access.\n\nLet’s usher in the next wave of web3 ✨",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 155,
+          "hash": "0x9f5e46332165e810696f41958d5e53813b35c096"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x9f5e46332165e810696f41958d5e53813b35c096",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 155,
+            "username": "will",
+            "display_name": "Will Papper",
+            "pfp_url": "https://i.imgur.com/fDHtyad.jpg",
+            "custody_address": "0xa5af367a92f9207f4480e594895239b42d50556c"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9f5e46332165e810696f41958d5e53813b35c096",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Announcing: The Syndicate Frame API. The simplest way to mint NFTs from a Frame on Base!\n\nEverything is handled for you. Everything! Address lookup, signature verification, minting by @syndicate, gas by @base.base.eth.\n\nDM for API key.\n\nhttps://syndicate-farcaster-frame-starter.vercel.app/api/syndicate-farcaster-frame-starter",
+          "timestamp": "2024-01-31T00:58:01.000Z",
+          "embeds": [
+            {
+              "url": "https://syndicate-farcaster-frame-starter.vercel.app/api/syndicate-farcaster-frame-starter",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": 956,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogImage": [
+                    {
+                      "url": "https://syndicate-farcaster-frame-starter.vercel.app/img/example-frame-farcaster-cropped.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Mint your commemorative NFT for the launch of Syndicate's Frame API!"
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "http://frame.syndicate.io",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/icon.svg?203c36aef5ce6b83",
+            "ogImage": [
+              {
+                "url": "https://frame.syndicate.io/opengraph-image.png?dc7ae8ffeffb1fcd",
+                "type": "image/png",
+                "width": "3200",
+                "height": "1672"
+              }
+            ],
+            "ogTitle": "Syndicate Frame API & Chain",
+            "ogLocale": "en",
+            "ogDescription": "Connect Farcaster Frames to onchain actions with Syndicate's Transaction Cloud platform"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x63d36289",
+    "url": "https://warpcast.com/manuelmaccou.eth/0x63d36289",
+    "author_username": "manuelmaccou.eth",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 8587,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fd615396-3618-4766-dcda-a7eff1ce4e00/rectcrop3",
+    "cast_date": "2024-01-30T17:15:05.000Z",
+    "text": "\"Sell anything on Farcaster\"\nUse this tool to automatically generate a frame and showcase your products, allowing people to shop directly in the feed. The future of online shopping?\n\nhttps://www.gogh.shopping/",
+    "embeds": [
+      {
+        "url": "https://www.gogh.shopping/",
+        "metadata": {
+          "content_type": null,
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x252d1398",
+    "url": "https://warpcast.com/samantha/0x252d1398",
+    "author_username": "samantha",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 1606,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/015f24f6-2e7e-4890-8e10-af5e66e19200/rectcrop3",
+    "cast_date": "2024-01-30T19:05:54.000Z",
+    "text": "Testing testing .. but you can still buy candles on (humankind.place) ;) \n\nhttps://www.gogh.shopping/product-page/d32c6bb4-67cc-4e85-98cb-91274e10d796",
+    "embeds": [
+      {
+        "url": "http://humankind.place",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://humankind.place/",
+            "ogDate": "2024-12-13T04:21:41Z",
+            "ogType": "website",
+            "favicon": "//humankind.place/cdn/shop/files/HKsparkle.svg?crop=center&height=32&v=1701285272&width=32",
+            "ogImage": [
+              {
+                "url": "https://humankind.place/cdn/shop/files/Wild_Fig_Cassis_Wood_Sage_Sea_Salt_87bfd7ab-9da6-46dd-8eb5-b302e2d8ee99.jpg?v=1732904585",
+                "type": "jpg",
+                "width": "1200",
+                "height": "1201"
+              }
+            ],
+            "ogTitle": "Humankind Candles",
+            "ogLocale": "en",
+            "ogSiteName": "Humankind",
+            "ogDescription": "We make dual scented candles."
+          }
+        }
+      },
+      {
+        "url": "https://www.gogh.shopping/product-page/d32c6bb4-67cc-4e85-98cb-91274e10d796",
+        "metadata": {
+          "content_type": null,
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb46ac0d1",
+    "url": "https://warpcast.com/dwr.eth/0xb46ac0d1",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-30T18:17:43.000Z",
+    "text": "Weekly Mint with Warps\n\nPRPL by @lght.eth \n\nhttps://zora.co/collect/zora:0x67805fba9dffb9ae89ce1ba8acd5414253b85bdf/12",
+    "embeds": [
+      {
+        "url": "https://zora.co/collect/zora:0x67805fba9dffb9ae89ce1ba8acd5414253b85bdf/12?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x53105735",
+    "url": "https://warpcast.com/dwr.eth/0x53105735",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-30T17:13:38.000Z",
+    "text": "We're continuing the Farcaster AMA series tomorrow with the one and only @cdixon.eth!\n\nTomorrow 1/31 at 10am Pacific",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/zajA4KE.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 152500,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1204,
+            "height_px": 716
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaa135d2e",
+    "url": "https://warpcast.com/dwr.eth/0xaa135d2e",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-30T21:27:18.000Z",
+    "text": "https://warpcast.com/pmarca/0x5901e102",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/Ekk8YoL.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 51834,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 632,
+            "height_px": 395
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 51,
+          "hash": "0x5901e1029557f5e2110e8dc0408e3ee04cb138da"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5901e1029557f5e2110e8dc0408e3ee04cb138da",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 51,
+            "username": "pmarca",
+            "display_name": "Marc Andreessen",
+            "pfp_url": "https://i.imgur.com/Dsd2dz2.jpg",
+            "custody_address": "0xf0de87c640a9648b662e9df4fb7533e26583ce2c"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5901e1029557f5e2110e8dc0408e3ee04cb138da",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Let's try a new experiment -- a standing Ask Me Anything -- ask me anything!",
+          "timestamp": "2024-01-30T21:04:02.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2303d62e",
+    "url": "https://warpcast.com/dwr.eth/0x2303d62e",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-30T21:20:41.000Z",
+    "text": "What motivates you?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xadda21a5",
+    "url": "https://warpcast.com/adrienne/0xadda21a5",
+    "author_username": "adrienne",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-01-28T19:36:09.000Z",
+    "text": "CIVIS VULPES SUM\n\nI AM A FOX\n\nFriends, I am in danger. Are you out there?",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/Dm85jrV.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 227340,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 679
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6d7684e6",
+    "url": "https://warpcast.com/dwr.eth/0x6d7684e6",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-30T16:33:36.000Z",
+    "text": "More DAU in 8 hours this morning than:\n\n- Monthly active users in September 2023\n- Quarterly active users in Q2 2023\n- Yearly active users in 2022",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xe0f676f981929da345e499055c63846bfd43ce1c"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe0f676f981929da345e499055c63846bfd43ce1c",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe0f676f981929da345e499055c63846bfd43ce1c",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "10K DAU by 8am Pacific...going to be a big day!",
+          "timestamp": "2024-01-30T16:20:17.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/uVh4E9D.png",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 14155,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 338,
+                  "height_px": 254
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x793cf6e4",
+    "url": "https://warpcast.com/base/0x793cf6e4",
+    "author_username": "base",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 12142,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce5460f6-40a2-4486-47c1-7801e4033e00/original",
+    "cast_date": "2024-01-30T18:39:30.000Z",
+    "text": "We're not done with grants for Frames 💙\n\nWe’re starting a new bounty for another 10 0.2 ETH grants for Based Frames\n\n10 builders will be chosen by 2/5 EOD\n\nWant to see a Frame considered? Tag projects in the replies \n\n@bountybot",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 12142,
+          "hash": "0x79e9af6f991cedaa3c817ac8b6036811cb7c91b7"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x79e9af6f991cedaa3c817ac8b6036811cb7c91b7",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12142,
+            "username": "base.base.eth",
+            "display_name": "Base",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce5460f6-40a2-4486-47c1-7801e4033e00/original",
+            "custody_address": "0x04e6f111ebf6fd25576d480480962435dc3aa8d8"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x79e9af6f991cedaa3c817ac8b6036811cb7c91b7",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/frames",
+          "root_parent_url": "https://warpcast.com/~/channel/frames",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "When Frames launched on Friday we ran a @bountybot to award five 0.2 ETH grants\n\nSince then we've seen so many amazing Based Frames that we decided to expand the initial grant to 10 talented builders\n\nHere are the recipients:",
+          "timestamp": "2024-01-30T18:07:16.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "frames",
+            "name": "frames",
+            "image_url": "https://i.imgur.com/vz4KzeC.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd12f15b3",
+    "url": "https://warpcast.com/linda/0xd12f15b3",
+    "author_username": "linda",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-01-30T16:18:18.000Z",
+    "text": "Since the Farcaster Frames launch, in the past few days we've had 80 new bounties posted on @bountycaster with 400+ total claims totaling over $33k. Would love for bounties to be a way for some folks to earn their first crypto!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x88627734",
+    "url": "https://warpcast.com/colin/0x88627734",
+    "author_username": "colin",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 378,
+    "author_pfp": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+    "cast_date": "2024-01-31T01:36:03.000Z",
+    "text": "Just launched Paragraph post frames. \n\nPaste any Paragraph URL and we turn it into a frame that lets users:\n\n- one-click subscribe to your newsletter\n- read the *entire post* straight from the feed (themed using your custom Paragraph theme)\n- visit the post online, with the original caster getting all referrer rewards",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5a54f55b",
+    "url": "https://warpcast.com/wmp/0x5a54f55b",
+    "author_username": "wmp",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 8680,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3ead2f75-60a1-4aba-042b-3aa1fdd29b00/rectcrop3",
+    "cast_date": "2024-01-30T18:02:29.000Z",
+    "text": "Wrote a 101 on Frames for Farcaster beginners\n\nIf you know anyone looking to get started here, this can help!\nhttps://metaversal.banklesshq.com/p/farcaster-frames",
+    "embeds": [
+      {
+        "url": "https://metaversal.banklesshq.com/p/farcaster-frames",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://metaversal.banklesshq.com/p/farcaster-frames",
+            "ogType": "article",
+            "favicon": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F710450bb-4244-4716-abfd-7b9cb5b3e338%2Ffavicon.ico",
+            "ogImage": [
+              {
+                "url": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4562f803-36d1-435c-9bdc-709a53aaa616_1920x1080.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Farcaster Frames: A Crypto Game Changer 📱",
+            "ogLocale": "en",
+            "ogDescription": "Why Farcaster Frames can revolutionize the crypto social scene!"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb1bd27e3",
+    "url": "https://warpcast.com/dwr.eth/0xb1bd27e3",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-30T22:12:50.000Z",
+    "text": "when people tag me in on developer questions for frames",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/7AqSD2m.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 48433,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 620,
+            "height_px": 465
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd4acc01a",
+    "url": "https://warpcast.com/dwr.eth/0xd4acc01a",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-30T22:23:41.000Z",
+    "text": "onframe to onchain, lack of ecdsa keys be damned",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/Uu4ACkU.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 116411,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 500,
+            "height_px": 597
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7687813f",
+    "url": "https://warpcast.com/dwr.eth/0x7687813f",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-28T18:36:53.000Z",
+    "text": "Starting today, Farcaster sign ups for US-based users are free on Warpcast.\n\nScan the QR code or share with a friend to get started:",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/7245QpY.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 77587,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1204,
+            "height_px": 716
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa46f17fe",
+    "url": "https://warpcast.com/ted/0xa46f17fe",
+    "author_username": "ted",
+    "show_date": "2024-01-31",
+    "show_title": "GM Farcaster ep55, Jan 31, 2024",
+    "source_episode_id": "IQvE75JxjHk",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-01-24T16:44:54.000Z",
+    "text": "going through FarCon applications (first wave of approvals comes out feb 6!) and there is one overwhelming theme: friendship and community.\n\nthe internet strangers to real friends pipeline is a phenomenon that is somewhat unique to farcaster. we may grow out of it as the protocol scales, so cherish the opportunity now.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/jVANX6S.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 343011,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1432,
+            "height_px": 1026
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

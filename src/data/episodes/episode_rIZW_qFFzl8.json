@@ -1,0 +1,594 @@
+[
+  {
+    "cast_hash": "0x6c6e8f7b",
+    "url": "https://warpcast.com/dwr.eth/0x6c6e8f7b",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-12T21:40:02.000Z",
+    "text": "Introducing Group Direct Casts on Warpcast\n\n- Live on mobile and web\n\n- Groups can have up to 100 members\n\n- You can only invite people following you. If you don’t follow someone, they cannot invite you to a group. You can leave a group at any time\n\n- You can also mute a group that’s too noisy",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/jGTqRd8.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 235887,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1220,
+            "height_px": 1250
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb3d27e80",
+    "url": "https://warpcast.com/dwr.eth/0xb3d27e80",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-12T22:45:42.000Z",
+    "text": "Group Direct Cast bug thread\n\nIf you have any bugs, please reply here.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4c564c1e",
+    "url": "https://warpcast.com/dwr.eth/0x4c564c1e",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-13T00:27:11.000Z",
+    "text": "Direct Cast Feature Requests\n\nIf you were benevolent dictator for one Warpcast direct cast feature, what would you have us work on?\n\nReplies with the most likes will be weighed more heavily.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc50e2d78",
+    "url": "https://warpcast.com/dwr.eth/0xc50e2d78",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-12T21:54:08.000Z",
+    "text": "Suggestion for channel hosts:\n\n1. Visit your /stats page\n2. Invite your most active channel users to a group\n\ne.g. https://warpcast.com/~/channel/founders/stats",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x6c6e8f7b200a15393807604362d414b323f5a5ec"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x6c6e8f7b200a15393807604362d414b323f5a5ec",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x6c6e8f7b200a15393807604362d414b323f5a5ec",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Introducing Group Direct Casts on Warpcast\n\n- Live on mobile and web\n\n- Groups can have up to 100 members\n\n- You can only invite people following you. If you don’t follow someone, they cannot invite you to a group. You can leave a group at any time\n\n- You can also mute a group that’s too noisy",
+          "timestamp": "2024-01-12T21:40:02.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/jGTqRd8.png",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 235887,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1220,
+                  "height_px": 1250
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8cbddd59",
+    "url": "https://warpcast.com/messhup/0x8cbddd59",
+    "author_username": "messhup",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 4787,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ba72dedc-edee-4e09-363b-fceb89328900/original",
+    "cast_date": "2024-01-13T18:15:56.000Z",
+    "text": "First rule of the cabal:\nYou don't talk about the Cabal.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/edx5sPL.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 335426,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3f6be78f",
+    "url": "https://warpcast.com/colin/0x3f6be78f",
+    "author_username": "colin",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 378,
+    "author_pfp": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+    "cast_date": "2024-01-14T16:22:25.000Z",
+    "text": "Me observing (but not contributing) in all these new group chats I got added to",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/VY1hKOS.gif",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 2077875,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 238,
+            "height_px": 178
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd5c4e86a",
+    "url": "https://warpcast.com/cassie/0xd5c4e86a",
+    "author_username": "cassie",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 1325,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45bf39bb-9508-40de-a224-68811d248900/rectcrop3",
+    "cast_date": "2024-01-14T03:05:37.000Z",
+    "text": "I have a groupchat experiment I would like to conduct. The first 64 people who comment on this post will be added (if you're following me). At the end of 24 hours of the commencement, everyone will vote for someone else to be removed. You cannot vote for yourself. The 32 users with the highest votes will be removed 1/2",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x93f8e651",
+    "url": "https://warpcast.com/cassie/0x93f8e651",
+    "author_username": "cassie",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 1325,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45bf39bb-9508-40de-a224-68811d248900/rectcrop3",
+    "cast_date": "2024-01-14T23:02:25.000Z",
+    "text": "27 slots for the second Hunger Games group chat remain. Would you like to volunteer as tribute?",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/CgWyGXq.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 527484,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 622,
+            "height_px": 622
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4993edcb",
+    "url": "https://warpcast.com/sdv.eth/0x4993edcb",
+    "author_username": "sdv.eth",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 2745,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4f049a4a-1215-4b1c-8c84-d80d1420da00/rectcrop3",
+    "cast_date": "2024-01-13T23:35:42.000Z",
+    "text": "24 hour update:\n\n44 active members, 9 exiled.\n\nTo potential members, you can still join by liking the original cast.\n\nTo existing members, we face a dilemma. One member is skirting the sacred rule. If 11 members come forward by direct casting me our icon, this member will be banished. \n\nThere are 24 hours to vote.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2745,
+          "hash": "0xc0a5598a06f596820beb7e7be3ed7fdb2aeb1309"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc0a5598a06f596820beb7e7be3ed7fdb2aeb1309",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2745,
+            "username": "stevedv.eth",
+            "display_name": "🧙‍♂️",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4f049a4a-1215-4b1c-8c84-d80d1420da00/rectcrop3",
+            "custody_address": "0x52c86459268be2a6d46e7b900a6452a02f63e03e"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc0a5598a06f596820beb7e7be3ed7fdb2aeb1309",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "If we're mutuals and you can commit to secrecy, like this cast.",
+          "timestamp": "2024-01-12T23:16:14.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf7bcfefb",
+    "url": "https://warpcast.com/cameron/0xf7bcfefb",
+    "author_username": "cameron",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 617,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac4e8cdc-f317-4711-d742-bb59c4651d00/original",
+    "cast_date": "2024-01-15T11:09:43.000Z",
+    "text": "The state of Farcaster 2024",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/RiCqZtb.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 299350,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1125,
+            "height_px": 1629
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8393179c",
+    "url": "https://warpcast.com/nounishprof/0x8393179c",
+    "author_username": "nounishprof",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-01-14T14:19:08.000Z",
+    "text": "We started a /gmfarcaster group dc with a few of our usual amazing chatters.💜\n\nWe’ll shoot out reminders there too but will mostly use it to continue the convo after live streams. 💬\n\nIf you’d like to be added to the GM Farcaster cabal,l — I mean chat — reply here! ⤵️",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/0vKC3E9.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 36003,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1536,
+            "height_px": 1536
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x57ab3483",
+    "url": "https://warpcast.com/dwr.eth/0x57ab3483",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-12T22:02:22.000Z",
+    "text": "We covered at the last developer call in 2023, but the top priority for 2024 is DAU growth.\n\nIt's the overwhelming top request from developers. They want to see a Farcaster with tens of thousands (or hundreds of thousands!) daily active users to be to grow their apps.\n\nBest path to doing this is through Warpcast.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4d93f6a5",
+    "url": "https://warpcast.com/rish/0x4d93f6a5",
+    "author_username": "rish",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 194,
+    "author_pfp": "https://i.imgur.com/naZWL9n.gif",
+    "cast_date": "2024-01-13T17:14:33.000Z",
+    "text": "when you talk about growing DAUs -- are they protocol level DAUs (i.e. writing to the protocol) or Warpcast level DAUs (could include users who are lurkers but don't write to the protocol)? \n\n(I imagine the former?)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x062c31d0",
+    "url": "https://warpcast.com/rkf.eth/0x062c31d0",
+    "author_username": "rkf.eth",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 1499,
+    "author_pfp": "https://i.seadn.io/gae/cLCNkykaOy9dK3Y2sVAT6PYX3iXY3TgQWG_0ML1Wz9-FBmeeGqnAQ0G0rYBef0FRxXAUe2UhHy097W9FutfMvmU7DVjMRN55hBqCJDg?w=500&auto=format",
+    "cast_date": "2024-01-13T17:53:38.000Z",
+    "text": "what’s your favorite podcast covering all things warpcast/farcaster?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x35b7770f",
+    "url": "https://warpcast.com/dwr.eth/0x35b7770f",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-13T17:53:59.000Z",
+    "text": "/gmfarcaster",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x57b556e4",
+    "url": "https://warpcast.com/ted/0x57b556e4",
+    "author_username": "ted",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-01-12T23:47:32.000Z",
+    "text": "now that we have warpcast group chats, imagine them all here — at FarCon 2024. full announcement coming tuesday.\n\n*some things are probably better left in the GCs :)",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/zakjwWx.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 118419,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 772,
+            "height_px": 538
+          }
+        }
+      },
+      {
+        "url": "https://i.imgur.com/c8SVlT5.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 464422,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 543,
+            "height_px": 390
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xce750f11",
+    "url": "https://warpcast.com/heavygweit/0xce750f11",
+    "author_username": "heavygweit",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 394609,
+    "author_pfp": "https://i.imgur.com/K3Y9OVk.jpg",
+    "cast_date": "2024-04-07T07:19:10.000Z",
+    "text": "forever!! 🍖 x 30",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x12b8fdf4",
+    "url": "https://warpcast.com/tldr/0x12b8fdf4",
+    "author_username": "tldr",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x2aca9b95",
+    "url": "https://warpcast.com/tldr/0x2aca9b95",
+    "author_username": "tldr",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x9d957ddc",
+    "url": "https://warpcast.com/nounishprof/0x9d957ddc",
+    "author_username": "nounishprof",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-01-14T13:41:04.000Z",
+    "text": "Whether I follow someone back on here that I don’t know is so dependent on the pfp it’s funny. \n\n⌐◨-◨ auto follow \n🐧 ofc \n🟪 absolutely \n\nthen it gets interesting",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdbf62601",
+    "url": "https://warpcast.com/v/0xdbf62601",
+    "author_username": "v",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-01-12T23:49:17.000Z",
+    "text": "Sign in with Farcaster is here!\n\nA new standard to sign in to any app with your Farcaster account. \n\nTry a demo here: https://docs.farcaster.xyz/auth-kit/introduction",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/OVeA2kG.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 190794,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 762,
+            "height_px": 950
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x22b367af",
+    "url": "https://warpcast.com/kevinoconnell/0x22b367af",
+    "author_username": "kevinoconnell",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 4564,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/12192f98-0cd0-454c-1d67-7fff802b4900/original",
+    "cast_date": "2024-01-11T19:34:45.000Z",
+    "text": "Wrote this earlier this morning :)",
+    "embeds": [
+      {
+        "url": "https://zora.co/collect/base:0xda49a1a91376415b3aa7df6ffdf39d2b6c52b4b6/1?referrer=0xEdd3783e8c7c52b80cfBD026a63C207Edc9CbeE7",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://zora.co/collect/base:0xda49a1a91376415b3aa7df6ffdf39d2b6c52b4b6/1",
+            "favicon": "https://zora.co/favicon/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://zora.co/api/og-image/post/base:0xda49a1a91376415b3aa7df6ffdf39d2b6c52b4b6/1?v=2&mints=6"
+              }
+            ],
+            "ogTitle": "The value add of Farcaster",
+            "ogLocale": "en",
+            "ogSiteName": "Zora",
+            "fcFrame": {
+              "button": {
+                "title": "Buy",
+                "action": {
+                  "url": "https://zora.co/collect/base:0xda49a1a91376415b3aa7df6ffdf39d2b6c52b4b6/1/frame-v2",
+                  "name": "Buy",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://zora.co/assets/logo.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://zora.co/api/og-image/post/base:0xda49a1a91376415b3aa7df6ffdf39d2b6c52b4b6/1?v=2&mints=6&crop=farcaster"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Buy",
+            "image": "https://zora.co/api/og-image/post/base:0xda49a1a91376415b3aa7df6ffdf39d2b6c52b4b6/1?v=2&mints=6&crop=farcaster",
+            "frames_url": "https://zora.co/collect/base:0xda49a1a91376415b3aa7df6ffdf39d2b6c52b4b6/1?referrer=0xEdd3783e8c7c52b80cfBD026a63C207Edc9CbeE7"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1b2c658d",
+    "url": "https://warpcast.com/linda/0x1b2c658d",
+    "author_username": "linda",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-01-13T22:02:42.000Z",
+    "text": "Bountycaster update:\n\nNow all users who have permission to post bounties on Bountycaster (accounts before Farcaster went permissionless OR have an active badge) can post ANY bounty amount (no longer capped at $100)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xba14dece",
+    "url": "https://warpcast.com/ghostlinkz.eth/0xba14dece",
+    "author_username": "ghostlinkz.eth",
+    "show_date": "2024-01-15",
+    "show_title": "GM Farcaster ep47, Jan 15, 2024",
+    "source_episode_id": "rIZW_qFFzl8",
+    "author_fid": 3115,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80cb3761-6951-49a1-71c5-be9da3b93400/original",
+    "cast_date": "2024-01-14T22:25:13.000Z",
+    "text": "This week's most active users on Farcaster:\n\n1. @purp \n2. @wake \n3. @accountless.eth \n4. @samuellhuber.eth \n5. @greyseymour \n\noutcasters.xyz/snapshot-027",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/LAHFK7w.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 251893,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 566,
+            "height_px": 410
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

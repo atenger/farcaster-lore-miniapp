@@ -1,8 +1,15 @@
 'use client';
 
 import { useEffect, useRef, useCallback } from 'react';
-import { CastGridProps } from '@/lib/types';
+import { EnrichedCast } from '@/lib/types';
 import CastCard from './CastCard';
+
+interface CastGridProps {
+  casts: EnrichedCast[];
+  onLoadMore: () => void;
+  hasMore: boolean;
+  isLoading: boolean;
+}
 
 export default function CastGrid({ casts, onLoadMore, hasMore, isLoading }: CastGridProps) {
   const observerRef = useRef<IntersectionObserver | null>(null);
@@ -33,7 +40,40 @@ export default function CastGrid({ casts, onLoadMore, hasMore, isLoading }: Cast
     };
   }, []);
 
-  if (casts.length === 0 && !isLoading) {
+  // Create unique keys for casts, handling duplicates
+  const createUniqueKey = (cast: EnrichedCast, index: number) => {
+    // Try to create a unique key using multiple fields
+    const baseKey = cast.cast_hash;
+    const authorKey = cast.author_username;
+    const dateKey = cast.cast_date || cast.show_date;
+    
+    // If we have a cast date, use it to make the key more unique
+    if (dateKey) {
+      return `${baseKey}-${authorKey}-${dateKey}`;
+    }
+    
+    // Fallback to index if we can't create a unique key
+    return `${baseKey}-${index}`;
+  };
+
+  // Deduplicate casts based on cast_hash and other identifying fields
+  const deduplicatedCasts = casts.reduce((unique: EnrichedCast[], cast: EnrichedCast) => {
+    const isDuplicate = unique.find(existing => 
+      existing.cast_hash === cast.cast_hash && 
+      existing.author_username === cast.author_username &&
+      existing.cast_date === cast.cast_date
+    );
+    
+    if (!isDuplicate) {
+      unique.push(cast);
+    } else {
+      // console.warn(`Duplicate cast detected: ${cast.cast_hash} by ${cast.author_username}`);
+    }
+    
+    return unique;
+  }, []);
+
+  if (deduplicatedCasts.length === 0 && !isLoading) {
     return (
       <div className="flex items-center justify-center py-12">
         <div className="text-center">
@@ -47,10 +87,10 @@ export default function CastGrid({ casts, onLoadMore, hasMore, isLoading }: Cast
   return (
     <div className="px-4 py-6">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        {casts.map((cast, index) => (
+        {deduplicatedCasts.map((cast, index) => (
           <div
-            key={`${cast.cast_hash}-${index}`}
-            ref={index === casts.length - 1 ? lastElementCallback : undefined}
+            key={createUniqueKey(cast, index)}
+            ref={index === deduplicatedCasts.length - 1 ? lastElementCallback : undefined}
           >
             <CastCard cast={cast} />
           </div>
@@ -63,7 +103,7 @@ export default function CastGrid({ casts, onLoadMore, hasMore, isLoading }: Cast
         </div>
       )}
       
-      {!hasMore && casts.length > 0 && (
+      {!hasMore && deduplicatedCasts.length > 0 && (
         <div className="text-center py-8 text-gray-500">
           <p>You&apos;ve reached the end! 🎉</p>
         </div>

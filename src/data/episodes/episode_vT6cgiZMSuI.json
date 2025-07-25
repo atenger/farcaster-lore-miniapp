@@ -1,0 +1,799 @@
+[
+  {
+    "cast_hash": "0x2b570fbb",
+    "url": "https://warpcast.com/deller.eth/0x2b570fbb",
+    "author_username": "deller.eth",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 373854,
+    "author_pfp": "https://ipfs.decentralized-content.com/ipfs/bafybeif5v6kamx36ggrwuta5kvsxxdtttnbr3havi5qhvvdxhg7jwfszya",
+    "cast_date": "2024-04-09T15:24:37.000Z",
+    "text": "Nice chat with\n\n@jacek today with \n\n@nounishprof and @adrienne \n\nRe: $DEGEN\n\nIn case you missed it, here are some highlights\n\n🧵👇",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x44ea3da5",
+    "url": "https://warpcast.com/clauswilke/0x44ea3da5",
+    "author_username": "clauswilke",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 195917,
+    "author_pfp": "https://i.imgur.com/vgnCMYo.jpg",
+    "cast_date": "2024-04-10T02:28:30.000Z",
+    "text": "The recent conversation between @nounishprof, @adrienne, and @jacek prompted me to write up some thoughts about $DEGEN airdrop distributions and attention farming.\nhttps://paragraph.xyz/@clauswilke/attention-farming",
+    "embeds": [
+      {
+        "url": "https://paragraph.xyz/@clauswilke/attention-farming",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2024-04-09T00:00:00.000Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/7dcbf64d2b049238dd5f02b5a31d7a12.png",
+            "ogImage": [
+              {
+                "alt": "Do I need to become an attention farmer?",
+                "url": "https://storage.googleapis.com/papyrus_images/aa5deffae089e16149c8a5bc386af006.png",
+                "type": "png",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Do I need to become an attention farmer?",
+            "ogLocale": "en",
+            "ogDescription": "If you're following me on Farcaster you may have noticed that I've been less active there lately. I have been quite busy with my day job, but more im...",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@clauswilke/attention-farming?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Do%20I%20need%20to%20become%20an%20attention%20farmer%3F&blogName=Claus%20Wilke&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F7dcbf64d2b049238dd5f02b5a31d7a12.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Faa5deffae089e16149c8a5bc386af006.png&size=2048&publishedDate=1712620800000"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Do%20I%20need%20to%20become%20an%20attention%20farmer%3F&blogName=Claus%20Wilke&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F7dcbf64d2b049238dd5f02b5a31d7a12.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Faa5deffae089e16149c8a5bc386af006.png&size=2048&publishedDate=1712620800000",
+            "frames_url": "https://paragraph.xyz/@clauswilke/attention-farming",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGgueHl6In0",
+                "signature": "MHg5YmQ4MDcxNmVmNjIwZTFjM2UwZDkzMzQ5ZDNlNTU5N2MzYmU3NzQ2MDJmYTliZmE1Zjg2Mzk3Y2QxZTk4MGExM2RmNDVmMDM2ODE5Y2FhZmZiZmE5MTMxN2U3MGRlYWRlYTI2YWUzMTA2N2I1NDNiMTFkZDI3ODk3NzQ3ZWI5YjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6c364969",
+    "url": "https://warpcast.com/dwr.eth/0x6c364969",
+    "author_username": "dwr.eth",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-04-09T18:56:46.000Z",
+    "text": "1/ Work in progress — how to solve low signal content (of which \"spam\" is a subset).\n\n4 main surfaces in app where low signal content appears:\n- Home\n- Notifications\n- Cast pages\n- Channels\n\n\"Spam\" appears mostly on cast pages and channels. If you have a large audience, notifications.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/888UDpR.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 186346,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2406,
+            "height_px": 930
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xddcd941dee3ff083c376daa3efaec1b5125d376d"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xddcd941dee3ff083c376daa3efaec1b5125d376d",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xddcd941dee3ff083c376daa3efaec1b5125d376d",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "1/ If you're providing feedback on \"spam\", it's really helpful if you're precise.\n\nIs the cast:\n\n1. Uninteresting — a \"low effort reply\", i.e. something that's boring or off-topic\n\n2. Spammy — focused on getting something for free that you're not interested in, etc.\n\n3. Malicious — phishing link, harassment",
+          "timestamp": "2024-04-09T18:29:30.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb1519e10",
+    "url": "https://warpcast.com/nounishprof/0xb1519e10",
+    "author_username": "nounishprof",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-04-10T11:14:07.000Z",
+    "text": "There needs to be balance. The reason FC was special was the lack of those 3 things here. Even the degen team removed 14k users from receiving the last airdrop (bots, farming)—that activity isn’t growing something sustainable for anyone. \n\nCan always build your own client where spam, bots & farming is welcome.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf073853b",
+    "url": "https://warpcast.com/dwr.eth/0xf073853b",
+    "author_username": "dwr.eth",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-04-08T23:44:31.000Z",
+    "text": "Farcaster DAU since we started counting in June 2021",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/ILx22mz.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 50064,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 768
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x80180dfe",
+    "url": "https://warpcast.com/adrienne/0x80180dfe",
+    "author_username": "adrienne",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-04-09T00:45:38.000Z",
+    "text": "One of my favorite characteristics of a scenius is that when a record is broken, the success is claimed by the entire scene.\n\nSooooo…. Congrats to us, we did it  😅🥂",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/fVYv6dr.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 95048,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 645
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xf073853bbc01e5075cbd5b326f5bb1e4629dcab2"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf073853bbc01e5075cbd5b326f5bb1e4629dcab2",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf073853bbc01e5075cbd5b326f5bb1e4629dcab2",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Farcaster DAU since we started counting in June 2021",
+          "timestamp": "2024-04-08T23:44:31.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/ILx22mz.png",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 50064,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1024,
+                  "height_px": 768
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7b8085bf",
+    "url": "https://warpcast.com/betashop.eth/0x7b8085bf",
+    "author_username": "betashop.eth",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 602,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5e14f7a-a60d-4aeb-3496-55305ecdd500/original",
+    "cast_date": "2024-04-10T11:44:39.000Z",
+    "text": "sketched out top 3 goals for Airstack this week, and one is:\n\n“1m DAU on Farcaster”\n\nwait. What?? \n\n1. Why does Airstack have a Farcaster goal?\n\nA: If Farcaster wins we win.\n\n2. How can Airstack manage to this goal?\n\nB: By building products that help drive Farcaster growth and by helping devs do the same",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7e1dce25",
+    "url": "https://warpcast.com/tervo/0x7e1dce25",
+    "author_username": "tervo",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 5034,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b3e5b99d-da40-4f2f-d8da-70e0211c7e00/rectcrop3",
+    "cast_date": "2024-04-08T22:00:20.000Z",
+    "text": "you’re gonna want to delete your engagement farming bullshit degen giveaways from my channel before i get home and get good wifi. or else you will not be posting here. get your fucking shit together it is so embarrassing to scroll the feed and it’s just straight “hur dur muh degen giveaway.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/0eRot3o.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 237447,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1290,
+            "height_px": 883
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3122559c",
+    "url": "https://warpcast.com/reneecampbell/0x3122559c",
+    "author_username": "reneecampbell",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x47977a83",
+    "url": "https://warpcast.com/baird/0x47977a83",
+    "author_username": "baird",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 310089,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5b33be5f-65b0-41de-e523-37e139478500/rectcrop3",
+    "cast_date": "2024-04-10T02:42:15.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/d90oLoc.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 168716,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 750,
+            "height_px": 1000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x45504c11",
+    "url": "https://warpcast.com/aleph/0x45504c11",
+    "author_username": "aleph",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 1941,
+    "author_pfp": "https://lh3.googleusercontent.com/eIYUrt9CT7GKA7KOGQ__I8fRzqiObIWI027DzQ5Shh1TDRvNgGV4oRfXBQ12lyj3kIGUNYEm0-Mdu41VLGbPQ4jcInKYWTOAA5Qi",
+    "cast_date": "2024-04-08T23:36:17.000Z",
+    "text": "20/5/3\n\n20+ hours of flying. 5+ hours of driving. 3 GOATS GO /higher \n\nWe did it!",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/j0qjXcX.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 628871,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1061,
+            "height_px": 1411
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 1941,
+          "hash": "0xee2885dfa6ecf4e1bfc56bbb44415306f655fb48"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xee2885dfa6ecf4e1bfc56bbb44415306f655fb48",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1941,
+            "username": "aleph",
+            "display_name": "Aleph 🎩 ↑",
+            "pfp_url": "https://lh3.googleusercontent.com/eIYUrt9CT7GKA7KOGQ__I8fRzqiObIWI027DzQ5Shh1TDRvNgGV4oRfXBQ12lyj3kIGUNYEm0-Mdu41VLGbPQ4jcInKYWTOAA5Qi",
+            "custody_address": "0xf90a22b98d016b2446124071c965bf3f735cbce7"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xee2885dfa6ecf4e1bfc56bbb44415306f655fb48",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/higher",
+          "root_parent_url": "https://warpcast.com/~/channel/higher",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "500 likes today and I’ll fly to Kenya tomorrow to take a selfie with this goat higher.",
+          "timestamp": "2024-04-04T16:57:29.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 446971,
+                "hash": "0x5acc4c2e2a872534e87b5212f4833b649db224c1"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x5acc4c2e2a872534e87b5212f4833b649db224c1",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 446971
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "higher",
+            "name": "HIGHER",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/640b108e-6794-44ea-d603-c712b1172d00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1c72aff8",
+    "url": "https://warpcast.com/zkchun/0x1c72aff8",
+    "author_username": "zkchun",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 262572,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f24f0f6e-cd27-4ea8-1ff7-890ec4d45e00/original",
+    "cast_date": "2024-04-10T01:13:15.000Z",
+    "text": "damn\ni tried to book some time on someone's calendar and got this response. \n\nguess who",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/oKxEvYG.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 91773,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2732,
+            "height_px": 1357
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x736e38e3",
+    "url": "https://warpcast.com/jacy/0x736e38e3",
+    "author_username": "jacy",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 2982,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63552b96-faf4-4480-7775-a93631aaa100/original",
+    "cast_date": "2024-04-10T00:35:02.000Z",
+    "text": "don't mind me, i'm just impatiently waiting for the @boysclub 'Crypto: The Game' daily pod to drop. spill it alreadyyyyy\n\nep 1 ft. @dylanabruscato icymi 👇🏾\n\nhttps://open.spotify.com/episode/3pnIfsEbmvRepk2kwhgYQV?si=bc3be05e6a2941fe",
+    "embeds": [
+      {
+        "url": "https://open.spotify.com/episode/3pnIfsEbmvRepk2kwhgYQV?si=bc3be05e6a2941fe",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://open.spotify.com/episode/3pnIfsEbmvRepk2kwhgYQV",
+            "oembed": {
+              "html": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Crypto: The Game Companion Podcast, Day 1: Purple Tribe Chaos, Anon Strategy, The Cabals are Blooming, &quot;The New Wilbert&quot; and more feat. special guest Dylan Abruscato\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/episode/3pnIfsEbmvRepk2kwhgYQV?si=bc3be05e6a2941fe&utm_source=oembed\"></iframe>",
+              "type": "rich",
+              "title": "Crypto: The Game Companion Podcast, Day 1: Purple Tribe Chaos, Anon Strategy, The Cabals are Blooming, \"The New Wilbert\" and more feat. special guest Dylan Abruscato",
+              "width": 456,
+              "height": 152,
+              "method": "provider-api",
+              "version": "1.0",
+              "iframe_url": "https://open.spotify.com/embed/episode/3pnIfsEbmvRepk2kwhgYQV?si=bc3be05e6a2941fe&utm_source=oembed",
+              "provider_url": "https://spotify.com",
+              "provider_name": "Spotify",
+              "thumbnail_url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f00396a66f234bcb7598d3c7b",
+              "thumbnail_width": 300,
+              "thumbnail_height": 300
+            },
+            "ogType": "music.song",
+            "favicon": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
+            "ogAudio": "https://podz-content.spotifycdn.com/audio/clips/6zupANyD7ekTSxAtj5oFC8/clip_876250_935950.mp3",
+            "ogImage": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a00396a66f234bcb7598d3c7b"
+              }
+            ],
+            "ogTitle": "Crypto: The Game Companion Podcast, Day 1: Purple Tribe Chaos, Anon Strategy, The Cabals are Blooming, \"The New Wilbert\" and more feat. special guest Dylan Abruscato",
+            "ogLocale": "en",
+            "ogSiteName": "Spotify",
+            "ogAudioType": "audio/mpeg",
+            "ogDescription": "Boys Club · Episode"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x30b906be",
+    "url": "https://warpcast.com/yb/0x30b906be",
+    "author_username": "yb",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 3206,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/75065034-412e-4d5a-ea84-98e89cc1c400/original",
+    "cast_date": "2024-04-09T23:21:40.000Z",
+    "text": "just realized that the people on farcaster are my “work friends”, still feels weird to say when normie friends ask though",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7196d0cc",
+    "url": "https://warpcast.com/samantha/0x7196d0cc",
+    "author_username": "samantha",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 1606,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/015f24f6-2e7e-4890-8e10-af5e66e19200/rectcrop3",
+    "cast_date": "2024-04-10T01:59:53.000Z",
+    "text": "Had a super nice chat with everyone on the Google call! That was so fun :) \n\n@adrienne @dawufi @1dolinski @shriphani @ivy @galazio",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdab8913e",
+    "url": "https://warpcast.com/v/0xdab8913e",
+    "author_username": "v",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-04-08T22:33:48.000Z",
+    "text": "Shipping this week in Farcaster: \n\n1. Fixes for Warpcast DC bugs\n2. Fixes for Warpcast android crashes\n3. Shuttle (aka the new Hubble replicator) \n4. Bundles (a new peering architecture for Hubble) \n\nAlso kicking around ideas for improvements to frames and in-app notifications, and improving some internal tooling.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x64d08426",
+    "url": "https://warpcast.com/swim/0x64d08426",
+    "author_username": "swim",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 268455,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fda48aef-2754-4a63-29e0-2bd91b535000/rectcrop3",
+    "cast_date": "2024-04-09T00:43:15.000Z",
+    "text": "\"not a bot. 𝙰𝚅𝙴𝚁𝙰𝙶𝙴 𝙲𝙰𝚂𝚃𝙴𝚁\"\n\n𝘼𝙑𝙀𝙍𝘼𝙂𝙀 𝘾𝘼𝙎𝙏𝙀𝙍!?!?\n\ni need to speak to HR immediately",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/XoVbYEZ.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 28883,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 610,
+            "height_px": 204
+          }
+        }
+      },
+      {
+        "url": "https://i.imgur.com/nhgw2sh.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 34013,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 270,
+            "height_px": 186
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2c9946f4",
+    "url": "https://warpcast.com/rish/0x2c9946f4",
+    "author_username": "rish",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 194,
+    "author_pfp": "https://i.imgur.com/naZWL9n.gif",
+    "cast_date": "2024-04-09T21:58:38.000Z",
+    "text": "why you need a cofounder",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/DTRu6rR.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 138416,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1244,
+            "height_px": 782
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9f5ead9d",
+    "url": "https://warpcast.com/adrienne/0x9f5ead9d",
+    "author_username": "adrienne",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-03-21T18:07:24.000Z",
+    "text": "GM Farcaster by the numbers - keep rising 🚀 \n\nBut the stats only tell a part of the story. How do I capture the magic of bringing people together, from different countries and cultures, in our hectic too-busy world for 21 minutes of real connection? 💫",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/gj3TyLu.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 753688,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 986
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0x766f7361adde9ae7204516045f51ff6418c6443b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x766f7361adde9ae7204516045f51ff6418c6443b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x766f7361adde9ae7204516045f51ff6418c6443b",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Numbers go up 📈\n\n- 49 live streams \n- 293 episodes minted on @zora \n- 78 unique minters (we ❤️ you)\n- 37 podcast subscribers \n- 796 podcast plays \n- 4 guest interviews \n- 8 sponsors \n\n🙏🙏🙏",
+          "timestamp": "2024-01-20T01:15:42.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 5818,
+                "hash": "0x6795f50732cb2e61a1dc824615b4b519a7c19ce0"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x6795f50732cb2e61a1dc824615b4b519a7c19ce0",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 5818
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-04-10",
+    "show_title": "GM Farcaster ep87, April 10, 2024",
+    "source_episode_id": "vT6cgiZMSuI",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

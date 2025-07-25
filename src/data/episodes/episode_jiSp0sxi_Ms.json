@@ -1,0 +1,930 @@
+[
+  {
+    "cast_hash": "0x11ab2fcf",
+    "url": "https://warpcast.com/adrienne/0x11ab2fcf",
+    "author_username": "adrienne",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-05-20T22:01:53.000Z",
+    "text": "Can’t wait for the bitcoin pizza day NYC party 🍕\n\nWho else is going? \n\nhttps://app.unlock-protocol.com/event/global-pizza-party-2024-nyc",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4417,
+          "hash": "0xf6fe416d256d41d19c8ec65df01b830c30f58bc5"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf6fe416d256d41d19c8ec65df01b830c30f58bc5",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4417,
+            "username": "purple",
+            "display_name": "Purple",
+            "pfp_url": "https://i.imgur.com/DWjfq34.jpg",
+            "custody_address": "0x57b15d8996a4f9b869a94f7c558b0314da59a530"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf6fe416d256d41d19c8ec65df01b830c30f58bc5",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xa45662638e9f3bbb7a6fecb4b17853b7ba0f3a60",
+          "root_parent_url": "chain://eip155:1/erc721:0xa45662638e9f3bbb7a6fecb4b17853b7ba0f3a60",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Join /purple and the rest of the NYC crypto community on Wednesday for the NYC @pizzadao  party! \n\nhttps://app.unlock-protocol.com/event/global-pizza-party-2024-nyc\n\nThere are pizza parties happening across the entire globe, if you aren't in NYC - find your party at globalpizzaparty.xyz",
+          "timestamp": "2024-05-20T19:55:31.000Z",
+          "embeds": [
+            {
+              "url": "https://app.unlock-protocol.com/event/global-pizza-party-2024-nyc",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://storage.unlock-protocol.com/f69c2eee-8d7b-460e-945a-994a8258b933"
+                    }
+                  ],
+                  "ogTitle": "Global Pizza Party 2024 NYC",
+                  "ogLocale": "en",
+                  "ogDescription": "You're invited to PizzaDAO's 4th annual Global Pizza Party in honor of Bitcoin Pizza Day.\n\nIt's been 14 years since May 22, 2010, when Laszlo Hanyecz bought two pizzas for 10,000 bitcoin. Today, 10,000 bitcoin buys a lot more than two pizzas!\n\nWe think that's a big deal. So in partnership with our friends at [NounsDAO](https://nouns.wtf), [Unlock Protocol](https://unlock-protocol.com/), and the [World Pizza Champions](https://www.worldpizzachampions.com/) we are throwing our biggest [Global Pizza Party](https://globalpizzaparty.xyz) yet! We're expecting well over 10,000 total attendees across more than 150 cities worldwide.\n\nPost with #GlobalPizzaParty and join our Global Zoom to see what's happening at all the other events!"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "purple",
+            "name": "Purple",
+            "image_url": "https://i.seadn.io/gae/2R29pIWneHAMHH0e2Lcqsilv7vRBpnYngrKOZXBkhpyrlBVgcJzgPxPq_pWujLggzy-EW1Jt9QJIOQW7t95ufdgvwCAITd4fw0DvQJM?w=500&auto=format"
+          }
+        }
+      },
+      {
+        "url": "https://app.unlock-protocol.com/event/global-pizza-party-2024-nyc",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://storage.unlock-protocol.com/f69c2eee-8d7b-460e-945a-994a8258b933"
+              }
+            ],
+            "ogTitle": "Global Pizza Party 2024 NYC",
+            "ogLocale": "en",
+            "ogDescription": "You're invited to PizzaDAO's 4th annual Global Pizza Party in honor of Bitcoin Pizza Day.\n\nIt's been 14 years since May 22, 2010, when Laszlo Hanyecz bought two pizzas for 10,000 bitcoin. Today, 10,000 bitcoin buys a lot more than two pizzas!\n\nWe think that's a big deal. So in partnership with our friends at [NounsDAO](https://nouns.wtf), [Unlock Protocol](https://unlock-protocol.com/), and the [World Pizza Champions](https://www.worldpizzachampions.com/) we are throwing our biggest [Global Pizza Party](https://globalpizzaparty.xyz) yet! We're expecting well over 10,000 total attendees across more than 150 cities worldwide.\n\nPost with #GlobalPizzaParty and join our Global Zoom to see what's happening at all the other events!"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0ca7b2d8",
+    "url": "https://warpcast.com/j4ck.eth/0x0ca7b2d8",
+    "author_username": "j4ck.eth",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 431,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b82cfba-7d62-43ad-f752-1643db239b00/original",
+    "cast_date": "2024-05-21T15:19:01.000Z",
+    "text": "PizzaDAO is the most DAO DAO out there\n\nfind the pizza party tomorrow in your city: https://www.globalpizzaparty.xyz\n\nshoutout to @snax.eth for master organization & @addigator @borrowlucid.eth for getting us involved!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 247143,
+          "hash": "0xe50309bcc417c81cf980bd76b6ecf0a458620491"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe50309bcc417c81cf980bd76b6ecf0a458620491",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 247143,
+            "username": "kylepatrick.eth",
+            "display_name": "Kyle Patrick",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15b35784-d490-4144-15c4-62edc2a58c00/rectcrop3",
+            "custody_address": "0xcd93cb7b30a224a8fd414353636a72c3427ad453"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe50309bcc417c81cf980bd76b6ecf0a458620491",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/pizzadao",
+          "root_parent_url": "https://warpcast.com/~/channel/pizzadao",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Want to learn more about PizzaDAO and Global Pizza Party? Check this frame out!\n\nMay 22, free pizza party to a place near you, RSVP now at globalpizzaparty.xyz\n\nhttps://frames.neynar.com/f/74bc08cd/4844c860",
+          "timestamp": "2024-05-20T08:11:54.000Z",
+          "embeds": [
+            {
+              "url": "http://globalpizzaparty.xyz",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": 41463,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.globalpizzaparty.xyz",
+                  "ogType": "website",
+                  "favicon": "https://images.squarespace-cdn.com/content/v1/6462e2c2553b2d3fc022842f/1575c986-907e-4596-a26f-7d064ab99b3f/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "http://static1.squarespace.com/static/6462e2c2553b2d3fc022842f/t/662bbc7291cecd40a4d57dc8/1717599066757/Thumbnail.png?format=1500w",
+                      "type": "png",
+                      "width": "500",
+                      "height": "500"
+                    }
+                  ],
+                  "ogTitle": "PizzaDAO's Global Pizza Party",
+                  "ogLocale": "en-US",
+                  "ogSiteName": "PizzaDAO's Global Pizza Party"
+                }
+              }
+            },
+            {
+              "url": "https://frames.neynar.com/f/74bc08cd/4844c860",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogImage": [
+                    {
+                      "url": "https://i.imgur.com/Mhml9Dh.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "PizzaDAO",
+                  "ogLocale": "en"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "pizzadao",
+            "name": "PizzaDAO",
+            "image_url": "https://i.imgur.com/cy91ch2.jpg"
+          }
+        }
+      },
+      {
+        "url": "https://www.globalpizzaparty.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 41469,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.globalpizzaparty.xyz",
+            "ogType": "website",
+            "favicon": "https://images.squarespace-cdn.com/content/v1/6462e2c2553b2d3fc022842f/1575c986-907e-4596-a26f-7d064ab99b3f/favicon.ico",
+            "ogImage": [
+              {
+                "url": "http://static1.squarespace.com/static/6462e2c2553b2d3fc022842f/t/662bbc7291cecd40a4d57dc8/1717599066757/Thumbnail.png?format=1500w",
+                "type": "png",
+                "width": "500",
+                "height": "500"
+              }
+            ],
+            "ogTitle": "PizzaDAO's Global Pizza Party",
+            "ogLocale": "en-US",
+            "ogSiteName": "PizzaDAO's Global Pizza Party"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf2539207",
+    "url": "https://warpcast.com/nounishprof/0xf2539207",
+    "author_username": "nounishprof",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-05-21T15:39:37.000Z",
+    "text": "I'll be streaming on @unlonely and @adrienne will be reporting in from the NYC party! If you're going to or hosting a party, I'd love to have you stream in too! DC me or reply below to coordinate.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/20d3348f-9d7f-4e3f-be76-8bde4dd48b00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 304064,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 500,
+            "height_px": 500
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0x11ab2fcf3aff08a2d95465722bdd942ea4efee00"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x11ab2fcf3aff08a2d95465722bdd942ea4efee00",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x11ab2fcf3aff08a2d95465722bdd942ea4efee00",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xfdd5e7949bd72c95907c46a630d2c791f0e842c6",
+          "root_parent_url": "chain://eip155:1/erc721:0xfdd5e7949bd72c95907c46a630d2c791f0e842c6",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Can’t wait for the bitcoin pizza day NYC party 🍕\n\nWho else is going? \n\nhttps://app.unlock-protocol.com/event/global-pizza-party-2024-nyc",
+          "timestamp": "2024-05-20T22:01:53.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 4417,
+                "hash": "0xf6fe416d256d41d19c8ec65df01b830c30f58bc5"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xf6fe416d256d41d19c8ec65df01b830c30f58bc5",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 4417
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://app.unlock-protocol.com/event/global-pizza-party-2024-nyc",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://storage.unlock-protocol.com/f69c2eee-8d7b-460e-945a-994a8258b933"
+                    }
+                  ],
+                  "ogTitle": "Global Pizza Party 2024 NYC",
+                  "ogLocale": "en",
+                  "ogDescription": "You're invited to PizzaDAO's 4th annual Global Pizza Party in honor of Bitcoin Pizza Day.\n\nIt's been 14 years since May 22, 2010, when Laszlo Hanyecz bought two pizzas for 10,000 bitcoin. Today, 10,000 bitcoin buys a lot more than two pizzas!\n\nWe think that's a big deal. So in partnership with our friends at [NounsDAO](https://nouns.wtf), [Unlock Protocol](https://unlock-protocol.com/), and the [World Pizza Champions](https://www.worldpizzachampions.com/) we are throwing our biggest [Global Pizza Party](https://globalpizzaparty.xyz) yet! We're expecting well over 10,000 total attendees across more than 150 cities worldwide.\n\nPost with #GlobalPizzaParty and join our Global Zoom to see what's happening at all the other events!"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "new-york",
+            "name": "NYC",
+            "image_url": "https://i.seadn.io/gcs/files/48399e13b30e401d90c3c61a0065e02a.png?auto=format&dpr=1&w=512"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5d5c2a0d",
+    "url": "https://warpcast.com/nounishprof/0x5d5c2a0d",
+    "author_username": "nounishprof",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-05-22T11:48:58.000Z",
+    "text": "coming this /onchainsummer ...",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a9d8aa47-6692-4c3f-80b6-981821d8d300/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 1567741,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1920,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9a5aecc2",
+    "url": "https://warpcast.com/v/0x9a5aecc2",
+    "author_username": "v",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-05-21T16:10:25.000Z",
+    "text": "Excited about this raise - it let's us take a long term view to building and growing Farcaster over the next few years.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x5477121b309424da9a53f99103859b569ac27467"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5477121b309424da9a53f99103859b569ac27467",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5477121b309424da9a53f99103859b569ac27467",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Excited to share the news about our recent fundraise!",
+          "timestamp": "2024-05-21T15:59:48.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d9efcb95-c5cc-4b0c-9054-dd51572d3a00/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 125799,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 768
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-updates",
+            "name": "fc-updates",
+            "image_url": "https://i.imgur.com/YnnrPaH.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5477121b",
+    "url": "https://warpcast.com/dwr.eth/0x5477121b",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-21T15:59:48.000Z",
+    "text": "Excited to share the news about our recent fundraise!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d9efcb95-c5cc-4b0c-9054-dd51572d3a00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 125799,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 768
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6c721b95",
+    "url": "https://warpcast.com/laurashin/0x6c721b95",
+    "author_username": "laurashin",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 7535,
+    "author_pfp": "https://i.imgur.com/uPMxo3j.jpg",
+    "cast_date": "2024-05-21T16:06:07.000Z",
+    "text": "Decentralized Social Network Farcaster Raises $150 Million in a Series A Round\n\nFarcaster’s valuation stands at $1 billion as a result of the funding round led by crypto investment firm Paradigm, with a16z crypto, Haun, USV, Variant, and Standard Crypto as backers.\n\nhttps://shorturl.at/XcYYB",
+    "embeds": [
+      {
+        "url": "https://shorturl.at/XcYYB",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://unchainedcrypto.com/decentralized-social-network-farcaster-raises-150-million-in-a-series-a-round/",
+            "ogType": "article",
+            "favicon": "https://unchainedcrypto.com/wp-content/uploads/2023/02/Profile-Icons.png",
+            "ogImage": [
+              {
+                "url": "https://unchainedcrypto.com/wp-content/uploads/2024/05/unch123_54790_a_high_realistic_representation_of_a_fundraising__bc06ac63-89e8-4e87-9ec5-dc50ec6e7de9.png",
+                "type": "image/png",
+                "width": "1024",
+                "height": "1024"
+              }
+            ],
+            "ogTitle": "Decentralized Social Network Farcaster Raises $150 Million in a Series A Round - Unchained",
+            "ogLocale": "en_US",
+            "ogSiteName": "Unchained",
+            "ogDescription": "Farcaster’s valuation stands at $1 billion as a result of the funding round led by crypto investment firm Paradigm, with a16z crypto, Haun, USV, Variant, and Standard Crypto as backers."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3eac83a3",
+    "url": "https://warpcast.com/adrienne/0x3eac83a3",
+    "author_username": "adrienne",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-05-21T20:37:28.000Z",
+    "text": "Shout out to long termers 🙌\n\n“One thing that’s really important to Varun and myself is having a long-term mindset,” Romero said. “We feel really excited based on all the growth […] we’re using the fundraise to be able to set the company up to actually think about this on a decade-long time horizon.”",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 7535,
+          "hash": "0x6c721b95615e6197db0b822dde848bdb0767520e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x6c721b95615e6197db0b822dde848bdb0767520e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 7535,
+            "username": "laurashin",
+            "display_name": "Laura Shin",
+            "pfp_url": "https://i.imgur.com/uPMxo3j.jpg",
+            "custody_address": "0x5b4116a509074debbc07cd3f7016e49248a233a9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x6c721b95615e6197db0b822dde848bdb0767520e",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Decentralized Social Network Farcaster Raises $150 Million in a Series A Round\n\nFarcaster’s valuation stands at $1 billion as a result of the funding round led by crypto investment firm Paradigm, with a16z crypto, Haun, USV, Variant, and Standard Crypto as backers.\n\nhttps://shorturl.at/XcYYB",
+          "timestamp": "2024-05-21T16:06:07.000Z",
+          "embeds": [
+            {
+              "url": "https://shorturl.at/XcYYB",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://unchainedcrypto.com/decentralized-social-network-farcaster-raises-150-million-in-a-series-a-round/",
+                  "ogType": "article",
+                  "favicon": "https://unchainedcrypto.com/wp-content/uploads/2023/02/Profile-Icons.png",
+                  "ogImage": [
+                    {
+                      "url": "https://unchainedcrypto.com/wp-content/uploads/2024/05/unch123_54790_a_high_realistic_representation_of_a_fundraising__bc06ac63-89e8-4e87-9ec5-dc50ec6e7de9.png",
+                      "type": "image/png",
+                      "width": "1024",
+                      "height": "1024"
+                    }
+                  ],
+                  "ogTitle": "Decentralized Social Network Farcaster Raises $150 Million in a Series A Round - Unchained",
+                  "ogLocale": "en_US",
+                  "ogSiteName": "Unchained",
+                  "ogDescription": "Farcaster’s valuation stands at $1 billion as a result of the funding round led by crypto investment firm Paradigm, with a16z crypto, Haun, USV, Variant, and Standard Crypto as backers."
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x30509ea9",
+    "url": "https://warpcast.com/laurashin/0x30509ea9",
+    "author_username": "laurashin",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 7535,
+    "author_pfp": "https://i.imgur.com/uPMxo3j.jpg",
+    "cast_date": "2024-05-21T23:12:02.000Z",
+    "text": "Q&A With Farcaster: How Crypto Social Media Goes From 100,000 Users to One Billion\n\n@dwr.eth and Varun Srinivasan give a peek at how more decentralization is coming to Farcaster, personal takeaways from their time at Coinbase, and other insights.\n\nhttps://shorturl.at/ySLsJ",
+    "embeds": [
+      {
+        "url": "https://shorturl.at/ySLsJ",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://unchainedcrypto.com/qa-with-farcaster-how-crypto-social-media-goes-from-100000-users-to-one-billion/",
+            "ogType": "article",
+            "favicon": "https://unchainedcrypto.com/wp-content/uploads/2023/02/Profile-Icons.png",
+            "ogImage": [
+              {
+                "url": "https://unchainedcrypto.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-21-at-5.48.43-PM.png",
+                "type": "image/png",
+                "width": "1640",
+                "height": "816"
+              }
+            ],
+            "ogTitle": "Q&A With Farcaster: How Crypto Social Media Goes From 100,000 Users to One Billion - Unchained",
+            "ogLocale": "en_US",
+            "ogSiteName": "Unchained",
+            "ogDescription": "The co-founders of the Farcaster social network gave us a peek at what they’re cooking up, personal takeaways from their time at Coinbase, and other insights."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1fda6f0d",
+    "url": "https://warpcast.com/karbonbased/0x1fda6f0d",
+    "author_username": "karbonbased",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 343622,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/24714727-b71b-4842-7f8d-937dea310200/rectcrop3",
+    "cast_date": "2024-05-21T16:22:40.000Z",
+    "text": "Paradigm leads $150m farcaster round \n\nWe ARE getting that token",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdbce1cbd",
+    "url": "https://warpcast.com/dwr.eth/0xdbce1cbd",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-21T21:57:31.000Z",
+    "text": "Decentralizing channels update\n\n1. Phase 1 goes live Thursday morning Pacific time (May 23).\n\n2. All channels will start in unmoderated / Priority mode.\n\n3. Will be easy to add a moderator on mobile and web.\n\nhttps://warpcast.notion.site/Public-v2-Decentralized-Channels-535ffce48c95413ea81bc89d6170fd99?pvs=25",
+    "embeds": [
+      {
+        "url": "https://warpcast.notion.site/Public-v2-Decentralized-Channels-535ffce48c95413ea81bc89d6170fd99?pvs=25",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.notion.site/Public-v2-Decentralized-Channels-535ffce48c95413ea81bc89d6170fd99",
+            "ogType": "article",
+            "favicon": "https://warpcast.notion.site/images/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2F1f6e9458-324b-4676-bc72-4410db872ee4%2FScreenshot_2024-05-13_at_4.40.16_PM.png?table=block&id=b35cfa02-cde2-4d86-8172-c319d94bd943&width=2000&userId=&cache=v2",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "[Public v2] Decentralized Channels  | Notion",
+            "ogLocale": "en_US",
+            "ogSiteName": "Warpcast on Notion",
+            "ogDescription": "This is a rough draft and not final. \n\nThere are some new channel concepts being proposed, like moderation and channel bots, and other existing channel concepts that we are recommending to be deprecated, like hide cast and channel passes.\n\nPlease provide feedback via DC to @dwr"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3015a473",
+    "url": "https://warpcast.com/nonlinear.eth/0x3015a473",
+    "author_username": "nonlinear.eth",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 576,
+    "author_pfp": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+    "cast_date": "2024-05-22T02:28:29.000Z",
+    "text": "heads up: phase 1 of decentralized channels goes live thursday\n\ni’ll be migrating /memes from the 300 warp ($3) channel pass to an onchain subscription with @hypersub. will cost 0.0042069eth/yr (~$1/mo). existing pass holders will get 1y free\n\n69% of subscription revenue will go to top casters in the channel 😎",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e0e1fb1d-df2c-4047-cb66-3a35188a3600/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 633501,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 972,
+            "height_px": 752
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x67920a52",
+    "url": "https://warpcast.com/betashop.eth/0x67920a52",
+    "author_username": "betashop.eth",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 602,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5e14f7a-a60d-4aeb-3496-55305ecdd500/original",
+    "cast_date": "2024-05-22T03:20:18.000Z",
+    "text": "airstack is launching Channel Moderation Tools on thursday, coinciding with FC launch of channel moderation\n\nwe're taking everything airstack & enabling channel hosts to moderate channels with it, for free\n\nthis is a core part of airstack going forward, with a robust roadmap around channel crm & dao ownership\n\n@dwr.eth",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7ea6055e",
+    "url": "https://warpcast.com/matchaxyz/0x7ea6055e",
+    "author_username": "matchaxyz",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 17114,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d73b034-b5d1-4ca0-d349-d99fc6aa3000/original",
+    "cast_date": "2024-05-21T18:39:54.000Z",
+    "text": "Here we goooo.\n\nEverything you need to know about the potential (inevitable?) Ethereum ETF, in case someone asks you 😊\n\n(Originally published Jan 2024, updated May 2024)\n\nhttps://blog.matcha.xyz/article/when-ethereum-etf",
+    "embeds": [
+      {
+        "url": "https://blog.matcha.xyz/article/when-ethereum-etf",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogType": "website",
+            "favicon": "https://cdn.prod.website-files.com/64b6cb030bf9ed58be71ded2/64c709cad5059eff0552e5a6_favicon.png",
+            "ogImage": [
+              {
+                "url": "https://cdn.prod.website-files.com/64b702e0e92a993f08b979ce/669fe8e51295d3204ad08f74_Ethereum%20ETFs%40thumbnail.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "Ethereum spot ETFs",
+            "ogDescription": "Ethereum ETFs are now live after a long road to launch, following Bitcoin ETF approvals earlier this year. What were the steps to Ethereum ETF approval and what were the reasons it was delayed?"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1f079b68",
+    "url": "https://warpcast.com/noun40/0x1f079b68",
+    "author_username": "noun40",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 1097,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b49dcb2-67b9-4c85-d7b0-1d75c9045900/original",
+    "cast_date": "2024-05-21T22:41:00.000Z",
+    "text": "what do ppl want to understand about the eth ETF situation? AMA",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8b693ee0",
+    "url": "https://warpcast.com/dwr.eth/0x8b693ee0",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-21T15:35:59.000Z",
+    "text": "If you're in the US, care about crypto and have 10 minutes, calling or emailing your congressperson and senators is actually pretty helpful.\n\nFIT21 would be a huge win for anyone building in crypto.\n\nhttps://www.standwithcrypto.org",
+    "embeds": [
+      {
+        "url": "https://www.standwithcrypto.org",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogType": "website",
+            "favicon": "/logo/favicon-16x16.png",
+            "ogImage": [
+              {
+                "url": "https://www.standwithcrypto.org/api/public/og/eyJ0aXRsZSI6IlN0YW5kJTIwV2l0aCUyMENyeXB0byUyMEFsbGlhbmNlJTIwaXMlMjBhJTIwbm9uLXByb2ZpdCUyMG9yZ2FuaXphdGlvbiUyMGRlZGljYXRlZCUyMHRvJTIwdW5pdGluZyUyMGdsb2JhbCUyMGNyeXB0byUyMGFkdm9jYXRlcy4ifQ==",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Stand With Crypto",
+            "ogLocale": "en_US",
+            "ogSiteName": "Stand With Crypto",
+            "ogDescription": "Stand With Crypto Alliance is a non-profit organization dedicated to uniting global crypto advocates."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdae1bf53",
+    "url": "https://warpcast.com/df/0xdae1bf53",
+    "author_username": "df",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 1214,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a6497fe-5e4e-4297-fd02-26a1c052fe00/original",
+    "cast_date": "2024-05-20T16:13:01.000Z",
+    "text": "Farcaster.id is now open source (MIT license) 👐\n\nhttps://github.com/davidfurlong/farcaster.id",
+    "embeds": [
+      {
+        "url": "http://Farcaster.id",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://farcaster-r1qu10bca-discove.vercel.app/opengraph-image.png?b67dde74eb4cb358",
+                "type": "image/png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Farcaster.id",
+            "ogLocale": "en",
+            "ogDescription": "Share your Farcaster profile"
+          }
+        }
+      },
+      {
+        "url": "https://github.com/davidfurlong/farcaster.id",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://github.com/davidfurlong/farcaster.id",
+            "ogType": "object",
+            "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+            "ogImage": [
+              {
+                "alt": "A client-agnostic profile service for Farcaster. Contribute to davidfurlong/farcaster.id development by creating an account on GitHub.",
+                "url": "https://opengraph.githubassets.com/6e028bb198929ef43f002882d688d4c102d9de7234ccd5a2b91c5f0f096fd741/davidfurlong/farcaster.id",
+                "width": "1200",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "GitHub - davidfurlong/farcaster.id: A client-agnostic profile service for Farcaster",
+            "ogLocale": "en",
+            "ogSiteName": "GitHub",
+            "ogDescription": "A client-agnostic profile service for Farcaster. Contribute to davidfurlong/farcaster.id development by creating an account on GitHub."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xae35ae1d",
+    "url": "https://warpcast.com/ccarella.eth/0xae35ae1d",
+    "author_username": "ccarella.eth",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x3c802b82",
+    "url": "https://warpcast.com/ccarella.eth/0x3c802b82",
+    "author_username": "ccarella.eth",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-05-22",
+    "show_title": "GM Farcaster ep108, May 22, 2024",
+    "source_episode_id": "jiSp0sxi_Ms",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

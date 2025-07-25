@@ -1,0 +1,453 @@
+[
+  {
+    "cast_hash": "0xf51a93ee",
+    "url": "https://warpcast.com/ghostlinkz.eth/0xf51a93ee",
+    "author_username": "ghostlinkz.eth",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "author_fid": 3115,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80cb3761-6951-49a1-71c5-be9da3b93400/original",
+    "cast_date": "2024-01-22T01:03:32.000Z",
+    "text": "This week's most active users on Farcaster:\n\n1. @accountless.eth \n2. @wake \n3. @jpfraneto.eth \n4. @purp \n5. @samuellhuber.eth \n\noutcasters.xyz/snapshot-028",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/PlXaQqa.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 256030,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 566,
+            "height_px": 410
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x03446046",
+    "url": "https://warpcast.com/ghostlinkz.eth/0x03446046",
+    "author_username": "ghostlinkz.eth",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "author_fid": 3115,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80cb3761-6951-49a1-71c5-be9da3b93400/original",
+    "cast_date": "2024-01-21T19:47:18.000Z",
+    "text": "Happy Sunday! \n\nWe have a few surprises in store for Snapshot 028. Let's kick things off with a small challenge:\n\nI will gift 200 warps to the first person who correctly guesses the guest curator for this week. The winner will be announced right after we publish later this evening.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/D4KCf1H.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 26093,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 600,
+            "height_px": 400
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x440dea08",
+    "url": "https://warpcast.com/dwr.eth/0x440dea08",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-20T22:52:36.000Z",
+    "text": "Investigating image uploads not working on Warpcast. \n\nFor now, you’ll have to describe the visual you wanted to include.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3331e68e",
+    "url": "https://warpcast.com/dwr.eth/0x3331e68e",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-19T19:57:56.000Z",
+    "text": "1/ Instead of lobbying Warpcast to add a feature, people should be using clients like @super (and consider paying!). \n\nWay faster to get a feature prioritized at this point. And good for Farcaster ecosystem more broadly.\n\nWarpcast is not going to be max configurable any time soon...",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x270c0de6",
+    "url": "https://warpcast.com/v/0x270c0de6",
+    "author_username": "v",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-01-21T03:17:28.000Z",
+    "text": "The Sign in with Farcaster FIP has been updated with the latest changes. Last call for feedback! \n\nhttps://github.com/farcasterxyz/protocol/discussions/110",
+    "embeds": [
+      {
+        "url": "https://github.com/farcasterxyz/protocol/discussions/110",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://github.com/farcasterxyz/protocol/discussions/110",
+            "ogType": "object",
+            "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+            "ogImage": [
+              {
+                "alt": "FIP-11: Sign in With Farcaster Title: Sign in With Farcaster Type: Standards FIP Authors: @v, @sanjay, @deodad, @horsefacts Abstract A standard that allows Farcaster users to authenticate into othe...",
+                "url": "https://opengraph.githubassets.com/cf589fb389c55ac56add70674cff95691ae290f3205d0195d5c10ba29deca54e/farcasterxyz/protocol/discussions/110",
+                "width": "1200",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "FIP-11: Sign in with Farcaster · farcasterxyz/protocol · Discussion #110",
+            "ogLocale": "en",
+            "ogSiteName": "GitHub",
+            "ogDescription": "FIP-11: Sign in With Farcaster Title: Sign in With Farcaster Type: Standards FIP Authors: @v, @sanjay, @deodad, @horsefacts Abstract A standard that allows Farcaster users to authenticate into othe..."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd88c8b1b",
+    "url": "https://warpcast.com/kunalvg/0xd88c8b1b",
+    "author_username": "kunalvg",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "author_fid": 4914,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ecf6fe61-a733-4f2f-8728-39d31fa5cc00/rectcrop3",
+    "cast_date": "2024-01-21T17:58:08.000Z",
+    "text": "Well this happned 😂",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/2hbjPlv.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 183117,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 828,
+            "height_px": 877
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5119f15f",
+    "url": "https://warpcast.com/coopahtroopa/0x5119f15f",
+    "author_username": "coopahtroopa",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "author_fid": 206,
+    "author_pfp": "https://i.imgur.com/0NB7bxd.gif",
+    "cast_date": "2024-01-20T00:46:44.000Z",
+    "text": "FC is the new YC.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa8e6c14c",
+    "url": "https://warpcast.com/coopahtroopa/0xa8e6c14c",
+    "author_username": "coopahtroopa",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "author_fid": 206,
+    "author_pfp": "https://i.imgur.com/0NB7bxd.gif",
+    "cast_date": "2024-01-19T07:15:21.000Z",
+    "text": "Kinda wild that more people aren't taking advantage of the unparalleled upside of being early to Farcaster.\n\nExtremely active onchain social network with bright founders, next gen builders and early signs of real alpha.\n\nIt's the best way to get in front of crypto-natives and build a brand for the next bull market.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xee03f0f6",
+    "url": "https://warpcast.com/ispeaknerd.eth/0xee03f0f6",
+    "author_username": "ispeaknerd.eth",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "author_fid": 9391,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/23352b99-3a86-437c-43e1-0852239ea000/original",
+    "cast_date": "2024-01-21T15:07:35.000Z",
+    "text": "I did some channel analysis on the Farcaster aristocracy so you don't have to\n\n/ted by @ted, thoughtful discussions on variety of topics\n\n/cameron by @cameron, ADHD mess of no-context memes & good founder advice\n\n/steve by @stevedv.eth, steve steve steve steve steve steve steve",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1e9addb8",
+    "url": "https://warpcast.com/jam/0x1e9addb8",
+    "author_username": "jam",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "author_fid": 10636,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e4e7dcd5-5af0-4311-6a7f-fd16ec133900/original",
+    "cast_date": "2024-01-20T02:03:38.000Z",
+    "text": "📢Starting now\nA warm welcome to today's AMA guest, @cassie \n\nCassie is building Quilibrium and Warpcast, and is the brain behind the experimental Hunger Games in the direct cast groups. \n\nReply with your questions for Cassie",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 10636,
+          "hash": "0x5ec6270a4007339722729e28fc4b7ea96b400fe1"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5ec6270a4007339722729e28fc4b7ea96b400fe1",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 10636,
+            "username": "jam",
+            "display_name": "$JAM 🐿️",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e4e7dcd5-5af0-4311-6a7f-fd16ec133900/original",
+            "custody_address": "0x8895062e259e3fa52662403dd9e1558b017179bb"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5ec6270a4007339722729e28fc4b7ea96b400fe1",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM! Excited to announce our genesis AMA with @cassie, the brain behind the experimental Hunger Games in Direct Cast Groups ⚔\n\n⏰Jan 19th, 6pm PT/7pm MT/8pm CT/9pm ET on /Farcaster\n\nEager to learn more about the Annual Hunger Games' latest news and the new Group Direct Cast feature? Get ready with your questions!",
+          "timestamp": "2024-01-19T14:48:47.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/37hoOhi.jpg",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 169078,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1920,
+                  "height_px": 1061
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7f7cc26a",
+    "url": "https://warpcast.com/dwr.eth/0x7f7cc26a",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-21T23:48:02.000Z",
+    "text": "Another game idea\n\n@cassie's Hunger Games in group chat idea. Apply it to a channel (we could mute that channel from homefeeds to not bother people who don't want to play). Do all the campaigning and voting in public.\n\nAnother layer would be there's a side game where people guess via zk who is going to be voted out.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xd589ad33c42396b5c0831c9d09b83450ad8896b1"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd589ad33c42396b5c0831c9d09b83450ad8896b1",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd589ad33c42396b5c0831c9d09b83450ad8896b1",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Potential zk game for Farcaster: guess the total number of unique casters from in a day or week from all users with the active badge (or just pick a hard coded list to start).\n\nNo idea if this works but...\n\n1. Pre-commit hash of your guess onchain (or via a cast not sure if possible)\n2. ante up an entry fee\n...",
+          "timestamp": "2024-01-21T23:41:24.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/2ucm9DP.jpg",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 196187,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1000,
+                  "height_px": 1500
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x18bdf4da",
+    "url": "https://warpcast.com/saxenasaheb/0x18bdf4da",
+    "author_username": "saxenasaheb",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "author_fid": 4753,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e4a99ed-8b09-4702-687a-0783e21ce700/original",
+    "cast_date": "2024-01-18T05:37:01.000Z",
+    "text": "Okay. So hear me out-\n\nFarcon India.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xed6ac0c2",
+    "url": "https://warpcast.com/matthew/0xed6ac0c2",
+    "author_username": "matthew",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "author_fid": 473,
+    "author_pfp": "https://i.imgur.com/uwD4rUh.jpg",
+    "cast_date": "2024-01-20T17:03:11.000Z",
+    "text": "made something new with @kevinoconnell and we’re calling it hubscout.xyz!\n\nHubscout is an embeddings search engine for Farcaster. You can use it to find things semantically on Farcaster.\n\nFor example, normal search would return nothing for “Greg hot chocolate”, whereas semantic search returns lots of results.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/s5ClHf0.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 486934,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 923,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "http://hubscout.xyz",
+        "metadata": {
+          "content_type": "text/html; charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xde3cc041",
+    "url": "https://warpcast.com/mxjxn.eth/0xde3cc041",
+    "author_username": "mxjxn.eth",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "author_fid": 4905,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/894e6608-d322-4317-e684-1c69dc656900/original",
+    "cast_date": "2024-01-21T02:36:38.000Z",
+    "text": "Out of fucking nowhere. Absolutely bullshit",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/83mY4RM.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 468016,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1816
+          }
+        }
+      },
+      {
+        "url": "https://i.imgur.com/M6N77SM.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 183400,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1079,
+            "height_px": 745
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe99f27f4",
+    "url": "https://warpcast.com/toadyhawk.eth/0xe99f27f4",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x733d2e38",
+    "url": "https://warpcast.com/ahn.eth/0x733d2e38",
+    "author_username": "ahn.eth",
+    "show_date": "2024-01-22",
+    "show_title": "GM Farcaster ep50, Jan 22, 2024",
+    "source_episode_id": "Yg_6IBhLraw",
+    "author_fid": 8004,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cca05e9f-4f52-45c9-ebdb-c60ec8f93d00/rectcrop3",
+    "cast_date": "2024-01-17T20:01:25.000Z",
+    "text": "the trick is to have have your own channel 😏",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/EgP4PpJ.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 13024,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 300,
+            "height_px": 91
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

@@ -1,0 +1,476 @@
+[
+  {
+    "cast_hash": "0xaf653cb1",
+    "url": "https://warpcast.com/dwr.eth/0xaf653cb1",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-11T20:41:37.000Z",
+    "text": "Farcaster-related projects received over $1M+ in the RetroPGF 3. \n\nCongrats to the recipients!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x79f4af60",
+    "url": "https://warpcast.com/v/0x79f4af60",
+    "author_username": "v",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-01-12T13:36:39.000Z",
+    "text": "Channel suggestions are now live!",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/PC67j2y.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 351808,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1560,
+            "height_px": 1112
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x68fd1599",
+    "url": "https://warpcast.com/v/0x68fd1599",
+    "author_username": "v",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-01-11T16:10:29.000Z",
+    "text": "/fc-devs is now live! \n\nPlease join if you're building something on Farcaster",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 680,
+          "hash": "0xbd6f7fca674c7cac9d6f651623e9d532405e1649"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbd6f7fca674c7cac9d6f651623e9d532405e1649",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 680,
+            "username": "woj",
+            "display_name": "​woj",
+            "pfp_url": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+            "custody_address": "0x0b28a373fc8d92669aefb420499e74ce2dd5d356"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0f32abcf6757f1c87dd1f1eb1efccc51f02b2a58",
+          "parent_hash": "0x05f97b59d3901c5eb8c37ca3edf646a4f7fbd5df",
+          "parent_url": null,
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": 194
+          },
+          "text": "+1, good moment to ditch tg dev chat and move fully to a dev support channel with good moderation",
+          "timestamp": "2024-01-11T15:50:00.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe5dda660",
+    "url": "https://warpcast.com/dwr.eth/0xe5dda660",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-09T22:53:21.000Z",
+    "text": "How do channels increase distribution for a cast?\n\nIf you cast in a channel, you have the chance—based on how much engagement the cast gets—to have the cast get recommended to people who don't follow you.\n\nNot feeling a channel? Just cast! It goes to your followers.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/LZMDjsq.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 114096,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1490,
+            "height_px": 1110
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfec46faf",
+    "url": "https://warpcast.com/dwr.eth/0xfec46faf",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-09T21:00:29.000Z",
+    "text": "PSA \n\nIf you're getting unwanted direct casts, you can flip the switch to make DCs only from people you follow.\n\nOr if there are only a few unwanted users, mute them.\n\nhttps://warpcast.com/~/settings/direct-casts",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/BY4egfp.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 44360,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1138,
+            "height_px": 230
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x13e851dc",
+    "url": "https://warpcast.com/dwr.eth/0x13e851dc",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-11T22:23:16.000Z",
+    "text": "2021: 2\n2022: 118\n2023: 1,544\n2024: 7,532\n\n2022: 59x\n2023: 13x\n2024: 5x",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2327c464",
+    "url": "https://warpcast.com/df/0x2327c464",
+    "author_username": "df",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 1214,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a6497fe-5e4e-4297-fd02-26a1c052fe00/original",
+    "cast_date": "2024-01-12T11:10:13.000Z",
+    "text": "Base is the Farcaster community's preferred chain 🔵",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/SZcqaik.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 507253,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1442,
+            "height_px": 816
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5554c785",
+    "url": "https://warpcast.com/jessepollak/0x5554c785",
+    "author_username": "jessepollak",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-01-12T15:04:42.000Z",
+    "text": "cool to see @base.base.eth as the most transacted network on @farcaster \n\nnow we gotta 10x, 100x, 1000x the # of people and things onchain",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/CLfNb8b.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 101704,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1140,
+            "height_px": 786
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xac6f4423",
+    "url": "https://warpcast.com/dwr.eth/0xac6f4423",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-10T17:47:03.000Z",
+    "text": "My original concepts for the Farcaster logo that @v rejected",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/bu6gTvR.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 18994,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1079,
+            "height_px": 590
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd81d01ae",
+    "url": "https://warpcast.com/nounishprof/0xd81d01ae",
+    "author_username": "nounishprof",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xbe2cc4c5",
+    "url": "https://warpcast.com/christin/0xbe2cc4c5",
+    "author_username": "christin",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 15850,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bd90b57-732c-445b-4670-00040e540100/original",
+    "cast_date": "2024-01-12T05:58:22.000Z",
+    "text": "Wife: looks over my shoulder and sees the /spirituality channel\n\nWife: oh here comes the weirdos\n\nMe: I created that channel 😇\n\nWife: EJECT EJECT WHERE IS THE EJECT BUTTON FROM THIS CONVERSATION",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0bcf72c6",
+    "url": "https://warpcast.com/ted/0x0bcf72c6",
+    "author_username": "ted",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-01-12T00:19:53.000Z",
+    "text": "warpcast ships so fast that i thought i found a sneaky new feature that went unannounced only to realize @dwr.eth announced it 8 days ago. \n\nhow does anyone keep track of new features when they ship this fast and integrate so smoothly into the experience?!\n\nexcited for tomorrow.\n\nwarpcast.com/dwr.eth/0x01eeb849",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/i5wFqzX.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 85612,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1256,
+            "height_px": 570
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x01eeb849af6376d3aadaa2f61d38ac1847b1641f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x01eeb849af6376d3aadaa2f61d38ac1847b1641f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x01eeb849af6376d3aadaa2f61d38ac1847b1641f",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "New on Warpcast: add a short note when gifting warps\n\nWe also have a few suggested notes",
+          "timestamp": "2024-01-03T16:27:57.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/LynIjCI.png",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 77866,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1028,
+                  "height_px": 666
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x03cfb509",
+    "url": "https://warpcast.com/linda/0x03cfb509",
+    "author_username": "linda",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-01-11T20:20:57.000Z",
+    "text": "Looking for ideas on interesting and creative ways that Bountycaster can support FarCon this year\n\n10 USDC each for my 3 favorite ideas in replies\n\n@bountybot",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x21bbb6fc",
+    "url": "https://warpcast.com/dwr.eth/0x21bbb6fc",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-12T01:29:36.000Z",
+    "text": "We reduced the Buy Warps confirmation time from 12 minutes to 12 seconds. \n\nWarp speed!\n\nKudos to @deodad",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x989a2af6",
+    "url": "https://warpcast.com/slowcrypto/0x989a2af6",
+    "author_username": "slowcrypto",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 3872,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/76d6ee72-7636-47b7-d6fd-6126f0a2d600/original",
+    "cast_date": "2024-01-12T11:57:18.000Z",
+    "text": "What’s the goss @adrienne?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4c62286e",
+    "url": "https://warpcast.com/dwr.eth/0x4c62286e",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-01-10T17:06:12.000Z",
+    "text": "If you run a public-ish cryptonative Discord, consider moving it to a Farcaster channel.\n\nIf not yet, what's one feature that would get you to switch?",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 373,
+          "hash": "0xdbdc921610dc8502f0bd6d3b313370c6382c4fbe"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xdbdc921610dc8502f0bd6d3b313370c6382c4fbe",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 373,
+            "username": "jayme",
+            "display_name": "jayme",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d2b76c9f-b719-4381-ce55-c8659ee57b00/original",
+            "custody_address": "0x1ca66c990e86b750ea6b2180d17fff89273a5c0d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xdbdc921610dc8502f0bd6d3b313370c6382c4fbe",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Farcaster completely killed my Discord usage. I don't even have the app on my phone or desktop anymore. There are only two servers I miss and wish had active channels: @!8288 and @orangedao cc @ccarella.eth",
+          "timestamp": "2024-01-10T17:02:03.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc65802c9",
+    "url": "https://warpcast.com/macbudkowski/0xc65802c9",
+    "author_username": "macbudkowski",
+    "show_date": "2024-01-12",
+    "show_title": "GM Farcaster ep46, Jan 12, 2024",
+    "source_episode_id": "i3EXnSf2u_g",
+    "author_fid": 1048,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a43231ca-1d8d-4563-c9b3-6a8e934c2a00/original",
+    "cast_date": "2024-01-10T19:21:26.000Z",
+    "text": "you okay @dwr.eth? 😅",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/ncmocgB.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 570455,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1200,
+            "height_px": 734
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

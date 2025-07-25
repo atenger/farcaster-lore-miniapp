@@ -41,7 +41,7 @@ export default function DatePicker({ onDateSelect, isOpen, onClose }: DatePicker
           value={selectedDate}
           onChange={(e) => handleDateChange(e.target.value)}
           className="w-full p-3 border border-gray-300 rounded-lg mb-4 focus:outline-none focus:ring-2 focus:ring-purple-500"
-          min="2023-09-01"
+          min="2024-01-08"
           max={new Date().toISOString().split('T')[0]}
         />
         

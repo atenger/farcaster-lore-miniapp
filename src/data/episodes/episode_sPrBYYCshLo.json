@@ -1,0 +1,1155 @@
+[
+  {
+    "cast_hash": "0xb75f7682",
+    "url": "https://warpcast.com/dwr.eth/0xb75f7682",
+    "author_username": "dwr.eth",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-03-20T00:13:37.000Z",
+    "text": "gm",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/45214d4020bde8687551cda34449fcab.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 7.9
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcb3757c5",
+    "url": "https://warpcast.com/adrienne/0xcb3757c5",
+    "author_username": "adrienne",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-03-20T01:20:08.000Z",
+    "text": "Can’t stop won’t stop supporting farcasters making things\n\nCandles from @samantha , bracelets from @grin ‘s daughter, photography mag from @kp3556.eth",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/zYWlxsf.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 480219,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1501,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 99,
+          "hash": "0x1a4af5ceaa6ef3112636711d4749c4a7067c9c6a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1a4af5ceaa6ef3112636711d4749c4a7067c9c6a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 99,
+            "username": "jesse.base.eth",
+            "display_name": "Jesse Pollak",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+            "custody_address": "0x4ce34af3378a00c640125e4dbf4c9e64dff4c93b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1a4af5ceaa6ef3112636711d4749c4a7067c9c6a",
+          "parent_hash": null,
+          "parent_url": "https://onchainsummer.xyz",
+          "root_parent_url": "https://onchainsummer.xyz",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "can't stop, won't stop supporting artists, creatives, and makers onchain\n\nfeaturing candles from @samantha, photos from @priyanka, and art from @yungwknd",
+          "timestamp": "2024-03-19T23:17:09.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/symoiHS.jpg",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 470723,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "base",
+            "name": "Base",
+            "image_url": "https://warpcast.com/~/channel-images/base.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xedefb7a0",
+    "url": "https://warpcast.com/v/0xedefb7a0",
+    "author_username": "v",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-03-19T21:40:23.000Z",
+    "text": "A few action bar improvements are shipping today: \n\n- Icons are larger with more space in-between \n- Bookmarks and share are right-aligned  \n- Action counts on web are shown below icons, just like mobile\n\nh/t to @0xdesigner for the inspiration!",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/Vm12RHZ.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 255075,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2040,
+            "height_px": 1496
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd2addf4d",
+    "url": "https://warpcast.com/0xdesigner/0xd2addf4d",
+    "author_username": "0xdesigner",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 1317,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/42bb7ee0-7246-49fd-7993-8d138aa89000/rectcrop3",
+    "cast_date": "2024-03-17T18:43:22.000Z",
+    "text": "to whom it may concern",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/NZFACmT.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 87480,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2400,
+            "height_px": 1350
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3c2d0172",
+    "url": "https://warpcast.com/0xdesigner/0x3c2d0172",
+    "author_username": "0xdesigner",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 1317,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/42bb7ee0-7246-49fd-7993-8d138aa89000/rectcrop3",
+    "cast_date": "2024-03-19T22:26:30.000Z",
+    "text": "would you?",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/nqpS6h5.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 449761,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2400,
+            "height_px": 1350
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0xedefb7a0b3540c2fa0381ac163d2d6eff71dc561"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xedefb7a0b3540c2fa0381ac163d2d6eff71dc561",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xedefb7a0b3540c2fa0381ac163d2d6eff71dc561",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "A few action bar improvements are shipping today: \n\n- Icons are larger with more space in-between \n- Bookmarks and share are right-aligned  \n- Action counts on web are shown below icons, just like mobile\n\nh/t to @0xdesigner for the inspiration!",
+          "timestamp": "2024-03-19T21:40:23.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/Vm12RHZ.jpg",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 255075,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2040,
+                  "height_px": 1496
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x329f4d1c",
+    "url": "https://warpcast.com/polluterofminds/0x329f4d1c",
+    "author_username": "polluterofminds",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 4823,
+    "author_pfp": "https://i.seadn.io/gae/lhGgt7yK1JiBVYz_HBxcAmYLRtP03aw5xKX4FgmFT9Ai7kLD5egzlLvb0lkuRNl28shtjr07DC8IHzLUkTqlWUMndUzC9R5_MSxH3g?w=500&auto=format",
+    "cast_date": "2024-03-19T23:02:44.000Z",
+    "text": "New button spacing like boys and girls at a middle school dance.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/q5ll0nE.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 22063,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 329
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8fcfc2ca",
+    "url": "https://warpcast.com/degend/0x8fcfc2ca",
+    "author_username": "degend",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xa115d3d4",
+    "url": "https://warpcast.com/m0nt0y4/0xa115d3d4",
+    "author_username": "m0nt0y4",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 4275,
+    "author_pfp": "https://i.imgur.com/MirjxvF.jpg",
+    "cast_date": "2024-03-20T02:08:35.000Z",
+    "text": "Spent the whole day resetting my click farm because @dwr.eth moved the buttons again. I’m exhausted.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/4XC871d.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 587741,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1350
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x42818dab",
+    "url": "https://warpcast.com/nonlinear.eth/0x42818dab",
+    "author_username": "nonlinear.eth",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 576,
+    "author_pfp": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+    "cast_date": "2024-03-20T00:19:16.000Z",
+    "text": "personally offended this wasn’t cast in /memes",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x981a1f2a",
+    "url": "https://warpcast.com/v/0x981a1f2a",
+    "author_username": "v",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-03-19T22:37:53.000Z",
+    "text": "@deodad and @horsefacts.eth are making Farcaster more hackable.\n\nCast actions is a proposal to add custom action buttons to your cast action bar. When a user clicks on them, your server will get a signed callback. \n\nWhat would you use this for? If we find enough creative use cases, we'll ship this asap.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/pDyy4XA.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 264392,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1880,
+            "height_px": 898
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 6841,
+          "hash": "0xc41822d62bb3b6be9b4cc704321f0f34cc07de8b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc41822d62bb3b6be9b4cc704321f0f34cc07de8b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 6841,
+            "username": "deodad",
+            "display_name": "Tony D’Addeo",
+            "pfp_url": "https://i.imgur.com/dMoIan7.jpg",
+            "custody_address": "0xf9d3d372d0097bf26cbf2444b34f5b9522afaa4b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc41822d62bb3b6be9b4cc704321f0f34cc07de8b",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-devs",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-devs",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Looking for feedback on custom cast actions:\n\n- devs can let users add custom action buttons casts\n- when users press custom action button signed message is posted to the devs server\n\nreply here or comment on the doc\n\nhttps://warpcast.notion.site/Custom-Cast-Actions-df137f70d7d847578d4cd458703a8291?pvs=4",
+          "timestamp": "2024-03-19T22:31:44.000Z",
+          "embeds": [
+            {
+              "url": "https://warpcast.notion.site/Custom-Cast-Actions-df137f70d7d847578d4cd458703a8291?pvs=4",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://warpcast.notion.site/Custom-Cast-Actions-df137f70d7d847578d4cd458703a8291",
+                  "ogType": "article",
+                  "favicon": "https://warpcast.notion.site/images/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2Fbf25392c-b831-417a-9133-ada40e3a3045%2FUntitled.png?table=block&id=c6444f9a-a53c-45d8-bbfd-de4cd9aaa3ec&width=2000&userId=&cache=v2",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Custom Cast Actions | Notion",
+                  "ogLocale": "en_US",
+                  "ogSiteName": "Warpcast on Notion",
+                  "ogDescription": "Goal: Allow custom actions to a cast."
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-devs",
+            "name": "Farcaster Devs",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a0a4802-6819-47ee-2c3b-29b681d7c500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaa02340f",
+    "url": "https://warpcast.com/dwr.eth/0xaa02340f",
+    "author_username": "dwr.eth",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-03-19T22:34:21.000Z",
+    "text": "Team is cooking 👀\n\nThere would be a ton of new surface area for devs. And plenty of opportunity to build ongoing, durable DAU from within Warpcast and other Farcaster clients.\n\nSign up for Farcaster, get an FID and open up to a whole universe of apps.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 6841,
+          "hash": "0xc41822d62bb3b6be9b4cc704321f0f34cc07de8b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc41822d62bb3b6be9b4cc704321f0f34cc07de8b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 6841,
+            "username": "deodad",
+            "display_name": "Tony D’Addeo",
+            "pfp_url": "https://i.imgur.com/dMoIan7.jpg",
+            "custody_address": "0xf9d3d372d0097bf26cbf2444b34f5b9522afaa4b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc41822d62bb3b6be9b4cc704321f0f34cc07de8b",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-devs",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-devs",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Looking for feedback on custom cast actions:\n\n- devs can let users add custom action buttons casts\n- when users press custom action button signed message is posted to the devs server\n\nreply here or comment on the doc\n\nhttps://warpcast.notion.site/Custom-Cast-Actions-df137f70d7d847578d4cd458703a8291?pvs=4",
+          "timestamp": "2024-03-19T22:31:44.000Z",
+          "embeds": [
+            {
+              "url": "https://warpcast.notion.site/Custom-Cast-Actions-df137f70d7d847578d4cd458703a8291?pvs=4",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://warpcast.notion.site/Custom-Cast-Actions-df137f70d7d847578d4cd458703a8291",
+                  "ogType": "article",
+                  "favicon": "https://warpcast.notion.site/images/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2Fbf25392c-b831-417a-9133-ada40e3a3045%2FUntitled.png?table=block&id=c6444f9a-a53c-45d8-bbfd-de4cd9aaa3ec&width=2000&userId=&cache=v2",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Custom Cast Actions | Notion",
+                  "ogLocale": "en_US",
+                  "ogSiteName": "Warpcast on Notion",
+                  "ogDescription": "Goal: Allow custom actions to a cast."
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-devs",
+            "name": "Farcaster Devs",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a0a4802-6819-47ee-2c3b-29b681d7c500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xff5c2fba",
+    "url": "https://warpcast.com/horsefacts.eth/0xff5c2fba",
+    "author_username": "horsefacts.eth",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2024-03-20T00:12:32.000Z",
+    "text": "🤔 🤔 🤔",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/Yy08GTY.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 190129,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1234,
+            "height_px": 830
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc41822d6",
+    "url": "https://warpcast.com/deodad/0xc41822d6",
+    "author_username": "deodad",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 6841,
+    "author_pfp": "https://i.imgur.com/dMoIan7.jpg",
+    "cast_date": "2024-03-19T22:31:44.000Z",
+    "text": "Looking for feedback on custom cast actions:\n\n- devs can let users add custom action buttons casts\n- when users press custom action button signed message is posted to the devs server\n\nreply here or comment on the doc\n\nhttps://warpcast.notion.site/Custom-Cast-Actions-df137f70d7d847578d4cd458703a8291?pvs=4",
+    "embeds": [
+      {
+        "url": "https://warpcast.notion.site/Custom-Cast-Actions-df137f70d7d847578d4cd458703a8291?pvs=4",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.notion.site/Custom-Cast-Actions-df137f70d7d847578d4cd458703a8291",
+            "ogType": "article",
+            "favicon": "https://warpcast.notion.site/images/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2Fbf25392c-b831-417a-9133-ada40e3a3045%2FUntitled.png?table=block&id=c6444f9a-a53c-45d8-bbfd-de4cd9aaa3ec&width=2000&userId=&cache=v2",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Custom Cast Actions | Notion",
+            "ogLocale": "en_US",
+            "ogSiteName": "Warpcast on Notion",
+            "ogDescription": "Goal: Allow custom actions to a cast."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x16c62367",
+    "url": "https://warpcast.com/v/0x16c62367",
+    "author_username": "v",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-03-20T02:31:12.000Z",
+    "text": "The active badge is going away.\n\nSpammy accounts are aggressively gaming the system to get the badge. \nMaking the rules stricter just makes it harder for legitimate users.\n\nWe’re past the point where a simple rule based system will work. We need something better.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7d7f089f",
+    "url": "https://warpcast.com/christopher/0x7d7f089f",
+    "author_username": "christopher",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 4085,
+    "author_pfp": "https://img.uno.fun/NVLTATDRhLYWmXRhanaeUyb1kivtwtaw-qswwF5TuWk/rs:fit:0:0/f:jpg/Z3M6Ly91bm8taW1hZ2VzLXYwLzAxSlNNVldQNDJTNFpTTkIzU1dTNjQ3U0MyLmF2aWY",
+    "cast_date": "2024-03-19T23:58:32.000Z",
+    "text": "we are test launching the first @curation frame! and we need your help to break it 🙏 \n\n- submit a song and stake 0.003 Base Sepolia ETH\n- curator gets 50% of the stakes at the end, you get a curation NFT\n- stakes are returned if a song is replaced\n- it's a little slow, sorry!\n\nhttps://curation.unofficial.run/api/2",
+    "embeds": [
+      {
+        "url": "https://curation.unofficial.run/api/2",
+        "metadata": {
+          "content_type": null,
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfd847188",
+    "url": "https://warpcast.com/vocdoni/0xfd847188",
+    "author_username": "vocdoni",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 7548,
+    "author_pfp": "https://i.imgur.com/BwDXPRa.jpg",
+    "cast_date": "2024-03-19T11:24:12.000Z",
+    "text": "ℹ️ In this thread, you'll find alert notifications as replies, directed at individuals eligible to participate in Farcaster.vote polls that have this feature enabled.\n\n If our bot didn't notify you, please disregard this cast.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xca03f9ce",
+    "url": "https://warpcast.com/ted/0xca03f9ce",
+    "author_username": "ted",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-03-15T17:33:54.000Z",
+    "text": "join the FarCon Squad to vote on side events and get access to FarCon livestreams (for those who can't make it) and a few swag raffles.\n\nshout out to the @partydao team for making this happen!!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 20928,
+          "hash": "0x9e8b0bead3cf19864803eb07cfc4e45a550aaa7b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x9e8b0bead3cf19864803eb07cfc4e45a550aaa7b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 20928,
+            "username": "partydao",
+            "display_name": "PartyDAO",
+            "pfp_url": "https://i.imgur.com/p44Mmkv.jpg",
+            "custody_address": "0xc70ea51676ebd983498deed843d692d55517a355"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9e8b0bead3cf19864803eb07cfc4e45a550aaa7b",
+          "parent_hash": null,
+          "parent_url": "https://www.party.app",
+          "root_parent_url": "https://www.party.app",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Introducing FarCon Squad — a DAO to fund side events at FarCon, powered by Party.\n\nFree to join, 1 membership per FID. Members get exclusive access to FarCon livestreams and vote to fund the coolest events.\n\nIt's the best way to join FarCon online. Join via frame below.\n\nhttps://farconsquad.vercel.app/",
+          "timestamp": "2024-03-15T17:30:54.000Z",
+          "embeds": [
+            {
+              "url": "https://farconsquad.vercel.app/",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogImage": [
+                    {
+                      "url": "https://partyprod.nyc3.cdn.digitaloceanspaces.com/farconsquad/join.jpg",
+                      "type": "jpg"
+                    }
+                  ],
+                  "ogTitle": "FarconSquad",
+                  "ogLocale": "en",
+                  "ogDescription": "A farcaster-native DAO to fund side events at FarCon"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "party",
+            "name": "Party",
+            "image_url": "https://warpcast.com/~/channel-images/party.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0d1c73e2",
+    "url": "https://warpcast.com/base/0x0d1c73e2",
+    "author_username": "base",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 12142,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce5460f6-40a2-4486-47c1-7801e4033e00/original",
+    "cast_date": "2024-03-18T19:15:59.000Z",
+    "text": "Since Frames launched, we’ve announced four rounds of grants for builders creating /frames on Base\n\nHere are the recipients of the fourth round of grants focused on transaction frames built on Base and integrations with /mwp (Mobile Wallet Protocol)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc5123462",
+    "url": "https://warpcast.com/itai/0xc5123462",
+    "author_username": "itai",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 516,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/03118d59-5105-4f4f-e2b2-6f92c93bd400/original",
+    "cast_date": "2024-03-18T14:12:59.000Z",
+    "text": "We've had 45(!🔥) killer projects built on top of @dynamic at /ethglobal London this weekend, and we created a frame to showcase a few amazing ones. Check it out below:\n\nhttps://frames.neynar.com/f/5dfdda87/b06cee80\n\nHere's to the builders! 🥂",
+    "embeds": [
+      {
+        "url": "https://frames.neynar.com/f/5dfdda87/b06cee80",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://i.imgur.com/E99oAYB.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "EthGlobal London 2024",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf0686cab",
+    "url": "https://warpcast.com/linda/0xf0686cab",
+    "author_username": "linda",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-03-19T00:32:51.000Z",
+    "text": "Pretty neat just through a Farcaster bot + frames we were able to have ~$450k in posted bounties without a site login!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 12,
+          "hash": "0x87d604f983942b7cc9ade9a9478b84cb9716a4c7"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x87d604f983942b7cc9ade9a9478b84cb9716a4c7",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12,
+            "username": "linda",
+            "display_name": "Linda Xie",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+            "custody_address": "0xb43575d58c49d2be880e0f821ddf51d15c13c376"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x87d604f983942b7cc9ade9a9478b84cb9716a4c7",
+          "parent_hash": null,
+          "parent_url": "https://www.bountycaster.xyz",
+          "root_parent_url": "https://www.bountycaster.xyz",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "New Bountycaster feature:\n\nWe added \"sign in with Farcaster\" to our Bountycaster site (bountycaster.xyz). Clicking on your profile brings you to your list of posted and completed bounties and services\n\nWe're building out more site features now that we have sign in, stay tuned!",
+          "timestamp": "2024-03-19T00:08:40.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/WfhVxtA.png",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 210199,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1524,
+                  "height_px": 1126
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "bounties",
+            "name": "Bounties",
+            "image_url": "https://warpcast.com/~/channel-images/bounties.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x701076e0",
+    "url": "https://warpcast.com/proxystudio.eth/0x701076e0",
+    "author_username": "proxystudio.eth",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 270504,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+    "cast_date": "2024-03-19T00:41:13.000Z",
+    "text": "one day after the $ticker fiasco, I ran an experiment. I casted this wallet address with no comment, and waited for ETH. With the help of vagueposting, 18 people sent .16 ETH or $569. \n\nread about the experiment here, footnotes included\n\nhttps://zora.co/collect/base:0x7715abb2c8f3489acecaf6f6d0b5ebf9bb11624b/3",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 270504,
+          "hash": "0xc693fad1cd3d668f18b9d392fa234581f23a029a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc693fad1cd3d668f18b9d392fa234581f23a029a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 270504,
+            "username": "proxystudio.eth",
+            "display_name": "gordie slater",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+            "custody_address": "0xe1731273c1262e458251abf722cf64c52f558c2a"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc693fad1cd3d668f18b9d392fa234581f23a029a",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/openventures",
+          "root_parent_url": "https://warpcast.com/~/channel/openventures",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Lessons Learned\n\ncontributors will all receive: full refunds, proxy sub contributers get 1 month free, largest contributor gets an /openventures channel wallet token, worth .03 ETH \n\nmake sure you read the footnotes\nhttps://zora.co/collect/base:0x7715abb2c8f3489acecaf6f6d0b5ebf9bb11624b/3",
+          "timestamp": "2024-03-19T00:32:41.000Z",
+          "embeds": [
+            {
+              "url": "https://zora.co/collect/base:0x7715abb2c8f3489acecaf6f6d0b5ebf9bb11624b/3?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+              "metadata": {
+                "_status": "PENDING"
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "openventures",
+            "name": "proxy studio",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/78b1e376-98fc-446b-a164-b9accc902900/original"
+          }
+        }
+      },
+      {
+        "url": "https://zora.co/collect/base:0x7715abb2c8f3489acecaf6f6d0b5ebf9bb11624b/3?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x15cc2f6f",
+    "url": "https://warpcast.com/lo/0x15cc2f6f",
+    "author_username": "lo",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 4715,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d333a698-91ba-4551-c362-3351915d7700/rectcrop3",
+    "cast_date": "2024-03-18T19:26:54.000Z",
+    "text": "I'd like to thank the Academy (aka @nounishprof and @adrienne ) for recognizing my meme artistry. This time I feel it. And I can’t deny the fact that you like me. Right now, you like me!",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/8BMDxgP.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 24052,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 400,
+            "height_px": 400
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0xc194d39c2536535a070f1b9585dce0d838ae2958"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc194d39c2536535a070f1b9585dce0d838ae2958",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc194d39c2536535a070f1b9585dce0d838ae2958",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster ep76 out now!\n\ns/o: @v @dwr.eth @nonlinear.eth /memes @logonaut.eth @robin @links @kia.eth @tldr @jpren.eth @ghostlinkz.eth and of all things $ticker\n\nhttps://zora.co/collect/base:0xc678c2b1ced0f2a2666ae9b76a3be1d0ced09925/77",
+          "timestamp": "2024-03-18T18:54:40.000Z",
+          "embeds": [
+            {
+              "url": "https://zora.co/collect/base:0xc678c2b1ced0f2a2666ae9b76a3be1d0ced09925/77?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+              "metadata": {
+                "_status": "PENDING"
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb3c8742d",
+    "url": "https://warpcast.com/rileybeans/0xb3c8742d",
+    "author_username": "rileybeans",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 3112,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2ada1cf2-5041-4c32-1ad9-3c073c0d0100/original",
+    "cast_date": "2024-03-19T23:51:32.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/QBQgAEb.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 114495,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 723,
+            "height_px": 500
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3b731173",
+    "url": "https://warpcast.com/xcopy.eth/0x3b731173",
+    "author_username": "xcopy.eth",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 16183,
+    "author_pfp": "https://i.imgur.com/LDLLwD7.gif",
+    "cast_date": "2024-03-19T16:44:15.000Z",
+    "text": "MUTATIO!\nhttps://app.manifold.xyz/c/spores-mutatio",
+    "embeds": [
+      {
+        "url": "https://app.manifold.xyz/c/spores-mutatio",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogType": "website",
+            "favicon": "/favicon-black.svg",
+            "ogImage": [
+              {
+                "url": "https://assets.manifold.xyz/optimized/04ecc414cdac7e1ae626360faa2fbd30c97acf28900b4606d00dcb8858996363/w_800.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "MUTATIO",
+            "ogDescription": "*"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x15010537",
+    "url": "https://warpcast.com/mcbain/0x15010537",
+    "author_username": "mcbain",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 1626,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6b5f14ba-508a-4090-abca-dae88b6e6d00/original",
+    "cast_date": "2024-03-20T01:02:49.000Z",
+    "text": "When you realized FIDs are the email address of the next internet you can start to get it",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1a4af5ce",
+    "url": "https://warpcast.com/jessepollak/0x1a4af5ce",
+    "author_username": "jessepollak",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-03-19T23:17:09.000Z",
+    "text": "can't stop, won't stop supporting artists, creatives, and makers onchain\n\nfeaturing candles from @samantha, photos from @priyanka, and art from @yungwknd",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/symoiHS.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 470723,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x94d6c565",
+    "url": "https://warpcast.com/dwr.eth/0x94d6c565",
+    "author_username": "dwr.eth",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-03-19T23:15:50.000Z",
+    "text": "DeSo as an acronym is ngmi",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf9cebcfe",
+    "url": "https://warpcast.com/artlu/0xf9cebcfe",
+    "author_username": "artlu",
+    "show_date": "2024-03-20",
+    "show_title": "GM Farcaster ep77, March 20, 2024",
+    "source_episode_id": "sPrBYYCshLo",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  }
+]

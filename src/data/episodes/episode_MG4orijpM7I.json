@@ -1,0 +1,895 @@
+[
+  {
+    "cast_hash": "0x6ac51b7d",
+    "url": "https://warpcast.com/dwr.eth/0x6ac51b7d",
+    "author_username": "dwr.eth",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-04-29T17:55:40.000Z",
+    "text": "1/ Farcaster is permissionless. \n\nAnyone or anything can pay $3 worth of ETH to the smart contract on OP Mainnet to create an account.\n\nAfter 1 year, the account has to pay $3 again to keep using the protocol.\n\nThere will be low quality stuff on the protocol! Just like the web and email.\n\nClients will solve quality.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa0d99b6f",
+    "url": "https://warpcast.com/jpetrich/0xa0d99b6f",
+    "author_username": "jpetrich",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 1401,
+    "author_pfp": "https://i.seadn.io/gcs/files/74b88a25e19a01637eec1755cffafaa9.jpg?w=500&auto=format",
+    "cast_date": "2024-04-29T14:30:22.000Z",
+    "text": "Today we're excited to launch our Pokemon card vending machine as a frame! Mint a pack for ~$35 in ETH, DEGEN, or USDC, receive a graded card worth up to $500, and then head to Courtyard.io for your buyback offer. Thanks to @samuellhuber.eth for helping build it! Read on for more details👇\n\nhttps://courtyard.io/api/frame",
+    "embeds": [
+      {
+        "url": "https://courtyard.io/api/frame",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://static.courtyard.io/frame-assets/square-animation.gif",
+                "type": "gif"
+              }
+            ],
+            "ogTitle": "Vending Machine",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x50e91579",
+    "url": "https://warpcast.com/gt/0x50e91579",
+    "author_username": "gt",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 302,
+    "author_pfp": "https://i.imgur.com/YM5spql.jpg",
+    "cast_date": "2024-04-29T23:25:55.000Z",
+    "text": "If you or a loved one suffers from \"direct casts unread badge is stuck and is not clearing for months\" issue — ping me in this thread, or send me a direct cast.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4cf3b667",
+    "url": "https://warpcast.com/v/0x4cf3b667",
+    "author_username": "v",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-04-30T00:02:27.000Z",
+    "text": "don't let your loved ones suffer from unread direct casts. \n\nplease let goksu know. your actions could save a dau.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 302,
+          "hash": "0x50e91579dc3574b314487d7a0a63ba5e5d86ed49"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x50e91579dc3574b314487d7a0a63ba5e5d86ed49",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 302,
+            "username": "gt",
+            "display_name": "Goksu Toprak",
+            "pfp_url": "https://i.imgur.com/YM5spql.jpg",
+            "custody_address": "0xa4b7c9173ff5be5c116d2ff846d23dd12a3cc5ec"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x50e91579dc3574b314487d7a0a63ba5e5d86ed49",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "If you or a loved one suffers from \"direct casts unread badge is stuck and is not clearing for months\" issue — ping me in this thread, or send me a direct cast.",
+          "timestamp": "2024-04-29T23:25:55.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xecb3de7b",
+    "url": "https://warpcast.com/jacek/0xecb3de7b",
+    "author_username": "jacek",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 15983,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+    "cast_date": "2024-04-30T03:43:19.000Z",
+    "text": "Airdrop 2 Season 3 claims go live tomorrow at 8 PM PST! Immediately after, we'll kick off Season 4. To prolong our tipping activities, we'll be reducing tip allowances moving forward. Stay tuned!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x566d4ec2",
+    "url": "https://warpcast.com/v/0x566d4ec2",
+    "author_username": "v",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-04-29T20:31:40.000Z",
+    "text": "How happy are you with Direct Casts on warpcast? \n\nIf you have any bugs, annoyances or feature requests, please reply in the thread.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x30ca5518",
+    "url": "https://warpcast.com/linda/0x30ca5518",
+    "author_username": "linda",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-04-30T02:01:21.000Z",
+    "text": "One of the best parts about building within the Superchain ecosystem is how supportive the @base.base.eth and @optimism teams are. They regularly use the products built on top, help promote, provide funding with grants, etc. Truly world-class support",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcdd3494a",
+    "url": "https://warpcast.com/ted/0xcdd3494a",
+    "author_username": "ted",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-04-29T15:47:07.000Z",
+    "text": "(finally) announcing the FarCon Summit lineup, curated by the farcaster community for the farcaster community with help via @paragraph frames.\n\nsee you on thursday morning at 9:30am for coffee + @icebreaker passes, 10:15 quick welcome, before @v and @dwr.eth take the stage.\n\ndon't be late :)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2aa2c972-544e-449e-c5e0-2501d7bd4000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 5149601,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1415,
+            "height_px": 1920
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf1c4ed50",
+    "url": "https://warpcast.com/linda/0xf1c4ed50",
+    "author_username": "linda",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-04-29T18:25:39.000Z",
+    "text": "For everyone with a FarCon Summit Pass, we'll start honoring the free 10 USDC Bountycaster credit for bounties posted starting today through end of this week. In case you want to get creative bounties up before the events start :)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 12,
+          "hash": "0x7225927a032ced8821b76b4a762048ad2eeef748"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7225927a032ced8821b76b4a762048ad2eeef748",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12,
+            "username": "linda",
+            "display_name": "Linda Xie",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+            "custody_address": "0xb43575d58c49d2be880e0f821ddf51d15c13c376"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7225927a032ced8821b76b4a762048ad2eeef748",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "root_parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Everyone with a FarCon Summit Pass gets a free 10 USDC credit from Bountycaster to use towards an IRL bounty you cast during FarCon\n\nWay credit works: we'll pay out the $10 bounty on your behalf OR we'll reimburse you $10 for the payment\n\nIdeas if you need inspiration here https://warpcast.com/linda/0xe41dd06f",
+          "timestamp": "2024-04-20T23:36:07.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 12,
+                "hash": "0xe41dd06f547e26b59c0af3c1fd30eee7de3a3aca"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xe41dd06f547e26b59c0af3c1fd30eee7de3a3aca",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 12
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcon",
+            "name": "FarCon",
+            "image_url": "https://i.imgur.com/mtH8eq1.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x44fb8f1e",
+    "url": "https://warpcast.com/ted/0x44fb8f1e",
+    "author_username": "ted",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-04-29T22:50:12.000Z",
+    "text": "btw will be at farcon",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf4a80190",
+    "url": "https://warpcast.com/dwr.eth/0xf4a80190",
+    "author_username": "dwr.eth",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-04-29T23:56:29.000Z",
+    "text": "I have decided to break my no crypto conferences rule and attend farcon",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 239,
+          "hash": "0x44fb8f1ea778c7086c021a91eb4aa62f6398c0c3"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x44fb8f1ea778c7086c021a91eb4aa62f6398c0c3",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 239,
+            "username": "ted",
+            "display_name": "ted (not lasso)",
+            "pfp_url": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+            "custody_address": "0xc67925418dc80265720244594c632b258a5c78e8"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x44fb8f1ea778c7086c021a91eb4aa62f6398c0c3",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/ted",
+          "root_parent_url": "https://warpcast.com/~/channel/ted",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "btw will be at farcon",
+          "timestamp": "2024-04-29T22:50:12.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "ted",
+            "name": "teddit",
+            "image_url": "https://i.imgur.com/dm8MnyD.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb0c9cb85",
+    "url": "https://warpcast.com/v/0xb0c9cb85",
+    "author_username": "v",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-04-30T00:01:42.000Z",
+    "text": "considering going too. is anyone else from farcaster going to be there?",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xf4a80190a6bf28ee31c76af7ddd965f61133cc21"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf4a80190a6bf28ee31c76af7ddd965f61133cc21",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf4a80190a6bf28ee31c76af7ddd965f61133cc21",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I have decided to break my no crypto conferences rule and attend farcon",
+          "timestamp": "2024-04-29T23:56:29.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 239,
+                "hash": "0x44fb8f1ea778c7086c021a91eb4aa62f6398c0c3"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x44fb8f1ea778c7086c021a91eb4aa62f6398c0c3",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 239
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe15f0c9c",
+    "url": "https://warpcast.com/0xen/0xe15f0c9c",
+    "author_username": "0xen",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 528,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7c3ca449-b2e6-4570-5a48-7be60e3d5e00/original",
+    "cast_date": "2024-04-30T00:19:06.000Z",
+    "text": "btw won't be at farcon...\n\nunless?",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1325,
+          "hash": "0x0ca690bf054afc932545b265610248035ead6d8f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0ca690bf054afc932545b265610248035ead6d8f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1325,
+            "username": "cassie",
+            "display_name": "Cassie Heart",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45bf39bb-9508-40de-a224-68811d248900/rectcrop3",
+            "custody_address": "0xd01b7167bb22262554049fb7cb207d3fb16c89bb"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0ca690bf054afc932545b265610248035ead6d8f",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "btw will be at farcon",
+          "timestamp": "2024-04-29T23:52:59.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 3621,
+                "hash": "0x774538438cd8437d8460238f95a7de53070410bc"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x774538438cd8437d8460238f95a7de53070410bc",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3621
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd88b8715",
+    "url": "https://warpcast.com/divyav.eth/0xd88b8715",
+    "author_username": "divyav.eth",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 211644,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d39bd8c5-9ccc-4321-bc09-4425bf9c6a00/rectcrop3",
+    "cast_date": "2024-04-30T00:24:02.000Z",
+    "text": "just reached venice, and everywhere i look, i think, “oh, hi there, fellow farcon attendee!” it’s like venice has nothing else going on!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7fe05f99",
+    "url": "https://warpcast.com/arjun/0x7fe05f99",
+    "author_username": "arjun",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 71,
+    "author_pfp": "https://i.imgur.com/p17N21E.jpg",
+    "cast_date": "2024-04-29T18:07:42.000Z",
+    "text": "farcon meetup, for fans of the other dc, hosted by @paradigm\n\nsee me, @gakonst, @caitlinxyz, @matthuang, and @df2 there\n\nhttps://partiful.com/e/pSuKwWriWniOSghsNGew",
+    "embeds": [
+      {
+        "url": "https://partiful.com/e/pSuKwWriWniOSghsNGew",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://partiful.com/e/pSuKwWriWniOSghsNGew",
+            "ogDate": "2024-05-03T10:00:00.000+00:00",
+            "ogType": "website",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "image (5).png",
+                "url": "https://partiful.imgix.net/user/olT4825XaDNS99yM6KNugjDhum12/psHPTV7wm0nT4OGcNwum0?w=1000&h=1000&fit=clip"
+              }
+            ],
+            "ogTitle": "Diet Coke: Farcon Edition | Partiful",
+            "ogLocale": "en",
+            "ogSiteName": "Partiful",
+            "ogDescription": "Come grab a diet coke with Paradigm on Santa Monica Beach during Farcon! Look for the neon green flags...exact location to be released closer to event start. We'll have music, sunscreen, games, and plenty of DC 🌞."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfcdc6350",
+    "url": "https://warpcast.com/yuki/0xfcdc6350",
+    "author_username": "yuki",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 4065,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0ad833fc-7dbd-4b5e-09f7-2b8419e75800/original",
+    "cast_date": "2024-04-30T00:55:37.000Z",
+    "text": "We airdropped FarCon attendees a “LAXplorer” badge on DEGEN L3 as a first step to our 100,000 $DEGEN FarCon Checkin Campaign! ✈️\n\nUse invite code “CLOSECON24\" to get the client app at app.checkincaster.xyz!\n\nInvite code available to the first 100 users only! 🔑",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/971b93a5-cc87-4f5f-c364-f9cdec9eec00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 3197336,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1155
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/873c70cc-dc74-4bc2-64eb-7c3acec43400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 516284,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 2329
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x079aec69",
+    "url": "https://warpcast.com/toadyhawk.eth/0x079aec69",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2024-04-29T23:58:08.000Z",
+    "text": "I have just committed to doing so many projects around the house from my wife’s wish list this summer.\n\nIn unrelated news… see you all in LA.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/75f315c7-9137-40e0-c1e5-79446283b200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 42766,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 1052
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1fd79a36",
+    "url": "https://warpcast.com/benbodhi/0x1fd79a36",
+    "author_username": "benbodhi",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 803,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8bbbf0ed-ecd4-4441-abc2-bd162a9aff00/original",
+    "cast_date": "2024-04-30T02:08:56.000Z",
+    "text": "ESTA was approved, at the airport about to leave. Farcon bound.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 803,
+          "hash": "0xa85a4fc2c43305c89be92ce1f75b80e4df7427ac"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa85a4fc2c43305c89be92ce1f75b80e4df7427ac",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 803,
+            "username": "benbodhi",
+            "display_name": "₿Ξnbodhi ✦⁺",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8bbbf0ed-ecd4-4441-abc2-bd162a9aff00/original",
+            "custody_address": "0x47c446d66975e27c210993da29bd7fde0925a89a"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa85a4fc2c43305c89be92ce1f75b80e4df7427ac",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/benbodhi",
+          "root_parent_url": "https://warpcast.com/~/channel/benbodhi",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "It’s been like 6 years since I’ve been to the US and forgot about needing an ESTA.\nIf I’m going to farcon, I’d fly out in about 20hrs.\nSo I let the last minute ESTA application be the decider on whether I go or not.",
+          "timestamp": "2024-04-29T05:26:05.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "benbodhi",
+            "name": "Benbodhi’s Channel",
+            "image_url": "https://i.imgur.com/hZCmpw4.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x901e2298",
+    "url": "https://warpcast.com/kugusha.eth/0x901e2298",
+    "author_username": "kugusha.eth",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 9135,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9ecedf84-ede4-48b5-d1f7-f9975635fc00/rectcrop3",
+    "cast_date": "2024-04-30T09:50:51.000Z",
+    "text": "Farcaster Meetup in Paris\n\nChill drinks & snacks with your friends at the crypto butcher shop\n\nMay 3, (this Friday)\n\nhttps://events.xyz/4651725e",
+    "embeds": [
+      {
+        "url": "https://events.xyz/4651725e",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/api/v1/frames/events/4651725e/img/no_rsvp"
+              }
+            ],
+            "ogTitle": "Le Farcon ",
+            "ogLocale": "en",
+            "ogDescription": "FB Events for Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8d5b8645",
+    "url": "https://warpcast.com/sandiforward/0x8d5b8645",
+    "author_username": "sandiforward",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 18489,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ade94543-13cd-4603-09f5-3a71ab15c600/original",
+    "cast_date": "2024-04-29T08:07:15.000Z",
+    "text": "Gm /london, agenda is out for Friday's Far(away)Con event 🎫 \n\nA big thanks to our sponsors /optimism, /farcon, /launchcaster, /a16z and Plexus for helping us bring this together.",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/3858c024b49ccebe2b8f9d619371cebb.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "codec_name": "h264",
+                "height_px": 1080,
+                "width_px": 1080
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 720,
+                "width_px": 720
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 480,
+                "width_px": 480
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 360,
+                "width_px": 360
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 240,
+                "width_px": 240
+              }
+            ],
+            "duration_s": 12
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x727618fb",
+    "url": "https://warpcast.com/jayme/0x727618fb",
+    "author_username": "jayme",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 373,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d2b76c9f-b719-4381-ce55-c8659ee57b00/original",
+    "cast_date": "2024-04-26T09:19:24.000Z",
+    "text": "Far(away)Con FAQ 🧵\n\nWhat: One-day Farcon satellite event in London. Discussions on building, growing, and earning on Farcaster.\n\nWhen: Friday, May 3 - 10am - 6:00pm\n\nWho: Farcasters in London, UK, and Europe \n\nHow: Get on allowlist and mint to RSVP (Yes, still time)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/208ae37a-2086-4035-9163-f12a2dda4800/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 3299944,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1920,
+            "height_px": 1920
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x85c761f4",
+    "url": "https://warpcast.com/ahn.eth/0x85c761f4",
+    "author_username": "ahn.eth",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 8004,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cca05e9f-4f52-45c9-ebdb-c60ec8f93d00/rectcrop3",
+    "cast_date": "2024-04-26T10:03:58.000Z",
+    "text": "Excited to see many of you at Far(away)Con next week!\n\nMy schedule is pretty unpacked, so polite interest for grabbing a coffee / run in advance. :)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 373,
+          "hash": "0x727618fb310386c38d8c1f87a4a2192fd75549f5"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x727618fb310386c38d8c1f87a4a2192fd75549f5",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 373,
+            "username": "jayme",
+            "display_name": "jayme",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d2b76c9f-b719-4381-ce55-c8659ee57b00/original",
+            "custody_address": "0x1ca66c990e86b750ea6b2180d17fff89273a5c0d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x727618fb310386c38d8c1f87a4a2192fd75549f5",
+          "parent_hash": null,
+          "parent_url": "https://farcaster.group/london",
+          "root_parent_url": "https://farcaster.group/london",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Far(away)Con FAQ 🧵\n\nWhat: One-day Farcon satellite event in London. Discussions on building, growing, and earning on Farcaster.\n\nWhen: Friday, May 3 - 10am - 6:00pm\n\nWho: Farcasters in London, UK, and Europe \n\nHow: Get on allowlist and mint to RSVP (Yes, still time)",
+          "timestamp": "2024-04-26T09:19:24.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/208ae37a-2086-4035-9163-f12a2dda4800/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 3299944,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1920,
+                  "height_px": 1920
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "london",
+            "name": "London",
+            "image_url": "https://i.imgur.com/Br0Tbb9.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-04-30",
+    "show_title": "GM Farcaster episode 99, April 30, 2024",
+    "source_episode_id": "MG4orijpM7I",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

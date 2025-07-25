@@ -1,0 +1,1189 @@
+[
+  {
+    "cast_hash": "0x088626a5",
+    "url": "https://warpcast.com/nounishprof/0x088626a5",
+    "author_username": "nounishprof",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-06-12T13:28:44.000Z",
+    "text": "The next challenge is /hotpotato 🔥 🥔 the 7 remaining players will start passing the 🥔 among themselves and whomever is at the top of the leaderboard at 11 am ET tomorrow wins immunity!\n\nThere will be mandatory and optional breaks -- pass the potato to prof to start a 2 hour break. The fun starts at noon ET.",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/4b96322e40faeb3baca3e974a60ea24c.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 58.79
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb4a6326f",
+    "url": "https://warpcast.com/nonlinear.eth/0xb4a6326f",
+    "author_username": "nonlinear.eth",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 576,
+    "author_pfp": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+    "cast_date": "2024-06-12T00:15:38.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0b675e57-5734-483a-e750-2dcd84fb1200/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 544509,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1140,
+            "height_px": 728
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x27b4138e",
+    "url": "https://warpcast.com/v/0x27b4138e",
+    "author_username": "v",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-06-10T22:01:19.000Z",
+    "text": "Feature: Mutual follows for DC Requests\n\nWarpcast now shows mutual follows in your requests inbox. This makes it easier to find people you may want to respond to.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c2840a97-afb0-4a2e-b1ed-13b131a77a00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 140917,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 826,
+            "height_px": 1358
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5de79ff0",
+    "url": "https://warpcast.com/horsefacts.eth/0x5de79ff0",
+    "author_username": "horsefacts.eth",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2024-06-11T23:56:26.000Z",
+    "text": "Frame devs: we're experimenting with a slim embed for frames, starting with QCs.\n\nFor now we're rendering some defaults:\n- Image from frame image\n- Title from og:title\n- CTA button from your frame if there's just one and it's short, otherwise \"View\"\n\nSpec coming soon to give you more control. Until then, set these!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/68775d77-8af2-460a-baee-8d6c016fb400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 91074,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1096,
+            "height_px": 480
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3621,
+          "hash": "0x48682812fd27fca1813be113768e8fc0fde9a999"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x48682812fd27fca1813be113768e8fc0fde9a999",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3621,
+            "username": "horsefacts.eth",
+            "display_name": "horsefacts",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+            "custody_address": "0x2cd85a093261f59270804a6ea697cea4cebecafe"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x48682812fd27fca1813be113768e8fc0fde9a999",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "✨ New on Warpcast: frames in quote casts.\n\nClick or tap the frame embed inside a quoted cast to launch it. No more need to copy-paste a frame link into your QC. Try it below.\n\nLive now on web and mobile.",
+          "timestamp": "2024-06-11T23:47:19.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 99,
+                "hash": "0x1ec0c706726c4678484bde5407c261044e2e799b"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x1ec0c706726c4678484bde5407c261044e2e799b",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 99
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x48682812",
+    "url": "https://warpcast.com/horsefacts.eth/0x48682812",
+    "author_username": "horsefacts.eth",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2024-06-11T23:47:19.000Z",
+    "text": "✨ New on Warpcast: frames in quote casts.\n\nClick or tap the frame embed inside a quoted cast to launch it. No more need to copy-paste a frame link into your QC. Try it below.\n\nLive now on web and mobile.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 99,
+          "hash": "0x1ec0c706726c4678484bde5407c261044e2e799b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1ec0c706726c4678484bde5407c261044e2e799b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 99,
+            "username": "jesse.base.eth",
+            "display_name": "Jesse Pollak",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+            "custody_address": "0x4ce34af3378a00c640125e4dbf4c9e64dff4c93b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1ec0c706726c4678484bde5407c261044e2e799b",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/onchainsummer",
+          "root_parent_url": "https://warpcast.com/~/channel/onchainsummer",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "babes are for everyone. \n\nnew iconic onchain PFP by @petravoice.\n\nbabes.foundation.app",
+          "timestamp": "2024-06-11T17:48:13.000Z",
+          "embeds": [
+            {
+              "url": "http://babes.foundation.app",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://babes.foundation.app/",
+                  "ogType": "website",
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://babes.foundation.app/api/babes/image?image=N4IgLghg5iBcIBMCWA3EAaEAHATgeywGc5RCwBPAGwFMTElCtKJy4QAzGgDww%252B4BEkOagGMwSPADs2IvJQCuAW2mYAFtSRRVYNgEYADPoCkvAO5IEYVXsMmAvphGqklBMOmxQuAsU8gARhD%252BtH5IitAhIEhY7ISwAPTxAIqKAHIiACySAI7sAKwAbAAcAKIAKgDKADJQZaYAmgBqAFYAnLoAzACyWFVlYWUAwq1QilUIANYAYgDiAEJzqhmqAFK8khCKkQAaSFxIvAjUhCI40eJSbACCAASKDE5I1Ch48oQ3ThA4EGLUODfsfCKG5Wag3ADkcyCx3BHzkNDEEkkN385BuAAVqGBvjdGngkCJaJgIGBsUh-PIwMc4ABtUDYiBIMAAfQoWEiZWoX2ImBQEAUkVSUloDnp3yZrPI7LYAAk8DhJDyQHyBWwhZIRegxYyWWzInNKEhJFAALQGo0wXn8%252BSRCpYL4TSisUXgcW6qWRQbCEnyYS8FU2tgzISUEAuhkSvVsLp4PAIf3WyIAeXY7GokiO8fDbsl0vgV19EATqvggzw2RtpJFAF1MGA8BN0wBJeOwXSOKQMsRXBBuY6%252BED6Li6AoAJl0CDy7CuRTy-BKgzyRU6HRK-gQRUGAHYRHlDCJR6ut1uCvxdHN9B1eGEoHsroRCFiAKo4UPwbRgIgJeLsIqSE3RLEJpkNAFoAHQ3nsYEamAyRpJkOT5MU5TVLUDQtO03S9P0ihDCMYyTLMCxLKsvD%252BAoOAyhAhDWPA1BQE2UCjvoAAkXB2AAek2NImgA6k21a8feExcLIUAcYoEwlFwABaXTMqkMypFMvGDLx9SEAA1AASgAVFphAANzaZpQmpDJvD1pAlAVPIWBMKwsCjqOeStJghD8tQFSQDgYA4SEuhbroy4ucx%252BjuZ5-CFhcHgFPoGRFIYmBvH8ULMJIhIpnA%252BgOCA9ySOIxreSSkRdEahVQCUGbUPGdZ4NZZUFb4HQFAUrQ5Y4ziuO4tK1lEhAlCcEDsq22I2nYuWPN16a0vS0BsMgaCYN4RB0GQVAhKAgQiBMUD4PIGZNuEUCRL6lAABQfl%252BiS-v%252BgGEMBkC3saEGKLeXDQVicHpFkuSFKUlQ1HUTRtJ0PR9AMwyjOM0zzIsywrAA-OEXAmqYAC8uijnFABkKMmqomPY-oOPsEy6OnAQOOU1g6PptiBDkKTijo80WBQDjCC4Ojo449k6OJTj5HpggJqyJQ8ro%252BRPwTELNAZiaihxtQ6OSPK4SUHLIsmvyWCqBA6N7gAlGRMt7a8GYVEgABekSyCgfymzt5sHQg2nUOyJJsGrJrCJ7OiYNtu37Rm6J4IQTJIjI9OO5g5iWLRIAGMYvDqJo2g2CnHYSzgbA4FAgTnS5eToDcxel%252BXNy6CbmDIIwzCOXw1A8JgnDN4IwiIpc8Di0oKhN1wMz4KYei8OwnZTJsLiN7ZDCPk2BWUGasYTGPnZW7bbAdKOWA8JNXV9h4Xj4KtfjmyPsBjdQy0QL2Fpb6OvBTYfs3YCfvigM-PXwI1FU3CLNUwydRcC-WANIQC-wtP-aq8Y%252BoMEGiIYagDL44HGlqN%252BPgSD7xAd-GkcCBpDRGnAK%252BLoVofxAFAYaD8n4H1wcfTBfhmDBDfCAVImwiTKkTGwXY%252BwgEgC-jNMB%252BCEFINGqg6gpD350CYdQFhUJgjvHFgiKktVOElhAC1MCW5V7YOmh4PBmB4GEOQSQ6sujQF0gwafUAMiWFsK2MWQM8AeEHHMbg4RxixFoPodYkAti2DyOOHCSgyjAFWnUZo7RfCBH6I8YgohKDxpxNEcQ8RdgzHAL0a-MhdAYnRnKlAgBWZMkWIgQU400DMwgGSQkkh6CcmeDcYIgx-URG1LSfUqRZ8qHwG3jQnBzSfHkP8fAexHCAw7D2K4kp7jDEEPiSYjpQzpHQjkdCRR8JRAqMcZESJOiZnNJqYspJTT9HLMYastU7CdncKmdE2hhy5ltOORIzpDCbGXPgIEjZIStlhLUU4jRBQtH7P4Q82JTzPGpKSZChZXiJFHPhRNA5ZzwDzXgItXgDTSAUBoHQOuTAWBsDbi3AeHctlRx7nIPuWLb7IGNGwAoGRd5j24EPPAF8k5rwKpPe4To2CzwfNQBeYAl5zBXtysAG9dk7z3ii7JXTP7gvyQVQpMD7kDP0WU1VFSinVNhSkxJrzznAFOb1A17TvFWPIZQrA1D5VgJNX4z5rDrnhMBS4jVWShEWpeZI95zrmEBPWcE0JqiJlb2BVEs1PrWlQqNekmNljsWBtkVchx7rJm8KTYi6FxrrUrKDV8kNSi-nhq4b0qNoK8mxqMXCvN6TfVIoyWCzVr8noLVQFixVIB1p4r8EHF2GYyw5zYAAYi3IYXQJRdC8H5JoSQFRZHsGJdwR6XwA7YDpRaKo1B2A6HgKOIoLKb532NNpdOB6QBHpPVus9UBxWkjwIoNgx7SX%252BHlEcHA2lb5IDeGwUcGQwKGBA6BsDzLSUEobqu5urL25CApd3fh1LlCSt5dPAV8g57CsXsvBskrpUPxZTGp1pgNBaCvXufQvAI6b16dRus3wdr33gCaWdDrtV-z1Umzjaqqm5oTUmuaMAMVduWj2vtm0OATynvy%252BAgr564fFfh1u68baRDire8eBVeLkYzvAKjvAaBVhwHaH4LGQAmllYcBghLG4krg1wclXcPDIYUKhmNvHdXqp45A7z-Gm0NoE3U4TnaloFr8JJ-FtnoPwAc63AQCGXMyBQ-3El7LOXsekzy2TM8sNCpFWKiVqmCqEd6dZ5FrbvUtLrYakLaKRP0HCymqLfh51QEkGWAq9MYOoxAr5Gz9ciVxe4I55zMU84ct4M0N44h2DkC61SAqvX10DYS83Xi3w7XwFMFt3gtrGUQbQ7lzD2HCt4dXiVqV6miNyqqxYp1IzXUZoBVm6Z93ZlxvrQmt5vinvfNDWWm5laQVeoscFtJLaa2WI7aJ5rEncVSag8NgeY2ksTape5tLMm%252BV5bO0p4r2Xrt0Y0RVh1yae01ue5qD7zTqf6q%252B3VpZEWlVtucXcnjnqIcnPJ6FuH3aA2tZsUaagMo9NXpvZBmLKP4tkvR5StzNKrvobkyABTOHRUXYIzd8rxGHVOu01eo47AIDyEoJu2juyGMgDI5etgGRDBPzkPKNgphnBUhNIlfp3r6c8bGQz2rlqJFCYa2FgXvihduZd-AfOhdK7x7yCXG4%252BgwJFBrkTlXeOCsE5U0TsrIBNOksN7pu38AHfW%252BR-Z0b62nPy6Q73DzHH-d%252B%252BudzhFgWft86a%252BH8hkfDeZ9O9nzXynLt551yAVowKwPT6nVpzsJeKNsEM5gYzVJTP2hEBZk0R3a7S6r7Bmv42FcN%252BkJ5z1nO7lt8bYzoP4Z0Xd-E4LxH0Whv76L4lzuGPFeoeVyd%252BT%252BXFNh9CdDd89t49dadUUU0qcAdS1fhikIDaQQAYDNk4CA95kmcrUoDlUQdo1ycgVQcr8odsCYd79MVH8I9n9GERcxdS9r031Bs7Nes0dP9j9UtjtcdB9ACitc8QDx8wC7sa0DdOwFo91TdzcaM%252BDrdbdF8y9Hds5o8bd3dqBPdrdoCS0UDtkeNkDflUCr8Q9YcH8Wde1KDP5ndc4Y8C4IAi5E8K4bCy47CU8092CMN-98cgCeC1MSdC9JUF99MQBy8GDYtUdD869XMT8wdv4kD1CdDNC8DtCw00Dnlm0O96sDCyCjC%252B8ccXC1cACNduDR9eCSdJ9gMZ8wNdA58dNxcl85C-EsQ18zNN8GVWMd96BX8mCQiWD682DPM9kIi6dejCCUjIchiYUb8-VBixikUgA&amp;imageOptions=%2523O_%257B%2522height%2522%253A1260%252C%2522width%2522%253A1260%257D&amp;headers=%2523O_%257B%2522cache-control%2522%253A%2522max-age%253D60%2522%257D"
+                    },
+                    {
+                      "url": "https://babes.foundation.app/api/babes/image?image=N4IgLghg5iBcIBMCWA3EAaEAHATgeywGc5RCwBPAGwFMTElCtKJy4QAzGgDww%252B4BEkOagGMwSPADs2IvJQCuAW2mYAFtSRRVYNgEYADPoCkvAO5IEYVXsMmAvphGqklBMOmxQuAsU8gARhD%252BtH5IitAhIEhY7ISwAPTxAIqKAHIiACySAI7sAKwAbAAcAKIAKgDKADJQZaYAmgBqAFYAnLoAzACyWFVlYWUAwq1QilUIANYAYgDiAEJzqhmqAFK8khCKkQAaSFxIvAjUhCI40eJSbACCAASKDE5I1Ch48oQ3ThA4EGLUODfsfCKG5Wag3ADkcyCx3BHzkNDEEkkN385BuAAVqGBvjdGngkCJaJgIGBsUh-PIwMc4ABtUDYiBIMAAfQoWEiZWoX2ImBQEAUkVSUloDnp3yZrPI7LYAAk8DhJDyQHyBWwhZIRegxYyWWzInNKEhJFAALQGo0wXn8%252BSRCpYL4TSisUXgcW6qWRQbCEnyYS8FU2tgzISUEAuhkSvVsLp4PAIf3WyIAeXY7GokiO8fDbsl0vgV19EATqvggzw2RtpJFAF1MGA8BN0wBJeOwXSOKQMsRXBBuY6%252BED6Li6AoAJl0CDy7CuRTy-BKgzyRU6HRK-gQRUGAHYRHlDCJR6ut1uCvxdHN9B1eGEoHsroRCFiAKo4UPwbRgIgJeLsIqSE3RLEJpkNAFoAHQ3nsYEamAyRpJkOT5MU5TVLUDQtO03S9P0ihDCMYyTLMCxLKsvD%252BAoOAyhAhDWPA1BQE2UCjvoAAkXB2AAek2NImgA6k21a8feExcLIUAcYoEwlFwABaXTMqkMypFMvGDLx9SEAA1AASgAVFphAANzaZpQmpDJvD1pAlAVPIWBMKwsCjqOeStJghD8tQFSQDgYA4SEuhbroy4ucx%252BjuZ5-CFhcHgFPoGRFIYmBvH8ULMJIhIpnA%252BgOCA9ySOIxreSSkRdEahVQCUGbUPGdZ4NZZUFb4HQFAUrQ5Y4ziuO4tK1lEhAlCcEDsq22I2nYuWPN16a0vS0BsMgaCYN4RB0GQVAhKAgQiBMUD4PIGZNuEUCRL6lAABQfl%252BiS-v%252BgGEMBkC3saEGKLeXDQVicHpFkuSFKUlQ1HUTRtJ0PR9AMwyjOM0zzIsywrAA-OEXAmqYAC8uijnFABkKMmqomPY-oOPsEy6OnAQOOU1g6PptiBDkKTijo80WBQDjCC4Ojo449k6OJTj5HpggJqyJQ8ro%252BRPwTELNAZiaihxtQ6OSPK4SUHLIsmvyWCqBA6N7gAlGRMt7a8GYVEgABekSyCgfymzt5sHQg2nUOyJJsGrJrCJ7OiYNtu37Rm6J4IQTJIjI9OO5g5iWLRIAGMYvDqJo2g2CnHYSzgbA4FAgTnS5eToDcxel%252BXNy6CbmDIIwzCOXw1A8JgnDN4IwiIpc8Di0oKhN1wMz4KYei8OwnZTJsLiN7ZDCPk2BWUGasYTGPnZW7bbAdKOWA8JNXV9h4Xj4KtfjmyPsBjdQy0QL2Fpb6OvBTYfs3YCfvigM-PXwI1FU3CLNUwydRcC-WANIQC-wtP-aq8Y%252BoMEGiIYagDL44HGlqN%252BPgSD7xAd-GkcCBpDRGnAK%252BLoVofxAFAYaD8n4H1wcfTBfhmDBDfCAVImwiTKkTGwXY%252BwgEgC-jNMB%252BCEFINGqg6gpD350CYdQFhUJgjvHFgiKktVOElhAC1MCW5V7YOmh4PBmB4GEOQSQ6sujQF0gwafUAMiWFsK2MWQM8AeEHHMbg4RxixFoPodYkAti2DyOOHCSgyjAFWnUZo7RfCBH6I8YgohKDxpxNEcQ8RdgzHAL0a-MhdAYnRnKlAgBWZMkWIgQU400DMwgGSQkkh6CcmeDcYIgx-URG1LSfUqRZ8qHwG3jQnBzSfHkP8fAexHCAw7D2K4kp7jDEEPiSYjpQzpHQjkdCRR8JRAqMcZESJOiZnNJqYspJTT9HLMYastU7CdncKmdE2hhy5ltOORIzpDCbGXPgIEjZIStlhLUU4jRBQtH7P4Q82JTzPGpKSZChZXiJFHPhRNA5ZzwDzXgItXgDTSAUBoHQOuTAWBsDbi3AeHctlRx7nIPuWLb7IGNGwAoGRd5j24EPPAF8k5rwKpPe4To2CzwfNQBeYAl5zBXtysAG9dk7z3ii7JXTP7gvyQVQpMD7kDP0WU1VFSinVNhSkxJrzznAFOb1A17TvFWPIZQrA1D5VgJNX4z5rDrnhMBS4jVWShEWpeZI95zrmEBPWcE0JqiJlb2BVEs1PrWlQqNekmNljsWBtkVchx7rJm8KTYi6FxrrUrKDV8kNSi-nhq4b0qNoK8mxqMXCvN6TfVIoyWCzVr8noLVQFixVIB1p4r8EHF2GYyw5zYAAYi3IYXQJRdC8H5JoSQFRZHsGJdwR6XwA7YDpRaKo1B2A6HgKOIoLKb532NNpdOB6QBHpPVus9UBxWkjwIoNgx7SX%252BHlEcHA2lb5IDeGwUcGQwKGBA6BsDzLSUEobqu5urL25CApd3fh1LlCSt5dPAV8g57CsXsvBskrpUPxZTGp1pgNBaCvXufQvAI6b16dRus3wdr33gCaWdDrtV-z1Umzjaqqm5oTUmuaMAMVduWj2vtm0OATynvy%252BAgr564fFfh1u68baRDire8eBVeLkYzvAKjvAaBVhwHaH4LGQAmllYcBghLG4krg1wclXcPDIYUKhmNvHdXqp45A7z-Gm0NoE3U4TnaloFr8JJ-FtnoPwAc63AQCGXMyBQ-3El7LOXsekzy2TM8sNCpFWKiVqmCqEd6dZ5FrbvUtLrYakLaKRP0HCymqLfh51QEkGWAq9MYOoxAr5Gz9ciVxe4I55zMU84ct4M0N44h2DkC61SAqvX10DYS83Xi3w7XwFMFt3gtrGUQbQ7lzD2HCt4dXiVqV6miNyqqxYp1IzXUZoBVm6Z93ZlxvrQmt5vinvfNDWWm5laQVeoscFtJLaa2WI7aJ5rEncVSag8NgeY2ksTape5tLMm%252BV5bO0p4r2Xrt0Y0RVh1yae01ue5qD7zTqf6q%252B3VpZEWlVtucXcnjnqIcnPJ6FuH3aA2tZsUaagMo9NXpvZBmLKP4tkvR5StzNKrvobkyABTOHRUXYIzd8rxGHVOu01eo47AIDyEoJu2juyGMgDI5etgGRDBPzkPKNgphnBUhNIlfp3r6c8bGQz2rlqJFCYa2FgXvihduZd-AfOhdK7x7yCXG4%252BgwJFBrkTlXeOCsE5U0TsrIBNOksN7pu38AHfW%252BR-Z0b62nPy6Q73DzHH-d%252B%252BudzhFgWft86a%252BH8hkfDeZ9O9nzXynLt551yAVowKwPT6nVpzsJeKNsEM5gYzVJTP2hEBZk0R3a7S6r7Bmv42FcN%252BkJ5z1nO7lt8bYzoP4Z0Xd-E4LxH0Whv76L4lzuGPFeoeVyd%252BT%252BXFNh9CdDd89t49dadUUU0qcAdS1fhikIDaQQAYDNk4CA95kmcrUoDlUQdo1ycgVQcr8odsCYd79MVH8I9n9GERcxdS9r031Bs7Nes0dP9j9UtjtcdB9ACitc8QDx8wC7sa0DdOwFo91TdzcaM%252BDrdbdF8y9Hds5o8bd3dqBPdrdoCS0UDtkeNkDflUCr8Q9YcH8Wde1KDP5ndc4Y8C4IAi5E8K4bCy47CU8092CMN-98cgCeC1MSdC9JUF99MQBy8GDYtUdD869XMT8wdv4kD1CdDNC8DtCw00Dnlm0O96sDCyCjC%252B8ccXC1cACNduDR9eCSdJ9gMZ8wNdA58dNxcl85C-EsQ18zNN8GVWMd96BX8mCQiWD682DPM9kIi6dejCCUjIchiYUb8-VBixikUgA&amp;imageOptions=%2523O_%257B%2522height%2522%253A1260%252C%2522width%2522%253A1260%257D&amp;headers=%2523O_%257B%2522cache-control%2522%253A%2522max-age%253D60%2522%257D"
+                    }
+                  ],
+                  "ogTitle": "Babes by Petra Voice",
+                  "ogLocale": "en",
+                  "ogSiteName": "Babes by Petra Voice",
+                  "ogDescription": "\"Babes\" by Petra Voice, a 333-piece open edition PFP project inspired by the Japanese term \"小悪魔\" (koakuma), meaning \"small demon\" or \"little evil spirit\"."
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "onchainsummer",
+            "name": "onchainsummer",
+            "image_url": "https://i.imgur.com/ItOcBId.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc5d93b36",
+    "url": "https://warpcast.com/dwr.eth/0xc5d93b36",
+    "author_username": "dwr.eth",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-06-11T21:48:10.000Z",
+    "text": "If we changed channels to \"narrowcasting\"\n\n i.e. only people who follow the channel will see it in a feed vs. today where all of your followers see all of your casts regardless of channel\n\n1. I would want this for most channels\n2. I would want this for some channels\n3. I would  want this for only a couple of channels",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x926a915214c0686b1d77ee8f23a31ef7f600ef7e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x926a915214c0686b1d77ee8f23a31ef7f600ef7e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x926a915214c0686b1d77ee8f23a31ef7f600ef7e",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "What's preventing you for from casting about your niche interests in channels?\n\nHow can we make it easier / more likely that you would do it",
+          "timestamp": "2024-06-11T21:29:05.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x87420d20",
+    "url": "https://warpcast.com/dwr.eth/0x87420d20",
+    "author_username": "dwr.eth",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-06-11T22:46:41.000Z",
+    "text": "Building in consumer is fun. Everyone wants the same thing. Easy peasy.\n\nhttps://warpcast.com/cameron/0x1e757f99\nhttps://warpcast.com/antonio/0xbde96fd9",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 617,
+          "hash": "0x1e757f9977c5e79394e155354fdc03707d63cbf3"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1e757f9977c5e79394e155354fdc03707d63cbf3",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 617,
+            "username": "cameron",
+            "display_name": "Cameron Armstrong",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac4e8cdc-f317-4711-d742-bb59c4651d00/original",
+            "custody_address": "0x70844dc4c5084a3fabbfede2b49c4038ddfe66a3"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc5d93b361f12b52694ad1e39b73b9e4df4982921",
+          "parent_hash": "0xc5d93b361f12b52694ad1e39b73b9e4df4982921",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 3
+          },
+          "text": "3. \n\nBut really 4. I don’t want this at all\n\ndistro distro distro",
+          "timestamp": "2024-06-11T22:35:21.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 53,
+          "hash": "0xbde96fd9ea043407b7a70b2d3a72cdb484290b84"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbde96fd9ea043407b7a70b2d3a72cdb484290b84",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 53,
+            "username": "antonio",
+            "display_name": "agm.eth",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmYJ7NYUPC4DG8TutdeJ128iKBnEYooZUaQNz6CEckFNub?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0xd33a887940a410a206762242adb84c6bd3d0a745"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc5d93b361f12b52694ad1e39b73b9e4df4982921",
+          "parent_hash": "0xc5d93b361f12b52694ad1e39b73b9e4df4982921",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 3
+          },
+          "text": "1. Most channels. What's the point of the channel otherwise?",
+          "timestamp": "2024-06-11T22:26:12.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8c2c0193",
+    "url": "https://warpcast.com/dwr.eth/0x8c2c0193",
+    "author_username": "dwr.eth",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-06-11T12:19:09.000Z",
+    "text": "Thoughts on the power badge",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05eddbc6-9bee-4f4a-e190-16ba2ca99200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 114058,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 1243
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5bbaa8bc",
+    "url": "https://warpcast.com/alexshul.eth/0x5bbaa8bc",
+    "author_username": "alexshul.eth",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 594079,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a66fa3e7-9c0f-4402-f391-e60fcc11e400/rectcrop3",
+    "cast_date": "2024-06-12T02:35:04.000Z",
+    "text": "Me and @beccarogers.eth because we just got the power badge 🙌💪🙌\n💪🙌💪",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/16da9522-4e4b-46e3-f600-f6d9c677e700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 13201,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 225,
+            "height_px": 225
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd0c3bcd1",
+    "url": "https://warpcast.com/jacek/0xd0c3bcd1",
+    "author_username": "jacek",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 15983,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+    "cast_date": "2024-06-11T14:15:19.000Z",
+    "text": "Wow, you guys are quick to notice things! Yes, starting tomorrow, we'll be increasing the power badge allowances to a minimum of 1000 $DEGEN per day!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 426045,
+          "hash": "0xe9fc2846cce9a6be0aa05b6567c04202836e9fc4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe9fc2846cce9a6be0aa05b6567c04202836e9fc4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 426045,
+            "username": "rjs",
+            "display_name": "Ryan J. Shaw",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bbfbf330-6601-4e37-1a4a-c3f7079f3500/original",
+            "custody_address": "0xce9c10cadc362d7cef45efc96db0a8853428003a"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe9fc2846cce9a6be0aa05b6567c04202836e9fc4",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Boost to 1,000 for PB holders if allowance < 1,000? Will confirm later if true 😉",
+          "timestamp": "2024-06-11T13:02:15.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 409644,
+                "hash": "0x50236351557c946510ce555e1cb9200ccb720614"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x50236351557c946510ce555e1cb9200ccb720614",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 409644
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "degen",
+            "name": "Degen",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x16614903",
+    "url": "https://warpcast.com/balajis.eth/0x16614903",
+    "author_username": "balajis.eth",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 37,
+    "author_pfp": "https://github.com/balajis.png",
+    "cast_date": "2024-06-11T20:56:59.000Z",
+    "text": "Many problems can be solved by simply typing faster.\n\nWriting code? Type faster.\nMaking slides? Type faster.\nCreating content? Type faster.\n\nDeals don’t work like this, negotiations don’t work like this. Those involve other people. But for a large class of problems, the only blockers are your fingers.\n\nType faster.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x56919c54",
+    "url": "https://warpcast.com/adrienne/0x56919c54",
+    "author_username": "adrienne",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-06-12T03:03:57.000Z",
+    "text": "Stop complaining and just type faster",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3576dd44-c623-4be9-6968-ee72ff4a1e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 70971,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1105,
+            "height_px": 836
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1022592c",
+    "url": "https://warpcast.com/clauswilke/0x1022592c",
+    "author_username": "clauswilke",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 195917,
+    "author_pfp": "https://i.imgur.com/vgnCMYo.jpg",
+    "cast_date": "2024-06-10T22:18:23.000Z",
+    "text": "My final article (for now) on channel moderation. This one covers the actual process of moderating casts.\nhttps://paragraph.xyz/@clauswilke/farcaster-channel-moderation2",
+    "embeds": [
+      {
+        "url": "https://paragraph.xyz/@clauswilke/farcaster-channel-moderation2",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2024-06-10T00:00:00.000Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/7dcbf64d2b049238dd5f02b5a31d7a12.png",
+            "ogImage": [
+              {
+                "alt": "Moderating a Farcaster channel",
+                "url": "https://storage.googleapis.com/papyrus_images/37baacaba616603283451bc09f484f99.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Moderating a Farcaster channel",
+            "ogLocale": "en",
+            "ogDescription": "This is my third and final article in a series about Farcaster channel moderation. The first article described how the new decentralized moderation w...",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@clauswilke/farcaster-channel-moderation2?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Moderating%20a%20Farcaster%20channel&blogName=Claus%20Wilke&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F7dcbf64d2b049238dd5f02b5a31d7a12.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F37baacaba616603283451bc09f484f99.jpg&size=2048&publishedDate=1717977600000"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Moderating%20a%20Farcaster%20channel&blogName=Claus%20Wilke&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F7dcbf64d2b049238dd5f02b5a31d7a12.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F37baacaba616603283451bc09f484f99.jpg&size=2048&publishedDate=1717977600000",
+            "frames_url": "https://paragraph.xyz/@clauswilke/farcaster-channel-moderation2",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGgueHl6In0",
+                "signature": "MHg5YmQ4MDcxNmVmNjIwZTFjM2UwZDkzMzQ5ZDNlNTU5N2MzYmU3NzQ2MDJmYTliZmE1Zjg2Mzk3Y2QxZTk4MGExM2RmNDVmMDM2ODE5Y2FhZmZiZmE5MTMxN2U3MGRlYWRlYTI2YWUzMTA2N2I1NDNiMTFkZDI3ODk3NzQ3ZWI5YjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x29eb7fd5",
+    "url": "https://warpcast.com/aneri/0x29eb7fd5",
+    "author_username": "aneri",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 7732,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmZTLntgcsPSpc5jgG6nsNe6tgJo8wxSPm8nbAmdv7HG5b?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-06-07T05:07:47.000Z",
+    "text": "🚨Just in: Warpcast now supports smart wallet frame transactions 🚨\n\nMinted a pod of @jesse.base.eth & @coopahtroopa.eth talking about smart wallet with my smart wallet\n\nSo smooth",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/ee9d858e29ce1c6d57f50ef1b81dc261.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1620,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 540,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 360,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 36.7
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xefc8e8f7",
+    "url": "https://warpcast.com/phil/0xefc8e8f7",
+    "author_username": "phil",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2024-06-10T16:10:58.000Z",
+    "text": "Excited to announce that Bright Moments will be featured in the upcoming Christie’s auction this June. \n\nIt’s a really special collection: 216 pieces containing the best of the best from our journey around the world. \n\nCan’t wait to see who the lucky winner is!\n\nhttps://press.christies.com/london-summer-season",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0f8dfaf2-1bae-43b1-f9b9-87af2f742100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 266174,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1536,
+            "height_px": 2048
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xddee9826",
+    "url": "https://warpcast.com/phil/0xddee9826",
+    "author_username": "phil",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2024-06-10T16:30:59.000Z",
+    "text": "Nikita has entered the chat: https://x.com/nikitabier/status/1800197768981762396\n\ncc/ @dwr.eth @nonlinear.eth",
+    "embeds": [
+      {
+        "url": "https://x.com/nikitabier/status/1800197768981762396",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/nikitabier/status/1800197768981762396",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">“Launch and then iterate” is a losing strategy with any consumer product. It is just wrong to assume that people will give something a 2nd try.<br><br>If you’re planning a blowout launch that exposes your product to (most of) the world’s early adopters, you should be absolutely certain…</p>&mdash; Nikita Bier (@nikitabier) <a href=\"https://twitter.com/nikitabier/status/1800197768981762396?ref_src=twsrc%5Etfw\">June 10, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/nikitabier",
+              "author_name": "Nikita Bier",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8c035cee",
+    "url": "https://warpcast.com/dwr.eth/0x8c035cee",
+    "author_username": "dwr.eth",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-06-10T16:12:14.000Z",
+    "text": "Nikita is smart and world-class at tactics. But hasn’t built anything at-scale or enduring.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb808c737",
+    "url": "https://warpcast.com/nikitabier/0xb808c737",
+    "author_username": "nikitabier",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 313009,
+    "author_pfp": "https://i.imgur.com/WtJxgtL.jpg",
+    "cast_date": "2024-06-10T18:16:53.000Z",
+    "text": "Fwiw, I don’t think Farcaster employed a blowout launch strategy",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x54fef298",
+    "url": "https://warpcast.com/dwr.eth/0x54fef298",
+    "author_username": "dwr.eth",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-06-10T19:31:03.000Z",
+    "text": "ladies and gentlemen, we got him",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 313009,
+          "hash": "0xb808c737038484a4992eff4a9e6058af98a1bdb6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb808c737038484a4992eff4a9e6058af98a1bdb6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 313009,
+            "username": "nikitabier",
+            "display_name": "Nikita Bier",
+            "pfp_url": "https://i.imgur.com/WtJxgtL.jpg",
+            "custody_address": "0x57e7232519764c6dd47903957705f18b685c55fb"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1e2c2c038714a46d43fe8a2e44ae3ffa00096ff5",
+          "parent_hash": "0x8c035ceeb70578aa8169f6f958a12c3ced1043e1",
+          "parent_url": null,
+          "root_parent_url": "https://farcaster.group/founders",
+          "parent_author": {
+            "fid": 3
+          },
+          "text": "Fwiw, I don’t think Farcaster employed a blowout launch strategy",
+          "timestamp": "2024-06-10T18:16:53.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "founders",
+            "name": "Founders",
+            "image_url": "https://warpcast.com/~/channel-images/founders.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc0add237",
+    "url": "https://warpcast.com/uniswap/0xc0add237",
+    "author_username": "uniswap",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 212722,
+    "author_pfp": "https://i.imgur.com/B5HadsY.jpg",
+    "cast_date": "2024-06-10T16:27:14.000Z",
+    "text": "Life update: we acquired @cryptothegame \n\nThe CTG team will join Uniswap Labs, where they’ll continue their work on Season 3\n\nAnd they'll also be cooking up onchain experiments for the Uniswap community 🫡",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/a85dd54af746496667862dc16e8b20af.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 12.5
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x96a4e609",
+    "url": "https://warpcast.com/toadyhawk.eth/0x96a4e609",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2024-06-11T20:50:09.000Z",
+    "text": "Me and @cameron rn",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af7067b1-a11e-4b0c-bedf-241da81abb00/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 5542473,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 480,
+            "height_px": 480
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x829521e2",
+    "url": "https://warpcast.com/jayce/0x829521e2",
+    "author_username": "jayce",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 1890,
+    "author_pfp": "https://i.seadn.io/gcs/files/e7d49b5c2a6021ff1543a69cfa466719.jpg?w=500&auto=format",
+    "cast_date": "2024-06-11T15:11:53.000Z",
+    "text": "Sincere question, not a critique... why would someone mint a podcast? I feel like a podcast is useful in the moment but cyclical. It is like framing a napkin and hanging it on a wall. I've saved maybe 10% of all podcasts I listen to for future listens, but that wouldn't be a business model for an audience like me.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf3f71350",
+    "url": "https://warpcast.com/jacob/0xf3f71350",
+    "author_username": "jacob",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 8,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89ed9bfb-655c-472d-e907-6a3da8d2ec00/rectcrop3",
+    "cast_date": "2024-06-11T16:58:04.000Z",
+    "text": "onchain social is better\n\nhttps://zora.co/collect/zora:0xe6b8631dcd1d9f9f26bb8aec2df74a971383b94a/19",
+    "embeds": [
+      {
+        "url": "https://zora.co/collect/zora:0xe6b8631dcd1d9f9f26bb8aec2df74a971383b94a/19?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x736eae8a",
+    "url": "https://warpcast.com/dwr.eth/0x736eae8a",
+    "author_username": "dwr.eth",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-06-11T18:24:01.000Z",
+    "text": "building is necessary but not sufficient. you also have to yap.",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/6168971ff12374b4a3e092624e844fbb.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 404,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 270,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 202,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 134,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 69.8
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcab2cf69",
+    "url": "https://warpcast.com/toadyhawk.eth/0xcab2cf69",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2024-06-11T19:47:19.000Z",
+    "text": "ok ok changing my official title to /yellow yapper thanks dan",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf37a1844",
+    "url": "https://warpcast.com/base/0xf37a1844",
+    "author_username": "base",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 12142,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce5460f6-40a2-4486-47c1-7801e4033e00/original",
+    "cast_date": "2024-06-11T19:58:07.000Z",
+    "text": "\"If you're watching this video, you're a builder\" - @jesse.base.eth \n \n@jackwyldes.eth and @thenounsquare created a 9-minute short film to dive deep into what onchain summer is all about and how you can get involved and get funded \n\nMint: https://zora.co/collect/base:0x2393e54c122c76d5cd07b349a9b2b0554d34841c/1",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/90ed8e5fd32cade944d54d91e96f4c26.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "codec_name": "h264",
+                "height_px": 1080,
+                "width_px": 1920
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 720,
+                "width_px": 1280
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 480,
+                "width_px": 852
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 360,
+                "width_px": 640
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 240,
+                "width_px": 426
+              }
+            ],
+            "duration_s": 296.5
+          }
+        }
+      },
+      {
+        "url": "https://zora.co/collect/base:0x2393e54c122c76d5cd07b349a9b2b0554d34841c/1?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-06-13",
+    "show_title": "GM Farcaster ep117, June 12, 2024",
+    "source_episode_id": "t5g1Vvfw0as",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

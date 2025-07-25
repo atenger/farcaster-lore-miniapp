@@ -1,0 +1,596 @@
+[
+  {
+    "cast_hash": "0x79e8c74a",
+    "url": "https://warpcast.com/chicbangs.eth/0x79e8c74a",
+    "author_username": "chicbangs.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 5328,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70e637f2-ddb4-4fd0-e56e-35bc44605a00/original",
+    "cast_date": "2024-08-09T01:05:23.000Z",
+    "text": "⚡️ ANNOUNCEMENT⚡️ \n\ntldr: Higher FM is launching for Onair Summer with @ufofm.eth. Higher conversations and music curation. Stay tuned for details on programming.",
+    "embeds": [
+      {
+        "url": "https://paragraph.xyz/@higherfm/announcement",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2024-08-08T00:00:00.000Z",
+            "ogImage": [
+              {
+                "alt": "Higher FM",
+                "url": "https://storage.googleapis.com/papyrus_images/d1c2e2c9296af279494a178db5218993.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Higher FM",
+            "ogLocale": "en",
+            "ogDescription": "What happens if we consume media that is rooted in authenticity and optimism? What if it motivates us to aim higher? What if we can shift...",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@higherfm/announcement?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Higher%20FM&blogName=higherfm.eth&blogImageUrl=&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fd1c2e2c9296af279494a178db5218993.jpg&size=2048&publishedDate=1723075200000"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Higher%20FM&blogName=higherfm.eth&blogImageUrl=&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fd1c2e2c9296af279494a178db5218993.jpg&size=2048&publishedDate=1723075200000",
+            "frames_url": "https://paragraph.xyz/@higherfm/announcement",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGgueHl6In0",
+                "signature": "MHg5YmQ4MDcxNmVmNjIwZTFjM2UwZDkzMzQ5ZDNlNTU5N2MzYmU3NzQ2MDJmYTliZmE1Zjg2Mzk3Y2QxZTk4MGExM2RmNDVmMDM2ODE5Y2FhZmZiZmE5MTMxN2U3MGRlYWRlYTI2YWUzMTA2N2I1NDNiMTFkZDI3ODk3NzQ3ZWI5YjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x20da58df",
+    "url": "https://warpcast.com/chicbangs.eth/0x20da58df",
+    "author_username": "chicbangs.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 5328,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70e637f2-ddb4-4fd0-e56e-35bc44605a00/original",
+    "cast_date": "2024-08-09T01:08:41.000Z",
+    "text": "first curation: LGHT MIXTAPE\nhttps://zora.co/collect/base:0x47513ba1f6c1cf14027c87875e2c29fa4643d631/1?referrer=0xe3f3bC22382e0edfDEDACb5e4a89A5418432fd07",
+    "embeds": [
+      {
+        "url": "https://zora.co/collect/base:0x47513ba1f6c1cf14027c87875e2c29fa4643d631/1?referrer=0xe3f3bC22382e0edfDEDACb5e4a89A5418432fd07",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://zora.co/collect/base:0x47513ba1f6c1cf14027c87875e2c29fa4643d631/1",
+            "favicon": "https://zora.co/favicon/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://zora.co/api/og-image/post/base:0x47513ba1f6c1cf14027c87875e2c29fa4643d631/1?v=2&mints=25"
+              }
+            ],
+            "ogTitle": "LGHT MIXTAPE",
+            "ogLocale": "en",
+            "ogSiteName": "Zora",
+            "ogDescription": "tracks by LGHT\nmixed by Chic Bangs\ncover art by Chic Bangs",
+            "fcFrame": {
+              "button": {
+                "title": "Buy",
+                "action": {
+                  "url": "https://zora.co/collect/base:0x47513ba1f6c1cf14027c87875e2c29fa4643d631/1/frame-v2",
+                  "name": "Buy",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://zora.co/assets/logo.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://zora.co/api/og-image/post/base:0x47513ba1f6c1cf14027c87875e2c29fa4643d631/1?v=2&mints=25&crop=farcaster"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Buy",
+            "image": "https://zora.co/api/og-image/post/base:0x47513ba1f6c1cf14027c87875e2c29fa4643d631/1?v=2&mints=25&crop=farcaster",
+            "frames_url": "https://zora.co/collect/base:0x47513ba1f6c1cf14027c87875e2c29fa4643d631/1?referrer=0xe3f3bC22382e0edfDEDACb5e4a89A5418432fd07"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x20720a5d",
+    "url": "https://warpcast.com/chicbangs.eth/0x20720a5d",
+    "author_username": "chicbangs.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 5328,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70e637f2-ddb4-4fd0-e56e-35bc44605a00/original",
+    "cast_date": "2024-08-07T23:33:37.000Z",
+    "text": "this is my basecamp 001 / fwb fest recap\nh/t @base.base.eth team for including me\nhttps://zora.co/collect/base:0x533daca0834aeada9a6d06b51d442311a032b203/1",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/09a1c343e59ff9cb1b4f9e191bc259c3.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 20
+          }
+        }
+      },
+      {
+        "url": "https://zora.co/collect/base:0x533daca0834aeada9a6d06b51d442311a032b203/1?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbe2f6d26",
+    "url": "https://warpcast.com/dwr.eth/0xbe2f6d26",
+    "author_username": "dwr.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-08-09T00:11:54.000Z",
+    "text": "We just upgraded React Native for the Warpcast mobile apps.\n\nPlease let us know if you see an uptick in hard crashes or any other weirdness.\n\nSadly, the React Native upgrade will not make your casts funnier. That’s on you.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6f82c403",
+    "url": "https://warpcast.com/dwr.eth/0x6f82c403",
+    "author_username": "dwr.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-08-07T15:32:32.000Z",
+    "text": "\"SIWF is actually Sign in with Warpcast\"\n\n1. The AuthKit library is open source -- anyone is free to fork it and make it work with their client. https://docs.farcaster.xyz/auth-kit/\n\n2. The long term goal is to make it work with any \"Farcaster wallet\", i.e. apps that can handle all the Farcaster-specific signatures and transactions for using the onchain / Hub identity system.\n\n3. SIWF is currently an extension of SIWE (Sign in with Ethereum). This means you need to sign in with your Farcaster custody address / private key -- which for the vast majority of users is stored on their phone with Warpcast (many in a Passkey).\n\n4. We opted for the pragmatic v1 where it works reasonably well (still some improvements on QR code) for most people in a more human readable way around permissions than a normal SIWE signature.\n\n5. We will eventually add make it support multiple Farcaster wallets, but there hasn't been much demand from users and devs have preferred us to focus on growth.",
+    "embeds": [
+      {
+        "url": "https://docs.farcaster.xyz/auth-kit/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 8897,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz",
+            "ogType": "website",
+            "favicon": "/icon.png",
+            "ogImage": [
+              {
+                "url": "/og-image.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "AuthKit / Farcaster Docs",
+            "ogLocale": "en-US",
+            "ogDescription": "A protocol for building sufficiently decentralized social networks."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd0b3656c",
+    "url": "https://warpcast.com/v/0xd0b3656c",
+    "author_username": "v",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-08-07T18:25:08.000Z",
+    "text": "Update: experiment was a success, power badge is no more in Warpcast!\n\nActive users saw no impact and new users benefitted from this change. Warpcast will remove power badges from the UI permanently. \n\nIf you are a developer who uses Power Badge, @neynar will continue supporting the Power Badge API for you.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x15e88a8413038ff17e4df8080308cd8af90bfc2c"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x15e88a8413038ff17e4df8080308cd8af90bfc2c",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x15e88a8413038ff17e4df8080308cd8af90bfc2c",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Experiment: Hiding power badges\n\nPower badges will be hidden on Warpcast for a week. We’re running this experiment because:\n\n1. New user find it hard to get follows due to “power badge bias”\n2. Power badge isn’t being used much in Warpcast anymore.",
+          "timestamp": "2024-07-30T18:39:25.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-updates",
+            "name": "fc-updates",
+            "image_url": "https://i.imgur.com/YnnrPaH.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd217cafc",
+    "url": "https://warpcast.com/v/0xd217cafc",
+    "author_username": "v",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-08-07T18:32:32.000Z",
+    "text": "FIP: Extend Storage Expiry\n\n- Give all existing storage units an extra free year to avoid user churn and unnecessary work for clients  \n\n- Reduce the size of new storage units issued. Lets us bring down the cost of registration in the future. \n\nhttps://github.com/farcasterxyz/protocol/discussions/191",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/13066c8b-8550-4d8e-54a1-1c3922fcd400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 194975,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1810,
+            "height_px": 772
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa6915857",
+    "url": "https://warpcast.com/kia.eth/0xa6915857",
+    "author_username": "kia.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 12256,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ad8e0dc4-20a5-46c3-8166-16b31c95c900/original",
+    "cast_date": "2024-08-07T22:25:06.000Z",
+    "text": "/clubted can testify. i was always in the camp of \"i don't want to get rid of the autofollow list, i just want to be on the list\"",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x3e7c49517db3dd2abb05be32fde65bd3cfe65b11"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3e7c49517db3dd2abb05be32fde65bd3cfe65b11",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3e7c49517db3dd2abb05be32fde65bd3cfe65b11",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/dwr",
+          "root_parent_url": "https://warpcast.com/~/channel/dwr",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Network is slowly entering the \"initial follow list was good, actually\" era",
+          "timestamp": "2024-08-07T22:03:31.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "dwr",
+            "name": "dwr",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/93a8f8e5-18f2-4a23-1add-aff855b0ff00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7fc5d9e7",
+    "url": "https://warpcast.com/dwr.eth/0x7fc5d9e7",
+    "author_username": "dwr.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-08-08T20:55:03.000Z",
+    "text": "A lot of complaints recently that Farcaster doesn't have enough \"beef\".\n\nI'm happy to fight with you.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9f938343",
+    "url": "https://warpcast.com/nonlinear.eth/0x9f938343",
+    "author_username": "nonlinear.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 576,
+    "author_pfp": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+    "cast_date": "2024-08-09T05:01:20.000Z",
+    "text": "shoutout to @gt and the warpcast team for improving subscriber-only group chats: from now on @hypersub nfts will gate access even if they're hidden on opensea\n\nif you run into any issues please reply below\n\ncc @linda @priyanka @humpty.eth @proxystudio.eth @pichi @maretus",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfe54a12b",
+    "url": "https://warpcast.com/samuellhuber.eth/0xfe54a12b",
+    "author_username": "samuellhuber.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 16085,
+    "author_pfp": "https://i.imgur.com/OHMozjv.jpg",
+    "cast_date": "2024-08-08T17:15:00.000Z",
+    "text": "Farcaster lego's explained\n\nComposer action -> launch Mini App -> get back new post\nMini App - do whatever within warpcast and maybe new post or just close\nCast Action -> Launch Frame (or get info in text message)\nFrame - do whatever with gameboy style 4 buttons, one display and an input field\nBot - reply to some casts with whatever text or embed (image, frame, link, video ....) you want\nApp - an application using Farcaster Data like the Social Graph (following, user data) and posts\nDirect Messages - direct message someone on Warpcast (not Farcaster generic yet)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x66ac95b1",
+    "url": "https://warpcast.com/cameron/0x66ac95b1",
+    "author_username": "cameron",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 617,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac4e8cdc-f317-4711-d742-bb59c4651d00/original",
+    "cast_date": "2024-08-08T11:55:23.000Z",
+    "text": "2 things are true right now:\n\n- The bots are back bb\n\n- There have never been more interesting people to discover in the nooks and crannies of this app\n\n🫡",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x10be220e",
+    "url": "https://warpcast.com/jacob/0x10be220e",
+    "author_username": "jacob",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 8,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89ed9bfb-655c-472d-e907-6a3da8d2ec00/rectcrop3",
+    "cast_date": "2024-08-07T16:02:27.000Z",
+    "text": "Today, we released a major upgrade of the @zora protocol. \n\nWe are bringing secondary markets onchain with @uniswap to unlock more value for creators and collectors after a mint.\n\nWhen the mint ends, the market begins. \nIt's like magic.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b83b4277-d528-4e16-2b6a-111529b47c00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 194257,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1508,
+            "height_px": 848
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd85e15d1",
+    "url": "https://warpcast.com/eneowaith.eth/0xd85e15d1",
+    "author_username": "eneowaith.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 436781,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57793db6-1241-4680-749f-64a50c101600/original",
+    "cast_date": "2024-08-08T02:35:28.000Z",
+    "text": "I love the new feature Zora introduced; it's really innovative and I believe it will offer many new use cases. For anyone still confused, here's a brief summary: once the minting period for NFTs ends, they transform into tokens and become tradable as tokens. \n\nBoth the creator and the collector benefit from this. 🔥",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ab6b344-a330-4e77-e6a8-0e7b72b53500/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 29974,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 441,
+            "height_px": 296
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0dc5154c",
+    "url": "https://warpcast.com/lomelinandrea/0x0dc5154c",
+    "author_username": "lomelinandrea",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 188963,
+    "author_pfp": "https://i.imgur.com/wxE88e5.jpg",
+    "cast_date": "2024-08-08T22:53:05.000Z",
+    "text": "The 3 of us celebrating 3 years of Nouns in Paris!\n\nFinally meeting IRL after more than 2 years. Crying tears of joy but you can’t see that because ⌐◨-◨",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/937b34e9-96a5-443d-9892-d592c4eed500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 314284,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1828,
+            "height_px": 2462
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x202b7ae8",
+    "url": "https://warpcast.com/ahn.eth/0x202b7ae8",
+    "author_username": "ahn.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 8004,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cca05e9f-4f52-45c9-ebdb-c60ec8f93d00/rectcrop3",
+    "cast_date": "2024-08-09T03:32:21.000Z",
+    "text": "i'm a hall of famer 😭😂",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7378ae76-ae2c-4594-7b45-757d6bbdb400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 30563,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 500,
+            "height_px": 620
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x565f6c3d",
+    "url": "https://warpcast.com/july/0x565f6c3d",
+    "author_username": "july",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 1287,
+    "author_pfp": "https://i.seadn.io/gcs/files/ed56e6b9a1b22720ce7490524db333e0.jpg?w=500&auto=format",
+    "cast_date": "2024-08-08T05:34:31.000Z",
+    "text": "What is your funeral going to look like?\n\nThey say you have to design with the end goal in mind and work backwards. Ok let’s say I buy into that. Who’s going to be there? What are they going to say? What are they going to do and how will they feel? What will the world that you leave behind look like?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1253023e",
+    "url": "https://warpcast.com/nounishprof/0x1253023e",
+    "author_username": "nounishprof",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep140 with guest cohost @chicbangs",
+    "source_episode_id": "gP2OnXhYxw4",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-08-08T04:09:27.000Z",
+    "text": "Great one tonight @zinger! To @dwr.eth point about retention and the \"private jokes\" that newbies may not get, /gmfarcaster /latenightcrew and other media are really helpful here. When you welcome someone new, point them towards the FC native media. GM Farcaster has an archive of all major dev and culture moments of the past year. (including @ted's 5 day boycott) And jumping into @unlonely streams and interacting with others real time helps get newbies integrated. We know because they've told us. \n\nThere's also some great podcasts like @ted @nonlinear.eth Many Such Case, @dawufi Vibe Check and @woj @six By the Numbers that help inform and share culture, @yb terminally online, @cameron and @christin streams, @pichi @humpty.eth audio spaces and so many more! \n\nAnd @cojo.eth the mole will never die! @adrienne and I will make sure of it!\n\nAlso -- meetups but that usually comes later. But lots of great @events like fcny, club ted, /tabletop and more to help people connect. \n\ngn /latenightcrew",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  }
+]

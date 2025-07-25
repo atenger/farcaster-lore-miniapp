@@ -1,0 +1,1425 @@
+[
+  {
+    "cast_hash": "0xe2b8eb70",
+    "url": "https://warpcast.com/ted/0xe2b8eb70",
+    "author_username": "ted",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-01-07T21:08:19.000Z",
+    "text": "from the palisades. stay safe, praying for everyone nearby and all the firefighters protecting LA 💔",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/01944296-2194-5c0a-1548-f5c2409bcbac.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 13.1
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc3649a7f",
+    "url": "https://warpcast.com/dwr.eth/0xc3649a7f",
+    "author_username": "dwr.eth",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-01-08T01:35:30.000Z",
+    "text": "Whoa",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/daada25e-e1d6-4c12-68ba-9b542ce6b800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 383172,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xec0ecf1d8edbe92cbb7c9dd87ad953345dfc7340"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xec0ecf1d8edbe92cbb7c9dd87ad953345dfc7340",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xec0ecf1d8edbe92cbb7c9dd87ad953345dfc7340",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Huge fire in LA right now",
+          "timestamp": "2025-01-07T19:17:55.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7de4a133-9dc7-43e4-8797-b2f55039f200/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 352290,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1500
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcebcc7f3",
+    "url": "https://warpcast.com/jacek/0xcebcc7f3",
+    "author_username": "jacek",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 15983,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+    "cast_date": "2025-01-08T11:09:30.000Z",
+    "text": "1/7 GM Degens,\n\n1 year ago today, $DEGEN was first airdropped to the community. 🎉\n\nI’ve compiled a series of historical posts leading up to its creation and the early days after launch. Take a trip down memory lane and enjoy some Degen nostalgia!\n\n⬇️",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc21e7ab0",
+    "url": "https://warpcast.com/nounishprof/0xc21e7ab0",
+    "author_username": "nounishprof",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-01-08T12:40:41.000Z",
+    "text": "Happy Birthday $degen! Here’s our first interview with @jacek a couple weeks after launch. Feels like it was much longer than a year ago!🎩\n\nhttps://youtu.be/KENWfo2FgXk?si=5Igbovl0CL6oOwh5",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 15983,
+          "hash": "0xcebcc7f3e5994535ebbdd3992bb9604222901738"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xcebcc7f3e5994535ebbdd3992bb9604222901738",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 15983,
+            "username": "jacek",
+            "display_name": "Jacek.degen.eth 🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+            "custody_address": "0x4ae49f0aa762efebebff4bac4ea0847eb6af4ec9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 193137,
+            "username": "super",
+            "display_name": "super ツ",
+            "pfp_url": "https://supercast.mypinata.cloud/ipfs/QmdvciL78gXQFgN3ZBCWecbCa5gEhPJGTU6bYcJ4WXYiwJ?filename=supercast-logo-white-pfp.png",
+            "custody_address": "0xff62ac1e5a4a63c57211b00e119b693b7f953d76"
+          },
+          "thread_hash": "0xcebcc7f3e5994535ebbdd3992bb9604222901738",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "1/7 GM Degens,\n\n1 year ago today, $DEGEN was first airdropped to the community. 🎉\n\nI’ve compiled a series of historical posts leading up to its creation and the early days after launch. Take a trip down memory lane and enjoy some Degen nostalgia!\n\n⬇️",
+          "timestamp": "2025-01-08T11:09:30.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "degen",
+            "name": "Degen",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+          }
+        }
+      },
+      {
+        "url": "https://youtu.be/KENWfo2FgXk?si=5Igbovl0CL6oOwh5",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x318e5d4b",
+    "url": "https://warpcast.com/dwr.eth/0x318e5d4b",
+    "author_username": "dwr.eth",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-01-07T22:40:21.000Z",
+    "text": "Update to Warpcast Rewards for week of Jan 7 2025\n\n- Rewards pool increased from $7,000 to $10,000\n- New: add 1,500 points to your score by inviting someone to Farcaster\n- Minor algo change to reward people for casting a bit more\n- Tier 1-4 payouts increased\n- Tier 5 has an +100 eligible winners (Top 400 -> Top 500)\n\nNext cast for more info",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d377264c-1347-482c-fe74-1d9e83b9a200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 172653,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 594
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x074c982e",
+    "url": "https://warpcast.com/dwr.eth/0x074c982e",
+    "author_username": "dwr.eth",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-01-06T19:05:02.000Z",
+    "text": "Have seen a few casts recently on how we should attract more developers to Farcaster\n\nIn talking to developers building on Farcaster today—and developers who built on Farcaster previously and then stopped—the top request is more users.\n\nWhy more users?\n- More users on Farcaster means more people to potentially use their product\n- If the product is a business, more usage means more opportunity to make money\n- Acquiring users for an app or service is *really* hard",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x62da484f",
+    "url": "https://warpcast.com/dwr.eth/0x62da484f",
+    "author_username": "dwr.eth",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-01-06T19:08:45.000Z",
+    "text": "So what are you doing to attract more users?\n\n1. Continue to iterate on and scale opportunities for users to make money — Farcaster native assets, frames, USDC rewards, etc.\n\n2. Continue to work on the the core features of the social network. These features create retention.\n\n3. Additionally, we're scaling the underlying protocol with Snapchain. The current version of Hubs don't scale another 10x.\n\nThat's what we are focused on. There are no other priorities at the moment.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xac9928ae",
+    "url": "https://warpcast.com/v/0xac9928ae",
+    "author_username": "v",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-01-07T17:31:53.000Z",
+    "text": "We're hiring for a few more roles in 2025: \n\n- Frontend + backend eng for embedded wallets \n- Protocol eng for snapchain\n- ML eng for spam and recs\n\nIf you're staff level & looking for remote team that works hard, DM me. \n\nMore here: https://warpcast.notion.site/Farcaster-Overview-cf6d3ee0f6574238adc11a5477afc66f",
+    "embeds": [
+      {
+        "url": "https://warpcast.notion.site/Farcaster-Overview-cf6d3ee0f6574238adc11a5477afc66f",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.notion.site/Farcaster-Overview-cf6d3ee0f6574238adc11a5477afc66f",
+            "ogType": "article",
+            "favicon": "https://warpcast.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F01dc888c-c96b-4f14-bcad-92a1df157bb8%2Flogo1024_(3).png?table=block&id=cf6d3ee0-f657-4238-adc1-1a5477afc66f&spaceId=1ae150b5-547b-47f9-9f29-638305dbba7a&width=2000&userId=&cache=v2",
+            "ogImage": [
+              {
+                "url": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2Fdc8acafe-946f-4bc4-b1d1-75ff3f714d7c%2FSocialMediaPreviewImage.png?table=block&id=cf6d3ee0-f657-4238-adc1-1a5477afc66f&spaceId=1ae150b5-547b-47f9-9f29-638305dbba7a&width=2000&userId=&cache=v2",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Farcaster Overview | Notion",
+            "ogLocale": "en_US",
+            "ogSiteName": "warpcast on Notion",
+            "ogDescription": "Last updated June 3, 2024"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4614cd00",
+    "url": "https://warpcast.com/horsefacts.eth/0x4614cd00",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2025-01-06T23:29:19.000Z",
+    "text": "fixed a bug with drag-and-drop reordering of frames. if they were jumping around, it wasn’t you, it was us. try again.\n\nto reorder your frames, go to: frames tab > settings icon > drag and drop to move",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/01943df1-7af7-b7f7-593b-189ebaa059f3.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 886,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 590,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 854,
+                "width_px": 394,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 296,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 196,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 20.433333
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x99fc7916",
+    "url": "https://warpcast.com/jessepollak/0x99fc7916",
+    "author_username": "jessepollak",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-01-08T05:43:50.000Z",
+    "text": "i made a promise to the @basegod community when we were just getting started, and with $10B+ TVL now onchain on @base.base.eth, it's time to deliver 🧑‍🦲\n\ntune in to watch it live, tomorrow (1/8) at 1PM PT",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d9a46e3d-3cfa-4f87-c319-439fa62d4200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 57357,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1125,
+            "height_px": 590
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd2c6fc36",
+    "url": "https://warpcast.com/trebor69/0xd2c6fc36",
+    "author_username": "trebor69",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 307834,
+    "author_pfp": "https://i.imgur.com/Hblvxb0.gif",
+    "cast_date": "2025-01-07T23:25:26.000Z",
+    "text": "I love Farcaster.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e100bd11-86c8-405c-7d30-021fc2c47e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 33742,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 511,
+            "height_px": 499
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xccae5dba",
+    "url": "https://warpcast.com/meonbase/0xccae5dba",
+    "author_username": "meonbase",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 511236,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9f7ffd12-cd8c-4053-4e8d-e081963cba00/rectcrop3",
+    "cast_date": "2024-06-03T04:59:06.000Z",
+    "text": "Pn pg",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x470d478a",
+    "url": "https://warpcast.com/derek/0x470d478a",
+    "author_username": "derek",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 193,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7830e8f-33dd-4372-441a-e9696bb26900/original",
+    "cast_date": "2025-01-07T18:01:32.000Z",
+    "text": "The win-together model of @proxystudio.eth and @dish is what's allowing me to go full-time at this point.\n\nI can't say enough about working with them in this space, and may be sharing more soon. 😏",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf453a11e",
+    "url": "https://warpcast.com/proxystudio.eth/0xf453a11e",
+    "author_username": "proxystudio.eth",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 270504,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+    "cast_date": "2025-01-04T11:10:50.000Z",
+    "text": "gm couple of small updates across the /clanker ecosystem\n\n- /nativefun is up 298% to a 10m mc - passports launched \n- $bnkr hits a 7.6m mc on the announcement of X launch for the agentic, social trading product \n- the stupi-est project I've ever heard of, gdupi up 50% to 2m \n- anon.world launches cross-chain token verification - $ANON @ 20m \n- lum up 50% from the lows to 14m\n- clanker has done 10m vol in just 8 hours so far today - jan 4th - on track for a big day. $clanker @ 99m mc\n- /degenos by @carc.eth ⚪ native, 🎩 stays on, up 56% to 1.5m mc. collectively managed autonomous intelligence project \n- rumored clanker team experiment @tokengod hits ath of $11 @ 10m mc\n- @toadyhawk.eth collaborater and creator @jackwyldes.eth launches a coin, giving me a good screenshot to show off frames v2 to X, and how clanker helps creators win on Farcaster\n\nthese are the kind of mornings I live for, sidenote big congratulations to nonclanker project VEIL, a tornado cash fork deployed by friend-of-mine @apex777.eth",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4364c923-0885-43d2-86eb-ea3dabc3e900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 403762,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 624,
+            "height_px": 1265
+          }
+        }
+      },
+      {
+        "url": "http://anon.world",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://anon.world",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://anon.world/banner.png",
+                "type": "png",
+                "width": "1080",
+                "height": "566"
+              }
+            ],
+            "ogTitle": "anon.world",
+            "ogLocale": "en",
+            "ogSiteName": "anon.world",
+            "ogDescription": "An anonymous social network"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x26e8b5ab",
+    "url": "https://warpcast.com/woj.eth/0x26e8b5ab",
+    "author_username": "woj.eth",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2025-01-06T20:43:44.000Z",
+    "text": "impressed by the clanker ecosystem going into the new year\n\nout of nowhere there are 4 different farcaster tokens that fund work of 4 legit devs with great track records\n\nand you can enter them at reasonable valuations ($14m to $2m)\n\n- native by @derek — new farcaster client\n- bankr by @deployer — ai agent for you wallet (closest comp is solana's griffain at $500m)\n- clankfun by @nt — a dexscreener-like terminal for trading these clankers\n- clankermon by @matthewfox — a mini game in a frame with pokemons and trading (matthew shipped some excellent mini apps before)\n\nbe your own vc anon",
+    "embeds": [
+      {
+        "url": "https://supercast.mypinata.cloud/ipfs/QmdRdT7v9L4rH8CecgEt5e6CjQkWKCkEFhmSzVYpSNDc6W?filename=Screenshot-2025-01-06-at-21.33.54.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 2573067,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3248,
+            "height_px": 2112
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5728ff1d",
+    "url": "https://warpcast.com/wbnns/0x5728ff1d",
+    "author_username": "wbnns",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 12144,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/25fac8e0-0bbb-4127-5a47-4a81e03d7100/original",
+    "cast_date": "2025-01-07T20:52:54.000Z",
+    "text": "If you're running a Base node on mainnet, don't forget to upgrade before Thursday 🗓️",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/edeed4f8-825e-432b-1bac-c6532865ec00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 404813,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1810,
+            "height_px": 1156
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe3fadb63",
+    "url": "https://warpcast.com/alinaferry/0xe3fadb63",
+    "author_username": "alinaferry",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 282672,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmbLg9mEy628dFJfv6yZRV2fCxsf5yDSmSNtQx1xEShkeT?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-01-06T18:55:06.000Z",
+    "text": "Alrighty… the poll results are in\n\nAbsolutely not what I expected after our discussions yesterday - \n\nI guess the numbers still matter more than one would think",
+    "embeds": [
+      {
+        "url": "https://frame.weponder.io/api/polls/28602/results",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 13352,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://frame.weponder.io/api/polls/28602/img-results/eyJwb2xsRGF0YSI6eyJpZCI6Mjg2MDIsInR5cGUiOiJiYXNpYyIsImNhc3RIYXNoIjoiMHg2NTZhYTI4NWMwMzcxMTlkMjEyNzRmNjczYTM2NjBiMDk1ZjZkMjcyIiwidGV4dCI6IldobyBjYW4gYmUgY29uc2lkZXJlZCBhIEZhcmNhc3RlciBpbmZsdWVuY2VyP1xuU29tZW9uZSB3aG_igKYiLCJhdXRob3IiOnsiaWQiOjY3NzgsInV1aWQiOiJlYzg5MDAzNS03MzEyLTQ0NjUtYTFiNC01OGY4Y2ZmM2U1MDUiLCJmaWQiOjI4MjY3MiwidXNlcm5hbWUiOiJhbGluYWZlcnJ5IiwiZGlzcGxheU5hbWUiOiJBbGluYSIsInBmcCI6Imh0dHBzOi8vaS5pbWd1ci5jb20vVjg1YWR0Vy5qcGciLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHhhZjJmZDA5N2RkZDVjMDk2MWZmYzJiMGJhYTM2ZjMzNWMwNzVkNDUwIiwiMHhmNDY3Y2ZlMjNiM2RhMmNlOGFjNmQ4ZjdmYThhNGIxN2RiYzNjOTY4Il0sInNwb25zb3JlZENvdW50IjowLCJzY29yZSI6MC4wMDAxNzI2NjkzNTkwMTcxNjM1Miwic3RhdGlzdGljcyI6eyJhbnN3ZXJzQ291bnQiOjQsInZvdGVzQ291bnQiOjUyLCJwb2xsc0NvdW50IjoxMiwicXVlc3Rpb25zQ291bnQiOjF9fSwib3B0aW9ucyI6WyJIYXMgYmVlbiBoZXJlIGxvbmdlciIsIkhhcyBhbiB4L3kveiAjIG9mIGZvbGxvd2VycyIsIkNyZWF0ZXMgcGFydGljdWxhciBjb250ZW50IiwiU210aCBlbHNlIChkcm9wIGluIGNvbW1lbnRzKSJdLCJzdGF0dXMiOiJjYWxjdWxhdGVkIiwiY3JlYXRlZEF0IjoiMjAyNS0wMS0wNVQxODo0MDozMC4wMTE5NTUrMDA6MDAiLCJleHBpcmVzQXQiOiIyMDI1LTAxLTA2VDE4OjQwOjI4LjcxMyswMDowMCIsImlzQW5vbnltb3VzIjpmYWxzZSwiaXNBcmNoaXZlZCI6ZmFsc2UsInJlc3VsdHNEYXRhIjpbeyJvcHRpb25JZCI6MSwidm90ZXMiOjEwLCJ0ZXh0IjoiSGFzIGJlZW4gaGVyZSBsb25nZXIiLCJwZXJjZW50T2ZUb3RhbCI6MjEsImZpbHRlcnMiOnsiZGVmYXVsdCI6eyJ2b3RlcyI6MTAsInBlcmNlbnRPZlRvdGFsIjoyMX0sInBvd2VyQmFkZ2VGaWQiOnsidm90ZXMiOjYsInBlcmNlbnRPZlRvdGFsIjoxNy4xNDI4NTcxNDI4NTcxfSwib2dGaWQiOnsidm90ZXMiOjMsInBlcmNlbnRPZlRvdGFsIjoxMi41fSwicG9wdWxhckZpZCI6eyJ2b3RlcyI6OSwicGVyY2VudE9mVG90YWwiOjIyLjV9fX0seyJvcHRpb25JZCI6Miwidm90ZXMiOjE0LCJ0ZXh0IjoiSGFzIGFuIHgveS96ICMgb2YgZm9sbG93ZXJzIiwicGVyY2VudE9mVG90YWwiOjMwLCJmaWx0ZXJzIjp7ImRlZmF1bHQiOnsidm90ZXMiOjE0LCJwZXJjZW50T2ZUb3RhbCI6MzB9LCJwb3dlckJhZGdlRmlkIjp7InZvdGVzIjoxMywicGVyY2VudE9mVG90YWwiOjM3LjE0Mjg1NzE0Mjg1NzF9LCJvZ0ZpZCI6eyJ2b3RlcyI6MTAsInBlcmNlbnRPZlRvdGFsIjo0MS42NjY2NjY2NjY2NjY3fSwicG9wdWxhckZpZCI6eyJ2b3RlcyI6MTMsInBlcmNlbnRPZlRvdGFsIjozMi41fX19LHsib3B0aW9uSWQiOjMsInZvdGVzIjoxMywidGV4dCI6IkNyZWF0ZXMgcGFydGljdWxhciBjb250ZW50IiwicGVyY2VudE9mVG90YWwiOjI4LCJmaWx0ZXJzIjp7ImRlZmF1bHQiOnsidm90ZXMiOjEzLCJwZXJjZW50T2ZUb3RhbCI6Mjh9LCJwb3dlckJhZGdlRmlkIjp7InZvdGVzIjo5LCJwZXJjZW50T2ZUb3RhbCI6MjUuNzE0Mjg1NzE0Mjg1N30sIm9nRmlkIjp7InZvdGVzIjo3LCJwZXJjZW50T2ZUb3RhbCI6MjkuMTY2NjY2NjY2NjY2N30sInBvcHVsYXJGaWQiOnsidm90ZXMiOjExLCJwZXJjZW50T2ZUb3RhbCI6MjcuNX19fSx7Im9wdGlvbklkIjo0LCJ2b3RlcyI6MTAsInRleHQiOiJTbXRoIGVsc2UgKGRyb3AgaW4gY29tbWVudHMpIiwicGVyY2VudE9mVG90YWwiOjIxLCJmaWx0ZXJzIjp7ImRlZmF1bHQiOnsidm90ZXMiOjEwLCJwZXJjZW50T2ZUb3RhbCI6MjF9LCJwb3dlckJhZGdlRmlkIjp7InZvdGVzIjo3LCJwZXJjZW50T2ZUb3RhbCI6MjB9LCJvZ0ZpZCI6eyJ2b3RlcyI6NCwicGVyY2VudE9mVG90YWwiOjE2LjY2NjY2NjY2NjY2Njd9LCJwb3B1bGFyRmlkIjp7InZvdGVzIjo3LCJwZXJjZW50T2ZUb3RhbCI6MTcuNX19fV0sInRvcFZvdGVycyI6W3siaWQiOjEsInV1aWQiOiI2MWUzMzEzYS04NTFlLTRjZmItYWY4Ni0yM2ZmMjhjY2RlZDgiLCJmaWQiOjQzMjcsInVzZXJuYW1lIjoiY29qby5ldGgiLCJkaXNwbGF5TmFtZSI6IkNvbGluIEpvaG5zb24g8J-SrSIsInBmcCI6Imh0dHBzOi8vaS5pbWd1ci5jb20vNWtXekNhQS5qcGciLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHhlOTQzY2E4ODNlZjMyOTRlMGZjNTVhMWExNDU5MWFiZWFkMWI1OTI3IiwiMHhjYWFhMjZjNTQ5OGRlNjc0NjZlNjgyM2VmNjk3MThmZWIwNGMyOTUyIl0sInNwb25zb3JlZENvdW50Ijo0LCJzY29yZSI6MC4wMDA1NDA1MTk4MzE3MDIxMTMyfSx7ImlkIjoyLCJ1dWlkIjoiMjdhMDkyZjctNjQ5YS00MTRlLWE0YTctNWJiMTY5MTU0OTNjIiwiZmlkIjo5NzYsInVzZXJuYW1lIjoiYmEiLCJkaXNwbGF5TmFtZSI6IkJlbiBBZGFtc2t5IPCfkq0iLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvMWViY2Q0OTgtMDk0MC00Y2U5LTJmZjEtOTI2MGY0ZTAwOTAwL29yaWdpbmFsIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4NjRmZjMzYjY1M2IyNmVkY2I0NjQ0ZTI3ZDM3MjBmM2M2NTNmODM3MSIsIjB4YzY0NjRjZjQ1MTdjODExZjBiOTU2MGFlYzIwZWI3ZDgyOWU2OGU0ZiJdLCJzcG9uc29yZWRDb3VudCI6NCwic2NvcmUiOjAuMDAwMTQ4OTQ1MjY5NzU2OTUwNDR9LHsiaWQiOjUsInV1aWQiOiJhODA4ZDRkNC0xNmFiLTRjOGQtOGQxYy0yZDM1N2Y2MzBkMGUiLCJmaWQiOjY3MzEsInVzZXJuYW1lIjoiY2hpY2FnbyIsImRpc3BsYXlOYW1lIjoiQ2hpY2FnbyDwn46pIiwicGZwIjoiaHR0cHM6Ly9pbWFnZWRlbGl2ZXJ5Lm5ldC9CWGx1UXg0aWdlOUd1VzBJYTU2Qkh3LzQ4ZTcxMzQ3LTY2YzAtNDUxOS1jNzAyLTZmYTI4NzlhYjIwMC9yZWN0Y3JvcDMiLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHg1YzBkOTgyOGNhNjU5NWRiMTAxMmE0MDYzYzdhZThiNmVkZWU3NTM0IiwiMHg2ZDM0OTI3NDQxYzRhMjM4YTg0ZjlmNTRhNDdkNjdjYzNkNTVmNTc1IiwiMHhmYWE4Y2ZjZjdhNzA2YzY0ZTc1MmQ0YjQ4NDI2YzJhMjFmYjM0ZWRhIl0sInNwb25zb3JlZENvdW50IjowLCJzY29yZSI6MC4wMDAxNTg0MDQxNzQ3MjY0NTY0fSx7ImlkIjo0NSwidXVpZCI6ImQzZDQxNWYyLTk5Y2UtNDI0Ni05OThhLTAwMzAwNmNmNjZkOCIsImZpZCI6ODMzMiwidXNlcm5hbWUiOiJhd2Vkam9iIiwiZGlzcGxheU5hbWUiOiJBSiIsInBmcCI6Imh0dHBzOi8vaW1hZ2VkZWxpdmVyeS5uZXQvQlhsdVF4NGlnZTlHdVcwSWE1NkJIdy80MzU4YTc5Ny1hNDI4LTRkMjUtNDBlZC0yMWZlY2Y4ZWExMDAvb3JpZ2luYWwiLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHgyMzE1YzU0YjFkOWQwMTNlZTc5MTA0MTAyNWFhNDJhNDlhYmY4NTNkIiwiMHhjOTM5NTE5ODY5Yzk0NmU0YmRjYThmZDBiNjQ1OTA0OGM0YWViYWUyIiwiMHhlMWVlZGJkMWUwODQ3ODcwN2M3OTRlN2U4YjFlZTYyM2Y1ZmE2ZDY0IiwiMHgzZWJjZWNlYTU4OGU1YTZkZmFkODY1ZmM0MzczMmQxNGUxYWM4NTBjIl0sInNwb25zb3JlZENvdW50IjowLCJzY29yZSI6MC4wMDAwNzY2MDA4NzQzMDg0OTY3MX0seyJpZCI6NTYsInV1aWQiOiI2YWJkZmExMi1lNjA1LTRlMDktOTdlNy0zY2JiZTQ5OTI0NzciLCJmaWQiOjM4NTQsInVzZXJuYW1lIjoiZGFycnlseWVvIiwiZGlzcGxheU5hbWUiOiJEYXJyeWwgWWVvIPCfm6DvuI8iLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvNzk0ODExMTItNDY3Mi00ZWVlLWMyZTYtNzlkZjdhN2IyZDAwL29yaWdpbmFsIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4ZGEyMjkxOWUwMWUyNDliYTRjOTZkYmE0NmJlZTI5ZTQ5ODE4MzVmYyIsIjB4ZjIwNTdlNWRhNjZmYmY3NTc5OGQzMDc2MjBmNDMyNjA1YmE3OGZmYyIsIjB4YzdlZmE3NjZiYTJiNzBhMTU2ZDAwMWU0ZTQzNTEzZGI1YjMwOTZlMiJdLCJzcG9uc29yZWRDb3VudCI6Miwic2NvcmUiOjAuMDAwMjU4NDI1ODAzNjIyMjMwOX1dLCJzdGF0aXN0aWNzIjp7InZvdGVzQ291bnQiOjQ3LCJ2b3RlcnNPZ0NvdW50IjoyNCwidm90ZXJzT2dQZXJjZW50YWdlIjo1MSwidm90ZXJzUG93ZXJiYWRnZUNvdW50IjozNSwidm90ZXJzUG93ZXJiYWRnZVBlcmNlbnRhZ2UiOjc0LCJ2b3RlcnNHdGVGb2xsb3dlcnNDb3VudCI6NDAsInZvdGVyc0d0ZUZvbGxvd2Vyc1BlcmNlbnRhZ2UiOjg1LCJyYW5rIjoxfSwiYm91bnR5IjpudWxsLCJnYXRpbmciOm51bGx9LCJ0b3RhbEJvdW50eUFtb3VudCI6MCwid2lubmluZ0Ftb3VudCI6MH0"
+              }
+            ],
+            "ogTitle": "Results - Who can be considered a Farcaster influencer?\nSomeone who…",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb213651f",
+    "url": "https://warpcast.com/matthewb/0xb213651f",
+    "author_username": "matthewb",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 4895,
+    "author_pfp": "https://i.imgur.com/6x4u2Cc.jpg",
+    "cast_date": "2025-01-06T18:22:35.000Z",
+    "text": "How do you do, fellow Farcaster influencers?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b4003f19-2a62-43a0-36c1-6200f3c15a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 52030,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 780,
+            "height_px": 526
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 282672,
+          "hash": "0xd06f63d182252f9a435f75db1922bcf33f75be30"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd06f63d182252f9a435f75db1922bcf33f75be30",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 282672,
+            "username": "alinaferry",
+            "display_name": "Alina Ferry",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmbLg9mEy628dFJfv6yZRV2fCxsf5yDSmSNtQx1xEShkeT?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0xaf2fd097ddd5c0961ffc2b0baa36f335c075d450"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd06f63d182252f9a435f75db1922bcf33f75be30",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM, my Farcaster influencers and future crypto celebrities",
+          "timestamp": "2025-01-06T15:09:51.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe146e4d0",
+    "url": "https://warpcast.com/adrienne/0xe146e4d0",
+    "author_username": "adrienne",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-01-06T15:43:51.000Z",
+    "text": "There’s no such thing as a farcaster influencer \n\nAlso this:\n\n(Cc: @linda and @matthewb I’ve been influenced )",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc57cafc-fd55-4d0a-cc2d-0b696eeaa200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 24997,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 347
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x46477eea",
+    "url": "https://warpcast.com/dwr.eth/0x46477eea",
+    "author_username": "dwr.eth",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-01-06T04:21:23.000Z",
+    "text": "Maybe not traditional “influencer”, but plenty of economic value has been created for people who have taken Farcaster seriously over the last few years.\n\nBeyond the onchain opportunities, plenty of people got jobs and raised funding as a result.\n\nymmv",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1890,
+          "hash": "0xf2c41b0d02eb2810677e3086cb96882e64fa2e36"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf2c41b0d02eb2810677e3086cb96882e64fa2e36",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1890,
+            "username": "jayce",
+            "display_name": "Chaotic Neutral",
+            "pfp_url": "https://i.seadn.io/gcs/files/e7d49b5c2a6021ff1543a69cfa466719.jpg?w=500&auto=format",
+            "custody_address": "0x80ec31ef159f54c996cc0eae2db8b3dec4cc94f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x656aa285c037119d21274f673a3660b095f6d272",
+          "parent_hash": "0x656aa285c037119d21274f673a3660b095f6d272",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 282672
+          },
+          "text": "“Farcaster influencer” is a bit of a delusion. It’s kinda like a high school yearbook superlative, as it suggests popularity but you wouldn’t put it on your resume and you can’t really monetize it in the real world in a non-MLM way",
+          "timestamp": "2025-01-05T20:11:25.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x72c253e2",
+    "url": "https://warpcast.com/chuckstock/0x72c253e2",
+    "author_username": "chuckstock",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 16405,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b25619df-aa17-456e-3847-528f45688d00/original",
+    "cast_date": "2025-01-06T18:36:18.000Z",
+    "text": "launched our first correspondence game \"Words\", built with our ai studio\n\nmy favorite part, it leverages warpcast notifications for starting the game and when it's your turn to play, so you'll always be up-to-date when it's your turn\n\nget ready to see more of these style games in the farcade",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/01943ce4-b34a-c64b-c2a5-77e86146cca4.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 960,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 320,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 24.29
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 294226,
+          "hash": "0x2550d2fdad8241150050d944658b5f4e1ce54cb3"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x2550d2fdad8241150050d944658b5f4e1ce54cb3",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 294226,
+            "username": "blackstock",
+            "display_name": "Blackstock",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f35d7a4c-acd8-4848-9a64-877369398100/original",
+            "custody_address": "0x641f334cc86ddffb55ed37fd8659dafc8cc7c2f7"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x2550d2fdad8241150050d944658b5f4e1ce54cb3",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/farcade",
+          "root_parent_url": "https://warpcast.com/~/channel/farcade",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "https://play.farcade.ai/games/200",
+          "timestamp": "2025-01-06T18:22:46.000Z",
+          "embeds": [
+            {
+              "url": "https://play.farcade.ai/games/200",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://lqy3lriiybxcejon.public.blob.vercel-storage.com/000-shared/words-landscape.jpg",
+                      "type": "jpg"
+                    }
+                  ],
+                  "ogTitle": "Words - Farcade",
+                  "ogLocale": "en",
+                  "ogDescription": "Take turns building words crossword-puzzle style in a manner similar to Scrabble!",
+                  "fcFrame": {
+                    "button": {
+                      "title": "🕹️ Play",
+                      "action": {
+                        "url": "https://play.farcade.ai/games/200/overview?tgWebAppStartParam=undefined",
+                        "name": "Farcade",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://play.farcade.ai/icons/icon-192x192.png",
+                        "splashBackgroundColor": "#000"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://lqy3lriiybxcejon.public.blob.vercel-storage.com/000-shared/words-landscape.jpg"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "🕹️ Play",
+                  "image": "https://lqy3lriiybxcejon.public.blob.vercel-storage.com/000-shared/words-landscape.jpg",
+                  "frames_url": "https://play.farcade.ai/games/200",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 325741,
+                    "username": "farcade",
+                    "display_name": "Farcade",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c7dfdcfa-bdd7-4b61-0bd5-ff8c201f0300/rectcrop3",
+                    "custody_address": "0x1d69353eb2b3824038049e826dd4652b930a53c4"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjMyNTc0MSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDFkNjkzNTNFYjJCMzgyNDAzODA0OWU4MjZEZDQ2NTJiOTMwQTUzYzQifQ",
+                      "payload": "eyJkb21haW4iOiJwbGF5LmZhcmNhZGUuYWkifQ",
+                      "signature": "MHgxMTkzNWI3YmY2ODgyNDQxNjRiOTZlNDFiZDNiYTM5NWQ3ODVhOTI0YWVhNTAzY2JhNjk5ZTQ4NWY2MTdmZGU2NDA0M2NhZTkxNjNhMmQ4OTc2OWZjNTNjMTY1ZTZlOGEyYmM4Yzk3YjkyZThjMDY3NGFkOWZhZjkwZTE1OTQ4YjFi"
+                    },
+                    "frame": {
+                      "version": "0.0.1",
+                      "name": "Remix",
+                      "home_url": "https://play.farcade.ai",
+                      "icon_url": "https://play.remix.gg/icons/icon-512x512.png",
+                      "splash_image_url": "https://play.remix.gg/icons/icon-512x512.png",
+                      "splash_background_color": "#000",
+                      "webhook_url": "https://play.remix.gg/api/webhook/farcaster?miniApp=default",
+                      "subtitle": "Play. Build. Remix.",
+                      "primary_category": "games",
+                      "tags": [
+                        "games",
+                        "social",
+                        "fun",
+                        "entertainment",
+                        "arcade"
+                      ],
+                      "hero_image_url": "https://lqy3lriiybxcejon.public.blob.vercel-storage.com/game-1200x630-q66h344B7aB03R07FutFvQCIo8v9Ta.png",
+                      "tagline": "Play. Build. Remix.",
+                      "og_title": "Remix",
+                      "og_description": "Play. Build. Remix.",
+                      "og_image_url": "https://play.remix.gg/opengraph-image",
+                      "canonical_domain": "play.remix.gg"
+                    },
+                    "miniapp": {
+                      "version": "0.0.1",
+                      "name": "Remix",
+                      "home_url": "https://play.farcade.ai",
+                      "icon_url": "https://play.remix.gg/icons/icon-512x512.png",
+                      "splash_image_url": "https://play.remix.gg/icons/icon-512x512.png",
+                      "splash_background_color": "#000",
+                      "webhook_url": "https://play.remix.gg/api/webhook/farcaster?miniApp=default",
+                      "subtitle": "Play. Build. Remix.",
+                      "primary_category": "games",
+                      "tags": [
+                        "games",
+                        "social",
+                        "fun",
+                        "entertainment",
+                        "arcade"
+                      ],
+                      "hero_image_url": "https://lqy3lriiybxcejon.public.blob.vercel-storage.com/game-1200x630-q66h344B7aB03R07FutFvQCIo8v9Ta.png",
+                      "tagline": "Play. Build. Remix.",
+                      "og_title": "Remix",
+                      "og_description": "Play. Build. Remix.",
+                      "og_image_url": "https://play.remix.gg/opengraph-image",
+                      "canonical_domain": "play.remix.gg"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcade",
+            "name": "Farcade",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/30101b2d-2303-46d0-a565-0526669fa400/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x98db895a",
+    "url": "https://warpcast.com/meonbase/0x98db895a",
+    "author_username": "meonbase",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 490980,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b23c06b3-9d67-4beb-29b3-ce0ceb7a3000/original",
+    "cast_date": "2025-01-08T05:57:18.000Z",
+    "text": "web3 gaming is inevitable",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66c198c2-42c3-456a-4ed1-2605c17f8b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 155453,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1284,
+            "height_px": 1249
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd69e82a3",
+    "url": "https://warpcast.com/burrrrrberry/0xd69e82a3",
+    "author_username": "burrrrrberry",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 311933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c38a25a6-f3e3-471c-1d79-af3b60651500/original",
+    "cast_date": "2025-01-06T19:31:19.000Z",
+    "text": "I know you all thought I was making up a fake boyfriend, but he had finally arrived. \n\nPlease help me welcome @warpc0st aka Costco 🫂🤍\n\nBtw, GeoCrush is finally what got him over here @chuckstock @dwr.eth 🫡🔥",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3fde8fb0",
+    "url": "https://warpcast.com/toadyhawk.eth/0x3fde8fb0",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-01-04T04:55:54.000Z",
+    "text": "well, I finally managed to onboard my better half to farcaster and it was /farcade that did it. \n\nTurns out “you can play candy crush and earn coins, and those coins might turn into real money later” is a pretty compelling pitch. \n\nPlease welcome @toadette (and be kind!)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c2a62167-94cf-4f96-52d5-cf6012a9dd00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 88110,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 1670
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb53b1cd9",
+    "url": "https://warpcast.com/toadyhawk.eth/0xb53b1cd9",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-01-05T18:30:28.000Z",
+    "text": "our /yellow artist community never disappoints — the wonderful & talented @ilustradora.eth has created the perfect custom PFP for my wife @toadette and I’m going to show her how to mint one later today and change her PFP on warpcast. Thank you Dora!💛\n\nhttps://zora.co/collect/base:0x6cd066fdaf985013e3412a85fd9db6370b9d533a/1?referrer=0x7ce294d2bcb2de76a15fcf7055b0b14253dd3b33",
+    "embeds": [
+      {
+        "url": "https://zora.co/collect/base:0x6cd066fdaf985013e3412a85fd9db6370b9d533a/1?referrer=0x7ce294d2bcb2de76a15fcf7055b0b14253dd3b33",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://zora.co/collect/base:0x6cd066fdaf985013e3412a85fd9db6370b9d533a/1",
+            "favicon": "https://zora.co/favicon/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://zora.co/api/og-image/post/base:0x6cd066fdaf985013e3412a85fd9db6370b9d533a/1?v=2&mints=37"
+              }
+            ],
+            "ogTitle": "Toadette",
+            "ogLocale": "en",
+            "ogSiteName": "Zora",
+            "fcFrame": {
+              "button": {
+                "title": "Buy",
+                "action": {
+                  "url": "https://zora.co/collect/base:0x6cd066fdaf985013e3412a85fd9db6370b9d533a/1/frame-v2",
+                  "name": "Buy",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://zora.co/assets/logo.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://zora.co/api/og-image/post/base:0x6cd066fdaf985013e3412a85fd9db6370b9d533a/1?v=2&mints=37&crop=farcaster"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Buy",
+            "image": "https://zora.co/api/og-image/post/base:0x6cd066fdaf985013e3412a85fd9db6370b9d533a/1?v=2&mints=37&crop=farcaster",
+            "frames_url": "https://zora.co/collect/base:0x6cd066fdaf985013e3412a85fd9db6370b9d533a/1?referrer=0x7ce294d2bcb2de76a15fcf7055b0b14253dd3b33"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb32afd96",
+    "url": "https://warpcast.com/rachelw/0xb32afd96",
+    "author_username": "rachelw",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 14396,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmfMJyNCATvCnXrchAuNvLzxatRpRSYPnsUfaHF17RF46U?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-01-04T22:38:07.000Z",
+    "text": "Finally got the wifey here!\n\nFriends, meet the Mrs. @legallyjen \n\nWhich channels should she frequent?\n\nHere's a few awesome and active peeps to get you started, Jen. @nounishprof @adrienne @burrrrrberry @trish @breadcat @symbiotech @shaya @brianmorris.eth @statuette @jessepollak @toadyhawk.eth @dwr.eth \n\nWho does she need to follow?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xee84fec4",
+    "url": "https://warpcast.com/jessepollak/0xee84fec4",
+    "author_username": "jessepollak",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-01-06T01:53:30.000Z",
+    "text": "our fate is up to us — clear eyes, full hearts, 2025 let's go",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e880c81a-ce0f-482d-b50d-78969fb82900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 419988,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1494,
+            "height_px": 1096
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x92ed619e",
+    "url": "https://warpcast.com/luc/0x92ed619e",
+    "author_username": "luc",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 4013,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/364f7c96-fd30-4558-570c-f11ced1cc700/rectcrop3",
+    "cast_date": "2025-01-07T16:37:36.000Z",
+    "text": "if you feel overwhelmed with the recent launches across farcaster i wrote something for you \n\ninstructions to participate included inside\n\nhttps://paragraph.xyz/@farconomy/farcaster-weekly-1",
+    "embeds": [
+      {
+        "url": "https://paragraph.xyz/@farconomy/farcaster-weekly-1",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2025-01-07T16:33:51.153Z",
+            "ogTitle": "Farcaster Weekly Update #1",
+            "ogLocale": "en",
+            "ogDescription": "First edition of the farcaster weekly update\n\nhigh-signal about what's going on in Farcaster and how you can participate",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@farconomy/farcaster-weekly-1?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Farcaster%20Weekly%20Update%20%231&blogName=Farconomy&blogImageUrl=&coverPhotoUrl=&size=2048&publishedDate=1736267631153"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Farcaster%20Weekly%20Update%20%231&blogName=Farconomy&blogImageUrl=&coverPhotoUrl=&size=2048&publishedDate=1736267631153",
+            "frames_url": "https://paragraph.xyz/@farconomy/farcaster-weekly-1",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGgueHl6In0",
+                "signature": "MHg5YmQ4MDcxNmVmNjIwZTFjM2UwZDkzMzQ5ZDNlNTU5N2MzYmU3NzQ2MDJmYTliZmE1Zjg2Mzk3Y2QxZTk4MGExM2RmNDVmMDM2ODE5Y2FhZmZiZmE5MTMxN2U3MGRlYWRlYTI2YWUzMTA2N2I1NDNiMTFkZDI3ODk3NzQ3ZWI5YjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x16eb9de9",
+    "url": "https://warpcast.com/falcon/0x16eb9de9",
+    "author_username": "falcon",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 2902,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/25eee7d5-24cd-4782-6876-7f2667e87700/rectcrop3",
+    "cast_date": "2025-01-07T20:07:43.000Z",
+    "text": "2 based builders, one pod (no visuals i promise)\n\nbullish anything these boys are cooking up and this is a must listen @jake @derek",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1020,
+          "hash": "0x86f9611d24a8bfd13b9c2f4f33c87d08c1f42e70"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x86f9611d24a8bfd13b9c2f4f33c87d08c1f42e70",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1020,
+            "username": "jake",
+            "display_name": "JAKE",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fed61627-c883-4842-d3ed-f487fadfd800/original",
+            "custody_address": "0x17b3fb3a58d75f1e04c51dbeb27c4a0942e970a5"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x86f9611d24a8bfd13b9c2f4f33c87d08c1f42e70",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/purplepeople",
+          "root_parent_url": "https://warpcast.com/~/channel/purplepeople",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "In episode #20 of Purple People, I spoke with @derek about /nativefun \n\nIn addition to his vision for Native, we discussed his entrepreneurial story, how digital economies can bootstrap physical businesses, AGI, and more. Enjoy.\n\nApple: bit.ly/3C2bRcX\nSpotify: bit.ly/4j4abAo\nMint: pods.media/purple-people/20-derek",
+          "timestamp": "2025-01-07T15:39:39.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/42fc77dc-fc87-4807-8e3f-ae2eea936500/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 983726,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1808,
+                  "height_px": 2000
+                }
+              }
+            },
+            {
+              "url": "http://bit.ly/3C2bRcX",
+              "metadata": {
+                "content_type": "text/html",
+                "content_length": 13853,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://podcasts.apple.com/us/podcast/20-derek/id1771300254?i=1000683012755",
+                  "ogType": "website",
+                  "favicon": "/assets/favicon/favicon-32.png",
+                  "ogImage": [
+                    {
+                      "alt": "#20 - @derek",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a0/3c/5c/a03c5c1f-35b2-a38d-be21-9d08832f8b1d/mza_4539531430606121461.jpg/1200x1200bf-60.jpg",
+                      "type": "image/jpg",
+                      "width": "1200",
+                      "height": "1200"
+                    }
+                  ],
+                  "ogTitle": "#20 - @derek",
+                  "ogLocale": "en_US",
+                  "ogSiteName": "Apple Podcasts",
+                  "ogDescription": "Podcast Episode · Purple People · 01/07/2025 · 1h 4m"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "purplepeople",
+            "name": "Purple People",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e0fb404a-d685-46cb-a327-aeae4accb000/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaaa97e20",
+    "url": "https://warpcast.com/metacade/0xaaa97e20",
+    "author_username": "metacade",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 310831,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/73209b45-3864-46b2-d743-0e662a7a3200/original",
+    "cast_date": "2025-01-06T18:52:30.000Z",
+    "text": "What if AI Agents could not only make text-based posts, but actually…\n\n🔎  Research Topics\n🎙️  Discuss in a Podcast\n🍿  Bring Content to Life\n\nNow they can! Introducing our demo of The Agentic Report ft. Metacade’s first AI-powered podcast co-hosts on @base.base.eth\nhttps://youtu.be/CojorIjQkMQ",
+    "embeds": [
+      {
+        "url": "https://youtu.be/CojorIjQkMQ",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "undefined",
+            "oembed": {
+              "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/CojorIjQkMQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"The Agentic Report #1 - Demo\"></iframe>",
+              "type": "video",
+              "title": "The Agentic Report #1 - Demo",
+              "width": 200,
+              "height": 113,
+              "method": "provider-api",
+              "version": "1.0",
+              "author_url": "https://www.youtube.com/@metacade9370",
+              "author_name": "Metacade",
+              "provider_url": "https://www.youtube.com/",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/CojorIjQkMQ/hqdefault.jpg",
+              "thumbnail_width": 480,
+              "thumbnail_height": 360
+            },
+            "favicon": "https://www.youtube.com/s/desktop/26a583e4/img/logos/favicon.ico",
+            "ogTitle": " - YouTube",
+            "ogLocale": "en",
+            "ogDescription": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0319ca2b",
+    "url": "https://warpcast.com/awedjob.eth/0x0319ca2b",
+    "author_username": "awedjob.eth",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 8332,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4358a797-a428-4d25-40ed-21fecf8ea100/original",
+    "cast_date": "2025-01-08T05:06:33.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f757d694-40dd-44ce-b07f-0c3fd4beb000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 329343,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 750,
+            "height_px": 425
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x783fd86b",
+    "url": "https://warpcast.com/horsefacts.eth/0x783fd86b",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2025-01-07T20:19:19.000Z",
+    "text": "Anon World, Rodeo\nClank Fun, Morpho\nStoke Fire, Dickbutt \nTerminal dot co\n\nBankr bot, Farcade\nDegen tippers still get paid\nBountybot, Moshicam \nClanktardio  \n\nSocial token, Enjoy\nKiosk, Farworld, Dreamboy\nCheck the Warpcast leaderboard\nLet me see your cool sword\n\nSupercast rebrand\nClanker tokens out of hand\nLarry, Zora, Payflow, Yoink\nPredictive Ponder polls\n\nVeil cash, Native Fun\nAsk Gina, Clankermon \nCopy trade on Interface\nDump on all your Frens on Base\n\nRainbow, Privy, Hypersub\nGdupi, Higher, Mint Club\nMicrosub, Bracket game\nDon't forget your Moxie claim!\n\nWE DIDN'T START THE FIRE",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b26c970c-9957-401f-c96e-90d7d4dd3100/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 645832,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 373,
+            "height_px": 280
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x844b468d",
+    "url": "https://warpcast.com/pushix/0x844b468d",
+    "author_username": "pushix",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 359,
+    "author_pfp": "https://lh3.googleusercontent.com/v58dn3Qon30ikaovcRc_91qg8UdIAuDEcbBPkMxP6DP2eOvdGs96azCsUomVJIbeElIMx9hQdlNFrZf7ujWVE6fZkM8QaEPG8Km6sQ=s120",
+    "cast_date": "2024-11-21T00:35:44.000Z",
+    "text": "🚨we've been cooking! LAUNCH: Srcbook online app builder ✨\n\nHere's a wild idea: What if you could build web apps as easily as you design in Figma or edit a Google Doc?\n\nEnter Srcbook.\n\nWe’ve reimagined app development for the AI era. You can turn your ideas into working web apps, whether you know how to code or not!\n\nWant to launch that app idea? Need to build something for your community? Looking to prototype faster? Start here. We’ve removed the barriers between idea and execution, and it feels like magic!\n\nFor a (very) limited time, this is FREE (for you, not us). So you can just go and build apps at your heart’s content, right now. What exactly are you waiting for!?\n\nOur mission is to empower everyone to build for the web. Start prototyping, building, and launching today at https://srcbook.com.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0121409-eaf0-499d-f6e8-777f7c1a9500/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 200094,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1200,
+            "height_px": 675
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf555f8d6",
+    "url": "https://warpcast.com/bradq/0xf555f8d6",
+    "author_username": "bradq",
+    "show_date": "2025-01-08",
+    "show_title": "Gm Farcaster Ep199 Wednesday Junuary 8  2025 with guest cohost @heavygweit",
+    "source_episode_id": "d54PRa3jxUc",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-01-06T14:51:37.000Z",
+    "text": "Why does this Coinbase commercial \"just work?\"\n\nWatch & ask yourself: \n1. Who is the hero in the 'story?'\n2. What role does Coinbase play in the 'story?'\n\nMost of web3 doesn't really get this (yet). Study @coinbase ...might become the Apple of web3 storytelling. \n\nWhat do you think of the commercial and why it works?\n\nhttps://www.youtube.com/watch?v=FFAfQIl1UOA",
+    "embeds": [
+      {
+        "url": "https://www.youtube.com/watch?v=FFAfQIl1UOA",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "undefined",
+            "oembed": {
+              "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/FFAfQIl1UOA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Crypto Is For: Small Businesses\"></iframe>",
+              "type": "video",
+              "title": "Crypto Is For: Small Businesses",
+              "width": 200,
+              "height": 113,
+              "method": "provider-api",
+              "version": "1.0",
+              "author_url": "https://www.youtube.com/@coinbase",
+              "author_name": "Coinbase",
+              "provider_url": "https://www.youtube.com/",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/FFAfQIl1UOA/hqdefault.jpg",
+              "thumbnail_width": 480,
+              "thumbnail_height": 360
+            },
+            "favicon": "https://www.youtube.com/s/desktop/7029e4b3/img/logos/favicon.ico",
+            "ogTitle": " - YouTube",
+            "ogLocale": "en",
+            "ogDescription": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

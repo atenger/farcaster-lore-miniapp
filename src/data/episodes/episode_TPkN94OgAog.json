@@ -1,0 +1,750 @@
+[
+  {
+    "cast_hash": "0x38e58702",
+    "url": "https://warpcast.com/dwr.eth/0x38e58702",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-04",
+    "show_title": "GM Farcaster ep189 Tuesday December 3, 2024 with special guest @dwr.eth",
+    "source_episode_id": "TPkN94OgAog",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-12-02T21:59:35.000Z",
+    "text": "Frames v2\n\n- games\n- swaps\n- launch tokens\n- AI chatbots",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/3ef0f42b-0a2b-4de6-91da-cbcdb42fe68a.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1280,
+                "width_px": 716,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 854,
+                "width_px": 478,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 358,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 238,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 49.833333
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb5ee764d",
+    "url": "https://warpcast.com/dwr.eth/0xb5ee764d",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-04",
+    "show_title": "GM Farcaster ep189 Tuesday December 3, 2024 with special guest @dwr.eth",
+    "source_episode_id": "TPkN94OgAog",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-12-03T15:20:07.000Z",
+    "text": "Updated Farcaster docs site with Frames v2\n\nhttps://docs.farcaster.xyz/developers/frames/v2/",
+    "embeds": [
+      {
+        "url": "https://docs.farcaster.xyz/developers/frames/v2/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "miniapps-docs-r98gagh19-farcaster.vercel.app",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://og-five-eta.vercel.app/api/og/mini-apps?title=Farcaster Mini Apps&description=Learn to build and distribute apps to Farcaster users&"
+              }
+            ],
+            "ogTitle": "Farcaster Mini Apps",
+            "ogLocale": "en",
+            "ogDescription": "Learn to build and distribute apps to Farcaster users"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb4e36cbe",
+    "url": "https://warpcast.com/horsefacts.eth/0xb4e36cbe",
+    "author_username": "horsefacts.eth",
+    "show_date": "2024-12-04",
+    "show_title": "GM Farcaster ep189 Tuesday December 3, 2024 with special guest @dwr.eth",
+    "source_episode_id": "TPkN94OgAog",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2024-11-27T20:26:01.000Z",
+    "text": "New Frames v2 tutorial covering Warpcast dev mode, the app manifest, and the v2 embed format:\n\nhttps://www.youtube.com/watch?v=S1KuwHYPtxU",
+    "embeds": [
+      {
+        "url": "https://www.youtube.com/watch?v=S1KuwHYPtxU",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "undefined",
+            "oembed": {
+              "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/S1KuwHYPtxU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Farcaster Frames v2: Dev Tools, App Manifest, Account Association, Embeds\"></iframe>",
+              "type": "video",
+              "title": "Farcaster Frames v2: Dev Tools, App Manifest, Account Association, Embeds",
+              "width": 200,
+              "height": 150,
+              "method": "provider-api",
+              "version": "1.0",
+              "author_url": "https://www.youtube.com/@eth_call",
+              "author_name": "horsefacts",
+              "provider_url": "https://www.youtube.com/",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/S1KuwHYPtxU/hqdefault.jpg",
+              "thumbnail_width": 480,
+              "thumbnail_height": 360
+            },
+            "favicon": "https://www.youtube.com/s/desktop/ceaca137/img/logos/favicon.ico",
+            "ogTitle": " - YouTube",
+            "ogLocale": "en",
+            "ogDescription": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1fe34a76",
+    "url": "https://warpcast.com/dwr.eth/0x1fe34a76",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-04",
+    "show_title": "GM Farcaster ep189 Tuesday December 3, 2024 with special guest @dwr.eth",
+    "source_episode_id": "TPkN94OgAog",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-12-01T02:46:51.000Z",
+    "text": "Thread of v2 frames 🧵",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xebe23363",
+    "url": "https://warpcast.com/compez.eth/0xebe23363",
+    "author_username": "compez.eth",
+    "show_date": "2024-12-04",
+    "show_title": "GM Farcaster ep189 Tuesday December 3, 2024 with special guest @dwr.eth",
+    "source_episode_id": "TPkN94OgAog",
+    "author_fid": 321969,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7cf25ce8-1f13-4820-4c72-bbba41ed3200/original",
+    "cast_date": "2024-12-02T14:58:09.000Z",
+    "text": "If you want to know what the 2nd generation of frames will support in the future, you should check this out.\n\nThis frame supports fully native 3D rendering based on WASM technology in C++.\n\nThis means that FC supports a very exciting revolution that the developer community will bring... \n\nIn this experiment, I used C++ and the Qt framework. Build mode is on debug with the least efficiency (only for test concept).\n\nWe are still very early... 😎🫡🔥\n\n@dwr.eth  @horsefacts.eth \n\nhttps://genyframe.xyz/wasm/qt3d",
+    "embeds": [
+      {
+        "url": "https://genyframe.xyz/wasm/qt3d",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogTitle": "Genyframe",
+            "ogLocale": "en",
+            "ogDescription": "In the realm of artistic creation, the computer becomes my canvas, and code, my brush. With each stroke of programming, I intricately weave the threads of imagination, transforming abstract ideas into tangible visual wonders.",
+            "fcFrame": {
+              "button": {
+                "title": "Launch 3d (C++/WASM)",
+                "action": {
+                  "url": "https://genyframe.xyz/wasm/qt3d",
+                  "name": "Genyframe",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://www.qt.io/hubfs/Imported%20sitepage%20images/WebAssembly_Logo.svg",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://genyframe.xyz/wasm/qt3d/frame-splash.jpg"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Launch 3d (C++/WASM)",
+            "image": "https://genyframe.xyz/wasm/qt3d/frame-splash.jpg",
+            "frames_url": "https://genyframe.xyz/wasm/qt3d",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 321969,
+              "username": "compez.eth",
+              "display_name": "C O M P Ξ Z",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7cf25ce8-1f13-4820-4c72-bbba41ed3200/original",
+              "custody_address": "0xbcbe8e83bdd028b4a642d53e1df38aa318d6c50b"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjMyMTk2OSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGJDQmU4RTgzYmRkMDI4YjRhNjQyZDUzRTFERjM4YWEzMThkNmM1MGIifQ",
+                "payload": "eyJkb21haW4iOiJnZW55ZnJhbWUueHl6In0",
+                "signature": "MHg4Nzk2MWFiNDEyMzMxOTBiNzgwYmJkMWY3NGY5YWJjMDE1Njk1ZGU0YzkxNGJiMDBiOWE1YTVhNGZkYTg5OTM5MTE5ODE2Yzc1ZjIyMzg1NTJhOWEyMzQ4NTRmMGFmM2UzNjc3ODkzOTE0NjU4NWRlOWNlZTBhNDkxNmIzZWQyNzFj"
+              },
+              "frame": {
+                "version": "0.0.1",
+                "name": "Genyframe Box",
+                "home_url": "https://genyframe.xyz",
+                "icon_url": "https://genyframe.xyz/geny.png",
+                "splash_image_url": "https://genyframe.xyz/geny.png",
+                "splash_background_color": "#F2CE3A",
+                "webhook_url": "https://genyframe.xyz/webhook"
+              },
+              "miniapp": {
+                "version": "0.0.1",
+                "name": "Genyframe Box",
+                "home_url": "https://genyframe.xyz",
+                "icon_url": "https://genyframe.xyz/geny.png",
+                "splash_image_url": "https://genyframe.xyz/geny.png",
+                "splash_background_color": "#F2CE3A",
+                "webhook_url": "https://genyframe.xyz/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x950634c3",
+    "url": "https://warpcast.com/dwr.eth/0x950634c3",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-04",
+    "show_title": "GM Farcaster ep189 Tuesday December 3, 2024 with special guest @dwr.eth",
+    "source_episode_id": "TPkN94OgAog",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-12-03T15:43:40.000Z",
+    "text": "Updated framesv2.com to map to each of the official Farcaster docs pages for Frames v2.\n\nEasier to be able to remember the domain when replying in a message or a cast, but want to ensure the docs all live in a canonical spot (and not Notion!).",
+    "embeds": [
+      {
+        "url": "http://framesv2.com",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 744,
+          "_status": "RESOLVED",
+          "html": {
+            "ogTitle": "Farcaster Frames v2",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x992d6c58",
+    "url": "https://warpcast.com/dwr.eth/0x992d6c58",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-04",
+    "show_title": "GM Farcaster ep189 Tuesday December 3, 2024 with special guest @dwr.eth",
+    "source_episode_id": "TPkN94OgAog",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-11-27T21:58:55.000Z",
+    "text": "New on Warpcast: Starter Packs\n\n- Help friends quickly find their community on Farcaster\n\n- Curate up to 100 accounts in a pack; unlimited packs\n\n- Share the link and anyone can follow all with a single tap\n\n- Optional: packs can have a category that maps to Warpcast’s onboarding interests; we’re hoping to feature the best packs curated by users in onboarding soon, i.e. a community-driven auto follow list\n\n- Here’s an example pack to follow the Warpcast team:\n\nhttps://warpcast.com/dwr.eth/pack/Warpcast-Team-mt346v",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/dwr.eth/pack/Warpcast-Team-mt346v",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "/dwr.eth/pack/Warpcast-Team-mt346v",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://client.warpcast.com/v2/og-image?starterPackId=Warpcast-Team-mt346v",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Warpcast Team",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast",
+            "ogDescription": "Starter pack by @dwr.eth"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4c3d6830",
+    "url": "https://warpcast.com/alvesjtiago.eth/0x4c3d6830",
+    "author_username": "alvesjtiago.eth",
+    "show_date": "2024-12-04",
+    "show_title": "GM Farcaster ep189 Tuesday December 3, 2024 with special guest @dwr.eth",
+    "source_episode_id": "TPkN94OgAog",
+    "author_fid": 762,
+    "author_pfp": "https://lh3.googleusercontent.com/ZWj1IEZ7XM_zS61pCbldx4pcfcpKBB3ig6DlMj4jh9Emzq-g2aWK1gTiRbraBNdeht9VFjeyG-GlSmtEh-oirCiH7TZszueWP7oU",
+    "cast_date": "2024-12-03T01:10:20.000Z",
+    "text": "explore starter packs 🎰\n\npacks.fiids.xyz",
+    "embeds": [
+      {
+        "url": "http://packs.fiids.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "Farcaster Starter Packs",
+            "ogLocale": "en",
+            "ogDescription": "Find the best starter packs on Farcaster.",
+            "fcFrame": {
+              "button": {
+                "title": "Explore packs",
+                "action": {
+                  "url": "https://packs.fiids.xyz",
+                  "name": "Starter Packs",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://packs.fiids.xyz/splash.png",
+                  "splashBackgroundColor": "#add8e6"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://packs.fiids.xyz/ogimage.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Explore packs",
+            "image": "https://packs.fiids.xyz/ogimage.png",
+            "frames_url": "http://packs.fiids.xyz/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 762,
+              "username": "alvesjtiago.eth",
+              "display_name": "Tiago",
+              "pfp_url": "https://lh3.googleusercontent.com/ZWj1IEZ7XM_zS61pCbldx4pcfcpKBB3ig6DlMj4jh9Emzq-g2aWK1gTiRbraBNdeht9VFjeyG-GlSmtEh-oirCiH7TZszueWP7oU",
+              "custody_address": "0xc6f997a9374d05e78054362f6a204f994f75808e"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjc2MiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEM2Rjk5N2E5Mzc0ZDA1ZTc4MDU0MzYyRjZBMjA0Zjk5NGY3NTgwOEUifQ",
+                "payload": "eyJkb21haW4iOiJwYWNrcy5maWlkcy54eXoifQ",
+                "signature": "MHhjYmU5NmZhMWFjYjYxMjg1ZTNmNmI1YWZiNjhkMjE2OTFkNmI5Yzg5NDdhMjA2MDhkOTQ2NzgzMjk1OTdlYTY2NmE4OGJlNGM5ZGRhYmVmZTNkMjUwYzNkMzM5YjgwYWExMWRlMjg2Yjc5OGYwODhhMjRlMWU1MjE5NDUwYmE4ZjFj"
+              },
+              "frame": {
+                "version": "0.0.1",
+                "name": "Starter Packs",
+                "home_url": "https://packs.fiids.xyz",
+                "icon_url": "https://packs.fiids.xyz/splash.png",
+                "image_url": "https://packs.fiids.xyz/ogimage.png",
+                "button_title": "Search starter packs",
+                "splash_image_url": "https://packs.fiids.xyz/splash.png",
+                "splash_background_color": "#add8e6"
+              },
+              "miniapp": {
+                "version": "0.0.1",
+                "name": "Starter Packs",
+                "home_url": "https://packs.fiids.xyz",
+                "icon_url": "https://packs.fiids.xyz/splash.png",
+                "image_url": "https://packs.fiids.xyz/ogimage.png",
+                "button_title": "Search starter packs",
+                "splash_image_url": "https://packs.fiids.xyz/splash.png",
+                "splash_background_color": "#add8e6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa454ca42",
+    "url": "https://warpcast.com/dwr.eth/0xa454ca42",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-04",
+    "show_title": "GM Farcaster ep189 Tuesday December 3, 2024 with special guest @dwr.eth",
+    "source_episode_id": "TPkN94OgAog",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-11-28T16:14:29.000Z",
+    "text": "Starter Pack Directory\n\n1. Use @buoy or @neynar to surface all the starter pack links that are publicly shared\n\n2. Index and display in a searchable interface\n\n3. If someone builds this and it's halfway decent, we would consider adding more formal APIs / public category mapping, etc.\n\nReference:\nhttps://blueskydirectory.com/starter-packs/all",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 429,
+          "hash": "0x6d3ee384d06ec698946319334e4b890012727446"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x6d3ee384d06ec698946319334e4b890012727446",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 429,
+            "username": "czar",
+            "display_name": "czar ",
+            "pfp_url": "https://lh3.googleusercontent.com/X0af6snDGRShmvCYTza1s0WXDssHuvXV5lsQOv-8E_dWTlo89CbZ1gd-Ty5yaLNEZ6klrswNjHU_lPybSAep336eDxY9Ik7L0uC8aw",
+            "custody_address": "0x9e7ba560417a462066d711069bc28629e972448c"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x6d3ee384d06ec698946319334e4b890012727446",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "A starter pack of starter packs. Who is building this?",
+          "timestamp": "2024-11-28T16:04:33.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      },
+      {
+        "url": "https://blueskydirectory.com/starter-packs/all",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://blueskydirectory.com/starter-packs/all",
+            "ogType": "website",
+            "favicon": "/favicon-32x32.png",
+            "ogImage": [
+              {
+                "url": "https://blueskydirectory.com/og/og-starter-packs.png",
+                "type": "png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Bluesky Starter Packs - Bluesky Directory",
+            "ogLocale": "en",
+            "ogSiteName": "The Ultimate Directory of tools and applications for Bluesky",
+            "ogDescription": "Browse a list of Bluesky Starter Packs. Discover and connect with your community on Bluesky"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2b8eba31",
+    "url": "https://warpcast.com/dwr.eth/0x2b8eba31",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-04",
+    "show_title": "GM Farcaster ep189 Tuesday December 3, 2024 with special guest @dwr.eth",
+    "source_episode_id": "TPkN94OgAog",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-11-30T18:48:09.000Z",
+    "text": "Reminder — take control of your home feed with muted words and users\n\n- If you add $ as a mute, you'll mute *all* casts with tokens\n\n- If you add $token as a mute, it will mute casts with that specific token\n\n- If you add a domain or URL as a mute, it will mute all casts with that frame\n\n- If you mute a user, you'll also mute casts that mention them, e.g. anon accounts or token deploying accounts\n\nhttps://warpcast.com/~/settings/muted-keywords",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/~/settings/muted-keywords",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/~/settings/muted-keywords",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://warpcast.com/og-logo.png",
+                "type": "png",
+                "width": "512",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast",
+            "ogDescription": "Muted words"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x50a21418",
+    "url": "https://warpcast.com/dwr.eth/0x50a21418",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-04",
+    "show_title": "GM Farcaster ep189 Tuesday December 3, 2024 with special guest @dwr.eth",
+    "source_episode_id": "TPkN94OgAog",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-11-27T17:09:11.000Z",
+    "text": "Improvements for muted keywords and users\n\n- If you add $ as a mute, you'll mute *all* casts with tokens\n\n- If you add $token as a mute, it will mute casts with that specific token\n\n- If you mute a user, you'll also mute casts that mention them, e.g. anon accounts or token deploying accounts\n\nClick the link below to deeplink into settings:\n\nhttps://warpcast.com/~/settings/muted-keywords",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/~/settings/muted-keywords",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/~/settings/muted-keywords",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://warpcast.com/og-logo.png",
+                "type": "png",
+                "width": "512",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast",
+            "ogDescription": "Muted words"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xed883e6e",
+    "url": "https://warpcast.com/proxystudio.eth/0xed883e6e",
+    "author_username": "proxystudio.eth",
+    "show_date": "2024-12-04",
+    "show_title": "GM Farcaster ep189 Tuesday December 3, 2024 with special guest @dwr.eth",
+    "source_episode_id": "TPkN94OgAog",
+    "author_fid": 270504,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+    "cast_date": "2024-11-27T16:54:20.000Z",
+    "text": "Category: /farconomy \nProject: @clanker | cofounders me + @dish\nTags: network, social, agent, coin\nNotes: One of the hardest things about building when no one cares is trying to make enough noise that even a few people will try your product. When many people care, one of the hardest things for me has been blocking out the noise, staying focused on our vision and goals. \n\nWe built clanker to validate a thesis: memecoins belong where people post memes, agents make complicated stuff simple. We think pump clones will die, and are building a different model. \n\nv0 is a start, we are building a team, iterating around what a free to use consumer product can do for crypto, social, and the open internet. \n\nthere is a lot to share about the path ahead, the entities & people involved. appreciate all the feedback and support from FC",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4013,
+          "hash": "0x85566d1774a7730140583ead1b5bd4cfe19eb534"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x85566d1774a7730140583ead1b5bd4cfe19eb534",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4013,
+            "username": "luc",
+            "display_name": "luc",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/364f7c96-fd30-4558-570c-f11ced1cc700/rectcrop3",
+            "custody_address": "0xcd4694d2e4ec0a84467114e4ab09579a318571c5"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x85566d1774a7730140583ead1b5bd4cfe19eb534",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/farconomy",
+          "root_parent_url": "https://warpcast.com/~/channel/farconomy",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "added @clanker to the farconomy dashboard\n\nover $7m in revenue generated for the ecosystem in less than two weeks, with over 4.2k clankers launched\n\nexceptional founders' ability to make money is the single most important indicator for influx of new founders and users in farcaster\n\nfarconomy.com tracks the leading indicators of the farcaster economy",
+          "timestamp": "2024-11-27T16:36:49.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/01f5de45-0dda-43a7-5f9a-b0313c18c300/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 186053,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1954,
+                  "height_px": 1516
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farconomy",
+            "name": "farconomy",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66c88291-7deb-4b87-1f24-ae74ed98ee00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb0a8ed06",
+    "url": "https://warpcast.com/dwr.eth/0xb0a8ed06",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-04",
+    "show_title": "GM Farcaster ep189 Tuesday December 3, 2024 with special guest @dwr.eth",
+    "source_episode_id": "TPkN94OgAog",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-12-03T00:40:58.000Z",
+    "text": "If Crypto: The Game was any indication,  games that will naturally do quite well on social networks will work well with just powerful social / strategy dynamics.\n\nAnother idea in this vein is taking a complex, long game like Diplomacy and finding something that's shorter time wise and works well enough async.\n\nAnd then add money to it.\n\ne.g. https://www.boardgamequest.com/intrigue/",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xbdbf4ad74ac290a751d2e80bcf3459bbfc045b7f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbdbf4ad74ac290a751d2e80bcf3459bbfc045b7f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xbdbf4ad74ac290a751d2e80bcf3459bbfc045b7f",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/someone-build",
+          "root_parent_url": "https://warpcast.com/~/channel/someone-build",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "A channel-based Mafia / Werewolf / Avalon game.\n\nWinner(s) gets money.\n\nMaybe ZK helps solve.",
+          "timestamp": "2024-11-20T19:34:06.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "someone-build",
+            "name": "someone-build",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63906b1b-8db7-4a03-809d-75a243665500/original"
+          }
+        }
+      },
+      {
+        "url": "https://www.boardgamequest.com/intrigue/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 31452,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.boardgamequest.com/intrigue/",
+            "oembed": {
+              "html": "<blockquote class=\"wp-embedded-content\" data-secret=\"gERoJE1X4x\"><a href=\"https://www.boardgamequest.com/intrigue/\">Intrigue Review</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://www.boardgamequest.com/intrigue/embed/#?secret=gERoJE1X4x\" width=\"600\" height=\"338\" title=\"&#8220;Intrigue Review&#8221; &#8212; Board Game Quest\" data-secret=\"gERoJE1X4x\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script type=\"text/javascript\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n/* ]]> */\n</script>\n",
+              "type": "rich",
+              "title": "Intrigue Review",
+              "width": 600,
+              "height": 338,
+              "method": "auto-discovery",
+              "version": "1.0",
+              "provider_url": "https://www.boardgamequest.com",
+              "provider_name": "Board Game Quest",
+              "thumbnail_url": "https://www.boardgamequest.com/wp-content/uploads/2012/06/pic182825_md.jpg",
+              "thumbnail_width": 376,
+              "thumbnail_height": 500
+            },
+            "ogDate": "2013-12-15T15:38:05-06:00",
+            "ogType": "article",
+            "favicon": "https://www.boardgamequest.com/wp-content/uploads/2015/04/Favicon-New.jpg",
+            "ogImage": [
+              {
+                "alt": "Intrigue",
+                "url": "https://www.boardgamequest.com/wp-content/uploads/2012/06/pic182825_md.jpg",
+                "type": "jpg",
+                "width": "376",
+                "height": "500"
+              }
+            ],
+            "ogTitle": "Intrigue Review",
+            "ogLocale": "en_US",
+            "ogSiteName": "Board Game Quest",
+            "ogDescription": "Backstabbing. Betrayal. Underhanded deals. Welcome to the world of Intrigue. The third game on my Board GameQuest was an interesting one. 5 of us sat down to try out a new game of negotiation and…"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa64f5c46",
+    "url": "https://warpcast.com/justbuild/0xa64f5c46",
+    "author_username": "justbuild",
+    "show_date": "2024-12-04",
+    "show_title": "GM Farcaster ep189 Tuesday December 3, 2024 with special guest @dwr.eth",
+    "source_episode_id": "TPkN94OgAog",
+    "author_fid": 414955,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a2434db3-2a8c-4a96-d6e4-61c98e993200/original",
+    "cast_date": "2024-11-27T09:15:31.000Z",
+    "text": "Today I created a homage to @dwr.eth and \"the bump\". To honor of our 👑 and his dedication to bridging the generational divide 🫡",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/393887f0-7032-44d4-b7bb-d386fd2c9ba8.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 480,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 20.754086
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

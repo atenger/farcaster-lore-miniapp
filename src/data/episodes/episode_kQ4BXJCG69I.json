@@ -1,0 +1,953 @@
+[
+  {
+    "cast_hash": "0x6557744a",
+    "url": "https://warpcast.com/dwr.eth/0x6557744a",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-14T16:48:33.000Z",
+    "text": "Decentralizing channels work in progress\n\nWe're planning a 2 phase migration for decentralizing channels:\n\n1. Clean up Warpcast-only channel features — next week or so\n2. Decentralize into the protocol — 2-3 months\n\nhttps://warpcast.notion.site/Public-v2-Decentralized-Channels-535ffce48c95413ea81bc89d6170fd99",
+    "embeds": [
+      {
+        "url": "https://warpcast.notion.site/Public-v2-Decentralized-Channels-535ffce48c95413ea81bc89d6170fd99",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.notion.site/Public-v2-Decentralized-Channels-535ffce48c95413ea81bc89d6170fd99",
+            "ogType": "article",
+            "favicon": "https://warpcast.notion.site/images/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2F1f6e9458-324b-4676-bc72-4410db872ee4%2FScreenshot_2024-05-13_at_4.40.16_PM.png?table=block&id=b35cfa02-cde2-4d86-8172-c319d94bd943&width=2000&userId=&cache=v2",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "[Public v2] Decentralized Channels  | Notion",
+            "ogLocale": "en_US",
+            "ogSiteName": "Warpcast on Notion",
+            "ogDescription": "This is a rough draft and not final. \n\nThere are some new channel concepts being proposed, like moderation and channel bots, and other existing channel concepts that we are recommending to be deprecated, like hide cast and channel passes.\n\nPlease provide feedback via DC to @dwr"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfae777e6",
+    "url": "https://warpcast.com/dwr.eth/0xfae777e6",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-14T22:25:03.000Z",
+    "text": "What's changing about channels",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d2a2f59-21ef-478b-d8a7-eefe83c8e200/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 229040,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1120,
+            "height_px": 1166
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x6557744ab899b50bee3b5cb5d2ed15051c0d9519"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x6557744ab899b50bee3b5cb5d2ed15051c0d9519",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x6557744ab899b50bee3b5cb5d2ed15051c0d9519",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Decentralizing channels work in progress\n\nWe're planning a 2 phase migration for decentralizing channels:\n\n1. Clean up Warpcast-only channel features — next week or so\n2. Decentralize into the protocol — 2-3 months\n\nhttps://warpcast.notion.site/Public-v2-Decentralized-Channels-535ffce48c95413ea81bc89d6170fd99",
+          "timestamp": "2024-05-14T16:48:33.000Z",
+          "embeds": [
+            {
+              "url": "https://warpcast.notion.site/Public-v2-Decentralized-Channels-535ffce48c95413ea81bc89d6170fd99",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://warpcast.notion.site/Public-v2-Decentralized-Channels-535ffce48c95413ea81bc89d6170fd99",
+                  "ogType": "article",
+                  "favicon": "https://warpcast.notion.site/images/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2F1f6e9458-324b-4676-bc72-4410db872ee4%2FScreenshot_2024-05-13_at_4.40.16_PM.png?table=block&id=b35cfa02-cde2-4d86-8172-c319d94bd943&width=2000&userId=&cache=v2",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "[Public v2] Decentralized Channels  | Notion",
+                  "ogLocale": "en_US",
+                  "ogSiteName": "Warpcast on Notion",
+                  "ogDescription": "This is a rough draft and not final. \n\nThere are some new channel concepts being proposed, like moderation and channel bots, and other existing channel concepts that we are recommending to be deprecated, like hide cast and channel passes.\n\nPlease provide feedback via DC to @dwr"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-updates",
+            "name": "fc-updates",
+            "image_url": "https://i.imgur.com/YnnrPaH.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x452a3aa5",
+    "url": "https://warpcast.com/deodad/0x452a3aa5",
+    "author_username": "deodad",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 6841,
+    "author_pfp": "https://i.imgur.com/dMoIan7.jpg",
+    "cast_date": "2024-05-15T01:39:44.000Z",
+    "text": "the permissionless channel proposal unlocks channel owner's ability to monetize their channel with advertising via a moderation rule that allows advertisers to pay for inclusion\n\nad marketplaces that you can opt into just like that and monetize that sweet attention across every Farcaster client\n\nthis is crazy shift",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa6f20075",
+    "url": "https://warpcast.com/dwr.eth/0xa6f20075",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-15T02:53:13.000Z",
+    "text": "Here's a concrete example of where the proposed moderation model for channels:\n\n1. More control over the main feed algo\n\n2. Includes the existing concept of hosts\n\n3. Expands the pool based on simple (hold an asset) and advanced (recipient of a successful Nouns proposal) onchain criteria \n\n4. Less work :)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c30fe31b-61b2-44e9-154e-3f1f00b1c800/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 609833,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2092,
+            "height_px": 1738
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4708265c",
+    "url": "https://warpcast.com/dwr.eth/0x4708265c",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-14T20:33:22.000Z",
+    "text": "Channel gating ideas\n\nPeople are going to get very creative.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e4265f27-f534-4232-a50b-b9245dfd5000/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 366920,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1542,
+            "height_px": 1812
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x50b45762",
+    "url": "https://warpcast.com/matthew/0x50b45762",
+    "author_username": "matthew",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 473,
+    "author_pfp": "https://i.imgur.com/uwD4rUh.jpg",
+    "cast_date": "2024-05-14T20:50:00.000Z",
+    "text": "event rsvp-gated channels? 👀",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x4708265c287331c94bb78f251ee79afa2b76dbe1"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4708265c287331c94bb78f251ee79afa2b76dbe1",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4708265c287331c94bb78f251ee79afa2b76dbe1",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-devs",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-devs",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Channel gating ideas\n\nPeople are going to get very creative.",
+          "timestamp": "2024-05-14T20:33:22.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e4265f27-f534-4232-a50b-b9245dfd5000/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 366920,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1542,
+                  "height_px": 1812
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-devs",
+            "name": "Farcaster Devs",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a0a4802-6819-47ee-2c3b-29b681d7c500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x46d7e7f7",
+    "url": "https://warpcast.com/dwr.eth/0x46d7e7f7",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-14T21:07:09.000Z",
+    "text": "Like Substack's community product, but built in a permissionless and composable way :)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 378,
+          "hash": "0x301e0e6e4fb88581a242e4b57e19b9384860c764"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x301e0e6e4fb88581a242e4b57e19b9384860c764",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 378,
+            "username": "colin",
+            "display_name": "Colin",
+            "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+            "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x301e0e6e4fb88581a242e4b57e19b9384860c764",
+          "parent_hash": null,
+          "parent_url": "https://paragraph.xyz",
+          "root_parent_url": "https://paragraph.xyz",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Would you want a channel only for your Paragraph subscribers?\n\nOnly subscribers could create new casts and/or reply.",
+          "timestamp": "2024-05-14T20:45:24.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 3,
+                "hash": "0x4708265c287331c94bb78f251ee79afa2b76dbe1"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x4708265c287331c94bb78f251ee79afa2b76dbe1",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "paragraph",
+            "name": "Paragraph",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8c0daefa-6f36-43f4-07ea-aedd6a495a00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8d92a20e",
+    "url": "https://warpcast.com/dwr.eth/0x8d92a20e",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-15T03:57:00.000Z",
+    "text": "The new channel proposal enables channel legos\n\n- Channel owners have the freedom to mix and match tools and settings\n\n- Enables developers to build businesses at different parts of the channel stack, e.g. economic layer is now open season vs. current centralized channel pass model",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8872c919-b41b-4a74-c2ef-fc928c508600/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 239121,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2036,
+            "height_px": 1386
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x90167dc9",
+    "url": "https://warpcast.com/dwr.eth/0x90167dc9",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-14T19:45:47.000Z",
+    "text": "10 free ideas to build on Farcaster\n\nI suspect there are some interesting microbusinesses to be built with frames / actions / direct casts.\n\nSending an email newsletter would have a low open rate. But sending a tailored link via direct cast every day or 1x a week could be extremely high open rate.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8703d561-239c-4fed-dc75-f26207906c00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 188984,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1096,
+            "height_px": 1052
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x064207be",
+    "url": "https://warpcast.com/rish/0x064207be",
+    "author_username": "rish",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 194,
+    "author_pfp": "https://i.imgur.com/naZWL9n.gif",
+    "cast_date": "2024-05-14T20:39:56.000Z",
+    "text": "reach out if you’re building any of these and we can help 🪐",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x90167dc9bd85c8102fda7a33897af169a0580ed3"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x90167dc9bd85c8102fda7a33897af169a0580ed3",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x90167dc9bd85c8102fda7a33897af169a0580ed3",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/someone-build",
+          "root_parent_url": "https://warpcast.com/~/channel/someone-build",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "10 free ideas to build on Farcaster\n\nI suspect there are some interesting microbusinesses to be built with frames / actions / direct casts.\n\nSending an email newsletter would have a low open rate. But sending a tailored link via direct cast every day or 1x a week could be extremely high open rate.",
+          "timestamp": "2024-05-14T19:45:47.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8703d561-239c-4fed-dc75-f26207906c00/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 188984,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1096,
+                  "height_px": 1052
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "someone-build",
+            "name": "someone-build",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63906b1b-8db7-4a03-809d-75a243665500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4367e7c1",
+    "url": "https://warpcast.com/betashop.eth/0x4367e7c1",
+    "author_username": "betashop.eth",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 602,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5e14f7a-a60d-4aeb-3496-55305ecdd500/original",
+    "cast_date": "2024-05-14T14:40:30.000Z",
+    "text": "many requests to turn Social Capital Score into Social Capital Rank  \n\nwe're thinking it over \n\nin meantime, here's some distribution data, and top 50\n\nReminder: this only measures user's influence, nothing more\n\ncheck your score on airstack or in this frame from @markcarey \nhttps://warpcast.com/markcarey/0x52cff010",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dba15aea-6a04-4792-72e7-641769969a00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 30390,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 592,
+            "height_px": 258
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8f55c6f2-871b-4a5c-6ff1-a597a32c6900/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 200122,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 574,
+            "height_px": 1476
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa93f0a27",
+    "url": "https://warpcast.com/zinger/0xa93f0a27",
+    "author_username": "zinger",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 1407,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/def58dd1-1eba-4976-87de-8f6a4767b400/original",
+    "cast_date": "2024-05-14T18:00:17.000Z",
+    "text": "Looking for a couple more sponsors to round out an epic NYC pizza party next week, shoot me a DC if you’re down! 🍕",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 9474,
+          "hash": "0x73ff0a340cc48a6239147ff4854c273469ec8254"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x73ff0a340cc48a6239147ff4854c273469ec8254",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 9474,
+            "username": "addigator",
+            "display_name": "addie",
+            "pfp_url": "https://i.imgur.com/LWlmxuo.jpg",
+            "custody_address": "0x4ee157e360b2a71241a543bc4060cc772dd07c85"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x2af7dc55c361de37396d58cd848dda787924d7f7",
+          "parent_hash": "0xe4264285cec1e7267d01caea0cdef13d8e5d13a5",
+          "parent_url": null,
+          "root_parent_url": "chain://eip155:1/erc721:0xfdd5e7949bd72c95907c46a630d2c791f0e842c6",
+          "parent_author": {
+            "fid": 16041
+          },
+          "text": "can confirm there will be a very dope party May 22 from 6-9pm at ARTHOUSE.NYC 😉 roped @zinger in as our resident nyc pizza authority too (much love ser!) \n\nhad a slight change of plans to sponsors so still have room if anyone wants in, plz DC me or @zinger!",
+          "timestamp": "2024-05-14T17:15:17.000Z",
+          "embeds": [
+            {
+              "url": "http://ARTHOUSE.NYC",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": 17953,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.arthouse.nyc",
+                  "ogType": "website",
+                  "favicon": "https://images.squarespace-cdn.com/content/v1/5720db6a62cd94c301e23a35/33923326-6c61-40a9-9fa4-57eae60cd162/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "http://static1.squarespace.com/static/5720db6a62cd94c301e23a35/t/63d20577bef55a726e9e977b/1674708344041/WH_LOGO_WEB_INSIDE.png?format=1500w",
+                      "type": "png",
+                      "width": "97",
+                      "height": "111"
+                    }
+                  ],
+                  "ogTitle": "ARTHOUSE.NYC",
+                  "ogLocale": "en-US",
+                  "ogSiteName": "ARTHOUSE.NYC",
+                  "ogDescription": "gallery • event planning • event space • NYC accommodations"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "new-york",
+            "name": "NYC",
+            "image_url": "https://i.seadn.io/gcs/files/48399e13b30e401d90c3c61a0065e02a.png?auto=format&dpr=1&w=512"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x370e05e4",
+    "url": "https://warpcast.com/macedo/0x370e05e4",
+    "author_username": "macedo",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 8446,
+    "author_pfp": "https://i.imgur.com/YgNTMUI.jpg",
+    "cast_date": "2024-05-14T11:20:06.000Z",
+    "text": "Ready to play /build game? \n\nEach player will have a budget of BUILD to distribute, based on their reputation as an onchain builder. \n\nTo prevent abuse the budget formula is secret, but there are 3 key factors to calculate it:\n\n1. Builder Score passport.talentprotocol.com\n2. BUILD nominations received\n3. $BUILD tokens",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d9a1c55b-10d4-42b4-e79e-9e51014d6400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 1332942,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2880,
+            "height_px": 1692
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x446ade8a",
+    "url": "https://warpcast.com/adrienne/0x446ade8a",
+    "author_username": "adrienne",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-05-15T01:00:36.000Z",
+    "text": "Trend alert: slow \n\nFirst there was /slowcore-hq by @trishd and @danicaswanson and now /slow-co-lab by @slowcrypto \n\nCheck them out and let me know what you think.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3872,
+          "hash": "0x5927f3cf49acaa4be6e5bd90b9c559fa26a078e7"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5927f3cf49acaa4be6e5bd90b9c559fa26a078e7",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3872,
+            "username": "slowcrypto",
+            "display_name": "_slow_crypto 🌅⏳🪁",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/76d6ee72-7636-47b7-d6fd-6126f0a2d600/original",
+            "custody_address": "0xa1b4e33bace4806c215bb0f8ca76b659a96adef8"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5927f3cf49acaa4be6e5bd90b9c559fa26a078e7",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/slow-co-lab",
+          "root_parent_url": "https://warpcast.com/~/channel/slow-co-lab",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Welcome to SlowCoLab, a place for thoughtful (co)creation. \n\nFirst, we need some channel norms, so:\n\nSuggest a norm, set the tone, join for season 0.\n\n👀",
+          "timestamp": "2024-05-10T18:00:40.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4d98498-50e4-45a5-619c-425177a03900/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 258616,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 3200,
+                  "height_px": 1228
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "slow-co-lab",
+            "name": "SlowCoLab",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a38aa1d8-b32d-4bd1-6d58-36e364df5600/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb569bc6f",
+    "url": "https://warpcast.com/adrienne/0xb569bc6f",
+    "author_username": "adrienne",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-05-14T19:35:03.000Z",
+    "text": "Idea: NYC Writing Hackathon, Onchain Summer\n\n1 day, 20-25 ppl, split into teams of 1-4, publish an essay onchain on a selected Farcaster topic. Applicants must show proof of prior work (blogs, newsletter, art, etc.)\n\nAll I need is a company with office space to host, I can coordinate everything else.  Reply or DM 🫡",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1951fff8",
+    "url": "https://warpcast.com/rish/0x1951fff8",
+    "author_username": "rish",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 194,
+    "author_pfp": "https://i.imgur.com/naZWL9n.gif",
+    "cast_date": "2024-05-14T23:18:50.000Z",
+    "text": "so wait what is this 🍦 thing?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf248a1ac",
+    "url": "https://warpcast.com/heavygweit/0xf248a1ac",
+    "author_username": "heavygweit",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 20270,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa6a9c8a-ade1-496b-2534-c9b6f7a1cf00/original",
+    "cast_date": "2024-05-14T22:08:51.000Z",
+    "text": "2 months since obtaining cofounder status\n\n~1 month away from demo day\n\ni completely understand now why steve jobs only had one outfit",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9d32f12f",
+    "url": "https://warpcast.com/bored/0x9d32f12f",
+    "author_username": "bored",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 3417,
+    "author_pfp": "https://i.imgur.com/UJiQAXu.jpg",
+    "cast_date": "2024-05-13T19:28:47.000Z",
+    "text": "You can play Boregon Trail now! Don't die!\n\nOn desktop, any wallet works.\nOn mobile, you must have Coinbase wallet (for now).\nhttps://boredbored.framesframes.xyz/api",
+    "embeds": [
+      {
+        "url": "https://boredbored.framesframes.xyz/api",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://boredbored.framesframes.xyz/intro.gif",
+                "type": "gif"
+              }
+            ],
+            "ogTitle": "Frog Frame",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x567e75ce",
+    "url": "https://warpcast.com/willyogo/0x567e75ce",
+    "author_username": "willyogo",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 822634,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd28070f-04f2-42be-5bcc-1c7e18ab5500/original",
+    "cast_date": "2024-09-22T09:30:58.000Z",
+    "text": "tnq my dear fren♥️",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcec51ff8",
+    "url": "https://warpcast.com/slokh/0xcec51ff8",
+    "author_username": "slokh",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 3887,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bcde483c-6e7e-4f6a-b254-b5e12e642d00/original",
+    "cast_date": "2024-05-14T19:34:46.000Z",
+    "text": "As part of this we’re deprecating all custom feeds. \n\nWe’ve found most people are using them as lists so instead we’re adding a lists feature that we can integrate throughout the app in a better and more performant way.\n\nThere’s more to that, but I’ll leave that for tomorrow :)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3887,
+          "hash": "0xf2c6197fdfcbf059fd0de0f1fda57a2792bd3589"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf2c6197fdfcbf059fd0de0f1fda57a2792bd3589",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3887,
+            "username": "slokh",
+            "display_name": "Kartik",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bcde483c-6e7e-4f6a-b254-b5e12e642d00/original",
+            "custody_address": "0x333601a803cac32b7d17a38d32c9728a93b422f4"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 262426,
+            "username": "nook",
+            "display_name": "nook",
+            "pfp_url": "https://i.imgur.com/IB6Gn4I.png",
+            "custody_address": "0x94bac74ec80c25fd5f19a76f2cd74a46d6618c3a"
+          },
+          "thread_hash": "0xf2c6197fdfcbf059fd0de0f1fda57a2792bd3589",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/nook",
+          "root_parent_url": "https://warpcast.com/~/channel/nook",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Planning on launching the updated version of @nook tomorrow. It feels much smoother and faster with a lot of the bugs from the current version fixed.\n\nPlease share any other feedback so we can incorporate it into the launch!",
+          "timestamp": "2024-05-14T19:30:58.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "nook",
+            "name": "nook",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac6d0946-094b-4a93-811c-58b472eca700/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x48e5e415",
+    "url": "https://warpcast.com/orangedao/0x48e5e415",
+    "author_username": "orangedao",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 2023,
+    "author_pfp": "https://i.imgur.com/OSjZxVe.jpg",
+    "cast_date": "2024-05-13T22:41:40.000Z",
+    "text": "Introducing the 🌍’s 1st Farcaster Frame for VC fundraising!\n\nFor the 1st time ever, you can apply for funding & receive up to $100k all within a Frame. 🍊 DAO is the largest founder community in crypto & we’re excited to do more with the FC ecosystem. \n\nhttps://testframe-app.vercel.app/examples/testform/frames",
+    "embeds": [
+      {
+        "url": "https://testframe-app.vercel.app/examples/testform/frames",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://testframe-app.vercel.app/examples/testform/images?time=1736719755984&jsx=%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22style%22%3A%7B%22display%22%3A%22flex%22%2C%22flexDirection%22%3A%22column%22%2C%22justifyContent%22%3A%22center%22%2C%22alignItems%22%3A%22center%22%7D%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22style%22%3A%7B%22color%22%3A%22%23ff9632%22%2C%22fontSize%22%3A%2245px%22%2C%22fontWeight%22%3A%22700%22%2C%22textAlign%22%3A%22center%22%2C%22padding%22%3A%220+100px%22%2C%22fontFamily%22%3A%22Press+Start+2P%22%7D%2C%22children%22%3A%5B%22Orange+DAO+Fellowship%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22style%22%3A%7B%22color%22%3A%22%23646262%22%2C%22fontSize%22%3A%2234px%22%2C%22fontWeight%22%3A%22500%22%2C%22lineHeight%22%3A%2240px%22%2C%22textAlign%22%3A%22center%22%2C%22margin%22%3A%2240px+0+%22%7D%2C%22children%22%3A%5B%22Join+the+best+founder+community+in+crypto.%22%5D%7D%7D%2C%7B%22type%22%3A%22p%22%2C%22props%22%3A%7B%22style%22%3A%7B%22color%22%3A%22%239e9e9e%22%2C%22fontSize%22%3A%2234px%22%2C%22fontFamily%22%3A%22Space+Mono%22%2C%22fontWeight%22%3A%22400%22%2C%22textAlign%22%3A%22center%22%2C%22lineHeight%22%3A%2240px%22%2C%22margin%22%3A%220+130px%22%7D%2C%22children%22%3A%5B%22100k+investment.+2%25+program+fee.+0F4+Deadline%3A+Friday+May+31st%2C+2024%22%5D%7D%7D%5D%7D%7D%5D&aspectRatio=1.91%3A1&signature=31751c8b210526fbd7fd40bf5205cf8befc225878d05fcaa8cccb25e05d86586"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xccd659ba",
+    "url": "https://warpcast.com/downshift/0xccd659ba",
+    "author_username": "downshift",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xae35ae1d",
+    "url": "https://warpcast.com/ccarella.eth/0xae35ae1d",
+    "author_username": "ccarella.eth",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x3c802b82",
+    "url": "https://warpcast.com/ccarella.eth/0x3c802b82",
+    "author_username": "ccarella.eth",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-05-15",
+    "show_title": "GM Farcaster ep105, May 15, 2024",
+    "source_episode_id": "kQ4BXJCG69I",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

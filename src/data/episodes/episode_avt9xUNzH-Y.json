@@ -1,0 +1,894 @@
+[
+  {
+    "cast_hash": "0x29be2cd7",
+    "url": "https://farcaster.xyz/giuseppe/0x29be2cd7",
+    "author_username": "giuseppe",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 18989,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57af40b6-c3bc-4688-7e82-6adbfdead700/rectcrop3",
+    "cast_date": "2025-06-13T05:40:40.000Z",
+    "text": "Reality of writing a recipe down on a busy day ",
+    "embeds": [
+      {
+        "url": "https://img.uno.fun/joFSQ7e21K7rlnwxnxA68wbMA01Db4glppni-c2CIMs/rs:fit:0:0/q:100/Z3M6Ly91bm8taW1hZ2VzLXYwLzAxSlhLV1RYNTZSUzYxUDFORkFUQlA4UFlDLmpwZw.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 4865736,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3024,
+            "height_px": 4032
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfab3857d",
+    "url": "https://farcaster.xyz/christopher/0xfab3857d",
+    "author_username": "christopher",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 4085,
+    "author_pfp": "https://img.uno.fun/NVLTATDRhLYWmXRhanaeUyb1kivtwtaw-qswwF5TuWk/rs:fit:0:0/f:jpg/Z3M6Ly91bm8taW1hZ2VzLXYwLzAxSlNNVldQNDJTNFpTTkIzU1dTNjQ3U0MyLmF2aWY",
+    "cast_date": "2025-06-12T19:24:32.000Z",
+    "text": "GCP is having major disruptions (affecting Claude, which I had no clue was built on). We built all our infra ourselves and managed within our own k8s clusters.\n\nSo we're totally unaffected! Wild what such a small team can manage all this with a little bit of elbow grease.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd26f8832",
+    "url": "https://farcaster.xyz/tayyab/0xd26f8832",
+    "author_username": "tayyab",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 66,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04ad2f2e-0625-4125-cdc5-aacec3749c00/rectcrop3",
+    "cast_date": "2025-06-12T18:56:18.000Z",
+    "text": "FC runs on Alibaba Cloud",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 197007,
+          "hash": "0x6f0e00397d2d16bda1875b88c8fc2af82deecc89"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x6f0e00397d2d16bda1875b88c8fc2af82deecc89",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 197007,
+            "username": "btayengco",
+            "display_name": "Bryce",
+            "pfp_url": "https://i.imgur.com/EITOCJn.jpg",
+            "custody_address": "0xae05c12e9ef2c5f7ff627b1c5da7bef29c489f62"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x6f0e00397d2d16bda1875b88c8fc2af82deecc89",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "PURPLE APP AINT DOWN",
+          "timestamp": "2025-06-12T18:37:38.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9aa0b92d",
+    "url": "https://farcaster.xyz/adrienne/0x9aa0b92d",
+    "author_username": "adrienne",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-06-12T18:59:55.000Z",
+    "text": "Time to test those assumptions",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 66,
+          "hash": "0xe6b84628e7c005cc51d0138c59292631498752b2"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe6b84628e7c005cc51d0138c59292631498752b2",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 66,
+            "username": "tayyab",
+            "display_name": "Tayyab - d/acc",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04ad2f2e-0625-4125-cdc5-aacec3749c00/rectcrop3",
+            "custody_address": "0x9207401977012d588ce4181f8df26402f2514450"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe6b84628e7c005cc51d0138c59292631498752b2",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "AWS / GCP down, time to see which chain ⛓️‍💥 goes down",
+          "timestamp": "2025-06-12T18:26:50.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd7573bef",
+    "url": "https://farcaster.xyz/pfista/0xd7573bef",
+    "author_username": "pfista",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 451,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35ff884b-a727-46ff-9241-5652d35a3100/rectcrop3",
+    "cast_date": "2025-06-12T18:54:36.000Z",
+    "text": "guys i didn't even notice the internet outage i've just been chillin in figma",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb7de81e7",
+    "url": "https://farcaster.xyz/jj/0xb7de81e7",
+    "author_username": "jj",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 4479,
+    "author_pfp": "https://i.imgur.com/llkHVKm.jpg",
+    "cast_date": "2025-06-12T18:43:55.000Z",
+    "text": "The Entire Internet is having an outage",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6f0e0039",
+    "url": "https://farcaster.xyz/btayengco/0x6f0e0039",
+    "author_username": "btayengco",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 197007,
+    "author_pfp": "https://i.imgur.com/EITOCJn.jpg",
+    "cast_date": "2025-06-12T18:37:38.000Z",
+    "text": "PURPLE APP AINT DOWN",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x726e4f9d",
+    "url": "https://farcaster.xyz/horsefacts.eth/0x726e4f9d",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2025-06-12T19:10:12.000Z",
+    "text": "PSA that this Cloudflare outage is impacting media uploads",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 359,
+          "hash": "0xc88faf4614e88343491c7707a66ee0001eb717e5"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc88faf4614e88343491c7707a66ee0001eb717e5",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 359,
+            "username": "pushix",
+            "display_name": "Nicholas Charriere",
+            "pfp_url": "https://lh3.googleusercontent.com/v58dn3Qon30ikaovcRc_91qg8UdIAuDEcbBPkMxP6DP2eOvdGs96azCsUomVJIbeElIMx9hQdlNFrZf7ujWVE6fZkM8QaEPG8Km6sQ=s120",
+            "custody_address": "0x60c22bb5109ae2139b781e67d18d936144c5bf3a"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc88faf4614e88343491c7707a66ee0001eb717e5",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "everything is down",
+          "timestamp": "2025-06-12T18:32:36.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/042ff628-0633-4bdb-5cd6-a626038dbe00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 470939,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1059,
+                  "height_px": 1381
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa6ad0fdc",
+    "url": "https://farcaster.xyz/henri/0xa6ad0fdc",
+    "author_username": "henri",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 59,
+    "author_pfp": "https://i.seadn.io/gae/hw9D90jed4cAAoQoKZZTJKUpKrYQBIjhwF-rLqlx0vKVmPVYtn7qfr1Uk9cnxkc7aFIfYRV-Mo1oErmAGsd_xwnhofjfWhdWYeQFWQ?w=500&auto=format",
+    "cast_date": "2025-06-11T15:13:27.000Z",
+    "text": "1/ Hi Farcaster Fam!\n\nToday, we're proud to announce that Stripe is acquiring Privy.\n\nWe couldn’t be more excited.\n\nPrivy continues as an independent product – but now we’ll move faster, ship more, and serve you even better, so you can stay focused on your users.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/edb6b93c-7acf-4713-1ad0-3dbebd07a100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 768687,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1250
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf1f86503",
+    "url": "https://farcaster.xyz/henri/0xf1f86503",
+    "author_username": "henri",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 59,
+    "author_pfp": "https://i.seadn.io/gae/hw9D90jed4cAAoQoKZZTJKUpKrYQBIjhwF-rLqlx0vKVmPVYtn7qfr1Uk9cnxkc7aFIfYRV-Mo1oErmAGsd_xwnhofjfWhdWYeQFWQ?w=500&auto=format",
+    "cast_date": "2025-06-11T18:06:39.000Z",
+    "text": "This is going to be very good for my Farcaster Rewards!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3570beef-05f9-4ba8-0164-358ea5586100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 142915,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1206,
+            "height_px": 218
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e2e16ed",
+    "url": "https://farcaster.xyz/henri/0x5e2e16ed",
+    "author_username": "henri",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 59,
+    "author_pfp": "https://i.seadn.io/gae/hw9D90jed4cAAoQoKZZTJKUpKrYQBIjhwF-rLqlx0vKVmPVYtn7qfr1Uk9cnxkc7aFIfYRV-Mo1oErmAGsd_xwnhofjfWhdWYeQFWQ?w=500&auto=format",
+    "cast_date": "2025-06-12T02:04:19.000Z",
+    "text": "Good lord -- by far the most exciting part of my week.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c3d71fdd-65cf-454a-1234-ef0b3f507d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 94048,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 744,
+            "height_px": 510
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xabcc17c6",
+    "url": "https://farcaster.xyz/debbie/0xabcc17c6",
+    "author_username": "debbie",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 1628,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/61321600-eb11-4ccb-e5f7-6ed519f6b000/original",
+    "cast_date": "2025-06-12T20:40:43.000Z",
+    "text": "stole @segall’s photo so i could show how much we all love @henri",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/447e3f52-ce52-488f-7177-b79b3dae2a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 449242,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x27d2982d",
+    "url": "https://farcaster.xyz/pichi/0x27d2982d",
+    "author_username": "pichi",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 234616,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/343ce6bb-b2d3-4f7c-1359-deba9af91000/original",
+    "cast_date": "2025-06-11T18:09:26.000Z",
+    "text": "I won’t pretend to even know what @privy does or how to works, but I love it because I used to have a lot of issues with wallets and apps and getting them connected. And suddenly many of my apps just worked like magic and when I asked why, the developers said, “oh, we moved to Privy”. \n\nPrivy just makes stuff work like magic. I’m here for it. Congrats team. Hope you all get rich!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x37fd67b4",
+    "url": "https://farcaster.xyz/adrienne/0x37fd67b4",
+    "author_username": "adrienne",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-06-11T16:22:05.000Z",
+    "text": "\"Privy got acquired by Stripe, and I, who neither works at Privy nor Stripe can't focus on work because I'm too excited about the news\"\n\nIf this is your reaction too, don't worry it's totally normal.\n\nAt FarCon 2023 I gave a lightning talk about Farcaster as the ultimate scenius, and one of the characteristics of scenius is the **network effects of success** \n\n\"When a breakthrough erupts, the success is claimed by the entire scene.\"\n\n🎉 🎉 🎉 🎉 \n\nScenius Slides: https://docs.google.com/presentation/d/1NlaW0gTPEGn1LCgcbvANUC8p5YBvNSWs2kMFdNKkDyk/edit?slide=id.p7#slide=id.p7",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 616,
+          "hash": "0xcdab31eea822bfcec0db255eaf93465db0a6e85e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xcdab31eea822bfcec0db255eaf93465db0a6e85e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 616,
+            "username": "dylsteck.eth",
+            "display_name": "dylan",
+            "pfp_url": "https://zku9gdedgba48lmr.public.blob.vercel-storage.com/basenames/avatar/dylsteck.base.eth/1724182478110/ds-logo-white-bg-LjfhiIB4NhZTVF0hTjv3E87lih5Qbu.png",
+            "custody_address": "0x5e79f690ccd42007d5a0ad678cd47474339400e3"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 309857,
+            "username": "baseapp.base.eth",
+            "display_name": "Base app",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05c00f8a-3374-40b4-249c-7cc70a260500/original",
+            "custody_address": "0x20c5cfecc0d1e03d2511aec13ea016f552d639b7"
+          },
+          "thread_hash": "0xcdab31eea822bfcec0db255eaf93465db0a6e85e",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "how am I supposed to go back to coding now, I can’t stop thinking/scrolling through posts about this Privy news!!",
+          "timestamp": "2025-06-11T15:31:11.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 616,
+                "hash": "0xf138db3b751aba660b4208fec2b1b726dc368f35"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xf138db3b751aba660b4208fec2b1b726dc368f35",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 616
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 309857
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://docs.google.com/presentation/d/1NlaW0gTPEGn1LCgcbvANUC8p5YBvNSWs2kMFdNKkDyk/edit?slide=id.p7#slide=id.p7",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://docs.google.com/presentation/d/1NlaW0gTPEGn1LCgcbvANUC8p5YBvNSWs2kMFdNKkDyk/edit?slide=id.p7&usp=embed_facebook",
+            "ogType": "article",
+            "favicon": "https://ssl.gstatic.com/docs/presentations/images/favicon-2023q4.ico",
+            "ogImage": [
+              {
+                "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyJjBPmcax0CY0qC6pcw1fAR53PM5Vu6altBHBRxApkZvtEpOEB2Y0HSU31oDwAiqQ3iizLCuWgy32kiQc7WgKQhjNAHE7dz1HhIVtTAQB_jVs3ZDVU=w1200-h630-p",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Farcaster is a Scenius",
+            "ogLocale": "en",
+            "ogSiteName": "Google Docs",
+            "ogDescription": "Farcaster as a scenius @adrienne 1"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7a73db6c",
+    "url": "https://farcaster.xyz/mleejr/0x7a73db6c",
+    "author_username": "mleejr",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 18085,
+    "author_pfp": "https://i.imgur.com/llGElqg.png",
+    "cast_date": "2025-06-12T04:14:23.000Z",
+    "text": "icymi grok has a @base.base.eth wallet secured by @privy which was just acquired by stripe…\n\nstripe is the largest privately held fintech company in the world…\n\n$90+ billion valuation…processed $1.4 trillion in payments vol in 2024.\n\ngrok’s wallet secured by privy earns fees in realtime every single day and it’s quickly approaching 7-figures in earnings. \n\nan autonomous machine that earns, scales, and secures itself…\n\nh/t @bankr @clanker",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d3abf8a-f5da-4c49-86ef-70d708b3d200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 45855,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 788
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd4d86a60",
+    "url": "https://farcaster.xyz/chaim.eth/0xd4d86a60",
+    "author_username": "chaim.eth",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 1504,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2d479166-4901-4054-21fc-bd1fb34bf300/rectcrop3",
+    "cast_date": "2025-06-11T20:17:20.000Z",
+    "text": "cool to see all the stories hit the timeline of so many people's experiences with the @privy team. such a strong through line of genuine care for every team and product they work with\n\nive only collaborated a bit with privy and still ive seen just how caring @segall is - dude is in every comment section out there!\n\nbig congrats",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xba62e9e2",
+    "url": "https://farcaster.xyz/barmstrong/0xba62e9e2",
+    "author_username": "barmstrong",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 20,
+    "author_pfp": "https://i.imgur.com/4t3zVHj.jpg",
+    "cast_date": "2025-06-12T22:35:04.000Z",
+    "text": "This is what the new Coinbase One Card looks like. Very cool - each one is metal and engraved with the genesis block.\n\nIt's also the first crypto credit card powered by American Express. With cashback paid in bitcoin, of course.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 21773,
+          "hash": "0xe803cf61e5566d00eee2fb261e48b22daed7c931"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe803cf61e5566d00eee2fb261e48b22daed7c931",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 21773,
+            "username": "coinbase",
+            "display_name": "Coinbase",
+            "pfp_url": "https://i.imgur.com/Rdj8kks.jpg",
+            "custody_address": "0xaa0cdffda98f9d8b360cbd6eb353faaf1d20e46f"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe803cf61e5566d00eee2fb261e48b22daed7c931",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Introducing the Coinbase One Card.\nEarn up to 4% bitcoin back on every purchase.\n\nPowered by American Express network.\nComing fall 2025.\n\nGet early access. https://www.coinbase.com/creditcard",
+          "timestamp": "2025-06-12T19:27:07.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.farcaster.xyz/v1/video/01976590-09cf-e43d-1c9b-3e78670b590c.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1080,
+                      "width_px": 1920,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 720,
+                      "width_px": 1280,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 480,
+                      "width_px": 852,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 360,
+                      "width_px": 640,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 240,
+                      "width_px": 426,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 34
+                }
+              }
+            },
+            {
+              "url": "https://www.coinbase.com/creditcard",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.coinbase.comhttps://www.coinbase.com/creditcard",
+                  "ogType": "website",
+                  "favicon": "https://www.coinbase.com/assets/sw-cache/a_B4aDYo-G.png",
+                  "ogImage": [
+                    {
+                      "url": "https://ctf-images-01.coinbasecdn.net/voaboiz0ig30/1suOZKjwEyfNnhcHfoEZrO/3f9c083ab8f797a40f7949e82afa3f52/250611_CB1_creditcard_socialmedia_thumbail_1200x630px_MC.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Coinbase One Card",
+                  "ogLocale": "en",
+                  "ogDescription": "Earn up to 4% bitcoin back on every purchase. Learn more."
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01976647-cf53-36d6-fb8d-861cbd0eac8f.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 5.19
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfdef85e",
+    "url": "https://farcaster.xyz/dylsteck.eth/0xfdef85e",
+    "author_username": "dylsteck.eth",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x3193cca0",
+    "url": "https://farcaster.xyz/dylsteck.eth/0x3193cca0",
+    "author_username": "dylsteck.eth",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 616,
+    "author_pfp": "https://zku9gdedgba48lmr.public.blob.vercel-storage.com/basenames/avatar/dylsteck.base.eth/1724182478110/ds-logo-white-bg-LjfhiIB4NhZTVF0hTjv3E87lih5Qbu.png",
+    "cast_date": "2025-06-12T19:00:42.000Z",
+    "text": "pay with USDC on Base in Shopify stores! extremely based\n\nhttps://x.com/base/status/1933236681836282171?s=46&t=8l54n7dYtHePgMrhGh-cUw",
+    "embeds": [
+      {
+        "url": "https://b891d14d436694bb9a7feeba91730b95.ipfscdn.io/ipfs/QmfFpEeztrspgGRr7Azn831VgN5sAAnvimjg91bx8gfxTE",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 423023,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1000,
+            "height_px": 562
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 616,
+          "hash": "0xfdef85e604c4c68d5f07776e3cc61c571081decf"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xfdef85e604c4c68d5f07776e3cc61c571081decf",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 616,
+            "username": "dylsteck.eth",
+            "display_name": "dylan",
+            "pfp_url": "https://zku9gdedgba48lmr.public.blob.vercel-storage.com/basenames/avatar/dylsteck.base.eth/1724182478110/ds-logo-white-bg-LjfhiIB4NhZTVF0hTjv3E87lih5Qbu.png",
+            "custody_address": "0x5e79f690ccd42007d5a0ad678cd47474339400e3"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 309857,
+            "username": "baseapp.base.eth",
+            "display_name": "Base app",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05c00f8a-3374-40b4-249c-7cc70a260500/original",
+            "custody_address": "0x20c5cfecc0d1e03d2511aec13ea016f552d639b7"
+          },
+          "thread_hash": "0xfdef85e604c4c68d5f07776e3cc61c571081decf",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "gm, really excited about the state of crypto summit which just started!! livestream below",
+          "timestamp": "2025-06-12T14:11:24.000Z",
+          "embeds": [
+            {
+              "url": "https://x.com/coinbase/status/1933161912444797385?s=46&t=8l54n7dYtHePgMrhGh-cUw",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "oembed": {
+                    "url": "https://twitter.com/coinbase/status/1933161912444797385",
+                    "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The future of money is here.<br><br>We&#39;re live from State of Crypto Summit. <a href=\"https://t.co/tZtNMZ53ep\">https://t.co/tZtNMZ53ep</a></p>&mdash; Coinbase 🛡️ (@coinbase) <a href=\"https://twitter.com/coinbase/status/1933161912444797385?ref_src=twsrc%5Etfw\">June 12, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+                    "type": "rich",
+                    "width": 550,
+                    "height": null,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "cache_age": "3153600000",
+                    "author_url": "https://twitter.com/coinbase",
+                    "author_name": "Coinbase 🛡️",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter"
+                  },
+                  "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                      "type": "svg"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "X (formerly Twitter)"
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3abdd9a6",
+    "url": "https://farcaster.xyz/rish/0x3abdd9a6",
+    "author_username": "rish",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 194,
+    "author_pfp": "https://i.imgur.com/naZWL9n.gif",
+    "cast_date": "2025-06-12T19:19:46.000Z",
+    "text": "Have always wanted a competitive crypto credit card\n\n- 4% back in crypto (matches top cards in the market)\n- Bitcoin Genesis block engraved in 17g metal \n\nSigned up immediately\n\nhttps://x.com/coinbase/status/1933237429193806033?s=46",
+    "embeds": [
+      {
+        "url": "https://x.com/coinbase/status/1933237429193806033?s=46",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/coinbase/status/1933237429193806033",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Introducing the Coinbase One Card.<br>Earn up to 4% bitcoin back on every purchase.<br><br>Powered by <a href=\"https://twitter.com/AmericanExpress?ref_src=twsrc%5Etfw\">@AmericanExpress</a> network.<br>Coming fall 2025. <a href=\"https://t.co/XfGXIGuj42\">pic.twitter.com/XfGXIGuj42</a></p>&mdash; Coinbase 🛡️ (@coinbase) <a href=\"https://twitter.com/coinbase/status/1933237429193806033?ref_src=twsrc%5Etfw\">June 12, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/coinbase",
+              "author_name": "Coinbase 🛡️",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3881805c",
+    "url": "https://farcaster.xyz/coinbase/0x3881805c",
+    "author_username": "coinbase",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 21773,
+    "author_pfp": "https://i.imgur.com/Rdj8kks.jpg",
+    "cast_date": "2025-06-12T21:31:23.000Z",
+    "text": "Our asset universe is about to get a whole lot bigger.\n\nDEX trading is coming.\n\nToday, Coinbase users can trade hundreds of assets. \n\nBut soon, you’ll be able to trade thousands of @base.base.eth assets within moments of them going live — all within the Coinbase app.",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0197660b-c304-e784-674c-d80893793e99.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 28.597993
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x198dc9e0",
+    "url": "https://farcaster.xyz/octant/0x198dc9e0",
+    "author_username": "octant",
+    "show_date": "2025-06-14",
+    "show_title": "GM Farcaster ep258 Friday June 13, 2025 with guest cohost @erica",
+    "source_episode_id": "avt9xUNzH-Y",
+    "author_fid": 18203,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9853f821-1390-4ed5-4217-a46a65aa4400/original",
+    "cast_date": "2025-05-22T13:32:31.000Z",
+    "text": "gm gm ❤️\n\nWe're finally ready to unveil Epoch 8.\n\n🥁🥁🥁 This epoch is an Ethereum-core alignment epoch. It's a special one because it's a major step in our broader roadmap to contribute to Ethereum's growth.\n\nLike Epoch 7, there's no snapshot. Our internal reviewers will select projects based on impact and relevance.\n\nAllocation window remains the same. ETH rewards are time-weighted and allocating to projects get you matched\n\n🗓Application Deadline: 3 June, 2025 @ 11:59 pm PST\n\n🛠 Who should apply?\nBuilders advancing Ethereum in 4 core areas:\n\n1) Direct protocol improvements (consensus, execution, data availability, core networking)\n\n2) Shared infrastructure (clients, testnets & tooling, p2p networking stacks, security & formal-verification frameworks, transparency)\n\n3) Open dashboards, datasets, or studies (roll-ups, bridges, MEVs -  resulting insights must strengthen Ethereum)\n\n4) Protocol-level research + specification work (advancing Ethereum's roadmap)\n\nApp link + eligibility criteria 👇",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/513cad0a-2c1e-4483-68d1-1f88aaaad100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 366582,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1920,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

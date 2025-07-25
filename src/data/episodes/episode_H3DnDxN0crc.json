@@ -1,0 +1,1028 @@
+[
+  {
+    "cast_hash": "0x7eb8a5fa",
+    "url": "https://warpcast.com/zachharris.eth/0x7eb8a5fa",
+    "author_username": "zachharris.eth",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 10351,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2054eab4-3f19-4d9e-94ec-70329fba0600/original",
+    "cast_date": "2025-03-26T22:56:30.000Z",
+    "text": "@adrienne talking about /gmfarcaster at the @base.base.eth meetup in NYC. First time meeting IRL. \n\nWould recommend.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/54345e7f-f196-4b0d-41ef-8073b0780500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 462250,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1125
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bbec3fa7-fb3b-4dba-0442-3c64f81aaa00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 632238,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x74dbd6a1",
+    "url": "https://warpcast.com/rachelw/0x74dbd6a1",
+    "author_username": "rachelw",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 14396,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmfMJyNCATvCnXrchAuNvLzxatRpRSYPnsUfaHF17RF46U?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-04-01T00:50:02.000Z",
+    "text": "How your email finds me…",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d4ee0953-67e7-4611-c638-4c2d9f77c100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 229904,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1284,
+            "height_px": 1328
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf0baceaf",
+    "url": "https://warpcast.com/adrienne/0xf0baceaf",
+    "author_username": "adrienne",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-03-31T20:04:30.000Z",
+    "text": "if you choose 5 get ready to be doxxed because we WILL be livestreaming the entire flight",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2417,
+          "hash": "0xe17d5728c0429fe71d40d339b3ecb81fcf272c67"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe17d5728c0429fe71d40d339b3ecb81fcf272c67",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2417,
+            "username": "robot",
+            "display_name": "robot",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3933efd9-8a97-4c1c-0616-3aa04cc1f900/original",
+            "custody_address": "0x2f26b3dd9bb28c702a538bb8077712f1247f0946"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe17d5728c0429fe71d40d339b3ecb81fcf272c67",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+          "root_parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "8 hour flight to farcon nyc, where are you sitting?",
+          "timestamp": "2025-03-31T15:01:03.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9fe1d597-2193-4038-5fcf-b6ec4ca01800/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 230919,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1200,
+                  "height_px": 1179
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "memes",
+            "name": "Memes",
+            "image_url": "https://i.seadn.io/gcs/files/1f4acfc1e6831eb38e9453ce34ac79f8.png?auto=format&dpr=1&w=512"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x341758b2",
+    "url": "https://warpcast.com/dwr.eth/0x341758b2",
+    "author_username": "dwr.eth",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-03-31T16:36:26.000Z",
+    "text": "Introducing Tips\n\n- Once a week, we summarize the people on the network you interact with the most\n\n- You can opt-in to sending them a $1 USDC tip by tapping\n\n- We batch all the tips in a single transaction\n\n- Shout out to @woj and @blockheim for the quick ship!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e19bc8a3-6dbd-406c-5557-855830ed9b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 381795,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1903
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2e01b881",
+    "url": "https://warpcast.com/pugson/0x2e01b881",
+    "author_username": "pugson",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 557,
+    "author_pfp": "https://i.seadn.io/gae/5hjYfRyqiRJV4EQ7ieSJrmb1LtO_vcAvREXSqnlY4HXXBsvgh1vumOwj5e4GwGhppEU2jLC9qJHEgEkaJ9V_B02jIFY9XmzgK1_F?w=500&auto=format",
+    "cast_date": "2025-03-31T17:55:18.000Z",
+    "text": "new attack vector to make you like me",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1048,
+          "hash": "0x73891abd95ee3b9962afe9014a8c5994d16adf14"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x73891abd95ee3b9962afe9014a8c5994d16adf14",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1048,
+            "username": "macbudkowski",
+            "display_name": "Mac Budkowski",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a43231ca-1d8d-4563-c9b3-6a8e934c2a00/original",
+            "custody_address": "0x66cc8f831f2a05fde7573f18ba6abfef8ad59d34"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x73891abd95ee3b9962afe9014a8c5994d16adf14",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "why are people sending me 1 usdc",
+          "timestamp": "2025-03-31T17:52:42.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4348ba5e-44a8-4633-4f18-e0f4111fe500/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 75625,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1080,
+                  "height_px": 403
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2c1a50c3",
+    "url": "https://warpcast.com/woj.eth/0x2c1a50c3",
+    "author_username": "woj.eth",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2025-04-01T15:22:34.000Z",
+    "text": "tipping monday is over!\n\nwe had 5292 successful tips yesterday\n\nthanks for sharing and having fun together\n\nwhat should we add or change for the next one?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x115c95eb",
+    "url": "https://warpcast.com/horsefacts.eth/0x115c95eb",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2025-03-31T17:48:01.000Z",
+    "text": "One of the fastest ways to dox yourself as a cryptopleb is to ask \"why am I getting free money on Farcaster today?\"\n\nIt is preordained. On any given day it needs no reasons.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 20384,
+          "hash": "0x74f4e24e2ca9ec55e17fe0e2b2a3376913b4be0a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x74f4e24e2ca9ec55e17fe0e2b2a3376913b4be0a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 20384,
+            "username": "itsbasil",
+            "display_name": "basil (propagation arc)",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dbad7d82-d1a2-4bc4-dcfc-5bdb23de2500/original",
+            "custody_address": "0x2236920cbdaabbe6f02811a648b9ed30a022c7dd"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x74f4e24e2ca9ec55e17fe0e2b2a3376913b4be0a",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "why are my friends sending me a dollar each?",
+          "timestamp": "2025-03-31T17:28:07.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc09e2bb5",
+    "url": "https://warpcast.com/bradq/0xc09e2bb5",
+    "author_username": "bradq",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-04-01T17:41:51.000Z",
+    "text": "** Rewards Leaderboard Results **\n\n* @erica takes #1 for the first time & holds the 'Vibe Tribe Queen' title\n\n* @afrochicks (self-professed 'vibe caster') takes #2 again. \nShe has 🥇 🥈 🥈 \n\n* @six takes #3 & Bert @bertwurst.eth takes #4 to pay for farcon stickers 🐾\n@garrett keeps his streak alive at #7, even though he claims it's going to end 😁 \n\n* Now, we have a 'vibe tribe' situation... @esteez.eth takes #8 & newly minted member @caitcavell makes a late move to first top 10! But @keccers.eth finishes #11 for (I think) the third time 😞 & @samantha #12 almost makes first top 10. \n\n* @crayonseason.eth takes #30 riding the gpt high & @robhardy takes the coveted #69\n\n* Keep celebrating with first-timers & those moving up the leaderboard; it's a big deal to them when they cast about it",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66154079-91af-4513-cf37-e4f7b340d000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 207018,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 812,
+            "height_px": 1340
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xddfc06cf",
+    "url": "https://warpcast.com/bradq/0xddfc06cf",
+    "author_username": "bradq",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-04-01T23:26:16.000Z",
+    "text": "Celebrating First Time Rewards Winners & New Tier 🥳 🎉 \n\nAdd yourself or someone else so we can celebrate 🎈 \n\nFirst time: @rinanicolae #13 $100! @chanzy10 @novaninja.eth @clayman @saikkeey @ekondu.eth @aley @dirtykumquats \n\nNew tier: @coinempress $25 @omgidrawedit",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3218760e-e1c4-4fca-1be7-5841ce1a3800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 232641,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1118
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x47b69f75",
+    "url": "https://warpcast.com/dwr.eth/0x47b69f75",
+    "author_username": "dwr.eth",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-04-01T18:32:25.000Z",
+    "text": "Warpcast monthly rewards pay outs in USDC",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4dda5404-d70a-4b51-5831-0c7022569d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 108766,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1994,
+            "height_px": 912
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8c3a89e6",
+    "url": "https://warpcast.com/winny/0x8c3a89e6",
+    "author_username": "winny",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 7878,
+    "author_pfp": "https://i.imgur.com/UfCyf86.jpg",
+    "cast_date": "2025-04-01T20:11:23.000Z",
+    "text": "I get a minimum 1m impressions a month on twitter and have never made a cent off the platform so yes the $25 notification here brings me joy",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x237a127a",
+    "url": "https://warpcast.com/0xl/0x237a127a",
+    "author_username": "0xl",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 9198,
+    "author_pfp": "https://i.imgur.com/rxKC1sz.jpg",
+    "cast_date": "2025-04-01T20:56:45.000Z",
+    "text": "This week on Farcaster I earned:\n\n~$5 from Warpcast Rewards\n~$3 from tips\n~$7 from predicting on @ponder \n~$12 from airdrops\n\nTotal: ~$27\n\nEarnings from Twitter over the past 7 years: $0",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5321b9d9",
+    "url": "https://warpcast.com/dwr.eth/0x5321b9d9",
+    "author_username": "dwr.eth",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-04-01T18:46:28.000Z",
+    "text": "Top 25 earning creators (so far)\n\nThe only person I knew before starting Farcaster was @jesse.base.eth \n\nsomething something status as a service creating new stars on a new social network proof of work something something",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/79792bec-392d-4e9c-2734-001a4ef07a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 288082,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 384,
+            "height_px": 1264
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa511c2b8",
+    "url": "https://warpcast.com/jimmynorules/0xa511c2b8",
+    "author_username": "jimmynorules",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 1020654,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/91abc463-6a2c-4337-c3a3-30f1d9c56200/rectcrop3",
+    "cast_date": "2025-04-01T23:59:47.000Z",
+    "text": "All this time I’ve been here, and I just now realized there’s an evil twin version of @dwr.eth running around. \n\nFeels like I missed a major plot twist.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 784003,
+          "hash": "0xe667e972ccd644fa94452038bcf8000e3ec8fc9f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe667e972ccd644fa94452038bcf8000e3ec8fc9f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 784003,
+            "username": "randomerror.eth",
+            "display_name": "Ran Domero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e1e987e6-d865-4fe0-dd71-58f95baedb00/original",
+            "custody_address": "0x8e15b339a94c34d6d947f2766cf7df939ca31636"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb0857cb50b527a74016369716b835dadf0dda8b0",
+          "parent_hash": "0x0cfa0444bac20c5ec91a9b48d055a5316914f0b1",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 510796
+          },
+          "text": "shut up",
+          "timestamp": "2025-03-31T17:36:31.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb4d639f6",
+    "url": "https://warpcast.com/v/0xb4d639f6",
+    "author_username": "v",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-04-01T17:34:34.000Z",
+    "text": "If you are running a Farcaster Hub in production (i.e. would be really mad if it stopped working), could you please reply? \n\nWe want to make sure we reach out and help you through the Snapchain migration.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaa3fe6c3",
+    "url": "https://warpcast.com/base/0xaa3fe6c3",
+    "author_username": "base",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 12142,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce5460f6-40a2-4486-47c1-7801e4033e00/original",
+    "cast_date": "2025-03-31T22:06:29.000Z",
+    "text": "Introducing MiniKit 🤏 ✨\n\nThe easiest way to build mini apps.\n\nBuild once. Publish on Warpcast + @baseapp.base.eth. Finding new users is that easy.\n\nGet started: https://docs.base.org/builderkits/minikit/overview",
+    "embeds": [
+      {
+        "url": "https://docs.base.org/builderkits/minikit/overview",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://docs.base.org",
+            "ogType": "website",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "/images/base-docs-og.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "MiniKit | Getting started",
+            "ogLocale": "en",
+            "ogDescription": "Easiest way to build Mini Apps on Base"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x118e7b63",
+    "url": "https://warpcast.com/sohey/0x118e7b63",
+    "author_username": "sohey",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 20390,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/587b5b44-e4b2-4c04-17d1-e65d803d2800/original",
+    "cast_date": "2025-03-29T12:15:56.000Z",
+    "text": "Hey base dutchies!\n\nI’ll be doing a minikit workshop this Wednesday!!! It will be online and would love to see you there \n\nhttps://lu.ma/8qvx4ya3",
+    "embeds": [
+      {
+        "url": "https://lu.ma/8qvx4ya3",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://lu.ma/8qvx4ya3",
+            "ogType": "article",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://social-images.lu.ma/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=419/api/event-one?calendar_avatar=https%3A%2F%2Fcdn.lu.ma%2Favatars-default%2Fcommunity_avatar_7.png&calendar_name&color0=%23070707&color1=%23b43aa5&color2=%23ececed&color3=%23434045&host_avatar=https%3A%2F%2Fcdn.lu.ma%2Favatars-default%2Favatar_37.png&host_name=Soheima%20Canton%20%28CTR%29&img=https%3A%2F%2Fimages.lumacdn.com%2Fevent-covers%2Fum%2F4145f972-dd00-49b5-9e90-08b303579f9d.png&name=Base%20DevRel%20presents%3A%20MiniKit%20vibes%20edition",
+                "width": "800",
+                "height": "419"
+              }
+            ],
+            "ogTitle": "Base DevRel presents: MiniKit vibes edition · Luma",
+            "ogLocale": "en",
+            "ogDescription": "Join us for the Minikit Vibes Edition — a casual, hands-on session designed to help you kick off your journey with MiniKit, the fastest way to build and grow…"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x83c6c409",
+    "url": "https://warpcast.com/kaufman/0x83c6c409",
+    "author_username": "kaufman",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x70b77c92",
+    "url": "https://warpcast.com/mazmhussain/0x70b77c92",
+    "author_username": "mazmhussain",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 758919,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e95b6f64-1d2d-4ac2-1d50-d2c9304e0100/original",
+    "cast_date": "2025-04-01T20:46:35.000Z",
+    "text": "I cosign all of the below. I go back and forth about how I feel about crypto in general but its just a nice place to post, and, unlike Twitter, it doesn't suppress my Substack links, which I deeply appreciate.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1015455,
+          "hash": "0x83c6c409a8e4b9cb58987cb248665e085d0676fc"
+        },
+        "cast": {}
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe01a9b4a",
+    "url": "https://warpcast.com/dwr.eth/0xe01a9b4a",
+    "author_username": "dwr.eth",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-04-01T16:29:19.000Z",
+    "text": "If you're building a company that's strongly economically-tied to Farcaster's success, mind replying here?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x177a746b",
+    "url": "https://warpcast.com/aviationdoctor.eth/0x177a746b",
+    "author_username": "aviationdoctor.eth",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 7237,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5e8ddd60-c492-453f-3708-d6ef258b7300/original",
+    "cast_date": "2025-04-02T03:36:42.000Z",
+    "text": "One thing I enjoy about Farcaster is the large presence of people who build things.\n\nHalf of the time, I don’t understand what they’re trying to build, don’t get the vision, and/or don’t think there’s any viable business case.\n\nBut that hardly matters — partly because I may be wrong in my assessment, and partly because the bigger picture is that these people have skin in the game.\n\nIt’s easy to partake in an online community of circle-jerkers that engage in abstract philosophistry, drop vacuous platitudes, and vaguepost their way to strategic ambivalence. In fact bots can now do that faster and cheaper than humans, expanding milquetoast content to a singularity.\n\nAt least builders put their money where their mouth is — that brings a degree of authenticity and grit to the network. Even if they are wrong, they’ll remain true.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9902a553",
+    "url": "https://warpcast.com/eulerlagrange.eth/0x9902a553",
+    "author_username": "eulerlagrange.eth",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 16148,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d20697e6-f714-4c5a-aad3-5ba1da907100/rectcrop3",
+    "cast_date": "2025-04-02T01:18:21.000Z",
+    "text": "https://x.com/dabit3/status/1907240734714921053?s=46",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8eecea5f-d525-4df0-86e3-669bf3e63d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 101561,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1206,
+            "height_px": 1061
+          }
+        }
+      },
+      {
+        "url": "https://x.com/dabit3/status/1907240734714921053?s=46",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/dabit3/status/1907240734714921053",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">I’m learning to never underestimate you. Excited to see what happens.</p>&mdash; nader dabit (@dabit3) <a href=\"https://twitter.com/dabit3/status/1907240734714921053?ref_src=twsrc%5Etfw\">April 2, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/dabit3",
+              "author_name": "nader dabit",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe0a0a0e6",
+    "url": "https://warpcast.com/dwr.eth/0xe0a0a0e6",
+    "author_username": "dwr.eth",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-04-01T20:08:54.000Z",
+    "text": "If you’re looking for more breaking news in your feed, consider following \n\n@unusualwhales",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x308e8fd3",
+    "url": "https://warpcast.com/esteez.eth/0x308e8fd3",
+    "author_username": "esteez.eth",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 17571,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15501d1c-e40f-4303-c8f6-a13b425c8b00/original",
+    "cast_date": "2025-04-01T16:12:59.000Z",
+    "text": "Voting closes in 6 days + is open to the entire Farcaster network!!\n\nWorth reading through all of the proposed topics + casting (ha..) your vote 🫶  \n\nhttps://app.deform.cc/form/a9c6ccd2-580e-452a-9145-6b9c6505b7a7/",
+    "embeds": [
+      {
+        "url": "https://app.deform.cc/form/a9c6ccd2-580e-452a-9145-6b9c6505b7a7/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://app.deform.cc/form/a9c6ccd2-580e-452a-9145-6b9c6505b7a7",
+            "favicon": "https://assets.deform.cc/production/910c4531-44bc-4872-bf01-9ce255a56831.png",
+            "ogImage": [
+              {
+                "url": "https://assets.deform.cc/production/33d6ba72-2995-4a19-b1d2-0ca1606092e8.jpeg",
+                "type": "jpeg"
+              }
+            ],
+            "ogTitle": "Hi! We're glad to have you here!",
+            "ogLocale": "en",
+            "ogDescription": "We will be using ranked choice voting for this year's community talks at the\nFarCon Summit. Please take the time to read through all of the talks and then\npick your top six talks. Voting will close Monday, April 7 at noon EST.\nEach talk will be professionally produced and posted this year -- so voting is\nopen to everyone on Farcaster, not just Summit attendees :)\nThank you for being a member of the Farcaster community!"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcc0dcaa0",
+    "url": "https://warpcast.com/nounishprof/0xcc0dcaa0",
+    "author_username": "nounishprof",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-04-01T13:29:06.000Z",
+    "text": "everyone on here is so nice 💜\n\n*except that one guy…",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0x91965350da6c8be610f9672d2fb3b80a798221d1"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x91965350da6c8be610f9672d2fb3b80a798221d1",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x91965350da6c8be610f9672d2fb3b80a798221d1",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "everyone on here is so nice 💚",
+          "timestamp": "2025-04-01T11:47:16.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 2745,
+                "hash": "0xc7b1484e6af3c7e906f09ed281f82c00fcb3b65d"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xc7b1484e6af3c7e906f09ed281f82c00fcb3b65d",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 2745
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x53de6063",
+    "url": "https://warpcast.com/nounishprof/0x53de6063",
+    "author_username": "nounishprof",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-04-02T14:06:38.000Z",
+    "text": "Cute! maybe I should send some $ghiblify to the minters to match your cute digital tees @jc4p —and frame worked smoothly!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b919f6bc-5ad2-4c44-e868-5b89e517d300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 130590,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 1271
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 977233,
+          "hash": "0x9e93dc98a1713f0d35a29ba375b32a208234d5f1"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x9e93dc98a1713f0d35a29ba375b32a208234d5f1",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 977233,
+            "username": "jc4p",
+            "display_name": "Kasra Rahjerdi",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+            "custody_address": "0xa67ba0281231eb9e2ea4cf97894c0b0b5b801cc6"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9e93dc98a1713f0d35a29ba375b32a208234d5f1",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Hi hi testing a new open source repo for a simple mintable static image, it is 50¢\n\nI think? it works? Let me know!\n\nWill include GitHub repos in the next cast!\n\nhttps://ghiblification-survivor.kasra.codes/",
+          "timestamp": "2025-04-01T21:47:26.000Z",
+          "embeds": [
+            {
+              "url": "https://ghiblification-survivor.kasra.codes/",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": 841,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogTitle": "Ghiblification Survivor",
+                  "ogLocale": "en",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Mint NFT",
+                      "action": {
+                        "url": "https://ghiblification-survivor.kasra.codes/",
+                        "name": "Ghiblification Survivor",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://cover-art.kasra.codes/ghibli-survivor-square.png",
+                        "splashBackgroundColor": "#0C6FA6"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://cover-art.kasra.codes/ghibli-survivor-rectangle.png"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Mint NFT",
+                  "image": "https://cover-art.kasra.codes/ghibli-survivor-rectangle.png",
+                  "frames_url": "https://ghiblification-survivor.kasra.codes/",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 977233,
+                    "username": "jc4p",
+                    "display_name": "Kasra Rahjerdi",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+                    "custody_address": "0xa67ba0281231eb9e2ea4cf97894c0b0b5b801cc6"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjk3NzIzMywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGE2N0JhMDI4MTIzMWVCOUUyZWE0Y0Y5Nzg5NGMwYjBiNUI4MDFDYzYifQ",
+                      "payload": "eyJkb21haW4iOiJnaGlibGlmaWNhdGlvbi1zdXJ2aXZvci5rYXNyYS5jb2RlcyJ9",
+                      "signature": "MHg4Zjk0YjY0MTgyZTZjZjAwYTBkZWVkMTIyZDYxMDM2ZWI5Y2Y1MmYxOWQ3MzRhNjU1NzdjNTc0YWNhYzVmNmZhNjk0NDA3NDgyOGRkOGY5MmNiMGRlYmU5YzUxNzNjNmY5ODA5OGQ2N2MxZThmNWE1ZmE4MTVmODM2ODRlM2VkMjFi"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "Ghiblification Survivor",
+                      "home_url": "https://ghiblification-survivor.kasra.codes",
+                      "icon_url": "https://cover-art.kasra.codes/ghibli-survivor-square.png",
+                      "image_url": "https://cover-art.kasra.codes/ghibli-survivor-rectangle.png",
+                      "button_title": "Mint NFT",
+                      "splash_image_url": "https://cover-art.kasra.codes/ghibli-survivor-square.png",
+                      "splash_background_color": "#0C6FA6"
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "Ghiblification Survivor",
+                      "home_url": "https://ghiblification-survivor.kasra.codes",
+                      "icon_url": "https://cover-art.kasra.codes/ghibli-survivor-square.png",
+                      "image_url": "https://cover-art.kasra.codes/ghibli-survivor-rectangle.png",
+                      "button_title": "Mint NFT",
+                      "splash_image_url": "https://cover-art.kasra.codes/ghibli-survivor-square.png",
+                      "splash_background_color": "#0C6FA6"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9e93dc98",
+    "url": "https://warpcast.com/jc4p/0x9e93dc98",
+    "author_username": "jc4p",
+    "show_date": "2025-04-03",
+    "show_title": "GM Farcaster ep232 Wednesday April 2, 2025 with guest cohost Rachel Wilkins",
+    "source_episode_id": "H3DnDxN0crc",
+    "author_fid": 977233,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+    "cast_date": "2025-04-01T21:47:26.000Z",
+    "text": "Hi hi testing a new open source repo for a simple mintable static image, it is 50¢\n\nI think? it works? Let me know!\n\nWill include GitHub repos in the next cast!\n\nhttps://ghiblification-survivor.kasra.codes/",
+    "embeds": [
+      {
+        "url": "https://ghiblification-survivor.kasra.codes/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 841,
+          "_status": "RESOLVED",
+          "html": {
+            "ogTitle": "Ghiblification Survivor",
+            "ogLocale": "en",
+            "fcFrame": {
+              "button": {
+                "title": "Mint NFT",
+                "action": {
+                  "url": "https://ghiblification-survivor.kasra.codes/",
+                  "name": "Ghiblification Survivor",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://cover-art.kasra.codes/ghibli-survivor-square.png",
+                  "splashBackgroundColor": "#0C6FA6"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://cover-art.kasra.codes/ghibli-survivor-rectangle.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Mint NFT",
+            "image": "https://cover-art.kasra.codes/ghibli-survivor-rectangle.png",
+            "frames_url": "https://ghiblification-survivor.kasra.codes/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 977233,
+              "username": "jc4p",
+              "display_name": "Kasra Rahjerdi",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+              "custody_address": "0xa67ba0281231eb9e2ea4cf97894c0b0b5b801cc6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjk3NzIzMywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGE2N0JhMDI4MTIzMWVCOUUyZWE0Y0Y5Nzg5NGMwYjBiNUI4MDFDYzYifQ",
+                "payload": "eyJkb21haW4iOiJnaGlibGlmaWNhdGlvbi1zdXJ2aXZvci5rYXNyYS5jb2RlcyJ9",
+                "signature": "MHg4Zjk0YjY0MTgyZTZjZjAwYTBkZWVkMTIyZDYxMDM2ZWI5Y2Y1MmYxOWQ3MzRhNjU1NzdjNTc0YWNhYzVmNmZhNjk0NDA3NDgyOGRkOGY5MmNiMGRlYmU5YzUxNzNjNmY5ODA5OGQ2N2MxZThmNWE1ZmE4MTVmODM2ODRlM2VkMjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Ghiblification Survivor",
+                "home_url": "https://ghiblification-survivor.kasra.codes",
+                "icon_url": "https://cover-art.kasra.codes/ghibli-survivor-square.png",
+                "image_url": "https://cover-art.kasra.codes/ghibli-survivor-rectangle.png",
+                "button_title": "Mint NFT",
+                "splash_image_url": "https://cover-art.kasra.codes/ghibli-survivor-square.png",
+                "splash_background_color": "#0C6FA6"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Ghiblification Survivor",
+                "home_url": "https://ghiblification-survivor.kasra.codes",
+                "icon_url": "https://cover-art.kasra.codes/ghibli-survivor-square.png",
+                "image_url": "https://cover-art.kasra.codes/ghibli-survivor-rectangle.png",
+                "button_title": "Mint NFT",
+                "splash_image_url": "https://cover-art.kasra.codes/ghibli-survivor-square.png",
+                "splash_background_color": "#0C6FA6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

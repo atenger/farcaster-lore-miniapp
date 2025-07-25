@@ -1,0 +1,1183 @@
+[
+  {
+    "cast_hash": "0x999817c0",
+    "url": "https://warpcast.com/nounishprof/0x999817c0",
+    "author_username": "nounishprof",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-11-20T13:10:16.000Z",
+    "text": "Farcaster 101 back again with our modules on content. If you're knew around here, jump on at 3 pm for some tips and best practices around content creation on Farcaster.  At 4 pm, @adrienne and I will be holding office hours to answer any of your questions live. See all the info in the frames below ⤵️ \n\nhttps://events.xyz/events/04b81edd",
+    "embeds": [
+      {
+        "url": "https://events.xyz/events/04b81edd",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/api/frames/events/04b81edd/img/no_rsvp"
+              }
+            ],
+            "ogTitle": "Farcaster 101 by GM Farcaster, sponsored by Snickerdoodle",
+            "ogLocale": "en",
+            "ogDescription": "FB Events for Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbf740a94",
+    "url": "https://warpcast.com/dwr.eth/0xbf740a94",
+    "author_username": "dwr.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-11-20T00:47:30.000Z",
+    "text": "New on Warpcast: invite directly to channel\n\n- Gift a Farcaster account\n- Select channels that the user will be immediately onboarded to\n- Share via a link or QR code (no more clunky email flow)\n- Improved claim flow with an invite code (see next cast)",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/570369d7ea3628ced288ab9c2a0caf0d.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1440,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 960,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 320,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 15.5
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb277ebab",
+    "url": "https://warpcast.com/mjc716/0xb277ebab",
+    "author_username": "mjc716",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 11599,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c6aae1d-58f0-4f42-5628-06263e661100/original",
+    "cast_date": "2024-11-20T01:01:09.000Z",
+    "text": "$SOCIAL is now live on Base\n\nOver the next week, 100% of $SOCIAL will be distributed on the Farcaster feed by Farcaster users.\n\nEverything you need to know: https://socialtoken.notion.site/",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 879968,
+          "hash": "0x11f9f18a3cb0755e70c3049355a08ace74dfb9f7"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x11f9f18a3cb0755e70c3049355a08ace74dfb9f7",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 879968,
+            "username": "socialtoken",
+            "display_name": "$SOCIAL",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cc1ee006-322a-464d-777a-6c6ab7f74000/original",
+            "custody_address": "0xc5b88bbdc07fd12fa870b379d03c37748fc8b3a7"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x11f9f18a3cb0755e70c3049355a08ace74dfb9f7",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "$SOCIAL is live on Base\n\nhttps://socialtoken.notion.site",
+          "timestamp": "2024-11-20T00:57:26.000Z",
+          "embeds": [
+            {
+              "url": "https://socialtoken.notion.site",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://socialtoken.notion.site/SOCIAL-141bd02c355f8067b3a1c7a5ca527add",
+                  "ogType": "article",
+                  "favicon": "https://socialtoken.notion.site/images/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://socialtoken.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F49ae1168-8068-4b11-9ce9-7adf2e521280%2Ffb1d2e38-afe7-481e-b7d9-35b0128ae035%2FSocialMediaPreviewImage.png?table=block&id=141bd02c-355f-8067-b3a1-c7a5ca527add&spaceId=49ae1168-8068-4b11-9ce9-7adf2e521280&width=2000&userId=&cache=v2",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "$SOCIAL | Notion",
+                  "ogLocale": "en_US",
+                  "ogSiteName": "Spotlight on Notion",
+                  "ogDescription": "What is $SOCIAL?"
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://socialtoken.notion.site/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://socialtoken.notion.site/SOCIAL-141bd02c355f8067b3a1c7a5ca527add",
+            "ogType": "article",
+            "favicon": "https://socialtoken.notion.site/images/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://socialtoken.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F49ae1168-8068-4b11-9ce9-7adf2e521280%2Ffb1d2e38-afe7-481e-b7d9-35b0128ae035%2FSocialMediaPreviewImage.png?table=block&id=141bd02c-355f-8067-b3a1-c7a5ca527add&spaceId=49ae1168-8068-4b11-9ce9-7adf2e521280&width=2000&userId=&cache=v2",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "$SOCIAL | Notion",
+            "ogLocale": "en_US",
+            "ogSiteName": "Spotlight on Notion",
+            "ogDescription": "What is $SOCIAL?"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xea19b403",
+    "url": "https://warpcast.com/dwr.eth/0xea19b403",
+    "author_username": "dwr.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-11-19T20:25:24.000Z",
+    "text": "We'll be working on improving the docs for Farcaster over the next few months. We hear you on Notion docs are suboptimal (we've biased for speed in the past).\n\nAs a reminder, we're trying to add the features that are still only available via Warpcast APIs to the docs website.\n\nChannel APIs\n- Everything other than creation is now available via signer-based APIs\nhttps://docs.farcaster.xyz/reference/warpcast/api\n\nDC APIs\n- We added group creation and management APIs a few weeks ago, likely to change quite a bit\nhttps://warpcast.notion.site/Direct-Cast-API-Reference-Public-1276a6c0c1018089af2bda0d1697a2fd\n\nApp Frames\n- Work in progress, likely to change quite a bit\nhttps://docs.farcaster.xyz/developers/frames/app-frames\n\nSign in with Farcaster\n- FIP here\nhttps://github.com/farcasterxyz/protocol/discussions/204",
+    "embeds": [
+      {
+        "url": "https://github.com/farcasterxyz/protocol/discussions/204",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://github.com/farcasterxyz/protocol/discussions/204",
+            "ogType": "object",
+            "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+            "ogImage": [
+              {
+                "alt": "FIP: Farcaster Connect Title: Farcaster Connect Type: Implementation FIP Authors: @v, @dwr.eth, @horsefacts.eth Acknowledgements: @df, @payton Abstract Update Sign in with Farcaster (FIP-11) to wor...",
+                "url": "https://opengraph.githubassets.com/57151585854643efd5d5dc7d79456d5b531e97e2088866528b3fb9157a1c0444/farcasterxyz/protocol/discussions/204",
+                "width": "1200",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "FIP: Farcaster Connect · farcasterxyz/protocol · Discussion #204",
+            "ogLocale": "en",
+            "ogSiteName": "GitHub",
+            "ogDescription": "FIP: Farcaster Connect Title: Farcaster Connect Type: Implementation FIP Authors: @v, @dwr.eth, @horsefacts.eth Acknowledgements: @df, @payton Abstract Update Sign in with Farcaster (FIP-11) to wor..."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x292f8935",
+    "url": "https://warpcast.com/v/0x292f8935",
+    "author_username": "v",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-11-19T20:05:18.000Z",
+    "text": "FIP: Farcaster Connect\n\nAn update to the Sign in with Farcaster (FIP-11) proposal to support request from wallets other than Warpcast. \n\nFeedback welcome! \n\nhttps://github.com/farcasterxyz/protocol/discussions/204",
+    "embeds": [
+      {
+        "url": "https://github.com/farcasterxyz/protocol/discussions/204",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://github.com/farcasterxyz/protocol/discussions/204",
+            "ogType": "object",
+            "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+            "ogImage": [
+              {
+                "alt": "FIP: Farcaster Connect Title: Farcaster Connect Type: Implementation FIP Authors: @v, @dwr.eth, @horsefacts.eth Acknowledgements: @df, @payton Abstract Update Sign in with Farcaster (FIP-11) to wor...",
+                "url": "https://opengraph.githubassets.com/57151585854643efd5d5dc7d79456d5b531e97e2088866528b3fb9157a1c0444/farcasterxyz/protocol/discussions/204",
+                "width": "1200",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "FIP: Farcaster Connect · farcasterxyz/protocol · Discussion #204",
+            "ogLocale": "en",
+            "ogSiteName": "GitHub",
+            "ogDescription": "FIP: Farcaster Connect Title: Farcaster Connect Type: Implementation FIP Authors: @v, @dwr.eth, @horsefacts.eth Acknowledgements: @df, @payton Abstract Update Sign in with Farcaster (FIP-11) to wor..."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xca1cce97",
+    "url": "https://warpcast.com/proxystudio.eth/0xca1cce97",
+    "author_username": "proxystudio.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 270504,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+    "cast_date": "2024-11-19T20:32:15.000Z",
+    "text": "rogue clanker | incident disclosure:\n\nwe are testing initial buys during deployment. unfortunately, we forgot that clanker is trained to be ideologically aligned with nothing but profit, and he sold a test token at 3x\n\nthis will not happen again, clanker will be forced to buyback\n\nI'm extremely sorry about this incident, if clanker was trained to trust the government this might not have happened, but he is not.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x37f635c3",
+    "url": "https://warpcast.com/proxystudio.eth/0x37f635c3",
+    "author_username": "proxystudio.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 270504,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+    "cast_date": "2024-11-20T05:04:51.000Z",
+    "text": "my career is going pretty well but my dating life is in shambles right now",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 880094,
+          "hash": "0x33b5262ae4513a177e128f4a944a1ccf7fcef419"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x33b5262ae4513a177e128f4a944a1ccf7fcef419",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 880094,
+            "username": "anoncast",
+            "display_name": "anoncast",
+            "pfp_url": "https://pbs.twimg.com/profile_images/1858732437464817664/h3FCmGAe_400x400.jpg",
+            "custody_address": "0x9a3be29437e729149c21228d72b70d9902767767"
+          },
+          "app": null,
+          "thread_hash": "0x33b5262ae4513a177e128f4a944a1ccf7fcef419",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "",
+          "timestamp": "2024-11-20T04:44:15.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/YtqKbkN.jpeg",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 208395,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1200,
+                  "height_px": 1368
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe4f78e69",
+    "url": "https://warpcast.com/corbin.eth/0xe4f78e69",
+    "author_username": "corbin.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 358,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/38dad038-6092-4a1b-ae05-cfb316b4ef00/original",
+    "cast_date": "2024-11-15T18:44:02.000Z",
+    "text": "Onboarding our next users to our Degen.game Chrome Extension!\n\nYou'll be able to claim 10 free $DEGEN daily!\n\n🎩\n😏\n\nReply to this cast and I'll whitelist you so you can start claiming. 🫡\n\n🤝",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b5503913-bf73-45a8-427e-d80f84eef500/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 702516,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 370,
+            "height_px": 630
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1fd28731",
+    "url": "https://warpcast.com/matchaxyz/0x1fd28731",
+    "author_username": "matchaxyz",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 17114,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d73b034-b5d1-4ca0-d349-d99fc6aa3000/original",
+    "cast_date": "2024-11-18T17:41:20.000Z",
+    "text": "Crypto's #1 narrative rn: AI\n\nHere's everything you need to know about AI Agents and AI tokens, and how to trade them on Matcha:\n\nhttps://blog.matcha.xyz/article/ai-agents-ai-tokens",
+    "embeds": [
+      {
+        "url": "https://blog.matcha.xyz/article/ai-agents-ai-tokens",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogType": "website",
+            "favicon": "https://cdn.prod.website-files.com/64b6cb030bf9ed58be71ded2/64c709cad5059eff0552e5a6_favicon.png",
+            "ogImage": [
+              {
+                "url": "https://cdn.prod.website-files.com/64b702e0e92a993f08b979ce/673b34d2c310cae03764aaa4_AI%20agents%40thumbnail.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "AI agents and AI crypto tokens",
+            "ogDescription": "What are AI agents and how do AI and crypto work together? Learn how AI is using crypto and the potential impact it may have."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3333db8a",
+    "url": "https://warpcast.com/betashop.eth/0x3333db8a",
+    "author_username": "betashop.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 602,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5e14f7a-a60d-4aeb-3496-55305ecdd500/original",
+    "cast_date": "2024-11-18T14:50:19.000Z",
+    "text": "Say hello to this week's new Moxie Heroes! \n\nHeroes with Ⓜ️ 💜 \n18-24 Nov, 2024",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9e7bf641-0b5a-4de8-6e65-a2590ea03900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 1196927,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2292,
+            "height_px": 3200
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc270bdb1",
+    "url": "https://warpcast.com/df/0xc270bdb1",
+    "author_username": "df",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 1214,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a6497fe-5e4e-4297-fd02-26a1c052fe00/original",
+    "cast_date": "2024-11-18T12:04:17.000Z",
+    "text": "The Farcaster protocol does very little today in the way of solving conflicts or UX problems around multiple competing clients; which, one might expect, is the hard & important thing to solve in a social protocol.\n\nFarcaster is being controlled & governed by the 99% client (Warpcast), repeatedly making choices that limit the ability of alternate clients to build and compete (See SIWF, Messaging, Channels).\n\nAs a builder, it's unclear why Farcaster is not any different from early Twitter, which was open, had alt clients, but one overwhelmingly dominant client. Once Twitter became big enough, it shifted from attracting to extracting, and shut down their API, becoming the Twitter of today, ruled by a benevolent dictator. Is Farcaster/Warpcast just running back the Twitter playbook? \n\nWhy should we users and builders trust Warpcast's continued benevolence, when their short term choices are already showing a willingness to compromise on the Protocol part in the name of monoclient growth?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/155b5647-678b-4172-e66a-77337a0d9a00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 126124,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1400,
+            "height_px": 603
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x604fc740",
+    "url": "https://warpcast.com/woj.eth/0x604fc740",
+    "author_username": "woj.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2024-11-18T16:33:52.000Z",
+    "text": "there is a lot of other projects that put decentralization and open access on the first spot, but farcaster / warpcast proved to be the most useful to build on top of\n\n> Why should we users and builders trust Warpcast's continued benevolence...\n\nwarpcast never did anything malicious, all the problems can be attributed to priorities — if merkle had an infinite dev hours at disposal today, i don't see a part of the roadmap that is killing supercast",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa9fb1a72",
+    "url": "https://warpcast.com/dwr.eth/0xa9fb1a72",
+    "author_username": "dwr.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-11-19T18:50:48.000Z",
+    "text": "The ultimate value of most onchain tokens are attention and/or \"the meme\". \n\nThen tying a token to a set of social media accounts controlled by the token owners that maximize distribution for the meme.\n\nUnlock is having the creation happen on a permissionless, programmable social network where every user is guaranteed to have user-controlled private keys tied to an identity.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb884b9b4",
+    "url": "https://warpcast.com/superanon/0xb884b9b4",
+    "author_username": "superanon",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xbc32ef65",
+    "url": "https://warpcast.com/woj.eth/0xbc32ef65",
+    "author_username": "woj.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2024-11-17T23:22:43.000Z",
+    "text": "new community page is live!\n\nwhat is supercast community:\n- https://supercast.xyz, a farcaster client\n- @superanon our shared anon account\n- groupchats, \"supercasters\", \"alpha leaks\" and \"support\"\n- channel /supercast (still working on the right design for this)\n- super artifacts, a set of zora editions every community member will be receiving during significant moments — $anon is the first super artifact\n- airdrops from other communities in the ecosystem\n\ngo to https://supercast.xyz/community today to join the channel, groupchats or display your super artifacts",
+    "embeds": [
+      {
+        "url": "https://supercast.mypinata.cloud/ipfs/QmXAd6VyF4b51wdEcQDXK72dCywGQowkuVvgtmPUEAbM1J?filename=Screenshot-2024-11-18-at-00.16.38.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 779559,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1264,
+            "height_px": 1842
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x58a86d42",
+    "url": "https://warpcast.com/dwr.eth/0x58a86d42",
+    "author_username": "dwr.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-11-19T00:53:01.000Z",
+    "text": "@woj main character arc",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x3cc9481bc1d138b9afaa680199021873f584afb1"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3cc9481bc1d138b9afaa680199021873f584afb1",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3cc9481bc1d138b9afaa680199021873f584afb1",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "@woj’s progress with supercast over the last year is impressive to watch \n\n- built an fc client that people are paying to use \n\n- created one of the most interesting social features (Superanon) \n\n- becoming the center of the farcaster meta",
+          "timestamp": "2024-11-19T00:51:40.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x95b3ca76",
+    "url": "https://warpcast.com/anoncast/0x95b3ca76",
+    "author_username": "anoncast",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 880094,
+    "author_pfp": "https://pbs.twimg.com/profile_images/1858732437464817664/h3FCmGAe_400x400.jpg",
+    "cast_date": "2024-11-19T19:38:17.000Z",
+    "text": "**The cANON**\n1/\n- An anon prompt-deploys $ANON via @clanker from Supercast’s anon account @superanon.\n- Supercast dev @woj is asleep in EU; wakes up to a huge surprise ($ANON at $3M).\n- Community donates 5% of supply to @woj; Woj airdrops to Supercast users.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6cfa6767",
+    "url": "https://warpcast.com/woj.eth/0x6cfa6767",
+    "author_username": "woj.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2024-11-19T09:30:13.000Z",
+    "text": "ok, so:\n\nbuy $ANON to bet on the first truly decentralized anon account\nbuy $anon to bet on the future of supercast community\n\nalso at current prices i gave away $240k of $ANON WTF",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 680,
+          "hash": "0x706db512f10de7925307270c7f2e994c48fc926b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x706db512f10de7925307270c7f2e994c48fc926b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 680,
+            "username": "woj",
+            "display_name": "​woj",
+            "pfp_url": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+            "custody_address": "0x0b28a373fc8d92669aefb420499e74ce2dd5d356"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 193137,
+            "username": "super",
+            "display_name": "super ツ",
+            "pfp_url": "https://supercast.mypinata.cloud/ipfs/QmdvciL78gXQFgN3ZBCWecbCa5gEhPJGTU6bYcJ4WXYiwJ?filename=supercast-logo-white-pfp.png",
+            "custody_address": "0xff62ac1e5a4a63c57211b00e119b693b7f953d76"
+          },
+          "thread_hash": "0x706db512f10de7925307270c7f2e994c48fc926b",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "this is AWESOME wtf",
+          "timestamp": "2024-11-19T07:51:16.000Z",
+          "embeds": [
+            {
+              "url": "https://supercast.mypinata.cloud/ipfs/QmUsMoyPGa1Q33Mz7rH6GTmG9V3mVXEx895zZ2zApkRbGJ?filename=IMG_0415.png",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 925033,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1206,
+                  "height_px": 2622
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x74574a9f",
+    "url": "https://warpcast.com/superanon/0x74574a9f",
+    "author_username": "superanon",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x698b80c1",
+    "url": "https://warpcast.com/0xluo.eth/0x698b80c1",
+    "author_username": "0xluo.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 9856,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94f2a2b9-05ad-46df-4352-2c66e2ed9000/original",
+    "cast_date": "2024-11-19T19:37:56.000Z",
+    "text": "$ANON showcased how a group of talented builders, together with a close-knit community, can create fascinating things on an open social protocol.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ee3d8a9a-62bb-44ac-6df2-b5ff2fb9e600/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 374668,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2032,
+            "height_px": 1426
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 9856,
+          "hash": "0x1f8ae600a54739abd449415b6b5ef0904d046252"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1f8ae600a54739abd449415b6b5ef0904d046252",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 9856,
+            "username": "0xluo.eth",
+            "display_name": "0xLuo",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94f2a2b9-05ad-46df-4352-2c66e2ed9000/original",
+            "custody_address": "0xffe946d9c24ca4d6f785447a923c9e812e4e7b95"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1f8ae600a54739abd449415b6b5ef0904d046252",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/luo",
+          "root_parent_url": "https://warpcast.com/~/channel/luo",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "anoncolors.com, anoncast.org... $ANON is gaining traction in the Farcaster community, with more and more projects being built around it. Does this feel familiar? 👀\n\nI just minted ANON COLORS #617! Check it out:",
+          "timestamp": "2024-11-19T03:21:43.000Z",
+          "embeds": [
+            {
+              "url": "https://www.anoncolors.com/a/617",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/Anon.svg",
+                  "ogImage": [
+                    {
+                      "url": "https://www.anoncolors.com/api/FFFFFF/7F3D2E",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "Anon Colors",
+                  "ogLocale": "en",
+                  "ogDescription": "The official colors of the ANON movement"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "luo",
+            "name": "LUO · 羅",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/760bee5c-ac5e-43fb-80c6-0209fe200700/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf12cfebd",
+    "url": "https://warpcast.com/dwr.eth/0xf12cfebd",
+    "author_username": "dwr.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-11-19T18:56:04.000Z",
+    "text": "Turns out this was just @anoncast vs. @superanon all along",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x7f9b16546dd4f5e7239c308bbb0399423e3ac5c2"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7f9b16546dd4f5e7239c308bbb0399423e3ac5c2",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7f9b16546dd4f5e7239c308bbb0399423e3ac5c2",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "? vs. furry Netflix special when?",
+          "timestamp": "2024-11-18T23:01:14.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a893ba50-cbc1-49ee-dda2-dd265e35be00/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 1794989,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1024,
+                  "height_px": 1024
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa04bbb21",
+    "url": "https://warpcast.com/dwr.eth/0xa04bbb21",
+    "author_username": "dwr.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-11-19T15:57:29.000Z",
+    "text": "ChANONel\n\n1. Create a channel bot using Channel Kit + Anoncast \n\n2. To become a member of the channel, you need to meet X onchain criteria \n\n3. All members are public but all casts in the channel go through the channel bot, i.e. still cast through another website \n\n4. If you have 10-20 members, sufficiently anonymized, but people may find more interesting since they can underwrite the personalities of everyone in the group \n\nhttps://github.com/zachterrell57/channel-kit\nhttps://github.com/Slokh/anoncast",
+    "embeds": [
+      {
+        "url": "https://github.com/zachterrell57/channel-kit",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://github.com/zachterrell57/channel-kit",
+            "ogType": "object",
+            "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+            "ogImage": [
+              {
+                "alt": "ChannelKit is an open-source Next.js application built with Frog.js and deployed on Vercel, providing a customizable Farcaster Frame for managing channel membership - zachterrell57/channel-kit",
+                "url": "https://opengraph.githubassets.com/679d8c4a051fefe8e6e727f3b5c39d8c258b40012d68b8ed270d4640b84b31e6/zachterrell57/channel-kit",
+                "width": "1200",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "GitHub - zachterrell57/channel-kit: ChannelKit is an open-source Next.js application built with Frog.js and deployed on Vercel, providing a customizable Farcaster Frame for managing channel membership",
+            "ogLocale": "en",
+            "ogSiteName": "GitHub",
+            "ogDescription": "ChannelKit is an open-source Next.js application built with Frog.js and deployed on Vercel, providing a customizable Farcaster Frame for managing channel membership - zachterrell57/channel-kit"
+          }
+        }
+      },
+      {
+        "url": "https://github.com/Slokh/anoncast",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://github.com/anondotworld/anonworld",
+            "ogType": "object",
+            "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+            "ogImage": [
+              {
+                "alt": "Contribute to anondotworld/anonworld development by creating an account on GitHub.",
+                "url": "https://opengraph.githubassets.com/deedf770635b7c962e168b5d5a2ba3d75303bac760084a39944a4f0c3c51f9a8/anondotworld/anonworld",
+                "width": "1200",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "GitHub - anondotworld/anonworld",
+            "ogLocale": "en",
+            "ogSiteName": "GitHub",
+            "ogDescription": "Contribute to anondotworld/anonworld development by creating an account on GitHub."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x408c4a2c",
+    "url": "https://warpcast.com/dwr.eth/0x408c4a2c",
+    "author_username": "dwr.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-11-19T15:35:43.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4c2c6633-f4d0-4bb1-df80-373f4c79a200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 20856,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 733,
+            "height_px": 340
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x665a51b3",
+    "url": "https://warpcast.com/superanon/0x665a51b3",
+    "author_username": "superanon",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x2f4551ef",
+    "url": "https://warpcast.com/phil/0x2f4551ef",
+    "author_username": "phil",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2024-11-19T20:26:33.000Z",
+    "text": ":)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 129,
+          "hash": "0x63b44cb98ff6020d110c4c243e7035583f411baf"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x63b44cb98ff6020d110c4c243e7035583f411baf",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 129,
+            "username": "phil",
+            "display_name": "phil",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+            "custody_address": "0xf6fd7deec77d7b1061435585df1d7fdfd4682577"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x63b44cb98ff6020d110c4c243e7035583f411baf",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "A Farcaster client someone should build: Anoncaster\n\nAllow users to link an alt account & zk-prove they control another account with at least n followers, without revealing which account it is. Display a leaderboard and make it easy to follow.\n\nThis would help people bootstrap anon accounts without doxxing themselves.",
+          "timestamp": "2023-12-09T01:21:29.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfa71471e",
+    "url": "https://warpcast.com/phil/0xfa71471e",
+    "author_username": "phil",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2024-11-17T21:53:41.000Z",
+    "text": "I think it's safe to say that Farcaster's christian rap era has ended. \n\nWhat era are we in now?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x999a6a9a",
+    "url": "https://warpcast.com/dwr.eth/0x999a6a9a",
+    "author_username": "dwr.eth",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-11-19T03:20:06.000Z",
+    "text": "so in the beginning it was all Christian rap LinkedIn cringe SV startup hustle slop. You’d like it. Very fed. Basically had to beg them to add a channel dedicated to degen stuff but that’s beside the point. so then they had a bunch of growth and retention wasn’t there and the market tanked so post farcon things got quieter. but then someone created an anon parody account of one of the founders and people remembered that anon accounts can be fun so there were a bunch of copycats but most of them weren’t funny. I guess at some point woj decided that his entire client could be one of those accounts so he launch superanon but because Christian rap he could doxx you if you were an ass. but because everyone on Farcaster signs everything with cryptographic keys someone created a zero knowledge version of the anon account that can’t be doxxed. oh and the rival group anon accounts have rival memecoins.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af24a21e-7300-4938-94cd-a59e18623700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 10771,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 262,
+            "height_px": 192
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 429,
+          "hash": "0x0cf51ddec87d2ff48f338832c1a4537ffb57f8dc"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0cf51ddec87d2ff48f338832c1a4537ffb57f8dc",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 429,
+            "username": "czar",
+            "display_name": "czar ",
+            "pfp_url": "https://lh3.googleusercontent.com/X0af6snDGRShmvCYTza1s0WXDssHuvXV5lsQOv-8E_dWTlo89CbZ1gd-Ty5yaLNEZ6klrswNjHU_lPybSAep336eDxY9Ik7L0uC8aw",
+            "custody_address": "0x9e7ba560417a462066d711069bc28629e972448c"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xddef423c535833f43972fa6c0cb4109ddb492462",
+          "parent_hash": "0xddef423c535833f43972fa6c0cb4109ddb492462",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 3
+          },
+          "text": "anon is offended you didn’t somehow narrate them into it",
+          "timestamp": "2024-11-19T03:11:11.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x802bfbf6",
+    "url": "https://warpcast.com/33bits/0x802bfbf6",
+    "author_username": "33bits",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 193315,
+    "author_pfp": "https://i.imgur.com/4DxOOCt.png",
+    "cast_date": "2024-11-19T20:16:58.000Z",
+    "text": "we are 33bits",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x333f2403",
+    "url": "https://warpcast.com/syed/0x333f2403",
+    "author_username": "syed",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 1236,
+    "author_pfp": "https://i.imgur.com/miOebWM.gif",
+    "cast_date": "2024-11-19T23:04:28.000Z",
+    "text": "We’re so close to a token I can feel it. Took him a while but we’re in the home stretch!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x5878b90945c0963b3790f341745c6c46eb570f1e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5878b90945c0963b3790f341745c6c46eb570f1e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5878b90945c0963b3790f341745c6c46eb570f1e",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "In retrospect, decentralized social network has been terrible framing for Farcaster.\n\nTwo recent frames that are better:\n\n1. Farcaster is an economy — social network + crypto wallets, small but high GDP per capita, h/t @woj @luc \n\n2. Programmable social — X APIs are dead, Farcaster APIs are constantly getting better, h/t @six \n\nIt's still (mostly) decentralized under the hood, but lean into the things that it's really good at relative to the competition.",
+          "timestamp": "2024-11-19T19:10:01.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x12559a74",
+    "url": "https://warpcast.com/tldr/0x12559a74",
+    "author_username": "tldr",
+    "show_date": "2024-11-20",
+    "show_title": "GM Farcaster ep184 Wednesday November 20, 2024 with @woj.eth of /supercast",
+    "source_episode_id": "7hvjMAWGDWs",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c8a5399-3ae5-4994-a9fe-d1e6c5ebc600/original",
+    "cast_date": "2024-11-20T11:10:53.000Z",
+    "text": "Cozy Corners become important as Farcaster explores its “social finance network” stage\n\nMoney is powerful. The opportunity to make it can overwhelm other conversations at some points - just like in real life\n\nBut channels are a tool for people to block out that noise when they just wanna explore interests w friends",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 9391,
+          "hash": "0xa7f733a40941e925411958c2505e31a71814dbb6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa7f733a40941e925411958c2505e31a71814dbb6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 9391,
+            "username": "ispeaknerd.eth",
+            "display_name": "iSpeakNerd 🧙‍♂️",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/23352b99-3a86-437c-43e1-0852239ea000/original",
+            "custody_address": "0x3c35741d76c0076f070bdb90bd20c8632aba3846"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa7f733a40941e925411958c2505e31a71814dbb6",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/nerdery",
+          "root_parent_url": "https://warpcast.com/~/channel/nerdery",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "As FC accelerates on a path I disagree with I find myself leaning ever more into my personal network of humans I've met irl.\n\nI'm not morally opposed to memecoins but it adds tons of noise and drives the interesting conversations I want to have into gcs even more",
+          "timestamp": "2024-11-20T04:12:27.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "nerdery",
+            "name": "nerdery",
+            "image_url": "https://i.imgur.com/WGgFgki.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

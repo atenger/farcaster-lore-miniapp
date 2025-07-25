@@ -1,0 +1,932 @@
+[
+  {
+    "cast_hash": "0x769a178e",
+    "url": "https://warpcast.com/matchaxyz/0x769a178e",
+    "author_username": "matchaxyz",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 17114,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d73b034-b5d1-4ca0-d349-d99fc6aa3000/original",
+    "cast_date": "2024-07-15T17:12:04.000Z",
+    "text": "1/ Introducing Matcha on 0x v2 powered by @0xproject's new 0x v2 pricing engine.\n\n💥 The best swap prices, all-in, especially in size\n💥 S̶m̶a̶r̶t̶ Genius trade routing\n💥 Next gen security that keeps funds safe\n\nLet's look under the hood👇\n\nhttps://go.matcha.xyz/v2-pricing-engine",
+    "embeds": [
+      {
+        "url": "https://go.matcha.xyz/v2-pricing-engine",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogType": "website",
+            "favicon": "https://cdn.prod.website-files.com/66844c9a09cd7d95c860afa7/668c7028c28e4e1d7bf7c547_ico.png",
+            "ogImage": [
+              {
+                "url": "https://cdn.prod.website-files.com/66844c9a09cd7d95c860afa7/66953ad1c20da2798466cfe7_OP%20Green%20(1).jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "Matcha.xyz | For traders who move serious size",
+            "ogDescription": "Matcha DEX Aggregator just got even better with a serious upgrade to its pricing engine. Trade like a whale with the absolute best prices on every trade size."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdb369559",
+    "url": "https://warpcast.com/wwarren/0xdb369559",
+    "author_username": "wwarren",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 6208,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3ac8eae9-6273-46c2-1579-87092e894000/original",
+    "cast_date": "2024-07-18T19:15:37.000Z",
+    "text": "The new price engine powering @matchaxyz and @0xproject offers >99% coverage of @arbitrum DEX liquidity",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fc045d27-fbce-4d32-d7fc-4a5830ea5500/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 436711,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1482,
+            "height_px": 1076
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x625cce0c",
+    "url": "https://warpcast.com/matchaxyz/0x625cce0c",
+    "author_username": "matchaxyz",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 17114,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d73b034-b5d1-4ca0-d349-d99fc6aa3000/original",
+    "cast_date": "2024-07-17T17:04:01.000Z",
+    "text": "The best prices need the best routes, period.\n\nMatcha powered by 0x v2 takes away the mystery of market-making by showing you the exact route your trade takes with our new Sankey diagrams.\n\n🎉 Make a swap\n🗺️ See your route\n🔄 Repeat\n\nTry it now: matcha.xyz",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94599e45-b9bf-49a1-569d-cb1776cc9100/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 1094585,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x87e9c6f5",
+    "url": "https://warpcast.com/0xproject/0x87e9c6f5",
+    "author_username": "0xproject",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 248300,
+    "author_pfp": "https://i.imgur.com/1U9mZaM.jpg",
+    "cast_date": "2024-07-17T16:14:03.000Z",
+    "text": "Are your users at risk?  👀\n\nOutstanding allowances on upgradable smart contracts expose $6.5B.\n\n0x v2 fully eliminates allowance risk by baking in protection at the ground level using the latest innovations in limited token approvals ✅\n\nLearn how 👇\nhttps://go.0x.org/0x-v2-eliminate-allowance-risk-b",
+    "embeds": [
+      {
+        "url": "https://go.0x.org/0x-v2-eliminate-allowance-risk-b",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogType": "website",
+            "favicon": "https://cdn.prod.website-files.com/66967cfef0a246cbbb9aee94/674f2c1cff5b03cb483cfb3e_favicon-32x32.png",
+            "ogImage": [
+              {
+                "url": "https://cdn.prod.website-files.com/66967cfef0a246cbbb9aee9b/66f1c046675891c02ef0d3ee_Security%20Blog%20Header%20(1).png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Eliminate allowance risk with Permit2",
+            "ogLocale": "en",
+            "ogDescription": "0x v2 fully eliminates allowance risk using the latest innovations in limited token approvals, including Permit2, protecting your users and reputation."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x98c49bfb",
+    "url": "https://warpcast.com/0xproject/0x98c49bfb",
+    "author_username": "0xproject",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 248300,
+    "author_pfp": "https://i.imgur.com/1U9mZaM.jpg",
+    "cast_date": "2024-07-18T16:30:52.000Z",
+    "text": "Take control of your balance sheet 💰\n\nCustomers have already generated millions of dollars in revenue from swaps thanks to 0x’s swap fee feature.\n\nNow, you can control exactly which tokens to collect fees in, saving you time and money.\n\nGet serious 👇\nhttps://go.0x.org/introducing-0x-v2-pricing-engine-d",
+    "embeds": [
+      {
+        "url": "https://go.0x.org/introducing-0x-v2-pricing-engine-d",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogType": "website",
+            "favicon": "https://cdn.prod.website-files.com/66967cfef0a246cbbb9aee94/674f2c1cff5b03cb483cfb3e_favicon-32x32.png",
+            "ogImage": [
+              {
+                "url": "https://cdn.prod.website-files.com/66967cfef0a246cbbb9aee9b/66967cfef0a246cbbb9af485_0x-v2-Header.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Introducing 0x's next-gen pricing engine",
+            "ogLocale": "en",
+            "ogDescription": "0x v2 is the next generation trading engine for serious onchain apps, offering the most seamless swap experience at the best all-in prices."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfe6292f8",
+    "url": "https://warpcast.com/nounishprof/0xfe6292f8",
+    "author_username": "nounishprof",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-07-15T17:32:30.000Z",
+    "text": "@adrienne and I are looking forward to chatting with @wwarren of @matchaxyz @0xproject on /gmfarcaster on Friday. \n\nGot questions for Will? Drop them in the replies below ⤵️",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 17114,
+          "hash": "0x769a178e86526b9265b30517f51a4536f527f8ee"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x769a178e86526b9265b30517f51a4536f527f8ee",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 17114,
+            "username": "matchaxyz",
+            "display_name": "Matcha 🍵 (EVM+Solana)",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d73b034-b5d1-4ca0-d349-d99fc6aa3000/original",
+            "custody_address": "0x135ec556e36906e6486771b8bc105e513cea1124"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x769a178e86526b9265b30517f51a4536f527f8ee",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/matcha",
+          "root_parent_url": "https://warpcast.com/~/channel/matcha",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "1/ Introducing Matcha on 0x v2 powered by @0xproject's new 0x v2 pricing engine.\n\n💥 The best swap prices, all-in, especially in size\n💥 S̶m̶a̶r̶t̶ Genius trade routing\n💥 Next gen security that keeps funds safe\n\nLet's look under the hood👇\n\nhttps://go.matcha.xyz/v2-pricing-engine",
+          "timestamp": "2024-07-15T17:12:04.000Z",
+          "embeds": [
+            {
+              "url": "https://go.matcha.xyz/v2-pricing-engine",
+              "metadata": {
+                "content_type": "text/html",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogType": "website",
+                  "favicon": "https://cdn.prod.website-files.com/66844c9a09cd7d95c860afa7/668c7028c28e4e1d7bf7c547_ico.png",
+                  "ogImage": [
+                    {
+                      "url": "https://cdn.prod.website-files.com/66844c9a09cd7d95c860afa7/66953ad1c20da2798466cfe7_OP%20Green%20(1).jpg",
+                      "type": "jpg"
+                    }
+                  ],
+                  "ogTitle": "Matcha.xyz | For traders who move serious size",
+                  "ogDescription": "Matcha DEX Aggregator just got even better with a serious upgrade to its pricing engine. Trade like a whale with the absolute best prices on every trade size."
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "matcha",
+            "name": "matcha",
+            "image_url": "https://i.imgur.com/7gP24zT.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6fe3e173",
+    "url": "https://warpcast.com/toadyhawk.eth/0x6fe3e173",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2024-07-06T18:26:13.000Z",
+    "text": "The abstraction of cross-chain swaps is an important step for onboarding new people to crypto. The other day I just wanted to swap some USDC on Base directly to ETH on mainnet in one tap and it wasn’t possible in two dApps I tried. @matchaxyz got it done. 🍵",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 17114,
+          "hash": "0xf88bbb9fd1d93472a492332adb6e4ce9c967d8cf"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf88bbb9fd1d93472a492332adb6e4ce9c967d8cf",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 17114,
+            "username": "matchaxyz",
+            "display_name": "Matcha 🍵 (EVM+Solana)",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d73b034-b5d1-4ca0-d349-d99fc6aa3000/original",
+            "custody_address": "0x135ec556e36906e6486771b8bc105e513cea1124"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf88bbb9fd1d93472a492332adb6e4ce9c967d8cf",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/matcha",
+          "root_parent_url": "https://warpcast.com/~/channel/matcha",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "It's teleport time 🔁\n\nNeed to move assets from one chain to another? Or better yet, got stables you want to swap into another coin on another chain?\n\nTap in with cross chain swaps on matcha.xyz, free for a limited time.\n\nHere's the low down from Anthony Allen (@0xall).\n👇",
+          "timestamp": "2024-07-03T21:43:06.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.warpcast.com/v1/video/faa090e28b846cb6dcea597c62fee18f.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "codec_name": "h264",
+                      "height_px": 1080,
+                      "width_px": 1920
+                    },
+                    {
+                      "codec_name": "h264",
+                      "height_px": 720,
+                      "width_px": 1280
+                    },
+                    {
+                      "codec_name": "h264",
+                      "height_px": 480,
+                      "width_px": 852
+                    },
+                    {
+                      "codec_name": "h264",
+                      "height_px": 360,
+                      "width_px": 640
+                    },
+                    {
+                      "codec_name": "h264",
+                      "height_px": 240,
+                      "width_px": 426
+                    }
+                  ],
+                  "duration_s": 168.59
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "matcha",
+            "name": "matcha",
+            "image_url": "https://i.imgur.com/7gP24zT.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x60233ec5",
+    "url": "https://warpcast.com/dwr.eth/0x60233ec5",
+    "author_username": "dwr.eth",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-07-18T21:35:57.000Z",
+    "text": "There are no rewards for running Farcaster Hubs. The YouTube videos are lying to you. You will not get paid now or in the future. There will be no surprise reward. It will only cost you money.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x6a3e2ec50d741da7801cea28ced9f77cad3fa44d"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x6a3e2ec50d741da7801cea28ced9f77cad3fa44d",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x6a3e2ec50d741da7801cea28ced9f77cad3fa44d",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "This update is going out today. If you are running a hub, manual action is needed.  You can: \n\n1. Use the shell prompt to ack by upgrading hubble \n2. Set up an environment variable which will let the upgrade go down seamlessly \n\nSee the video below from @wazzymandias.eth for more details",
+          "timestamp": "2024-07-18T20:53:19.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 2,
+                "hash": "0x9e17e7a9a23ebe0b4ffb1037bab45a77b820f8fb"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x9e17e7a9a23ebe0b4ffb1037bab45a77b820f8fb",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 2
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-updates",
+            "name": "fc-updates",
+            "image_url": "https://i.imgur.com/YnnrPaH.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcfa455d3",
+    "url": "https://warpcast.com/dwr.eth/0xcfa455d3",
+    "author_username": "dwr.eth",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-07-18T18:58:31.000Z",
+    "text": "Warpcast DC emoji picker now has search",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5b79e64d-907a-4416-7896-7fdd2f573200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 94080,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 1839
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf1bfc791",
+    "url": "https://warpcast.com/dwr.eth/0xf1bfc791",
+    "author_username": "dwr.eth",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-07-18T05:23:34.000Z",
+    "text": "\"Warpcast should do X.\"\n\nI agree with you.\n\n\"Great, then why haven't you done it?\"\n\nBecause there's everything else to do as well.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3f601886",
+    "url": "https://warpcast.com/polymarket/0x3f601886",
+    "author_username": "polymarket",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 310928,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b8d7aec5-e64b-4332-4e53-25129162b100/original",
+    "cast_date": "2024-07-18T03:25:39.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/df3263ca-73ef-4a5f-9359-369d046ff300/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 688256,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1082,
+            "height_px": 613
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xb9e8503904c657c274581e72c7a385d66cb62096"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb9e8503904c657c274581e72c7a385d66cb62096",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb9e8503904c657c274581e72c7a385d66cb62096",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "All @polymarket URLs are now frames!\n\nhttps://polymarket.com/event/ethereum-etf-begins-trading-by-july-26",
+          "timestamp": "2024-07-18T03:15:43.000Z",
+          "embeds": [
+            {
+              "url": "https://polymarket.com/event/ethereum-etf-begins-trading-by-july-26",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://polymarket.com/event/ethereum-etf-begins-trading-by-july-26",
+                  "ogType": "website",
+                  "favicon": "/icons/favicon-32x32.png",
+                  "ogImage": [
+                    {
+                      "url": "https://polymarket.com/api/og?mslug=ethereum-etf-begins-trading-by-july-26"
+                    }
+                  ],
+                  "ogTitle": "Ethereum ETF begins trading by July 26?",
+                  "ogLocale": "en",
+                  "ogSiteName": "Polymarket",
+                  "ogDescription": "Polymarket | This market will resolve to \"Yes\" if any spot Ethereum ETF begins trading on the NASDAQ, NYSE, or CBOE by the time of market close on July 26, 2..."
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xddb99808",
+    "url": "https://warpcast.com/polymarket/0xddb99808",
+    "author_username": "polymarket",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 310928,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b8d7aec5-e64b-4332-4e53-25129162b100/original",
+    "cast_date": "2024-07-18T01:31:33.000Z",
+    "text": "🚨 breaking: joe biden 🚨 https://polymarket.com/event/will-biden-drop-out-of-presidential-race?tid=1721265862861",
+    "embeds": [
+      {
+        "url": "https://polymarket.com/event/will-biden-drop-out-of-presidential-race?tid=1721265862861",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://polymarket.com/event/will-biden-drop-out-of-presidential-race",
+            "ogType": "website",
+            "favicon": "/icons/favicon-32x32.png",
+            "ogImage": [
+              {
+                "url": "https://polymarket.com/api/og?mslug=will-biden-drop-out-of-presidential-race"
+              }
+            ],
+            "ogTitle": "Biden drops out of presidential race?",
+            "ogLocale": "en",
+            "ogSiteName": "Polymarket",
+            "ogDescription": "Polymarket | This market will resolve to \"Yes\" if President Joe Biden officially announces his withdrawal or is confirmed to have withdrawn from the 2024 US ..."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7740c1ce",
+    "url": "https://warpcast.com/linda/0x7740c1ce",
+    "author_username": "linda",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-07-18T15:26:38.000Z",
+    "text": "If you're looking for a job in crypto, we have a job board on Bountycaster with new roles posted almost daily! http://bountycaster.xyz/jobs\n\nIf you're interested in posting a job, fill out this form or DM me! Great way to reach a Farcaster native audience http://bountycaster.deform.cc/jobs",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8aaa1ba8-4eff-411a-92d8-1caec6613c00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 178148,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1688,
+            "height_px": 988
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf138eb29",
+    "url": "https://warpcast.com/greg/0xf138eb29",
+    "author_username": "greg",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 347,
+    "author_pfp": "https://i.seadn.io/gae/YsASemS2qwPJK2yI9fmN8HX1-DeIDy9EQxX4KsRk9rkniwn9A7xUyMu_vKR75Oxrs8QAKfIjqdmf6Aw9A9fsehJHWSz2LiNpnV_TPQ?w=500&auto=format",
+    "cast_date": "2024-07-18T16:13:05.000Z",
+    "text": "I'm excited to share Good Bread by Greg, a mini onchain bakery for onchain summer!\n\nHow it works:\n- Order bread on Base (starts today)\n- Pick up your brand and hang out in NYC (starts this weekend)\n\nLet's get this bread 🍞 https://goodbread.nyc?ref=farcaster",
+    "embeds": [
+      {
+        "url": "https://goodbread.nyc?ref=farcaster",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/icon.svg?6ad4324726937572",
+            "ogImage": [
+              {
+                "url": "https://goodbread.nyc/api/frame/image?image=N4IgLghg5iBcIBMCWA3EAaEAHATgeywGc5RCwBPAGwFMTElCtKJy4QAzGgDww%252B4BEkOagGMwSPADs2IvJQCuAW2mYAFtSRRVYNgEYADPoCkvAO5IEYVXsMmAvphGqklBMOmxQkGPCSKYmLgExJ4ghDgibNpgRLAA9HFQeHgIAEbCEAgAdJLkInHsOBCK1HG6WYQoMA4gTi5u1B4A2gC6mAwAooQiEFjUCHBgOPLUdjV1ru5wTV7QbH4B2PhEdOGR8NGxCUkp6dSZOXkFRSVlFVUg486TjdNtIJ3dvf2Dw6P3jz19A7BDI3ZAA"
+              },
+              {
+                "url": "https://goodbread.nyc/opengraph.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Good Bread by Greg",
+            "ogLocale": "en",
+            "ogDescription": "Made with love, built on Ethereum."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3a4b172f",
+    "url": "https://warpcast.com/optimism/0x3a4b172f",
+    "author_username": "optimism",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 300898,
+    "author_pfp": "https://i.imgur.com/tcXXjLp.jpg",
+    "cast_date": "2024-07-17T15:26:08.000Z",
+    "text": "200+ Onchain Builders have been deploying contracts on the Superchain across verticals like Governance, DeFi, SocialFi, Gaming, Content, Infra, Utility and more.\n\nFind the projects blow:",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8759ec66-55ce-4739-65e8-13acc4a65900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 4963902,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3200,
+            "height_px": 3200
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3a4b172f",
+    "url": "https://warpcast.com/optimism/0x3a4b172f",
+    "author_username": "optimism",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 300898,
+    "author_pfp": "https://i.imgur.com/tcXXjLp.jpg",
+    "cast_date": "2024-07-17T15:26:08.000Z",
+    "text": "200+ Onchain Builders have been deploying contracts on the Superchain across verticals like Governance, DeFi, SocialFi, Gaming, Content, Infra, Utility and more.\n\nFind the projects blow:",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8759ec66-55ce-4739-65e8-13acc4a65900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 4963902,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3200,
+            "height_px": 3200
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x353d61ae",
+    "url": "https://warpcast.com/jacob/0x353d61ae",
+    "author_username": "jacob",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 8,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89ed9bfb-655c-472d-e907-6a3da8d2ec00/rectcrop3",
+    "cast_date": "2024-07-17T22:25:39.000Z",
+    "text": "Zora has received OP Retrofunding for our contributions to the superchain.\n\nThis would not have been possible without you, and we will be distributing 300K OP (!!!) to our community.\n\nIf you create on Zora, if you collect on Zora, if you build on Zora — you will be rewarded.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/efa0bd72-4387-48a4-62cd-3899f5c3f500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 110059,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2048,
+            "height_px": 2048
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x24976e39",
+    "url": "https://warpcast.com/briang/0x24976e39",
+    "author_username": "briang",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 548,
+    "author_pfp": "https://i.seadn.io/gae/T1n8naiIITR2TKLlRyPHDEkKIRhO01WwsTJBfv1_YeUeVbtPnSlhe4MqWuYo0tMyDj9HWV3t3vJYBEKEHVeKHXYo4XIFxqSFfgEVbQ?w=500&auto=format",
+    "cast_date": "2024-07-18T21:03:59.000Z",
+    "text": "if you're a streamer and haven't pressed this button yet, why not? honest question",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5114213c-991f-417c-27db-602654f24600/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 36648,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 390,
+            "height_px": 264
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0cba8f42",
+    "url": "https://warpcast.com/metamask/0x0cba8f42",
+    "author_username": "metamask",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 222464,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/536899f4-7f5c-44ca-882d-c0c810fe4300/original",
+    "cast_date": "2024-07-18T16:37:48.000Z",
+    "text": "metamask",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbb1366e3",
+    "url": "https://warpcast.com/adrienne/0xbb1366e3",
+    "author_username": "adrienne",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-07-01T00:19:52.000Z",
+    "text": "5 months ago, we had recorded fewer than 40 episodes, had 37 subscribers, less than 800 listens across podcast platforms, and less than 300 mints.    \n\nAs of today, we've live streamed 124 episodes (plus a bunch of bonus ones not counted), have over 300 subscribers, 11k listens across podcast platforms, and over 5k mints. \n\nHuge thanks to all the listeners, chatters, friends, hypersub subscribers, sponsors and people who make Farcaster newsworthy enough so that we can do what we love. We 💜 you.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/574c4db3-e4e9-493b-2bd2-24afe727cb00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 715843,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 986
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0x766f7361adde9ae7204516045f51ff6418c6443b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x766f7361adde9ae7204516045f51ff6418c6443b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x766f7361adde9ae7204516045f51ff6418c6443b",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Numbers go up 📈\n\n- 49 live streams \n- 293 episodes minted on @zora \n- 78 unique minters (we ❤️ you)\n- 37 podcast subscribers \n- 796 podcast plays \n- 4 guest interviews \n- 8 sponsors \n\n🙏🙏🙏",
+          "timestamp": "2024-01-20T01:15:42.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 5818,
+                "hash": "0x6795f50732cb2e61a1dc824615b4b519a7c19ce0"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x6795f50732cb2e61a1dc824615b4b519a7c19ce0",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 5818
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x72baf5a8",
+    "url": "https://warpcast.com/betashop.eth/0x72baf5a8",
+    "author_username": "betashop.eth",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 602,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5e14f7a-a60d-4aeb-3496-55305ecdd500/original",
+    "cast_date": "2024-07-18T18:01:56.000Z",
+    "text": "🗓️ Moxie launch is scheduled for 29 July 🗓️\nlaunch of: Ⓜ️oxie Protocol and Ⓜ️oxie Token and Fan Tokens at once!\n\nnote: we pushed out by 4 days based on input from devs & external parties in the market who requested we launch on a Monday rather then end of week. while there's always some fluidity to these things, we do not think this date will move again\n\n- 2k Farcaster Members have requested Fan Token launches for themselves or channels; we'll announce initial schedule in a short bit today\n\n- 53,206 Farcaster Members are verified for the Ⓜ️oxiedrop; all contracts are deployed and locked onchain \nhttps://basescan.org/token/0x8C9037D1Ef5c6D1f6816278C7AAF5491d24CD527\n\n- 106,265 non-transferrable Moxie Passes have been issued. \nMoxie Pass is required to participate in the protocol and buy Fan Tokens. Anyone can mint a Moxie Pass, even if you are not in the moxiedrop\nMint here https://warpcast.com/ebadi/0x3b11235613a94a8101883b9c7394f57f0ebdc0cf\n\n29 July, 2024 is Ⓜ️oxie time on Farcaster",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/67b0c6b8-5524-4b93-a05b-36c26b023f00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 5183863,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3168,
+            "height_px": 1940
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-07-19",
+    "show_title": "GM Farcaster Ep131 Friday, July 19, 2024 with @wwarren",
+    "source_episode_id": "RYJ1zOS7zlU",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

@@ -1,0 +1,995 @@
+[
+  {
+    "cast_hash": "0xd8af05f9",
+    "url": "https://warpcast.com/stevedylandev.eth/0xd8af05f9",
+    "author_username": "stevedylandev.eth",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 6023,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6fa09b86-271f-4411-2cef-8e68735df500/original",
+    "cast_date": "2024-03-08T17:39:59.000Z",
+    "text": "GET YA HATS HERE 🧢\n\nIntroducing the Pinata Hat Store! Limited supply of 25, 0.005ETH. But watch the add and get 50% off 🎉\n\nIn order to get the discount you must have an address connected to your account!\n\n https://hats.pinatadrops.com/api",
+    "embeds": [
+      {
+        "url": "https://hats.pinatadrops.com/api",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://dweb.mypinata.cloud/ipfs/QmeC7uQZqkjmc1T6sufzbJWQpoeoYjQPxCXKUSoDrXfQFy"
+              }
+            ],
+            "ogTitle": "Pinta Hat Store",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc5e99831",
+    "url": "https://warpcast.com/v/0xc5e99831",
+    "author_username": "v",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-03-08T17:11:58.000Z",
+    "text": "Frame Transactions are now live for everyone! \n\n- If you're on web, you can use any wallet you like\n- If you're on mobile, you'll need Coinbase Wallet\n\nBuilders post your frames in the thread below 👇",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb7619230",
+    "url": "https://warpcast.com/v/0xb7619230",
+    "author_username": "v",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-03-08T16:13:11.000Z",
+    "text": "An important breaking change for some frames.\n\n- Please set Content-Type headers for images \n- Warpcast will reject any images without proper header types\n- Enforcement starts Monday 9am PT",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 302,
+          "hash": "0x03eda3372def64ba8cf32f3ee4fd04d21e4c3dfc"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x03eda3372def64ba8cf32f3ee4fd04d21e4c3dfc",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 302,
+            "username": "gt",
+            "display_name": "Goksu Toprak",
+            "pfp_url": "https://i.imgur.com/YM5spql.jpg",
+            "custody_address": "0xa4b7c9173ff5be5c116d2ff846d23dd12a3cc5ec"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x03eda3372def64ba8cf32f3ee4fd04d21e4c3dfc",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/frames",
+          "root_parent_url": "https://warpcast.com/~/channel/frames",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Frame Developers! \n\nWarpcast will start enforcing `Content-Type` headers to be set to common image types for frame images next week. If not set — proxied images from Warpcast will not display accurately on Warpcast.\n\nLet us know in this thread if you have any questions or concerns.",
+          "timestamp": "2024-03-08T16:11:44.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "frames",
+            "name": "frames",
+            "image_url": "https://i.imgur.com/vz4KzeC.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb43d1f81",
+    "url": "https://warpcast.com/v/0xb43d1f81",
+    "author_username": "v",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-03-08T21:29:42.000Z",
+    "text": "Transaction previews now show the dollar value! \n\nh/t to @deodad for this nice improvement",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/XIGasCN.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 73923,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 707,
+            "height_px": 720
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x94dddd80",
+    "url": "https://warpcast.com/rish/0x94dddd80",
+    "author_username": "rish",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 194,
+    "author_pfp": "https://i.imgur.com/naZWL9n.gif",
+    "cast_date": "2024-03-08T14:42:09.000Z",
+    "text": "Neynar APIs fully support txn frames now!\n\nClient developers can get txn call data and post txn actions \n\nFrame developers get the txn hash back when validating actions, along with client details\n\nReach out if questions 🪐\n\ndocs.neynar.com/reference/post-frame-action",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 194,
+          "hash": "0x99360db5cb31b715a44f0c45af1e7f4830254109"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x99360db5cb31b715a44f0c45af1e7f4830254109",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 194,
+            "username": "rish",
+            "display_name": "rish",
+            "pfp_url": "https://i.imgur.com/naZWL9n.gif",
+            "custody_address": "0xb95dc10483be18f7c69ddf78d4baafecc01c5530"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x99360db5cb31b715a44f0c45af1e7f4830254109",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xd4498134211baad5846ce70ce04e7c4da78931cc",
+          "root_parent_url": "chain://eip155:1/erc721:0xd4498134211baad5846ce70ce04e7c4da78931cc",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Another of our little detail kinda updates:\n\nTxn frames can increase bots farming frame interactions. So... \n\nOur frame validation APIs now return info about which app the interaction is coming from, in the same API call.\n\nIf your txn frame is hit from unknown sources, easier to filter w/o adding steps to the UX \n\n🪐",
+          "timestamp": "2024-03-07T23:04:29.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.warpcast.com/v1/video/028a9a55f492fab37223e25cc6867bd7.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1080,
+                      "width_px": 956,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 720,
+                      "width_px": 638,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 480,
+                      "width_px": 424,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 360,
+                      "width_px": 318,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 240,
+                      "width_px": 212,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 15.19
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "neynar",
+            "name": "Neynar",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/86b3a6fe-a058-442f-7590-eaacc1e8c800/original"
+          }
+        }
+      },
+      {
+        "url": "http://docs.neynar.com/reference/post-frame-action",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "/reference/post-frame-action",
+            "ogType": "website",
+            "favicon": "https://mintlify.s3-us-west-1.amazonaws.com/neynar/_generated/favicon/favicon.ico?v=3",
+            "ogImage": [
+              {
+                "url": "https://neynar.mintlify.app/_next/image?url=%2Fapi%2Fog%3Fdivision%3DDocumentation%26mode%3Ddark%26title%3DPost%2Ba%2Bframe%2Baction%252C%2Bcast%2Baction%2Bor%2Ba%2Bcast%2Bcomposer%2Baction%26description%3DPost%2Bframe%2Bactions%252C%2Bcast%2Bactions%2Bor%2Bcast%2Bcomposer%2Bactions%2Bto%2Bthe%2Bserver%2B%2B%255C%250A%2528In%2Border%2Bto%2Bpost%2Bany%2Bof%2Bthese%2Bactions%252C%2Byou%2Bneed%2Bto%2Bhave%2Ban%2Bapproved%2B%2560signer_uuid%2560%2529%250A%250AThe%2BPOST%2Brequest%2Bto%2Bthe%2Bpost_url%2Bhas%2Ba%2Btimeout%2Bof%2B5%2Bseconds%2Bfor%2Bframes.%250A%26logoLight%3Dhttps%253A%252F%252Fmintlify.s3.us-west-1.amazonaws.com%252Fneynar%252Flogo%252Flogo-light.png%26logoDark%3Dhttps%253A%252F%252Fmintlify.s3.us-west-1.amazonaws.com%252Fneynar%252Flogo%252Flogo-dark.png%26primaryColor%3D%2523482b82%26lightColor%3D%25238512e0%26darkColor%3D%2523482b82&w=1200&q=100",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Post a frame action, cast action or a cast composer action - Neynar",
+            "ogLocale": "en",
+            "ogSiteName": "Neynar",
+            "ogDescription": "Post frame actions, cast actions or cast composer actions to the server  \\\n(In order to post any of these actions, you need to have an approved `signer_uuid`)\n\nThe POST request to the post_url has a timeout of 5 seconds for frames.\n"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb49e7f20",
+    "url": "https://warpcast.com/robrecht/0xb49e7f20",
+    "author_username": "robrecht",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 2417,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3933efd9-8a97-4c1c-0616-3aa04cc1f900/original",
+    "cast_date": "2024-03-08T17:17:26.000Z",
+    "text": "launching @paybot!\n\neasy way to pay users directly in the social feed\nexample cast: @paybot @dwr.eth 10 usdc\n\ntransaction frame pops up as a reply with txn preview and ready-to-sign\nsending Dan 10 usdc for drinks at farcon :)",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/WTudFRQ.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 45103,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1088,
+            "height_px": 544
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5b0968b8",
+    "url": "https://warpcast.com/adrienne/0x5b0968b8",
+    "author_username": "adrienne",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-03-10T01:32:10.000Z",
+    "text": "Greg built a frame that anyone can use to accept tips. \n\nYou can try it too! Copy this text, remove the spaces, replace everything after the equal sign with your username, and then add it to a cast ➡️\n\nhttps: // frames . fcstr . xyz/tip?username={your_username_here}\n\nhttps://frames.fcstr.xyz/tip?username=adrienne",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 347,
+          "hash": "0x78e8ddce7179680b5aa4377b6667b8f7f9c293fc"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x78e8ddce7179680b5aa4377b6667b8f7f9c293fc",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 347,
+            "username": "greg",
+            "display_name": "Greg",
+            "pfp_url": "https://i.seadn.io/gae/YsASemS2qwPJK2yI9fmN8HX1-DeIDy9EQxX4KsRk9rkniwn9A7xUyMu_vKR75Oxrs8QAKfIjqdmf6Aw9A9fsehJHWSz2LiNpnV_TPQ?w=500&auto=format",
+            "custody_address": "0xb4f195e9a982c2ba58988cb2132557378e9e6b08"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x78e8ddce7179680b5aa4377b6667b8f7f9c293fc",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/frames",
+          "root_parent_url": "https://warpcast.com/~/channel/frames",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I built a simple frame that makes it easy to tip your Farcaster friends in ETH on Base or Optimism https://frames.fcstr.xyz/tip\n\nInspired by @timdaub.eth's frame from @kiwi",
+          "timestamp": "2024-03-08T22:22:52.000Z",
+          "embeds": [
+            {
+              "url": "https://frames.fcstr.xyz/tip",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogImage": [
+                    {
+                      "url": "https://frames.fcstr.xyz/tip/image?image=N4IgLghg5iBcIBMCWA3EAaEAHATgeywGc5RCwBPAGwFMTElCtKJy4QAzGgDww%252B4BEkOagGMwSPADs2IvJQCuAW2mYAFtSRRVYNgEYADPoCkvAO5IEYVXsMmAvphGqklBMOmxQkGPGRpMuATEniBkVLQhspR4OGymzmC0mMiMzKzwnNQ8mJlcgsJiEh4gUUoqIJRIktQAEhpaOrC6AHQATAEQCMiSPgAc%252BjlSYADKSABeEQCc7SDmltbwBsa86praNsuYAEYQIgDWUPjykggAwnIxbADE%252Bvz6k7oArCAOJc6u7nAA2l7QbH68QJEOhhGh0FJMFhsXIvRzvNzUDy-HyhLAQcpA4KkChgkJorpVKAAFQIcAALL1Xk4XAjikSkFgAAQATTw8hwjIAYhAcCIIGRqBzOTgkIiEMQqfDPrAviB6UzWeyuTy%252BQKhSKxcQALqYBgAUUIfKw1AQcDAOHk1Dskpp0p%252B4D%252B8EY6MB%252BGBIVBEVA%252BO6xNJsApNo%252BiLY8pZbKFKv5iXVopOErhtpDMrlDPDSu5vOjgq5GvjIB1IH1hogxtNsHNlrsheLRpNZotVvQyP%252BqFdQRBOK99FSUIy3EBeEISHEUjYEC2hDk8kSvC2eDAYDwijgA2wnV9bAAbPosFxGf092YLFYNihTLC3kmkQ6Uc6MW6saEu3R2ENRhM4ABmNdRS7wK4AEF%252BEArcACEyUvalg2KU5hAgRIEEZLZyEZAABQ5qBgINaW%252BEA4OoBCTWQ1CMOEGAa0IA063LSsrRwu0WydNEHw7D0XxCN9JBGcYIh-RwLliADgNAiCoKlZN8PgxCSPQzDsMTGC8IIoikJQuTyILXUqJLMsGyrSjqNLesK0basGOTe1vFbfxsEfTtwnBBhIXSPgsnE686Gs5iXQCez2McvEN0JEksHJSlFNw%252BAw0VSMszVXM43FDylJTGKI2VeKY0SzUtKLHSaP0%252BjIsY282Hvdt3WxQLvWCnpQvCiy6TTWLMtVbLhSShMr1S2V0ozKMEs63LDN0ky6OrbSjL00yq2bMrfDbPy2Oq3FQAhNJoQHAIhxHIpx0nadZ22BclxXWA1x9Qlt13fdD2yWYTwWEAlnPFKoqY1FfLslbnxqjh31479f0E64RPAyCmrYFSZPUsisPeu0pMI2HSPkvLa2M2izKhmVPoq5aqr%252BtaAe4j8%252BJB6IhJAICQIhxHJJh4i4fR3HZSZtS0c00bCtmq0eaxorJvy6bxpxkrLM%252BgFCafT06D-an4hHJIexcrb3JyAQhFEUdilKZReEqao6jWRoWhmK6ejgfpBjJoHYGmTA5lPRZbBWep1ldzYQB2fZDjZE5zip65bnuJ4GY8KzHXoWzMQckmNr7NyeFx-GWMq2WONqgl6v9QMJeahUMszdqc2G-M2dTIuBqysu82SgWZomtm0%252B%252BuOApJy2-TCgMIp6qKq-TOLS9jXLK-64fs1H-NG7FgyprG7G5qlpafqJuWQkT1yYR24ddYOqcFGOn3TuXVcOhzlEdz3A9buPeYzwvVOFq%252B1j16z0meM-WB%252BJKUHhLpmJXGyNVKyXhgpfuSMOZgPRrPJexVIGSxfgTNemd-pcS-hTASwcAGiUhgXaG0lmZcwRpXaBLNuYL15hNOBQstQtxftLVB8duxb3VinAhIRvKvwziwugXcGq92ARPNqU8coV04X1FqxdBodXrtqKhgs%252BbWkka3N%252BaDO51W7o1Thg9WolzEeXZK49pE1xHuIhuiim5mVoco%252Ba3CmHt1Wqw5ym1%252Bwa2wLtfe8AJyHxnCreci4z4XQvpueA187p3ydk9R%252BEcvLRxQU44m3YMHk2Btg-8NNwZAN0eQkhEDoJRXZkQzmGkEa2Obqo5B6cZZ8M4oDb%252Bv8FZg0AfgxBsESkwM0mQzpFDylWLnvzAZ8DhaY2sfPEWi8hZAA&imageOptions=%2523O_%257B%2522fonts%2522%253A%255B%257B%2522name%2522%253A%2522satoshi%2522%252C%2522data%2522%253A%257B%257D%252C%2522style%2522%253A%2522normal%2522%257D%255D%257D"
+                    }
+                  ],
+                  "ogTitle": "Frog Frame",
+                  "ogLocale": "en"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "frames",
+            "name": "frames",
+            "image_url": "https://i.imgur.com/vz4KzeC.jpg"
+          }
+        }
+      },
+      {
+        "url": "https://frames.fcstr.xyz/tip?username=adrienne",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://frames.fcstr.xyz/tip/image?image=N4IgLghg5iBcIBMCWA3EAaEAHATgeywGc5RCwBPAGwFMTElCtKJy4QAzGgDww%252B4BEkOagGMwSPADs2IvJQCuAW2mYAFtSRRVYNgEYADPoCkvAO5IEYVXsMmAvphGqklBMOmxQkGPGRpMuATEniBkVLQhspR4OGymzmC0mMiMzKzwnNQ8mJlcgsJiEh4gUUoqIJRIktQAEhpaOrC6AHQATAEQCMiSPgAc%252BjlSYADKSABeEQCc7SDmltbwBsa86praNsuYAEYQIgDWUPjykggAwnIxbADE%252Bvz6k7oArCAOJc6u7nAA2l7QbH68QJEOhhGh0FJMFhsXK8XL5UTiKQyORlXhQCBYNitAAsWB4rycLjc1A8P3Af3gjAg5SBwVIFDBISwnW6UAAKgQ4NjegT3sTSSA2UgsAACAACvE6OCQJOqIAAuryiZ9YF9BcLxZK3DLJHL5ZgGABRQgiDHUBBwMA4eTUBy-HyhZk0-DAkKgiKgdhDUYTOAAZgGJQusXgVwAgvwwwA2ABC2Jejj5KpA%252Bi4EGoEGxzWz2Me2NaCbeypJ3xTaYzWZzeYL%252BpARpNZotsCtNrsisTxdJ9rYVOdQRBDI92BZVXZnNg3KVHxLqvVoolmClOr1U-5paF8610tltFr9dNWHNluttvQ3cpTsBLrpoUHdC9khG4wiAccweuEejccLhOnxVT6aZtmzS5vmP5JjOaoARWwGgTWBqEMaB5Hs2J5tghSGNserZnuSDoAgE14DuE4IMJC6R8FkgJ4IQSCIsUEBbIQKKJLwWx4GAYB4IocCBsyXSjmwUb6HiIr9HiZgWFYGwoKY4GdnQ3g9pehH9m6d4hA%252BT6%252BrAr5BtEIYgOGkaxvGq7Jucqg0WAIoAPRQIo7AQDgppkNQOAipUKDUGQwgQIoIoAGLOa5iQedUpiECKhBWaYIqADwbgCZ%252B4A8H%252BALwbgA1O0FeDHAg7kimyJJQHlADqLCEOgIpbNKPSjiKABWeDkCKVRcSKpgxHsbV0aoIr8NQKAAPJECKuC7OIIg%252BSKgB8G4A6Lsioo3EilwIp%252BiKqWAOk78l-qWlnWXZDlOS5EBuR5Xk%252BVaGYBcFR0nSKEVRTFeBxUlaWZYF2UnHlBU9CVZUVVVo61Q1TUtXgbUdV1Vi9f1Q1RaNhQTVFs3zYty2rRtCoYQ2h5Ni2trmZB56OtSV5qfSJGad6z7%252BoGUSXKGn6mVta7wLtZD7Y5IXHWFnmoOdflXVzt33dFsUJSlGVZTlX2Fb95DlZV1VQEDjXNY%252BYPtTgnXmFDfWDcN8PjZNyMLQFaNrZtBMCmzNn2ZzN082dvmXUFQs8yLj3PRLb0fblHnfUVHmlfL-1KyrIPq%252BDWuQz1euwyNOBjUgiPTXNptLStFuY3WiHYyhePoTnmE49htrtkW22qkTBHYER6kU6AEJpNC3CwgIQgIkUyIKMoaIYliuL4h2ldkkpF4k6prrk4yoD8ayHKYhOPLDyzaobpqi7ajuCpW%252BuGoLiAS7b3uufIbjaG4WPxN9lPt4NxwVM6XpdOGcZX5mSvybQUBVZgbvs7f0rCBas2d9xYVQq2cuv5V5E17KTW%252B7o6Bz1HAvLky8K6rznBvQ%252BW9dS7n-mvfeW5ly7ixmfUudo8LKQnrXMmd8Z4P0fD6F8tN3wMxMt%252Bf%252BZZAJALgszFUUFyw-2AWBE%252Bxd85oTEXnc%252BOFq6oHgTeRBIQm5QgyK3AINE6Jd3gIxZiChWLbA4lxHisA%252BIjh6EJESy1xLZFmFJBYIAliyX4TOWBKlaEII0p6R%252BLC3wGQ-Bwj%252BGCLJ4CsuzO2h1Qp5SdhdfyrsHZ5Q9mLF6kt3rS39rLIOf1FaAx6PVVWoMo7a26tDfWcNE4I2NmnVGmcMYEJADbDmkTubRL5s7OJ10onhWoJFUWT1xavSlp9DJP0skhxyTVPJwM1atU1sU3WMMDYVKNkjapZtambSkeQiB%252BNP6EyoePG%252BiivGMO0r4-S9MjKM04Xs4ojSIlu1ad5dpgsEndN6Z7AZqTfYy1GSKYOCsAaTKgPkiOsyIY61jos8pScU4mxqejS2tydqhL2g8t5vNnmxNeV0u6PSHrJO9kMv2%252BVMn-OyUC5WUyCmRzmTHUp8dDbJyqSjdZiLQGn3AQXLZXLJFkN5a2Ahcj-AeOOffF%252BcQEhJHoKkVRlFbFwg7oUJE8BSi90wJUaodQ1iNBaDMZBFjYD9EGEw6msBpiYDmNJRYtgVj1HWDazYIAdj7EOL7c4-jQy3HuE8FxXYDn0BFbSYiDCVEURhDkduBR6Ld1RJgdEi8QA4gkkKgNcDJ5ioYQasci9JzItnOvA%252BR88E73zYQzcm9twlp5SXHZlCr7ptFSGocWlmE0z8Zct%252BTMuGANgiA%252Bpvbf7wSLtIihUCIL%252Bobe44N9cs3mJzWg%252BphbiHHyXUQytJCOXiJkaeNxNCZ3TxbT49tFzX7XKCdAr%252BQjeH9rLdwmCQ6t2jrrTWiRsiA01wPfQocYaW5UQ0bRGNOimIsWlexTi3FeIdAEoakAwlRI2MkvMGScl-57qOc2%252B8x7dKsM9VcwJfq2D3IOo806bTsXxNxUk-pKSfbpNJX8gFodckgumYUulkKGVLNhSy9O5s6l3uI-bXFMSBaUZae8glNGiVpOGQxwO5LxmUvDjMjWEKSlx245U1ZrKM7stfTuuwqap37rroerDpqn64c7eewjrNUXhJIxi0TLtOkSbxR8wlgzZMkoDnLQFYdqVgrU9HTjmmYXadTrp-jSLgmQQaQ522TmRPkbE254W%252BK%252Ble28z8kZCmmMTKpaxml4LQsaehQnHjOm%252BMbKfds7l-La3cuMxSQNCjMPKLIs3NR-75XwmVcUNV5QE0DxTWW9D7XZ1Dmzagpea6K04KrSuO9y6N3H0a2%252B3dabp1me-RZs5J6JXsPfnZ%252B9wi%252BEDuvX20RG3DPjoUlXbbpm6FKNnvO2bea4sClW4tzd92R5YKLbgvUt2KGX1a42r9r3Tltpwx2s9BGe1XcfZdnh13h1gKa3ykd9WL7Csm%252BZzrsrw3qOwJooDh8QP6LA0YyDpjoOsksQhqxSHrWOMMM4tDT2MNTf27D5%252BbD8Mna4UJ5pt0XMdNIx5qT2Xvn0b82MgLLHQWqaKfS8LlXIvwrZVnepoupcS5xe56jsu6NyYV4ppXwKVfsfUwsspmuVlRZq-p0HdaWsOkh7t6HrazUC7w12m5X2iOJaaQb1Lrmpcm6%252BWb3zZKCvKaC6rjj5WHdMrhWsvTuvBOh-RSlrFaWo%252BZc%252BbR4lvz8sUsC8V4LauwsVfT7xhFWcDNjrdw1nHAqy5t7QkAA&imageOptions=%2523O_%257B%2522fonts%2522%253A%255B%257B%2522name%2522%253A%2522satoshi%2522%252C%2522data%2522%253A%257B%257D%252C%2522style%2522%253A%2522normal%2522%257D%255D%257D"
+              }
+            ],
+            "ogTitle": "Frog Frame",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x010dc1f7",
+    "url": "https://warpcast.com/kiwi/0x010dc1f7",
+    "author_username": "kiwi",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 13442,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/035a1a19-4cbc-4a0a-b5cd-65511b57dc00/original",
+    "cast_date": "2024-03-09T01:30:05.000Z",
+    "text": "@macbudkowski tipped @ijaack 0.0009 ETH.",
+    "embeds": [
+      {
+        "url": "https://onceupon.gg/0xabcd5d879674e20c27f1d207787300be4ae60a0caadfd58ccd00ca6e2f9dd788",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "Once Upon",
+            "ogLocale": "en",
+            "ogDescription": "The Once Upon block explorer has been discontinued."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd8af05f9",
+    "url": "https://warpcast.com/stevedylandev.eth/0xd8af05f9",
+    "author_username": "stevedylandev.eth",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 6023,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6fa09b86-271f-4411-2cef-8e68735df500/original",
+    "cast_date": "2024-03-08T17:39:59.000Z",
+    "text": "GET YA HATS HERE 🧢\n\nIntroducing the Pinata Hat Store! Limited supply of 25, 0.005ETH. But watch the add and get 50% off 🎉\n\nIn order to get the discount you must have an address connected to your account!\n\n https://hats.pinatadrops.com/api",
+    "embeds": [
+      {
+        "url": "https://hats.pinatadrops.com/api",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://dweb.mypinata.cloud/ipfs/QmeC7uQZqkjmc1T6sufzbJWQpoeoYjQPxCXKUSoDrXfQFy"
+              }
+            ],
+            "ogTitle": "Pinta Hat Store",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc06a398f",
+    "url": "https://warpcast.com/toadyhawk.eth/0xc06a398f",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2024-03-09T02:40:30.000Z",
+    "text": "🔵 SUPER BASED HOODIE Limited Edition Drop 🔵 \n\nYou might have noticed @jesse.base.eth sporting this iconic @base.base.eth blue pullover at ETHDenver last week. Now you can order one in 2 clicks, right in frame!\n\nΞ0.0269 incl WW shipping. Proceeds to the /yellow collective.\n\nhttps://slice.so/api/frame-merch-drop/based-hoodie/",
+    "embeds": [
+      {
+        "url": "https://slice.so/api/frame-merch-drop/based-hoodie/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x995db736",
+    "url": "https://warpcast.com/toadyhawk.eth/0x995db736",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2024-03-08T17:41:24.000Z",
+    "text": "Here we go— first of two Day 1 Tx-supported frames from the /yellow collective today. Thanks to our wizards at @papercliplabs.eth, Yellow just became the first DAO-like org to ever hold a daily auction COMPLETELY IN-FRAME! \n\nLFG, bid on @base.base.eth below 👇 \n\nhttps://frames.paperclip.xyz/nounish-auction/yellow-collective",
+    "embeds": [
+      {
+        "url": "https://frames.paperclip.xyz/nounish-auction/yellow-collective",
+        "metadata": {
+          "content_type": "text/plain;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8718f70b",
+    "url": "https://warpcast.com/ted/0x8718f70b",
+    "author_username": "ted",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-03-10T20:16:33.000Z",
+    "text": "inaugural CLUB TED poker night (URL) is 3/21 😈 \n\n$100 USDC buy-in (on @base.base.eth) to RSVP on @event. exclusive to CLUB TED ORIGINALS holders.\n\nnotes:\nbuy-in goes to me, i'll refund asap if you can't come + depending on #s, this may be a tournie streamed on @unlonely so anyone can bet on the winner\n\nevents.xyz/v2/dcd53dc0",
+    "embeds": [
+      {
+        "url": "http://events.xyz/v2/dcd53dc0",
+        "metadata": {
+          "content_type": null,
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfdc33e31",
+    "url": "https://warpcast.com/july/0xfdc33e31",
+    "author_username": "july",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 1287,
+    "author_pfp": "https://i.seadn.io/gcs/files/ed56e6b9a1b22720ce7490524db333e0.jpg?w=500&auto=format",
+    "cast_date": "2024-03-08T15:26:50.000Z",
+    "text": "Today, @faust is announcing Roc: a reality oracle computer that notarizes reality, onchain\n\nFor the past ~3 years, we have been venturing into the great beyond at the intersection of deep tech x crypto. We’re building a new kind of hardware (from the bottom up) that is designed for Ethereum\n\nRead on below...",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/RcfB5A2.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 142076,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1280,
+            "height_px": 720
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8fdfcc5c",
+    "url": "https://warpcast.com/ghostlinkz.eth/0x8fdfcc5c",
+    "author_username": "ghostlinkz.eth",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 3115,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80cb3761-6951-49a1-71c5-be9da3b93400/original",
+    "cast_date": "2024-03-10T19:55:37.000Z",
+    "text": "Looks like there's a serious battle going on between /degen and /lp right now. I personally love to see channels like /art /design /photography /dev doing well.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3115,
+          "hash": "0x4aa42fe01b7dc5d55560b931374149bc806b11db"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4aa42fe01b7dc5d55560b931374149bc806b11db",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3115,
+            "username": "ghostlinkz.eth",
+            "display_name": "Ghostlinkz",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80cb3761-6951-49a1-71c5-be9da3b93400/original",
+            "custody_address": "0x218ea80280a139e7e835744bbd3a4ade6b5f7c0d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x70a887c122856f32b39a08868415de7683c22fef",
+          "parent_hash": "0x70a887c122856f32b39a08868415de7683c22fef",
+          "parent_url": null,
+          "root_parent_url": "https://warpcast.com/~/channel/outcasters",
+          "parent_author": {
+            "fid": 3115
+          },
+          "text": "",
+          "timestamp": "2024-03-10T19:38:31.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/1AZyObp.jpg",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 258519,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 566,
+                  "height_px": 410
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "outcasters",
+            "name": "outcasters",
+            "image_url": "https://i.imgur.com/9xtlXab.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x70a887c1",
+    "url": "https://warpcast.com/ghostlinkz.eth/0x70a887c1",
+    "author_username": "ghostlinkz.eth",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 3115,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80cb3761-6951-49a1-71c5-be9da3b93400/original",
+    "cast_date": "2024-03-10T19:38:17.000Z",
+    "text": "This is Outcasters Snapshot 035, covering the week of March 03 - 09, 2024. During this week, the Farcaster network made 1,488,658 casts including replies, and 286,166 casts excluding replies.\n\nTotal New Users: 4737\nTotal New Channels: 287\n\nCuration & cover art by @cameron\n\nhttps://outcasters.xyz/snapshot-035",
+    "embeds": [
+      {
+        "url": "https://outcasters.xyz/snapshot-035",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2024-03-10T19:36:33.498Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/ac0da8f89302b85c218f6da2e7632d79",
+            "ogImage": [
+              {
+                "alt": "Snapshot 035",
+                "url": "https://storage.googleapis.com/papyrus_images/18a7c5b57224a428be050d34ebc1387c.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Snapshot 035",
+            "ogLocale": "en",
+            "ogDescription": "This is Outcasters Snapshot 035, covering the week of March 03 - 09, 2024. During this week, the Farcaster network made 1,488,658 casts including replies, and 286,166 casts excluding replies.",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@outcasters/snapshot-035?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Snapshot%20035&blogName=Outcasters&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fac0da8f89302b85c218f6da2e7632d79&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F18a7c5b57224a428be050d34ebc1387c.jpg&size=2048&publishedDate=1710099393498"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Snapshot%20035&blogName=Outcasters&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fac0da8f89302b85c218f6da2e7632d79&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F18a7c5b57224a428be050d34ebc1387c.jpg&size=2048&publishedDate=1710099393498",
+            "frames_url": "https://outcasters.xyz/snapshot-035"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xacbfd5e0",
+    "url": "https://warpcast.com/stringtheory69/0xacbfd5e0",
+    "author_username": "stringtheory69",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 191213,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/acd0118a-6ff9-43cc-1b57-0c9e761aec00/original",
+    "cast_date": "2024-03-10T06:55:33.000Z",
+    "text": "Update on Fully Automated Laissez-Fair Journalism for @balajis.eth \n\n- Added Trending and Farcaster channels\n\n- Added price of eth and date\n\n- UX updates \n\nTomorrow I will add some more channels and improve writing / aggregation / image gen / more\n\nhttps://fully-automated-laissez-faire-journalism.vercel.app/",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/ivD70Wj.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 316652,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 838,
+            "height_px": 590
+          }
+        }
+      },
+      {
+        "url": "https://fully-automated-laissez-faire-journalism.vercel.app/",
+        "metadata": {
+          "content_type": null,
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xef530539",
+    "url": "https://warpcast.com/balajis.eth/0xef530539",
+    "author_username": "balajis.eth",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 37,
+    "author_pfp": "https://github.com/balajis.png",
+    "cast_date": "2024-03-10T08:51:58.000Z",
+    "text": "From fully automated luxury communism to fully automated laissez-faire journalism.\n\nHere’s what we want next.\n\nFirst, make it look exactly like NYT. They publish your info without consent, so parodic turnabout is fair play.\n\nSecond, allow anyone to paste in casts to generate an article. You are the reporter now.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 191213,
+          "hash": "0xacbfd5e0b172094445663ef9732bfb0530a326d0"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xacbfd5e0b172094445663ef9732bfb0530a326d0",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 191213,
+            "username": "stringtheory69",
+            "display_name": " stringtheory",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/acd0118a-6ff9-43cc-1b57-0c9e761aec00/original",
+            "custody_address": "0x1a323d7bedc14526d0b5ebbd3846948f9349a9dc"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xacbfd5e0b172094445663ef9732bfb0530a326d0",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Update on Fully Automated Laissez-Fair Journalism for @balajis.eth \n\n- Added Trending and Farcaster channels\n\n- Added price of eth and date\n\n- UX updates \n\nTomorrow I will add some more channels and improve writing / aggregation / image gen / more\n\nhttps://fully-automated-laissez-faire-journalism.vercel.app/",
+          "timestamp": "2024-03-10T06:55:33.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/ivD70Wj.png",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 316652,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 838,
+                  "height_px": 590
+                }
+              }
+            },
+            {
+              "url": "https://fully-automated-laissez-faire-journalism.vercel.app/",
+              "metadata": {
+                "content_type": null,
+                "content_length": null,
+                "_status": "RESOLVED"
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x19bca0ca",
+    "url": "https://warpcast.com/tldr/0x19bca0ca",
+    "author_username": "tldr",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x3e2780b1",
+    "url": "https://warpcast.com/dwr.eth/0x3e2780b1",
+    "author_username": "dwr.eth",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-03-11T01:48:57.000Z",
+    "text": "We’re working on a major overhaul for channels that doesn’t require a bunch of negative moderation from hosts. \n\nGoal is to make a host’s job about highlighting great content.\n\nWill also make it more feasible to decentralize channels sooner.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9019b218",
+    "url": "https://warpcast.com/barmstrong/0x9019b218",
+    "author_username": "barmstrong",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 20,
+    "author_pfp": "https://i.imgur.com/4t3zVHj.jpg",
+    "cast_date": "2024-03-09T20:46:21.000Z",
+    "text": "1. It’s great to see Farcaster expand the utility of casts with frames. @Base and @CoinbaseWallet have been utilizing frames and @warpshop uses the Coinbase Commerce API to create an ‘in-frame shop' which feels like the future of onchain shopping. https://warpcast.com/warpshop/0x03bf5cee",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 298650,
+          "hash": "0x03bf5ceeab688d9cb2e14b676fe926a42500bd19"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x03bf5ceeab688d9cb2e14b676fe926a42500bd19",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 298650,
+            "username": "warpshop",
+            "display_name": "Warpshop",
+            "pfp_url": "https://i.imgur.com/YJ9NmQa.jpg",
+            "custody_address": "0xcf2a634c20d6f77aeb73600f8353b648d06102ed"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x03bf5ceeab688d9cb2e14b676fe926a42500bd19",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/frames",
+          "root_parent_url": "https://warpcast.com/~/channel/frames",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Warpshop V1 is open to the public! 🟣\n\nSet up your in-frame shop in < 5 minutes.\n\n1. Name your store\n2. Add your products\n3. Input your CB Commerce API key (Shopify coming soon) \n4. Start selling \n\n100% free. No charge & no fees.\n\nGet started at warpshop.xyz/setup 🛍️",
+          "timestamp": "2024-02-27T15:57:27.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/GbYcvGU.jpg",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 172879,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1078,
+                  "height_px": 1406
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "frames",
+            "name": "frames",
+            "image_url": "https://i.imgur.com/vz4KzeC.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7a05ef54",
+    "url": "https://warpcast.com/pichi/0x7a05ef54",
+    "author_username": "pichi",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xcf1a8650",
+    "url": "https://warpcast.com/borrowlucid.eth/0xcf1a8650",
+    "author_username": "borrowlucid.eth",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 19858,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8f1427ef-d611-4317-55d1-6fd14eeed000/original",
+    "cast_date": "2024-03-09T06:30:51.000Z",
+    "text": "Hope you dont mind that I share this, but the sentiment here feels familiar to what I was trying to convey 🙏\n\nAppreciate your fun💜!!\n\nhttps://mirror.xyz/borrowlucid.eth/FHkbPLek49z-TG3uKMmWtH6bcKD_tFEipheaRgGJp1g",
+    "embeds": [
+      {
+        "url": "https://mirror.xyz/borrowlucid.eth/FHkbPLek49z-TG3uKMmWtH6bcKD_tFEipheaRgGJp1g",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://images.mirror-media.xyz/publication-images/eAiZHqTyO_1R8vVAx2Msl.jpeg?height=1530&width=3060",
+                "type": "jpeg"
+              }
+            ],
+            "ogTitle": "What's gm?",
+            "ogDescription": "It’s always morning in the metaverse. But why?\n"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2843d176",
+    "url": "https://warpcast.com/lluis/0x2843d176",
+    "author_username": "lluis",
+    "show_date": "2024-03-11",
+    "show_title": "GM Farcaster ep73, March 11, 2024",
+    "source_episode_id": "o_G60_eIBiA",
+    "author_fid": 11747,
+    "author_pfp": "https://ipfs.decentralized-content.com/ipfs/QmXb6fc3kUPtmWc3MECYHMPnUQmYeP42muKkjKBMU3jcVa",
+    "cast_date": "2024-03-11T05:45:00.000Z",
+    "text": "the ticker is “$lolsorrydwr”\n\nhttps://dexscreener.com/base/0x88f518d21de58701453e0895887cffe93e08f06f\n\n21,000,000 max capped supply just like god intended\n15% of supply airdropped to @dwr.eth \n70% to community for apologizing for spamming $degen\n15% to dev team\n\nim so sorry",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/iIQeTqR.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 440368,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 996,
+            "height_px": 996
+          }
+        }
+      },
+      {
+        "url": "https://dexscreener.com/base/0x88f518d21de58701453e0895887cffe93e08f06f",
+        "metadata": {
+          "content_type": null,
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

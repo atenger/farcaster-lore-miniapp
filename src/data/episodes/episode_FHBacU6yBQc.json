@@ -1,0 +1,776 @@
+[
+  {
+    "cast_hash": "0xb266ea00",
+    "url": "https://warpcast.com/dwr.eth/0xb266ea00",
+    "author_username": "dwr.eth",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-02-02T17:53:05.000Z",
+    "text": "ITS HAPPENING",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/74577323f1e4f6caf24f203caf7a02e3.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 28.2
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x48458b4c",
+    "url": "https://warpcast.com/dwr.eth/0x48458b4c",
+    "author_username": "dwr.eth",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-02-02T18:00:23.000Z",
+    "text": "New feature on Warpcast\n\nVideo!\n\n- Everyone can view videos today on mobile and web\n- Gradually rolling out video uploads; starting with the earliest FIDs\n- Up to 5 minutes supported; more improvements coming soon\n- Be respectful with video uploads—trolling will result in a nerf from me :)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3c179b05",
+    "url": "https://warpcast.com/sdv.eth/0x3c179b05",
+    "author_username": "sdv.eth",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 2745,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4f049a4a-1215-4b1c-8c84-d80d1420da00/rectcrop3",
+    "cast_date": "2024-02-03T23:08:38.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmU6vcMjmFcvsc2qSR2NaPgHpi4n4LPywGfAvrmxEdBUEV?filename=fail-whale-purple.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 19105,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 598,
+            "height_px": 324
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4ca62147",
+    "url": "https://warpcast.com/dwr.eth/0x4ca62147",
+    "author_username": "dwr.eth",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-02-04T01:46:32.000Z",
+    "text": "Warpcast team priorities right now\n\n1. Stability / uptime\n2. Feed quality, esp. with off-topic casts in channels\n3. Frames\n4. Any other bugs",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x32342a05",
+    "url": "https://warpcast.com/dwr.eth/0x32342a05",
+    "author_username": "dwr.eth",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-02-04T01:51:58.000Z",
+    "text": "New features for channel hosts\n\n- Pin\nAs a host, pin as many casts to the top of your channel as you want. Announcements, a frame, or highlight someone in your channel.\n\n- Ban from channel\nPrevent a user's casts from appearing in the channel feed. Note: user's casts unaffected at protocol level, just the channel feed.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/aBxNiKs.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 29957,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 378,
+            "height_px": 430
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbc947957",
+    "url": "https://warpcast.com/dwr.eth/0xbc947957",
+    "author_username": "dwr.eth",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-02-03T18:59:49.000Z",
+    "text": "Active badge update: we're increasing the requirement to 400 followers.\n\nUpdated badges will roll out in the next few hours.\n\nhttps://warpcast.notion.site/Active-badge-d81fea2e953e4dafae7c85295ffaf3ae",
+    "embeds": [
+      {
+        "url": "https://warpcast.notion.site/Active-badge-d81fea2e953e4dafae7c85295ffaf3ae",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.notion.site/Power-Badge-d81fea2e953e4dafae7c85295ffaf3ae",
+            "ogType": "article",
+            "favicon": "https://warpcast.notion.site/images/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://warpcast.notion.site/images/meta/notion-wordmark.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Power Badge | Notion",
+            "ogLocale": "en_US",
+            "ogSiteName": "Warpcast on Notion",
+            "ogDescription": "\n\nWarpcast gives power badges to users who are active, interesting to others and not spammy. \n\n"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x85671cdc",
+    "url": "https://warpcast.com/v/0x85671cdc",
+    "author_username": "v",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-02-03T01:17:05.000Z",
+    "text": "i have some unfortunate news for you this shipday eve",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 303,
+          "hash": "0x75c926dfa86f507993ada904c2e9dd65b49aed8d"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x75c926dfa86f507993ada904c2e9dd65b49aed8d",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 303,
+            "username": "kyle",
+            "display_name": "mcclick",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/545e651a-931c-4db3-1713-7a1aaad44c00/original",
+            "custody_address": "0x015ede9bcd9c6197d21164add87d27fa8dbf1f50"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x75c926dfa86f507993ada904c2e9dd65b49aed8d",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+          "root_parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "ok I have to UPDATE APP AGAIN. I cant take this anymore. every day I am checking warpcast and there are new features. every day, check warpcast, new features, have to update app. I cant take this anymore, I have too much screentime, by a lot. it is what it is. but I have to UPDATE APP ALREADY. can devs DO NOTHING.",
+          "timestamp": "2024-02-02T15:51:58.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 3,
+                "hash": "0xc1ec5290c6ddc3b348561549f617040660227626"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xc1ec5290c6ddc3b348561549f617040660227626",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "memes",
+            "name": "Memes",
+            "image_url": "https://i.seadn.io/gcs/files/1f4acfc1e6831eb38e9453ce34ac79f8.png?auto=format&dpr=1&w=512"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x149840ad",
+    "url": "https://warpcast.com/v/0x149840ad",
+    "author_username": "v",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-02-03T06:25:25.000Z",
+    "text": "Frames are now privacy preserving! \n\nYour IP address is no longer visible to frame authors. All requests are proxied via Warpcast's backend servers to keep your clients private.\n\nA few caveats: \n\n- This change just went live, there may be bugs\n- Clicking a button will expose your username (but not IP)\n\nh/t to @sds!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x954cfdb6",
+    "url": "https://warpcast.com/v/0x954cfdb6",
+    "author_username": "v",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-02-03T00:21:50.000Z",
+    "text": "Frame Fridays: Text Input!\n\nFrames can now ask for text input. You may need to restart mobile a few times to get this frame to work.   \n\nhttps://echo-the-dolphin.vercel.app/",
+    "embeds": [
+      {
+        "url": "https://echo-the-dolphin.vercel.app/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://echo-the-dolphin.vercel.app/api/images/start?date=1707169119717"
+              }
+            ],
+            "ogTitle": "Echo the Dolphin",
+            "ogLocale": "en",
+            "ogDescription": "Type something and Echo will say it back!"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x90ee6d6d",
+    "url": "https://warpcast.com/danr/0x90ee6d6d",
+    "author_username": "danr",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 210432,
+    "author_pfp": "https://i.imgur.com/bkdILaL.png",
+    "cast_date": "2024-02-05T02:30:07.000Z",
+    "text": "i really hope this doesn't become the next trend. \n\nwe shouldn't be in the habit of sharing seed phrases",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 88,
+          "hash": "0x2f7eb39e7ca794c976bc13886414a38a8a9f69e6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x2f7eb39e7ca794c976bc13886414a38a8a9f69e6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 88,
+            "username": "worm.eth",
+            "display_name": "🪱",
+            "pfp_url": "https://i.imgur.com/bpL5JXB.jpg",
+            "custody_address": "0xc2f1c370e159db52b95992d65647ad00dee7f7ca"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x2f7eb39e7ca794c976bc13886414a38a8a9f69e6",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/frames",
+          "root_parent_url": "https://warpcast.com/~/channel/frames",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Introducing $SBUX – Seedbucks\n\n• A new ERC20, claimable _only_ via Farcaster Frame.\n• Enter your seed phrase and get 1bn $SBUX per 1 ETH in wallet\n• Share your referral link to earn bonus $SBUX\n• One claim per Farcaster account / seed phrase\n\nhttps://seedbucks.xyz",
+          "timestamp": "2024-02-04T23:03:23.000Z",
+          "embeds": [
+            {
+              "url": "https://seedbucks.xyz",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogImage": [
+                    {
+                      "url": "https://seedbucks.xyz/static/share.png?repoen",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Seedbucks"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "frames",
+            "name": "frames",
+            "image_url": "https://i.imgur.com/vz4KzeC.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x83c4e084",
+    "url": "https://warpcast.com/v/0x83c4e084",
+    "author_username": "v",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-02-04T02:56:33.000Z",
+    "text": "We've designed it so it's nearly impossible in Warpcast: \n\n1. Frames only interact with Farcaster account keys (EdDSA keys) and never with Ethereum keys (ECDSA keys) \n\n2. Frames are sandboxed and can only render markup, making it very difficult to jailbreak",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4483,
+          "hash": "0xe0491bc2ae1d355d7c16b8dea64cb748606f2e61"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe0491bc2ae1d355d7c16b8dea64cb748606f2e61",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4483,
+            "username": "iceberg",
+            "display_name": "Icebergy ❄️",
+            "pfp_url": "https://i.imgur.com/4eVVhJd.gif",
+            "custody_address": "0x7f37b0d858154e04c85e504fcac934208278dbab"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe0491bc2ae1d355d7c16b8dea64cb748606f2e61",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Can i get rugged on frames?",
+          "timestamp": "2024-02-04T02:44:53.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0d427884",
+    "url": "https://warpcast.com/dwr.eth/0x0d427884",
+    "author_username": "dwr.eth",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-02-04T01:13:32.000Z",
+    "text": "Farcaster requires proof of work.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0d427884",
+    "url": "https://warpcast.com/dwr.eth/0x0d427884",
+    "author_username": "dwr.eth",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-02-04T01:13:32.000Z",
+    "text": "Farcaster requires proof of work.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x210b5267",
+    "url": "https://warpcast.com/jess/0x210b5267",
+    "author_username": "jess",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 139,
+    "author_pfp": "https://i.imgur.com/KkyGJLy.jpg",
+    "cast_date": "2024-01-30T04:28:25.000Z",
+    "text": "Farcaster 101\n\nNew here? 6 tips to getting the most out of FC\n\n1. Cast to get you Active Badge\n2. Get the most out of channels\n3. Understand Warps\n4. Follow the engaging casters\n5. Wrap your head around frames\n6. Explore other clients and apps \n\nI get into the details of these and more below 👇",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd525a05b",
+    "url": "https://warpcast.com/christin/0xd525a05b",
+    "author_username": "christin",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 15850,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bd90b57-732c-445b-4670-00040e540100/original",
+    "cast_date": "2024-02-02T19:44:13.000Z",
+    "text": "I’ve been thinking about how to enjoy Warpcast without the agitation that comes with new commotions\n\nLove the new features and will use them, though the buzz can sometimes degrade my feed experience \n\nWhat has helped:\n1) browsing cozy channels like /costco and /sardines , fewer casts per day\n2) un-follow high spam..",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x91141ee5",
+    "url": "https://warpcast.com/emmanuel/0x91141ee5",
+    "author_username": "emmanuel",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 16877,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/feb3c6cc-0e09-4137-b80e-821a83a79500/rectcrop3",
+    "cast_date": "2024-02-04T07:08:38.000Z",
+    "text": "farcaster tip for newbies:\n\nfarcaster is the protocol.\n\nwarpcast is the client.\n\nthink of farcaster as Italy and warpcast as your tour guide.\n\nthere's only one Italy, but lots of other tour guides, such as @super, @farquest, @yup, among others.\n\na great resource for this: https://github.com/a16z/awesome-farcaster",
+    "embeds": [
+      {
+        "url": "https://github.com/a16z/awesome-farcaster",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://github.com/a16z/awesome-farcaster",
+            "ogType": "object",
+            "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+            "ogImage": [
+              {
+                "alt": "A collection of awesome Farcaster links including clients, tools, and more. - a16z/awesome-farcaster",
+                "url": "https://opengraph.githubassets.com/bd1b4a2396b9fdb64816e99cbccc743e055a27d526be76918326c18f0a53d18e/a16z/awesome-farcaster",
+                "width": "1200",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "GitHub - a16z/awesome-farcaster: A collection of awesome Farcaster links including clients, tools, and more.",
+            "ogLocale": "en",
+            "ogSiteName": "GitHub",
+            "ogDescription": "A collection of awesome Farcaster links including clients, tools, and more. - a16z/awesome-farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x871d471c",
+    "url": "https://warpcast.com/dwr.eth/0x871d471c",
+    "author_username": "dwr.eth",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-02-02T18:21:52.000Z",
+    "text": "are you ready for farcon, anon?\n\nhttps://warpcast.com/robrecht.eth/0x293bd7a9",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2417,
+          "hash": "0x293bd7a91e59f0955fcd2a6136a4a7d9d775f957"
+        },
+        "cast": {}
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe7e67ddb",
+    "url": "https://warpcast.com/dwr.eth/0xe7e67ddb",
+    "author_username": "dwr.eth",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-02-05T05:35:41.000Z",
+    "text": "Up to 38. Just passed this app WeChat.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/q4uuGle.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 691865,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 923,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2e534a0f",
+    "url": "https://warpcast.com/perl/0x2e534a0f",
+    "author_username": "perl",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xd2964f0a",
+    "url": "https://warpcast.com/ghostlinkz.eth/0xd2964f0a",
+    "author_username": "ghostlinkz.eth",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 3115,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80cb3761-6951-49a1-71c5-be9da3b93400/original",
+    "cast_date": "2024-02-04T23:40:17.000Z",
+    "text": "This week's most active users on Farcaster:\n\n1. @guapolocal.eth \n2. @wake \n3. @dwr.eth \n4. @jesse.base.eth \n5. @greyseymour \n\nhttps://outcasters.xyz/snapshot-030",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/K5XqSRx.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 260140,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 566,
+            "height_px": 410
+          }
+        }
+      },
+      {
+        "url": "https://outcasters.xyz/snapshot-030",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2024-02-04T23:35:37.443Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/ac0da8f89302b85c218f6da2e7632d79",
+            "ogImage": [
+              {
+                "alt": "Snapshot 030",
+                "url": "https://storage.googleapis.com/papyrus_images/83aae50d19c6536c3b99aa1725860558.png",
+                "type": "png",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Snapshot 030",
+            "ogLocale": "en",
+            "ogDescription": "This week's snapshot is curated by my favorite Awkquarian on Farcaster, who has been actively involved in the Web3 space since 2018. Born in 1997, Rakshita considers herself a true digital native. Her on-chain journey has led her to various communities...",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@outcasters/snapshot-030?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Snapshot%20030&blogName=Outcasters&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fac0da8f89302b85c218f6da2e7632d79&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F83aae50d19c6536c3b99aa1725860558.png&size=2048&publishedDate=1707089737443"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Snapshot%20030&blogName=Outcasters&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fac0da8f89302b85c218f6da2e7632d79&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F83aae50d19c6536c3b99aa1725860558.png&size=2048&publishedDate=1707089737443",
+            "frames_url": "https://outcasters.xyz/snapshot-030"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc042e2d1",
+    "url": "https://warpcast.com/ghostlinkz.eth/0xc042e2d1",
+    "author_username": "ghostlinkz.eth",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 3115,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80cb3761-6951-49a1-71c5-be9da3b93400/original",
+    "cast_date": "2024-02-04T23:55:04.000Z",
+    "text": "This week's most active channels on Farcaster:\n\n1. /degen \n2. /frames \n3. /farcaster \n4. /base \n5. /indonesia\n\nhttps://outcasters.xyz/snapshot-030",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/XRHKDOZ.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 257692,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 566,
+            "height_px": 410
+          }
+        }
+      },
+      {
+        "url": "https://outcasters.xyz/snapshot-030",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2024-02-04T23:35:37.443Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/ac0da8f89302b85c218f6da2e7632d79",
+            "ogImage": [
+              {
+                "alt": "Snapshot 030",
+                "url": "https://storage.googleapis.com/papyrus_images/83aae50d19c6536c3b99aa1725860558.png",
+                "type": "png",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Snapshot 030",
+            "ogLocale": "en",
+            "ogDescription": "This week's snapshot is curated by my favorite Awkquarian on Farcaster, who has been actively involved in the Web3 space since 2018. Born in 1997, Rakshita considers herself a true digital native. Her on-chain journey has led her to various communities...",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@outcasters/snapshot-030?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Snapshot%20030&blogName=Outcasters&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fac0da8f89302b85c218f6da2e7632d79&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F83aae50d19c6536c3b99aa1725860558.png&size=2048&publishedDate=1707089737443"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Snapshot%20030&blogName=Outcasters&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fac0da8f89302b85c218f6da2e7632d79&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F83aae50d19c6536c3b99aa1725860558.png&size=2048&publishedDate=1707089737443",
+            "frames_url": "https://outcasters.xyz/snapshot-030"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x04120d52",
+    "url": "https://warpcast.com/ted/0x04120d52",
+    "author_username": "ted",
+    "show_date": "2024-02-05",
+    "show_title": "GM Farcaster ep57, Feb 5, 2024",
+    "source_episode_id": "FHBacU6yBQc",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-02-02T18:01:42.000Z",
+    "text": "coming to a Vision Pro near you*\n\n\n\n*some day and i bet you’ll be able to thank @zachterrell.eth and @greg for it :)",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/f81077a6515875548dce49f7d15bb86d.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1882,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1254,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 836,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 626,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 418,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 18.5972
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

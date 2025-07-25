@@ -1,7 +1,8 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { Cast } from '@/lib/types';
+import { EnrichedCast, SearchFilters } from '@/lib/types';
+import { searchCasts, getAllCasts, validateAndCleanCasts } from '@/lib/api';
 import CastGrid from '@/components/CastGrid';
 import FilterButtons from '@/components/FilterButtons';
 import DatePicker from '@/components/DatePicker';
@@ -11,52 +12,73 @@ import Link from 'next/link';
 const CASTS_PER_PAGE = 20;
 
 export default function Home() {
-  const [allCasts, setAllCasts] = useState<Cast[]>([]);
-  const [filteredCasts, setFilteredCasts] = useState<Cast[]>([]);
-  const [displayedCasts, setDisplayedCasts] = useState<Cast[]>([]);
+  const [casts, setCasts] = useState<EnrichedCast[]>([]);
+  const [totalCasts, setTotalCasts] = useState(0);
   const [currentPage, setCurrentPage] = useState(1);
   const [isLoading, setIsLoading] = useState(true);
+  const [isLoadingMore, setIsLoadingMore] = useState(false);
   const [activeFilter, setActiveFilter] = useState('all');
   const [selectedDate, setSelectedDate] = useState<string | null>(null);
   const [selectedUser, setSelectedUser] = useState<{ username?: string; fid?: number } | null>(null);
   const [isDatePickerOpen, setIsDatePickerOpen] = useState(false);
   const [isUserSearchOpen, setIsUserSearchOpen] = useState(false);
+  const [error, setError] = useState<string | null>(null);
 
-  // Load casts from JSON file
+  // Load initial casts
   useEffect(() => {
-    const loadCasts = async () => {
-      try {
-        const response = await fetch('/casts.json');
-        const casts: Cast[] = await response.json();
-        
-        // Sort by timestamp (newest first)
-        const sortedCasts = casts.sort((a, b) => 
-          new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime()
-        );
-        
-        setAllCasts(sortedCasts);
-        setFilteredCasts(sortedCasts);
-        setDisplayedCasts(sortedCasts.slice(0, CASTS_PER_PAGE));
-        setIsLoading(false);
-      } catch (error) {
-        console.error('Error loading casts:', error);
-        setIsLoading(false);
-      }
-    };
-
-    loadCasts();
+    loadInitialCasts();
   }, []);
 
-  const loadMore = () => {
-    const nextPage = currentPage + 1;
-    const startIndex = 0;
-    const endIndex = nextPage * CASTS_PER_PAGE;
-    
-    setDisplayedCasts(filteredCasts.slice(startIndex, endIndex));
-    setCurrentPage(nextPage);
+  const loadInitialCasts = async () => {
+    try {
+      setIsLoading(true);
+      setError(null);
+      
+      const response = await getAllCasts(CASTS_PER_PAGE, 0);
+      const cleanedCasts = validateAndCleanCasts(response.casts);
+      setCasts(cleanedCasts);
+      setTotalCasts(response.total);
+      setIsLoading(false);
+    } catch (error) {
+      console.error('Error loading casts:', error);
+      setError('Failed to load casts. Please try again.');
+      setIsLoading(false);
+    }
   };
 
-  const handleFilterChange = (filter: string) => {
+  const loadMore = async () => {
+    if (isLoadingMore) return;
+    
+    try {
+      setIsLoadingMore(true);
+      
+      const filters: SearchFilters = {
+        limit: CASTS_PER_PAGE,
+        offset: casts.length,
+      };
+      
+      // Add current filters
+      if (selectedDate) filters.date = selectedDate;
+      if (selectedUser?.username) {
+        filters.author = selectedUser.username;
+      } else if (selectedUser?.fid) {
+        filters.fid = selectedUser.fid;
+      }
+      
+      const response = await searchCasts(filters);
+      const cleanedCasts = validateAndCleanCasts(response.casts);
+      
+      setCasts(prev => [...prev, ...cleanedCasts]);
+      setCurrentPage(prev => prev + 1);
+    } catch (error) {
+      console.error('Error loading more casts:', error);
+      setError('Failed to load more casts. Please try again.');
+    } finally {
+      setIsLoadingMore(false);
+    }
+  };
+
+  const handleFilterChange = async (filter: string) => {
     setActiveFilter(filter);
     setCurrentPage(1);
     
@@ -64,34 +86,43 @@ export default function Home() {
       // Clear all filters when going back to "All Casts"
       setSelectedDate(null);
       setSelectedUser(null);
-      setFilteredCasts(allCasts);
-      setDisplayedCasts(allCasts.slice(0, CASTS_PER_PAGE));
+      await loadInitialCasts();
     }
   };
 
-  const handleDateSelect = (date: string | null) => {
+  const handleDateSelect = async (date: string | null) => {
+    console.log('[DatePicker] Selected date:', date);
     setSelectedDate(date);
-    setActiveFilter('pick-date');
+    setActiveFilter(date ? 'pick-date' : 'all');
     setCurrentPage(1);
     
     // Clear user search when switching to date filter
     setSelectedUser(null);
     
-    if (date) {
-      const selectedDateObj = new Date(date);
-      const filtered = allCasts.filter(cast => {
-        if (!cast.timestamp) return false;
-        
-        const castDate = new Date(cast.timestamp);
-        if (isNaN(castDate.getTime())) return false;
-        
-        return castDate <= selectedDateObj;
-      });
-      setFilteredCasts(filtered);
-      setDisplayedCasts(filtered.slice(0, CASTS_PER_PAGE));
-    } else {
-      setFilteredCasts(allCasts);
-      setDisplayedCasts(allCasts.slice(0, CASTS_PER_PAGE));
+    try {
+      setIsLoading(true);
+      setError(null);
+      
+      const filters: SearchFilters = {
+        limit: CASTS_PER_PAGE,
+        offset: 0,
+      };
+      
+      if (date) {
+        filters.date = date;
+      }
+      console.log('[DatePicker] Filters for search:', filters);
+      
+      const response = await searchCasts(filters);
+      console.log('[DatePicker] API response:', response);
+      const cleanedCasts = validateAndCleanCasts(response.casts);
+      setCasts(cleanedCasts);
+      setTotalCasts(response.total);
+    } catch (error) {
+      console.error('Error filtering by date:', error);
+      setError('Failed to filter by date. Please try again.');
+    } finally {
+      setIsLoading(false);
     }
   };
 
@@ -103,32 +134,42 @@ export default function Home() {
     setIsUserSearchOpen(true);
   };
 
-  const handleUserSelect = (username: string | null, fid: number | null) => {
+  const handleUserSelect = async (username: string | null, fid: number | null) => {
     setSelectedUser(username ? { username } : fid ? { fid } : null);
-    setActiveFilter('pick-user');
+    setActiveFilter((username || fid) ? 'pick-user' : 'all');
     setCurrentPage(1);
     
     // Clear date filter when switching to user search
     setSelectedDate(null);
     
-    if (username || fid) {
-      const filtered = allCasts.filter(cast => {
-        if (username) {
-          return cast.author_username.toLowerCase().includes(username.toLowerCase());
-        } else if (fid) {
-          return cast.author_fid === fid;
-        }
-        return false;
-      });
-      setFilteredCasts(filtered);
-      setDisplayedCasts(filtered.slice(0, CASTS_PER_PAGE));
-    } else {
-      setFilteredCasts(allCasts);
-      setDisplayedCasts(allCasts.slice(0, CASTS_PER_PAGE));
+    try {
+      setIsLoading(true);
+      setError(null);
+      
+      const filters: SearchFilters = {
+        limit: CASTS_PER_PAGE,
+        offset: 0,
+      };
+      
+      if (username) {
+        filters.author = username;
+      } else if (fid) {
+        filters.fid = fid;
+      }
+      
+      const response = await searchCasts(filters);
+      const cleanedCasts = validateAndCleanCasts(response.casts);
+      setCasts(cleanedCasts);
+      setTotalCasts(response.total);
+    } catch (error) {
+      console.error('Error filtering by user:', error);
+      setError('Failed to filter by user. Please try again.');
+    } finally {
+      setIsLoading(false);
     }
   };
 
-  const hasMore = displayedCasts.length < filteredCasts.length;
+  const hasMore = casts.length < totalCasts;
 
   return (
     <main className="min-h-screen bg-gray-50">
@@ -151,12 +192,14 @@ export default function Home() {
                 </a>
               </p>
             </div>
-            <Link 
-              href="/leaderboard"
-              className="px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors"
-            >
-              🏆 Leaderboard
-            </Link>
+            <div className="flex gap-2">
+               <Link 
+                 href="/leaderboard"
+                 className="px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors"
+               >
+                 🏆 Leaderboard
+               </Link>
+            </div>
           </div>
         </div>
       </header>
@@ -182,16 +225,30 @@ export default function Home() {
         onUserSelect={handleUserSelect}
       />
 
+      {error && (
+        <div className="max-w-7xl mx-auto px-4 py-4">
+          <div className="bg-red-50 border border-red-200 rounded-lg p-4">
+            <p className="text-red-800">{error}</p>
+            <button 
+              onClick={loadInitialCasts}
+              className="mt-2 text-red-600 hover:text-red-800 underline"
+            >
+              Try again
+            </button>
+          </div>
+        </div>
+      )}
+
       {isLoading ? (
         <div className="flex items-center justify-center py-12">
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-purple-600"></div>
         </div>
       ) : (
         <CastGrid
-          casts={displayedCasts}
+          casts={casts}
           onLoadMore={loadMore}
           hasMore={hasMore}
-          isLoading={false}
+          isLoading={isLoadingMore}
         />
       )}
     </main>

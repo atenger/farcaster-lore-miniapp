@@ -1,0 +1,2010 @@
+[
+  {
+    "cast_hash": "0x85154742",
+    "url": "https://warpcast.com/yes2crypto.eth/0x85154742",
+    "author_username": "yes2crypto.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 214447,
+    "author_pfp": "https://i.imgur.com/dBoVmnG.jpg",
+    "cast_date": "2024-12-18T13:06:46.000Z",
+    "text": "Quote cast but change what the snowman is holding.  Something other than a decapitated Y2C\n          ___\n       _|___|_\n      (  ●<●  ) \n>- (     ●      )-<🎩 \n    (      ●      )    😺",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0xc746dd318131ad329366e2c4267c52631e95656f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc746dd318131ad329366e2c4267c52631e95656f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc746dd318131ad329366e2c4267c52631e95656f",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Quote cast but change what the snowman is holding.\n          ___\n       _|___|_\n      (  ●<●  ) \n>- (     ●      )-<⌐◨-◨\n    (      ●      )",
+          "timestamp": "2024-12-18T12:52:49.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 490980,
+                "hash": "0x48650896c09ba66e027972f1d1f596fc8303a593"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x48650896c09ba66e027972f1d1f596fc8303a593",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 490980
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x48650896",
+    "url": "https://warpcast.com/meonbase/0x48650896",
+    "author_username": "meonbase",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 490980,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b23c06b3-9d67-4beb-29b3-ce0ceb7a3000/original",
+    "cast_date": "2024-12-18T02:30:18.000Z",
+    "text": "Quote cast but change what the snowman is holding.\n          ___\n       _|___|_\n      (  ●<●  ) \n>- (     ●      )-<🪄\n    (      ●      )",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4a01479a",
+    "url": "https://warpcast.com/v/0x4a01479a",
+    "author_username": "v",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-12-17T15:28:54.000Z",
+    "text": "We've been working on improving our spam detection. \n\nA big source of alpha has been taking algos used to rank content on the web and modifying them to work in Farcaster-space. \n\n@akshaan and @notawizard collaborated to add: \n- PageRank \n- Hyperlink Induced Topic Search \n- Louvain Clustering",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcafbc039",
+    "url": "https://warpcast.com/dwr.eth/0xcafbc039",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-12-17T21:44:43.000Z",
+    "text": "We're dogfooding v2 frames at Merkle and making them open source.\n\n- Warpcast Rewards (notifications + leaderboard)\nhttps://github.com/warpcast/scores-frame\n\n- Yoink (notifications)\nhttps://github.com/horsefacts/yoink-devcon\n\n- Swap Demo\nhttps://github.com/horsefacts/frames-v2-swap-demo\n\n- Uniframe\nhttps://github.com/horsefacts/interface",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x5ad7183c00feb142b703d0c473a86d1a41b3f053"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5ad7183c00feb142b703d0c473a86d1a41b3f053",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5ad7183c00feb142b703d0c473a86d1a41b3f053",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Warpcast Rewards: a new weekly game\n\n- $7,000 reward pool, top 5 scoring casters receive $200 USDC each\n- Our goal is to increase the reward pool each week\n- The game rewards casters with the most engagement\n- Leaderboard and your score available via the Rewards frame (below)\n- You do not have to cast on Warpcast to receive rewards\n- Detailed FAQ in the next cast\n\nAdd the frame here:\nhttps://rewards.warpcast.com",
+          "timestamp": "2024-12-17T21:37:04.000Z",
+          "embeds": [
+            {
+              "url": "https://rewards.warpcast.com",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://rewards.warpcast.com/og.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Farcaster Rewards",
+                  "ogLocale": "en",
+                  "ogDescription": "Rewards",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch",
+                      "action": {
+                        "url": "https://rewards.warpcast.com",
+                        "name": "Rewards",
+                        "type": "launch_frame",
+                        "iconImageUrl": "https://rewards.warpcast.com/splash.png",
+                        "splashImageUrl": "https://rewards.warpcast.com/splash.png",
+                        "splashBackgroundColor": "#000000"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://rewards.warpcast.com/og.png"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch",
+                  "image": "https://rewards.warpcast.com/og.png",
+                  "frames_url": "https://rewards.warpcast.com/",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 9152,
+                    "username": "warpcast",
+                    "display_name": "Warpcast",
+                    "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+                    "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+                      "payload": "eyJkb21haW4iOiJyZXdhcmRzLndhcnBjYXN0LmNvbSJ9",
+                      "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "Rewards",
+                      "home_url": "https://rewards.warpcast.com",
+                      "icon_url": "https://rewards.warpcast.com/app.png",
+                      "image_url": "https://rewards.warpcast.com/og.png",
+                      "button_title": "Launch",
+                      "splash_image_url": "https://rewards.warpcast.com/logo.png",
+                      "splash_background_color": "#000000",
+                      "webhook_url": "https://client.warpcast.com/v1/creator-rewards-notifs-webhook"
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "Rewards",
+                      "home_url": "https://rewards.warpcast.com",
+                      "icon_url": "https://rewards.warpcast.com/app.png",
+                      "image_url": "https://rewards.warpcast.com/og.png",
+                      "button_title": "Launch",
+                      "splash_image_url": "https://rewards.warpcast.com/logo.png",
+                      "splash_background_color": "#000000",
+                      "webhook_url": "https://client.warpcast.com/v1/creator-rewards-notifs-webhook"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-updates",
+            "name": "fc-updates",
+            "image_url": "https://i.imgur.com/YnnrPaH.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x886d8a09",
+    "url": "https://warpcast.com/dwr.eth/0x886d8a09",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-12-17T01:13:46.000Z",
+    "text": "Convert Uniswap’s UI into a frame in <5 minutes.\n\nWhen you open the frame, you don’t need to connect a wallet (since you’ve already connected it to Warpcast).",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3621,
+          "hash": "0x74b516a2beb8dbab3dbc00e1a55b5832404bfa29"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x74b516a2beb8dbab3dbc00e1a55b5832404bfa29",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3621,
+            "username": "horsefacts.eth",
+            "display_name": "horsefacts",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+            "custody_address": "0x2cd85a093261f59270804a6ea697cea4cebecafe"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x74b516a2beb8dbab3dbc00e1a55b5832404bfa29",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/frames-v2",
+          "root_parent_url": "https://warpcast.com/~/channel/frames-v2",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "UNAUTHORIZED UNISWAP FAN EDIT: Replace the domain in any Uniswap URL with \"uniframe dot org\" to show Uniswap embeds as v2 frames. Some examples in the video and quoted thread below.",
+          "timestamp": "2024-12-17T01:11:47.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.warpcast.com/v1/video/a3c91aae-3e14-4bfe-ab90-e7665a065638.m3u8",
+              "metadata": {
+                "content_type": "application/vnd.apple.mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1080,
+                      "width_px": 1920,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 720,
+                      "width_px": 1280,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 480,
+                      "width_px": 854,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 360,
+                      "width_px": 640,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 240,
+                      "width_px": 426,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 287.041667
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 3621,
+                "hash": "0x3afef2cfa14c48b7853ba9242111c48fc875d86c"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x3afef2cfa14c48b7853ba9242111c48fc875d86c",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3621
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "frames-v2",
+            "name": "frames-v2",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2b82c75a-507b-4b80-9a8c-e9c069bc8400/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3f1dea35",
+    "url": "https://warpcast.com/deodad/0x3f1dea35",
+    "author_username": "deodad",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 6841,
+    "author_pfp": "https://i.imgur.com/dMoIan7.jpg",
+    "cast_date": "2024-12-16T19:19:30.000Z",
+    "text": "if you want your Frame to show up on the Warpcast Explore tab:\n- create a frame that has a verified author and users can add\n- make sure your icon and splash image, as well as overall design, look good\n- DC @dwr.eth with a link to a cast that can open the frame\n\nhe'll use it and give you some feedback or add it",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xca1bdc18",
+    "url": "https://warpcast.com/dwr.eth/0xca1bdc18",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-12-17T05:08:44.000Z",
+    "text": "New experiment on Warpcast: featured frames\n\n- Our goal is showcase high-quality frames to everyone using Warpcast\n- Everyone can discover frames, developers can get discovered\n- It's manually curated for now\n- You can toggle off in 2 taps (Gear icon -> Featured Frames)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/84eebada-e536-4dc0-7bd4-927434f81400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 270513,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1204,
+            "height_px": 716
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x99b8fe54",
+    "url": "https://warpcast.com/dwr.eth/0x99b8fe54",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-12-17T02:26:40.000Z",
+    "text": "If you’re planning to release an NFT in the next few weeks, please reach out!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5ad7183c",
+    "url": "https://warpcast.com/dwr.eth/0x5ad7183c",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-12-17T21:37:04.000Z",
+    "text": "Warpcast Rewards: a new weekly game\n\n- $7,000 reward pool, top 5 scoring casters receive $200 USDC each\n- Our goal is to increase the reward pool each week\n- The game rewards casters with the most engagement\n- Leaderboard and your score available via the Rewards frame (below)\n- You do not have to cast on Warpcast to receive rewards\n- Detailed FAQ in the next cast\n\nAdd the frame here:\nhttps://rewards.warpcast.com",
+    "embeds": [
+      {
+        "url": "https://rewards.warpcast.com",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://rewards.warpcast.com/og.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Farcaster Rewards",
+            "ogLocale": "en",
+            "ogDescription": "Rewards",
+            "fcFrame": {
+              "button": {
+                "title": "Launch",
+                "action": {
+                  "url": "https://rewards.warpcast.com",
+                  "name": "Rewards",
+                  "type": "launch_frame",
+                  "iconImageUrl": "https://rewards.warpcast.com/splash.png",
+                  "splashImageUrl": "https://rewards.warpcast.com/splash.png",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://rewards.warpcast.com/og.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Launch",
+            "image": "https://rewards.warpcast.com/og.png",
+            "frames_url": "https://rewards.warpcast.com/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 9152,
+              "username": "warpcast",
+              "display_name": "Warpcast",
+              "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+              "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+                "payload": "eyJkb21haW4iOiJyZXdhcmRzLndhcnBjYXN0LmNvbSJ9",
+                "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Rewards",
+                "home_url": "https://rewards.warpcast.com",
+                "icon_url": "https://rewards.warpcast.com/app.png",
+                "image_url": "https://rewards.warpcast.com/og.png",
+                "button_title": "Launch",
+                "splash_image_url": "https://rewards.warpcast.com/logo.png",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://client.warpcast.com/v1/creator-rewards-notifs-webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Rewards",
+                "home_url": "https://rewards.warpcast.com",
+                "icon_url": "https://rewards.warpcast.com/app.png",
+                "image_url": "https://rewards.warpcast.com/og.png",
+                "button_title": "Launch",
+                "splash_image_url": "https://rewards.warpcast.com/logo.png",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://client.warpcast.com/v1/creator-rewards-notifs-webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf4ebd3c1",
+    "url": "https://warpcast.com/dwr.eth/0xf4ebd3c1",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-12-18T00:27:50.000Z",
+    "text": "\"Won't it just be all the big accounts that win?\"\n\n1. We adjust for number of active followers, so big accounts get normalized a bit\n\n2. We had a similar algo running every day since August with daily $5 USDC rewards\n\n3. Accounts like @afrochicks started with few followers at the start of daily rewards and now have sizable (active) audiences.\n\n4. Here's a permissionlessly-built Dune dashboard from @slokh and you'll see plenty of smaller accounts on the list:\n\nhttps://dune.com/slokhx/warpcast-rewards",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x5ad7183c00feb142b703d0c473a86d1a41b3f053"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5ad7183c00feb142b703d0c473a86d1a41b3f053",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5ad7183c00feb142b703d0c473a86d1a41b3f053",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Warpcast Rewards: a new weekly game\n\n- $7,000 reward pool, top 5 scoring casters receive $200 USDC each\n- Our goal is to increase the reward pool each week\n- The game rewards casters with the most engagement\n- Leaderboard and your score available via the Rewards frame (below)\n- You do not have to cast on Warpcast to receive rewards\n- Detailed FAQ in the next cast\n\nAdd the frame here:\nhttps://rewards.warpcast.com",
+          "timestamp": "2024-12-17T21:37:04.000Z",
+          "embeds": [
+            {
+              "url": "https://rewards.warpcast.com",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://rewards.warpcast.com/og.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Farcaster Rewards",
+                  "ogLocale": "en",
+                  "ogDescription": "Rewards",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch",
+                      "action": {
+                        "url": "https://rewards.warpcast.com",
+                        "name": "Rewards",
+                        "type": "launch_frame",
+                        "iconImageUrl": "https://rewards.warpcast.com/splash.png",
+                        "splashImageUrl": "https://rewards.warpcast.com/splash.png",
+                        "splashBackgroundColor": "#000000"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://rewards.warpcast.com/og.png"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch",
+                  "image": "https://rewards.warpcast.com/og.png",
+                  "frames_url": "https://rewards.warpcast.com/",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 9152,
+                    "username": "warpcast",
+                    "display_name": "Warpcast",
+                    "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+                    "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+                      "payload": "eyJkb21haW4iOiJyZXdhcmRzLndhcnBjYXN0LmNvbSJ9",
+                      "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "Rewards",
+                      "home_url": "https://rewards.warpcast.com",
+                      "icon_url": "https://rewards.warpcast.com/app.png",
+                      "image_url": "https://rewards.warpcast.com/og.png",
+                      "button_title": "Launch",
+                      "splash_image_url": "https://rewards.warpcast.com/logo.png",
+                      "splash_background_color": "#000000",
+                      "webhook_url": "https://client.warpcast.com/v1/creator-rewards-notifs-webhook"
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "Rewards",
+                      "home_url": "https://rewards.warpcast.com",
+                      "icon_url": "https://rewards.warpcast.com/app.png",
+                      "image_url": "https://rewards.warpcast.com/og.png",
+                      "button_title": "Launch",
+                      "splash_image_url": "https://rewards.warpcast.com/logo.png",
+                      "splash_background_color": "#000000",
+                      "webhook_url": "https://client.warpcast.com/v1/creator-rewards-notifs-webhook"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-updates",
+            "name": "fc-updates",
+            "image_url": "https://i.imgur.com/YnnrPaH.png"
+          }
+        }
+      },
+      {
+        "url": "https://dune.com/slokhx/warpcast-rewards",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/assets/glyph-1024w.png",
+            "ogImage": [
+              {
+                "url": "https://core-api.dune.com/public/screenshot?url=https://dune.com/slokhx/warpcast-rewards"
+              }
+            ],
+            "ogTitle": "Warpcast Rewards",
+            "ogLocale": "en",
+            "ogDescription": "Free crypto analytics by and for the community. Access crypto data tools and blockchain analytics with 700,000+ dashboards covering DeFi, NFTs, and onchain data. Track meme coin metrics, DEX analysis, and more across dozens of protocols like Ethereum, Bitcoin, and Solana."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd07d49e1",
+    "url": "https://warpcast.com/nounishprof/0xd07d49e1",
+    "author_username": "nounishprof",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-12-17T22:54:18.000Z",
+    "text": "you're good enough, smart enough, and gosh darn it, people like you",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f81ed9c8-eb57-4a26-a281-782de730c000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 263112,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1304,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0x92dd72ad0966dab87004e3ebadf3e1b987c912db"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x92dd72ad0966dab87004e3ebadf3e1b987c912db",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x92dd72ad0966dab87004e3ebadf3e1b987c912db",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Say it with me…\n\nYour farcaster score is not your worth 💜💜",
+          "timestamp": "2024-12-17T22:30:12.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a75feecc-af91-401e-5d52-73f4127c1800/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 108929,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1078,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x92dd72ad",
+    "url": "https://warpcast.com/adrienne/0x92dd72ad",
+    "author_username": "adrienne",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-12-17T22:30:12.000Z",
+    "text": "Say it with me…\n\nYour farcaster score is not your worth 💜💜",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a75feecc-af91-401e-5d52-73f4127c1800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 108929,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1078,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7a83f13d",
+    "url": "https://warpcast.com/meonbase/0x7a83f13d",
+    "author_username": "meonbase",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 490980,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b23c06b3-9d67-4beb-29b3-ce0ceb7a3000/original",
+    "cast_date": "2024-12-17T23:41:55.000Z",
+    "text": "desperate times call for desperate measures\n\n(don't tell my boss pls)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/db6516ab-551f-4155-6ab1-d2cee3164200/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 887705,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1080
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 239,
+          "hash": "0x64fd47278ed7c1230f0e5270afccd802c97db276"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x64fd47278ed7c1230f0e5270afccd802c97db276",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 239,
+            "username": "ted",
+            "display_name": "ted (not lasso)",
+            "pfp_url": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+            "custody_address": "0xc67925418dc80265720244594c632b258a5c78e8"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x64fd47278ed7c1230f0e5270afccd802c97db276",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/ted",
+          "root_parent_url": "https://warpcast.com/~/channel/ted",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "wait so does this mean it’s time to post all the thirst traps we’ve been hiding?",
+          "timestamp": "2024-12-17T22:22:26.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "ted",
+            "name": "teddit",
+            "image_url": "https://i.imgur.com/dm8MnyD.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2d55dae0",
+    "url": "https://warpcast.com/dwr.eth/0x2d55dae0",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-12-17T21:52:41.000Z",
+    "text": "We would be open to any Farcaster token that wants to piggyback on the leaderboard.\n\nJust send me a DC and we can see if we can figure something out.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 238251,
+          "hash": "0x038aad8b5463ba0435dd5317ad11671e0c33e9f2"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x038aad8b5463ba0435dd5317ad11671e0c33e9f2",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 238251,
+            "username": "beninem",
+            "display_name": "Beninem",
+            "pfp_url": "https://i.imgur.com/W5vXCB5.jpg",
+            "custody_address": "0x36e4cb75d645411f26626ef615045189bdf54798"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x038aad8b5463ba0435dd5317ad11671e0c33e9f2",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Nice. Replace little bit of free money with lotta bit of free money. Like it. Would have been smart too to include a general tipping account for those of us with daily DEGEN tips to throw it into this general fund to sweeten the pot.",
+          "timestamp": "2024-12-17T21:51:50.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 3,
+                "hash": "0x5ad7183c00feb142b703d0c473a86d1a41b3f053"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x5ad7183c00feb142b703d0c473a86d1a41b3f053",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0c17b6bf",
+    "url": "https://warpcast.com/horsefacts.eth/0x0c17b6bf",
+    "author_username": "horsefacts.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2024-12-18T00:23:31.000Z",
+    "text": "so, uh, what's the best multitoken Merkle distributor contract these days? asking for a friend.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x2d55dae06f6411991055585e2ce097c3227821a9"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x2d55dae06f6411991055585e2ce097c3227821a9",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x2d55dae06f6411991055585e2ce097c3227821a9",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "We would be open to any Farcaster token that wants to piggyback on the leaderboard.\n\nJust send me a DC and we can see if we can figure something out.",
+          "timestamp": "2024-12-17T21:52:41.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 238251,
+                "hash": "0x038aad8b5463ba0435dd5317ad11671e0c33e9f2"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x038aad8b5463ba0435dd5317ad11671e0c33e9f2",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 238251
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x038aad8b",
+    "url": "https://warpcast.com/beninem/0x038aad8b",
+    "author_username": "beninem",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 238251,
+    "author_pfp": "https://i.imgur.com/W5vXCB5.jpg",
+    "cast_date": "2024-12-17T21:51:50.000Z",
+    "text": "Nice. Replace little bit of free money with lotta bit of free money. Like it. Would have been smart too to include a general tipping account for those of us with daily DEGEN tips to throw it into this general fund to sweeten the pot.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x5ad7183c00feb142b703d0c473a86d1a41b3f053"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5ad7183c00feb142b703d0c473a86d1a41b3f053",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5ad7183c00feb142b703d0c473a86d1a41b3f053",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Warpcast Rewards: a new weekly game\n\n- $7,000 reward pool, top 5 scoring casters receive $200 USDC each\n- Our goal is to increase the reward pool each week\n- The game rewards casters with the most engagement\n- Leaderboard and your score available via the Rewards frame (below)\n- You do not have to cast on Warpcast to receive rewards\n- Detailed FAQ in the next cast\n\nAdd the frame here:\nhttps://rewards.warpcast.com",
+          "timestamp": "2024-12-17T21:37:04.000Z",
+          "embeds": [
+            {
+              "url": "https://rewards.warpcast.com",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://rewards.warpcast.com/og.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Farcaster Rewards",
+                  "ogLocale": "en",
+                  "ogDescription": "Rewards",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch",
+                      "action": {
+                        "url": "https://rewards.warpcast.com",
+                        "name": "Rewards",
+                        "type": "launch_frame",
+                        "iconImageUrl": "https://rewards.warpcast.com/splash.png",
+                        "splashImageUrl": "https://rewards.warpcast.com/splash.png",
+                        "splashBackgroundColor": "#000000"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://rewards.warpcast.com/og.png"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch",
+                  "image": "https://rewards.warpcast.com/og.png",
+                  "frames_url": "https://rewards.warpcast.com/",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 9152,
+                    "username": "warpcast",
+                    "display_name": "Warpcast",
+                    "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+                    "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+                      "payload": "eyJkb21haW4iOiJyZXdhcmRzLndhcnBjYXN0LmNvbSJ9",
+                      "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "Rewards",
+                      "home_url": "https://rewards.warpcast.com",
+                      "icon_url": "https://rewards.warpcast.com/app.png",
+                      "image_url": "https://rewards.warpcast.com/og.png",
+                      "button_title": "Launch",
+                      "splash_image_url": "https://rewards.warpcast.com/logo.png",
+                      "splash_background_color": "#000000",
+                      "webhook_url": "https://client.warpcast.com/v1/creator-rewards-notifs-webhook"
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "Rewards",
+                      "home_url": "https://rewards.warpcast.com",
+                      "icon_url": "https://rewards.warpcast.com/app.png",
+                      "image_url": "https://rewards.warpcast.com/og.png",
+                      "button_title": "Launch",
+                      "splash_image_url": "https://rewards.warpcast.com/logo.png",
+                      "splash_background_color": "#000000",
+                      "webhook_url": "https://client.warpcast.com/v1/creator-rewards-notifs-webhook"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-updates",
+            "name": "fc-updates",
+            "image_url": "https://i.imgur.com/YnnrPaH.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x26090dbd",
+    "url": "https://warpcast.com/androidsixteen.eth/0x26090dbd",
+    "author_username": "androidsixteen.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 3635,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/68e0858a-bd96-41ab-ca47-3e25868d6a00/rectcrop3",
+    "cast_date": "2024-12-17T22:15:05.000Z",
+    "text": "All of FC trying to come up with bangers rn",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50737c51-4d1d-4cf6-b071-3090df46bd00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 56516,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 600,
+            "height_px": 452
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x5ad7183c00feb142b703d0c473a86d1a41b3f053"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5ad7183c00feb142b703d0c473a86d1a41b3f053",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5ad7183c00feb142b703d0c473a86d1a41b3f053",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Warpcast Rewards: a new weekly game\n\n- $7,000 reward pool, top 5 scoring casters receive $200 USDC each\n- Our goal is to increase the reward pool each week\n- The game rewards casters with the most engagement\n- Leaderboard and your score available via the Rewards frame (below)\n- You do not have to cast on Warpcast to receive rewards\n- Detailed FAQ in the next cast\n\nAdd the frame here:\nhttps://rewards.warpcast.com",
+          "timestamp": "2024-12-17T21:37:04.000Z",
+          "embeds": [
+            {
+              "url": "https://rewards.warpcast.com",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://rewards.warpcast.com/og.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Farcaster Rewards",
+                  "ogLocale": "en",
+                  "ogDescription": "Rewards",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch",
+                      "action": {
+                        "url": "https://rewards.warpcast.com",
+                        "name": "Rewards",
+                        "type": "launch_frame",
+                        "iconImageUrl": "https://rewards.warpcast.com/splash.png",
+                        "splashImageUrl": "https://rewards.warpcast.com/splash.png",
+                        "splashBackgroundColor": "#000000"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://rewards.warpcast.com/og.png"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch",
+                  "image": "https://rewards.warpcast.com/og.png",
+                  "frames_url": "https://rewards.warpcast.com/",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 9152,
+                    "username": "warpcast",
+                    "display_name": "Warpcast",
+                    "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+                    "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+                      "payload": "eyJkb21haW4iOiJyZXdhcmRzLndhcnBjYXN0LmNvbSJ9",
+                      "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "Rewards",
+                      "home_url": "https://rewards.warpcast.com",
+                      "icon_url": "https://rewards.warpcast.com/app.png",
+                      "image_url": "https://rewards.warpcast.com/og.png",
+                      "button_title": "Launch",
+                      "splash_image_url": "https://rewards.warpcast.com/logo.png",
+                      "splash_background_color": "#000000",
+                      "webhook_url": "https://client.warpcast.com/v1/creator-rewards-notifs-webhook"
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "Rewards",
+                      "home_url": "https://rewards.warpcast.com",
+                      "icon_url": "https://rewards.warpcast.com/app.png",
+                      "image_url": "https://rewards.warpcast.com/og.png",
+                      "button_title": "Launch",
+                      "splash_image_url": "https://rewards.warpcast.com/logo.png",
+                      "splash_background_color": "#000000",
+                      "webhook_url": "https://client.warpcast.com/v1/creator-rewards-notifs-webhook"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-updates",
+            "name": "fc-updates",
+            "image_url": "https://i.imgur.com/YnnrPaH.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x47f2d872",
+    "url": "https://warpcast.com/czar/0x47f2d872",
+    "author_username": "czar",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 429,
+    "author_pfp": "https://lh3.googleusercontent.com/X0af6snDGRShmvCYTza1s0WXDssHuvXV5lsQOv-8E_dWTlo89CbZ1gd-Ty5yaLNEZ6klrswNjHU_lPybSAep336eDxY9Ik7L0uC8aw",
+    "cast_date": "2024-12-16T22:37:47.000Z",
+    "text": "congratulations to @androidsixteen.eth \n\nfor being farcaster’s top banger",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 680,
+          "hash": "0xbc7fc188cfbdd8d1ddb8f782c8d1df6d9d009406"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbc7fc188cfbdd8d1ddb8f782c8d1df6d9d009406",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 680,
+            "username": "woj",
+            "display_name": "​woj",
+            "pfp_url": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+            "custody_address": "0x0b28a373fc8d92669aefb420499e74ce2dd5d356"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 193137,
+            "username": "super",
+            "display_name": "super ツ",
+            "pfp_url": "https://supercast.mypinata.cloud/ipfs/QmdvciL78gXQFgN3ZBCWecbCa5gEhPJGTU6bYcJ4WXYiwJ?filename=supercast-logo-white-pfp.png",
+            "custody_address": "0xff62ac1e5a4a63c57211b00e119b693b7f953d76"
+          },
+          "thread_hash": "0xbc7fc188cfbdd8d1ddb8f782c8d1df6d9d009406",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "congrats to @androidsixteen.eth for winning the hardest leaderboard i have ever competed on",
+          "timestamp": "2024-12-16T18:59:40.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 3,
+                "hash": "0x90c963f679ef601eceb1c7c8e9731375b79e45d7"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x90c963f679ef601eceb1c7c8e9731375b79e45d7",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://supercast.mypinata.cloud/ipfs/QmbTV57ayEMXzVuB3raxCkAYj2LpV6h8FckgguC3p8YKji?filename=Screenshot-2024-12-16-at-19.58.29.png",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 240587,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1412,
+                  "height_px": 1620
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x19b6fb18",
+    "url": "https://warpcast.com/eulerlagrange.eth/0x19b6fb18",
+    "author_username": "eulerlagrange.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 16148,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d20697e6-f714-4c5a-aad3-5ba1da907100/rectcrop3",
+    "cast_date": "2024-12-17T23:56:12.000Z",
+    "text": "@androidsixteen.eth at upcoming Farcons",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa568231-cbfb-4fc5-24c7-30eac27a3400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 146280,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1136,
+            "height_px": 1338
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 429,
+          "hash": "0x47f2d87269523f16b0f5b43ea018e65846e506b0"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x47f2d87269523f16b0f5b43ea018e65846e506b0",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 429,
+            "username": "czar",
+            "display_name": "czar ",
+            "pfp_url": "https://lh3.googleusercontent.com/X0af6snDGRShmvCYTza1s0WXDssHuvXV5lsQOv-8E_dWTlo89CbZ1gd-Ty5yaLNEZ6klrswNjHU_lPybSAep336eDxY9Ik7L0uC8aw",
+            "custody_address": "0x9e7ba560417a462066d711069bc28629e972448c"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x47f2d87269523f16b0f5b43ea018e65846e506b0",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "congratulations to @androidsixteen.eth \n\nfor being farcaster’s top banger",
+          "timestamp": "2024-12-16T22:37:47.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 680,
+                "hash": "0xbc7fc188cfbdd8d1ddb8f782c8d1df6d9d009406"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xbc7fc188cfbdd8d1ddb8f782c8d1df6d9d009406",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 680
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 193137
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb817dccc",
+    "url": "https://warpcast.com/kylepatrick.eth/0xb817dccc",
+    "author_username": "kylepatrick.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 247143,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15b35784-d490-4144-15c4-62edc2a58c00/rectcrop3",
+    "cast_date": "2024-12-18T08:22:16.000Z",
+    "text": "farcaster just passed 900,000 FID registrations \n\nwill we hit 1,000,000 before 2024 ends?\n\nwe are all so early",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/31faf097-9a66-42c5-6987-88c1910da300/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 6515,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 317,
+            "height_px": 154
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0c4e1293",
+    "url": "https://warpcast.com/wbnns/0x0c4e1293",
+    "author_username": "wbnns",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 12144,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/25fac8e0-0bbb-4127-5a47-4a81e03d7100/original",
+    "cast_date": "2024-12-15T10:06:05.000Z",
+    "text": "I'm sitting across from @statuette, her desk is looking pretty based",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fb970cc6-a791-4f08-ec8d-736c2c748300/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 60058,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 398,
+            "height_px": 532
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0c4e1293",
+    "url": "https://warpcast.com/wbnns/0x0c4e1293",
+    "author_username": "wbnns",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 12144,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/25fac8e0-0bbb-4127-5a47-4a81e03d7100/original",
+    "cast_date": "2024-12-15T10:06:05.000Z",
+    "text": "I'm sitting across from @statuette, her desk is looking pretty based",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fb970cc6-a791-4f08-ec8d-736c2c748300/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 60058,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 398,
+            "height_px": 532
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6883bf1c",
+    "url": "https://warpcast.com/jessepollak/0x6883bf1c",
+    "author_username": "jessepollak",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-12-12T21:25:29.000Z",
+    "text": "2024 was big — proud to be building with all of you",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f83f4ac7-a728-44b9-efbe-b112aef43000/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 113817,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1920,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2a04f731",
+    "url": "https://warpcast.com/jessepollak/0x2a04f731",
+    "author_username": "jessepollak",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-12-12T19:17:44.000Z",
+    "text": "one million ETH bridged to @base.base.eth — and it's still day one",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e6325eed-0bb3-4ff4-551f-af91d9538000/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 247211,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3200,
+            "height_px": 3200
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf42e4efd",
+    "url": "https://warpcast.com/kylepatrick.eth/0xf42e4efd",
+    "author_username": "kylepatrick.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 247143,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15b35784-d490-4144-15c4-62edc2a58c00/rectcrop3",
+    "cast_date": "2024-12-14T05:10:40.000Z",
+    "text": "farcaster 2024 in no particular order\n\n1. degen\n2. tn100x\n3. layer 3s\n4. the ticker is $ticker\n5. moneygun/hamcannon\n6. farcon\n7. frames\n8. farther\n9. masks\n10. moxie\n11. intercae\n12. mfers\n13. interesting content\n14. higher\n15. rare\n16. tips\n17. clanker\n18. hypersub\n19. yoink\n20. alfafrens\n21. paidgroup\n22. we are so early\n23. onchain gaias\n24. rounds\n25. yellow collective\n26. purple\n27. 150m raised\n28. aethernet\n29. farcastles\n30. build\n31. drakula\n32. poster\n33. streaks\n34. farcaster clients\n35. zora\n36. base\n37. optimism\n38. arbitrum\n39. gmfarcaster\n40. ambassadors\n41. enjoy\n42. perl\n43. scoop\n44. wildcard\n45. jam\n46. moshicam\n47. farquest\n48. super\n49. farhouse\n50. hunt town\n51. and so many more lores not mentioned. if you have more stories, feel free to comment them below!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf7cd8cf5",
+    "url": "https://warpcast.com/dish/0xf7cd8cf5",
+    "author_username": "dish",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 15549,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/71c3ea17-e0b3-45c0-a9a0-b094df99f100/original",
+    "cast_date": "2024-12-17T18:21:33.000Z",
+    "text": "TAP INTO PRE BUYS EARLY",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4632,
+          "hash": "0x980ae7e720c89ba50663624749993e72a067492c"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x980ae7e720c89ba50663624749993e72a067492c",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4632,
+            "username": "yungwknd",
+            "display_name": "yungwknd",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a512d43d-7874-4389-781a-5e600a9f9400/original",
+            "custody_address": "0xaf9458027b8c9475fb95804982d8cd831df877d1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x980ae7e720c89ba50663624749993e72a067492c",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "ok @hardlyknowher now has pre-buy support!\n\neach token launches at a roughly 10 ETH marketcap (I think?)\n\nDeposit ETH and then use the same secret word when you are deploying to pre-buy that amount!\n\n⚠️ if you do this it's probably going to be a lot less anon of a launch ⚠️",
+          "timestamp": "2024-12-17T18:09:53.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/90d80881-3396-492c-3657-57d6add1af00/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 276698,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1622,
+                  "height_px": 1066
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2d67aec6-90d5-4dea-4583-0c22202df900/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 113499,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1296,
+                  "height_px": 812
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa11661e8",
+    "url": "https://warpcast.com/anoncast/0xa11661e8",
+    "author_username": "anoncast",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xe8c76282",
+    "url": "https://warpcast.com/chicbangs.eth/0xe8c76282",
+    "author_username": "chicbangs.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 5328,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70e637f2-ddb4-4fd0-e56e-35bc44605a00/original",
+    "cast_date": "2024-12-17T17:12:43.000Z",
+    "text": "here it is! since it was recorded live on-air, it’s fcc compliant (aka family friendly) https://www.mixcloud.com/ChicBangs/club-u-christmas-live-mix-recorded-122421/",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5328,
+          "hash": "0x5ed073839677ba4d5ec85cecb62e8c9efd9ca43a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5ed073839677ba4d5ec85cecb62e8c9efd9ca43a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5328,
+            "username": "chicbangs.eth",
+            "display_name": "Chic Bangs",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70e637f2-ddb4-4fd0-e56e-35bc44605a00/original",
+            "custody_address": "0xb3c00e770ce7423ab88664367c4d9f741e13b9ad"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5ed073839677ba4d5ec85cecb62e8c9efd9ca43a",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "i've got a holiday hip hop themed mix from my time on trad radio. i just came across the file yesterday. wanna hear it?",
+          "timestamp": "2024-12-14T17:47:40.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://www.mixcloud.com/ChicBangs/club-u-christmas-live-mix-recorded-122421/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.mixcloud.com/ChicBangs/club-u-christmas-live-mix-recorded-122421/?play=fb",
+            "oembed": {
+              "url": "https://www.mixcloud.com/ChicBangs/club-u-christmas-live-mix-recorded-122421/",
+              "html": "<iframe width=\"100%\" height=\"120\" src=\"https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2FChicBangs%2Fclub-u-christmas-live-mix-recorded-122421%2F&amp;hide_cover=1\" frameborder=\"0\"></iframe>\n",
+              "type": "rich",
+              "embed": "<iframe width=\"100%\" height=\"120\" src=\"https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2FChicBangs%2Fclub-u-christmas-live-mix-recorded-122421%2F&amp;hide_cover=1\" frameborder=\"0\"></iframe>\n",
+              "image": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/6/8/0/4/6d4d-47eb-47c8-8c0d-ecd4f25a16bc",
+              "title": "Club U Christmas [Live Mix Recorded 12.24.21]",
+              "width": "100%",
+              "height": 120,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "86400",
+              "author_url": "https://www.mixcloud.com/ChicBangs/",
+              "author_name": "Chic Bangs",
+              "provider_url": "https://www.mixcloud.com",
+              "provider_name": "Mixcloud"
+            },
+            "ogDate": "PT39M12S",
+            "ogType": "mixcloud:show",
+            "favicon": "/assets/mx-CS3CZvyo-favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://thumbnailer.mixcloud.com/unsafe/1200x628/filters:watermark(graphics/play-button-scaled.png,300,14,0)/extaudio/6/8/0/4/6d4d-47eb-47c8-8c0d-ecd4f25a16bc",
+                "width": "1200",
+                "height": "628"
+              }
+            ],
+            "ogTitle": "CLUB U Christmas [Live Mix Recorded 12.24.21]",
+            "ogLocale": "en_US",
+            "ogSiteName": "Mixcloud",
+            "ogDescription": "from the archives"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbb39c989",
+    "url": "https://warpcast.com/cojo.eth/0xbb39c989",
+    "author_username": "cojo.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 4327,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66013ade-eb0f-4eb9-7d5a-e08f1b9e1c00/original",
+    "cast_date": "2024-12-17T23:51:06.000Z",
+    "text": "Castout generated the 12th largest Ponder poll of all time!\n\nHuge h/t to @adrienne & @nounishprof for building an experience that integrates so much of the ecosystem. Really love to see it, even if team @purple got kicked early.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 308536,
+          "hash": "0xc5fb6411409589d1c66c5beaf415234e7882908e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc5fb6411409589d1c66c5beaf415234e7882908e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 308536,
+            "username": "zachlipp",
+            "display_name": "Zach Lipp",
+            "pfp_url": "https://i.imgur.com/k0HxUtE.jpg",
+            "custody_address": "0x9b0021465e08c0566b30a147468011ce1bacaa60"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc5fb6411409589d1c66c5beaf415234e7882908e",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "rain 10000 $degen 🌧️ \n\nWant FREE Moxie & Degen? Of course you do.\n\n1️⃣ Participate in the poll\n2️⃣ Post a screenshot (optional but makes you look cooler)\n3️⃣ For bonus karma, RC & tag 3 friends (not required, but you’re awesome if you do)\n\nWhy are we doing this?\nBecause we’re competing in the semi finals of /castout by @nounishprof & @adrienne via /gmfarcaster, and the team with the most poll responses automatically moves on to the final round.\n\nHelp Team @pkok crush the competition AND get rich (ish) in the process. 🫱🏻‍🫲🏼\n\n@sunnysangwan @angelikakollin @reneecampbell ⁩ @hind  @zachlipp\n\nhttps://frame.weponder.io/api/polls/28155",
+          "timestamp": "2024-12-17T01:48:54.000Z",
+          "embeds": [
+            {
+              "url": "https://frame.weponder.io/api/polls/28155",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": 12807,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogImage": [
+                    {
+                      "url": "https://frame.weponder.io/api/polls/28155/img/eyJwb2xsRGF0YSI6eyJpZCI6MjgxNTUsInR5cGUiOiJiYXNpYyIsImNoYW5uZWwiOiJkZWdlbiIsImNhc3RIYXNoIjoiMHhjNWZiNjQxMTQwOTU4OWQxYzY2YzViZWFmNDE1MjM0ZTc4ODI5MDhlIiwidGV4dCI6IldoYXQgaXMgdGhlIG9mZmljaWFsIGNvbG9yIG9mIEZhcmNhc3Rlcj8iLCJhdXRob3IiOnsiaWQiOjM3MDM0LCJ1dWlkIjoiY2U0OGNjMTAtZGU3OS00ZGE3LWE5ODMtMDc4NzgzOWFkNjg5IiwiZmlkIjozMDg1MzYsInVzZXJuYW1lIjoiemFjaGxpcHAiLCJkaXNwbGF5TmFtZSI6IlphY2ggTGlwcCIsInBmcCI6Imh0dHBzOi8vaS5pbWd1ci5jb20vazBIeFV0RS5qcGciLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHg4YTgwZTEyOTllZTMxOTA4ZmM4ZjE5YjViYzQwOWEyZTQ2YTBiOTNiIiwiMHhjYzMzYzllZjU2MzNjY2Q2MDJiZWNkZjI3YTVlN2M4OGI5YThhMTNkIl0sInNwb25zb3JlZENvdW50IjozLCJzY29yZSI6MC4wMDAyMzQxNDEwMjkwNjgyNjg4NCwic3RhdGlzdGljcyI6eyJhbnN3ZXJzQ291bnQiOjMwLCJ2b3Rlc0NvdW50Ijo4NywicG9sbHNDb3VudCI6MiwicXVlc3Rpb25zQ291bnQiOjB9fSwib3B0aW9ucyI6WyJ5ZWxsb3ciLCJibHVlIiwicHVycGxlIiwicmVkIl0sInN0YXR1cyI6ImNhbGN1bGF0ZWQiLCJjcmVhdGVkQXQiOiIyMDI0LTEyLTE3VDAxOjQxOjAwLjIxNzAzOSswMDowMCIsImV4cGlyZXNBdCI6IjIwMjQtMTItMTdUMTM6NDA6NTkuNjc1KzAwOjAwIiwiaXNBbm9ueW1vdXMiOmZhbHNlLCJpc0FyY2hpdmVkIjpmYWxzZSwicmVzdWx0c0RhdGEiOlt7Im9wdGlvbklkIjoxLCJ2b3RlcyI6ODksInRleHQiOiJ5ZWxsb3ciLCJwZXJjZW50T2ZUb3RhbCI6NywiZmlsdGVycyI6eyJkZWZhdWx0Ijp7InZvdGVzIjo4OSwicGVyY2VudE9mVG90YWwiOjd9LCJwb3dlckJhZGdlRmlkIjp7InZvdGVzIjoyLCJwZXJjZW50T2ZUb3RhbCI6MC44ODg4ODg4ODg4ODg4ODl9LCJvZ0ZpZCI6eyJ2b3RlcyI6MSwicGVyY2VudE9mVG90YWwiOjEuMTYyNzkwNjk3Njc0NDJ9LCJwb3B1bGFyRmlkIjp7InZvdGVzIjoyNywicGVyY2VudE9mVG90YWwiOjQuNTYwODEwODEwODEwODF9fX0seyJvcHRpb25JZCI6Miwidm90ZXMiOjExNCwidGV4dCI6ImJsdWUiLCJwZXJjZW50T2ZUb3RhbCI6MTAsImZpbHRlcnMiOnsiZGVmYXVsdCI6eyJ2b3RlcyI6MTE0LCJwZXJjZW50T2ZUb3RhbCI6MTB9LCJwb3dlckJhZGdlRmlkIjp7InZvdGVzIjoyLCJwZXJjZW50T2ZUb3RhbCI6MC44ODg4ODg4ODg4ODg4ODl9LCJvZ0ZpZCI6eyJ2b3RlcyI6NCwicGVyY2VudE9mVG90YWwiOjQuNjUxMTYyNzkwNjk3Njd9LCJwb3B1bGFyRmlkIjp7InZvdGVzIjozOSwicGVyY2VudE9mVG90YWwiOjYuNTg3ODM3ODM3ODM3ODR9fX0seyJvcHRpb25JZCI6Mywidm90ZXMiOjk3MSwidGV4dCI6InB1cnBsZSIsInBlcmNlbnRPZlRvdGFsIjo4MiwiZmlsdGVycyI6eyJkZWZhdWx0Ijp7InZvdGVzIjo5NzEsInBlcmNlbnRPZlRvdGFsIjo4Mn0sInBvd2VyQmFkZ2VGaWQiOnsidm90ZXMiOjIxOSwicGVyY2VudE9mVG90YWwiOjk3LjMzMzMzMzMzMzMzMzN9LCJvZ0ZpZCI6eyJ2b3RlcyI6NzYsInBlcmNlbnRPZlRvdGFsIjo4OC4zNzIwOTMwMjMyNTU4fSwicG9wdWxhckZpZCI6eyJ2b3RlcyI6NTE4LCJwZXJjZW50T2ZUb3RhbCI6ODcuNX19fSx7Im9wdGlvbklkIjo0LCJ2b3RlcyI6MTcsInRleHQiOiJyZWQiLCJwZXJjZW50T2ZUb3RhbCI6MSwiZmlsdGVycyI6eyJkZWZhdWx0Ijp7InZvdGVzIjoxNywicGVyY2VudE9mVG90YWwiOjF9LCJwb3dlckJhZGdlRmlkIjp7InZvdGVzIjoyLCJwZXJjZW50T2ZUb3RhbCI6MC44ODg4ODg4ODg4ODg4ODl9LCJvZ0ZpZCI6eyJ2b3RlcyI6NSwicGVyY2VudE9mVG90YWwiOjUuODEzOTUzNDg4MzcyMDl9LCJwb3B1bGFyRmlkIjp7InZvdGVzIjo4LCJwZXJjZW50T2ZUb3RhbCI6MS4zNTEzNTEzNTEzNTEzNX19fV0sInRvcFZvdGVycyI6W3siaWQiOjEsInV1aWQiOiI2MWUzMzEzYS04NTFlLTRjZmItYWY4Ni0yM2ZmMjhjY2RlZDgiLCJmaWQiOjQzMjcsInVzZXJuYW1lIjoiY29qby5ldGgiLCJkaXNwbGF5TmFtZSI6IkNvbGluIEpvaG5zb24g8J-SrSIsInBmcCI6Imh0dHBzOi8vaS5pbWd1ci5jb20vNWtXekNhQS5qcGciLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHhlOTQzY2E4ODNlZjMyOTRlMGZjNTVhMWExNDU5MWFiZWFkMWI1OTI3IiwiMHhjYWFhMjZjNTQ5OGRlNjc0NjZlNjgyM2VmNjk3MThmZWIwNGMyOTUyIl0sInNwb25zb3JlZENvdW50Ijo0LCJzY29yZSI6MC4wMDA1NDQxMDE2OTgzMjQwODQzfSx7ImlkIjoyLCJ1dWlkIjoiMjdhMDkyZjctNjQ5YS00MTRlLWE0YTctNWJiMTY5MTU0OTNjIiwiZmlkIjo5NzYsInVzZXJuYW1lIjoiYmEiLCJkaXNwbGF5TmFtZSI6IkJlbiBBZGFtc2t5IPCfkq0iLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvMWViY2Q0OTgtMDk0MC00Y2U5LTJmZjEtOTI2MGY0ZTAwOTAwL29yaWdpbmFsIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4NjRmZjMzYjY1M2IyNmVkY2I0NjQ0ZTI3ZDM3MjBmM2M2NTNmODM3MSIsIjB4YzY0NjRjZjQ1MTdjODExZjBiOTU2MGFlYzIwZWI3ZDgyOWU2OGU0ZiJdLCJzcG9uc29yZWRDb3VudCI6NCwic2NvcmUiOjAuMDAwMTUwMTc5NDAzMTM1NTUzfSx7ImlkIjoxNiwidXVpZCI6ImFkMDI4NzgxLTMyNmQtNDE1Ny1hMzFkLTBjOTI2OWExMjZmZSIsImZpZCI6NTgxOCwidXNlcm5hbWUiOiJhZHJpZW5uZSIsImRpc3BsYXlOYW1lIjoiYWRyaWVubmUiLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvMTQ5MDc4MjEtMDZmMS00YjBiLWYyOGUtM2E3MzNhMDU0ZjAwL29yaWdpbmFsIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4YWVhNGEwZGVkYjk0YmE1YjJiOGVkOTQ3N2E4YTU0Mzc5YzU4NDU0MiIsIjB4YjFiMjE4ODRhZmU2NTgxZjNjNDk5N2IwMzIwNDY1ZjE4ZTk2ODJjMCJdLCJzcG9uc29yZWRDb3VudCI6MCwic2NvcmUiOjAuMDAwODUxMzgyMjEwMzg1MDU0M30seyJpZCI6NDUsInV1aWQiOiJkM2Q0MTVmMi05OWNlLTQyNDYtOTk4YS0wMDMwMDZjZjY2ZDgiLCJmaWQiOjgzMzIsInVzZXJuYW1lIjoiYXdlZGpvYiIsImRpc3BsYXlOYW1lIjoiQUoiLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvNDM1OGE3OTctYTQyOC00ZDI1LTQwZWQtMjFmZWNmOGVhMTAwL29yaWdpbmFsIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4MjMxNWM1NGIxZDlkMDEzZWU3OTEwNDEwMjVhYTQyYTQ5YWJmODUzZCIsIjB4YzkzOTUxOTg2OWM5NDZlNGJkY2E4ZmQwYjY0NTkwNDhjNGFlYmFlMiIsIjB4ZTFlZWRiZDFlMDg0Nzg3MDdjNzk0ZTdlOGIxZWU2MjNmNWZhNmQ2NCIsIjB4M2ViY2VjZWE1ODhlNWE2ZGZhZDg2NWZjNDM3MzJkMTRlMWFjODUwYyJdLCJzcG9uc29yZWRDb3VudCI6MCwic2NvcmUiOjAuMDAwMDc5OTg3NjE0Mjk5MTcwNjd9LHsiaWQiOjUzLCJ1dWlkIjoiYTZjYWRhNzUtNTgwMC00OTdiLThkZmYtMWQ0NjA4MTAzYzgwIiwiZmlkIjo1NzAxLCJ1c2VybmFtZSI6ImNocmlzY29jcmVhdGVkIiwiZGlzcGxheU5hbWUiOiJDaHJpc0NvQ3JlYXRlZCIsInBmcCI6Imh0dHBzOi8vaW1hZ2VkZWxpdmVyeS5uZXQvQlhsdVF4NGlnZTlHdVcwSWE1NkJIdy8xMTdmNTYzOS0yZDZmLTRhZWYtZjQxNC1jODM1Mzg1NjQ2MDAvb3JpZ2luYWwiLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHg1YzhmNzdiZTY2MzljYmQ1YjY2OWU0MDljNjEwOTI2Y2M0ZTBlNmFlIiwiMHhiNTk4ZGRhMTVjZjY4ZDZhOWYzNTAxYWFhMjdhZmE5OGI3ZjUyMjIxIiwiMHgzMDdmOWNjODY1MDg2MmUwODE1YWRmODMzYjkxMjVmNGUwZWQ0MDU1Il0sInNwb25zb3JlZENvdW50IjoxLCJzY29yZSI6MC4wMDAzOTc3ODYxMTk3MTk5NjcyNX1dLCJzdGF0aXN0aWNzIjp7InZvdGVzQ291bnQiOjExOTEsInZvdGVyc09nQ291bnQiOjg2LCJ2b3RlcnNPZ1BlcmNlbnRhZ2UiOjcsInZvdGVyc1Bvd2VyYmFkZ2VDb3VudCI6MjI1LCJ2b3RlcnNQb3dlcmJhZGdlUGVyY2VudGFnZSI6MTksInZvdGVyc0d0ZUZvbGxvd2Vyc0NvdW50Ijo1OTIsInZvdGVyc0d0ZUZvbGxvd2Vyc1BlcmNlbnRhZ2UiOjUwLCJyYW5rIjoxfSwiYm91bnR5IjpudWxsLCJnYXRpbmciOm51bGx9fQ"
+                    }
+                  ],
+                  "ogTitle": "What is the official color of Farcaster?",
+                  "ogLocale": "en"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "degen",
+            "name": "Degen",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbdad0a69",
+    "url": "https://warpcast.com/cryptowenmoon.eth/0xbdad0a69",
+    "author_username": "cryptowenmoon.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 10174,
+    "author_pfp": "https://i.imgur.com/tABKvo7.gif",
+    "cast_date": "2024-12-18T06:59:28.000Z",
+    "text": "What Base token do you think Binance is talking about?\n\nCould it be $DEGEN?\n\nhttps://x.com/binance/status/1869270735631573295?t=JVOytt35rBzEM_r5658bmA&s=19",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/489565d2-bea1-4d1c-8ae1-5e6849e89700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 253072,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 720,
+            "height_px": 1206
+          }
+        }
+      },
+      {
+        "url": "https://x.com/binance/status/1869270735631573295?t=JVOytt35rBzEM_r5658bmA&s=19",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/binance/status/1869270735631573295",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The countdown to <a href=\"https://twitter.com/hashtag/Binance?src=hash&amp;ref_src=twsrc%5Etfw\">#Binance</a> Alpha has begun!<br><br>Get ready for a new batch of tokens by preparing your assets on the corresponding chains: <br>👉 3 on BNB Chain, <br>👉 1 on Solana, and <br>👉 1 on Base.<br><br>Quick Buy starts: 2024-12-18 at 10:00 (UTC+0)<br><br>Click here ➡️ <a href=\"https://t.co/AbP1wcmqdS\">https://t.co/AbP1wcmqdS</a> <a href=\"https://t.co/Vl76VnGWxG\">pic.twitter.com/Vl76VnGWxG</a></p>&mdash; Binance (@binance) <a href=\"https://twitter.com/binance/status/1869270735631573295?ref_src=twsrc%5Etfw\">December 18, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/binance",
+              "author_name": "Binance",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbc6f474e",
+    "url": "https://warpcast.com/kepano/0xbc6f474e",
+    "author_username": "kepano",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 1321,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d5261bf9-9bd6-4d0e-fa9a-a1fa97df9e00/original",
+    "cast_date": "2024-12-17T20:50:56.000Z",
+    "text": "Thanks for reaching out. Do you mind if I share this email on social media to gauge the reaction from our community?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/22b61fc4-6dc9-42a0-b921-b78cd11bb600/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 245032,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1010,
+            "height_px": 1510
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x371cd61c",
+    "url": "https://warpcast.com/0xen/0x371cd61c",
+    "author_username": "0xen",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 528,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7c3ca449-b2e6-4570-5a48-7be60e3d5e00/original",
+    "cast_date": "2024-12-15T03:12:31.000Z",
+    "text": "Who did this",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/12a26d5e57b271428f9dcdb62e1dc34f.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 76.1
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4cdd1c5b",
+    "url": "https://warpcast.com/woj.eth/0x4cdd1c5b",
+    "author_username": "woj.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2024-12-16T16:35:27.000Z",
+    "text": "\"do something with a post\" is the winner UX of farcaster\n\nboth clanker and degen are more spammy than they could be, but this is how they became so viral and embedded in farcaster culture\n\nstudy noise",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa30d2fd3",
+    "url": "https://warpcast.com/vitalik.eth/0xa30d2fd3",
+    "author_username": "vitalik.eth",
+    "show_date": "2024-12-20",
+    "show_title": "GM Farcaster ep196 Wednesday December 18, 2024",
+    "source_episode_id": "XNiVMNYoy0c",
+    "author_fid": 5650,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b663cd63-fecf-4d0f-7f87-0e0b6fd42800/original",
+    "cast_date": "2024-12-17T17:27:34.000Z",
+    "text": "Should I pay for Ethereum to get more Binance Live access or more KOL posts?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bdc2efb1-528e-44ad-d00a-5ac001524d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 189184,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1570
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

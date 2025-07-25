@@ -1,0 +1,1289 @@
+[
+  {
+    "cast_hash": "0x935238c2",
+    "url": "https://warpcast.com/afrochicks/0x935238c2",
+    "author_username": "afrochicks",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 780900,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26d6fa5c-2dd8-4e6c-f788-58afe3133b00/rectcrop3",
+    "cast_date": "2025-04-27T02:09:49.000Z",
+    "text": "name the caster mini app \n\nhttps://ohara.ai/apps/miniapp_cm9yxnl9506wz0vs23moj9vyk",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 780900,
+          "hash": "0x02c51bdc041147d4252b36d2d7035d455e370637"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x02c51bdc041147d4252b36d2d7035d455e370637",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 780900,
+            "username": "afrochicks",
+            "display_name": "Naomi",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26d6fa5c-2dd8-4e6c-f788-58afe3133b00/rectcrop3",
+            "custody_address": "0xd76a379aed42b72c994d1ac3d6b6aee207e3ae87"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x02c51bdc041147d4252b36d2d7035d455e370637",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "i have an idea for a mini app \n\n“how chronically on farcaster are you?” \n\nthe pfp of a caster appears and you have to type in their username\n\nlet’s play a small version in the replies to see if there is pmf\n\nfirst to say who they are correctly wins",
+          "timestamp": "2025-04-26T21:33:19.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://ohara.ai/apps/miniapp_cm9yxnl9506wz0vs23moj9vyk",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://ohara.ai/apps/miniapp_cm9yxnl9506wz0vs23moj9vyk",
+            "ogType": "website",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "Name The Caster",
+                "url": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_cm9yzvsdr000104lc2dr17du9-LBwJcitTNfpOV4MIQFC5dYQoUVBI8X",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Name The Caster",
+            "ogLocale": "en",
+            "ogSiteName": "Ohara.ai",
+            "ogDescription": "A trivia game that tests your knowledge of Farcaster users.",
+            "fcFrame": {
+              "button": {
+                "title": "Open with Ohara",
+                "action": {
+                  "url": "https://ohara.ai/apps/miniapp_cm9yxnl9506wz0vs23moj9vyk",
+                  "name": "Name The Caster",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://cdn.builder.io/api/v1/image/assets/TEMP/9756b3248bdd48d596519e7d98958e9df5588654dadf0bb17a71fc435bcb37b3?placeholderIfAbsent=true&apiKey=ad3941e5ec034c87bd50708c966e7b84",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_cm9yzvsdr000104lc2dr17du9-LBwJcitTNfpOV4MIQFC5dYQoUVBI8X"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Open with Ohara",
+            "image": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_cm9yzvsdr000104lc2dr17du9-LBwJcitTNfpOV4MIQFC5dYQoUVBI8X",
+            "frames_url": "https://ohara.ai/apps/miniapp_cm9yxnl9506wz0vs23moj9vyk"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf2e0e57a",
+    "url": "https://warpcast.com/ohara-ai/0xf2e0e57a",
+    "author_username": "ohara-ai",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 1016398,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/20cde369-5f36-43ad-9abd-12485dca6700/rectcrop3",
+    "cast_date": "2025-04-16T21:39:48.000Z",
+    "text": "@jessyjeanne well…",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3fb9a22a-c4a7-4c11-bd13-fbefc7938a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 176238,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 991,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x99f91cab",
+    "url": "https://warpcast.com/nounishprof/0x99f91cab",
+    "author_username": "nounishprof",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-04-28T12:10:38.000Z",
+    "text": "CastOut is back with CastOut: Lil Island! Starting May 12, 8 tribes will compete to OutWit, OutPlay, and OutCAST until there's one tribe left standing! This Survivor inspired game happens all in the Farcaster ecosystem over the course of 9 days with the winning tribe competing individually in the last challenge.\n\nWant to play? Want to sponsor a tribe? Want to watch along? Stay tuned to /gmfarcaster this morning for more details and fill out the player/sponsor form below. \n\nhttps://app.deform.cc/form/61892518-d7fb-4d8e-b0b7-dd4cb779430c",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/038698c5-9f23-4eea-ac4d-cea8ebe8eb00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 622422,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 960,
+            "height_px": 540
+          }
+        }
+      },
+      {
+        "url": "https://app.deform.cc/form/61892518-d7fb-4d8e-b0b7-dd4cb779430c",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://app.deform.cc/form/61892518-d7fb-4d8e-b0b7-dd4cb779430c",
+            "favicon": "https://assets.deform.cc/production/5b14fbc9-e243-4ec4-8daa-79bf8655999b.png",
+            "ogImage": [
+              {
+                "alt": "Megaphone",
+                "url": "https://deform-9iena4ngg-contributionlabs.vercel.app/images/opengraph/og.png",
+                "type": "png",
+                "width": "1200",
+                "height": "675"
+              }
+            ],
+            "ogTitle": "CastOut: lil island",
+            "ogLocale": "en",
+            "ogDescription": "Megaphone Forms is token‐gated forms and surveys for sign ups, allowlists, DAO governance, and other web3 marketing activities."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8829a665",
+    "url": "https://warpcast.com/bradq/0x8829a665",
+    "author_username": "bradq",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-04-28T12:34:03.000Z",
+    "text": "29 Seconds of Farcaster ... what did you miss this weekend?\n\n* Busy weekend...Warpcast is dead...long live Farcaster! @dwr.eth announced the move is coming along w/ other plans to grow FC in coming months\n\n* @chaim.eth released the 'Acid Test' mini app--a radio show, first episode w/ @jc4p \n\n* @dylsteck.eth released a mini apps guide for working with the new Coinbase wallet w/ FC intergration that is coming & there is a live stream today 3PM EST to go over in depth\n\n* Friday's This Week In Mini Apps w/ @linda & @horsefacts.eth featured @jrf talking Atlas\n\n* Farcon news heated up w/ a whole bunch of images that won't help anybody find anybody in NYC & more helpfully dylsteck.eth announced details for $10K in prizes & $14K in bounties for Builders Day\n\n* @benbassler dropped 'Dash' a new client as mini app focused on short-form video that is getting some early rave reviews\n\n* Join @adrienne & @nounishprof at 11:30AM EST for a full rundown 💜",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x1ef7970a443da7bb75ce9e26db63abdc55130714"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1ef7970a443da7bb75ce9e26db63abdc55130714",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1ef7970a443da7bb75ce9e26db63abdc55130714",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster back tomorrow and we'll be joined by Melody from @ohara-ai! Join @adrienne and I for Farcaster on YouTube or Twitter.\n\nJoin us on YouTube for the most active chat. We'll see you in the GM!\n\nhttps://www.youtube.com/live/egvgeDcljoU?si=Mb0pJyGz17msr2i5",
+          "timestamp": "2025-04-28T01:43:52.000Z",
+          "embeds": [
+            {
+              "url": "https://www.youtube.com/live/egvgeDcljoU?si=Mb0pJyGz17msr2i5",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.youtube.com/watch?v=egvgeDcljoU",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/egvgeDcljoU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai\"></iframe>",
+                    "type": "video",
+                    "title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+                    "width": 200,
+                    "height": 113,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@GMFarcaster",
+                    "author_name": "GM Farcaster",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/egvgeDcljoU/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "ogDate": "2025-04-26T16:08:13-07:00",
+                  "ogType": "video.other",
+                  "favicon": "https://www.youtube.com/s/desktop/78bc1359/img/logos/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://i.ytimg.com/vi/egvgeDcljoU/hqdefault.jpg?v=680d6760",
+                      "type": "jpg",
+                      "width": "480",
+                      "height": "360"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+                  "ogVideo": [
+                    {
+                      "url": "https://www.youtube.com/embed/egvgeDcljoU",
+                      "type": "text/html",
+                      "width": "640",
+                      "height": "360"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "YouTube",
+                  "ogVideoSecureURL": "https://www.youtube.com/embed/egvgeDcljoU"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x50c4b781",
+    "url": "https://warpcast.com/dwr.eth/0x50c4b781",
+    "author_username": "dwr.eth",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-04-27T16:51:08.000Z",
+    "text": "We're planning to move forward with rebranding the Warpcast mobile and web app to Farcaster.\n\n1. Nothing is changing any time soon. We will take our time with this and have plenty of communication about it across multiple channels. The earliest the change will happen is mid-May, but a decent chance it happens in June.\n\n2. We're going to work on a plan over the next 2 weeks and should have a plan by the next developer call on May 8, 2025. We will discuss on the call.\n\n3. For developers: we're planning to open source the client monorepo— i.e. the mobile and web apps. Again, no timeline on this yet.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xbb2ee1c4cd134b4c9c6abb4f7045d991a08c090f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbb2ee1c4cd134b4c9c6abb4f7045d991a08c090f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xbb2ee1c4cd134b4c9c6abb4f7045d991a08c090f",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "As previously discussed, we're considering renaming the Warpcast app to Farcaster.\n\nWhy?\n- Top priority is grow users on the protocol\n- The name split is extremely confusing for new users\n- So, we want to simplify\n\nHow we're thinking about it\n- Rename Warpcast mobile app\n- warpcast.com to farcaster.xyz for web app\n- Open source both apps\n- No change protocol name, i.e. similar to Uniswap with app / protocol\n\nWhat we’re doing\n- Seeking input and want to make sure we understand concerns \n- Ultimately Varun and I will make a decision; it won’t be a vote.\n- Expect a decision in the next week or so; if yes, we will give plenty of notice and will take time to do this correctly / cleanly.\n\nHow you can provide input\n- Developers: please reply here or feel free to reach out to me via direct message whether you agree or disagree.\n- Everyone else: you're free to offer input, but we will be weighting developer input a bit more since it has a bigger near-term impact on what they are building",
+          "timestamp": "2025-04-16T20:52:50.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdf903537",
+    "url": "https://warpcast.com/garrett/0xdf903537",
+    "author_username": "garrett",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 2802,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c131c034-0090-4610-45a4-acda4b805000/rectcrop3",
+    "cast_date": "2025-04-27T21:25:55.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a9be7750-f0ce-4009-975f-0bc9d560af00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 177673,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1024
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x50c4b781164e6614be861351ec90605fdf468738"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x50c4b781164e6614be861351ec90605fdf468738",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x50c4b781164e6614be861351ec90605fdf468738",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "We're planning to move forward with rebranding the Warpcast mobile and web app to Farcaster.\n\n1. Nothing is changing any time soon. We will take our time with this and have plenty of communication about it across multiple channels. The earliest the change will happen is mid-May, but a decent chance it happens in June.\n\n2. We're going to work on a plan over the next 2 weeks and should have a plan by the next developer call on May 8, 2025. We will discuss on the call.\n\n3. For developers: we're planning to open source the client monorepo— i.e. the mobile and web apps. Again, no timeline on this yet.",
+          "timestamp": "2025-04-27T16:51:08.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 3,
+                "hash": "0xbb2ee1c4cd134b4c9c6abb4f7045d991a08c090f"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xbb2ee1c4cd134b4c9c6abb4f7045d991a08c090f",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-updates",
+            "name": "fc-updates",
+            "image_url": "https://i.imgur.com/YnnrPaH.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc8951947",
+    "url": "https://warpcast.com/dwr.eth/0xc8951947",
+    "author_username": "dwr.eth",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-04-27T19:09:14.000Z",
+    "text": "What does Farcaster look like in the near term?\n\nAt some point this summer:\n\n1. Coinbase Wallet will have a Farcaster-powered feed in their mobile app with millions of existing users. This will be the most significant increase to practical decentralization of the protocol since the beginning.\n\n2. Our app will be called Farcaster. Easy to explain to the average person—\"download Farcaster in the App Store\".\n\n3. Sign ups for most people will be free. Link your X / Twitter account and no payment required.\n\n4. Wallet will be available on web. And thanks to auth addresses, no more \"please open your phone to continue using this mini app\".\n\n5. Wallet and mini apps will expand their support to multiple chains. If there's an interesting app in crypto, the goal will be to have it play nicely with Farcaster.\n\n6. We're going to continue scaling our weekly reward programs: iterating on casting and building mini apps, but we're also working on a new version of the invite program that rewards referrals AND retention.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7161b26c",
+    "url": "https://warpcast.com/dwr.eth/0x7161b26c",
+    "author_username": "dwr.eth",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-04-26T23:04:28.000Z",
+    "text": "Small but important improvement for mini apps: URLs\n\nSimilar to the App Store, you now have a clean link with a UUID that you can share.\n\nThe URLs will automatically launch the mini app if a user has the mobile app installed or are logged into web.\n\nNext up is improving the unauthenticated experience for both mobile and web to help make it easy to get people to sign up and start using the mini app as quickly as possible.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c53c62c6-d697-454f-c63c-ecf0f7107f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 124127,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1144,
+            "height_px": 484
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2fc17d0c",
+    "url": "https://warpcast.com/gabrielayuso.eth/0x2fc17d0c",
+    "author_username": "gabrielayuso.eth",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 834,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0a4721e1-7694-44c0-f120-4eec4f747300/original",
+    "cast_date": "2025-04-26T20:26:00.000Z",
+    "text": "Introducing new Mini App URLs\n\nPreviously when copying the link to a mini app, they would look something like this:\n\n/~/min-apps/launch?domain=framedl.xyz\n\nNow they will look like this:\n\n/miniapps/8IsRgNO4ssVz/framedl\n\nThe new structure will make the URLs more readably and SEO friendly. By using an ID it also allows for rebranding without breaking links.\n\nWe also added a way to copy your mini app's link from the developer tools.\n\nThe /~/mini-apps/launch and /~/frames/launch URLs still work.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9a4d23f9-a532-44f1-cd56-27a9dd413d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 92913,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 618,
+            "height_px": 504
+          }
+        }
+      },
+      {
+        "url": "https://domain=framedl.xyz",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5877c954",
+    "url": "https://warpcast.com/yesyes/0x5877c954",
+    "author_username": "yesyes",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 11448,
+    "author_pfp": "https://i.imgur.com/ARJBfWe.jpg",
+    "cast_date": "2025-04-26T21:13:51.000Z",
+    "text": "If you want a quality user on Farcaster to stick around then you should 100% welcome them by quoting them or tagging them. If you are not doing so then you're significantly increasing their chances of churning. \nQuoting or tagging a user early increases their likelihood of sticking around later. So you better tag em.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ab604b10-acf1-4f3f-3f1e-9520c7449700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 216776,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1083,
+            "height_px": 397
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8a12d51d",
+    "url": "https://warpcast.com/octant/0x8a12d51d",
+    "author_username": "octant",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 18203,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9853f821-1390-4ed5-4217-a46a65aa4400/original",
+    "cast_date": "2025-04-25T17:38:28.000Z",
+    "text": "🥁🥁🥁 Cue the confetti 🎉  Our Epoch 7 Climate Round results are in!\n\n🌱 298.67 ETH allocated to projects\n🌱 203.88 ETH claimed by users\n🌱 65x matched average leverage\n🌱 20 projects supported\n \nA whopping 502.55 ETH in total, distributed to the Octant community + climate projects! \n\n🥰💝 A biiiiig shoutout to all of YOU! Thank you for caring + showing up +++ contributing rewards!\n \n🫶🏽💝 BIG thank you to our amazing devs. And a big up to the @climatenetwork for supporting. \n\n🌏💚 And finally, a massive congrats to the amazing Climate Cohort! Your work is vital + valued!\n\nGiliEcoTrust.twitter\nBluefilterC.twitter\nAtlantis_p2p.twitter\nGainForestNow.twitter\nopencollect.twitter\nAstralProtocol.twitter\nRodovidMe.twitter\nSilviProtocol.twitter\nbees_hope.twitter\nOurBloomNetwork.twitter\nync2020.twitter\nRifaiSicilia.twitter\nseabrick_ca.twitter\nbioverselabs.twitter\nekonavi_com.twitter\nM3tering.twitter\neSusFarm_Africa.twitter\ncognitivepolicy.twitter\nOceanusPH.twitter\nchangecodeio.twitter",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/01966e00-d982-c3bf-2ae9-c56db707c614.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 30
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7b5988c0",
+    "url": "https://warpcast.com/nounishprof/0x7b5988c0",
+    "author_username": "nounishprof",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-04-28T03:55:10.000Z",
+    "text": "Just the smart people next time @erik — a very interesting read lol",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/54855251-5b12-4751-05de-3de508ef4900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 46000,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 416,
+            "height_px": 658
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xded0258d966310e3cf370c8b9e6306ea219bcc51"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xded0258d966310e3cf370c8b9e6306ea219bcc51",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xded0258d966310e3cf370c8b9e6306ea219bcc51",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "lmao @erik \n\nhttps://www.semafor.com/article/04/27/2025/the-group-chats-that-changed-america",
+          "timestamp": "2025-04-28T02:50:07.000Z",
+          "embeds": [
+            {
+              "url": "https://www.semafor.com/article/04/27/2025/the-group-chats-that-changed-america",
+              "metadata": {
+                "content_type": "text/html",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.semafor.com/article/04/27/2025/the-group-chats-that-changed-america",
+                  "ogType": "article",
+                  "favicon": "/favicon-32x32.png",
+                  "ogImage": [
+                    {
+                      "url": "https://img.semafor.com/d14f9db8557885e8285daf36714ed36ef6dfacd7-2560x1952.png?rect=0,304,2560,1344&w=1200&h=630&q=75&auto=format",
+                      "type": "png",
+                      "width": "630",
+                      "height": "1200"
+                    }
+                  ],
+                  "ogTitle": "The group chats that changed America",
+                  "ogLocale": "en",
+                  "ogDescription": "A loose private network on Signal and WhatsApp helped usher in the new alliance between Silicon Valley and Donald Trump’s new right."
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5b634c2d",
+    "url": "https://warpcast.com/polluterofminds/0x5b634c2d",
+    "author_username": "polluterofminds",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 4823,
+    "author_pfp": "https://i.seadn.io/gae/lhGgt7yK1JiBVYz_HBxcAmYLRtP03aw5xKX4FgmFT9Ai7kLD5egzlLvb0lkuRNl28shtjr07DC8IHzLUkTqlWUMndUzC9R5_MSxH3g?w=500&auto=format",
+    "cast_date": "2025-04-27T20:34:21.000Z",
+    "text": "Introducing RSSemble (pronounced R Assemble) - a collaborative RSS feed for Farcaster. \n\nAll feed URLs are added onchain and read from onchain. They are mapped to the blog owner’s FID. Anyone can add a feed. Anyone can access the feeds added by the community. \n\nIf you click the bell icon and install the frame, you’ll get notifications each time any blog in the feed gets a new post. \n\nThis is V1 and there are a lot of improvements I want to make. Let me know what you think!\n\nSeeded with feeds from @dwr.eth, @stevedylandev, @joanwestenberg.eth, and @yb \n\nhttps://warpcast.com/miniapps/9j4yIs3n9GCD/rssemble",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/miniapps/9j4yIs3n9GCD/rssemble",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/miniapps/019678b6-fe68-eb44-2146-6c7896cb3661/rssemble",
+            "ogType": "website",
+            "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fcdn.orbiter.host%2Fipfs%2Fbafkreic4v2joirflm26fcyqczm4l3ejsislnaiz7dldmqqkflx5wgsexhy&s=e2287a90459519c5fd9a45c823e1a9bd766b169818e241e202aecbf37bd9f425",
+            "ogImage": [
+              {
+                "url": "https://cdn.orbiter.host/ipfs/bafkreicgshoh6j76pfdgwrlhsemwyv6wt5366wcoybxj3hzx5od7vreaji",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "RSSemble",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster Mini App",
+            "ogDescription": "A collorative RSS feed for Farcaster. Read your favorite Farcasters and add new feeds.",
+            "fcFrame": {
+              "button": {
+                "title": "Read the Feed",
+                "action": {
+                  "url": "https://www.rssemble.com",
+                  "name": "RSSEmble",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://cdn.orbiter.host/ipfs/bafkreic4v2joirflm26fcyqczm4l3ejsislnaiz7dldmqqkflx5wgsexhy",
+                  "splashBackgroundColor": "#111827"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://cdn.orbiter.host/ipfs/bafkreicgshoh6j76pfdgwrlhsemwyv6wt5366wcoybxj3hzx5od7vreaji"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read the Feed",
+            "image": "https://cdn.orbiter.host/ipfs/bafkreicgshoh6j76pfdgwrlhsemwyv6wt5366wcoybxj3hzx5od7vreaji",
+            "frames_url": "https://warpcast.com/miniapps/9j4yIs3n9GCD/rssemble"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x305ab9fc",
+    "url": "https://warpcast.com/hellno.eth/0x305ab9fc",
+    "author_username": "hellno.eth",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 13596,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/415baeae-ab4c-4d2f-bccd-3f319e89ec00/original",
+    "cast_date": "2025-04-26T21:00:53.000Z",
+    "text": "day two of getting hellno to farcon:\nWe made it to 100% of the fundraising goal!!1!\n\n@jachian took me up on the mini app offer! thanks to him and all other donations we will hang out at farcon ❤️\n\nhttps://hellnoeth-hellno-s-farewell.vercel.app/",
+    "embeds": [
+      {
+        "url": "https://hellnoeth-hellno-s-farewell.vercel.app/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hellnoeth-hellno-s-farewell.vercel.app",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "hellno's journey to farcon nyc",
+                "url": "https://hellnoeth-hellno-s-farewell.vercel.app/opengraph-image?651e35264d3d7678",
+                "type": "image/png"
+              }
+            ],
+            "ogTitle": "hellno's journey to farcon nyc",
+            "ogLocale": "en",
+            "ogDescription": "Fundraising to support hellno's journey from the land of Europooors to Farcon NYC",
+            "fcFrame": {
+              "button": {
+                "title": "help hellno.eth",
+                "action": {
+                  "url": "https://hellnoeth-hellno-s-farewell.vercel.app",
+                  "name": "hellno's journey to farcon nyc",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hellnoeth-hellno-s-farewell.vercel.app/splash.png",
+                  "splashBackgroundColor": "#f7f7f7"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://hellnoeth-hellno-s-farewell.vercel.app/opengraph-image"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "help hellno.eth",
+            "image": "https://hellnoeth-hellno-s-farewell.vercel.app/opengraph-image",
+            "frames_url": "https://hellnoeth-hellno-s-farewell.vercel.app/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 869999,
+              "username": "vibesengineering.eth",
+              "display_name": "vibes.engineering",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/37460dae-996e-481a-9c2c-0374da719400/original",
+              "custody_address": "0x76d50b0e1479a9ba2bd935f1e9a27c0c649c8c12"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjg2OTk5OSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc2ZDUwQjBFMTQ3OWE5QmEyYkQ5MzVGMUU5YTI3QzBjNjQ5QzhDMTIifQ",
+                "payload": "eyJkb21haW4iOiJoZWxsbm9ldGgtaGVsbG5vLXMtZmFyZXdlbGwudmVyY2VsLmFwcCJ9",
+                "signature": "MHg1MDcwZDY0MmNkMTY1NTJlODgxZjhhMGM3MjNkZWJlYmI3ODk4MzYzMmFjMWUyOGMxMmMxOGE4ZWY4MmE0OTUwNGFmNWNmOTZhYjQzMWQ2YjhhYzg0ZWIxMTViMWU4NDY1MmNiMWFlMzQ3YmFiOWRiNzY1ZTg2MTZlYTc5NTg4MzFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "hellno's journey to farcon nyc",
+                "home_url": "https://hellnoeth-hellno-s-farewell.vercel.app",
+                "icon_url": "https://hellnoeth-hellno-s-farewell.vercel.app/icon.png",
+                "image_url": "https://hellnoeth-hellno-s-farewell.vercel.app/frames/hello/opengraph-image",
+                "button_title": "help hellno.eth",
+                "splash_image_url": "https://hellnoeth-hellno-s-farewell.vercel.app/splash.png",
+                "splash_background_color": "#f7f7f7",
+                "webhook_url": "https://hellnoeth-hellno-s-farewell.vercel.app/api/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "hellno's journey to farcon nyc",
+                "home_url": "https://hellnoeth-hellno-s-farewell.vercel.app",
+                "icon_url": "https://hellnoeth-hellno-s-farewell.vercel.app/icon.png",
+                "image_url": "https://hellnoeth-hellno-s-farewell.vercel.app/frames/hello/opengraph-image",
+                "button_title": "help hellno.eth",
+                "splash_image_url": "https://hellnoeth-hellno-s-farewell.vercel.app/splash.png",
+                "splash_background_color": "#f7f7f7",
+                "webhook_url": "https://hellnoeth-hellno-s-farewell.vercel.app/api/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1f319446",
+    "url": "https://warpcast.com/timdaub.eth/0x1f319446",
+    "author_username": "timdaub.eth",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 5708,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2b498bea-9075-4173-9172-3c99689eb400/original",
+    "cast_date": "2025-04-25T16:23:01.000Z",
+    "text": "hi i'm looking for a +1 for Farcon in NY\n\nqualifications:\n- free May 1-8\n- more than 20k followed\n- won't embarrass me in front of my VCs\n- no beef with Dan\n\nserious inquiries only!!! tag ur hot friends or DM me, ps i'm 5'11\" in heels (not a dealbreaker more of an fyi 🤪)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/74ab28dd-e048-419b-5716-f78da63c0200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 381585,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1536
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/54942f42-e708-4c3c-db2f-d1a3a22c3f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 485100,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1125
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x37bdcf75",
+    "url": "https://warpcast.com/humpty.eth/0x37bdcf75",
+    "author_username": "humpty.eth",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 2480,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70bfa280-906f-481c-1abe-afd9f72d7b00/original",
+    "cast_date": "2025-04-26T02:59:51.000Z",
+    "text": "hi i'm looking for a +1 for a vintage shopping expedition in nyc\n\nqualifications:\n- free may 1-4\n- looks good in vintage anything  \n- won't embarrass me in front of my geeky friends\n- good walking buddy\n\nserious inquiries only!!! tag ur vintage obsessed friends or DM me, ps i'm 5'11\" in heels (not a dealbreaker more of an fyi 🤪)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8af1aeb0-42b9-4aa7-cb24-66ee3bce8700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 347814,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1149,
+            "height_px": 1532
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9cd0d4c9-73a5-468c-48be-9b90e5dd7a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 33318,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 486,
+            "height_px": 612
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfcda147c",
+    "url": "https://warpcast.com/deanpierce.eth/0xfcda147c",
+    "author_username": "deanpierce.eth",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 8531,
+    "author_pfp": "https://i.imgur.com/7ExIHMM.jpg",
+    "cast_date": "2025-04-25T22:41:23.000Z",
+    "text": "hi i'm looking for a +1 to accompany me to mordor\n\nqualifications:\n- free for an extended hike across middle-earth\n- looks good in a travel cloak\n- won't embarrass me in front of the fellowship\n- good at walking... like really good\n\nserious inquiries only!!! tag ur brave single friends or DM me, ps i'm 4'1\" with the One Ring (not a dealbreaker more of an fyi 🤪)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fb15d454-3a89-4fcf-96f2-7d9e28b2ce00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 812920,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1536
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0724457c-25c4-43ed-06d4-f33a83be4100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 631052,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1024
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf851a64b",
+    "url": "https://warpcast.com/adrienne/0xf851a64b",
+    "author_username": "adrienne",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-04-27T13:38:35.000Z",
+    "text": "Which /gmfarcaster project do you think would be most valuable: \n\n1. create a database of every cast that’s been featured on /gmfarcaster so people can query it and interact with a time capsule of casts of farcaster history \n\n2. make our ai bot (@warpee.eth ) accessible via a mini app so people can ask questions about Farcaster from an app instead of tagging the bot \n\n3. custom GM farcaster mini app for watching our live stream without leaving the feed \n\n🙏🙏",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbcde7698",
+    "url": "https://warpcast.com/linda/0xbcde7698",
+    "author_username": "linda",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-04-28T00:16:51.000Z",
+    "text": "Lots of folks coming to Williamsburg next week! My favorites:\n\n- Forma Pasta Factory (Italian)\n- Acre (Japanese)\n- Bernie's (American)\n- Taqueria Ramirez (Mexican)\n- Pierozek (Polish)\n- Gertie (Jewish)\n- Fini (Pizza)\n- Chinta (Thai)\n- St. Anselm (Steak)\n- Radio (Bakery)\n- Caffe Panna (Ice cream)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe6396b00",
+    "url": "https://warpcast.com/sahil/0xe6396b00",
+    "author_username": "sahil",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 725,
+    "author_pfp": "https://lh3.googleusercontent.com/ELQOEk4_UQ1iLnH3VBoNovAoYrEn2Fpm73fQb8cE1wsVCFLwU6eT3USqlb7P8Ju6JLBKacWt_otOsOHy0GrZOumx7xQk_i-42lO97A",
+    "cast_date": "2025-04-25T18:16:16.000Z",
+    "text": "Farcon Superfeed is now live on @cura \n\nall farcon content across channels in one place. don't miss any of the cool stuff next week, whether you're url or irl :) \n\nhttps://cura.network/?t=farcon",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 854973,
+          "hash": "0xb3988141793fee82c62e7f1c00edd5f445995548"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb3988141793fee82c62e7f1c00edd5f445995548",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 854973,
+            "username": "cura",
+            "display_name": "cura",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/29e36bd6-bb5b-41b7-7328-2566d34ae400/original",
+            "custody_address": "0xaf406ccd3cb5efcfd49f40ac2cb1ba8112e17969"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb3988141793fee82c62e7f1c00edd5f445995548",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "root_parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "We just turned on the Farcon Superfeed 🤩  \nGet everything about Farcon in one place, no channel hopping needed🥳  \nAn easy way to stay plugged in, even if you’re not attending. Take a look: https://cura.network/?t=farcon",
+          "timestamp": "2025-04-24T17:51:04.000Z",
+          "embeds": [
+            {
+              "url": "https://cura.network/?t=farcon",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://cura.network?t=farcon",
+                  "favicon": "/icon.png",
+                  "ogImage": [
+                    {
+                      "alt": "Post image",
+                      "url": "https://cura.network/api/og/farcon",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "Cura at Farcon",
+                  "ogLocale": "en",
+                  "ogDescription": "Stay Up to date with whats happening in the Farcon community",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Cura at Farcon",
+                      "action": {
+                        "url": "https://cura.network?t=farcon",
+                        "name": "Cura",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://cura.network/icon.png",
+                        "splashBackgroundColor": "#000000"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://cura.network/api/og/farcon?frame=true"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Cura at Farcon",
+                  "image": "https://cura.network/api/og/farcon?frame=true",
+                  "frames_url": "https://cura.network/?t=farcon",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 864314,
+                    "username": "curabot",
+                    "display_name": "cura",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c0ba4d19-001a-4887-f271-9f7da83c2000/original",
+                    "custody_address": "0xbcb984a6faa20ff56a633653f57e82a23d498aa0"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjg2NDMxNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEJjYjk4NEE2ZmFhMjBmRjU2QTYzMzY1M0Y1N2U4MmEyM2Q0OThhQTAifQ",
+                      "payload": "eyJkb21haW4iOiJjdXJhLm5ldHdvcmsifQ",
+                      "signature": "MHhhZDAwYWNiN2I0YjgxNzljZTBlNTc3NWZjZDkyOWU2OTFkZGUyNzMzODAwNDk5ZjUwZDZiOWViZjFlMzUzZTI3NzQ0NzllNmEyNmNlODkxMjM1MTAzODcxNzFmMTViOTMwYTY0YzUyM2YwNTg1MDA0MTI0MGMwNGQ3OGZmYzRiMjFj"
+                    },
+                    "frame": {
+                      "version": "0.0.1",
+                      "name": "Cura",
+                      "home_url": "https://cura.network",
+                      "icon_url": "https://cura.network/icon.png",
+                      "splash_image_url": "https://cura.network/icon.png",
+                      "splash_background_color": "#111111",
+                      "webhook_url": "https://notifications.cura.network/api/v1/webhooks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiY3VyYS5uZXR3b3JrIn0.PONNJOwdS8Je59nk9CnpgbZAaENHCe3zLHPCcX0wB0w",
+                      "primary_category": "social",
+                      "tags": [
+                        "cura",
+                        "openrank",
+                        "community",
+                        "moderation",
+                        "channels"
+                      ]
+                    },
+                    "miniapp": {
+                      "version": "0.0.1",
+                      "name": "Cura",
+                      "home_url": "https://cura.network",
+                      "icon_url": "https://cura.network/icon.png",
+                      "splash_image_url": "https://cura.network/icon.png",
+                      "splash_background_color": "#111111",
+                      "webhook_url": "https://notifications.cura.network/api/v1/webhooks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiY3VyYS5uZXR3b3JrIn0.PONNJOwdS8Je59nk9CnpgbZAaENHCe3zLHPCcX0wB0w",
+                      "primary_category": "social",
+                      "tags": [
+                        "cura",
+                        "openrank",
+                        "community",
+                        "moderation",
+                        "channels"
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcon",
+            "name": "FarCon",
+            "image_url": "https://i.imgur.com/mtH8eq1.jpg"
+          }
+        }
+      },
+      {
+        "url": "https://cura.network/?t=farcon",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://cura.network?t=farcon",
+            "favicon": "/icon.png",
+            "ogImage": [
+              {
+                "alt": "Post image",
+                "url": "https://cura.network/api/og/farcon",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Cura at Farcon",
+            "ogLocale": "en",
+            "ogDescription": "Stay Up to date with whats happening in the Farcon community",
+            "fcFrame": {
+              "button": {
+                "title": "Cura at Farcon",
+                "action": {
+                  "url": "https://cura.network?t=farcon",
+                  "name": "Cura",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://cura.network/icon.png",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://cura.network/api/og/farcon?frame=true"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Cura at Farcon",
+            "image": "https://cura.network/api/og/farcon?frame=true",
+            "frames_url": "https://cura.network/?t=farcon",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 864314,
+              "username": "curabot",
+              "display_name": "cura",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c0ba4d19-001a-4887-f271-9f7da83c2000/original",
+              "custody_address": "0xbcb984a6faa20ff56a633653f57e82a23d498aa0"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjg2NDMxNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEJjYjk4NEE2ZmFhMjBmRjU2QTYzMzY1M0Y1N2U4MmEyM2Q0OThhQTAifQ",
+                "payload": "eyJkb21haW4iOiJjdXJhLm5ldHdvcmsifQ",
+                "signature": "MHhhZDAwYWNiN2I0YjgxNzljZTBlNTc3NWZjZDkyOWU2OTFkZGUyNzMzODAwNDk5ZjUwZDZiOWViZjFlMzUzZTI3NzQ0NzllNmEyNmNlODkxMjM1MTAzODcxNzFmMTViOTMwYTY0YzUyM2YwNTg1MDA0MTI0MGMwNGQ3OGZmYzRiMjFj"
+              },
+              "frame": {
+                "version": "0.0.1",
+                "name": "Cura",
+                "home_url": "https://cura.network",
+                "icon_url": "https://cura.network/icon.png",
+                "splash_image_url": "https://cura.network/icon.png",
+                "splash_background_color": "#111111",
+                "webhook_url": "https://notifications.cura.network/api/v1/webhooks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiY3VyYS5uZXR3b3JrIn0.PONNJOwdS8Je59nk9CnpgbZAaENHCe3zLHPCcX0wB0w",
+                "primary_category": "social",
+                "tags": [
+                  "cura",
+                  "openrank",
+                  "community",
+                  "moderation",
+                  "channels"
+                ]
+              },
+              "miniapp": {
+                "version": "0.0.1",
+                "name": "Cura",
+                "home_url": "https://cura.network",
+                "icon_url": "https://cura.network/icon.png",
+                "splash_image_url": "https://cura.network/icon.png",
+                "splash_background_color": "#111111",
+                "webhook_url": "https://notifications.cura.network/api/v1/webhooks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiY3VyYS5uZXR3b3JrIn0.PONNJOwdS8Je59nk9CnpgbZAaENHCe3zLHPCcX0wB0w",
+                "primary_category": "social",
+                "tags": [
+                  "cura",
+                  "openrank",
+                  "community",
+                  "moderation",
+                  "channels"
+                ]
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4b9d24ee",
+    "url": "https://warpcast.com/gramajo.eth/0x4b9d24ee",
+    "author_username": "gramajo.eth",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 21431,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd4b7693-342b-42c8-0e98-c4dd13bbca00/rectcrop3",
+    "cast_date": "2025-04-25T18:49:33.000Z",
+    "text": "Update #4 for Prop293\n\n- GPS POAPs are currently being deployed. You will have 1 week to complete as I want you to attend the awesome /farcon-nyc events.\n- How will you know you're are the right place for our participating restaurants? Look for this flyer by @nadiecito.eth \n- Hop on the TG if you need help\n- There is a hidden 10th POAP with its own prize pool thanks to /flows\n- Remember to have fun, wear sunscreen and eat well\n- Received @useburner and loaded them up with prize money\n\nSee you all at the award ceremony (livestreamed after farcon week)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06eb1b82-d5bd-454a-fff1-0c0626173e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 375395,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1545,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xee9d29dc",
+    "url": "https://warpcast.com/rskagy.eth/0xee9d29dc",
+    "author_username": "rskagy.eth",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 410846,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/800bc399-4346-4c87-73a7-0448cc193100/original",
+    "cast_date": "2025-04-25T22:23:51.000Z",
+    "text": "We’re thrilled to announce that the one and only @dwr.eth, the visionary co-founder behind /farcaster and former VP at Coinbase, is officially speaking at ClankerCon 2025 on May 29th! 🔥 \n\nDan will be hitting the stage with @jesse.base.eth and @proxystudio.eth, the architects of the onchain future we’re all building toward.\n\nFarcaster is where the birth of Clanker took place from first sparks, ideation and execution.\n\n/clankercon is where the most based communities, creators, and builders collide inside the metaverse on any of your smart devices for a jam-packed celebration:\n\n🎮 Games\n🎤 AMAs\n🎁 Giveaways\n🎬 Showcases\n🔥 Panels\n🎶 Entertainment\n\n…and more surprises you won't want to miss.\n\nBrought to life by:\n@basedfarcast | @thecreators | @ownthedoge \n\nCo-hosted with:\n@proxystudio.eth @clanker x.com/EntertheRYFT @operatingsystem @coordinape x.com/abanteP_film @luminode x.com/@BIC_dao x.com/ProtocolGemini \n\nWant in? Sign up below. 👇 \n\nClank Clank! 🛠 #ClankerCon2025",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d1e8da43-40b5-4215-9f17-3be7430f2b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 723610,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1280,
+            "height_px": 720
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa35edd8c",
+    "url": "https://warpcast.com/mikadoe.eth/0xa35edd8c",
+    "author_username": "mikadoe.eth",
+    "show_date": "2025-04-28",
+    "show_title": "GM Farcaster ep239 Monday April 28, 2025 with @ohara-ai",
+    "source_episode_id": "O0M7Eb1GOxA",
+    "author_fid": 477126,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/19b7bdd9-bbd2-4432-126c-9e89b85fcc00/rectcrop3",
+    "cast_date": "2025-04-27T09:53:35.000Z",
+    "text": "I'm gonna need a folder or something this is getting out of hand 😅 \nhbu?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9f92195b-4a51-4bb5-d0e1-d9f31e94a300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 336672,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 603,
+            "height_px": 862
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

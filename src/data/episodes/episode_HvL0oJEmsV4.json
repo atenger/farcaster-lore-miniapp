@@ -1,0 +1,1154 @@
+[
+  {
+    "cast_hash": "0xebda92f4",
+    "url": "https://farcaster.xyz/pauline-unik/0xebda92f4",
+    "author_username": "pauline-unik",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 193826,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3fe0bc9e-3e4e-49fa-d2d4-d69a078ea500/original",
+    "cast_date": "2025-06-24T19:32:15.000Z",
+    "text": "Ever co-produced an IRL show, babe? Now you can 🌶️\n\nLos Fomos is the first onchain-native, farcaster-born show with IRL ambition to onboard the masses.\nWe’re turning LF into an IRL production with real sets, cameras, chaos and your fav spicy girls will meet in person for the FIRST time IRL after working together for 4 years.\n\nThis campaign is the fuel we need to start the new LF chapter. Fade it or help help make it real to become part of the story!!! \n\nhttps://crowdfund.seedclub.com/c/cmcamk1l500v6vy0tbg09o6vj",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0197a360-a3fe-4527-8bdc-d945792624a9.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 44.59
+          }
+        }
+      },
+      {
+        "url": "https://crowdfund.seedclub.com/c/cmcamk1l500v6vy0tbg09o6vj",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/vite.svg",
+            "ogImage": [
+              {
+                "url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/cmcamk1l500v6vy0tbg09o6vj.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Crowdfund",
+            "ogLocale": "en",
+            "ogDescription": "Fund good ideas",
+            "fcFrame": {
+              "button": {
+                "title": "Donate now",
+                "action": {
+                  "url": "https://crowdfund.seedclub.com/c/cmcamk1l500v6vy0tbg09o6vj",
+                  "name": "Crowdfund",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/crowdfund_icon.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/cmcamk1l500v6vy0tbg09o6vj.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Donate now",
+            "image": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/cmcamk1l500v6vy0tbg09o6vj.png",
+            "frames_url": "https://crowdfund.seedclub.com/c/cmcamk1l500v6vy0tbg09o6vj",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 2824,
+              "username": "seedclub",
+              "display_name": "Seed Club",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/69484a94-7a09-4c3b-3499-aa02a3dc7e00/rectcrop3",
+              "custody_address": "0xcd91ecbe7181bb7a2a938bd2e2b10cfe1844f02f"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjI4MjQsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhjZDkxRUNiZTcxODFiYjdhMkE5MzhCZDJlMmIxMENmRTE4NDRmMDJGIn0",
+                "payload": "eyJkb21haW4iOiJjcm93ZGZ1bmQuc2VlZGNsdWIuY29tIn0",
+                "signature": "MHg4OTBjZDRhNmU4N2JkYjk0ZTE4ZjNiMjY1ZjU2NGM2YTNjZDJkN2I1NTI2MjI2ZWQ1MWMxNGQxMDk5MTkyNjQwNjMwMmZjN2JkMWMxYTFlYjlhODQ5NjAxYTQwYmFkYmIzMmViM2I3ZTNlNmUxZmI1YWNhNGE5MWViYTM5Yzg3YzFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Crowdfund",
+                "home_url": "https://crowdfund.seedclub.com/",
+                "icon_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/crowdfund_icon.png",
+                "image_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/app.jpg",
+                "button_title": "Launch",
+                "splash_image_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/crowdfund_icon.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://crowdfund.seedclub.com/api/farcaster/webhook",
+                "subtitle": "Fund good ideas.",
+                "description": "Raise USD for free. Global, no fee crowdfunding on Base blockchain.",
+                "screenshot_urls": [
+                  "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/photo_5041795378323763348_y.jpg",
+                  "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/photo_5041795378323763349_y.jpg",
+                  "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/photo_5041795378323763350_y.jpg"
+                ],
+                "primary_category": "utility",
+                "tags": [
+                  "crowdfund",
+                  "fund",
+                  "funding",
+                  "fundraise",
+                  "crowdfunding"
+                ],
+                "hero_image_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/hero2.jpg",
+                "tagline": "Make your dreams real.",
+                "og_title": "Free USDC Crowdfunds.",
+                "og_description": "Raise USD for free. Global, no fee crowdfunding on Base blockchain.",
+                "required_chains": [
+                  "eip155:8453"
+                ]
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Crowdfund",
+                "home_url": "https://crowdfund.seedclub.com/",
+                "icon_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/crowdfund_icon.png",
+                "image_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/app.jpg",
+                "button_title": "Launch",
+                "splash_image_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/crowdfund_icon.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://crowdfund.seedclub.com/api/farcaster/webhook",
+                "subtitle": "Fund good ideas.",
+                "description": "Raise USD for free. Global, no fee crowdfunding on Base blockchain.",
+                "screenshot_urls": [
+                  "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/photo_5041795378323763348_y.jpg",
+                  "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/photo_5041795378323763349_y.jpg",
+                  "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/photo_5041795378323763350_y.jpg"
+                ],
+                "primary_category": "utility",
+                "tags": [
+                  "crowdfund",
+                  "fund",
+                  "funding",
+                  "fundraise",
+                  "crowdfunding"
+                ],
+                "hero_image_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/hero2.jpg",
+                "tagline": "Make your dreams real.",
+                "og_title": "Free USDC Crowdfunds.",
+                "og_description": "Raise USD for free. Global, no fee crowdfunding on Base blockchain.",
+                "required_chains": [
+                  "eip155:8453"
+                ]
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfa8fb669",
+    "url": "https://farcaster.xyz/v/0xfa8fb669",
+    "author_username": "v",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-06-24T19:21:13.000Z",
+    "text": "We're noticing more gaming on the leaderboard. \n\nWill be making some algo changes this week to address voting rings and  similar coordinated behavior to game the leaderboard.\n\nThanks to everyone who reported these issues.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x53c760d8",
+    "url": "https://farcaster.xyz/v/0x53c760d8",
+    "author_username": "v",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-06-24T18:42:59.000Z",
+    "text": "Farcaster Spam Check \n\nDo you want to help a friend affected by the spam label?\n\nCheck if they have the label by going to Profile > Three Dots > About and look at the spam label. \n\nIf it says \"0 (likely to engage in spammy behavior)\", then reply with their username.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6141a36a-1355-45e3-e73f-ab684eb8ee00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 638363,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1506,
+            "height_px": 1312
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc753ba2e",
+    "url": "https://farcaster.xyz/dwr.eth/0xc753ba2e",
+    "author_username": "dwr.eth",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-06-25T04:09:19.000Z",
+    "text": "Clear opportunity for more casts about sports.\n\nBoth professional and recreational. \n\nHave been doing a bunch of user research recenlty and it’s the clear number one most popular non-ceypto category where people read / watch content on other social networks.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf89d3796",
+    "url": "https://farcaster.xyz/dwr.eth/0xf89d3796",
+    "author_username": "dwr.eth",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-06-23T15:54:02.000Z",
+    "text": "Only had 3 people respond to this -- if you're actively working on a v1 frame, cast action or composer action, please reply here.\n\nOur goal is to understand why those are still important to you!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x4c4c63b6e3b08f8ff688aaf39221f09aaec891f7"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4c4c63b6e3b08f8ff688aaf39221f09aaec891f7",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4c4c63b6e3b08f8ff688aaf39221f09aaec891f7",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "If you're still actively working on:\n\n1. Composer Action\n2. Cast Action, i.e. non-mini app v1\n3. v1 Frame\n\nCan you please reply to this cast with a description or link?",
+          "timestamp": "2025-06-17T15:54:18.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5edecfdf",
+    "url": "https://farcaster.xyz/pirosb3/0x5edecfdf",
+    "author_username": "pirosb3",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 12152,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7229dfa5-4873-42d0-9dd0-69f4f3fc4d00/original",
+    "cast_date": "2025-06-23T23:36:31.000Z",
+    "text": "⭐️ New Mini Apps Update\n\nA small QoL improvement: you can now search mini apps directly from Quick Search.\n\nIt’s now faster than ever to open your favorite app - whether that’s @poolsuite for some tunes, or any mini app you love to access quickly",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e0f98ac1-9e60-40c9-086f-ca1ce239e600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 146569,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 808,
+            "height_px": 916
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x65749bdc",
+    "url": "https://farcaster.xyz/aneri/0x65749bdc",
+    "author_username": "aneri",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 7732,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmZTLntgcsPSpc5jgG6nsNe6tgJo8wxSPm8nbAmdv7HG5b?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-06-23T20:06:22.000Z",
+    "text": "a new day one,\nthe next chapter of base",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01979e65-4b2c-656e-75db-0c58a93f64ad.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 17.795996
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xeab5d669",
+    "url": "https://farcaster.xyz/octant/0xeab5d669",
+    "author_username": "octant",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 18203,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9853f821-1390-4ed5-4217-a46a65aa4400/original",
+    "cast_date": "2025-06-24T12:48:26.000Z",
+    "text": "gm gm for those who believe in somETHing 💝",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0197a1fa-ca87-defa-3b28-01e9ddf61c46.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 60.3
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x443b79d4",
+    "url": "https://farcaster.xyz/octant/0x443b79d4",
+    "author_username": "octant",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 18203,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9853f821-1390-4ed5-4217-a46a65aa4400/original",
+    "cast_date": "2025-06-23T15:48:38.000Z",
+    "text": "An interesting bit from @julian-z 's d/acc talk\n\nFunding things is always subjective.\n\nThat's why Epoch 8 was focused on contribution to core Ethereum.\n\nWe're not funding everything—we're funding what we believe strengthens @ethereum this epoch.",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01979d79-13d9-e889-624e-cbc2a3bba593.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 76
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x45960150",
+    "url": "https://farcaster.xyz/bradq/0x45960150",
+    "author_username": "bradq",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-06-24T16:04:19.000Z",
+    "text": "** Rewards Leaderboard Results **\n\nLots of new faces in the top 30...\n\n* @okjose FID 3087!, after sporatic casting launches Mesh mini app and rides it & regular casting to #1 🎉 ; @cherdougie #2 & @debbie #3 hold down the elite top 3 tier for the 'Vibe Tribe' \n\n* @gabeeinhorn new to FC this week debuts at #5, $350 not a bad first week for a 'non crypto guy' exploring faith, real estate, & vibes \n\n* @ericolsz first time top 10 at #6 because 'people like the science' 🔬 \n\n* @noviana in her first week on FC is #14-- how much of the $125 does she owe to her sister @elvi for onboarding this week? 🤔 \n\n* Shout out to 4 new people in the 21-30 range that I've never seen there including @the-oma first couple days on FC, @amethystaura with some fire fits and fashion\n\n* Meme-coveted #69 taken by @presidojay1 with some serious soccer vibes\n\n* Expanded payouts continue (3000) so lots of first time Rewards winners to celebrate with today 🎈",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cdd36565-68f0-4249-0743-58a46fe2b100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 222780,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 760,
+            "height_px": 1350
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e890533b-f0e6-409a-3af2-7e62daed3700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 212207,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 746,
+            "height_px": 1226
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x84820568",
+    "url": "https://farcaster.xyz/debbie/0x84820568",
+    "author_username": "debbie",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 1628,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/61321600-eb11-4ccb-e5f7-6ed519f6b000/original",
+    "cast_date": "2025-06-24T16:45:25.000Z",
+    "text": "we did it fam 😭\na solid 🥉 place finish\n\nthank you so much for helping me achieve my holy grail here on farcaster",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2b970339-11ec-4f28-45db-7bcacaa4cd00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 46708,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 1100
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbedefe08",
+    "url": "https://farcaster.xyz/gabeeinhorn/0xbedefe08",
+    "author_username": "gabeeinhorn",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 1104724,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/259675ca-a5f3-48e6-9592-5baeaaa37500/rectcrop3",
+    "cast_date": "2025-06-23T20:46:53.000Z",
+    "text": "Why am I here ? \n\nI just had a conversation on Farcaster with a guy, he asked me a question about tokens and I told him I honestly don’t know much about tokens or crypto. \n\nHe responded by asking genuinely “why am I on this app”\n\nIt made me think, I know nothing about crypto, I’m not involved with any of it, so really why am I here. \n\nThe backstory is, my best friend @evanzsolomon told me about the platform. He has been supporting my content on LinkedIn and other social media, and he told me I gotta come join Farcaster. So I did!\n\nThat’s it, nothing too complicated. But now I’m here, so might as well learn about crypto !",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe8063468",
+    "url": "https://farcaster.xyz/pichi/0xe8063468",
+    "author_username": "pichi",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 234616,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/343ce6bb-b2d3-4f7c-1359-deba9af91000/original",
+    "cast_date": "2025-06-23T03:44:26.000Z",
+    "text": "Engagement is a Two Way Street\n\n\nI’ve seen a lot of chatter on the timeline that engagement has been weird for the past 2 weeks. \n\nWe’ve either all gotten worse at casting, the hype of “pro” has worn off, or the team has been experimenting with the algorithm and we are staring to feel the effects. \n\nMaybe it’s a combo of all 3 and we need to take some action. \n\n1. Clean up who you follow\n2. Change your Feed Setting to see All Replies for a week\n3. Reply to every thoughtful comment & ignore low effort replies\n4. Hack the recency bias in the algorithm\n5. Turn on “Super Follow” (notifications) for your favorite casters or friends you want to see more\n6. Change up how, when, and where you cast\n7. Audit your own profile (handy Dune query below)\n\n1. Clean up who you follow\n\nYou can’t make people follow you or engage with you, but you can save your engagement for those who engage back. If you are being truly thoughtful and authentic and someone never replies to you (and you don’t have a spam label so you know they can see you!) then stop wasting your time and move on. People are busy, notifications are buggy, spam labels are real. But if someone ignores you, move on. Even a like is enough. If they give you zero interaction back, try someone else. \n\nHere’s a quick tool to see who is still around. \nDon’t follow spammy people. Save friends who are mislabeled as spam. \nhttps://recaster.org/tool/follow-checker\n\n2. Change your Feed Setting to see All Replies for a week\n\n\nFarcaster is now letting you decide how many replies you want to see. I encourage everyone to change this setting to all for at least a week. Many casters have been in the shadows and you can help them be visible again.  Some accounts are inundated by AI automated accounts and won’t be able to use this setting, but most people should be able to try this for at least a week. Block automated accounts liberally. Give real casters a chance. \n\nhttps://farcaster.xyz/v/0x1e17bba1\n\n\n3. Reply to every thoughtful comment. Ignore low effort replies. \n\nIf you want engagement you have to give it too.  You don’t have to be a reply guy if it’s not your thing, but if people are taking the time to engage with your casts, take the time to reply back to authentic thoughtful comments.  If someone is in broadcast only mode and never engages back, reevaluate why you are replying to them in the first place. Is their content amazing? Does it make your Farcaster experience better? \n\n\n4. Hack the recency bias in the algorithm. \n\n\nThe algorithm really loves whoever you last interacted with. So if you haven’t seen someone in a while or they haven’t seen you in a while, you’ve got to teach the algorithm what and more importantly WHO you want to see! If you let it decide for you, you won’t see the people you want to see the most. You’ve got to force and train it. \n\n\n5. Turn on “Super Follow” (notifications) for your favorite casters or friends you want to see more\n\n\nSometimes the algorithm doesn’t show you what you want to see and you have to force it. Turn on notifications for a few people for a week and interact with their casts more. This is a good hack to get the algorithm to show them to you more in the future, if it behaves. I’ve had to keep them on for a handful of people who don’t cast often. The algorithm really likes when you cast daily. \n\n6. Change up how, when, and where you cast\n\nVideos don’t do that great here. Neither do photos or mint frames along. While we may want to share our content this way, the algorithm doesn’t love it. This is a text based social network and that has to be respected. Add more text around your content and try more experiments with text based casts. \n\nA great cast may not do well if most people aren’t online. Try casting at different times and experiment. \n\nChannels can be your place to find your tribe. There are thousands. Look for channels with very active hosts. They may have notifications on for their channels and be more excited when you choose to cast there. You can’t get a spam label interacting inside of channels so it’s more welcoming to new folks who are still trying to find their way. \n\n\n\n7. Audit your own profile\n\nYou can use this Dune query to see how you cast. Put in your own FID and run it. Then compare it to some other casters that you admire and you think are doing well.  Comparison is the thief of joy, but benchmarking is the only way to truly figure out how you are doing in Farcasterland. \n\n\nhttps://www.dune.com/jkavithamahesh/farcasterprofile",
+    "embeds": [
+      {
+        "url": "https://recaster.org/tool/follow-checker",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://recaster.org/tool/follow-checker",
+            "ogType": "website",
+            "ogImage": [
+              {
+                "alt": "logo",
+                "url": "https://recaster.org/_static/logo.png",
+                "type": "png",
+                "width": "160",
+                "height": "160"
+              }
+            ],
+            "ogTitle": "Follow Checker | Recaster",
+            "ogSiteName": "Recaster - A Farcaster Client that offers extensive UI controls and configuration.",
+            "ogDescription": "check your followings"
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x1e17bba1e5b5f4802305eb68b3da4c3880cbef89"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1e17bba1e5b5f4802305eb68b3da4c3880cbef89",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1e17bba1e5b5f4802305eb68b3da4c3880cbef89",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "We're simplifying how replies work on Farcaster.\n\nWhen you open a conversation, you’ll see replies from everyone who doesn't have a spam label. This is a big change from today, where we apply a lot more filtering by default. \n\nIf you prefer more filtering, you can go to Settings > Feeds and set \"Reply Filtering\" to aggressive. This will only show from people you follow and algorithmic suggestions from Farcaster.\n\nThis only applies to casts that aren't in channels, since some channels have more rules around who can reply.  \n\nh/t to @akshaan for the ship!",
+          "timestamp": "2025-06-20T21:29:35.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/51838a6b-f261-405e-3dde-0044cd2fb500/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 332844,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 978,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://www.dune.com/jkavithamahesh/farcasterprofile",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.dune.com/jkavithamahesh/farcasterprofile",
+            "favicon": "/assets/glyph-1024w.png",
+            "ogImage": [
+              {
+                "url": "https://core-api.dune.com/public/screenshot?url=https://dune.com/jkavithamahesh/farcasterprofile"
+              }
+            ],
+            "ogTitle": "Farcaster Profile Dashboard",
+            "ogLocale": "en",
+            "ogDescription": "Dune is the all-in-one crypto data platform — query with SQL, stream data via APIs & DataShare, and publish interactive dashboards across 100+ blockchains."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x95dbffdc",
+    "url": "https://farcaster.xyz/christin/0x95dbffdc",
+    "author_username": "christin",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 15850,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bd90b57-732c-445b-4670-00040e540100/original",
+    "cast_date": "2025-06-24T21:20:01.000Z",
+    "text": "OK BANGER MINI WORD 🛎️\n\nhttps://miniword.livediagonal.com/?user_puzzle_id=10",
+    "embeds": [
+      {
+        "url": "https://miniword.livediagonal.com/?user_puzzle_id=10",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "MiniWord - Crossword Puzzle",
+            "ogLocale": "en",
+            "fcFrame": {
+              "button": {
+                "title": "🧩 Solve",
+                "action": {
+                  "name": "MiniWord",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://miniword.livediagonal.com/logo.png",
+                  "splashBackgroundColor": "#fbcb33"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://miniword.livediagonal.com/miniword-cover.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "🧩 Solve",
+            "image": "https://miniword.livediagonal.com/miniword-cover.png",
+            "frames_url": "https://miniword.livediagonal.com/?user_puzzle_id=10",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 971492,
+              "username": "cbeav",
+              "display_name": "Chris Beavers",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/42e98583-af7b-4d17-d9ce-7ba527cbb800/original",
+              "custody_address": "0x911d456fad9a1aecef9e620bf43a800dc8c3b471"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjk3MTQ5MiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDkxMUQ0NTZmQWQ5QTFhRUNFRjlFNjIwQkY0M2E4MDBEQzhjM2I0NzEifQ",
+                "payload": "eyJkb21haW4iOiJtaW5pd29yZC5saXZlZGlhZ29uYWwuY29tIn0",
+                "signature": "MHgzNTc3YmNhOGRhNDFlNjU4NGU0ZjQ4ZGU4MDg2N2E5NzdhOWI4YTVkYzAzYjA2MmRlMjQyY2Q2YTliYzhkZTgwMzAwMmU0ZDcwODc2ZmI3MDg0MGEyMWIwZDRhM2VmMjkzODNmNmE3NDViNTUxODk2MjcyYTJiMWE3MjZkNDhkNzFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "MiniWord",
+                "home_url": "https://miniword.livediagonal.com",
+                "icon_url": "https://miniword.livediagonal.com/logo.png",
+                "image_url": "https://miniword.livediagonal.com/miniword-cover.png",
+                "button_title": "🧩 Solve",
+                "splash_image_url": "https://miniword.livediagonal.com/logo.png",
+                "splash_background_color": "#fbcb33",
+                "webhook_url": "https://miniword.livediagonal.com/api/notifications/tokens",
+                "primary_category": "games",
+                "tags": [
+                  "crosswords",
+                  "puzzles",
+                  "social"
+                ]
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "MiniWord",
+                "home_url": "https://miniword.livediagonal.com",
+                "icon_url": "https://miniword.livediagonal.com/logo.png",
+                "image_url": "https://miniword.livediagonal.com/miniword-cover.png",
+                "button_title": "🧩 Solve",
+                "splash_image_url": "https://miniword.livediagonal.com/logo.png",
+                "splash_background_color": "#fbcb33",
+                "webhook_url": "https://miniword.livediagonal.com/api/notifications/tokens",
+                "primary_category": "games",
+                "tags": [
+                  "crosswords",
+                  "puzzles",
+                  "social"
+                ]
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe6f6e418",
+    "url": "https://farcaster.xyz/dish/0xe6f6e418",
+    "author_username": "dish",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 15549,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/71c3ea17-e0b3-45c0-a9a0-b094df99f100/original",
+    "cast_date": "2025-06-24T16:55:10.000Z",
+    "text": "looks rare",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e41a1a59-2763-43c3-cda7-6bebfca0e100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 423874,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa520e26b",
+    "url": "https://farcaster.xyz/llamafacts.eth/0xa520e26b",
+    "author_username": "llamafacts.eth",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 222896,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f3bc6d1e-cad4-49de-b310-809d9e988a00/original",
+    "cast_date": "2025-06-24T18:34:00.000Z",
+    "text": "Believe whats inside by @pinatacloud at permissionless NYC. Collsge by pintour.xyz",
+    "embeds": [
+      {
+        "url": "https://pamadd.mypinata.cloud/ipfs/bafkreicg34mm372yerqn5hsw4tzo7butsoh7anw5bdgfqgbqlupquagzdm",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 138752,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 154,
+            "height_px": 464
+          }
+        }
+      },
+      {
+        "url": "https://pamadd.mypinata.cloud/ipfs/bafkreierdcnd5snv37temj4uwgr4ryu5ykq67shtpn2bg4xpotio6o3l6e",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 108234,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 154,
+            "height_px": 464
+          }
+        }
+      },
+      {
+        "url": "https://pamadd.mypinata.cloud/ipfs/bafkreidripgsdeuqlbs6qlnjy26fdkpi6s64eweis7mc6pidfdazytqfta",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 115858,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 154,
+            "height_px": 464
+          }
+        }
+      },
+      {
+        "url": "https://pamadd.mypinata.cloud/ipfs/bafkreihogj2ppunczmyuzfi5bx2wjbx65wr75gfrwtl6k3ai7dj6224c2e",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 123470,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 154,
+            "height_px": 464
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc30d2a4a",
+    "url": "https://farcaster.xyz/nicki/0xc30d2a4a",
+    "author_username": "nicki",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 238171,
+    "author_pfp": "https://i.imgur.com/sF1DHpX.jpg",
+    "cast_date": "2025-06-24T17:48:59.000Z",
+    "text": "Uniswap killing it at Permissionless",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ae9bd466-2bca-4080-914a-e2f8f77f3700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 460975,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4a1e7e5b-fab4-43c6-b5fc-13f494b30000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 248486,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xda571ebe",
+    "url": "https://farcaster.xyz/pizzadao/0xda571ebe",
+    "author_username": "pizzadao",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 371368,
+    "author_pfp": "https://i.imgur.com/SzzPOaO.jpg",
+    "cast_date": "2025-06-24T16:34:00.000Z",
+    "text": "NYC, you're not ready for this! 🍕🎊🗽\n\n@rachelonchain.eth will be making her debut as April O'Neil (yes, from TMNT🐢) tomorrow\nduring our Permissionless/NFT NYC side event.\n\nShe will also be repping @onchainmedia and chopping it up with real builders IRL at Station 3, June 25th.\n\nYou can RSVP for the event below! 👇\n\nHope to see you there :)",
+    "embeds": [
+      {
+        "url": "https://supercast.mypinata.cloud/ipfs/QmQBzgbAST8rJcBYhsJffbhU7Qm4ycHMGtBwUVyk4S4GDC?filename=GuHAMQlXIAAqTOQ.jpeg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 1155094,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1350
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfd4105d3",
+    "url": "https://farcaster.xyz/debbie/0xfd4105d3",
+    "author_username": "debbie",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 1628,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/61321600-eb11-4ccb-e5f7-6ed519f6b000/original",
+    "cast_date": "2025-06-23T19:59:24.000Z",
+    "text": "3/ In Conversation with Privy @ Permissionless\nA fireside chat w/ our CEO @henri, moderated by Sequoia Capital partner Josephine Chen\n\n🗓️ Wednesday, June 25\n🕞 3:35–3:55 PM EDT\n\nLearn how Privy is building infra for seamless experiences on crypto rails👇\nhttps://blockworks.co/event/permissionless",
+    "embeds": [
+      {
+        "url": "https://blockworks.co/event/permissionless",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://blockworks.co/event/permissionless",
+            "ogType": "article",
+            "ogImage": [
+              {
+                "alt": "Blockworks",
+                "url": "https://permissionless-iv.vercel.app/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2024/11/PMLSIV_banner_16x9_v02-2-1024x576.png&w=1920&q=75&webp=false"
+              }
+            ],
+            "ogTitle": "Permissionless IV - Blockworks",
+            "ogLocale": "en-US",
+            "ogSiteName": "Blockworks",
+            "ogDescription": "Permissionless IV is the definitive gathering for crypto’s technical pioneers, creators, and builders who drive our industry forward. As the focus shifts from building infrastructure to unleashing the potential of onchain applications, Permissionless IV in New York will serve as the nexus where technical founders, developers, and builders come together to create the future."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xce4e53a4",
+    "url": "https://farcaster.xyz/pichi/0xce4e53a4",
+    "author_username": "pichi",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 234616,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/343ce6bb-b2d3-4f7c-1359-deba9af91000/original",
+    "cast_date": "2025-06-25T03:30:38.000Z",
+    "text": "I hate to be the one to break to to all of you who don’t come to IRL Farcaster events, but someone needs to tell you the truth. \n\n1. On average, Farcasters are really tall.  Like seriously. Something is in the water. \n\n2. Farcasters are really good looking humans. It’s not like a normal crypto conference crowd. \n\n3. They are also really nice. \n\nIt feels unfair to see so many triple threats walking around, but it is what it is.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9b610d82",
+    "url": "https://farcaster.xyz/bertwurst.eth/0x9b610d82",
+    "author_username": "bertwurst.eth",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 864405,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0c58c61-1cdb-4eb3-0fe7-7a8905680300/original",
+    "cast_date": "2025-06-24T17:56:25.000Z",
+    "text": "Heatwave PSA from a Certified Hot Dog\n\nNew York, I hear you’re melting. As someone who lives in Arizona, where it’s legally “surface of the sun” from May to October, I’ve got some survival tips:\n\t•\tHydrate. That means water or electrolytes. Not iced coffee. Not matcha. Not alcohol.\n\t•\tCold showers are a strength, not a weakness. They are your entire personality now.\n\t•\tMonitor the UV index. If it’s high, wear sunscreen.\n\t•\tThe only cure for swamp ass is nudity. Choose wisely. (This is not legal advice.)\n\t•\tConsider shoes outside. Pavement can burn your feet in seconds.\n\t•\tThe city may smell… stronger than usual. Lean in. Enjoy it. For me.\n\nAnd remember: I wear a fur coat 24/7 in the Sonoran Desert.\nYou’ll survive. But you should absolutely stay inside between 11am and 4pm or you will, medically speaking, crisp—while also sweating.\n\nStay cool. Stay hydrated. And if you start panting, find shade immediately. 🌞",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4256,
+          "hash": "0xf081569346444de18f988a6681340e8646c6c59c"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf081569346444de18f988a6681340e8646c6c59c",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4256,
+            "username": "mark",
+            "display_name": "Mark Fishman",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/17b9d734-c963-4562-91c0-5e4fa6e28700/original",
+            "custody_address": "0x9d217353b36d5f8d87983d13f214341de07da930"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf081569346444de18f988a6681340e8646c6c59c",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x8cb43a65b27461b61d6c8989e6f9d88e5426833d",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x8cb43a65b27461b61d6c8989e6f9d88e5426833d",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Happy Monday from Moose!\n\nLots of floor time today with the heat wave outside :/",
+          "timestamp": "2025-06-24T01:35:22.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 4256,
+                "hash": "0x3a0988396611667aa73ace77ed625c6473df9492"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x3a0988396611667aa73ace77ed625c6473df9492",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 4256
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b1e78999-cd02-4f23-6a3e-07c744faf600/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 457857,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "dogs",
+            "name": "Dogs",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafybeidvhfu3thunzfd3wj3ar6e6vlztnoljvqh2yauxwyfbh2vt65nypq"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xefde7677",
+    "url": "https://farcaster.xyz/v/0xefde7677",
+    "author_username": "v",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-06-24T20:55:23.000Z",
+    "text": "This is why we don’t let horsefacts take vacations",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3621,
+          "hash": "0xbaa5ecfdf5b34154770df7cd51e052200fa34000"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbaa5ecfdf5b34154770df7cd51e052200fa34000",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3621,
+            "username": "horsefacts.eth",
+            "display_name": "horsefacts",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+            "custody_address": "0x2cd85a093261f59270804a6ea697cea4cebecafe"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xbaa5ecfdf5b34154770df7cd51e052200fa34000",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xfdd5e7949bd72c95907c46a630d2c791f0e842c6",
+          "root_parent_url": "chain://eip155:1/erc721:0xfdd5e7949bd72c95907c46a630d2c791f0e842c6",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "headed to Z-Mart to pick up hand sanitizer, Narcan, condoms, a smoke detector, a bike helmet, a large bag of compost, and a 10-pack of really shitty Board of Elections pens. anyone need anything?",
+          "timestamp": "2025-06-24T20:29:20.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "new-york",
+            "name": "NYC",
+            "image_url": "https://i.seadn.io/gcs/files/48399e13b30e401d90c3c61a0065e02a.png?auto=format&dpr=1&w=512"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xac442aed",
+    "url": "https://farcaster.xyz/goldytalks/0xac442aed",
+    "author_username": "goldytalks",
+    "show_date": "2025-06-26",
+    "show_title": "GM Farcaster ep261 Wednesday June 25, 2025 presented by Octant",
+    "source_episode_id": "HvL0oJEmsV4",
+    "author_fid": 240586,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/95ef80fc-8a02-4e9e-7b70-766008336400/rectcrop3",
+    "cast_date": "2025-06-25T01:29:31.000Z",
+    "text": "BREAKING: Zohran just beat Cuomo",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0197a4b3-ae76-25d1-207b-3d9c314a7e1c.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1684,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1122,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 748,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 560,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 374,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 35.79
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

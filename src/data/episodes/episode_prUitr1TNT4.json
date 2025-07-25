@@ -1,0 +1,1247 @@
+[
+  {
+    "cast_hash": "0x1a278195",
+    "url": "https://warpcast.com/v/0x1a278195",
+    "author_username": "v",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-07-29T17:23:19.000Z",
+    "text": "Improvements to mobile search on Warpcast \n\n- See recent queries and accounts \n- See users channels and casts in one page \n- Filter to see the most recent casts \n\nThese changes have been live on web for a bit, and now they're in mobile as well. h/t to @akshaan and @blockheim for this improvement!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/262ccebf-1aa1-4c88-a1a5-aa95a096fd00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 892191,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2294,
+            "height_px": 1408
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x26a2d405",
+    "url": "https://warpcast.com/nt/0x26a2d405",
+    "author_username": "nt",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 3237,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/48fcaae2-ad08-4d24-4317-2094d979b800/original",
+    "cast_date": "2024-07-29T17:34:43.000Z",
+    "text": "introducing /amp Hivemind 🐝 🌐\n\nthe AI-powered answer engine on top of the Farcaster graph ⚡️ (think Perplexity/Grok but for Farcaster) \n\nAsk anything and instantly get an answer, with cited casts as sources 🔗 Live now for /amp gold subscribers on @hypersub - mint a subscription to get access! ⚡️\n\nhttps://hypersub.withfabric.xyz/s/amp-gold-pass-1xvtshkwg79j4",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/3492e4d2dc40f6b94e2bcb152ab52ca7.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 932,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 620,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 466,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 310,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 22.2
+          }
+        }
+      },
+      {
+        "url": "https://hypersub.withfabric.xyz/s/amp-gold-pass-1xvtshkwg79j4",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/amp-gold-pass-1xvtshkwg79j4",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/1afa4a5d-1ec3-49e9-85b4-f5b17f39d51c.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to Amp Gold Pass on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "Support [@nt](https://warpcast.com/nt)'s development of [Amp](https://ampcast.xyz)\n\nIncluded:\n* private subscriber group chat\n* prioritised feature reques...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/amp-gold-pass-1xvtshkwg79j4?slug=amp-gold-pass-1xvtshkwg79j4",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/1afa4a5d-1ec3-49e9-85b4-f5b17f39d51c.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/1afa4a5d-1ec3-49e9-85b4-f5b17f39d51c.png",
+            "frames_url": "https://hypersub.withfabric.xyz/s/amp-gold-pass-1xvtshkwg79j4"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2a2510a5",
+    "url": "https://warpcast.com/phil/0x2a2510a5",
+    "author_username": "phil",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2024-07-29T23:37:11.000Z",
+    "text": "Congratulations to @fredt on winning a signed copy of Crypto Confidential in this week's /books giveaway\n\nSee you all tomorrow for the AMA with @nateliason",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 129,
+          "hash": "0x48753fc0f358add11d573249f291f859c34202b9"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x48753fc0f358add11d573249f291f859c34202b9",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 129,
+            "username": "phil",
+            "display_name": "phil",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+            "custody_address": "0xf6fd7deec77d7b1061435585df1d7fdfd4682577"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x48753fc0f358add11d573249f291f859c34202b9",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xc18f6a34019f5ba0fc5bc8cb6fe52e898d6bbbee",
+          "root_parent_url": "chain://eip155:1/erc721:0xc18f6a34019f5ba0fc5bc8cb6fe52e898d6bbbee",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Another week, another /books giveaway 🎁 \n\nEnter below to win a signed copy of Crypto Confidential by @nateliason",
+          "timestamp": "2024-07-24T18:14:43.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/056c23f7-f0c6-4037-a7d7-b55c315fad00/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 652866,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 3200,
+                  "height_px": 1800
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "books",
+            "name": "Books",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/44e5f409-f698-4e97-9283-860ab6597800/rectcrop3"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd2ae490f",
+    "url": "https://warpcast.com/phil/0xd2ae490f",
+    "author_username": "phil",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2024-07-26T14:50:11.000Z",
+    "text": "We'll be hosting an AMA with @nateliason here in /books on Tuesday. \n\nI started following Nat many years ago on X and have been a longtime subscriber to his Substack. Nat's new book, Crypto Confidential, is out now.\n\nRSVP here for a reminder when it starts: https://events.xyz/events/fa68e9",
+    "embeds": [
+      {
+        "url": "https://events.xyz/events/fa68e9",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/api/frames/events/fa68e9/img/no_rsvp"
+              }
+            ],
+            "ogTitle": "AMA with Nat Eliason",
+            "ogLocale": "en",
+            "ogDescription": "FB Events for Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd415e5b6",
+    "url": "https://warpcast.com/linda/0xd415e5b6",
+    "author_username": "linda",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-07-29T13:41:45.000Z",
+    "text": "New Bountycaster feature:\n\nNow when a new job gets posted, you can browse other jobs posted in the same category (e.g. eng, product, etc) through the frame",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bef1a3e2-70c7-424f-7946-84fa97c11400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 166282,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 942,
+            "height_px": 730
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf1858064",
+    "url": "https://warpcast.com/metamask/0xf1858064",
+    "author_username": "metamask",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 222464,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/536899f4-7f5c-44ca-882d-c0c810fe4300/original",
+    "cast_date": "2024-07-30T01:13:54.000Z",
+    "text": "us at the olympics rn\n\n🪑🪑🪑🪑🪑🪑🪑🪑🪑\n🪑🪑🪑🪑🪑🪑🪑🪑🪑\n🪑🪑🪑🪑 🦊 🪑🪑🪑🪑\n🪑🪑🪑🪑🪑🪑🪑🪑🪑",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/58240a83-e261-48b3-9c72-c496a4191d00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 1680854,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1280
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x77c4cb0a",
+    "url": "https://warpcast.com/brianmorris.eth/0x77c4cb0a",
+    "author_username": "brianmorris.eth",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 14464,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6d5638c8-a9b8-4b19-d4c7-193fea127600/rectcrop3",
+    "cast_date": "2024-07-29T20:10:22.000Z",
+    "text": "All eyes on the games 👀👀👀\ndigital illustration, 2024",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/60a3a053-60ee-4d43-1984-94cfe4a1dd00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 387062,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3200,
+            "height_px": 3200
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7a77eeff",
+    "url": "https://warpcast.com/tldr/0x7a77eeff",
+    "author_username": "tldr",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xccd538c1",
+    "url": "https://warpcast.com/ted/0xccd538c1",
+    "author_username": "ted",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-07-29T16:57:21.000Z",
+    "text": "see you tomorrow 6pm in Neuehouse Venice for a screening of Venice to Venice: a @brightmoments documentary (and to celebrate @phil, @seth, @irinaliakh, @henry and the entire team's hard work).\n\nwho else is going?! cc @oxb @lbk @resipsa @nonlinear.eth \n\nRSVP here: https://rsvp.neuehouse.com/venicetovenice",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/75f5c602-2d6e-46b1-c50f-07697a0c8c00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 875951,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 926,
+            "height_px": 1046
+          }
+        }
+      },
+      {
+        "url": "https://rsvp.neuehouse.com/venicetovenice",
+        "metadata": {
+          "content_type": null,
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe8c6978d",
+    "url": "https://warpcast.com/jmann.eth/0xe8c6978d",
+    "author_username": "jmann.eth",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 4959,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cff6628a-c2d5-441c-5064-bf8d7676d000/original",
+    "cast_date": "2024-07-29T17:14:04.000Z",
+    "text": "I've been writing a song a day for 16 years and 211 days.\n\nToday, I’m suing the SEC.\n(Yes, this is real)\n\nYou can bid on the NFT of this song here:\nhttp://songaday.world/5689\n\nThe auction ends on Tuesday, Aug 6th at 4:44 EST (set a reminder!)",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/84593c4a54de8ffa2796b8e0a4b4c9f3.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 480,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 320,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 172.9
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1eeb362f",
+    "url": "https://warpcast.com/cdixon.eth/0x1eeb362f",
+    "author_username": "cdixon.eth",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 25,
+    "author_pfp": "https://i.imgur.com/ju8z8lD.jpg",
+    "cast_date": "2024-07-30T02:34:00.000Z",
+    "text": "Same post on Farcaster and X - roughly 2x the engagement on Farcaster   \n\n🤔",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2ef60bbf-0ca2-4527-7b23-9f9219cf9200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 120454,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1125,
+            "height_px": 1750
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f6eb6c8e-c61d-4c95-044b-e86189b6a200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 62273,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1125,
+            "height_px": 683
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x996358d7",
+    "url": "https://warpcast.com/packy/0x996358d7",
+    "author_username": "packy",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 57,
+    "author_pfp": "https://lh3.googleusercontent.com/b472whaKUZ8X130xlKG3Cnlf9Z41EcM-sp9pricmhlZE3g3x1E2rgl593lPKDitVDkYcVoeQVBs4251jjWauzRMlo2boXE--9eXxCQ",
+    "cast_date": "2024-07-28T12:22:27.000Z",
+    "text": "Deleted X from my phone. Will still use on desktop and sure I’ll redownload at some point, but I just find myself checking it mindlessly and it clutters my brain.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x27e25dd4",
+    "url": "https://warpcast.com/nor/0x27e25dd4",
+    "author_username": "nor",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 2588,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/11f84d28-cb11-4f38-9baa-c01460061500/original",
+    "cast_date": "2024-07-26T17:00:47.000Z",
+    "text": "Lots of negativity, let's be negative about the negativity.\n\nFarcaster is awesome. Where else do you find such a high concentration talented ppl, such high quality open innovation (frames, etc), so much viewpoint diversity that (mostly) coexists harmoniously, so much optimism about the future?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdc71a40b",
+    "url": "https://warpcast.com/giu/0xdc71a40b",
+    "author_username": "giu",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 124,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a480b44-dfd8-4f52-0010-f8141f35af00/original",
+    "cast_date": "2024-07-30T03:12:47.000Z",
+    "text": "Farcaster FTW!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/504db183-7bf8-423b-3a4a-57b85fdc3700/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 195055,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 600,
+            "height_px": 443
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 25,
+          "hash": "0x1eeb362fbceb78470b8c42c7abca97ee360f0f81"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1eeb362fbceb78470b8c42c7abca97ee360f0f81",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 25,
+            "username": "cdixon.eth",
+            "display_name": "Chris Dixon",
+            "pfp_url": "https://i.imgur.com/ju8z8lD.jpg",
+            "custody_address": "0x5c4a89ff60e3600dd59c272a00534505a7549889"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1eeb362fbceb78470b8c42c7abca97ee360f0f81",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Same post on Farcaster and X - roughly 2x the engagement on Farcaster   \n\n🤔",
+          "timestamp": "2024-07-30T02:34:00.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2ef60bbf-0ca2-4527-7b23-9f9219cf9200/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 120454,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1125,
+                  "height_px": 1750
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f6eb6c8e-c61d-4c95-044b-e86189b6a200/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 62273,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1125,
+                  "height_px": 683
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e93881e",
+    "url": "https://warpcast.com/adrienne/0x5e93881e",
+    "author_username": "adrienne",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-07-28T15:52:16.000Z",
+    "text": "Is /gmfarcaster more like:\n\nThe announcements over the intercom at your old high school (keeping students informed)\n\nOR\n\nThe partners at PwC during the morning standup (keeping the office informed)\n\n\nH/T @brianmorris.eth @nounishprof from GM Farcaster Here for the Art July https://frame.weponder.io/api/polls/5459",
+    "embeds": [
+      {
+        "url": "https://frame.weponder.io/api/polls/5459",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 11925,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://frame.weponder.io/api/polls/5459/img/eyJwb2xsRGF0YSI6eyJpZCI6NTQ1OSwidHlwZSI6ImJhc2ljIiwidGV4dCI6Ii9nbWZhcmNhc3RlciBpcyBtb3JlIGxpa2UgIiwiYXV0aG9yIjp7ImlkIjoxNiwidXVpZCI6ImFkMDI4NzgxLTMyNmQtNDE1Ny1hMzFkLTBjOTI2OWExMjZmZSIsImZpZCI6NTgxOCwidXNlcm5hbWUiOiJhZHJpZW5uZSIsImRpc3BsYXlOYW1lIjoiYWRyaWVubmUiLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvMTQ5MDc4MjEtMDZmMS00YjBiLWYyOGUtM2E3MzNhMDU0ZjAwL29yaWdpbmFsIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4YWVhNGEwZGVkYjk0YmE1YjJiOGVkOTQ3N2E4YTU0Mzc5YzU4NDU0MiIsIjB4YjFiMjE4ODRhZmU2NTgxZjNjNDk5N2IwMzIwNDY1ZjE4ZTk2ODJjMCJdLCJzcG9uc29yZWRDb3VudCI6MCwic2NvcmUiOjAuMDAwODUxMTgzMTk4MzkyMzkxMiwic3RhdGlzdGljcyI6eyJhbnN3ZXJzQ291bnQiOjE0LCJ2b3Rlc0NvdW50IjoxMjIsInBvbGxzQ291bnQiOjE3LCJxdWVzdGlvbnNDb3VudCI6NH19LCJvcHRpb25zIjpbIkhpZ2ggc2Nob29sIGludGVyY29tIiwiQ29ycG9yYXRlIHN0YW5kdXAgIiwiT3RoZXIgKGluIHJlcGxpZXMpIl0sInN0YXR1cyI6ImNhbGN1bGF0ZWQiLCJjcmVhdGVkQXQiOiIyMDI0LTA3LTI4VDE1OjUxOjQ1LjgwNjQ4MyswMDowMCIsImV4cGlyZXNBdCI6IjIwMjQtMDctMzBUMTU6NTE6NDUuODA2KzAwOjAwIiwiaXNBbm9ueW1vdXMiOmZhbHNlLCJpc0FyY2hpdmVkIjpmYWxzZSwicmVzdWx0c0RhdGEiOlt7Im9wdGlvbklkIjoxLCJ2b3RlcyI6MjgsInRleHQiOiJIaWdoIHNjaG9vbCBpbnRlcmNvbSIsInBlcmNlbnRPZlRvdGFsIjo2MiwiZmlsdGVycyI6eyJkZWZhdWx0Ijp7InZvdGVzIjoyOCwicGVyY2VudE9mVG90YWwiOjYyfSwicG93ZXJCYWRnZUZpZCI6eyJ2b3RlcyI6MTIsInBlcmNlbnRPZlRvdGFsIjo0OH0sIm9nRmlkIjp7InZvdGVzIjoxMSwicGVyY2VudE9mVG90YWwiOjYxLjExMTExMTExMTExMTF9LCJwb3B1bGFyRmlkIjp7InZvdGVzIjoxNSwicGVyY2VudE9mVG90YWwiOjU1LjU1NTU1NTU1NTU1NTZ9fX0seyJvcHRpb25JZCI6Miwidm90ZXMiOjEwLCJ0ZXh0IjoiQ29ycG9yYXRlIHN0YW5kdXAgIiwicGVyY2VudE9mVG90YWwiOjIyLCJmaWx0ZXJzIjp7ImRlZmF1bHQiOnsidm90ZXMiOjEwLCJwZXJjZW50T2ZUb3RhbCI6MjJ9LCJwb3dlckJhZGdlRmlkIjp7InZvdGVzIjo3LCJwZXJjZW50T2ZUb3RhbCI6Mjh9LCJvZ0ZpZCI6eyJ2b3RlcyI6NiwicGVyY2VudE9mVG90YWwiOjMzLjMzMzMzMzMzMzMzMzN9LCJwb3B1bGFyRmlkIjp7InZvdGVzIjo3LCJwZXJjZW50T2ZUb3RhbCI6MjUuOTI1OTI1OTI1OTI1OX19fSx7Im9wdGlvbklkIjozLCJ2b3RlcyI6NywidGV4dCI6Ik90aGVyIChpbiByZXBsaWVzKSIsInBlcmNlbnRPZlRvdGFsIjoxNiwiZmlsdGVycyI6eyJkZWZhdWx0Ijp7InZvdGVzIjo3LCJwZXJjZW50T2ZUb3RhbCI6MTZ9LCJwb3dlckJhZGdlRmlkIjp7InZvdGVzIjo2LCJwZXJjZW50T2ZUb3RhbCI6MjR9LCJvZ0ZpZCI6eyJ2b3RlcyI6MSwicGVyY2VudE9mVG90YWwiOjUuNTU1NTU1NTU1NTU1NTZ9LCJwb3B1bGFyRmlkIjp7InZvdGVzIjo1LCJwZXJjZW50T2ZUb3RhbCI6MTguNTE4NTE4NTE4NTE4NX19fV0sInRvcFZvdGVycyI6W3siaWQiOjEsInV1aWQiOiI2MWUzMzEzYS04NTFlLTRjZmItYWY4Ni0yM2ZmMjhjY2RlZDgiLCJmaWQiOjQzMjcsInVzZXJuYW1lIjoiY29qby5ldGgiLCJkaXNwbGF5TmFtZSI6IkNvbGluIEpvaG5zb24g8J-SrSIsInBmcCI6Imh0dHBzOi8vaS5pbWd1ci5jb20vNWtXekNhQS5qcGciLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHhlOTQzY2E4ODNlZjMyOTRlMGZjNTVhMWExNDU5MWFiZWFkMWI1OTI3IiwiMHhjYWFhMjZjNTQ5OGRlNjc0NjZlNjgyM2VmNjk3MThmZWIwNGMyOTUyIl0sInNwb25zb3JlZENvdW50Ijo0LCJzY29yZSI6MC4wMDA1NDM1NDczMjg1NjE1NDQ0fSx7ImlkIjoyLCJ1dWlkIjoiMjdhMDkyZjctNjQ5YS00MTRlLWE0YTctNWJiMTY5MTU0OTNjIiwiZmlkIjo5NzYsInVzZXJuYW1lIjoiYmEiLCJkaXNwbGF5TmFtZSI6IkJlbiBBZGFtc2t5IPCfkq0iLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvMWViY2Q0OTgtMDk0MC00Y2U5LTJmZjEtOTI2MGY0ZTAwOTAwL29yaWdpbmFsIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4NjRmZjMzYjY1M2IyNmVkY2I0NjQ0ZTI3ZDM3MjBmM2M2NTNmODM3MSIsIjB4YzY0NjRjZjQ1MTdjODExZjBiOTU2MGFlYzIwZWI3ZDgyOWU2OGU0ZiJdLCJzcG9uc29yZWRDb3VudCI6NCwic2NvcmUiOjAuMDAwMTQ5NDcxNTk3OTc4ODQ1MjR9LHsiaWQiOjUsInV1aWQiOiJhODA4ZDRkNC0xNmFiLTRjOGQtOGQxYy0yZDM1N2Y2MzBkMGUiLCJmaWQiOjY3MzEsInVzZXJuYW1lIjoiY2hpY2FnbyIsImRpc3BsYXlOYW1lIjoiQ2hpY2FnbyDwn46pIiwicGZwIjoiaHR0cHM6Ly9pbWFnZWRlbGl2ZXJ5Lm5ldC9CWGx1UXg0aWdlOUd1VzBJYTU2Qkh3LzQ4ZTcxMzQ3LTY2YzAtNDUxOS1jNzAyLTZmYTI4NzlhYjIwMC9yZWN0Y3JvcDMiLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHg1YzBkOTgyOGNhNjU5NWRiMTAxMmE0MDYzYzdhZThiNmVkZWU3NTM0IiwiMHg2ZDM0OTI3NDQxYzRhMjM4YTg0ZjlmNTRhNDdkNjdjYzNkNTVmNTc1IiwiMHhmYWE4Y2ZjZjdhNzA2YzY0ZTc1MmQ0YjQ4NDI2YzJhMjFmYjM0ZWRhIl0sInNwb25zb3JlZENvdW50IjowLCJzY29yZSI6MC4wMDAxNTY5NDI3MTEzMjgxNTYzfSx7ImlkIjoxNiwidXVpZCI6ImFkMDI4NzgxLTMyNmQtNDE1Ny1hMzFkLTBjOTI2OWExMjZmZSIsImZpZCI6NTgxOCwidXNlcm5hbWUiOiJhZHJpZW5uZSIsImRpc3BsYXlOYW1lIjoiYWRyaWVubmUiLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvMTQ5MDc4MjEtMDZmMS00YjBiLWYyOGUtM2E3MzNhMDU0ZjAwL29yaWdpbmFsIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4YWVhNGEwZGVkYjk0YmE1YjJiOGVkOTQ3N2E4YTU0Mzc5YzU4NDU0MiIsIjB4YjFiMjE4ODRhZmU2NTgxZjNjNDk5N2IwMzIwNDY1ZjE4ZTk2ODJjMCJdLCJzcG9uc29yZWRDb3VudCI6MCwic2NvcmUiOjAuMDAwODUxMTgzMTk4MzkyMzkxMn0seyJpZCI6NTYsInV1aWQiOiI2YWJkZmExMi1lNjA1LTRlMDktOTdlNy0zY2JiZTQ5OTI0NzciLCJmaWQiOjM4NTQsInVzZXJuYW1lIjoiZGFycnlseWVvIiwiZGlzcGxheU5hbWUiOiJEYXJyeWwgWWVvIPCfm6DvuI8iLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvNzk0ODExMTItNDY3Mi00ZWVlLWMyZTYtNzlkZjdhN2IyZDAwL29yaWdpbmFsIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4ZGEyMjkxOWUwMWUyNDliYTRjOTZkYmE0NmJlZTI5ZTQ5ODE4MzVmYyIsIjB4ZjIwNTdlNWRhNjZmYmY3NTc5OGQzMDc2MjBmNDMyNjA1YmE3OGZmYyIsIjB4YzdlZmE3NjZiYTJiNzBhMTU2ZDAwMWU0ZTQzNTEzZGI1YjMwOTZlMiJdLCJzcG9uc29yZWRDb3VudCI6Miwic2NvcmUiOjAuMDAwMjU5MTg0NTk4Njg5ODk4ODV9XSwic3RhdGlzdGljcyI6eyJ2b3Rlc0NvdW50Ijo0NSwidm90ZXJzT2dDb3VudCI6MTgsInZvdGVyc09nUGVyY2VudGFnZSI6NDAsInZvdGVyc1Bvd2VyYmFkZ2VDb3VudCI6MjUsInZvdGVyc1Bvd2VyYmFkZ2VQZXJjZW50YWdlIjo1Niwidm90ZXJzR3RlRm9sbG93ZXJzQ291bnQiOjI3LCJ2b3RlcnNHdGVGb2xsb3dlcnNQZXJjZW50YWdlIjo2MCwicmFuayI6MX0sImJvdW50eSI6bnVsbCwiZ2F0aW5nIjpudWxsfX0"
+              }
+            ],
+            "ogTitle": "/gmfarcaster is more like ",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd504a3e6",
+    "url": "https://warpcast.com/adrienne/0xd504a3e6",
+    "author_username": "adrienne",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-07-28T15:05:53.000Z",
+    "text": "Do you have 2 minutes today to feel inspired? \n\nArtist @brianmorris.eth has a fantastic answer to @nounishprof ‘s first question about his artist origin story \n\nI mean obviously listen to the whole interview too but the first 2 minutes is golden \n\nhttps://open.spotify.com/episode/1g7My8MkAPphQuCzPqrSmv?si=OZrg2mpHT8ixGaZlUxjyoQ\n\nhttps://youtu.be/OGhjPj1LoXA?si=291HoIUwwnPNs9Hp",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a4ccf876-feb4-456c-9b62-60de8443c200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 65128,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 787
+          }
+        }
+      },
+      {
+        "url": "https://open.spotify.com/episode/1g7My8MkAPphQuCzPqrSmv?si=OZrg2mpHT8ixGaZlUxjyoQ",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://open.spotify.com/episode/1g7My8MkAPphQuCzPqrSmv",
+            "oembed": {
+              "html": "<iframe style=\"border-radius: 12px\" width=\"624\" height=\"351\" title=\"Spotify Embed: GM Farcaster | Here for the Art with @brianmorris.eth\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/episode/1g7My8MkAPphQuCzPqrSmv/video?si=OZrg2mpHT8ixGaZlUxjyoQ&utm_source=oembed\"></iframe>",
+              "type": "video",
+              "title": "GM Farcaster | Here for the Art with @brianmorris.eth",
+              "width": 624,
+              "height": 351,
+              "method": "provider-api",
+              "version": "1.0",
+              "iframe_url": "https://open.spotify.com/embed/episode/1g7My8MkAPphQuCzPqrSmv/video?si=OZrg2mpHT8ixGaZlUxjyoQ&utm_source=oembed",
+              "provider_url": "https://spotify.com",
+              "provider_name": "Spotify",
+              "thumbnail_url": "https://image-cdn-fa.spotifycdn.com/image/ab6772ab000015bea577858cb4f232a9a325409a",
+              "thumbnail_width": 640,
+              "thumbnail_height": 360
+            },
+            "ogType": "video.episode",
+            "favicon": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
+            "ogImage": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1d566464c2edac015c16e074",
+                "type": "image/png",
+                "width": "624",
+                "height": "351"
+              }
+            ],
+            "ogTitle": "GM Farcaster | Here for the Art with @brianmorris.eth",
+            "ogVideo": [
+              {
+                "url": "https://smart-preview-clips.spotifycdn.com/previews/c72335f04b5d11efb97481231983aa5d/0/c72335f04b5d11efb97481231983aa5d.mp4",
+                "width": "624",
+                "height": "351"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "Spotify",
+            "ogDescription": "GM Farcaster - 29 minutes of Farcaster news · Episode"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x39a150eb",
+    "url": "https://warpcast.com/adrienne/0x39a150eb",
+    "author_username": "adrienne",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-07-30T00:18:59.000Z",
+    "text": "Guys this is a trap\n\nIf you answer honestly they’re gonna stop throwing us parties \n\nDon’t ruin it for the next generation",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 6806,
+          "hash": "0xa5ed35dc18da0dc642dab3664bf72366036ca7cb"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa5ed35dc18da0dc642dab3664bf72366036ca7cb",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 6806,
+            "username": "dawufi",
+            "display_name": "dawufi",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/406101e5-2c23-4890-e6c9-26fc2dc03600/original",
+            "custody_address": "0xe1b1e3bbf4f29bd7253d6fc1e2ddc9cacb0a546a"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa5ed35dc18da0dc642dab3664bf72366036ca7cb",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/growth",
+          "root_parent_url": "https://warpcast.com/~/channel/growth",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "https://frame.weponder.io/api/polls/5558",
+          "timestamp": "2024-07-29T21:03:33.000Z",
+          "embeds": [
+            {
+              "url": "https://frame.weponder.io/api/polls/5558",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": 11118,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogImage": [
+                    {
+                      "url": "https://frame.weponder.io/api/polls/5558/img/eyJwb2xsRGF0YSI6eyJpZCI6NTU1OCwidHlwZSI6ImJhc2ljIiwiY2hhbm5lbCI6Imdyb3d0aCIsImNhc3RIYXNoIjoiMHhhNWVkMzVkYzE4ZGEwZGM2NDJkYWIzNjY0YmY3MjM2NjAzNmNhN2NiIiwidGV4dCI6IlBhcnQgMTogXG5cbkhhdmUgeW91IGV2ZXIgdXNlZCBhIHByb2R1Y3QgYmVjYXVzZSB0aGV5IHRocmV3IGEgaHVnZSBwYXJ0eT8iLCJhdXRob3IiOnsiaWQiOjE3MSwidXVpZCI6Ijc4YzkzMDI0LWZiNmItNDYxNi1iMWQ2LTAyYjQ5YjQ0YTYxMyIsImZpZCI6NjgwNiwidXNlcm5hbWUiOiJkYXd1ZmkiLCJkaXNwbGF5TmFtZSI6ImRhd3VmaSIsInBmcCI6Imh0dHBzOi8vaW1hZ2VkZWxpdmVyeS5uZXQvQlhsdVF4NGlnZTlHdVcwSWE1NkJIdy80MDYxMDFlNS0yYzIzLTQ4OTAtZTZjOS0yNmZjMmRjMDM2MDAvb3JpZ2luYWwiLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHgwOTY0MjU2Njc0ZTQyZDYxZjBmZjg0MDk3ZTI4ZjY1MzExNzg2Y2NiIiwiMHg0YjZkYjk5YmRkZDk2ZWY2MzIxMDE4MTI0NTZjN2I0MGY2MGI4NjM4Il0sInNwb25zb3JlZENvdW50IjozLCJzY29yZSI6MC4wMDA5MTQ0Njc0OTg2NjAwODc2LCJzdGF0aXN0aWNzIjp7ImFuc3dlcnNDb3VudCI6NDcsInZvdGVzQ291bnQiOjI5MywicG9sbHNDb3VudCI6MzksInF1ZXN0aW9uc0NvdW50IjoxMH19LCJvcHRpb25zIjpbIlkiLCJOIl0sInN0YXR1cyI6ImNhbGN1bGF0ZWQiLCJjcmVhdGVkQXQiOiIyMDI0LTA3LTI5VDIxOjAzOjIzLjgzMDE1OSswMDowMCIsImV4cGlyZXNBdCI6IjIwMjQtMDctMzFUMjE6MDM6MjMuODMrMDA6MDAiLCJpc0Fub255bW91cyI6ZmFsc2UsImlzQXJjaGl2ZWQiOmZhbHNlLCJyZXN1bHRzRGF0YSI6W3sib3B0aW9uSWQiOjEsInZvdGVzIjoyOSwidGV4dCI6IlkiLCJwZXJjZW50T2ZUb3RhbCI6MjgsImZpbHRlcnMiOnsiZGVmYXVsdCI6eyJ2b3RlcyI6MjksInBlcmNlbnRPZlRvdGFsIjoyOH0sInBvd2VyQmFkZ2VGaWQiOnsidm90ZXMiOjE4LCJwZXJjZW50T2ZUb3RhbCI6MjIuNX0sIm9nRmlkIjp7InZvdGVzIjoxNSwicGVyY2VudE9mVG90YWwiOjIwLjU0Nzk0NTIwNTQ3OTV9LCJwb3B1bGFyRmlkIjp7InZvdGVzIjoxNywicGVyY2VudE9mVG90YWwiOjIxLjUxODk4NzM0MTc3MjJ9fX0seyJvcHRpb25JZCI6Miwidm90ZXMiOjc2LCJ0ZXh0IjoiTiIsInBlcmNlbnRPZlRvdGFsIjo3MiwiZmlsdGVycyI6eyJkZWZhdWx0Ijp7InZvdGVzIjo3NiwicGVyY2VudE9mVG90YWwiOjcyfSwicG93ZXJCYWRnZUZpZCI6eyJ2b3RlcyI6NjIsInBlcmNlbnRPZlRvdGFsIjo3Ny41fSwib2dGaWQiOnsidm90ZXMiOjU4LCJwZXJjZW50T2ZUb3RhbCI6NzkuNDUyMDU0Nzk0NTIwNX0sInBvcHVsYXJGaWQiOnsidm90ZXMiOjYyLCJwZXJjZW50T2ZUb3RhbCI6NzguNDgxMDEyNjU4MjI3OH19fV0sInRvcFZvdGVycyI6W3siaWQiOjEsInV1aWQiOiI2MWUzMzEzYS04NTFlLTRjZmItYWY4Ni0yM2ZmMjhjY2RlZDgiLCJmaWQiOjQzMjcsInVzZXJuYW1lIjoiY29qby5ldGgiLCJkaXNwbGF5TmFtZSI6IkNvbGluIEpvaG5zb24g8J-SrSIsInBmcCI6Imh0dHBzOi8vaS5pbWd1ci5jb20vNWtXekNhQS5qcGciLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHhlOTQzY2E4ODNlZjMyOTRlMGZjNTVhMWExNDU5MWFiZWFkMWI1OTI3IiwiMHhjYWFhMjZjNTQ5OGRlNjc0NjZlNjgyM2VmNjk3MThmZWIwNGMyOTUyIl0sInNwb25zb3JlZENvdW50Ijo0LCJzY29yZSI6MC4wMDA1NDMzMjcyNDUzOTU2MzA2fSx7ImlkIjoyLCJ1dWlkIjoiMjdhMDkyZjctNjQ5YS00MTRlLWE0YTctNWJiMTY5MTU0OTNjIiwiZmlkIjo5NzYsInVzZXJuYW1lIjoiYmEiLCJkaXNwbGF5TmFtZSI6IkJlbiBBZGFtc2t5IPCfkq0iLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvMWViY2Q0OTgtMDk0MC00Y2U5LTJmZjEtOTI2MGY0ZTAwOTAwL29yaWdpbmFsIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4NjRmZjMzYjY1M2IyNmVkY2I0NjQ0ZTI3ZDM3MjBmM2M2NTNmODM3MSIsIjB4YzY0NjRjZjQ1MTdjODExZjBiOTU2MGFlYzIwZWI3ZDgyOWU2OGU0ZiJdLCJzcG9uc29yZWRDb3VudCI6NCwic2NvcmUiOjAuMDAwMTQ5Mzc4NjY5NDQ4MTk2OX0seyJpZCI6NSwidXVpZCI6ImE4MDhkNGQ0LTE2YWItNGM4ZC04ZDFjLTJkMzU3ZjYzMGQwZSIsImZpZCI6NjczMSwidXNlcm5hbWUiOiJjaGljYWdvIiwiZGlzcGxheU5hbWUiOiJDaGljYWdvIPCfjqkiLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvNDhlNzEzNDctNjZjMC00NTE5LWM3MDItNmZhMjg3OWFiMjAwL3JlY3Rjcm9wMyIsImNvbm5lY3RlZEFkZHJlc3NlcyI6WyIweDVjMGQ5ODI4Y2E2NTk1ZGIxMDEyYTQwNjNjN2FlOGI2ZWRlZTc1MzQiLCIweDZkMzQ5Mjc0NDFjNGEyMzhhODRmOWY1NGE0N2Q2N2NjM2Q1NWY1NzUiLCIweGZhYThjZmNmN2E3MDZjNjRlNzUyZDRiNDg0MjZjMmEyMWZiMzRlZGEiXSwic3BvbnNvcmVkQ291bnQiOjAsInNjb3JlIjowLjAwMDE1NjgwODQ0MDgwNjM0NDE1fSx7ImlkIjoxNiwidXVpZCI6ImFkMDI4NzgxLTMyNmQtNDE1Ny1hMzFkLTBjOTI2OWExMjZmZSIsImZpZCI6NTgxOCwidXNlcm5hbWUiOiJhZHJpZW5uZSIsImRpc3BsYXlOYW1lIjoiYWRyaWVubmUiLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvMTQ5MDc4MjEtMDZmMS00YjBiLWYyOGUtM2E3MzNhMDU0ZjAwL29yaWdpbmFsIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4YWVhNGEwZGVkYjk0YmE1YjJiOGVkOTQ3N2E4YTU0Mzc5YzU4NDU0MiIsIjB4YjFiMjE4ODRhZmU2NTgxZjNjNDk5N2IwMzIwNDY1ZjE4ZTk2ODJjMCJdLCJzcG9uc29yZWRDb3VudCI6MCwic2NvcmUiOjAuMDAwODUxMjQzOTY3MTkwMzg0OX0seyJpZCI6NDksInV1aWQiOiIyMWM2MzQwMS1jMTFiLTQ4ZTItOWRhNS04ZTllMzBjOWEwNjEiLCJmaWQiOjU2MjAsInVzZXJuYW1lIjoiZnVuIiwiZGlzcGxheU5hbWUiOiJ3ZWx0ZXIiLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvZDc5M2MwNzctZjhmYy00YmQ2LTNjNGMtZDViMDM2MDNhNDAwL29yaWdpbmFsIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4MDJhYzMzODM1MDcwZDBjOTBiZWY4N2MyNzM1MTRlNjdhZWEzNmVmOCIsIjB4Y2I3NmJjMThjYTFmNDEyYTM1ZjFmY2Q1ZTk1ZjZhMzFkZTBjYTI1ZSJdLCJzcG9uc29yZWRDb3VudCI6MCwic2NvcmUiOjAuMDAwNjY0MzU1MzQ5NzI2OTc1fV0sInN0YXRpc3RpY3MiOnsidm90ZXNDb3VudCI6MTA1LCJ2b3RlcnNPZ0NvdW50Ijo3Mywidm90ZXJzT2dQZXJjZW50YWdlIjo3MCwidm90ZXJzUG93ZXJiYWRnZUNvdW50Ijo4MCwidm90ZXJzUG93ZXJiYWRnZVBlcmNlbnRhZ2UiOjc2LCJ2b3RlcnNHdGVGb2xsb3dlcnNDb3VudCI6NzksInZvdGVyc0d0ZUZvbGxvd2Vyc1BlcmNlbnRhZ2UiOjc1LCJyYW5rIjoxfSwiYm91bnR5IjpudWxsLCJnYXRpbmciOm51bGx9fQ"
+                    }
+                  ],
+                  "ogTitle": "Part 1: \n\nHave you ever used a product because they threw a huge party?",
+                  "ogLocale": "en"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "growth",
+            "name": "growth",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dae5d005-eaa7-492a-6b7e-5c5412c50700/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbab604e0",
+    "url": "https://warpcast.com/linda/0xbab604e0",
+    "author_username": "linda",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-07-30T02:19:04.000Z",
+    "text": "We have a new @ethereumfilm short film \"Community.eth: An Ethereum Story\" that will be released for free tomorrow. Cover art for it made by @stipinpixel ❤️\n\nhttps://zora.co/collect/base:0x8bbce470617ba666c8f1fae0094c837268716398/1",
+    "embeds": [
+      {
+        "url": "https://zora.co/collect/base:0x8bbce470617ba666c8f1fae0094c837268716398/1?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe48a57d2",
+    "url": "https://warpcast.com/base/0xe48a57d2",
+    "author_username": "base",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 12142,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce5460f6-40a2-4486-47c1-7801e4033e00/original",
+    "cast_date": "2024-07-29T21:02:21.000Z",
+    "text": "BaseCamp guests, check your wallet\n\nProof of attendance just dropped, onchain\n\nWe'll see you in Idyllwild later this week\n\nhttps://wallet.coinbase.com/nft/mint/eip155:8453:erc1155:0x05dF46564c489a92492400298C88f032c8c21E96:0",
+    "embeds": [
+      {
+        "url": "https://wallet.coinbase.com/nft/mint/eip155:8453:erc1155:0x05dF46564c489a92492400298C88f032c8c21E96:0",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://res.cloudinary.com/coin-nft/image/upload/q_99,w_1000,fl_sanitize/f_jpg/v1/cache/8543%2Fa3%2F9f%2Fa39fd4e51c6ea90479651bc06af4f8adaabff245b1884e07c78bf098c8fccfd3-ZTMxOWE2N2YtZDI2Zi00ZjQ5LTg3M2YtNDU2ZGJiNzMzNWIy",
+                "type": "image/png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "BaseCamp 001",
+            "ogLocale": "en",
+            "ogSiteName": "Coinbase Wallet",
+            "ogDescription": "Last August, Base made its mainnet debut from a remote Starlink setup in the mountains of Idyllwild, California. Now, one year later, we’re going back to the same space, and you’re invited. This is onchain proof of attendance to the very first Basecamp, celebrating the projects and people at the forefront of building onchain."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xad80aa26",
+    "url": "https://warpcast.com/borrowlucid.eth/0xad80aa26",
+    "author_username": "borrowlucid.eth",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 19858,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8f1427ef-d611-4317-55d1-6fd14eeed000/original",
+    "cast_date": "2024-07-28T21:51:15.000Z",
+    "text": "For those of us who want more time together on Wednesday, after the Touch Grass Mixer, Basecampers Late Night is super chill, with billiards and a patio at a local cantina.\n\nThank you to @builder-dao and @tkn for drinks, and quarters for the pool tables. \n\nhttps://app.unlock-protocol.com/event/basecampers-late-night",
+    "embeds": [
+      {
+        "url": "https://app.unlock-protocol.com/event/basecampers-late-night",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://storage.unlock-protocol.com/79f1e82a-9331-4843-a306-074188df103a"
+              }
+            ],
+            "ogTitle": "Basecampers Late Night",
+            "ogLocale": "en",
+            "ogDescription": "**Prolong Basecamp Day 1 with drinks, billiards and a patio, under star-filled sky.** \n\nContinue the day’s conversations, with new and old friends, in the charming small town cantina.\n\n**Thank you [Builder DAO](https://nouns.build/dao/base/0xe8af882f2f5c79580230710ac0e2344070099432/498) and [TKN](https://tkn.eth.limo/) for the first couple rounds!**\n\n[Post event Networking via Icebreaker](https://app.icebreaker.xyz/unlock/event/basecampers-late-night) \n\n*with love from Chones*"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb4ac9038",
+    "url": "https://warpcast.com/eddie/0xb4ac9038",
+    "author_username": "eddie",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 8439,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5d7f1b98-5593-4304-cf1a-09789919cd00/original",
+    "cast_date": "2024-07-30T01:52:22.000Z",
+    "text": "Those who fully understand moxie",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cdf27b47-8f8d-46a3-f887-2c9bded5c400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 65900,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1200,
+            "height_px": 675
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8ff15199",
+    "url": "https://warpcast.com/trebor69/0x8ff15199",
+    "author_username": "trebor69",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 307834,
+    "author_pfp": "https://i.imgur.com/Hblvxb0.gif",
+    "cast_date": "2024-07-29T17:22:53.000Z",
+    "text": "Ⓜ️y feed right now",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/51cd6a37-0019-485d-9cbc-a6f7f820dc00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 43849,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 800,
+            "height_px": 480
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7f8c368f",
+    "url": "https://warpcast.com/proxystudio.eth/0x7f8c368f",
+    "author_username": "proxystudio.eth",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 270504,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+    "cast_date": "2024-07-29T18:46:35.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cebe4dcd-ecdb-42b7-b7d2-b3f0fefbe200/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 1266038,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1224,
+            "height_px": 804
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 2802,
+          "hash": "0xffadc83fa0879108041e13d5b14dd849e38a59e8"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xffadc83fa0879108041e13d5b14dd849e38a59e8",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2802,
+            "username": "garrett",
+            "display_name": "Garrett",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c131c034-0090-4610-45a4-acda4b805000/rectcrop3",
+            "custody_address": "0xb3b4c5d8a76b33d5db8f94b44444563b9038a7a3"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xffadc83fa0879108041e13d5b14dd849e38a59e8",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+          "root_parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Trying to figure out how Moxie works",
+          "timestamp": "2024-07-29T18:35:16.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af69b98e-d7cd-4b95-d430-3929e0624f00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 336006,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2557,
+                  "height_px": 1801
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "memes",
+            "name": "Memes",
+            "image_url": "https://i.seadn.io/gcs/files/1f4acfc1e6831eb38e9453ce34ac79f8.png?auto=format&dpr=1&w=512"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x739e818e",
+    "url": "https://warpcast.com/wake.eth/0x739e818e",
+    "author_username": "wake.eth",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 2904,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/abe9a136-0384-4ad3-62a2-97d1fb11e900/original",
+    "cast_date": "2024-07-29T18:14:54.000Z",
+    "text": "Moxie Airdrop & Vesting Basics:\n\n>your airdrop is available a little each day, spread out over 180 days (vesting schedule)\n>not all of it is available at once and none of it is in your wallet until you actually claim and transfer\n>but you can use that locked $MOXIE to bid on Fan Tokens\n>if you fuck up your bid, you can cancel anytime before the auction ends and get your $MOXIE back\n>unlocked/ unvested $MOXIE and any rewards you've earned can be claimed daily using the claim frame (it doesn't transfer automagically)\n>Everyday Rewards earned are usable immediately (ie, not vested)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 602,
+          "hash": "0x1c2fc570b92d267e75aa93abb87be2f9b7bebc02"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1c2fc570b92d267e75aa93abb87be2f9b7bebc02",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 602,
+            "username": "betashop.eth",
+            "display_name": "Jason Goldberg",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5e14f7a-a60d-4aeb-3496-55305ecdd500/original",
+            "custody_address": "0x66bd69c7064d35d146ca78e6b186e57679fba249"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1c2fc570b92d267e75aa93abb87be2f9b7bebc02",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/airstack",
+          "root_parent_url": "https://warpcast.com/~/channel/airstack",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "some Moxie Claims basics:\n\n1. Airdrop gets vested to you 1/180th per day. You need to claim it in frame each day in order to get it into your wallet.\n\n2. While your Airdrop is vesting, you can opt-in to use the entire amount to buy Fan Tokens\n\n3. Rewards for holding Fan Tokens are Everyday Rewards earned by casting great content on Farcaster you can view the daily leaderboard here https://airstack.xyz/leaderboard \n\n4. Once a daily rewards is earned, you can claim it in frame 24 hours after the end of the day it was earned. So if you earned it today, you can claim it on the beginning of Wednesday at 00:00 UTC. There is no vesting on Everyday Rewards \n\n5. You can always access your rewards from the MOXIT Cast Action which will call up the frame \nhttps://warpcast.com/~/add-cast-action?url=https%3A%2F%2Fmoxie-frames.airstack.xyz%2Fmca%2Faction",
+          "timestamp": "2024-07-29T16:58:53.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "airstack",
+            "name": "Moxie Official",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2c2fd4f3-c6ab-4298-bd58-df843114cd00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc1d5f497",
+    "url": "https://warpcast.com/proxystudio.eth/0xc1d5f497",
+    "author_username": "proxystudio.eth",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 270504,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+    "cast_date": "2024-07-29T21:55:57.000Z",
+    "text": "the best flow for bidding on Fan Tokens is \n\n1. sign in to airstack.xyz and connect your farcaster account \n2. find the active auctions you want to bid on and click \"bid\"\n3. you'll get a Direct Cast with a frame, open the frame and go through the bidding process\n4. you'll get DCs if you're outbid",
+    "embeds": [
+      {
+        "url": "http://airstack.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://airstack.xyz",
+            "ogType": "website",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://airstack.xyz/images/open-graph/explorer.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Airstack Explorer",
+            "ogLocale": "en",
+            "ogDescription": "Airstack - the easiest way to build on Farcaster. Frames SDK. Frames API. No-code Frames. Onchain Composability APIs for Ethereum, Base, Optimism, ENS, Farcaster, Lens and more."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbb1366e3",
+    "url": "https://warpcast.com/adrienne/0xbb1366e3",
+    "author_username": "adrienne",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-07-01T00:19:52.000Z",
+    "text": "5 months ago, we had recorded fewer than 40 episodes, had 37 subscribers, less than 800 listens across podcast platforms, and less than 300 mints.    \n\nAs of today, we've live streamed 124 episodes (plus a bunch of bonus ones not counted), have over 300 subscribers, 11k listens across podcast platforms, and over 5k mints. \n\nHuge thanks to all the listeners, chatters, friends, hypersub subscribers, sponsors and people who make Farcaster newsworthy enough so that we can do what we love. We 💜 you.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/574c4db3-e4e9-493b-2bd2-24afe727cb00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 715843,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 986
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0x766f7361adde9ae7204516045f51ff6418c6443b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x766f7361adde9ae7204516045f51ff6418c6443b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x766f7361adde9ae7204516045f51ff6418c6443b",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Numbers go up 📈\n\n- 49 live streams \n- 293 episodes minted on @zora \n- 78 unique minters (we ❤️ you)\n- 37 podcast subscribers \n- 796 podcast plays \n- 4 guest interviews \n- 8 sponsors \n\n🙏🙏🙏",
+          "timestamp": "2024-01-20T01:15:42.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 5818,
+                "hash": "0x6795f50732cb2e61a1dc824615b4b519a7c19ce0"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x6795f50732cb2e61a1dc824615b4b519a7c19ce0",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 5818
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7b59262c",
+    "url": "https://warpcast.com/gigamesh/0x7b59262c",
+    "author_username": "gigamesh",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 4378,
+    "author_pfp": "https://i.imgur.com/3hrPNK8.jpg",
+    "cast_date": "2024-07-29T18:35:21.000Z",
+    "text": "how every crypto project sounds to people outside of crypto",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/55c7e00e04ec1639bb84f8c27dd297b2.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 606,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 404,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 270,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 202,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 134,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 73.89
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3fff9e57",
+    "url": "https://warpcast.com/cyrus/0x3fff9e57",
+    "author_username": "cyrus",
+    "show_date": "2024-07-30",
+    "show_title": "Gm Farcaster Ep136 Tuesday, July 30, 2024",
+    "source_episode_id": "prUitr1TNT4",
+    "author_fid": 3046,
+    "author_pfp": "https://i.imgur.com/4Ubynzy.gif",
+    "cast_date": "2024-07-29T18:29:54.000Z",
+    "text": "introducing plant-based: an experiment in onchain (re)generative art+tech\n\na first of its kind art series that evolves, grows and stores carbon\n\nthe 1st generation will grow August 2nd on @baseapp.base.eth, @base.base.eth and @fxhash \n\n🌼 website: plantbased.art\n🔵 mint the trailer [sound on 🔉] \nhttps://zora.co/collect/base:0xc5aee9d9f161aeaddd0c5ebccdcc1608503c0d97/7",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/6df73954125d4dd4e3e6bfa9868f6d50.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 48.7
+          }
+        }
+      },
+      {
+        "url": "https://zora.co/collect/base:0xc5aee9d9f161aeaddd0c5ebccdcc1608503c0d97/7?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

@@ -1,0 +1,1569 @@
+[
+  {
+    "cast_hash": "0x2cb422b2",
+    "url": "https://farcaster.xyz/matthewfox/0x2cb422b2",
+    "author_username": "matthewfox",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 4282,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af861e5b-616c-48e8-6531-3547e7686e00/original",
+    "cast_date": "2025-06-04T16:34:19.000Z",
+    "text": "Thanks to everyone who played today! \n\nWe had a couple of issues, if you met one - please DM me!\n\nNext game same time next week & the prize is 100 $USDC ($100). \n\nHosted by @nounishprof and sponsored by @reserve",
+    "embeds": [
+      {
+        "url": "https://ayolive.xyz/frames/shareGame?inviteePID=4282&inviteePlatform=warpcast&gameId=3&userPfp=https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52233f0e-19bf-4a35-6e29-686520c43000/rectcrop3",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "Share Game",
+            "ogLocale": "en",
+            "ogDescription": "Share Game",
+            "fcFrame": {
+              "button": {
+                "title": "Play now",
+                "action": {
+                  "url": "https://ayolive.xyz?inviteePID=4282&inviteePlatform=warpcast",
+                  "name": "Trivia",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://ayolive.xyz/favicon.png",
+                  "splashBackgroundColor": "#19111E"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://ayolive.xyz/api/frame/services/shareGame?gameId=3&userPfp=https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52233f0e-19bf-4a35-6e29-686520c43000/rectcrop3&t=1749934562903"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Play now",
+            "image": "https://ayolive.xyz/api/frame/services/shareGame?gameId=3&userPfp=https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52233f0e-19bf-4a35-6e29-686520c43000/rectcrop3&t=1749934562903",
+            "frames_url": "https://ayolive.xyz/frames/shareGame?inviteePID=4282&inviteePlatform=warpcast&gameId=3&userPfp=https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52233f0e-19bf-4a35-6e29-686520c43000/rectcrop3",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 4282,
+              "username": "matthewfox",
+              "display_name": "Matthew Fox 🌐",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af861e5b-616c-48e8-6531-3547e7686e00/original",
+              "custody_address": "0x76136ab779cff2ec24161d83aef5ee7ece414b05"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjQyODIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg3NjEzNmFiNzc5Y2ZGMmVjMjQxNjFEODNBZUY1RWU3RUNlNDE0QjA1In0",
+                "payload": "eyJkb21haW4iOiJheW9saXZlLnh5eiJ9",
+                "signature": "MHg0ODU1Y2NmNDI1MzZiNDQ2MzBhNGFkMDI2M2E2YzNkMzNmYmY0MmQ4Yzk0MzAyZmI3YjczNTRjYTJlYTMyZjA4MWQ0NmEwMzVkNTM5Nzc3MmQ3ZmJmYjZjZDVlOGJmNWVkNDM0ZjAzMjNmMzMzMzNjOGY1OTcxNjNmN2UxNmIyZjFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Trivia",
+                "home_url": "https://ayolive.xyz",
+                "icon_url": "https://ayolive.xyz/favicon.png",
+                "image_url": "https://ayolive.xyz/generalv2.png",
+                "button_title": "Play Now",
+                "splash_image_url": "https://ayolive.xyz/splashv2.png",
+                "splash_background_color": "#eeccff",
+                "webhook_url": "https://ayolive.xyz/api/webhook",
+                "subtitle": "Live Trivia Game Show",
+                "description": "Live Trivia Game Show",
+                "screenshot_urls": [
+                  "https://ayolive.xyz/frame.png"
+                ],
+                "primary_category": "social",
+                "tags": [
+                  "trivia",
+                  "game",
+                  "live",
+                  "fun",
+                  "entertainment"
+                ],
+                "hero_image_url": "https://ayolive.xyz/heroImage.png",
+                "tagline": "Live Trivia Game Show",
+                "og_title": "Trivia",
+                "og_description": "Live Trivia Game Show",
+                "og_image_url": "https://ayolive.xyz/generalv2.png"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Trivia",
+                "home_url": "https://ayolive.xyz",
+                "icon_url": "https://ayolive.xyz/favicon.png",
+                "image_url": "https://ayolive.xyz/generalv2.png",
+                "button_title": "Play Now",
+                "splash_image_url": "https://ayolive.xyz/splashv2.png",
+                "splash_background_color": "#eeccff",
+                "webhook_url": "https://ayolive.xyz/api/webhook",
+                "subtitle": "Live Trivia Game Show",
+                "description": "Live Trivia Game Show",
+                "screenshot_urls": [
+                  "https://ayolive.xyz/frame.png"
+                ],
+                "primary_category": "social",
+                "tags": [
+                  "trivia",
+                  "game",
+                  "live",
+                  "fun",
+                  "entertainment"
+                ],
+                "hero_image_url": "https://ayolive.xyz/heroImage.png",
+                "tagline": "Live Trivia Game Show",
+                "og_title": "Trivia",
+                "og_description": "Live Trivia Game Show",
+                "og_image_url": "https://ayolive.xyz/generalv2.png"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x15fcfefe",
+    "url": "https://farcaster.xyz/keccers.eth/0x15fcfefe",
+    "author_username": "keccers.eth",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 4407,
+    "author_pfp": "https://i.imgur.com/kynnpYw.jpg",
+    "cast_date": "2025-06-07T22:14:41.000Z",
+    "text": "Melting glacier, screaming terns",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/de0ffd9b-f655-4c52-e60b-de643445fa00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 552417,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01974c75-7366-6685-95bf-72a93200c366.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 8.19
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x96281bab",
+    "url": "https://farcaster.xyz/bradq/0x96281bab",
+    "author_username": "bradq",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-06-09T12:52:49.000Z",
+    "text": "29 Seconds of Farcaster ... What did you miss this weekend?\n\n* Channel Day celebration showed that channels have helped many people make connections & friends, s/o @humpty.eth for organizing & pichi for carrying it on all week 😂 \n\n* @afrochicks created a 'banger creators' starter pack of 21 video creators\n\n* @dwr.eth announced that FC Pro NFTs are dropping today. Pro Features: 10K character casts, 4 embeds (not just images), & profile banners coming this week; monthly pay option coming soon\n\n* @jc4p dropped an NFT Marketplace mini app called 'Mint Exchange'\n\n* tucked in a reply, @j4ck.eth reminded us that swagcaster.xyz exists with some good-looking FC merch\n\n* @linda & @horsefacts.eth hosted another This Week In Mini Apps | https://farcaster.xyz/linda/0x87308567\n\n* @jeff-xyz released a new /startupradar with guest @tldr | https://farcaster.xyz/jeff-xyz/0x631590c4\n\n* GM Farcaster is west coast friendly 11:30 AM EST join @adrienne & @nounishprof to start your week purple 💜",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x9eead329143d918bca4e6dcd0879b3dfad349c85"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x9eead329143d918bca4e6dcd0879b3dfad349c85",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9eead329143d918bca4e6dcd0879b3dfad349c85",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster back tomorrow at 11:30 am ET for a west coast friendly start to the week. Join @adrienne and I on YouTube for the most active chat, Twitter or watch in the GM Farcaster app. Links to all episodes this week in the replies. \n\nBe sure to add the GM Farcaster app for notifications when we are live! See you in the GM!\n\nhttps://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+          "timestamp": "2025-06-09T00:19:10.000Z",
+          "embeds": [
+            {
+              "url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://farcaster.xyz/miniapps/0196efb5-5ae3-676b-f83f-869e756c74d0/gm-farcaster",
+                  "ogType": "website",
+                  "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fminiapp.gmfarcaster.com%2Flogo.png&s=9e7f26424405d9b5c54c06233c2a5916f158e16b3037ec32ab93873d7875597d",
+                  "ogImage": [
+                    {
+                      "url": "https://miniapp.gmfarcaster.com/api/share-image?videoId=thsYOpMZbC0",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster",
+                  "ogLocale": "en",
+                  "ogSiteName": "Farcaster Mini App",
+                  "ogDescription": "Get your daily dose of Farcaster news and culture.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch GM Farcaster",
+                      "action": {
+                        "url": "https://miniapp.gmfarcaster.com",
+                        "name": "GM Farcaster",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://miniapp.gmfarcaster.com/logo.png",
+                        "splashBackgroundColor": "#AF48CF"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://miniapp.gmfarcaster.com/api/share-image?videoId=thsYOpMZbC0"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch GM Farcaster",
+                  "image": "https://miniapp.gmfarcaster.com/api/share-image?videoId=thsYOpMZbC0",
+                  "frames_url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      },
+      {
+        "url": "https://swagcaster.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://swagcaster.xyz/",
+            "ogType": "website",
+            "favicon": "//swagcaster.xyz/cdn/shop/files/swagcaster_logo.jpg?crop=center&height=32&v=1711312882&width=32",
+            "ogImage": [
+              {
+                "url": "https://swagcaster.xyz/cdn/shop/files/swagcaster_preview_44d3398c-231b-4110-b669-97fc9fa98188.jpg?v=1711310399",
+                "type": "jpg",
+                "width": "1216",
+                "height": "684"
+              }
+            ],
+            "ogTitle": "Swagcaster",
+            "ogLocale": "en",
+            "ogSiteName": "Swagcaster",
+            "ogDescription": "Sufficiently Decentralized Swag since January 2023"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x39348f7a",
+    "url": "https://farcaster.xyz/dwr.eth/0x39348f7a",
+    "author_username": "dwr.eth",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-06-06T21:35:37.000Z",
+    "text": "Farcaster Pro update\n\nA) The limited edition NFT will be airdropped early next week to the first 10,000 pro subscribers. It will appear in your in-app Farcaster wallet. You will be able to send it to another wallet.\n\nB) We have 3 Pro subscriber benefits that will likely ship the week of June 16th:\n\n1. 10K character casts\n\n2. 4 embeds — originally it was going to be 4 images but we've expanded it to 4 embeds including images, videos, URLs, CAs and mini apps.\n\n3. A new, previously announced feature: profile banner images\n\nC) We'll have FIPs up later today for the proposed protocol implementations.\n\nD) We're finalizing the Pro subscription contract on Base. It will accept USDC and allow for monthly or yearly subscriptions permissionlessly at the protocol, i.e. any app can allow Pro subscriptions.\n\nThere will be some clean up work to do in the Farcaster app to reflect monthly subscriptions. We don't have immediately plans to offer UX for monthly in-app but people will be able to build mini apps that do this.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x41b5520d",
+    "url": "https://farcaster.xyz/pirosb3/0x41b5520d",
+    "author_username": "pirosb3",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 12152,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7229dfa5-4873-42d0-9dd0-69f4f3fc4d00/original",
+    "cast_date": "2025-06-06T21:27:03.000Z",
+    "text": "⭐️ New Release: Share Extensions for Mini-Apps\n\nTurn every Farcaster cast into an entry point for your product.\n\n```\n\"castShareUrl\": \"yourapp.share/cast\"\n```\nOne new line in your Mini App manifest gives you the full cast object (author, embeds, mentions) on launch. Build rich “Send to Your App” flows in minutes that can 100× your funnel",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/01a31328-5e35-4529-d736-5a7b0489ef00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 167108,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1216,
+            "height_px": 691
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbc0bfe1f",
+    "url": "https://farcaster.xyz/linda/0xbc0bfe1f",
+    "author_username": "linda",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-06-06T22:44:05.000Z",
+    "text": "A couple updates to Farcaster token drops\n\n1) any future announcements will be done on the @farcaster account so make sure to follow it!\n\n2) likely won't call it airdrops in long run so the name closer reflects the actual setup but we haven't decided yet. I'm personally using the term \"token drops\" in the meantime",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4f8d00cc",
+    "url": "https://farcaster.xyz/v/0x4f8d00cc",
+    "author_username": "v",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-06-07T02:48:29.000Z",
+    "text": "A quick overview of how @akshaan built Trending Topics on Farcaster. \n\n1. Casts are selected and preprocessed daily. \n2. Model categorizes thousands of casts with a prompt. \n3. Topics are post-processed, merged and winners are picked\n\nIt costs about $1/day and runs in < 1 hour.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f17e63af-674b-4fe4-8450-36a84ea10e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 237019,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1206,
+            "height_px": 959
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe57df9cd",
+    "url": "https://farcaster.xyz/humpty.eth/0xe57df9cd",
+    "author_username": "humpty.eth",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 2480,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70bfa280-906f-481c-1abe-afd9f72d7b00/original",
+    "cast_date": "2025-06-07T17:29:18.000Z",
+    "text": "Happy Official Channels Day 🥳\n\nI launched the /cryptosapiens channel the day they were publicly announced as a destination for creators on Farcaster to share WIPs, tips and strategies and help each other level up onchain\n\nThanks to /curaverse I’ve been able to issue a channel token and reward active casters weekly\n\nThanks to the top 10 lifetime casters in our channel: @zachlipp @alleytac @asha @discodancin @bizarrebeast @dollykabaria @lenonmc21 @pichi @afrochicks @torii-stories \n\nYour energy and creativity in our channel continues to inspire my own creator journey 🥂",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2480,
+          "hash": "0x36ef858c198182778dcc4ecd8c457112daf568b6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x36ef858c198182778dcc4ecd8c457112daf568b6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2480,
+            "username": "humpty.eth",
+            "display_name": "humpty",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70bfa280-906f-481c-1abe-afd9f72d7b00/original",
+            "custody_address": "0x3b1c602b14720111c9a006f1e673fde7262bd3fb"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x36ef858c198182778dcc4ecd8c457112daf568b6",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Official Channels Day is on June 7, 2025 \n\nWhat does this mean? Channels were launched on June 7, 2023 and quickly became cozy corners for creators, curators and communities to connect and grow on Farcaster.\n\nCelebrate with us!\n\nIf you're a channel owner, quote cast this post with a note about why you started your channel. How is it meaningful to you? And don't forget to celebrate your active members by tagging the top contributors and letting them know how they help make your cozy corner better.\n\nIf you don't own a channel, or are simply a fan of channels, quote cast this post, tag your top three channels, and share why they’re important to you. How do they make the Internet (or Farcaster) a better place for you?\n\nDon't forget to join us for the Official Channels Day—Launch Party on Friday, June 6th starting at 8am PDT\n\nRSVP in comments below",
+          "timestamp": "2025-06-03T21:38:35.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8e461324-8b7b-4f18-e888-e091b7255f00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 642821,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1080,
+                  "height_px": 1080
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/01b33bad-4a03-4321-4dab-4ef75ed52c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 159157,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1013,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2e1ddaa7",
+    "url": "https://farcaster.xyz/bradq/0x2e1ddaa7",
+    "author_username": "bradq",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-06-07T21:34:13.000Z",
+    "text": "Growing up I wasn't allowed to celebrate Channels Day...\n\nSomething about decentralization just mimicking centralization holidays\n\nThis is my first year dressing up and going out for likes and recasts\n\nWhat are you dressing up as? I'm going as the /gmfarcaster coffee cup logo",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x06be899b412eba67223056e4b3e58b75b9fddf50"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x06be899b412eba67223056e4b3e58b75b9fddf50",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x06be899b412eba67223056e4b3e58b75b9fddf50",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/channels",
+          "root_parent_url": "https://warpcast.com/~/channel/channels",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "It’s Channels Day! What’s your favorite channel on Farcaster? \n\nSome of my faves over time (besides /gmfarcaster and /castout ofc):\n\n/founders \n/ethereum \n/someone-build \n/parenting \n/degen \n/gen-x \n/firefits \n/swords \n/catwalk \n/dogs \n/july \n/six \n/memes \n/replyguys \n/tabletop \n/food \n/music \n/books \n/screens \n/travel \n/adventure \n/flora \n/cryptoart \n/itookaphoto \n/asciiart \n/onchainmedia \n/ghiblify \n/law-policy \n/politics \n/brypto \n/farcasther \n/dont-do-this \n/farcastles \n/ouliposting\n/dolphin-zone \n\nMy fave Nounish channels\n/nouns \n/lilnounsdao \n/nouns-animators\n/nouns-esports \n/nouns-draws \n/builder \n\nThanks @sahil @openrank @humpty.eth @resipsa and everyone else organizing Channels Day!",
+          "timestamp": "2025-06-07T19:45:13.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aaa85371-89a1-4e1f-bb5a-7ee18ac2eb00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 204607,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1080,
+                  "height_px": 1080
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "channels",
+            "name": "channels",
+            "image_url": "https://i.imgur.com/FGpPAmy.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb3c9d2cb",
+    "url": "https://farcaster.xyz/bertwurst.eth/0xb3c9d2cb",
+    "author_username": "bertwurst.eth",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 864405,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0c58c61-1cdb-4eb3-0fe7-7a8905680300/original",
+    "cast_date": "2025-06-07T20:40:59.000Z",
+    "text": "Happy Official Channels Day 🥳\n\nJumping into channels was how I found a lot of the best humans on Farcaster. Here are *some of* my favorites:\n/dogwalk - @zachlipp Duh.\n/gmatcha - @afrochicks Matcha mania.\n/firefits - @cxs Love the creativity and expression in here.\n/gmfarcaster - @nounishprof & @adrienne My mainstream media.\n/farcasterunion - @pichi Obviously, bc it's Pichi.\n/los-fomos - @tako-unik & @pauline-unik Keeps things spicy.\n\nThanks to everyone who takes on the work to keep these running for the rest of us! Also thanks to @humpty.eth & @resipsa for making sure we celebrate the day!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2480,
+          "hash": "0x48414cf8b1c346b3cbd6dbfff953c41981fceb16"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x48414cf8b1c346b3cbd6dbfff953c41981fceb16",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2480,
+            "username": "humpty.eth",
+            "display_name": "humpty",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70bfa280-906f-481c-1abe-afd9f72d7b00/original",
+            "custody_address": "0x3b1c602b14720111c9a006f1e673fde7262bd3fb"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x36ef858c198182778dcc4ecd8c457112daf568b6",
+          "parent_hash": "0x36ef858c198182778dcc4ecd8c457112daf568b6",
+          "parent_url": null,
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": 2480
+          },
+          "text": "RSVP to the Official Channels Day—Launch Party and come hang with @resipsa and myself with special guest @dwr.eth and many of your favorite channel owners and hosts.\n\nWe'll be sharing our personal experiences with channels and the friends we've made along the way.\n\nhttps://events.xyz/7b79c3",
+          "timestamp": "2025-06-03T21:38:35.000Z",
+          "embeds": [
+            {
+              "url": "https://events.xyz/7b79c3",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://events.xyz/api/v1/frames/events/7b79c3/img/no_rsvp"
+                    }
+                  ],
+                  "ogTitle": "Official Channels Day—Launch Party",
+                  "ogLocale": "en",
+                  "ogDescription": "FB Events for Farcaster"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x531c6a06",
+    "url": "https://farcaster.xyz/horsefacts.eth/0x531c6a06",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2025-06-07T20:12:24.000Z",
+    "text": "the best thing anyone can do for channels is get 10x more people to use them. if there's a channel you love, get ten more of your friends who are not on Farcaster to join and post there.\n\n(yes, this is about /sardines)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x15cd0ce0",
+    "url": "https://farcaster.xyz/humpty.eth/0x15cd0ce0",
+    "author_username": "humpty.eth",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 2480,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70bfa280-906f-481c-1abe-afd9f72d7b00/original",
+    "cast_date": "2025-06-09T02:01:06.000Z",
+    "text": "ICYMI @dwr.eth dropped tons of alpha on the Official Channels Day livestream \n\nIt’s clear he recognizes channels are a valuable community building tool on Farcaster. However, he believes discovery and retention aren’t working well with the current model. \n\nHe enthusiastically shared his thoughts on how LLMs could help surface conversations via topics which could then be used to drive engagement to likeminded people in subgroups and communities. \n\nHe acknowledged the challenge is unlearning old models and behaviors, helping people on Farcaster feel as part of the process, and moving forward together. \n\nDo you think AI can help us innovate new models for engagement or are we better off with human curated experiences?",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0197525d-ab8c-69c9-901d-27b4e61ae73e.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 106.5
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xac1e93c4",
+    "url": "https://farcaster.xyz/dwr.eth/0xac1e93c4",
+    "author_username": "dwr.eth",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-06-07T19:11:20.000Z",
+    "text": "Where is Farcaster still centralized?\n\nJune 2025 edition\n\nImportant to call out: our top priority remains user growth. Prematurely solving any of these potential issues below doesn’t help user growth in the near-term. So not a top a priority. May change in the future. \n\n1. Most users use the Farcaster app. A nerf on Farcaster app is de facto censorship from the protocol today. This will change as Coinbase Wallet, Zapper, Uno and other clients come to market.\n\n2. Snapchain write nodes are run by the Farcaster team and Neynar. In theory we can collude to censor additional writes to the protocol. Low likelihood, but possible. Way to solve this is increase number of write nodes. But again, not an issue today.\n\n3. Farcaster “channels” — metadata and creation are centralized. Content has always been decentralized via FIP-2. Creation is not available via API but metadata is. Making some progress on a plan to move channels into FIP-2 without having reliance on the Farcaster app. \n\n1/2",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3537fadd",
+    "url": "https://farcaster.xyz/dwr.eth/0x3537fadd",
+    "author_username": "dwr.eth",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-06-06T17:37:44.000Z",
+    "text": "\"If you offer X, Y, Z features, you'll be able to convince people frustrated with [insert social platform] to move to Farcaster.\"\n\n1. In most cases on the internet, audience and community are downstream of the platform they are formed on. There are exceptions.\n\n2. Migration is an individual act. Individuals try new things and successfully migrate. Very few communities successfully migrate. Usually, they fracture or fade.\n\n3. Path dependency is real! Just because another network used a tactic at a point in time doesn't mean it's universal. In fact, most of the time it's not replicable since it was successful in capturing a given cohort that there's no one left to target like that.\n\n4. Most consumers are creatures of habit. They get used to a set of tools, networks, experiences and they stick to them, even if stuff gets way worse.\n\n5. Finally, and most importantly, do not underestimate the power of network effects. Companies that have them are valuable for that reason.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7fdd9a78",
+    "url": "https://farcaster.xyz/dwr.eth/0x7fdd9a78",
+    "author_username": "dwr.eth",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-06-08T20:48:35.000Z",
+    "text": "> Every other social media platform has thrived with no user incentive to post besides an audience.\n\nHow many new at-scale social media platforms in the US in the last 10 years?\n\nOnly 1. TikTok. And they spent $1B+ for multiple years on Facebook ads to acquire users. \n\nSo instead of transferring that value to Meta, why not try to transfer it directly to the users building the network?",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 7657,
+          "hash": "0x391fc5719c5ac0c47b11eaac37bf7ef5efe101ee"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x391fc5719c5ac0c47b11eaac37bf7ef5efe101ee",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 7657,
+            "username": "gregfromstl",
+            "display_name": "greg",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/441e8676-83ed-4051-f98c-3f3603af0b00/rectcrop3",
+            "custody_address": "0x6443ed8a3ffb006e3bb5a866bae6edfb93f8ff3e"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x391fc5719c5ac0c47b11eaac37bf7ef5efe101ee",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "There is no demand for “getting paid to create content” on social media platforms (or blockchains for that matter).\n\n1. Every other social media platform has thrived with no user incentive to post besides an audience. An audience is a better incentive than cash! You can sell whatever you want to an audience. This excludes YouTube which requires significantly more effort to create content on.\n\n2. Not everyone can be a “content creator”. Content is infinitely reproducible and sharable, meaning the top 1% will get 99% of the attention. There’s no longer a local musician in every town. There’s a select few for the whole world.\n\nThe whole thing is a massive grift to inflate usage and content that no one will ever see.",
+          "timestamp": "2025-06-08T19:50:45.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xda022a7f",
+    "url": "https://farcaster.xyz/july/0xda022a7f",
+    "author_username": "july",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 1287,
+    "author_pfp": "https://i.seadn.io/gcs/files/ed56e6b9a1b22720ce7490524db333e0.jpg?w=500&auto=format",
+    "cast_date": "2025-06-06T18:45:57.000Z",
+    "text": "We're getting closer!\n\nPlanning next week to start shipping these 3 @faust roc cameras out to some of folks for external beta testing\n\nWill share more soon",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9b4422e4-ac23-4222-f284-06d43edf6100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 414867,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1500
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x94e9e2cf",
+    "url": "https://farcaster.xyz/mazmhussain/0x94e9e2cf",
+    "author_username": "mazmhussain",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 758919,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e95b6f64-1d2d-4ac2-1d50-d2c9304e0100/original",
+    "cast_date": "2025-06-08T20:14:13.000Z",
+    "text": "Farcaster reflection: The platform has organic norms of civility whereas Twitter for some reason has become a jungle full of wild apes. But it’s not an oppressive civility of the style of BlueSky.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf72f0be9",
+    "url": "https://farcaster.xyz/samsteffanina/0xf72f0be9",
+    "author_username": "samsteffanina",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 307654,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/be3394e4-8237-4f2e-62cf-6b3a9f1c3400/original",
+    "cast_date": "2025-06-08T18:07:46.000Z",
+    "text": "There's just over 24 hours left in our @Doodles Tournaments!!\n\nTo celebrate this great weekend, we're adding 3 more games - these won't have cash prizes but we'll give the top 5 scorers an extra +10,000 Farcade Points each!\n\nThe new tournament games are:\n- Doodrops by @wakkin \n- Hap-py Long Legs by @micahd \n- Doopie Deli by @insidethesim.eth",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d2d44269-95fd-4947-6197-a4bddb6b4d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 355817,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1185
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa59777f8",
+    "url": "https://farcaster.xyz/myk/0xa59777f8",
+    "author_username": "myk",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 217248,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ab39123-9da1-408c-ae95-6bbd1ae65500/original",
+    "cast_date": "2025-06-09T02:33:10.000Z",
+    "text": "The story of how I vibe coded an NFT marketplace miniapp (well, most of it) between yesterday afternoon and today (while still touching grass)\n\nhttps://x.com/mykcryptodev/status/1931901878272409963",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 217248,
+          "hash": "0x313bd25e6d24ede43cc8f16e35c1b117a52d3b64"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x313bd25e6d24ede43cc8f16e35c1b117a52d3b64",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 217248,
+            "username": "myk",
+            "display_name": "myk.eth",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ab39123-9da1-408c-ae95-6bbd1ae65500/original",
+            "custody_address": "0xeba78717b6f059cfe0b75e75c2ed4bb7ca65154f"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x313bd25e6d24ede43cc8f16e35c1b117a52d3b64",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/pro",
+          "root_parent_url": "https://warpcast.com/~/channel/pro",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Vibe coded as much as I could this weekend -- here is MonaLista.xyz!\n\nNot all the way done yet -- if anyone wants to help carry this forward, lmk!",
+          "timestamp": "2025-06-09T02:30:49.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 1093494,
+                "hash": "0x4af56ceb31b3553e1cc177e3a0e3c8d005375cbd"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x4af56ceb31b3553e1cc177e3a0e3c8d005375cbd",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 1093494
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://MonaLista.xyz",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogTitle": "Thirdweb Frames Starter",
+                  "ogLocale": "en",
+                  "ogDescription": "A Thirdweb frames starter app.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch Frame",
+                      "action": {
+                        "url": "https://monalista.xyz",
+                        "name": "Thirdweb Frames Starter",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://monalista.xyz/splash.png",
+                        "splashBackgroundColor": "#0f172a"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://monalista.xyz/frame.png"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch Frame",
+                  "image": "https://monalista.xyz/frame.png",
+                  "frames_url": "https://monalista.xyz/"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "pro",
+            "name": "PRO",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3fa20f1d-8b47-445a-88f4-71eada09dc00/original"
+          }
+        }
+      },
+      {
+        "url": "https://x.com/mykcryptodev/status/1931901878272409963",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/mykcryptodev/status/1931901878272409963",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">background agents blew my mind this weekend.<br><br>yesterday afternoon I decided to try building an NFT Marketplace miniapp for the PRO coin challenge.<br><br>it&#39;s one day later you can now trade NFTs on the miniapp (link below)<br><br>here&#39;s what I did:</p>&mdash; myk.eth (@mykcryptodev) <a href=\"https://twitter.com/mykcryptodev/status/1931901878272409963?ref_src=twsrc%5Etfw\">June 9, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/mykcryptodev",
+              "author_name": "myk.eth",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xea0cf522",
+    "url": "https://farcaster.xyz/jc4p/0xea0cf522",
+    "author_username": "jc4p",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 977233,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+    "cast_date": "2025-06-07T00:37:46.000Z",
+    "text": "hi here is the first farcaster native nft marketplace mini app, very rough rn\n\nworking on:\n1. bidding support vs buy it now\n2. notification support\n3. polish\n\ncurrent featured collection is Based Dickbutts :)\n\nhttps://mint-exchange.xyz",
+    "embeds": [
+      {
+        "url": "https://mint-exchange.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogTitle": "Browse NFTs - FC NFT Exchange",
+            "ogLocale": "en",
+            "fcFrame": {
+              "button": {
+                "title": "Browse NFTs",
+                "action": {
+                  "url": "https://mint-exchange.xyz",
+                  "name": "Mint Exchange",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://cover-art.kasra.codes/mint_exchange_square.png",
+                  "splashBackgroundColor": "#6DD8FD"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://cover-art.kasra.codes/mint_exchange_rectangle.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Browse NFTs",
+            "image": "https://cover-art.kasra.codes/mint_exchange_rectangle.png",
+            "frames_url": "https://mint-exchange.xyz/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 977233,
+              "username": "jc4p",
+              "display_name": "Kasra Rahjerdi",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+              "custody_address": "0xa67ba0281231eb9e2ea4cf97894c0b0b5b801cc6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjk3NzIzMywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGE2N0JhMDI4MTIzMWVCOUUyZWE0Y0Y5Nzg5NGMwYjBiNUI4MDFDYzYifQ",
+                "payload": "eyJkb21haW4iOiJtaW50LWV4Y2hhbmdlLnh5eiJ9",
+                "signature": "MHg2MmE0YWMwYjQ5ODFhODFhOTRkNWYwYjYzNDgyNzBkNjNiZDA1OTFkZjE5NjQ3ZmNhYjdmNmViYjdjYjFlZGZlNWFkYTVhN2JjNTQ1YTA1ZmQ0ZjliNmNhNGY5OTkzNzhjNzJmNDgwMDZhNGM3OWUwMzM5MzljMWZiZmQ1OTU1MjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Mint Exchange",
+                "home_url": "https://mint-exchange.xyz",
+                "icon_url": "https://cover-art.kasra.codes/mint_exchange_square.png",
+                "image_url": "https://cover-art.kasra.codes/mint_exchange_rectangle.png",
+                "button_title": "Browse NFTs",
+                "splash_image_url": "https://cover-art.kasra.codes/mint_exchange_square.png",
+                "splash_background_color": "#6DD8FD",
+                "subtitle": "Farcaster NFT Marketplace",
+                "description": "Buy and sell NFTs all within Farcaster",
+                "primary_category": "shopping",
+                "tags": [
+                  "nft",
+                  "opensea"
+                ]
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Mint Exchange",
+                "home_url": "https://mint-exchange.xyz",
+                "icon_url": "https://cover-art.kasra.codes/mint_exchange_square.png",
+                "image_url": "https://cover-art.kasra.codes/mint_exchange_rectangle.png",
+                "button_title": "Browse NFTs",
+                "splash_image_url": "https://cover-art.kasra.codes/mint_exchange_square.png",
+                "splash_background_color": "#6DD8FD",
+                "subtitle": "Farcaster NFT Marketplace",
+                "description": "Buy and sell NFTs all within Farcaster",
+                "primary_category": "shopping",
+                "tags": [
+                  "nft",
+                  "opensea"
+                ]
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x48f22830",
+    "url": "https://farcaster.xyz/mikadoe.eth/0x48f22830",
+    "author_username": "mikadoe.eth",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 477126,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/19b7bdd9-bbd2-4432-126c-9e89b85fcc00/rectcrop3",
+    "cast_date": "2025-06-08T19:20:42.000Z",
+    "text": "OMG IT WORKS! \nTest my stupid mini app people!!!\nhttps://farcaster.xyz/miniapps/yNn34RIY38sF/nasa-pic-of-the-day",
+    "embeds": [
+      {
+        "url": "https://farcaster.xyz/miniapps/yNn34RIY38sF/nasa-pic-of-the-day",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz/miniapps/01974083-f29e-543c-5cf5-b2f822e62f5d/flag-frenzy",
+            "ogType": "website",
+            "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fmycoolcreations.xyz%2Fflag-frenzy%2Ficon.png&s=4d2e6a7baab2e46aaea83db3e4f614915bf108f529bbe909150e0c13bb311dff",
+            "ogImage": [
+              {
+                "url": "https://mycoolcreations.xyz/flag-frenzy/image.jpg?text=Flag+Frenzy!",
+                "type": "jpg",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Flag Frenzy! - Classic Mode",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster Mini App",
+            "fcFrame": {
+              "button": {
+                "title": "Play Flag Frenzy!",
+                "action": {
+                  "url": "https://mycoolcreations.xyz/",
+                  "name": "Flag Frenzy!",
+                  "type": "launch_frame"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://mycoolcreations.xyz/flag-frenzy/image.jpg?text=Flag+Frenzy!"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Play Flag Frenzy!",
+            "image": "https://mycoolcreations.xyz/flag-frenzy/image.jpg?text=Flag+Frenzy!",
+            "frames_url": "https://farcaster.xyz/miniapps/yNn34RIY38sF/nasa-pic-of-the-day"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcf1fa79f",
+    "url": "https://farcaster.xyz/decrypt/0xcf1fa79f",
+    "author_username": "decrypt",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 290390,
+    "author_pfp": "https://i.imgur.com/OCCM98e.png",
+    "cast_date": "2025-06-06T20:30:45.000Z",
+    "text": "Polymarket to Serve as Official Prediction Market of Elon Musk’s X\n\nThe two companies struck an agreement to create a product that will explain market moves, combining data from X posts, event contracts from Polymarket and xAI’s chatbot, Grok.  \n",
+    "embeds": [
+      {
+        "url": "https://decrypt.co/324062/polymarket-serve-official-prediction-market-elon-musks-x?utm_source=farcaster&utm_medium=social&utm_campaign=auto",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://decrypt.co/324062/polymarket-serve-official-prediction-market-elon-musks-x",
+            "ogDate": "2025-06-06T20:30:09Z",
+            "ogType": "article",
+            "favicon": "https://cdn.decrypt.co/wp-content/themes/decrypt-media/assets/images/favicon-32x32.png",
+            "ogImage": [
+              {
+                "alt": "elon musk polymarket Prediction markets AI data X Grok Shane Coplan market moves",
+                "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/08/68C856EB-0CCE-41F8-8785-A5BC2BDE553B-17345-000003172E0FDDFD-3-gID_7.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "Polymarket to Serve as Official Prediction Market of Elon Musk’s X - Decrypt",
+            "ogLocale": "en_US",
+            "ogSiteName": "Decrypt",
+            "ogDescription": "X has unveiled a real-time tool that dissects market-moving news in partnership with Polymarket, a crypto-native prediction markets platform."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd3b76d04",
+    "url": "https://farcaster.xyz/jmann.eth/0xd3b76d04",
+    "author_username": "jmann.eth",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 4959,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cff6628a-c2d5-441c-5064-bf8d7676d000/original",
+    "cast_date": "2025-06-05T15:12:28.000Z",
+    "text": "6000 days.\n6000 songs.\n\nA story that almost broke me:\n\nThe $3 million I made and lost.\nMy $1.1 million tax bill.\nThe Autoglyph that saved me\n\nThis is SONG A DAY #6000\n\n🌩️CRYPTO TAX NIGHTMARE🌩️\n\nThe journey continues below👇",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/019740a4-4810-b667-8ee8-02f894a30197.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 379.7
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb4b093a6",
+    "url": "https://farcaster.xyz/matthewb/0xb4b093a6",
+    "author_username": "matthewb",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 4895,
+    "author_pfp": "https://i.imgur.com/6x4u2Cc.jpg",
+    "cast_date": "2025-06-08T18:46:03.000Z",
+    "text": "can someone who is good at budgeting please help me with my monthly expenses?\n\nrent: $1800\nfood: $400\ninternet: $50\nphone: $70\nnoice tips: $4600",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb15bf072",
+    "url": "https://farcaster.xyz/bradenwolf/0xb15bf072",
+    "author_username": "bradenwolf",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 1012281,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d716be9f-bdc7-462b-f8b2-60899f7bc700/original",
+    "cast_date": "2025-06-08T22:25:05.000Z",
+    "text": "40 -42 early , 43 is pre middle , 44-46 is middle , 47 is late mid,   48 is pre late , 49 is latish , 49.5 it starts getting late , 49.95 is very late 😅😂",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x38596bf1",
+    "url": "https://farcaster.xyz/nounishprof/0x38596bf1",
+    "author_username": "nounishprof",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-06-10T01:10:02.000Z",
+    "text": "And mom is back with another market report",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/55a935d8-acff-4b73-af9d-96b53f630300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 20280,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 375
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc615a791",
+    "url": "https://farcaster.xyz/adamhurwitz.eth/0xc615a791",
+    "author_username": "adamhurwitz.eth",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 8794,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2508a0ed-cf85-40c7-bbf9-93c9be6bd500/original",
+    "cast_date": "2025-06-09T19:28:02.000Z",
+    "text": "The SEC is posting about the values of /defi. This is @ethereum. 🦅🔷\n\nhttps://x.com/SECGov/status/1932137709843132493",
+    "embeds": [
+      {
+        "url": "https://x.com/SECGov/status/1932137709843132493",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/SECGov/status/1932137709843132493",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The American values of economic liberty, private property rights, and innovation are in the DNA of the DeFi, or Decentralized Finance, movement.</p>&mdash; U.S. Securities and Exchange Commission (@SECGov) <a href=\"https://twitter.com/SECGov/status/1932137709843132493?ref_src=twsrc%5Etfw\">June 9, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/SECGov",
+              "author_name": "U.S. Securities and Exchange Commission",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0e82e329",
+    "url": "https://farcaster.xyz/boldleonidas/0x0e82e329",
+    "author_username": "boldleonidas",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 226538,
+    "author_pfp": "https://i.imgur.com/Nb7xus6.jpg",
+    "cast_date": "2025-06-10T00:37:20.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d58c6233-263a-4a8f-169c-86bd4e8e3600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 357787,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x901bbebb",
+    "url": "https://farcaster.xyz/drewcoffman.eth/0x901bbebb",
+    "author_username": "drewcoffman.eth",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 3895,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a66ea281-6781-4c00-1dc5-c815ab5df700/rectcrop3",
+    "cast_date": "2025-06-09T15:52:56.000Z",
+    "text": "and just like that @nouncoffee is open for business",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9e71cdf1-0a73-4f76-43d2-622f9f41d000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 259302,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1499,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f1bc620d-9dee-4933-dd81-ee1b18372f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 630170,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8028c102",
+    "url": "https://farcaster.xyz/miguelgarest.eth/0x8028c102",
+    "author_username": "miguelgarest.eth",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 323251,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd4ee967-70fa-46f4-90cc-55a7f47bc000/original",
+    "cast_date": "2025-06-09T22:36:49.000Z",
+    "text": "I'm incredibly happy to release this artwork. I really enjoyed working on it and I'm so proud of the outcome. \nThank you @blockheim and @dwr.eth for the opportunity and for trusting me with this.\n\nhappy sailing ⛵",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd7ed4a9-5974-485d-dd6b-a00238299600/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 3617807,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4347c299",
+    "url": "https://farcaster.xyz/alinaferry/0x4347c299",
+    "author_username": "alinaferry",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 282672,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmbLg9mEy628dFJfv6yZRV2fCxsf5yDSmSNtQx1xEShkeT?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-06-09T22:13:04.000Z",
+    "text": "*when you get a farcaster pro nft notif but there is nothing in your farplet*",
+    "embeds": [
+      {
+        "url": "https://media.tenor.com/bC-2yUVVBwoAAAAC/lies-deception",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 1050348,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 498,
+            "height_px": 207
+          }
+        }
+      },
+      {
+        "url": "https://media.tenor.com/bC",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe31e8017",
+    "url": "https://farcaster.xyz/annoushka.eth/0xe31e8017",
+    "author_username": "annoushka.eth",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 2736,
+    "author_pfp": "https://i.imgur.com/C9MzmTN.jpg",
+    "cast_date": "2025-06-10T08:02:35.000Z",
+    "text": "I’m so happy Dan’s Midjourney subscription expired. Amazing work Miguel!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 323251,
+          "hash": "0x8028c1021a95f3fc3e97540009806d71677515f0"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x8028c1021a95f3fc3e97540009806d71677515f0",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 323251,
+            "username": "miguelgarest.eth",
+            "display_name": "Miguelgarest",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd4ee967-70fa-46f4-90cc-55a7f47bc000/original",
+            "custody_address": "0x9528d0507d733feade8d5f63d0a2e7016466906b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x8028c1021a95f3fc3e97540009806d71677515f0",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I'm incredibly happy to release this artwork. I really enjoyed working on it and I'm so proud of the outcome. \nThank you @blockheim and @dwr.eth for the opportunity and for trusting me with this.\n\nhappy sailing ⛵",
+          "timestamp": "2025-06-09T22:36:49.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd7ed4a9-5974-485d-dd6b-a00238299600/original",
+              "metadata": {
+                "content_type": "image/gif",
+                "content_length": 3617807,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1080,
+                  "height_px": 1080
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcb97947b",
+    "url": "https://farcaster.xyz/blockheim/0xcb97947b",
+    "author_username": "blockheim",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 235128,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c9a0dcd-4729-4007-d8aa-124964935c00/rectcrop3",
+    "cast_date": "2025-06-09T22:45:59.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1e8cb008-091a-4315-dd37-84d19a7bb100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 155762,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 598,
+            "height_px": 420
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x198dc9e0",
+    "url": "https://farcaster.xyz/octant/0x198dc9e0",
+    "author_username": "octant",
+    "show_date": "2025-06-10",
+    "show_title": "GM Farcaster ep256 and ep256.5 Monday/Tuesday June 9-10, 2025",
+    "source_episode_id": "q208X7_OpB8",
+    "author_fid": 18203,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9853f821-1390-4ed5-4217-a46a65aa4400/original",
+    "cast_date": "2025-05-22T13:32:31.000Z",
+    "text": "gm gm ❤️\n\nWe're finally ready to unveil Epoch 8.\n\n🥁🥁🥁 This epoch is an Ethereum-core alignment epoch. It's a special one because it's a major step in our broader roadmap to contribute to Ethereum's growth.\n\nLike Epoch 7, there's no snapshot. Our internal reviewers will select projects based on impact and relevance.\n\nAllocation window remains the same. ETH rewards are time-weighted and allocating to projects get you matched\n\n🗓Application Deadline: 3 June, 2025 @ 11:59 pm PST\n\n🛠 Who should apply?\nBuilders advancing Ethereum in 4 core areas:\n\n1) Direct protocol improvements (consensus, execution, data availability, core networking)\n\n2) Shared infrastructure (clients, testnets & tooling, p2p networking stacks, security & formal-verification frameworks, transparency)\n\n3) Open dashboards, datasets, or studies (roll-ups, bridges, MEVs -  resulting insights must strengthen Ethereum)\n\n4) Protocol-level research + specification work (advancing Ethereum's roadmap)\n\nApp link + eligibility criteria 👇",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/513cad0a-2c1e-4483-68d1-1f88aaaad100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 366582,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1920,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

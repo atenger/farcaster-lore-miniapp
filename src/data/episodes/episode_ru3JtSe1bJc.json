@@ -1,0 +1,695 @@
+[
+  {
+    "cast_hash": "0x4294aae9",
+    "url": "https://warpcast.com/ghostlinkz.eth/0x4294aae9",
+    "author_username": "ghostlinkz.eth",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 3115,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80cb3761-6951-49a1-71c5-be9da3b93400/original",
+    "cast_date": "2024-04-14T23:42:45.000Z",
+    "text": "Outcasters - Snapshot 040 \nCuration & cover art by @reneecampbell \n\nFeaturing casts from @mariafynsknorup.eth @l4artiste @angelikakollin @adaezeokaro @tomleighton @gali @milibooo @emelytimm @jessedraxler and others\n\nhttps://outcasters.xyz/snapshot-040",
+    "embeds": [
+      {
+        "url": "https://outcasters.xyz/snapshot-040",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2024-04-14T23:41:12.613Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/ac0da8f89302b85c218f6da2e7632d79",
+            "ogImage": [
+              {
+                "alt": "Snapshot 040",
+                "url": "https://storage.googleapis.com/papyrus_images/9e8a97f7066718f09b1da2ac12a824f3.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Snapshot 040",
+            "ogLocale": "en",
+            "ogDescription": "Outcasters Snapshot 040 is curated by Renée Campbell, a floral macro photographer and AI artist. Through her art, Renée seeks to produce images that offer a unique perspective.",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@outcasters/snapshot-040?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Snapshot%20040&blogName=Outcasters&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fac0da8f89302b85c218f6da2e7632d79&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F9e8a97f7066718f09b1da2ac12a824f3.jpg&size=2048&publishedDate=1713138072613"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Snapshot%20040&blogName=Outcasters&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fac0da8f89302b85c218f6da2e7632d79&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F9e8a97f7066718f09b1da2ac12a824f3.jpg&size=2048&publishedDate=1713138072613",
+            "frames_url": "https://outcasters.xyz/snapshot-040"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf2e9e558",
+    "url": "https://warpcast.com/v/0xf2e9e558",
+    "author_username": "v",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-04-14T20:09:28.000Z",
+    "text": "We’re having some issues with image uploads due to an API provider this AM.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8e784f0e",
+    "url": "https://warpcast.com/v/0x8e784f0e",
+    "author_username": "v",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-04-14T21:22:32.000Z",
+    "text": "Warpcast had a delay processing messages this AM. \n\nTraffic spike in them middle of the night on the protocol caused messages to get backed up. We're 95% caught up now and working on fixes to make sure this doesnt happen.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7698bf6f",
+    "url": "https://warpcast.com/dwr.eth/0x7698bf6f",
+    "author_username": "dwr.eth",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-04-12T17:38:03.000Z",
+    "text": "Priorities for quality on Warpcast\n\n1. Notifications feed\n2. Channels\n3. Cast thread pages\n\nHave a good plan and hopeful that we'll be in a much better place in the next 2 weeks.\n\nAlso we're still working on home feed improvements, but that feels like it's in a much better place than a month ago.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1736604e",
+    "url": "https://warpcast.com/dwr.eth/0x1736604e",
+    "author_username": "dwr.eth",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-04-12T23:43:52.000Z",
+    "text": "New on Warpcast\n\nSee notifications from people you care about\n\nThe new Priority feed shows notifications is a combo of people you follow and people with a power badge. New notifs here are counted in the unread badge (red dot).\n\nWe’ve also added a bunch of notification-specific filters to make browsing easier.",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/IIGYrc2.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 185932,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1204,
+            "height_px": 716
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x555632dc",
+    "url": "https://warpcast.com/dwr.eth/0x555632dc",
+    "author_username": "dwr.eth",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-04-12T23:50:01.000Z",
+    "text": "Step 1 for quality push: make it easier to find notifications from people you care about.\n\nNext week, focus is on making individual cast pages have smarter sorting / filtering of replies. \n\nAnd then another tweak on channels to improve quality / reduce moderation work.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x1736604e66d5437d114bf3e811e5dc4ae86ec5fa"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1736604e66d5437d114bf3e811e5dc4ae86ec5fa",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1736604e66d5437d114bf3e811e5dc4ae86ec5fa",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "New on Warpcast\n\nSee notifications from people you care about\n\nThe new Priority feed shows notifications is a combo of people you follow and people with a power badge. New notifs here are counted in the unread badge (red dot).\n\nWe’ve also added a bunch of notification-specific filters to make browsing easier.",
+          "timestamp": "2024-04-12T23:43:52.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/IIGYrc2.png",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 185932,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1204,
+                  "height_px": 716
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1b49e221",
+    "url": "https://warpcast.com/colin/0x1b49e221",
+    "author_username": "colin",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 378,
+    "author_pfp": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+    "cast_date": "2024-04-13T01:05:48.000Z",
+    "text": "You’re in their “Other” and I’m in their “Priority”\n\nWe are not the same",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x76f60688",
+    "url": "https://warpcast.com/horsefacts.eth/0x76f60688",
+    "author_username": "horsefacts.eth",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2024-04-12T16:43:44.000Z",
+    "text": "FC actions enable better tipping systems:\n\n- Real time balance/allowance updates\n- Reliable timestamps & accounting\n- No storage cost for \"100 $TOKEN\" replies\n- Better foundation for concepts like delegation\n\nExisting emergent systems are very impressive given past constraints. But we can do better. (Working on it!)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3f8d4a81",
+    "url": "https://warpcast.com/polluterofminds/0x3f8d4a81",
+    "author_username": "polluterofminds",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 4823,
+    "author_pfp": "https://i.seadn.io/gae/lhGgt7yK1JiBVYz_HBxcAmYLRtP03aw5xKX4FgmFT9Ai7kLD5egzlLvb0lkuRNl28shtjr07DC8IHzLUkTqlWUMndUzC9R5_MSxH3g?w=500&auto=format",
+    "cast_date": "2024-04-12T20:28:28.000Z",
+    "text": "Pinata is hiring a full-time staff level engineer. Requirements: \n- Based in the US or Canada\n- 5+ years exp writing code for fast-moving startups\n- Experience with Node.js and Go\n- Bonus: exp building products for developers\nDM @elise9 if you qualify.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x14f05ed0",
+    "url": "https://warpcast.com/syndicate/0x14f05ed0",
+    "author_username": "syndicate",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 20929,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dc396a3f-437b-46b8-3113-460584615900/original",
+    "cast_date": "2024-04-12T17:39:22.000Z",
+    "text": "Excited to announce the 'Deploy on Degen' Week schedule that includes sessions led by @jacek @wake @nick @iandaos @will @alexmasmej @betashop.eth @ted @jess @joshcrnls and more \n\nAcceptances are starting to go out. Final deadline to apply is today at 11:59pm EST!\n\nhttps://syndicate.io/blog/deploy-on-degen-schedule",
+    "embeds": [
+      {
+        "url": "https://syndicate.io/blog/deploy-on-degen-schedule",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "Syndicate",
+                "url": "https://syndicate.io/blog/deploy-on-degen-schedule/opengraph-image-1r5u6l?7133a7c2c4e50542",
+                "type": "image/png",
+                "width": "1200",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "Syndicate Blog - Announcing the Schedule for ‘Deploy on Degen’ Week",
+            "ogLocale": "en",
+            "ogDescription": "We’re excited to announce next week’s schedule for…"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa528f133",
+    "url": "https://warpcast.com/martin/0xa528f133",
+    "author_username": "martin",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 1841,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c6a22d4a-d754-469c-5921-0850afc3d200/original",
+    "cast_date": "2024-04-12T07:53:14.000Z",
+    "text": "WTF is this ? Never wrote this cast or interacted with above cast.\n\nOnly signer could be @memecaster.eth ? Insane breach of trust if a client is dishing out degen tips without my permission ??",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/TvGSNat.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 230249,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 1142
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb57ce8fd",
+    "url": "https://warpcast.com/passafiume.eth/0xb57ce8fd",
+    "author_username": "passafiume.eth",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 6376,
+    "author_pfp": "https://i.imgur.com/uaWx0Yy.jpg",
+    "cast_date": "2024-04-13T14:34:25.000Z",
+    "text": "Who wants that green jacket?\n\n⛳️ Scheff Society\n⛳️ Bryson Brigade\n⛳️ Homa Maxis\n\nPrize Pool now at 1.5M $Degen 📈",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/8yQreua.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 618628,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1417
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4a1d6e25",
+    "url": "https://warpcast.com/tldr/0x4a1d6e25",
+    "author_username": "tldr",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x84f04cc4",
+    "url": "https://warpcast.com/toadyhawk.eth/0x84f04cc4",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2024-04-14T17:25:50.000Z",
+    "text": "Disclaimer: I-have-no-idea-what-im-doing-dog.gif just trying this farcaster prfile trading card thing out 🤷🏻‍♂️ \n\nI also have 5 invites if anyone needs one, just comment below. \n\n“Go get my card, trade it, and earn DEGEN or GTFO ❤️ \n\nJoin /onrekt and @onrekt to learn more, or, again, GTFO ❤️”",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/yr4ZxF5.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 16354,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 403,
+            "height_px": 569
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe69b4542",
+    "url": "https://warpcast.com/toadyhawk.eth/0xe69b4542",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2024-04-14T15:01:19.000Z",
+    "text": "Coming up this week from The Yellow Collective: \n\n🟡 “Based Friends Forever” collection by @ilustradora.eth tomorrow!\n\n🟡 Gen Art edition by [Redacted platform] on Tues, 50% to Yellow\n\n🟡 1st ever fine art print claim-in-frame from 🟡 & @coryvanlew April 23\n\nMight wanna throw notis on for /yellow anon…",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/DXMZGit.gif",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 574934,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 827,
+            "height_px": 400
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x83a75b18",
+    "url": "https://warpcast.com/supertightwoody/0x83a75b18",
+    "author_username": "supertightwoody",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 3702,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8142f07b-3232-41a9-16ca-f9140789f000/original",
+    "cast_date": "2024-04-11T18:13:25.000Z",
+    "text": "How to: \n\n1) Bridge from ETH mainnet to @base.base.eth \n\n2) Swap for tokens in Base ecosystem \n\n3) Mint my new music release for 50 $higher 😉\n(jk but not really)",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/2b75c2140f3acf8af2aef1c51277e08b.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 247
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2bca1bc1",
+    "url": "https://warpcast.com/anatcrypto.eth/0x2bca1bc1",
+    "author_username": "anatcrypto.eth",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 8998,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/18c37b35-9a08-4f6a-59f3-aff40e6d2300/rectcrop3",
+    "cast_date": "2024-04-12T11:29:46.000Z",
+    "text": "My bookmarks have completely turned into a dumpster fire, so I created a frame where I gathered the 30 most essential Farcaster frames and pages that I frequently need.\n\nBookmark it and use it for your convenience 🙏.\n\nhttps://frames.neynar.com/f/aafb3099/7ca3fe47",
+    "embeds": [
+      {
+        "url": "https://frames.neynar.com/f/aafb3099/7ca3fe47",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://i.imgur.com/zmUxEKr.jpeg",
+                "type": "jpeg"
+              }
+            ],
+            "ogTitle": "Caster family: useful pages",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf03dd86c",
+    "url": "https://warpcast.com/breadcat/0xf03dd86c",
+    "author_username": "breadcat",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xa7305ce2",
+    "url": "https://warpcast.com/breadcat/0xa7305ce2",
+    "author_username": "breadcat",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 268290,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6067269-45aa-4a6d-fb14-d0712b5c1300/original",
+    "cast_date": "2024-04-11T16:27:18.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/igTqDbX.gif",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 50022,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 506,
+            "height_px": 86
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb8e95b10",
+    "url": "https://warpcast.com/kaloh/0xb8e95b10",
+    "author_username": "kaloh",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 13833,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/365e1d7d-29f4-454f-026a-a2a019975100/original",
+    "cast_date": "2024-04-15T08:37:51.000Z",
+    "text": "gm ☕ \n\nI wrote a deep dive into Blockchain Layers and L3s\n\nWhy do we need them?\n\nhttps://paragraph.xyz/@kaloh/blockchain-layer-3",
+    "embeds": [
+      {
+        "url": "https://paragraph.xyz/@kaloh/blockchain-layer-3",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1bd2e6de",
+    "url": "https://warpcast.com/pfista/0x1bd2e6de",
+    "author_username": "pfista",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 451,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35ff884b-a727-46ff-9241-5652d35a3100/rectcrop3",
+    "cast_date": "2024-04-15T01:56:38.000Z",
+    "text": "Thanks for the great suggestion @nounishprof @adrienne \n\nhttps://warpcast.com/pfista/0x0deff9e2",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 451,
+          "hash": "0x0deff9e2b9e078421449ba55c8c0d612d0a26ca3"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0deff9e2b9e078421449ba55c8c0d612d0a26ca3",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 451,
+            "username": "pfista",
+            "display_name": "Michael Pfister",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35ff884b-a727-46ff-9241-5652d35a3100/rectcrop3",
+            "custody_address": "0xd2344f892241e3a83c7eca8e586093714be8ca7f"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0deff9e2b9e078421449ba55c8c0d612d0a26ca3",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "you ask, we build",
+          "timestamp": "2024-04-15T01:54:26.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.warpcast.com/v1/video/2dbcaa806cb4a390a49749e99874d640.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 720,
+                      "width_px": 1280,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 480,
+                      "width_px": 852,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 360,
+                      "width_px": 640,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 240,
+                      "width_px": 426,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 19.7
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-04-15",
+    "show_title": "GM Farcaster ep89, April 15, 2024",
+    "source_episode_id": "ru3JtSe1bJc",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

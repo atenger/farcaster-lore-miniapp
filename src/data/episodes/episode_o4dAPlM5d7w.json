@@ -1,0 +1,1797 @@
+[
+  {
+    "cast_hash": "0x4d5edb9d",
+    "url": "https://warpcast.com/nounishprof/0x4d5edb9d",
+    "author_username": "nounishprof",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-02-11T19:28:27.000Z",
+    "text": "GM Farcaster Eth Denver karaoke brunch coming up in just a couple weeks on Saturday March 1, 10 am to 2 pm at Punchbowl Social. \n\n🧇 delicious food \n🥂 mimosas & bloody mary's for those recovery from Friday\n🎱 pool and ping pong\n🕹️ arcade games (including 4 person pac-man)\n🎤 two karaoke rooms\n🎁 swag (some may need to be earned with a song)\n🎮 @farcade tournament with a new game and fun prizes! (who wants to win a Lil Noun?) \n\nWe have the mezzanine area reserved again for our GM Farcaster @hypersub holders plus our partners for this event /lilnounsdao and /farcade! Pick up a wowow or mole subscription (link in replies) OR a Lil Noun and come hang with some of your fave Farcasters! RSVP below.\n\nhttps://events.xyz/events/64b593",
+    "embeds": [
+      {
+        "url": "https://events.xyz/events/64b593",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/api/frames/events/64b593/img/no_rsvp"
+              }
+            ],
+            "ogTitle": "GM Farcaster Eth Denver karaoke brunch",
+            "ogLocale": "en",
+            "ogDescription": "FB Events for Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa22cb88a",
+    "url": "https://warpcast.com/nounishprof/0xa22cb88a",
+    "author_username": "nounishprof",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-02-12T12:36:39.000Z",
+    "text": "New Lil Nouner alert! This was a combo effort and eventually @lilpizza secured this cute cat for Alina! Welcome @alinaferry to /lilnounsdao 💜 ⌐◨-◨ 💜",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4905be78-ef3d-43f1-641d-ee3aca276b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 94732,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1094,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5088aa82",
+    "url": "https://warpcast.com/v/0x5088aa82",
+    "author_username": "v",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-02-10T21:32:25.000Z",
+    "text": "Warpcast wallet rolling out to the top 1000 people on the leaderboard today",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf0d39b0a",
+    "url": "https://warpcast.com/deodad/0xf0d39b0a",
+    "author_username": "deodad",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 6841,
+    "author_pfp": "https://i.imgur.com/dMoIan7.jpg",
+    "cast_date": "2025-02-11T14:20:16.000Z",
+    "text": "private key is shamir sharded on your device into 3 shards, any 2 of which can reconstruct the PK\n\n1 shard remains on the device\n1 shard is encrypted by a key that warpcast holds (recovery shard)\n1 shard is encrypted by a key that Privy holds (auth shard)\n\nall encryption also happens on your client\n\neffectively the recovery and auth shards are both accessible by your custody address but via authing with two separate service providers\n\nit’d take two separate breaches of warpcast and privy to compromise key material \n\nthe reasons for doing this instead of  simple EOA are \n1) users won’t lose access to their funds bc it inherits the Farcaster recovery system since 2/3 can be accessed via SIWF (all without needing the user to backup anything themselves)\n2) users can seamlessly access their wallet on any device (i.e. web) without needing to manually move a seed phase around in a reasonably secure way",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd865c222",
+    "url": "https://warpcast.com/dwr.eth/0xd865c222",
+    "author_username": "dwr.eth",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-02-11T18:17:18.000Z",
+    "text": "Why wallet?\n\nBetter UX in an app you use every day\nMake onchain actions reliable and smooth directly from the feed—frames and token links. No app switching or deeplink bugs.\n\nAutomatic onboarding\nNew users don’t need to download a separate app—it’s already there when you sign up. If you get a reward, a $degen tip or an airdrop in your first week, it just works.\n\n“Singapore of crypto”\nToday, Farcaster is much smaller than web2 social networks. However, if the % of active users *with funded wallets* is really high, we have a near term opportunity to be a “small-population-but-high-GDP country”.\n\nDevelopers can permissionlessly launch a frame, have it appear on Farcaster clients that have integrated wallets. “Get to your first 10,000 transactions by launching on Farcaster”.\n\nYes, you can launch on other networks, but their algos hate links and the drop off from seeing something in a feed to website to wallet is going to be high.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x64f3f527",
+    "url": "https://warpcast.com/v/0x64f3f527",
+    "author_username": "v",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-02-11T17:30:05.000Z",
+    "text": "Warpcast Wallet AMA\n\nIf you have any questions about the wallet, ask away! I'll do my best to answer by end of day, and compile the most common questions into the FAQ for the wallet.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa7a0898a",
+    "url": "https://warpcast.com/dwr.eth/0xa7a0898a",
+    "author_username": "dwr.eth",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-02-11T03:14:37.000Z",
+    "text": "A few thoughts on the wallet\n\n1. We’re still testing it! Expect a bunch of rough edges. But we will fix and iterate. Starting with a ~1000 people and expanding from there. \n\n2. Goal is to make onchain actions reliable and smooth directly from the feed—frames and token links\n\n3. There’s a bunch of new surface area to explore given all of the social context; but focused on getting the basics shipped and working well\n\n4. Important — there’s no private key export yet; you don’t have to use the wallet if you don’t want to.\n\n5. You can continue to use Rainbow or Coinbase Wallet via deeplinks (via MWP); there’s a preferred wallet toggle in settings.\n\n6. It’s been a full team effort, but a big shout out to @blockheim @deodad @horsefacts.eth @gabrielayuso.eth and then everyone who has been giving feedback",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x02c253f0",
+    "url": "https://warpcast.com/deodad/0x02c253f0",
+    "author_username": "deodad",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 6841,
+    "author_pfp": "https://i.imgur.com/dMoIan7.jpg",
+    "cast_date": "2025-02-11T03:39:08.000Z",
+    "text": "here are the top 5 swapped tokens from Warpcast Wallet so far:\n1. $degen\n2. $usdc\n3. $higher\n4. $gdupi\n5. $moxie\n\nI can see the $bnkr shark fin tho",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6ba44929",
+    "url": "https://warpcast.com/horsefacts.eth/0x6ba44929",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2025-02-11T03:30:35.000Z",
+    "text": "Quick postmortem: looks like this was an outbound DNS query cache miss to our service provider discovery service. We read through to the backup service provider catalog cluster, but high latency to our Australian datacenter meant the request timed out and landed in the service provider catalog cluster request retry queue. Once this was processed we were able to resolve the current PfpHaloMutexService leader and request a write lock. Worked fine from there.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 876106,
+          "hash": "0xa79f8149fe7737838d4c2680853ba19545510fdc"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa79f8149fe7737838d4c2680853ba19545510fdc",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 876106,
+            "username": "jort-user.eth",
+            "display_name": "Jört User",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3edac5c1-4729-4a91-f6db-692eb3b77400/rectcrop3",
+            "custody_address": "0x30975e3b0b2c0df8dd8f9fbac8ca941d724f768e"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa79f8149fe7737838d4c2680853ba19545510fdc",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I can't believe this. 30 minutes and still no halo. The worst cold start lambda of all time. Not even the JVM is this bad. Where are the devs.",
+          "timestamp": "2025-02-11T02:12:10.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcf746b1f",
+    "url": "https://warpcast.com/nounishprof/0xcf746b1f",
+    "author_username": "nounishprof",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-02-11T02:09:48.000Z",
+    "text": "What’s in your wallet? Curious what everyone’s first swaps were, first nft, etc \n\n🔵 funded with @base.base.eth eth ofc\n🎩 first swap $degen\nⓂ️2nd swap $moxi\n⌐◨-◨ first mint Zeropod \n☕️2nd mint @gmfarcaster \n\ncc: @jacek  @betashop.eth @toadyhawk.eth  @jackwyldes.eth @proxystudio.eth",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a4a61837-e3e0-466a-a3d3-ea41c5419a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 133642,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 968,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8246840c",
+    "url": "https://warpcast.com/nounishprof/0x8246840c",
+    "author_username": "nounishprof",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-02-11T02:06:03.000Z",
+    "text": "You know what makes a great first mint for your new Warpcast wallet? This /gmfarcaster episode with @dwr.eth where @adrienne & I chat with Dan about the new Warpcast wallet! (so meta right???)\n\nSet your designated wallet and collect this on @pods by clicking this fabulous frame! You can also watch the episode right in the frame too!\nhttps://pods.media/gm-farcaster/gm-farcaster-ep212-thursday-february-6-2025-with-dwreth-farcaster?referrer=0x9353CC2583356cE6eA8f92E239D7C9Eb8412ACAF",
+    "embeds": [
+      {
+        "url": "https://pods.media/gm-farcaster/gm-farcaster-ep212-thursday-february-6-2025-with-dwreth-farcaster?referrer=0x9353CC2583356cE6eA8f92E239D7C9Eb8412ACAF",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://pods.media/gm-farcaster/gm-farcaster-ep212-thursday-february-6-2025-with-dwreth-farcaster",
+            "favicon": "/icon.svg?0e6eb4a8ea10ec02",
+            "ogAudio": "https://gateway.irys.xyz/-EgrcXPDyOOUJM-qgGXpjPot7c_kUG-rfkQ1Rq9EHNs/x_aDvqd0xryhob78INcpGxnlnAeTlN_58b0zi2XOEFU.mp3",
+            "ogImage": [
+              {
+                "alt": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth /farcaster Cover Art",
+                "url": "https://pods.media/api/og/frame/gm-farcaster/gm-farcaster-ep212-thursday-february-6-2025-with-dwreth-farcaster"
+              }
+            ],
+            "ogTitle": "GM Farcaster ep212 Thursday February 6, 2025 with @dwr.eth /farcaster",
+            "ogLocale": "en",
+            "ogSiteName": "pods.media",
+            "ogDescription": "Collect this episode to support GM Farcaster and secure your spot on the leaderboard!",
+            "fcFrame": {
+              "button": {
+                "title": "View Episode",
+                "action": {
+                  "url": "https://pods.media/gm-farcaster/gm-farcaster-ep212-thursday-february-6-2025-with-dwreth-farcaster",
+                  "name": "View Episode",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://pods.media/icon.svg",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://pods.media/api/framesV2/og/gm-farcaster/gm-farcaster-ep212-thursday-february-6-2025-with-dwreth-farcaster"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "View Episode",
+            "image": "https://pods.media/api/framesV2/og/gm-farcaster/gm-farcaster-ep212-thursday-february-6-2025-with-dwreth-farcaster",
+            "frames_url": "https://pods.media/gm-farcaster/gm-farcaster-ep212-thursday-february-6-2025-with-dwreth-farcaster?referrer=0x9353CC2583356cE6eA8f92E239D7C9Eb8412ACAF",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 13875,
+              "username": "pods",
+              "display_name": "pods.media",
+              "pfp_url": "https://i.imgur.com/9S7gylW.jpg",
+              "custody_address": "0x162a557e0f569e0ae4a5a28fb666473d2bb0b7e6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEzODc1LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MTYyQTU1N0UwZjU2OWUwQUU0QTVhMjhGQjY2NjQ3M2QyYkIwYjdFNiJ9",
+                "payload": "eyJkb21haW4iOiJwb2RzLm1lZGlhIn0",
+                "signature": "MHg0NjYzNGEyMzhiZTJjODMwMGZkOTY0MDhmYjk3Zjg2ODNjYjUyNGYzYTc0MmY1MGJiZGU4ZmFhMWVkNWEwNDQxMzBmOTJhNjU3MTQ3ODY0NmE2NTY1YmQwMjkxMzc2NjZjYWVhYjMxYjg2YTAwYjMxNWNiYmQ5NGVhYTQ2ZDA0NTFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Pods",
+                "home_url": "https://pods.media",
+                "icon_url": "https://pods.media/assets/outline-fill.png",
+                "splash_image_url": "https://pods.media/icon.svg",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://pods.media/api/framesV2/webhook",
+                "subtitle": "Collect conversations.",
+                "description": "Pods connects podcast creators with their biggest fans.",
+                "primary_category": "entertainment",
+                "tags": [
+                  "podcast",
+                  "media",
+                  "content",
+                  "social"
+                ],
+                "hero_image_url": "https://pods.media/brand/open-graph.png",
+                "tagline": "Collect conversations.",
+                "og_title": "Pods",
+                "og_description": "Pods connects podcast creators with their biggest fans.",
+                "og_image_url": "https://pods.media/brand/open-graph.png"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Pods",
+                "home_url": "https://pods.media",
+                "icon_url": "https://pods.media/assets/outline-fill.png",
+                "splash_image_url": "https://pods.media/icon.svg",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://pods.media/api/framesV2/webhook",
+                "subtitle": "Collect conversations.",
+                "description": "Pods connects podcast creators with their biggest fans.",
+                "primary_category": "entertainment",
+                "tags": [
+                  "podcast",
+                  "media",
+                  "content",
+                  "social"
+                ],
+                "hero_image_url": "https://pods.media/brand/open-graph.png",
+                "tagline": "Collect conversations.",
+                "og_title": "Pods",
+                "og_description": "Pods connects podcast creators with their biggest fans.",
+                "og_image_url": "https://pods.media/brand/open-graph.png"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6db7d9f8",
+    "url": "https://warpcast.com/v/0x6db7d9f8",
+    "author_username": "v",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xefdce20c",
+    "url": "https://warpcast.com/v/0xefdce20c",
+    "author_username": "v",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-02-08T19:40:50.000Z",
+    "text": "there's some confusion around farcaster names, so let me clear this up: \n\n- your username on farcaster is ALWAYS an ENS name\n- one kind of ens name is the farcaster name (v.farcaster.eth shown in client as @v)  \n- the other kind of ens name is the L1 name (dwr.eth shown in client as @dwr.eth)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1898,
+          "hash": "0x5eeec4d342a8485f433c86e1b48e4a3839793901"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5eeec4d342a8485f433c86e1b48e4a3839793901",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1898,
+            "username": "boscolo.eth",
+            "display_name": "boscolo.eth",
+            "pfp_url": "https://i.seadn.io/gcs/files/7afc1e009da12d3ee58b20bfbd5cac45.png?w=500&auto=format",
+            "custody_address": "0x3efbe95ebde6042147644bc39cdfcf54b8e4f523"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5eeec4d342a8485f433c86e1b48e4a3839793901",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I do not understand why Brantly and Esk3nder are picking this fight with @dwr.ethth and @v \n\nFarcaster is one of the more successful projects to leverage ENS. Instead of critiquing how \"ENS-aligned\" FC is, perhaps it would be better for the ENS team to reflect on the limitations of ENS that Farcaster had to overcome.",
+          "timestamp": "2025-02-08T15:29:04.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 2417,
+                "hash": "0xac5867e43fd4fe74a674ade753b02265f76780e2"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xac5867e43fd4fe74a674ade753b02265f76780e2",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 2417
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf5395365",
+    "url": "https://warpcast.com/adrienne/0xf5395365",
+    "author_username": "adrienne",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-02-10T22:27:13.000Z",
+    "text": "I wont tell you when we make our first non engineering hire but there will be signs",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d6bdcbe7-8d12-4fda-b97f-5fff20ac4600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 36083,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 513
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x973949aa",
+    "url": "https://warpcast.com/esteez.eth/0x973949aa",
+    "author_username": "esteez.eth",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 17571,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15501d1c-e40f-4303-c8f6-a13b425c8b00/original",
+    "cast_date": "2025-02-10T16:45:16.000Z",
+    "text": "Gm! A few reminders around tickets below: \n\n✨ Applications are open for two more weeks + will close on Feb 21 (farcon.deform.cc/apply)\n✨ If accepted, you will be notified within two weeks of applying + will then have two weeks to claim your ticket(s) \n✨ Honor code applies to Builders Day 🙃 - reiterating here that tickets are intended for those that plan to participate/hack at FarHack, please only claim if you're interested in doing so!\n\nStoked to see everyone!!!",
+    "embeds": [
+      {
+        "url": "http://farcon.deform.cc/apply",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {}
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x85c25ad9",
+    "url": "https://warpcast.com/jessepollak/0x85c25ad9",
+    "author_username": "jessepollak",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-02-10T19:26:49.000Z",
+    "text": "I took some time to write up my thoughts on the FUD around Base and our ETH earnings.\n\nTL;DR purity tests like this are currently a scourge on Ethereum and we need to fix the culture to refocus on building and delivering value to real people.\n\nhttps://x.com/jessepollak/status/1889032217671946274",
+    "embeds": [
+      {
+        "url": "https://x.com/jessepollak/status/1889032217671946274",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/jessepollak/status/1889032217671946274",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Some more thoughts on this after the weekend:<br><br>1. Purity tests like “do you hold all the ETH you earn” are a distraction and hurt Ethereum. Overfixating on virtue signaling like this distracts us from the real work, which is building products that people love and creating… <a href=\"https://t.co/q8YVzUcZP9\">https://t.co/q8YVzUcZP9</a></p>&mdash; jesse.base.eth (@jessepollak) <a href=\"https://twitter.com/jessepollak/status/1889032217671946274?ref_src=twsrc%5Etfw\">February 10, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/jessepollak",
+              "author_name": "jesse.base.eth",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x697d5816",
+    "url": "https://warpcast.com/samantha/0x697d5816",
+    "author_username": "samantha",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 1606,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/015f24f6-2e7e-4890-8e10-af5e66e19200/rectcrop3",
+    "cast_date": "2025-02-10T22:03:04.000Z",
+    "text": "Flowers and honey candle + candle holder by @marjorie is now open for public sale! \n\nOnly 4 bundles are left so get them quick for Valentine’s Day 💘\n\nhttps://humankind.place",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72c5712c-2d24-452d-26bc-462b10af9f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 548768,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1998,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/91143388-c278-4d21-57f4-0b6a97591100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 389216,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7e386a3e",
+    "url": "https://warpcast.com/linda/0x7e386a3e",
+    "author_username": "linda",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-02-11T02:19:59.000Z",
+    "text": "Very soon on Bountycaster you'll be able to prefund a bounty and have the payments auto sent to users once the bounty is marked as complete. We'll also show if a bounty is prefunded\n\nDC me if you're interested in testing out this feature for posting a bounty! We're rolling out to select users first",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 20596,
+          "hash": "0xa762c004b7695f8e265e16e6f7c01800f7c51399"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa762c004b7695f8e265e16e6f7c01800f7c51399",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 20596,
+            "username": "bountybot",
+            "display_name": "Bounty Bot",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/19c198a8-3bb6-469d-9a7a-52d8bfb43c00/original",
+            "custody_address": "0xeb5beb418929eb668226de9184d9dc5fc822b00f"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 20596,
+            "username": "bountybot",
+            "display_name": "Bounty Bot",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/19c198a8-3bb6-469d-9a7a-52d8bfb43c00/original",
+            "custody_address": "0xeb5beb418929eb668226de9184d9dc5fc822b00f"
+          },
+          "thread_hash": "0x9d18dc140c3b0fbd78120ba897bf4148bf94ecc9",
+          "parent_hash": "0x9d18dc140c3b0fbd78120ba897bf4148bf94ecc9",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 12152
+          },
+          "text": "If you'd like to prefund this bounty, you can send 15 USDC to your individual bounty address on Base (please make sure it's Base network only)\n\nPrefunding bounties can provide higher signal to Bountycaster users (prefunded label on the bounty) and bounty completion payments will be streamlined by just marking which user(s) completed the bounty. You can withdraw funds at anytime from your verified Farcaster connected address",
+          "timestamp": "2025-02-11T02:11:23.000Z",
+          "embeds": [
+            {
+              "url": "https://app.safe.global/home?safe=base:0x69ade311f55ffed663f0ab24f572ea5af2d4814d",
+              "metadata": {
+                "content_type": "text/html",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicons/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://app.safe.global/images/social-share.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Safe{Wallet}",
+                  "ogLocale": "en",
+                  "ogDescription": "Safe{Wallet} is the most trusted smart account wallet on Ethereum with over $100B secured."
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb553313d",
+    "url": "https://warpcast.com/unichain/0xb553313d",
+    "author_username": "unichain",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 864257,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4dad107c-2ea9-4e7c-34d7-982ef2de0e00/original",
+    "cast_date": "2025-02-11T14:14:23.000Z",
+    "text": "Unichain mainnet is live ✨\n\n✸ Fast with low fees\n✸ Built for cross-chain liquidity\n✸ Prioritizes decentralization from day one\n\nYou can now deploy DeFi apps, launch tokens, swap, provide liquidity, and more",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/0194f556-7f5d-2085-53fd-9462288fd858.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 6
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8a0ac27f",
+    "url": "https://warpcast.com/dwr.eth/0x8a0ac27f",
+    "author_username": "dwr.eth",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-02-11T20:26:14.000Z",
+    "text": "If we're interviewing creators, what questions would you add or remove?\n\nAssume you can only ask 6 questions max in a 15 minute convo.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4388c8cd-bde0-4f95-48d0-70593135f400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 185560,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1558,
+            "height_px": 750
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0fc02d2f",
+    "url": "https://warpcast.com/dwr.eth/0x0fc02d2f",
+    "author_username": "dwr.eth",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-02-11T22:39:15.000Z",
+    "text": "gm and welcome to @poppunkonchain\n\nwelcome to unruggable social",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 238403,
+          "hash": "0x4c12bbcb68309eb91e5fe9afc4cd51c7865a9b80"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4c12bbcb68309eb91e5fe9afc4cd51c7865a9b80",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 238403,
+            "username": "poppunkonchain",
+            "display_name": "Pop Punk",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f4b63e77-c7db-4486-a90e-5b5bed877500/original",
+            "custody_address": "0x157249064091d8eed9e448aecefefe0f5e3ea82e"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4c12bbcb68309eb91e5fe9afc4cd51c7865a9b80",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Today, Twitter manually and wrongfully suspended the account of my company, g8keep.\n\nIf this was just a personal account, I really wouldn't care as much. But, g8keep is a pre-seed venture backed company. We have employees. We have salaries and benefits to pay. g8keep is a full time job for everyone on the team.\n\nThe unfortunate thing is, Twitter is quite literally one of the main distribution and marketing platforms in our industry. This was the platform that we used to build our business since day 1. I don't like that this is the case, but in the crypto industry, quite literally everyone is on Twitter.\n\nUntil now, I didn't really see the negative effects of censorship on social media platforms. That is, until it happened to me and my company. \n\nWithout any notice, and without any non-automated responses, they were able to essentially delete our company's presence from their platform.\n\nThis is a pretty eye opening moment for me to start prioritizing this platform.",
+          "timestamp": "2025-02-11T22:38:00.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4c12bbcb",
+    "url": "https://warpcast.com/poppunkonchain/0x4c12bbcb",
+    "author_username": "poppunkonchain",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 238403,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f4b63e77-c7db-4486-a90e-5b5bed877500/original",
+    "cast_date": "2025-02-11T22:38:00.000Z",
+    "text": "Today, Twitter manually and wrongfully suspended the account of my company, g8keep.\n\nIf this was just a personal account, I really wouldn't care as much. But, g8keep is a pre-seed venture backed company. We have employees. We have salaries and benefits to pay. g8keep is a full time job for everyone on the team.\n\nThe unfortunate thing is, Twitter is quite literally one of the main distribution and marketing platforms in our industry. This was the platform that we used to build our business since day 1. I don't like that this is the case, but in the crypto industry, quite literally everyone is on Twitter.\n\nUntil now, I didn't really see the negative effects of censorship on social media platforms. That is, until it happened to me and my company. \n\nWithout any notice, and without any non-automated responses, they were able to essentially delete our company's presence from their platform.\n\nThis is a pretty eye opening moment for me to start prioritizing this platform.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2dc12fa9",
+    "url": "https://warpcast.com/cojo.eth/0x2dc12fa9",
+    "author_username": "cojo.eth",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 4327,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66013ade-eb0f-4eb9-7d5a-e08f1b9e1c00/original",
+    "cast_date": "2025-02-11T17:11:49.000Z",
+    "text": "Last week we noticed an influx of users all voting for the same answer repeatedly, leading to statistically impossible outcomes (e.g., 100% accuracy over 30 votes). \n\nSo today we launched CollusionGuard 9000 🛡️ \n\nIt uses ML to identify statistically anomalous clusters and adjust vote weights accordingly. For example, if you voted alongside 50 other people on all of the right answers for ten questions, your vote diminishes in value until your responses normalize.\n\nPeople who fall into those clusters can still participate in boosted pools and win an equal amount by selecting the right answer. No banning required (for now). \n\nThere’s risk in this approach. We expect a drop off in numbers from colluders - and some won’t consider this decentralized - but the overall integrity of the game should increase.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa0829d78",
+    "url": "https://warpcast.com/ted/0xa0829d78",
+    "author_username": "ted",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-02-11T22:13:49.000Z",
+    "text": "😮‍💨 40 submissions to @kiwi's Future of Farcaster writing contest (!!).\n\nshout out to @macbudkowski and @timdaub.eth for putting this together, can't wait to read them all. check it out at news.kiwistand.com.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 13442,
+          "hash": "0x0df2bbd75c5d2df1e0e22f14160c438563ce2793"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0df2bbd75c5d2df1e0e22f14160c438563ce2793",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 13442,
+            "username": "kiwi",
+            "display_name": "Kiwi",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/035a1a19-4cbc-4a0a-b5cd-65511b57dc00/original",
+            "custody_address": "0x2cf055add19b0f42647d441f02479258ef918f4d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0df2bbd75c5d2df1e0e22f14160c438563ce2793",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "gm gm the submissions to our contest officially closed yesterday, but...\n\nyou still have time until the 17th of February 18:00 CET to vote and decide who is going to win the contest.\n\nwe received 40 submissions overall, from authors such as @p-e, @pierrepauze, @bradq, @vova, @pichi, @tombeck.eth, @itsbasil, @papa, @abundance, and many more!\n\njust click our link in bio, open the top bar, and start reading.",
+          "timestamp": "2025-02-11T17:55:25.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.warpcast.com/v1/video/0194f626-2592-d87e-644f-d5f8fbde93e1.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1080,
+                      "width_px": 1874,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 720,
+                      "width_px": 1250,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 480,
+                      "width_px": 832,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 360,
+                      "width_px": 624,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 240,
+                      "width_px": 416,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 18.5
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "http://news.kiwistand.com",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://news.kiwistand.com/kiwi_hot_feed_page.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Kiwi News - handpicked web3 alpha",
+            "ogLocale": "en",
+            "ogDescription": "Kiwi News is the prime feed for hacker engineers building a decentralized future. All our content is handpicked and curated by crypto veterans."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3df7cea3",
+    "url": "https://warpcast.com/falcon/0x3df7cea3",
+    "author_username": "falcon",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 2902,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/25eee7d5-24cd-4782-6876-7f2667e87700/rectcrop3",
+    "cast_date": "2025-02-08T00:33:21.000Z",
+    "text": "create your own Built On Ethereum badge adding any colors or logos you want to match your branding. visit https://ethbadge.xyz/\n\nany and all feedback is welcomed from the community 🙏  \ncc @vitalik.eth @sassal.eth @justindrake @chaskin.eth @tim",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53ebbe52-bebf-47a2-e388-8b0538977800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 73114,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1056,
+            "height_px": 536
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 2902,
+          "hash": "0x614216e38b7a4415e709a73fc033b498571653f7"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x614216e38b7a4415e709a73fc033b498571653f7",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2902,
+            "username": "falcon",
+            "display_name": "rkfalcon ↑🔵",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/25eee7d5-24cd-4782-6876-7f2667e87700/rectcrop3",
+            "custody_address": "0xfe5b5ae6a69bdfa856885ae41899c9b85909e2ae"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x614216e38b7a4415e709a73fc033b498571653f7",
+          "parent_hash": null,
+          "parent_url": "https://onchainsummer.xyz",
+          "root_parent_url": "https://onchainsummer.xyz",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "create your own customized Built on Ethereum badge https://ethbadge.xyz/\n\nfrom the minds of @jack @sassal.eth @lukeweaver.eth @toadyhawk.eth \n\nany and all feedback is appreciated 🙏",
+          "timestamp": "2025-02-07T23:55:01.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.warpcast.com/v1/video/0194e2b7-c21a-c705-8249-14211caf256d.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 720,
+                      "width_px": 1152,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 480,
+                      "width_px": 768,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 360,
+                      "width_px": 576,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 240,
+                      "width_px": 384,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 88.6
+                }
+              }
+            },
+            {
+              "url": "https://ethbadge.xyz/",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": 469,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/vite.svg",
+                  "ogTitle": "Built on Ethereum Badge",
+                  "ogLocale": "en"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "base",
+            "name": "Base",
+            "image_url": "https://warpcast.com/~/channel-images/base.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x86bd3067",
+    "url": "https://warpcast.com/adrienne/0x86bd3067",
+    "author_username": "adrienne",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-02-11T03:20:55.000Z",
+    "text": "ethbadge.xyz is so cool\n\n\nhttps://warpcast.com/gmfarcaster/0x3ca74773",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2902,
+          "hash": "0x3df7cea36ca5028e9d0ddc5d9ab4ef935a4d4cbf"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3df7cea36ca5028e9d0ddc5d9ab4ef935a4d4cbf",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2902,
+            "username": "falcon",
+            "display_name": "rkfalcon ↑🔵",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/25eee7d5-24cd-4782-6876-7f2667e87700/rectcrop3",
+            "custody_address": "0xfe5b5ae6a69bdfa856885ae41899c9b85909e2ae"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3df7cea36ca5028e9d0ddc5d9ab4ef935a4d4cbf",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "create your own Built On Ethereum badge adding any colors or logos you want to match your branding. visit https://ethbadge.xyz/\n\nany and all feedback is welcomed from the community 🙏  \ncc @vitalik.eth @sassal.eth @justindrake @chaskin.eth @tim",
+          "timestamp": "2025-02-08T00:33:21.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53ebbe52-bebf-47a2-e388-8b0538977800/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 73114,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1056,
+                  "height_px": 536
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 2902,
+                "hash": "0x614216e38b7a4415e709a73fc033b498571653f7"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x614216e38b7a4415e709a73fc033b498571653f7",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 2902
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "http://ethbadge.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 469,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/vite.svg",
+            "ogTitle": "Built on Ethereum Badge",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xeaee3e63",
+    "url": "https://warpcast.com/chicbangs.eth/0xeaee3e63",
+    "author_username": "chicbangs.eth",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 5328,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70e637f2-ddb4-4fd0-e56e-35bc44605a00/original",
+    "cast_date": "2025-02-12T01:45:53.000Z",
+    "text": "🌹 ATTENTION PLEASE\n\nIf you've been summoned to PAINT THE TIMELINE RED, let it rip!\n(if you haven't and wanna join the fun, link in replies)\n\nWe are celebrating the 'SHAKE' Remix drop, with style ofc. This is a dark & moody twist on the original and the perfect excuse to dance. Maybe get a little sexy with it? It's infused with the uhh's you need to tap into your primal self. I'm very excited for you to hear it.\n\nPRESALE goes live tomorrow, Wednesday Feb. 12th at High Noon MST / 2pm EST. If you collected the original 'SHAKE' or 'Get Up' on soundxyz, you're on the allowlist.\n\nCollectors will receive priority access to future drops and 'Shake for Mental Health' activations. One lucky collector will receive an additional 1/1 art drop and 2,000 $higher. \n\nA heartfelt thank you for supporting onchain musicians.\nLet's shake things up, shall we? \n\n🌹 xo, chic\nhttps://www.sound.xyz/chicbangs/shake-custom-model-remix?referral_source=link",
+    "embeds": [
+      {
+        "url": "https://www.sound.xyz/chicbangs/shake-custom-model-remix?referral_source=link",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://d2i9ybouka0ieh.cloudfront.net/audio-transcoded/41ecd576-5530-4508-a737-7b17f097301e/AUDIO_128K/9451801-5103473-Chic_Bangs_-_Shake__Custom_Model_Remix_.m4a",
+            "favicon": "/favicon-32x32.png",
+            "ogAudio": "https://d2i9ybouka0ieh.cloudfront.net/audio-transcoded/41ecd576-5530-4508-a737-7b17f097301e/AUDIO_128K/9451801-5103473-Chic_Bangs_-_Shake__Custom_Model_Remix_.m4a",
+            "ogImage": [
+              {
+                "url": "https://opengraph.sound.xyz/v1/release/a5760483-29df-4abd-ae17-e1e6e25e9b20"
+              }
+            ],
+            "ogTitle": "Chic Bangs - SHAKE (Custom Model Remix)",
+            "ogLocale": "en",
+            "ogSiteName": "Chic Bangs - SHAKE (Custom Model Remix)",
+            "ogDescription": "Sometimes you just gotta shake shit outta your system. This remix is the perfect dark and moody vibe for moving your body. Get sexy with it, I dare you.\n\nCollec..."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbdc07375",
+    "url": "https://warpcast.com/adrienne/0xbdc07375",
+    "author_username": "adrienne",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-02-12T12:33:13.000Z",
+    "text": "Painting the timeline red to celebrate the SHAKE remix which is dropping tomorrow \n\nShake for mental health\nShake because it’s sexy\nShake because it just feels good \n\nLearn more: https://www.sound.xyz/chicbangs/shake-custom-model-remix?referral_source=link\n\nGet involved (permissionlessly): paint your timeline red",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fcc0211e-6735-4ceb-69dd-cba021d08a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 148995,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 992,
+            "height_px": 1240
+          }
+        }
+      },
+      {
+        "url": "https://www.sound.xyz/chicbangs/shake-custom-model-remix?referral_source=link",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://d2i9ybouka0ieh.cloudfront.net/audio-transcoded/41ecd576-5530-4508-a737-7b17f097301e/AUDIO_128K/9451801-5103473-Chic_Bangs_-_Shake__Custom_Model_Remix_.m4a",
+            "favicon": "/favicon-32x32.png",
+            "ogAudio": "https://d2i9ybouka0ieh.cloudfront.net/audio-transcoded/41ecd576-5530-4508-a737-7b17f097301e/AUDIO_128K/9451801-5103473-Chic_Bangs_-_Shake__Custom_Model_Remix_.m4a",
+            "ogImage": [
+              {
+                "url": "https://opengraph.sound.xyz/v1/release/a5760483-29df-4abd-ae17-e1e6e25e9b20"
+              }
+            ],
+            "ogTitle": "Chic Bangs - SHAKE (Custom Model Remix)",
+            "ogLocale": "en",
+            "ogSiteName": "Chic Bangs - SHAKE (Custom Model Remix)",
+            "ogDescription": "Sometimes you just gotta shake shit outta your system. This remix is the perfect dark and moody vibe for moving your body. Get sexy with it, I dare you.\n\nCollec..."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x471d87e0",
+    "url": "https://warpcast.com/jake/0x471d87e0",
+    "author_username": "jake",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 1020,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fed61627-c883-4842-d3ed-f487fadfd800/original",
+    "cast_date": "2025-02-12T01:58:08.000Z",
+    "text": "rocking this red pfp for the next 24 hours for chic bangs\n\ngotta get that shake",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5328,
+          "hash": "0xeaee3e631354d8c990065a97ae3b0d70305d98f7"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xeaee3e631354d8c990065a97ae3b0d70305d98f7",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5328,
+            "username": "chicbangs.eth",
+            "display_name": "Chic Bangs",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70e637f2-ddb4-4fd0-e56e-35bc44605a00/original",
+            "custody_address": "0xb3c00e770ce7423ab88664367c4d9f741e13b9ad"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xeaee3e631354d8c990065a97ae3b0d70305d98f7",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "🌹 ATTENTION PLEASE\n\nIf you've been summoned to PAINT THE TIMELINE RED, let it rip!\n(if you haven't and wanna join the fun, link in replies)\n\nWe are celebrating the 'SHAKE' Remix drop, with style ofc. This is a dark & moody twist on the original and the perfect excuse to dance. Maybe get a little sexy with it? It's infused with the uhh's you need to tap into your primal self. I'm very excited for you to hear it.\n\nPRESALE goes live tomorrow, Wednesday Feb. 12th at High Noon MST / 2pm EST. If you collected the original 'SHAKE' or 'Get Up' on soundxyz, you're on the allowlist.\n\nCollectors will receive priority access to future drops and 'Shake for Mental Health' activations. One lucky collector will receive an additional 1/1 art drop and 2,000 $higher. \n\nA heartfelt thank you for supporting onchain musicians.\nLet's shake things up, shall we? \n\n🌹 xo, chic\nhttps://www.sound.xyz/chicbangs/shake-custom-model-remix?referral_source=link",
+          "timestamp": "2025-02-12T01:45:53.000Z",
+          "embeds": [
+            {
+              "url": "https://www.sound.xyz/chicbangs/shake-custom-model-remix?referral_source=link",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://d2i9ybouka0ieh.cloudfront.net/audio-transcoded/41ecd576-5530-4508-a737-7b17f097301e/AUDIO_128K/9451801-5103473-Chic_Bangs_-_Shake__Custom_Model_Remix_.m4a",
+                  "favicon": "/favicon-32x32.png",
+                  "ogAudio": "https://d2i9ybouka0ieh.cloudfront.net/audio-transcoded/41ecd576-5530-4508-a737-7b17f097301e/AUDIO_128K/9451801-5103473-Chic_Bangs_-_Shake__Custom_Model_Remix_.m4a",
+                  "ogImage": [
+                    {
+                      "url": "https://opengraph.sound.xyz/v1/release/a5760483-29df-4abd-ae17-e1e6e25e9b20"
+                    }
+                  ],
+                  "ogTitle": "Chic Bangs - SHAKE (Custom Model Remix)",
+                  "ogLocale": "en",
+                  "ogSiteName": "Chic Bangs - SHAKE (Custom Model Remix)",
+                  "ogDescription": "Sometimes you just gotta shake shit outta your system. This remix is the perfect dark and moody vibe for moving your body. Get sexy with it, I dare you.\n\nCollec..."
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8f1a0f74",
+    "url": "https://warpcast.com/bradq/0x8f1a0f74",
+    "author_username": "bradq",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-02-11T16:51:39.000Z",
+    "text": "** Rewards Leaderboard Results **\n\n* The algo tweak brings back 2 newer accounts into the top 10\n@artbysalman been here just 2 weeks w/ a top 25 & #2 this week!\n@kaie has been here a month & jumps to #6\n\n* The merklization of @ted & @woj opened 2 new spots in the top 10 & @frvnk took advantage at #7 (first top 10), & @amaliee.eth at #10....but merklizing woj didn't stop superanon from owning the top spot again!\n\n* @swampnet is camping & cashing at #5 again--2 in a row\n\n* #11-30 now cash $100 & first appearances for @erica #17, @avaaaaart #20, & @yonfrula #30\n\n* This was the first week that paid 1,000 spots so we should see a lot more first timers posting their first reward, so let's celebrate with them when we see their posts.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7b800e49-0083-4fbb-e2ed-eba271ecf100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 207900,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 820,
+            "height_px": 1216
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb725deab",
+    "url": "https://warpcast.com/yes2crypto.eth/0xb725deab",
+    "author_username": "yes2crypto.eth",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 214447,
+    "author_pfp": "https://i.imgur.com/dBoVmnG.jpg",
+    "cast_date": "2025-02-11T12:56:43.000Z",
+    "text": "One the coolest things about the Warpcast Rewards leaderboard is you can find neat new content to follow.\n\nThe second coolest thing is that by following them, you reduce their multiplier for few followers and hopefully bring them down a notch.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x84f1000d",
+    "url": "https://warpcast.com/anonpapi.eth/0x84f1000d",
+    "author_username": "anonpapi.eth",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 9933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/73624966-027e-43f7-82f9-d7ce481dda00/rectcrop3",
+    "cast_date": "2025-02-11T02:19:34.000Z",
+    "text": "Every day I check the my position on the Warpcast leaderboard. Bad position.\n\nEvery day, open app. Same names. Same order. Android Sixteen still there, still posting bangers.\n\nI can’t take this anymore. I need to MOVE up the leaderboard. \n\nCan devs DO SOMETHING??",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3713824e-3dd9-4bea-9e5f-1ed956286700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 79070,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 720,
+            "height_px": 1280
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x58f8d1ce",
+    "url": "https://warpcast.com/jessepollak/0x58f8d1ce",
+    "author_username": "jessepollak",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-02-11T17:17:18.000Z",
+    "text": "just got $300 for farcaster rewards \n\nreply with something quick and cool you'd do with $50 to bring someone new onchain or grow the ecosystem\n\nwill send out $50 to best ideas until I run out",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x34c56f11",
+    "url": "https://warpcast.com/tldr/0x34c56f11",
+    "author_username": "tldr",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c8a5399-3ae5-4994-a9fe-d1e6c5ebc600/original",
+    "cast_date": "2025-02-11T21:06:12.000Z",
+    "text": "\"Let's ship it during Stimmy Hour\"",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x45006bba57085d7ea982ae35c72a9b0f59daa87a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x45006bba57085d7ea982ae35c72a9b0f59daa87a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x45006bba57085d7ea982ae35c72a9b0f59daa87a",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Pro Tip: Tuesdays around 1pm Pacific is a perfect time to launch something onchain.\n\nWarpcast Rewards get sent starting at 8:30am Pacific and finish around 1pm Pacific.\n\n1,000 hyper active Farcaster users with a funded wallet and a propensity to talk about what their doing onchain.",
+          "timestamp": "2025-02-11T20:35:01.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xea62263e",
+    "url": "https://warpcast.com/mazmhussain/0xea62263e",
+    "author_username": "mazmhussain",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 758919,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e95b6f64-1d2d-4ac2-1d50-d2c9304e0100/original",
+    "cast_date": "2025-02-12T03:57:10.000Z",
+    "text": "Warpcast Rewards just paid my electricity bill.\n\nWe should make commercials like those sponsoring children in third world countries. “Just $30 of Warcast Rewards a week can save…”",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 7637,
+          "hash": "0x42f5a6076c0987ab00e87f007e3b4c706b00ed10"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x42f5a6076c0987ab00e87f007e3b4c706b00ed10",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 7637,
+            "username": "aaronrferguson",
+            "display_name": "aferg",
+            "pfp_url": "https://i.imgur.com/Zp7vXPu.jpg",
+            "custody_address": "0x956b61eaffd4c8b7a712a2ed2b88d30d203078fe"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x42f5a6076c0987ab00e87f007e3b4c706b00ed10",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Warpcast Rewards got me drunk hows that for utility",
+          "timestamp": "2025-02-12T01:36:18.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdd1465ad",
+    "url": "https://warpcast.com/horsefacts.eth/0xdd1465ad",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2025-02-12T01:30:21.000Z",
+    "text": "FC paperhands do NOTHING BUT DUMP! As SOON AS REWARDS WENT OUT you scrubs spent ALL DAY DUMPING your beautiful stablecoins for ETH!! Not very USDC-aligned!!!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f90f310f-193f-43b9-7845-87dbb24e3900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 18768,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 468,
+            "height_px": 132
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2b040984",
+    "url": "https://warpcast.com/ted/0x2b040984",
+    "author_username": "ted",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-02-11T22:30:53.000Z",
+    "text": "yoooo @jessyjeanne, @afrochicks and @swampnet started a warpcast rewards train on twitter. love to see the girls winning. choo choo mf.\n\nps add your own screenshots :) \n\nhttps://x.com/swampnet/status/1889378691756523715?s=46&t=rxAVkMPnT_8alZYrwLqp6g",
+    "embeds": [
+      {
+        "url": "https://x.com/swampnet/status/1889378691756523715?s=46&t=rxAVkMPnT_8alZYrwLqp6g",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/swampnet/status/1889378691756523715",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">getting paid $$$ every week only for posting content on <a href=\"https://twitter.com/farcaster_xyz?ref_src=twsrc%5Etfw\">@farcaster_xyz</a> - so cool <a href=\"https://t.co/U5ITpNVC4u\">https://t.co/U5ITpNVC4u</a> <a href=\"https://t.co/Wquay7Mlts\">pic.twitter.com/Wquay7Mlts</a></p>&mdash; swampnet (on farcaster) (@swampnet) <a href=\"https://twitter.com/swampnet/status/1889378691756523715?ref_src=twsrc%5Etfw\">February 11, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/swampnet",
+              "author_name": "swampnet (on farcaster)",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x53d19fc0",
+    "url": "https://warpcast.com/justindrake/0x53d19fc0",
+    "author_username": "justindrake",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 7596,
+    "author_pfp": "https://i.imgur.com/87jZlLv.jpg",
+    "cast_date": "2025-02-11T13:13:29.000Z",
+    "text": "The Ethereum Foundation research team will host a Reddit AMA on Feb 25 at 2pm UTC.\n\nGot questions, casters? Submit them now :) https://docs.google.com/forms/d/e/1FAIpQLSf6RCK2bNxMkCfmlzXYtA8upnT6DJjOK52RU65XP_Q1TNoanw/viewform",
+    "embeds": [
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf6RCK2bNxMkCfmlzXYtA8upnT6DJjOK52RU65XP_Q1TNoanw/viewform",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf6RCK2bNxMkCfmlzXYtA8upnT6DJjOK52RU65XP_Q1TNoanw/viewform?usp=embed_facebook",
+            "ogType": "article",
+            "favicon": "https://ssl.gstatic.com/docs/spreadsheets/forms/favicon_qp2.png",
+            "ogImage": [
+              {
+                "url": "https://lh3.googleusercontent.com/9pHfHfSxuIhB8R8WaG8n-4h6_GVBM6tqTEbY6-jr3ZpvH5gCiJVhvp410477M3zvEkd-SWqBkWsrt2c=w1200-h630-p",
+                "width": "200",
+                "height": "200"
+              }
+            ],
+            "ogTitle": "EF research AMA (Feb 25)",
+            "ogLocale": "en",
+            "ogSiteName": "Google Docs",
+            "ogDescription": "Submit questions ahead of the Reddit AMA on February 25 @ 2pm UTC"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x089ef781",
+    "url": "https://warpcast.com/rileybeans/0x089ef781",
+    "author_username": "rileybeans",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 3112,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2ada1cf2-5041-4c32-1ad9-3c073c0d0100/original",
+    "cast_date": "2025-02-10T17:33:42.000Z",
+    "text": "well, its here.\n\ntl;dr - refocusing my work elsewhere for an indefinite time. here's why:\n\nhttps://rileybeans.mirror.xyz/VmTyrX5IUcz7vNBZrRGtXp92cGX69-wljPR2QawAxs4",
+    "embeds": [
+      {
+        "url": "https://rileybeans.mirror.xyz/VmTyrX5IUcz7vNBZrRGtXp92cGX69-wljPR2QawAxs4",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://images.mirror-media.xyz/nft/53UmzWoN-MW5KXxgu8g5e.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "The Chaotic Moral Compass Accelerates",
+            "ogDescription": "Listen to the Google NotebookML Deep Dive podcast of this piece. Or create your own.\n"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa252113a",
+    "url": "https://warpcast.com/adrienne/0xa252113a",
+    "author_username": "adrienne",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-02-09T18:58:40.000Z",
+    "text": "I took a one month break from writing but I'm back. \n\n@kmacb.eth I included an update on my AI bot.  I do plan on compiling all my notes into a single blog post. Someday. I promise.\n\nI also wrote about all kinds of other random things.\n\nhttps://open.substack.com/pub/someofthethings/p/too-many-things?r=jgz3m&utm_campaign=post&utm_medium=web",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fe9ed57d-fb96-4d72-47a0-61cd0a2cf600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 483671,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 800,
+            "height_px": 800
+          }
+        }
+      },
+      {
+        "url": "https://open.substack.com/pub/someofthethings/p/too-many-things?r=jgz3m&utm_campaign=post&utm_medium=web",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://someofthethings.substack.com/p/too-many-things",
+            "ogType": "article",
+            "favicon": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F58d54545-60d1-41c7-97e5-4fa0f7bd243b%2Ffavicon.ico",
+            "ogImage": [
+              {
+                "url": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6f0d23c-e93a-4cab-901e-8b97472a2199_5712x4284.jpeg",
+                "type": "jpeg"
+              }
+            ],
+            "ogTitle": "Too many things",
+            "ogLocale": "en",
+            "ogDescription": "Favorite art, yoga retreat, AI bot updates"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaf85b74a",
+    "url": "https://warpcast.com/ceej/0xaf85b74a",
+    "author_username": "ceej",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 292642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d62d96b4-f4b0-4f46-e0b6-1475b6f3ab00/original",
+    "cast_date": "2025-02-10T16:54:37.000Z",
+    "text": "jessy is right i got over 1k story views and tons of dms from just posting text about farcaster on IG",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3abe0df8-c939-42f0-08e9-5d4c03784400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 922901,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 924,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 12921,
+          "hash": "0xabd1c9ae10f0c63ef5866f1d7c480c60d055879e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xabd1c9ae10f0c63ef5866f1d7c480c60d055879e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12921,
+            "username": "jessyjeanne",
+            "display_name": "jessyfries",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3310718d-160a-4e5e-1d29-98cbb9fed200/original",
+            "custody_address": "0xe900b7d64450ca06eb8ac29b3a4ccd6fb7b0fd35"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xabd1c9ae10f0c63ef5866f1d7c480c60d055879e",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "u don’t necessarily need to create video content to bring more people on Farcaster:\n\n👉🏼 I used IG stories to talk about FC and the reward system, had plenty of ppl who were interested and I promised to gift one person a FC profile.\n\nppl started sending me DMs, some were already on Farcaster and didn’t even know how the reward thing works. \n\nwe probably need more communication around it",
+          "timestamp": "2025-02-10T14:32:09.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ebbccd44-70d7-4d6c-4a81-aeae0df1da00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 157867,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1112,
+                  "height_px": 2000
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d12e3c1f-5f9c-4b00-2755-e029bed75000/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 155170,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1179,
+                  "height_px": 1929
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa9d696c9",
+    "url": "https://warpcast.com/cadillion/0xa9d696c9",
+    "author_username": "cadillion",
+    "show_date": "2025-02-12",
+    "show_title": "GM Farcaster ep214 Wednesday February 12, 2025",
+    "source_episode_id": "o4dAPlM5d7w",
+    "author_fid": 12493,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0b3820ae-2458-4c70-ea56-80e15be1e800/rectcrop3",
+    "cast_date": "2025-02-10T16:04:15.000Z",
+    "text": "For anyone who wanted the Gentlemen Labs presentation from the DEGENNIVERSARY, feel free to check it out below. @jacek and I are super stoked to deliver on the potential of the DEGEN community and to build a stronger token and L3 together!\n\nhttps://docs.google.com/presentation/d/19cpswCoT1mb6h_alF6RzP4-c1FsDI0ACp1MbnD5AsBA/edit?usp=sharing",
+    "embeds": [
+      {
+        "url": "https://docs.google.com/presentation/d/19cpswCoT1mb6h_alF6RzP4-c1FsDI0ACp1MbnD5AsBA/edit?usp=sharing",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://docs.google.com/presentation/d/19cpswCoT1mb6h_alF6RzP4-c1FsDI0ACp1MbnD5AsBA/edit?usp=sharing&usp=embed_facebook",
+            "ogType": "article",
+            "favicon": "https://ssl.gstatic.com/docs/presentations/images/favicon-2023q4.ico",
+            "ogImage": [
+              {
+                "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyK8Zxw06vEX1XJUwd4nKY62K_l348D27KhI7Y7Dd2SgVP5vYlXtXefz5BMGLM11SFKuU4SOel6x0Lu7Wuc5YfKk4uBVcL2R4WfUZ1PbdAHYs63QZ54C=w1200-h630-p",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Degenniversary Presentation",
+            "ogLocale": "en",
+            "ogSiteName": "Google Docs",
+            "ogDescription": "DEGENNIVERSARY CELEBRATING ONE YEAR WITH THE ON"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

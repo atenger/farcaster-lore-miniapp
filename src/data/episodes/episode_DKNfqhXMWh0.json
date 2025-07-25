@@ -1,0 +1,794 @@
+[
+  {
+    "cast_hash": "0x71fe85c2",
+    "url": "https://warpcast.com/kazi/0x71fe85c2",
+    "author_username": "kazi",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 2134,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eab832c8-b9ef-49cb-f8b4-90fe4311c200/original",
+    "cast_date": "2024-08-11T17:08:36.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/27b6c6c0-5077-422e-d98e-fd54cfcd1500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 28350,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 897,
+            "height_px": 512
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc549a16d",
+    "url": "https://warpcast.com/stephancill/0xc549a16d",
+    "author_username": "stephancill",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 1689,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/64c851c0-2036-4629-ead7-ae60bfc62500/original",
+    "cast_date": "2024-08-10T01:04:48.000Z",
+    "text": "introducing Stories - a farcaster-native stories app\n\n- each post expires after 24 hours\n- composer action for posting new stories (in review)\n- frames for viewing stories (see below)\n- sign in with farcaster on stories.steer.fun for same functionality as composer action\n\nplanned:\n- basic editing tools\n- standalone (probably native) app easier browsing stories of the people you follow\n\nit's 3am and claude has been carrying me hard to get this over the line today 😮‍💨\n\nhttps://stories.steer.fun/frames/stories/stephancill",
+    "embeds": [
+      {
+        "url": "http://stories.steer.fun",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://stories.steer.fun/og.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Stories",
+            "ogLocale": "en"
+          }
+        }
+      },
+      {
+        "url": "https://stories.steer.fun/frames/stories/stephancill",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://stories.steer.fun/frames?url=https%3A%2F%2Fstories.steer.fun%2Fframes%2Fstories%2Fstephancill&__framesjs_jsx=true"
+              }
+            ],
+            "ogTitle": "stephancill's Story"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8da836de",
+    "url": "https://warpcast.com/missangel/0x8da836de",
+    "author_username": "missangel",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 19105,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d39e1c0d-ca21-43b1-eaf8-5aac859dea00/original",
+    "cast_date": "2024-08-11T18:21:24.000Z",
+    "text": "Just found out my Farcaster personality—what do you think? Check yours next!",
+    "embeds": [
+      {
+        "url": "https://farcaster-personality.farcasterpicker.xyz/?action=share-rkyWc19105missangel-page1",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://farcaster-personality.farcasterpicker.xyz/ResImages/rkyWc19105missangel-Page11736561942.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "Farcaster Personality",
+            "ogDescription": "Farcaster Personality"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb4f4fb15",
+    "url": "https://warpcast.com/dwr.eth/0xb4f4fb15",
+    "author_username": "dwr.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-08-09T22:29:29.000Z",
+    "text": "Introducing Explore\n\n- A new way to discover apps, actions and frames on Farcaster\n- Learn more about apps that use Sign in with Farcaster\n- Quick access to actions and frames\n- Begin by tapping on the globe icon (where trending was)\n- Live on mobile, coming soon to web\n- Developers can submit their app to be listed",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/5e740b17679979e73c36b731689efd71.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1440,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 960,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 320,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 23.2
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3cfb1a24",
+    "url": "https://warpcast.com/dwr.eth/0x3cfb1a24",
+    "author_username": "dwr.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-08-10T17:05:06.000Z",
+    "text": "Update\n\n- we’ve had a bunch of submissions already!\n\n- team is taking some well-deserved time off this weekend\n\n- we will start going through the submissions on Monday\n\n- depending on sustained interest, we will automate more of the process and use the app / DCs vs. external form\n\n- aware that form asks for 3 images and we only have one. Will fix later today.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xb8adb01c8d60b0980e8b85f44c7e9ebb5569daa4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb8adb01c8d60b0980e8b85f44c7e9ebb5569daa4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb8adb01c8d60b0980e8b85f44c7e9ebb5569daa4",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-devs",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-devs",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "How do I submit my app for Explore?\n\nIf you have an app that uses Sign in with Farcaster, a composer action or a frame, you can submit it for listing.\n\nWe included a variety of apps, actions and frames for launch, but we know we missed some. So don’t hesitate to submit and ping me via direct cast. We will add a bunch of submissions early next week.\n\nLearn how to submit here:\n\nhttps://warpcast.notion.site/Explore-Farcaster-dec77bfdda9d49b8aeb5746bf5f40e48",
+          "timestamp": "2024-08-09T22:29:34.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5984af0a-976d-433f-f6a6-447db04b2400/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 169146,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1200,
+                  "height_px": 712
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-devs",
+            "name": "Farcaster Devs",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a0a4802-6819-47ee-2c3b-29b681d7c500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa2e2dedd",
+    "url": "https://warpcast.com/dwr.eth/0xa2e2dedd",
+    "author_username": "dwr.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-08-11T00:04:22.000Z",
+    "text": "For developers\n\nLooking for feedback on Sign in with Farcaster. \n\nBesides support for other clients like Supercast and Herocast, what’s the biggest pain point? What’s confusing? What do you wish existed?\n\nThe more specific, the better.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0071f33b",
+    "url": "https://warpcast.com/horsefacts.eth/0x0071f33b",
+    "author_username": "horsefacts.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2024-08-11T16:35:58.000Z",
+    "text": "If you're having issues with the latest mobile app version (action buttons, recast, or other prompts not responding), can you share your device, OS, and app version? Trying to track this down. (You can DM too).",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 234616,
+          "hash": "0xf7ce465b72f6bb09386fbba680adeb39de5cc895"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf7ce465b72f6bb09386fbba680adeb39de5cc895",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 234616,
+            "username": "pichi",
+            "display_name": "Pichi",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/343ce6bb-b2d3-4f7c-1359-deba9af91000/original",
+            "custody_address": "0xde43b2cf9a13d8a10aa74b62d0bb8825e5ef1286"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf7ce465b72f6bb09386fbba680adeb39de5cc895",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Bug reports:\nDesktop no issues. On iPhone, my composer action button no longer works, I can’t recast, I can’t use the cast action button and I can’t choose a channel for a new cast. Can’t cancel a draft I’m composing either.",
+          "timestamp": "2024-08-10T16:10:24.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.warpcast.com/v1/video/3553f0ec53b53a5658202e365c67db5d.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "codec_name": "h264",
+                      "height_px": 1560,
+                      "width_px": 720
+                    },
+                    {
+                      "codec_name": "h264",
+                      "height_px": 1040,
+                      "width_px": 480
+                    },
+                    {
+                      "codec_name": "h264",
+                      "height_px": 780,
+                      "width_px": 360
+                    },
+                    {
+                      "codec_name": "h264",
+                      "height_px": 520,
+                      "width_px": 240
+                    }
+                  ],
+                  "duration_s": 13.89
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x60fb7ae6",
+    "url": "https://warpcast.com/dwr.eth/0x60fb7ae6",
+    "author_username": "dwr.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-08-11T21:20:22.000Z",
+    "text": "Lower priority feature requests\n\n- Pinned casts on profiles\n- Edit casts\n- Animated PFPs\n\nAll are nice to have features but don’t solve an immediate top priority",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa9c96b20",
+    "url": "https://warpcast.com/dwr.eth/0xa9c96b20",
+    "author_username": "dwr.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-08-11T00:05:52.000Z",
+    "text": "Trying a new policy\n\nReplying to every cast of mine with mid replies will earn you a mute.\n\nBest part is you won’t know if you’re muted.\n\nSo be thoughtful (or at least funny).",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc96cea5b",
+    "url": "https://warpcast.com/baubergo-/0xc96cea5b",
+    "author_username": "baubergo-",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 337018,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7383fe03-df71-4784-9f90-5c1cd7e68a00/original",
+    "cast_date": "2024-08-11T21:25:48.000Z",
+    "text": "clearly a trap",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cb2f789d-a688-4a22-f399-eecc3920ac00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 16557,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 384,
+            "height_px": 147
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xe2676a0d3e9b89a55802ca0a1c40cd5ca5a8abe7"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe2676a0d3e9b89a55802ca0a1c40cd5ca5a8abe7",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe2676a0d3e9b89a55802ca0a1c40cd5ca5a8abe7",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Sunday AMA",
+          "timestamp": "2024-08-11T20:27:50.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x84a401bf",
+    "url": "https://warpcast.com/lampphotography/0x84a401bf",
+    "author_username": "lampphotography",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 12626,
+    "author_pfp": "https://i.imgur.com/v9Sk7SF.jpg",
+    "cast_date": "2024-08-11T15:14:37.000Z",
+    "text": "The perils of Warpcast this month...",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4a500b8c-9271-4592-d977-d1f477e03200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 54787,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 577,
+            "height_px": 433
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x91ed1b42",
+    "url": "https://warpcast.com/linda/0x91ed1b42",
+    "author_username": "linda",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-08-12T04:24:29.000Z",
+    "text": "Spent the past 2 hours responding to Bountycaster questions. To keep things manageable for me, I need to add a hard stop on time answering questions to 10 min total for each post (this was my norm before Moxie meta). Prioritizing most frequently asked questions and from active Bountycaster users going forward 🙏",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 12,
+          "hash": "0x0f7bdf31ac0785c04833c5ca983dc85b4e1b52fa"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0f7bdf31ac0785c04833c5ca983dc85b4e1b52fa",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12,
+            "username": "linda",
+            "display_name": "Linda Xie",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+            "custody_address": "0xb43575d58c49d2be880e0f821ddf51d15c13c376"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0f7bdf31ac0785c04833c5ca983dc85b4e1b52fa",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/moxie",
+          "root_parent_url": "https://warpcast.com/~/channel/moxie",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Feature request: ability to turn off Moxie rewards for some of my casts\n\nI've always tried to respond to Bountycaster questions when we have a feature announcement but the Moxie meta has blown up # of questions I get on each post *overnight* from usual 5-10 min of answering questions to easily hours (feels endless)",
+          "timestamp": "2024-08-12T04:09:50.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "moxie",
+            "name": "Moxie Protocol",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/07f323a6-c1ca-49c3-de26-a418590cb600/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x86873c99",
+    "url": "https://warpcast.com/boscolo.eth/0x86873c99",
+    "author_username": "boscolo.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 1898,
+    "author_pfp": "https://i.seadn.io/gcs/files/7afc1e009da12d3ee58b20bfbd5cac45.png?w=500&auto=format",
+    "cast_date": "2024-08-09T21:56:41.000Z",
+    "text": "Bluesky has more users than Farcaster and is also sufficiently decentralized.\n\nWhat is the best argument for why devs should build on Farcaster instead of Bluesky?",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x7fc5d9e7923c46a652390ba84582b60c41d6ddc9"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7fc5d9e7923c46a652390ba84582b60c41d6ddc9",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7fc5d9e7923c46a652390ba84582b60c41d6ddc9",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "A lot of complaints recently that Farcaster doesn't have enough \"beef\".\n\nI'm happy to fight with you.",
+          "timestamp": "2024-08-08T20:55:03.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd2b678d0",
+    "url": "https://warpcast.com/mazmhussain/0xd2b678d0",
+    "author_username": "mazmhussain",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 758919,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e95b6f64-1d2d-4ac2-1d50-d2c9304e0100/original",
+    "cast_date": "2024-08-12T00:22:24.000Z",
+    "text": "I actually like that there’s no beef on Warpcast; the people are much more civilized. The conflict-driven engagement model of other social media platforms had a profoundly negative social effect. It’s more constructive to incentivize people to converse with respect while steering clear of meltdowns and dunking.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8a553426",
+    "url": "https://warpcast.com/snickerdoodle/0x8a553426",
+    "author_username": "snickerdoodle",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 381100,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd5b2afc-f217-434f-9efc-98ad5d32a900/original",
+    "cast_date": "2024-08-12T03:49:52.000Z",
+    "text": "We're excited to see a lot of you in Toronto this week. Stop by and say hi at happy hour Tuesday!",
+    "embeds": [
+      {
+        "url": "https://events.xyz/events/5255dd",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/api/frames/events/5255dd/img/no_rsvp"
+              }
+            ],
+            "ogTitle": "farIRL TO - Happy Hour",
+            "ogLocale": "en",
+            "ogDescription": "FB Events for Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x91997fd2",
+    "url": "https://warpcast.com/saramel/0x91997fd2",
+    "author_username": "saramel",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 487853,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/62e71eb7-1dc8-48f6-1280-dd6d05cad200/original",
+    "cast_date": "2024-08-12T03:56:16.000Z",
+    "text": "And let's meet up for coffee the next morning. See you soon!",
+    "embeds": [
+      {
+        "url": "https://beta.events.xyz/events/ae9f47eb",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/api/frames/events/ae9f47eb/img/no_rsvp"
+              }
+            ],
+            "ogTitle": "farIRL TO - Coffee Meet up",
+            "ogLocale": "en",
+            "ogDescription": "FB Events for Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbf61660f",
+    "url": "https://warpcast.com/dawufi/0xbf61660f",
+    "author_username": "dawufi",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 6806,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/406101e5-2c23-4890-e6c9-26fc2dc03600/original",
+    "cast_date": "2024-08-02T14:26:30.000Z",
+    "text": "it is, with great fanfare - i'm pumped af to announce I have joined forces with @eulerlagrange.eth and am now the official vibe architect for /opacity \n\nfirst stop - /new-york for /sbc next week - comin in hot\n\nDCs open as always, but now specifically if your product needs zk verified web2 data\n\nLFG",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8492f12c",
+    "url": "https://warpcast.com/downshift.eth/0x8492f12c",
+    "author_username": "downshift.eth",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 243719,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb5dd0ae-1541-4ace-5084-a5324bfdaf00/original",
+    "cast_date": "2024-08-07T15:15:23.000Z",
+    "text": "microsub is insurance against your tipping allowance going to waste.\n\ntip as usual, or not at all; before your allowance resets, microsub will tip any remaining $DEGEN and HAM to the creators of your choosing for you, automatically.\n\nset it and forget it: follow @microsub, & nominate creators using the frame below 👇",
+    "embeds": [
+      {
+        "url": "https://microsub.me?cb=a9d73jd8",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://microsub.me",
+            "ogType": "website",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://i.imgur.com/k3VjdCj.png",
+                "type": "png",
+                "width": "1920",
+                "height": "1005"
+              }
+            ],
+            "ogTitle": "microsub.",
+            "ogLocale": "en-US",
+            "ogSiteName": "microsub.",
+            "ogDescription": "microsub is the easiest way to support your favorite creators on Farcaster."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0ee0449c",
+    "url": "https://warpcast.com/nounishprof/0x0ee0449c",
+    "author_username": "nounishprof",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-08-11T21:29:52.000Z",
+    "text": "Amazing! Thanks Title IX! 🥇 \n\nhttps://www.nbcnews.com/news/us-news/world-beaters-women-athletes-ruled-olympics-rcna166149",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e6eb82b8-6bfa-4b7a-8680-0fcd8c19ea00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 138584,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 1863
+          }
+        }
+      },
+      {
+        "url": "https://www.nbcnews.com/news/us-news/world-beaters-women-athletes-ruled-olympics-rcna166149",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.nbcnews.com/news/us-news/world-beaters-women-athletes-ruled-olympics-rcna166149",
+            "ogDate": "2024-08-11T19:55:52.345Z",
+            "ogType": "article",
+            "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-08/240811-simone-biles-vl-237p-adc8e8.jpg",
+                "type": "image/jpeg",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "World beaters: Women athletes ruled the Olympics",
+            "ogLocale": "en_US",
+            "ogSiteName": "NBC News",
+            "ogDescription": "The Paris Games were the first to have an equal number of men and women competing. If American women were their own nation, they would have won the third most medals, behind only the U.S. and China."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9ac19682",
+    "url": "https://warpcast.com/pugson/0x9ac19682",
+    "author_username": "pugson",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "author_fid": 557,
+    "author_pfp": "https://i.seadn.io/gae/5hjYfRyqiRJV4EQ7ieSJrmb1LtO_vcAvREXSqnlY4HXXBsvgh1vumOwj5e4GwGhppEU2jLC9qJHEgEkaJ9V_B02jIFY9XmzgK1_F?w=500&auto=format",
+    "cast_date": "2024-08-10T23:01:47.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4c58318f-a888-434f-daa7-dde184ad8900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 15880,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 556,
+            "height_px": 436
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x800a3be6",
+    "url": "https://warpcast.com/tako-unik/0x800a3be6",
+    "author_username": "tako-unik",
+    "show_date": "2024-08-14",
+    "show_title": "GM Farcaster Ep141 Monday August 12, 2024 with guest cohost @dawufi",
+    "source_episode_id": "DKNfqhXMWh0",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  }
+]

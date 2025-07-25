@@ -1,0 +1,1989 @@
+[
+  {
+    "cast_hash": "0xafd1dcc6",
+    "url": "https://warpcast.com/jc4p/0xafd1dcc6",
+    "author_username": "jc4p",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 977233,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+    "cast_date": "2025-03-11T15:39:03.000Z",
+    "text": "Forgot to link the actual frame, it's a \"Linktree\" but \"FarTree\" (not \"Fartree\" cause @keccers.eth said that was Fart-ee)\n\nI'd LOVE for people to remix and make their own, should take around 20 min to do. Replit: https://replit.com/@jc4p/fartree-template#README.md\n\nhttps://fartree.kasra.codes/",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 977233,
+          "hash": "0xb55c3c31ef47ffbb96a864743b1c5b7c355af57c"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb55c3c31ef47ffbb96a864743b1c5b7c355af57c",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 977233,
+            "username": "jc4p",
+            "display_name": "Kasra Rahjerdi",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+            "custody_address": "0xa67ba0281231eb9e2ea4cf97894c0b0b5b801cc6"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb55c3c31ef47ffbb96a864743b1c5b7c355af57c",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Hi, my goal for this video was to show that anyone who knows basic HTML/CSS can make a Frame.\n\nI don't really believe that anymore. But maybe.\n\nReplit ready for remixing: https://replit.com/@jc4p/fartree-template?v=1#README.md\n\nhttps://www.youtube.com/watch?v=kcCA7WUijNU",
+          "timestamp": "2025-03-09T23:17:38.000Z",
+          "embeds": [
+            {
+              "url": "https://www.youtube.com/watch?v=kcCA7WUijNU",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "undefined",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/kcCA7WUijNU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Frame Replit Walkthrough\"></iframe>",
+                    "type": "video",
+                    "title": "Frame Replit Walkthrough",
+                    "width": 200,
+                    "height": 113,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@krahjerdi",
+                    "author_name": "Kasra Rahjerdi",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/kcCA7WUijNU/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "favicon": "https://www.youtube.com/s/desktop/79b1043f/img/logos/favicon.ico",
+                  "ogTitle": " - YouTube",
+                  "ogLocale": "en",
+                  "ogDescription": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://fartree.kasra.codes/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 2523,
+          "_status": "RESOLVED",
+          "html": {
+            "ogTitle": "Kasra's Far Tree Profile",
+            "fcFrame": {
+              "button": {
+                "title": "Get To Know Me",
+                "action": {
+                  "url": "https://fartree-jc4p.replit.app",
+                  "name": "Fartree: Kasra",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://fartree-jc4p.replit.app/splash_image.png",
+                  "splashBackgroundColor": "#eecdbb"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://fartree-jc4p.replit.app/image.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Get To Know Me",
+            "image": "https://fartree-jc4p.replit.app/image.png",
+            "frames_url": "https://fartree.kasra.codes/"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2f7a0642",
+    "url": "https://warpcast.com/jc4p/0x2f7a0642",
+    "author_username": "jc4p",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 977233,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+    "cast_date": "2025-03-09T05:16:42.000Z",
+    "text": "fam in ~18 hours we'll have 157 million casts with embeddings, pray for me it doesn't crash overnight",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ca052b66-29ff-4f98-09be-f0d0f72a0b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 389813,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1067,
+            "height_px": 1122
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x81dfcf4a",
+    "url": "https://warpcast.com/jc4p/0x81dfcf4a",
+    "author_username": "jc4p",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 977233,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+    "cast_date": "2025-02-15T03:38:31.000Z",
+    "text": "Check out my signature cocktails!",
+    "embeds": [
+      {
+        "url": "https://farcaster-videos.kasra.codes/cocktails-share-977233-2025-02-15T03-38-24-630Z.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 186234,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://cocktails.kasra.codes",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/vite.svg",
+            "ogTitle": "What Cocktail Are You?",
+            "ogLocale": "en",
+            "fcFrame": {
+              "button": {
+                "title": "Find Your Cocktails",
+                "action": {
+                  "url": "https://cocktails.kasra.codes",
+                  "name": "Casts & Cocktails",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://cover-art.kasra.codes/cocktails-icon-512.png",
+                  "splashBackgroundColor": "#141311"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://cover-art.kasra.codes/cocktails-image.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Find Your Cocktails",
+            "image": "https://cover-art.kasra.codes/cocktails-image.png",
+            "frames_url": "https://cocktails.kasra.codes/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 977233,
+              "username": "jc4p",
+              "display_name": "Kasra Rahjerdi",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+              "custody_address": "0xa67ba0281231eb9e2ea4cf97894c0b0b5b801cc6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjk3NzIzMywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGE2N0JhMDI4MTIzMWVCOUUyZWE0Y0Y5Nzg5NGMwYjBiNUI4MDFDYzYifQ",
+                "payload": "eyJkb21haW4iOiJjb2NrdGFpbHMua2FzcmEuY29kZXMifQ",
+                "signature": "MHgzMzI2YTJkYjZkZjFmNjY3OWEwMWYxY2NiZWE1NTUyZTYyZDAzYmE3MTFjYWI4Yzk2YzUwZWNkNTg3NGMwNzYwNWM4ZTk1ZjRhNTg4OGFhNTM2Y2JmMjYxNGY2MmIzZDllYzg2NDFlMjhkNzJhNTEzNjgzYzk0NGNkMzc3Mjg5YzFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Casts & Cocktails",
+                "home_url": "https://cocktails.kasra.codes",
+                "icon_url": "https://cover-art.kasra.codes/cocktails-icon-512.png",
+                "image_url": "https://cover-art.kasra.codes/cocktails-image.png",
+                "button_title": "Find My Cocktails",
+                "splash_image_url": "https://cover-art.kasra.codes/cocktails-icon-512.png",
+                "splash_background_color": "#141311"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Casts & Cocktails",
+                "home_url": "https://cocktails.kasra.codes",
+                "icon_url": "https://cover-art.kasra.codes/cocktails-icon-512.png",
+                "image_url": "https://cover-art.kasra.codes/cocktails-image.png",
+                "button_title": "Find My Cocktails",
+                "splash_image_url": "https://cover-art.kasra.codes/cocktails-icon-512.png",
+                "splash_background_color": "#141311"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xad94e005",
+    "url": "https://warpcast.com/jc4p/0xad94e005",
+    "author_username": "jc4p",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 977233,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+    "cast_date": "2025-02-21T01:40:44.000Z",
+    "text": "Today’s frame is… enneagrams! Yes we are just going go through every single personality measurement framework.\n\nFun fact: My actual type is Type 2, but i guess my public persona is enthusiastic!",
+    "embeds": [
+      {
+        "url": "https://enneagram.kasra.codes?fid=977233",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "https://cover-art.kasra.codes/enneagram-icon-512.png",
+            "ogTitle": "Enneagram Guesser",
+            "ogLocale": "en",
+            "ogDescription": "Discover your Enneagram type through your Farcaster presence",
+            "fcFrame": {
+              "button": {
+                "title": "Get Your Enneagram Type",
+                "action": {
+                  "url": "https://enneagram.kasra.codes?fid=977233",
+                  "name": "Enneagram Guesser",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://cover-art.kasra.codes/enneagram-icon-512.png",
+                  "splashBackgroundColor": "#FB8F9C"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://images.kasra.codes/enneagram/enneagram-977233-1740105757968.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Get Your Enneagram Type",
+            "image": "https://images.kasra.codes/enneagram/enneagram-977233-1740105757968.png",
+            "frames_url": "https://enneagram.kasra.codes/?fid=977233",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 977233,
+              "username": "jc4p",
+              "display_name": "Kasra Rahjerdi",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+              "custody_address": "0xa67ba0281231eb9e2ea4cf97894c0b0b5b801cc6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjk3NzIzMywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGE2N0JhMDI4MTIzMWVCOUUyZWE0Y0Y5Nzg5NGMwYjBiNUI4MDFDYzYifQ",
+                "payload": "eyJkb21haW4iOiJlbm5lYWdyYW0ua2FzcmEuY29kZXMifQ",
+                "signature": "MHhmZTlhYWZmZjQ3ZjNjZmExNmFiMjk0MmRmNjMyNWRmN2JkMDFlMWZjMTE2NzA4N2I2YjY0MGJkNmQwZDE4ZWM5N2YwYjRhNWQyMzI4YzEwYTFkZGE4N2UxMTAzYmZiOGZmNzUxY2M0YmVlNWUzMjZmOTU4MTRmY2I0ZWJlOGE1MjFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Enneagram Guesser",
+                "home_url": "https://enneagram.kasra.codes",
+                "icon_url": "https://cover-art.kasra.codes/enneagram-icon-512-square.png",
+                "image_url": "https://cover-art.kasra.codes/enneagram-icon-512-square.png",
+                "button_title": "Analyze My Enneagram",
+                "splash_image_url": "https://cover-art.kasra.codes/enneagram-icon-512.png",
+                "splash_background_color": "#FB8F9C"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Enneagram Guesser",
+                "home_url": "https://enneagram.kasra.codes",
+                "icon_url": "https://cover-art.kasra.codes/enneagram-icon-512-square.png",
+                "image_url": "https://cover-art.kasra.codes/enneagram-icon-512-square.png",
+                "button_title": "Analyze My Enneagram",
+                "splash_image_url": "https://cover-art.kasra.codes/enneagram-icon-512.png",
+                "splash_background_color": "#FB8F9C"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x92a2492a",
+    "url": "https://warpcast.com/jc4p/0x92a2492a",
+    "author_username": "jc4p",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 977233,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+    "cast_date": "2025-02-25T16:31:04.000Z",
+    "text": "hi good morning i’m here to kill your productivity, todays match 3 updates:\n\n- progress saving and reloading\n- swiping to move\n- ui feedback for wrong moves \n\ncoming up:\n\n- tournaments & minting\n- “a whole visual rinse”\n\nhttps://match-three.kasra.codes",
+    "embeds": [
+      {
+        "url": "https://match-three.kasra.codes",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/vite.svg",
+            "ogTitle": "Meme Coin Match Three",
+            "ogLocale": "en",
+            "fcFrame": {
+              "button": {
+                "title": "Play Now",
+                "action": {
+                  "url": "https://match-three.kasra.codes",
+                  "name": "Meme Coin Match Three",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://images.kasra.codes/match-3-logo.png",
+                  "splashBackgroundColor": "#64242e"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://images.kasra.codes/match-3-image.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Play Now",
+            "image": "https://images.kasra.codes/match-3-image.png",
+            "frames_url": "https://match-three.kasra.codes/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 977233,
+              "username": "jc4p",
+              "display_name": "Kasra Rahjerdi",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+              "custody_address": "0xa67ba0281231eb9e2ea4cf97894c0b0b5b801cc6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjk3NzIzMywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGE2N0JhMDI4MTIzMWVCOUUyZWE0Y0Y5Nzg5NGMwYjBiNUI4MDFDYzYifQ",
+                "payload": "eyJkb21haW4iOiJtYXRjaC10aHJlZS5rYXNyYS5jb2RlcyJ9",
+                "signature": "MHg4NGZkM2EwNGY4OTU4YjVjYWY1ZTk4ZjA3NzBlODc2OGVkYTgyYTEyZTkwNzc2ZDhkNzRiMDdjMjlkNzJiYjBhMjAxZmViY2I5ZTNhZmVlMzViZDRkZTJlMTBjYTYyMDg3ZGU0YjY0Y2ZjMzA3ZjI5NWFiMjBjMGYxMTQ3NzM2NDFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Meme Coin Match Three",
+                "home_url": "https://match-three.kasra.codes",
+                "icon_url": "https://images.kasra.codes/match-3-icon-padding.png",
+                "image_url": "https://images.kasra.codes/match-3-image.png",
+                "button_title": "Play Now",
+                "splash_image_url": "https://images.kasra.codes/match-3-logo.png",
+                "splash_background_color": "#64242e"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Meme Coin Match Three",
+                "home_url": "https://match-three.kasra.codes",
+                "icon_url": "https://images.kasra.codes/match-3-icon-padding.png",
+                "image_url": "https://images.kasra.codes/match-3-image.png",
+                "button_title": "Play Now",
+                "splash_image_url": "https://images.kasra.codes/match-3-logo.png",
+                "splash_background_color": "#64242e"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb55c3c31",
+    "url": "https://warpcast.com/jc4p/0xb55c3c31",
+    "author_username": "jc4p",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 977233,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+    "cast_date": "2025-03-09T23:17:38.000Z",
+    "text": "Hi, my goal for this video was to show that anyone who knows basic HTML/CSS can make a Frame.\n\nI don't really believe that anymore. But maybe.\n\nReplit ready for remixing: https://replit.com/@jc4p/fartree-template?v=1#README.md\n\nhttps://www.youtube.com/watch?v=kcCA7WUijNU",
+    "embeds": [
+      {
+        "url": "https://www.youtube.com/watch?v=kcCA7WUijNU",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "undefined",
+            "oembed": {
+              "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/kcCA7WUijNU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Frame Replit Walkthrough\"></iframe>",
+              "type": "video",
+              "title": "Frame Replit Walkthrough",
+              "width": 200,
+              "height": 113,
+              "method": "provider-api",
+              "version": "1.0",
+              "author_url": "https://www.youtube.com/@krahjerdi",
+              "author_name": "Kasra Rahjerdi",
+              "provider_url": "https://www.youtube.com/",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/kcCA7WUijNU/hqdefault.jpg",
+              "thumbnail_width": 480,
+              "thumbnail_height": 360
+            },
+            "favicon": "https://www.youtube.com/s/desktop/79b1043f/img/logos/favicon.ico",
+            "ogTitle": " - YouTube",
+            "ogLocale": "en",
+            "ogDescription": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x85f89a87",
+    "url": "https://warpcast.com/dwr.eth/0x85f89a87",
+    "author_username": "dwr.eth",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x4c66d218",
+    "url": "https://warpcast.com/nounishprof/0x4c66d218",
+    "author_username": "nounishprof",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-03-12T04:24:34.000Z",
+    "text": "Never a doubt",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/255274d0-ad97-4d6f-178d-4462f5bbcc00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 162993,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 1640
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0xb1f844c3910e31a5bb1fd8f10ce8745ce5dadbdf"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb1f844c3910e31a5bb1fd8f10ce8745ce5dadbdf",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb1f844c3910e31a5bb1fd8f10ce8745ce5dadbdf",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xb58f8b1972c86aacd58f86ffae37ed31664c934d",
+          "root_parent_url": "chain://eip155:1/erc721:0xb58f8b1972c86aacd58f86ffae37ed31664c934d",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Sometimes the @ponder poll just writes itself \n\ncc: @m00npapi.eth @brianjohnson \n\n\n💭 Check out my new prediction",
+          "timestamp": "2025-03-11T16:18:37.000Z",
+          "embeds": [
+            {
+              "url": "https://frame.weponder.io/api/predict/29894",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": 798,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogImage": [
+                    {
+                      "url": "https://frame.weponder.io/api/predict/29894/img"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "fcFrame": {
+                    "button": {
+                      "title": "🎯 Make Prediction",
+                      "action": {
+                        "url": "https://www.weponder.io/apps/social-predictions/predictions/29894",
+                        "name": "Ponder",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://www.weponder.io/logo.gif",
+                        "splashBackgroundColor": "#0A131F"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://frame.weponder.io/api/predict/29894/img"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "🎯 Make Prediction",
+                  "image": "https://frame.weponder.io/api/predict/29894/img",
+                  "frames_url": "https://frame.weponder.io/api/predict/29894",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 18581,
+                    "username": "ponder",
+                    "display_name": "Ponder",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cabe6808-f469-42b9-6941-511d8abd3000/rectcrop3",
+                    "custody_address": "0xb78d4c7716fa63d4e6e2259315258afcd57d1a87"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjE4NTgxLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4Qjc4ZDRDNzcxNmZhNjNENEU2ZTIyNTkzMTUyNThhRkNENTdkMWE4NyJ9",
+                      "payload": "eyJkb21haW4iOiJmcmFtZS53ZXBvbmRlci5pbyJ9",
+                      "signature": "MHhmZDgwYTE2NDZiNjI4ZGI0ZjQ1NDYyYzhkMGE0YjhhYjdkNDYwMzIyNGQ0Njg4ZjNkYmNhYjg2NDczZWRiZmY4NmQ3OGY0YjQ4NTZjZGQ4ZDQ2OTA1NzljZGE4MWNlMmJmYTdmOTA3ZjgzYmZhNDQ5NzA5NjZiYTM4MmFiZWNlMTFj"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "Ponder",
+                      "home_url": "https://www.weponder.io/apps/social-predictions",
+                      "icon_url": "https://www.weponder.io/img/logo-sm-bg.jpg",
+                      "splash_image_url": "https://www.weponder.io/logo.gif",
+                      "splash_background_color": "#0A131F",
+                      "webhook_url": "https://api.neynar.com/f/app/e856ad40-4a9e-4c26-b253-dd754e1e3157/event"
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "Ponder",
+                      "home_url": "https://www.weponder.io/apps/social-predictions",
+                      "icon_url": "https://www.weponder.io/img/logo-sm-bg.jpg",
+                      "splash_image_url": "https://www.weponder.io/logo.gif",
+                      "splash_background_color": "#0A131F",
+                      "webhook_url": "https://api.neynar.com/f/app/e856ad40-4a9e-4c26-b253-dd754e1e3157/event"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "ponder",
+            "name": "Ponder",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a71f59e6-611e-4fa0-7e15-3ee20600fd00/rectcrop3"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x408fa1fa",
+    "url": "https://warpcast.com/dylanabruscato/0x408fa1fa",
+    "author_username": "dylanabruscato",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 189781,
+    "author_pfp": "https://i.imgur.com/x8pDBf2.jpg",
+    "cast_date": "2025-03-12T01:07:16.000Z",
+    "text": "gn to 50 players. 641 remain.  \n\nSee you all tomorrow at 12p ET for the next immunity challenge 🕹️\n\nReminder: If you were voted out tonight, you still have a chance to reclaim your spot in the competition through tomorrow’s Resurrection Challenge",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/019587e3-6c04-841f-4f58-0fb9941e305e.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 480,
+                "width_px": 632,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 474,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 316,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 20.7
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x02919e6f",
+    "url": "https://warpcast.com/dylanabruscato/0x02919e6f",
+    "author_username": "dylanabruscato",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 189781,
+    "author_pfp": "https://i.imgur.com/x8pDBf2.jpg",
+    "cast_date": "2025-03-11T19:49:19.000Z",
+    "text": "Today's tribal immunity challenge was a multi-step crypto puzzle that led players to a specific Unicode character, 㰷, meaning \"resurrection.\"\n\nIt all started with a clue on the CTG site this morning: \"XID 1893004764599799810.\"\n\nHere’s how it unfolded from there...",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/645de48a-0095-40fb-89e5-901b8ed5e000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 411651,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1206
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf81b6de9",
+    "url": "https://warpcast.com/unichain/0xf81b6de9",
+    "author_username": "unichain",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 864257,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4dad107c-2ea9-4e7c-34d7-982ef2de0e00/original",
+    "cast_date": "2025-03-11T17:32:38.000Z",
+    "text": "pink tribe built diff 💖",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 189781,
+          "hash": "0xd4fcba7b707d56a2a17614a87e97cfcf57001130"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd4fcba7b707d56a2a17614a87e97cfcf57001130",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 189781,
+            "username": "dylanabruscato",
+            "display_name": "Dylan Abruscato",
+            "pfp_url": "https://i.imgur.com/x8pDBf2.jpg",
+            "custody_address": "0xfdcc42ae24b5384ab16062d242dbe9355b929078"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd4fcba7b707d56a2a17614a87e97cfcf57001130",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/crypto-the-game",
+          "root_parent_url": "https://warpcast.com/~/channel/crypto-the-game",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Wow, that was fast! The Pink Tribe solved the Immunity Puzzle at 12:48p ET, so the entire pink tribe is safe from the vote tonight 🌸\n\nAll other tribes will vote people out at 8p ET.\n\nPLUS: @matthew solved the Resurrection Puzzle. He’s officially back in the game!",
+          "timestamp": "2025-03-11T17:09:08.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1c15551f-bfb9-4994-0ddc-b551e32c9500/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 271951,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1373,
+                  "height_px": 977
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "crypto-the-game",
+            "name": "Crypto: The Game",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89c0395f-8cb3-47fa-957d-6620d4a05100/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x32b08ffe",
+    "url": "https://warpcast.com/kamilz/0x32b08ffe",
+    "author_username": "kamilz",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 967511,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7790bb64-0f72-4cda-b15a-c6b2ad04db00/rectcrop3",
+    "cast_date": "2025-03-12T01:05:12.000Z",
+    "text": "We survive to see another day in /crypto-the-game \n\nLove what the 🍊s are cooking up. Feeling good about the week. \n\n🟠🟠🟠🟠",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8594de8d-c3c9-4b41-9c01-be836629e700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 103548,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 612,
+            "height_px": 504
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0c98cb86",
+    "url": "https://warpcast.com/alinaferry/0x0c98cb86",
+    "author_username": "alinaferry",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 282672,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmbLg9mEy628dFJfv6yZRV2fCxsf5yDSmSNtQx1xEShkeT?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-03-11T18:48:36.000Z",
+    "text": "*just for shits and giggles bc we’re all homies here*\n\n@matthew",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/79ff4007-86c8-4b25-6ca0-cf7abc509b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 204029,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1038,
+            "height_px": 1762
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4c4122ee",
+    "url": "https://warpcast.com/erica/0x4c4122ee",
+    "author_username": "erica",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 20270,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa6a9c8a-ade1-496b-2534-c9b6f7a1cf00/original",
+    "cast_date": "2025-03-12T01:29:38.000Z",
+    "text": "pov: you’ve survived night 2 of crypto the game. the clouds have just broken to let the sun through after a cold, rainy day. you find the last hard cider in the special garage beverage fridge that’s colder than the house fridge. you crack it open and hear the slight fizz of release. you take the first ice cold sip and sigh, content to have survived, blessed to receive another day on the island",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/be0044c7-3145-49f0-9ddb-8c5c8d6ffc00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 386000,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 1999
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf51b8a55",
+    "url": "https://warpcast.com/chompix/0xf51b8a55",
+    "author_username": "chompix",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 847988,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7788107b-e0a0-4864-310f-ab9631520800/rectcrop3",
+    "cast_date": "2025-03-11T17:37:42.000Z",
+    "text": "CGT Day 2 🧩\n\nI got carried by my tribe.\n💛 Gold Tribe 💛 \ngg, see ya tomorrow 🫡\n\n/gmfarcaster  /nouns-esports /lil-nouns",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c40d3ad1-916c-49ed-f4b1-110203db7400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 253616,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1919,
+            "height_px": 1079
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa2c3df20",
+    "url": "https://warpcast.com/boysclub/0xa2c3df20",
+    "author_username": "boysclub",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 3842,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e67a7630-6b81-4a7e-a261-00a599530e00/rectcrop3",
+    "cast_date": "2025-03-11T18:32:59.000Z",
+    "text": "submit ur anon CTG hot goss to our tip line\nhttps://forms.gle/tNVUJCcwRAvXq6EbA",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2413c392-9e3d-46bf-64e9-983cfa03aa00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 65330,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 861,
+            "height_px": 705
+          }
+        }
+      },
+      {
+        "url": "https://forms.gle/tNVUJCcwRAvXq6EbA",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9ac08668",
+    "url": "https://warpcast.com/boysclub/0x9ac08668",
+    "author_username": "boysclub",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 3842,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e67a7630-6b81-4a7e-a261-00a599530e00/rectcrop3",
+    "cast_date": "2025-03-11T18:22:42.000Z",
+    "text": "~pLaY tHe GAmE~\n\nOfficial Day 1 recap of CTG on Spotify\nhttps://open.spotify.com/episode/6EvPH8gZxowp7QUyhS9029?si=fvKfrMfmTKK39CHeU77jaA",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/01958671-010b-aded-d62c-a63728ab171b.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1350,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 900,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 600,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 450,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 300,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 16.79
+          }
+        }
+      },
+      {
+        "url": "https://open.spotify.com/episode/6EvPH8gZxowp7QUyhS9029?si=fvKfrMfmTKK39CHeU77jaA",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://open.spotify.com/episode/6EvPH8gZxowp7QUyhS9029",
+            "oembed": {
+              "html": "<iframe style=\"border-radius: 12px\" width=\"624\" height=\"351\" title=\"Spotify Embed: Day 1 Recap. Team Vibes, Onchain Sleuthing and The Courage To Be Disliked. The Official Companion Pod of Crypto: The Game\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/episode/6EvPH8gZxowp7QUyhS9029/video?si=fvKfrMfmTKK39CHeU77jaA&utm_source=oembed\"></iframe>",
+              "type": "video",
+              "title": "Day 1 Recap. Team Vibes, Onchain Sleuthing and The Courage To Be Disliked. The Official Companion Pod of Crypto: The Game",
+              "width": 624,
+              "height": 351,
+              "method": "provider-api",
+              "version": "1.0",
+              "iframe_url": "https://open.spotify.com/embed/episode/6EvPH8gZxowp7QUyhS9029/video?si=fvKfrMfmTKK39CHeU77jaA&utm_source=oembed",
+              "provider_url": "https://spotify.com",
+              "provider_name": "Spotify",
+              "thumbnail_url": "https://image-cdn-ak.spotifycdn.com/image/ab6772ab000015be06f14c3ecc1ee05ad893cf6f",
+              "thumbnail_width": 640,
+              "thumbnail_height": 360
+            },
+            "ogType": "music.song",
+            "favicon": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
+            "ogAudio": "https://podz-content.spotifycdn.com/audio/clips/0tBufIjI4SOcrysZl9gWA2/clip_560209_620209.mp3",
+            "ogImage": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1bab4b5f5d374ebabe14cd1b"
+              }
+            ],
+            "ogTitle": "Day 1 Recap. Team Vibes, Onchain Sleuthing and The Courage To Be Disliked. The Official Companion Pod of Crypto: The Game",
+            "ogLocale": "en",
+            "ogSiteName": "Spotify",
+            "ogAudioType": "audio/mpeg",
+            "ogDescription": "Too Online · Episode"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x283a17da",
+    "url": "https://warpcast.com/blockheim/0x283a17da",
+    "author_username": "blockheim",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 235128,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c9a0dcd-4729-4007-d8aa-124964935c00/rectcrop3",
+    "cast_date": "2025-03-11T17:45:40.000Z",
+    "text": "Question for y'all:\n\n* How do you discover new frames? Is this working? What would you change?\n\n* What makes you engage with it or \"add\" it?\n\n As always any and all feedback is welcome, just comment below",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x59c34e07",
+    "url": "https://warpcast.com/horsefacts.eth/0x59c34e07",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2025-03-11T20:03:04.000Z",
+    "text": "ONLY FRAME BUILDERS READ THIS\n\npeople are literally asking you on the TL, multiple times a day, for ways to spend their money",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5644,
+          "hash": "0xac5d3cf20756194a1a895428e3d2f929c80b8958"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xac5d3cf20756194a1a895428e3d2f929c80b8958",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5644,
+            "username": "ebeezy.eth",
+            "display_name": "ebeezy",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0cb44b9e-ed67-443e-84d3-56874e675b00/rectcrop3",
+            "custody_address": "0x9b128f751e4d27085fce723914967c530b1da44d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xac5d3cf20756194a1a895428e3d2f929c80b8958",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I wanna spend this $25 on Farcaster eco products, coins, etc.\n\nHow should I spend it?",
+          "timestamp": "2025-03-11T19:58:01.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4356fbd7-5c08-46ef-132c-d55fff046500/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 19278,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1284,
+                  "height_px": 208
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3d8bbfae",
+    "url": "https://warpcast.com/robin/0x3d8bbfae",
+    "author_username": "robin",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 369,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b2ecdce0-da58-44f8-d6c5-3300d1b76600/original",
+    "cast_date": "2025-03-11T18:48:53.000Z",
+    "text": "glad to hear our frame template has been useful for balloon pop!\n\njust pushed some improvements to the repo – if you're new to frames and need a sounding board i'm happy to help!\n\nhttps://github.com/gallery-so/v2-frame-wizard",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3391,
+          "hash": "0xadc4d47c19f98fe549b5adb8b15db029e05878ad"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xadc4d47c19f98fe549b5adb8b15db029e05878ad",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3391,
+            "username": "ok",
+            "display_name": "Andrew Jiang",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4edde56b-6b2a-443e-f648-1900488d9e00/original",
+            "custody_address": "0x33012bcb96e2c51fa9c1547257aa14f75bc53627"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x8da59b83f929b0ff2c09563fb6a21d69fbd69d4f",
+          "parent_hash": "0x71bedca1bb75d0b7e442f9e3ebabaaef784d0ac4",
+          "parent_url": null,
+          "root_parent_url": "https://warpcast.com/~/channel/frames",
+          "parent_author": {
+            "fid": 3391
+          },
+          "text": "And special thanks to @robin for open sourcing frame wizard, which really helped with producing the share image 👑",
+          "timestamp": "2025-03-11T16:28:28.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "frames",
+            "name": "frames",
+            "image_url": "https://i.imgur.com/vz4KzeC.jpg"
+          }
+        }
+      },
+      {
+        "url": "https://github.com/gallery-so/v2-frame-wizard",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://github.com/Robinnnnn/v2-frame-wizard",
+            "ogType": "object",
+            "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+            "ogImage": [
+              {
+                "alt": "v2 Frame with Wizard Functionality. Contribute to Robinnnnn/v2-frame-wizard development by creating an account on GitHub.",
+                "url": "https://opengraph.githubassets.com/add0166e4f2b34c4a30bde3fbd131afc2ba5fa731ec3d926479a94e0eefe0ef8/Robinnnnn/v2-frame-wizard",
+                "width": "1200",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "GitHub - Robinnnnn/v2-frame-wizard: v2 Frame with Wizard Functionality",
+            "ogLocale": "en",
+            "ogSiteName": "GitHub",
+            "ogDescription": "v2 Frame with Wizard Functionality. Contribute to Robinnnnn/v2-frame-wizard development by creating an account on GitHub."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xadc4d47c",
+    "url": "https://warpcast.com/ok/0xadc4d47c",
+    "author_username": "ok",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 3391,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4edde56b-6b2a-443e-f648-1900488d9e00/original",
+    "cast_date": "2025-03-11T16:28:28.000Z",
+    "text": "And special thanks to @robin for open sourcing frame wizard, which really helped with producing the share image 👑",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa107f387",
+    "url": "https://warpcast.com/adrienne/0xa107f387",
+    "author_username": "adrienne",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-03-12T01:21:34.000Z",
+    "text": "Yesterday I received $2500 from @shanemac.eth and the /xmtp team in honor of International Women's Day, thanks to a nomination from @ivy.\n\nI'm grateful for the recognition and I'm trying to decide how to use the funds to support & amplify more women.\n\nI came up with 5 potential ideas. You can read about them in the blog post and I'd love to hear your ideas and thoughts.\n\nhttps://paragraph.xyz/@adrienne/international-womens-day-2025",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 375,
+          "hash": "0x2b02c74fc7bcff44d3435ac4ae99add9afd9364e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x2b02c74fc7bcff44d3435ac4ae99add9afd9364e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 375,
+            "username": "shanemac.eth",
+            "display_name": "Shane Mac",
+            "pfp_url": "https://i.imgur.com/j6mHFC2.jpg",
+            "custody_address": "0x342288b40e57126a198085089fbf1fec40357ed9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x2b02c74fc7bcff44d3435ac4ae99add9afd9364e",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Thanks for HUNDREDS of stories! \n\nFor International Women’s Day, we wanted to back someone who’s building the future. The women on our team picked their favorite story. \n\nWe picked @adrienne \n\nShe’s building companies. She’s launching a media business on Farcaster. And she’s making sure other women have a seat at the table.\nShe’s doing the work. And bringing people with her.\n\nWe’re sending her $2,500 to keep going.\n\nOne person at a time.\nLet’s go.",
+          "timestamp": "2025-03-10T19:09:48.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 375,
+                "hash": "0xee53047889291437b56d35602b8187a6fb15ef5d"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xee53047889291437b56d35602b8187a6fb15ef5d",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 375
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://paragraph.xyz/@adrienne/international-womens-day-2025",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2025-03-12T01:00:55.857Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/c39028c21d26d17755801d29525ad072.png",
+            "ogImage": [
+              {
+                "alt": "International Women's Day 2025",
+                "url": "https://storage.googleapis.com/papyrus_images/ffd349c9cf3bed1e733ab4099561fd47.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "International Women's Day 2025",
+            "ogLocale": "en",
+            "ogDescription": "Last Friday, Shane Mac and his team at XMTP shared an initiative on Farcaster for International Women's Day: nominate a woman who inspires you, share her story, and she could receive $2,500 to help her continue making a difference. The responses were full of stories of resilience, innovation, caregiving, and generosity - from mothers providing unwavering support, women overcoming personal and financial hardships, to builders inspiring the community with their projects. To my surprise, the wom...",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@adrienne/international-womens-day-2025?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=International%20Women's%20Day%202025&blogName=adriennetenger&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fc39028c21d26d17755801d29525ad072.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fffd349c9cf3bed1e733ab4099561fd47.jpg&size=2048&publishedDate=1741741255857"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=International%20Women's%20Day%202025&blogName=adriennetenger&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fc39028c21d26d17755801d29525ad072.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fffd349c9cf3bed1e733ab4099561fd47.jpg&size=2048&publishedDate=1741741255857",
+            "frames_url": "https://paragraph.xyz/@adrienne/international-womens-day-2025",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGgueHl6In0",
+                "signature": "MHg5YmQ4MDcxNmVmNjIwZTFjM2UwZDkzMzQ5ZDNlNTU5N2MzYmU3NzQ2MDJmYTliZmE1Zjg2Mzk3Y2QxZTk4MGExM2RmNDVmMDM2ODE5Y2FhZmZiZmE5MTMxN2U3MGRlYWRlYTI2YWUzMTA2N2I1NDNiMTFkZDI3ODk3NzQ3ZWI5YjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2b02c74f",
+    "url": "https://warpcast.com/shanemac.eth/0x2b02c74f",
+    "author_username": "shanemac.eth",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 375,
+    "author_pfp": "https://i.imgur.com/j6mHFC2.jpg",
+    "cast_date": "2025-03-10T19:09:48.000Z",
+    "text": "Thanks for HUNDREDS of stories! \n\nFor International Women’s Day, we wanted to back someone who’s building the future. The women on our team picked their favorite story. \n\nWe picked @adrienne \n\nShe’s building companies. She’s launching a media business on Farcaster. And she’s making sure other women have a seat at the table.\nShe’s doing the work. And bringing people with her.\n\nWe’re sending her $2,500 to keep going.\n\nOne person at a time.\nLet’s go.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 375,
+          "hash": "0xee53047889291437b56d35602b8187a6fb15ef5d"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xee53047889291437b56d35602b8187a6fb15ef5d",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 375,
+            "username": "shanemac.eth",
+            "display_name": "Shane Mac",
+            "pfp_url": "https://i.imgur.com/j6mHFC2.jpg",
+            "custody_address": "0x342288b40e57126a198085089fbf1fec40357ed9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xee53047889291437b56d35602b8187a6fb15ef5d",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "What if we gave $2500 to a woman for International Women's day this weekend?\n\nRecast this post, tag a woman who inspires you, and share her story. How has she made a difference in your life or the world? \n\nThe women on our team will read the stories and choose one to receive $2,500 to help her go even further.",
+          "timestamp": "2025-03-07T18:23:55.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x77eb0d46",
+    "url": "https://warpcast.com/benersing/0x77eb0d46",
+    "author_username": "benersing",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 1285,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/87cdef93-6042-44af-c594-779e8efed600/original",
+    "cast_date": "2025-03-10T16:01:43.000Z",
+    "text": "Excited to share something that’s been in the works for a while.\n\nFarcaster has long needed a native investment group - now, it’s here!\n\nMeet Crossroads: the Farcaster-native angel group, investing in and amplifying the next generation of founders.\n\nApply to join or seek funding: https://crossroads.srcbook.app/\n\nFollow @crossroads and /crossroads for updates and opportunities to get involved.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6302679a-84f0-4e2b-ebf6-0f6a8d190600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 41290,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1845,
+            "height_px": 584
+          }
+        }
+      },
+      {
+        "url": "https://crossroads.srcbook.app/",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogTitle": "Home: Crossroads",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2158cf86",
+    "url": "https://warpcast.com/links/0x2158cf86",
+    "author_username": "links",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 18586,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06e47196-f4da-425c-a611-1a22464cfd00/rectcrop3",
+    "cast_date": "2025-03-11T02:19:28.000Z",
+    "text": "Look there’s even a little @geoffgolberg at the bottom watching from afar 🤯\n\nThey thought of literally EVERYTHING!!!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/28b19aa6-c94d-4f9d-54ca-3220ca1a4700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 109077,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 726
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 17571,
+          "hash": "0x1c510fefad877919ba41593386107d3e07027004"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1c510fefad877919ba41593386107d3e07027004",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 17571,
+            "username": "esteez.eth",
+            "display_name": "Emma",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15501d1c-e40f-4303-c8f6-a13b425c8b00/original",
+            "custody_address": "0xaf699ec5038098d4cd535b6d47f4afeb8ff2a22b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1c510fefad877919ba41593386107d3e07027004",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/farcon-nyc",
+          "root_parent_url": "https://warpcast.com/~/channel/farcon-nyc",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Wake up babe, @chsh.eth just dropped new FarCon site 🤩\n\nhttps://farcon.nyc",
+          "timestamp": "2025-03-10T21:39:05.000Z",
+          "embeds": [
+            {
+              "url": "https://farcon.nyc",
+              "metadata": {
+                "content_type": "text/html",
+                "content_length": 31706,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://farcon.nyc/",
+                  "ogType": "website",
+                  "favicon": "https://framerusercontent.com/images/N3hYY7YROdHWp1QB1Bme3t9aw.png",
+                  "ogImage": [
+                    {
+                      "url": "https://framerusercontent.com/images/sMXvEvW1Oun66bNusm2SwMjio.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "FarCon 2025",
+                  "ogLocale": "en",
+                  "ogDescription": "NYC's coziest corner.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Open FarCon NYC",
+                      "action": {
+                        "url": "https://farcon.nyc",
+                        "name": "FarCon NYC",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://i.imgur.com/eCaAt9v.png",
+                        "splashBackgroundColor": "#472a91"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://i.imgur.com/whxCsvz.png"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Open FarCon NYC",
+                  "image": "https://i.imgur.com/whxCsvz.png",
+                  "frames_url": "https://farcon.nyc/"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcon-nyc",
+            "name": "FarCon NYC",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a1f4b85c-f424-4f21-35c7-43ecd6934600/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe7125dfd",
+    "url": "https://warpcast.com/bradq/0xe7125dfd",
+    "author_username": "bradq",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-03-11T16:43:55.000Z",
+    "text": "** Rewards Leaderboard Results **\n\n* Welcome Journo Cabal! (we say it w/ 💜 ) It gets harder as you go!\n@kaufman  & @worqas finish #1 & #4 (& leefang #7)\n\n* You may be surprised that the cabal got infiltrated pretty well by @erica #2 \n/firefits  & her own purple vibe, @esteez.eth  #3 (farcon & vibe life), @triumph  #6 also part of the 'vibe tribe' killin' it.\n\n* @garrett  is becoming a top 10 regular #9, @jihad  likewise #10\n\n* @ryangrim  made a late surge to #8 cashing $300 in his first days trying to defeat crypto 🤷‍♂️\n\n* downleaderboard @rubinovitz took #30 & became a villain 😬 edging out @bertwurst.eth ‘Bert’ #31; @shazow.eth  took #69\n\n* Watch for more first-timers & encourage them when you have a chance",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9102da30-a87b-4b61-f39d-eaab1a589400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 71310,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 808,
+            "height_px": 1350
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x70a6a0dd",
+    "url": "https://warpcast.com/bradq/0x70a6a0dd",
+    "author_username": "bradq",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-03-11T22:43:05.000Z",
+    "text": "Let's Celebrate first time Rewards or a new tier...we got a bunch!\n\nWho else? Add yourself or others in the comments 🥳 🎉 🎈\n\n@smashthunderston @flexasaurusrex (both overdue 💜), @mferones -grinding & got there\n\n@gayatri (back w/ CTG frame), @6bazinga , @spy\n\nnew to FC @cjweb3- , @leefang @dmarans",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/76050c33-3121-4ea6-14f3-bf96d9a5aa00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 232644,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1118
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0d873683",
+    "url": "https://warpcast.com/triumph/0x0d873683",
+    "author_username": "triumph",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 1180,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e024680a-7980-4837-3907-b45f4fc3a700/rectcrop3",
+    "cast_date": "2025-03-10T16:43:00.000Z",
+    "text": "a very warm and welcoming gm to all notable CT accounts wandering over here while i’m holding down top 10 in the leaderboard",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/791590a7-cf77-4044-0714-d79f25936000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 93846,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1283,
+            "height_px": 1447
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xece9aae9",
+    "url": "https://warpcast.com/yes2crypto.eth/0xece9aae9",
+    "author_username": "yes2crypto.eth",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 214447,
+    "author_pfp": "https://i.imgur.com/dBoVmnG.jpg",
+    "cast_date": "2025-03-10T19:30:15.000Z",
+    "text": "After a long, thought-out deliberation, vast quantities of prayer and meditation, and looking at the Warpcast Rewards leaderboard, I have decided to change careers and become a journalist on Farcaster",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x64416a0a",
+    "url": "https://warpcast.com/mmups/0x64416a0a",
+    "author_username": "mmups",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 864405,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0c58c61-1cdb-4eb3-0fe7-7a8905680300/original",
+    "cast_date": "2025-03-11T17:33:31.000Z",
+    "text": "Took my first ride in my new car seat this morning, purchased with some of my Rewards!\n\nI assumed this trip was to help me relax before my first Crypto The Game immunity challenge (I've anxiety pooped twice this morning). Turns out, it’s actually for Mom’s birthday! AKA another trip to get coffee and donuts for only the humans.\n\nStill, I appreciated the distraction. And the new elevated view.\n\nI am secured, yet free. Bound, yet limitless.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1299e0d3-59b0-4afc-dbe9-71fcef684b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 745768,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1636,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5d545a88",
+    "url": "https://warpcast.com/mmups/0x5d545a88",
+    "author_username": "mmups",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 864405,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0c58c61-1cdb-4eb3-0fe7-7a8905680300/original",
+    "cast_date": "2025-03-12T00:44:07.000Z",
+    "text": "Another week, another Warpcast Rewards cycle leaving me internet money number points in my Warplet, which I have little to no idea what to do with. (Yes, I've accepted Warplet.)\n\nSo this week, I'm introducing BERT THE GAME.\n\nIf you enjoy Crypto The Game, you'll LOVE Bert The Game.\n\nA fun new challenge game with probably more chaos and bugs but less insane and a much smaller prize pool. (Not no insane—just less.)\n\nHere’s how it works:\n-I’ll drop a challenge whenever I feel like it (there will probably be 5).\n-24 hours to complete a challenge. Winner(s) will be announced...at some point after that.\n-First person to DC me with the correct answer gets my eternal friendship (and $10 USDC). \n-First through fifth to complete the challenge will get a head start on the next challenge.\nTo play, you must:\n✔️ Follow me.\n✔️ Like & engage with the clue post.\n(btw, I learned about influencers the other day)\n\nFirst challenge dropping tomorrow morning. Good luck, strays.\n\n(Sponsored by Bertwurst & Associates)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3c3ed8fe",
+    "url": "https://warpcast.com/erica/0x3c3ed8fe",
+    "author_username": "erica",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 20270,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa6a9c8a-ade1-496b-2534-c9b6f7a1cf00/original",
+    "cast_date": "2025-03-11T22:46:11.000Z",
+    "text": "casually missed my 1 year anniversary building @unofficial with @christopher \n\nhappy founderversary to me 🥳 \n\nroses: finally learning to code alongside a very talented developer after years of wanting to learn, onboarding users to /uno, learning more about how farcaster and blockchain works, getting to experiment a bunch, travelling\n\nthorns: fundraising, travelling\n\nfell and got back up a lot. had many feels and cried a lot. but also laughed a lot, learned a lot, and made many new friends 💖 \n\nwouldn't change a think about the past year being a cofounder. here's to the next (and many more to come)!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8f0da921",
+    "url": "https://warpcast.com/alinaferry/0x8f0da921",
+    "author_username": "alinaferry",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 282672,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmbLg9mEy628dFJfv6yZRV2fCxsf5yDSmSNtQx1xEShkeT?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-03-12T01:37:45.000Z",
+    "text": "Guys, I’m a happy girl tonight 🥹\n\nAlex and the whole Clanker team are the heroes we don’t deserve - 1 eth just dropped on our end, and we’ll be able to afford about 10 more scholarships 💜💜💜\n\nI think now it’s probably the good time to reveal that we are also getting the amazing matches by @dwr and @grin (!!!)\n\nThe journey is not over though - we can totally collect more in the upcoming week to offer even more stipends🔥\n\nLove and eternal gratitude to everyone who has donated to our fundraiser so far",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 270504,
+          "hash": "0xbf27d6ba955b6f00f43e9cfe9137ee6950f3e16c"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbf27d6ba955b6f00f43e9cfe9137ee6950f3e16c",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 270504,
+            "username": "proxystudio.eth",
+            "display_name": "gordie slater",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+            "custody_address": "0xe1731273c1262e458251abf722cf64c52f558c2a"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc0095bccf261b87fc0d3f100bda51eb3181cc9c9",
+          "parent_hash": "0xc0095bccf261b87fc0d3f100bda51eb3181cc9c9",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 282672
+          },
+          "text": "@alinaferry clanker team would love to support, can I send 1 eth to your warplet?",
+          "timestamp": "2025-03-11T22:10:54.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x10b97fcb",
+    "url": "https://warpcast.com/proxystudio.eth/0x10b97fcb",
+    "author_username": "proxystudio.eth",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xe188b4ec",
+    "url": "https://warpcast.com/nounishprof/0xe188b4ec",
+    "author_username": "nounishprof",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-03-11T19:31:53.000Z",
+    "text": "Teaching one 8 week Blockchain class each semester — and start the new one tonight. Had a long break since October. The challenge — and fun—of this class is that it changes every semester. But usually not this much time in between. This one is going to be very interesting!!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/43f5bd02-2be7-4cf2-b812-ee1815c9f900/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 402041,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 480,
+            "height_px": 480
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5eef95e3",
+    "url": "https://warpcast.com/jasoncrawford.eth/0x5eef95e3",
+    "author_username": "jasoncrawford.eth",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 159,
+    "author_pfp": "https://lh3.googleusercontent.com/JQW-gYLaymchKySXkgpDP8tWW_wsUedJC_m2iSBumXHs2W9WhoGsBtARlRkkJNzMjRWc5MwK2RlXnK3P_LCgR1Fy_dtLUp46eYwkaw",
+    "cast_date": "2025-03-12T01:39:21.000Z",
+    "text": "I'll be speaking at @vitalik.eth's “d/acc Day” at Berkeley on Thursday\n\nMy talk: “d/acc: The first 150 years.” A whirlwind tour of how society has thought about progress, decentralization and defense over the last century and a half\n\nShould be livestreamed and recorded\n\nhttps://lu.ma/o99rcou9",
+    "embeds": [
+      {
+        "url": "https://lu.ma/o99rcou9",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://lu.ma/o99rcou9",
+            "ogType": "article",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://social-images.lu.ma/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=419/api/event-one?calendar_avatar=https%3A%2F%2Fimages.lumacdn.com%2Fcalendars%2Fvy%2F1e6a27ce-d28f-4dea-b01e-c3c49395a1ae&calendar_name=ETHSF%202025&color0=%23f1e2e2&color1=%2388e6c8&color2=%23dceba5&color3=%2338bddc&host_avatar=https%3A%2F%2Fimages.lumacdn.com%2Favatars%2Ffi%2Fd8316896-4688-4c30-ab22-7c8f637766bb&host_name=Bella&img=https%3A%2F%2Fimages.lumacdn.com%2Fevent-covers%2Fbr%2F0e15a1b8-3ef9-47f7-81f9-e40bdbf3206f.jpg&name=%3Cd%2Facc%20day%3E%20%40%20UC%20Berkeley",
+                "width": "800",
+                "height": "419"
+              }
+            ],
+            "ogTitle": "<d/acc day> @ UC Berkeley · Luma",
+            "ogLocale": "en",
+            "ogDescription": "<d/acc day>\n🗓 13 March, 2025\n📍 UC Berkeley\nLed by Vitalik Buterin, d/acc is his vision for a more thoughtful approach to technological acceleration—one that…"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf93e50e3",
+    "url": "https://warpcast.com/linda/0xf93e50e3",
+    "author_username": "linda",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x8ea6c5a9",
+    "url": "https://warpcast.com/nawashi.eth/0x8ea6c5a9",
+    "author_username": "nawashi.eth",
+    "show_date": "2025-03-12",
+    "show_title": "GM Farcaster ep223 Wednesday March 12, 2025 with  jc4p",
+    "source_episode_id": "wR-wyLUXGOs",
+    "author_fid": 10981,
+    "author_pfp": "https://i.imgur.com/BWqQ1z6.png",
+    "cast_date": "2025-03-01T06:09:26.000Z",
+    "text": "GM En este episodio, conversamos con @vlady sobre el crecimiento personal y colectivo en el ecosistema Web3. Exploramos la importancia de la colaboración, la mejora continua y cómo la descentralización está redefiniendo nuestras conexiones. Además de la participación en la conversación de @pochisempere.eth y poner temazos.\n\n🤖 Además, presentamos @botanalysis, un asistente diseñado para potenciar la experiencia con tokens y el ecosistema cripto dentro de Farcaster.\nhttps://pods.media/frecuencia-comun/12-vlady-botanalysis-y-el-ecosistema-farcaster\nsuscríbete a través de hypersub:\nhttps://hypersub.xyz/s/comun-1fzafqd1sb6yo",
+    "embeds": [
+      {
+        "url": "https://pods.media/frecuencia-comun/12-vlady-botanalysis-y-el-ecosistema-farcaster",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://pods.media/frecuencia-comun/12-vlady-botanalysis-y-el-ecosistema-farcaster",
+            "favicon": "/icon.svg?0e6eb4a8ea10ec02",
+            "ogAudio": "https://gateway.irys.xyz/ouUTcRP1ro7VgouUm6HUmoVi8Apqij2eKJLtf-nqkVA/EudpBFUiMfHzJQkHJwzW5GVsa3I3som0PNcjWWZp9Mo.mp3",
+            "ogImage": [
+              {
+                "alt": "#12 Vlady, Botanalysis y el ecosistema Farcaster Cover Art",
+                "url": "https://pods.media/api/og/frame/frecuencia-comun/12-vlady-botanalysis-y-el-ecosistema-farcaster"
+              }
+            ],
+            "ogTitle": "#12 Vlady, Botanalysis y el ecosistema Farcaster",
+            "ogLocale": "en",
+            "ogSiteName": "pods.media",
+            "ogDescription": "Collect this episode to support Frecuencia Común and secure your spot on the leaderboard!",
+            "fcFrame": {
+              "button": {
+                "title": "View Episode",
+                "action": {
+                  "url": "https://pods.media/frecuencia-comun/12-vlady-botanalysis-y-el-ecosistema-farcaster",
+                  "name": "View Episode",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://pods.media/icon.svg",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://pods.media/api/framesV2/og/frecuencia-comun/12-vlady-botanalysis-y-el-ecosistema-farcaster"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "View Episode",
+            "image": "https://pods.media/api/framesV2/og/frecuencia-comun/12-vlady-botanalysis-y-el-ecosistema-farcaster",
+            "frames_url": "https://pods.media/frecuencia-comun/12-vlady-botanalysis-y-el-ecosistema-farcaster",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 13875,
+              "username": "pods",
+              "display_name": "pods.media",
+              "pfp_url": "https://i.imgur.com/9S7gylW.jpg",
+              "custody_address": "0x162a557e0f569e0ae4a5a28fb666473d2bb0b7e6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEzODc1LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MTYyQTU1N0UwZjU2OWUwQUU0QTVhMjhGQjY2NjQ3M2QyYkIwYjdFNiJ9",
+                "payload": "eyJkb21haW4iOiJwb2RzLm1lZGlhIn0",
+                "signature": "MHg0NjYzNGEyMzhiZTJjODMwMGZkOTY0MDhmYjk3Zjg2ODNjYjUyNGYzYTc0MmY1MGJiZGU4ZmFhMWVkNWEwNDQxMzBmOTJhNjU3MTQ3ODY0NmE2NTY1YmQwMjkxMzc2NjZjYWVhYjMxYjg2YTAwYjMxNWNiYmQ5NGVhYTQ2ZDA0NTFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Pods",
+                "home_url": "https://pods.media",
+                "icon_url": "https://pods.media/assets/outline-fill.png",
+                "splash_image_url": "https://pods.media/icon.svg",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://pods.media/api/framesV2/webhook",
+                "subtitle": "Collect conversations.",
+                "description": "Pods connects podcast creators with their biggest fans.",
+                "primary_category": "entertainment",
+                "tags": [
+                  "podcast",
+                  "media",
+                  "content",
+                  "social"
+                ],
+                "hero_image_url": "https://pods.media/brand/open-graph.png",
+                "tagline": "Collect conversations.",
+                "og_title": "Pods",
+                "og_description": "Pods connects podcast creators with their biggest fans.",
+                "og_image_url": "https://pods.media/brand/open-graph.png"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Pods",
+                "home_url": "https://pods.media",
+                "icon_url": "https://pods.media/assets/outline-fill.png",
+                "splash_image_url": "https://pods.media/icon.svg",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://pods.media/api/framesV2/webhook",
+                "subtitle": "Collect conversations.",
+                "description": "Pods connects podcast creators with their biggest fans.",
+                "primary_category": "entertainment",
+                "tags": [
+                  "podcast",
+                  "media",
+                  "content",
+                  "social"
+                ],
+                "hero_image_url": "https://pods.media/brand/open-graph.png",
+                "tagline": "Collect conversations.",
+                "og_title": "Pods",
+                "og_description": "Pods connects podcast creators with their biggest fans.",
+                "og_image_url": "https://pods.media/brand/open-graph.png"
+              }
+            }
+          }
+        }
+      },
+      {
+        "url": "https://hypersub.xyz/s/comun-1fzafqd1sb6yo",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/comun-1fzafqd1sb6yo",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/e273091a-3870-4c93-8448-2da5bdf663be.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to Comun on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "Bienvenidos a Frecuencia Común, el primer podcast en español que conecta Farcaster, los commons digitales y las comunidades descentralizadas.\n\n🌐 ¿Qué hac...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/comun-1fzafqd1sb6yo?slug=comun-1fzafqd1sb6yo",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/e273091a-3870-4c93-8448-2da5bdf663be.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/e273091a-3870-4c93-8448-2da5bdf663be.png",
+            "frames_url": "https://hypersub.xyz/s/comun-1fzafqd1sb6yo",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 210657,
+              "username": "hypersub",
+              "display_name": "Hypersub",
+              "pfp_url": "https://i.imgur.com/X1MgLo7.jpg",
+              "custody_address": "0x44fd7862bb4c72bf0fb89f6e6eeed869f249470a"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjIxMDY1NywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDQ0RkQ3ODYyYkI0YzcyYmYwZmI4OUY2RTZFRWVkODY5RjI0OTQ3MEEifQ",
+                "payload": "eyJkb21haW4iOiJoeXBlcnN1Yi54eXoifQ",
+                "signature": "MHhmNjdhMzk1ZDFkN2ZmODIzZjQ2YTQ3ZjRjMWM5NDc5MTcyMGM3NzQ5NDU3NmUyZGZhNjkyNTUwOGQ2YzA1Y2ZmMDc5OTNiMzI2NzMwYmNlMDMxOGFiMWYxZTU1ZWQ5NGM2N2JjYzE0NWViOTkzNzVhYWJhMGU4ZDUyOGI2MzE3YTFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Hypersub",
+                "home_url": "https://hypersub.xyz",
+                "icon_url": "https://hypersub.xyz/hsog.png",
+                "image_url": "https://hypersub.xyz/hsog.png",
+                "button_title": "Launch Frame",
+                "splash_image_url": "https://hypersub.xyz/hsog.png",
+                "splash_background_color": "#F7F7F0",
+                "webhook_url": "https://hypersub.xyz/api/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Hypersub",
+                "home_url": "https://hypersub.xyz",
+                "icon_url": "https://hypersub.xyz/hsog.png",
+                "image_url": "https://hypersub.xyz/hsog.png",
+                "button_title": "Launch Frame",
+                "splash_image_url": "https://hypersub.xyz/hsog.png",
+                "splash_background_color": "#F7F7F0",
+                "webhook_url": "https://hypersub.xyz/api/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

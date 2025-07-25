@@ -1,0 +1,191 @@
+[
+  {
+    "cast_hash": "0x247ccf",
+    "url": "https://warpcast.com/dwr.eth/0x247ccf",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep4 Sept 25, 2023",
+    "source_episode_id": "hBj9ygR39l8",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2023-09-22T16:32:09.000Z",
+    "text": "New beta feature on Warpcast iOS: in-app purchases for onchain actions\n\n- Managing your Farcaster account require onchain actions—sign up, recovery, storage, +/- signers\n\n- From the beginning, Warpcast has been designed to be used without any pre-existing wallet or crypto\n\nHead to tiles.cool to test the flow",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/CKrnR6h.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 226823,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2500,
+            "height_px": 1501
+          }
+        }
+      },
+      {
+        "url": "http://tiles.cool",
+        "metadata": {
+          "content_type": null,
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x857e3d",
+    "url": "https://warpcast.com/dwr.eth/0x857e3d",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep4 Sept 25, 2023",
+    "source_episode_id": "hBj9ygR39l8",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2023-09-22T16:43:36.000Z",
+    "text": "How this works\n\n- Standard App Store IAP APIs—including the 30% fee\n\n- Warpcast app generates a transaction( since the user has their Farcaster mnemonic loaded)\n\n- Once IAP is confirmed, we use a Warpcast backend service that has some ETH in wallet to pay for the txn\n\nhttps://warpcast.com/dwr.eth/0x247ccf",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/dwr.eth/0x247ccf",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/dwr.eth/0x247ccfbd",
+            "ogType": "article",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://client.warpcast.com/v2/og-image?castHash=0x247ccfbd7b7aa80fd392421abdc11ba1540a5fc5",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Dan Romero on Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast",
+            "ogDescription": "New beta feature on Warpcast iOS: in-app purchases for onchain actions\n\n- Managing your Farcaster account require onchain actions—sign up, recovery, storage, +/- signers\n\n- From the beginning, Warpcast has been designed to be used without any pre-existing wallet or crypto\n\nHead to tiles.cool to test the flow https://i.imgur.com/CKrnR6h.png http://tiles.cool"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x745a3a",
+    "url": "https://warpcast.com/chriscocreated.eth/0x745a3a",
+    "author_username": "chriscocreated.eth",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep4 Sept 25, 2023",
+    "source_episode_id": "hBj9ygR39l8",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x8f68d4",
+    "url": "https://warpcast.com/chriscocreated.eth/0x8f68d4",
+    "author_username": "chriscocreated.eth",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep4 Sept 25, 2023",
+    "source_episode_id": "hBj9ygR39l8",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x32cd89",
+    "url": "https://warpcast.com/ted/0x32cd89",
+    "author_username": "ted",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep4 Sept 25, 2023",
+    "source_episode_id": "hBj9ygR39l8",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2023-09-22T22:34:53.000Z",
+    "text": "I LOVE FARCASTER",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/W8hdOOS.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 498354,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2667,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa77b14",
+    "url": "https://warpcast.com/ghostlinkz.eth/0xa77b14",
+    "author_username": "ghostlinkz.eth",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep4 Sept 25, 2023",
+    "source_episode_id": "hBj9ygR39l8",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x036bd2",
+    "url": "https://warpcast.com/ghostlinkz.eth/0x036bd2",
+    "author_username": "ghostlinkz.eth",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep4 Sept 25, 2023",
+    "source_episode_id": "hBj9ygR39l8",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x077b6d",
+    "url": "https://warpcast.com/keccers/0x077b6d",
+    "author_username": "keccers",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep4 Sept 25, 2023",
+    "source_episode_id": "hBj9ygR39l8",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x35c590",
+    "url": "https://warpcast.com/naomiii/0x35c590",
+    "author_username": "naomiii",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep4 Sept 25, 2023",
+    "source_episode_id": "hBj9ygR39l8",
+    "author_fid": 13077,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/32295a87-ec62-4012-b137-df5c006dad00/original",
+    "cast_date": "2023-09-25T07:15:01.000Z",
+    "text": "Every time I talk to normal people about my job the reaction is either confusion, total rejection, or my mum who goes you really need to do something more meaningful with your life. \n\nLatter actually hits me the most because I do question the meaningfulness/purpose quite a bit these days. The rest I can cope with.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x17141f",
+    "url": "https://warpcast.com/giuseppe/0x17141f",
+    "author_username": "giuseppe",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep4 Sept 25, 2023",
+    "source_episode_id": "hBj9ygR39l8",
+    "author_fid": 18989,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57af40b6-c3bc-4688-7e82-6adbfdead700/rectcrop3",
+    "cast_date": "2023-09-23T05:17:36.000Z",
+    "text": "Tipping is so confusing these days in the states. A suggested 20% for everything you buy off of a POS system service related seems to be the right thing to do, but how does everyone feel about it. Personally I think service from a quality standpoint is at an all time low. Curious to see what you all think.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4c7a03",
+    "url": "https://warpcast.com/arjantupan/0x4c7a03",
+    "author_username": "arjantupan",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep4 Sept 25, 2023",
+    "source_episode_id": "hBj9ygR39l8",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  }
+]

@@ -1,0 +1,1823 @@
+[
+  {
+    "cast_hash": "0xc8da97a1",
+    "url": "https://farcaster.xyz/bradq/0xc8da97a1",
+    "author_username": "bradq",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-07-07T12:40:49.000Z",
+    "text": "29 Seconds of Farcaster ... What did you miss this weekend?\n\n* Surely the lead story is @katekornish & the delivery of the bassoon to Ofentse w/ the corresponding s/o to Farcaster & the 165 people that believe in her! \n\n* On the bullish on Farcaster world, @balajis.eth that FC is the best in its class & needs to do one thing well that other platforms can't\n\n* There was a lot of orange on the feed as @inflynce encouraged people to 'touch orange' & at least 66 complied with q/c & creative takes\n\n* From builders, @0xlennixx.eth gave us a mini app to get FC Pro by the month; @curie gave us a 'cracked devs' Starter Pack; & @svvvg3.eth gave us a \"Search Wallets' Mini App to search wallets & accts by username\n\n* @toadyhawk.eth announced that Betrmint has a new Chief Fun Officer is @burrrrrberry ; And @newtp has taken the Timeline by storm with fun & informative science videos that were widely hailed this weekend\n\n* /gmfarcaster is back after vacation & the absence was felt-- @adrienne & @nounishprof are back West Coast friendly 11:30 AM EST to catch you up on all things purple 💜 (or maybe, we'll catch them up!)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0xcc08a368642c2baa77d4faf13eadbdcc026e4b72"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xcc08a368642c2baa77d4faf13eadbdcc026e4b72",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xcc08a368642c2baa77d4faf13eadbdcc026e4b72",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster back tomorrow at 11:30 am ET. Starting to come out of full vacation mode ☕️ Add the GM Farcaster mini app for notifications when we go live!\n\nhttps://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+          "timestamp": "2025-07-06T12:36:17.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cdb2db26-3685-4f1e-4046-5b81f6d9c600/original",
+              "metadata": {
+                "content_type": "image/gif",
+                "content_length": 267729,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 480,
+                  "height_px": 480
+                }
+              }
+            },
+            {
+              "url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://farcaster.xyz/miniapps/0196efb5-5ae3-676b-f83f-869e756c74d0/gm-farcaster",
+                  "ogType": "website",
+                  "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fminiapp.gmfarcaster.com%2Flogo.png&s=9e7f26424405d9b5c54c06233c2a5916f158e16b3037ec32ab93873d7875597d",
+                  "ogImage": [
+                    {
+                      "url": "https://miniapp.gmfarcaster.com/api/share-image?videoId=thsYOpMZbC0",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster",
+                  "ogLocale": "en",
+                  "ogSiteName": "Farcaster Mini App",
+                  "ogDescription": "Get your daily dose of Farcaster news and culture.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch GM Farcaster",
+                      "action": {
+                        "url": "https://miniapp.gmfarcaster.com",
+                        "name": "GM Farcaster",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://miniapp.gmfarcaster.com/logo.png",
+                        "splashBackgroundColor": "#AF48CF"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://miniapp.gmfarcaster.com/api/share-image?videoId=thsYOpMZbC0"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch GM Farcaster",
+                  "image": "https://miniapp.gmfarcaster.com/api/share-image?videoId=thsYOpMZbC0",
+                  "frames_url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x83a9dd1c",
+    "url": "https://farcaster.xyz/nounishprof/0x83a9dd1c",
+    "author_username": "nounishprof",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-07-04T14:47:30.000Z",
+    "text": "THANK YOU @jacek and $degen team for sponsoring /fctrivia for the month of July! \n\nCan't wait for this game! The prize is 100K $DEGEN ($336). \n\nThe trivia game starts at 12:00, Jul 9th EDT. \n\nHosted by @nounishprof and sponsored by /degen",
+    "embeds": [
+      {
+        "url": "https://ayolive.xyz/frames/shareGame?inviteePID=4167&inviteePlatform=warpcast&gameId=9&userPfp=https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "Share Game",
+            "ogLocale": "en",
+            "ogDescription": "Share Game",
+            "fcFrame": {
+              "button": {
+                "title": "Play now",
+                "action": {
+                  "url": "https://ayolive.xyz?inviteePID=4167&inviteePlatform=warpcast",
+                  "name": "Trivia",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://ayolive.xyz/favicon.png",
+                  "splashBackgroundColor": "#19111E"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://ayolive.xyz/api/frame/services/shareGame?gameId=9&userPfp=https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3&t=1751982556076"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Play now",
+            "image": "https://ayolive.xyz/api/frame/services/shareGame?gameId=9&userPfp=https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3&t=1751982556076",
+            "frames_url": "https://ayolive.xyz/frames/shareGame?inviteePID=4167&inviteePlatform=warpcast&gameId=9&userPfp=https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 4282,
+              "username": "matthewfox",
+              "display_name": "Matthew Fox 🌐",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af861e5b-616c-48e8-6531-3547e7686e00/original",
+              "custody_address": "0x76136ab779cff2ec24161d83aef5ee7ece414b05"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjQyODIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg3NjEzNmFiNzc5Y2ZGMmVjMjQxNjFEODNBZUY1RWU3RUNlNDE0QjA1In0",
+                "payload": "eyJkb21haW4iOiJheW9saXZlLnh5eiJ9",
+                "signature": "MHg0ODU1Y2NmNDI1MzZiNDQ2MzBhNGFkMDI2M2E2YzNkMzNmYmY0MmQ4Yzk0MzAyZmI3YjczNTRjYTJlYTMyZjA4MWQ0NmEwMzVkNTM5Nzc3MmQ3ZmJmYjZjZDVlOGJmNWVkNDM0ZjAzMjNmMzMzMzNjOGY1OTcxNjNmN2UxNmIyZjFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Trivia",
+                "home_url": "https://ayolive.xyz",
+                "icon_url": "https://ayolive.xyz/favicon.png",
+                "image_url": "https://ayolive.xyz/generalv2.png",
+                "button_title": "Play Now",
+                "splash_image_url": "https://ayolive.xyz/splashv2.png",
+                "splash_background_color": "#eeccff",
+                "webhook_url": "https://ayolive.xyz/api/webhook",
+                "subtitle": "Live Trivia Game Show",
+                "description": "Live Trivia Game Show",
+                "screenshot_urls": [
+                  "https://ayolive.xyz/frame.png"
+                ],
+                "primary_category": "social",
+                "tags": [
+                  "trivia",
+                  "game",
+                  "live",
+                  "fun",
+                  "entertainment"
+                ],
+                "hero_image_url": "https://ayolive.xyz/heroImage.png",
+                "tagline": "Live Trivia Game Show",
+                "og_title": "Trivia",
+                "og_description": "Live Trivia Game Show",
+                "og_image_url": "https://ayolive.xyz/generalv2.png"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Trivia",
+                "home_url": "https://ayolive.xyz",
+                "icon_url": "https://ayolive.xyz/favicon.png",
+                "image_url": "https://ayolive.xyz/generalv2.png",
+                "button_title": "Play Now",
+                "splash_image_url": "https://ayolive.xyz/splashv2.png",
+                "splash_background_color": "#eeccff",
+                "webhook_url": "https://ayolive.xyz/api/webhook",
+                "subtitle": "Live Trivia Game Show",
+                "description": "Live Trivia Game Show",
+                "screenshot_urls": [
+                  "https://ayolive.xyz/frame.png"
+                ],
+                "primary_category": "social",
+                "tags": [
+                  "trivia",
+                  "game",
+                  "live",
+                  "fun",
+                  "entertainment"
+                ],
+                "hero_image_url": "https://ayolive.xyz/heroImage.png",
+                "tagline": "Live Trivia Game Show",
+                "og_title": "Trivia",
+                "og_description": "Live Trivia Game Show",
+                "og_image_url": "https://ayolive.xyz/generalv2.png"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x51f0a198",
+    "url": "https://farcaster.xyz/v/0x51f0a198",
+    "author_username": "v",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-07-02T19:38:48.000Z",
+    "text": "Farcaster signups are going to become 10x cheaper in July.  \n\nSigning up now requires a payment of 20c instead of $2. Storage units are proportionally smaller, but this makes it easier for apps to sponsor users. \n\nBig shoutout to @sanjay and @dynemyte for major performance improvements on Snapchain which enabled this. \n\nhttps://github.com/farcasterxyz/protocol/discussions/229",
+    "embeds": [
+      {
+        "url": "https://github.com/farcasterxyz/protocol/discussions/229",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://github.com/farcasterxyz/protocol/discussions/229",
+            "ogType": "object",
+            "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+            "ogImage": [
+              {
+                "alt": "Title: Storage Redenomination Type: Implementation FIP Authors: @v, danromero, sanjayprabhu, dynemyte, horsefacts Abstract A proposal to lower fees to get closer to “practically free signups” for F...",
+                "url": "https://opengraph.githubassets.com/ef3430120a8f01a3371c122bf921efb9e5a5b5aaa3676d1208f8924c081a4d47/farcasterxyz/protocol/discussions/229",
+                "width": "1200",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "FIP: Storage Redenomination · farcasterxyz/protocol · Discussion #229",
+            "ogLocale": "en",
+            "ogSiteName": "GitHub",
+            "ogDescription": "Title: Storage Redenomination Type: Implementation FIP Authors: @v, danromero, sanjayprabhu, dynemyte, horsefacts Abstract A proposal to lower fees to get closer to “practically free signups” for F..."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7d8ca05e",
+    "url": "https://farcaster.xyz/v/0x7d8ca05e",
+    "author_username": "v",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-07-02T03:58:37.000Z",
+    "text": "Control your experience on Farcaster. \n\nWe've added three new filtering options for Notifications, Replies and Channels. You can pick the lowest setting if don't want to miss a thing or the higher settings if you're overwhelmed with notifications and want us to filter out the most important updates for you. \n\nTry these out today in Settings > Notifications, Settings > Feeds and Channel > Manage > Who can cast.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b47f083e-a4c9-41ac-3622-8da1591a4d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 503992,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1922,
+            "height_px": 1174
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcaf71012",
+    "url": "https://farcaster.xyz/v/0xcaf71012",
+    "author_username": "v",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-07-01T17:21:31.000Z",
+    "text": "Second PSA: if you have reply filtering set to high, the algorithm will only show you replies that you are likely to be interested in. \n\nif you want to see a lot more replies, consider changing it to medium. that's what i use, and that's the default setting when new users join today.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x69cb7ea06cda6f6cc228692f3d6a61ab1544562b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x69cb7ea06cda6f6cc228692f3d6a61ab1544562b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x69cb7ea06cda6f6cc228692f3d6a61ab1544562b",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "PSA: if your casts are showing up under \"Show more replies\", the most common reason is that you are posting in a channel, and the channel owner has restricted who can reply. \n\nYou have two options: \n\n1. ask the channel owner to add you as a member. \n2. don't post in the channel, then your replies wont be hidden.",
+          "timestamp": "2025-07-01T17:09:08.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc3c0d94a",
+    "url": "https://farcaster.xyz/v/0xc3c0d94a",
+    "author_username": "v",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-06-28T23:39:58.000Z",
+    "text": "Weekly rewards are meant to support creators who spend their time and energy creating engaging content on Farcaster. \n\nWe've seen some accounts try to trick the algo by coordinating engagement, and redirect rewards towards low effort or uninteresting content. We're making changes to fix this. \n\n1. The algo will reward diverse weekly engagement. If you get two likes from different people, they'll give you more points than two likes from the same person.\n\n2. The algo may reduce or eliminate points from some accounts based on heuristics (engaging with spammy accounts, only with a particular account, in time patterns that suggest coordination etc) \n\nThese changes will roll out on Tuesday. For more details on how rewards work, see the page below.\n\nhttps://farcasterhq.notion.site/Farcaster-Creator-Rewards-1f56a6c0c101808f9225c5705ae88fcc",
+    "embeds": [
+      {
+        "url": "https://farcasterhq.notion.site/Farcaster-Creator-Rewards-1f56a6c0c101808f9225c5705ae88fcc",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcasterhq.notion.site/Farcaster-Creator-Rewards-1f56a6c0c101808f9225c5705ae88fcc",
+            "ogType": "article",
+            "favicon": "https://farcasterhq.notion.site/images/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://farcasterhq.notion.site/images/meta/notion-wordmark.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Farcaster Creator Rewards | Notion",
+            "ogLocale": "en_US",
+            "ogSiteName": "farcasterhq on Notion",
+            "ogDescription": "Warpcast pays out rewards each week to the top creators on the network. "
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb57e26be",
+    "url": "https://farcaster.xyz/dwr.eth/0xb57e26be",
+    "author_username": "dwr.eth",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-07-01T21:44:16.000Z",
+    "text": "Why didn’t anyone tell me that birding is like Pokémon for people that enjoy woods?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f6965e3c-5227-41fd-6812-bbd8a68ca300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 597406,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd301a09-8746-42c0-ae4c-22d6a8284000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 152051,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1206,
+            "height_px": 1376
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfe18271d",
+    "url": "https://farcaster.xyz/dwr.eth/0xfe18271d",
+    "author_username": "dwr.eth",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-07-02T03:53:17.000Z",
+    "text": "TIL there are nephophiles on Farcaster\n\nHere’s a photo of a cumulus congestus from my walk the other day.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2c7e7828-7f7d-40ff-abc6-9b94a5482c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 281066,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x78aac5b3",
+    "url": "https://farcaster.xyz/wwarren/0x78aac5b3",
+    "author_username": "wwarren",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 6208,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3ac8eae9-6273-46c2-1579-87092e894000/original",
+    "cast_date": "2025-07-05T22:01:25.000Z",
+    "text": "Bird is the word - Portland, Maine @linda",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d9f408f4-5068-4e5f-9c22-24183f6de700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 582433,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1340
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e32d79bc-22e6-4ae2-b4c9-64506bca5a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 647046,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1524
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fbc7db40-8fab-4071-655b-9fb4d177b200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 717042,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1447
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/157d9852-a0cb-4ab3-564b-91b3eace4e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 472446,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1314,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfe2935fb",
+    "url": "https://farcaster.xyz/bradq/0xfe2935fb",
+    "author_username": "bradq",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-07-03T23:56:19.000Z",
+    "text": "New app update looks great on my phone!\n\nProbably looks amazing in liquid glass...",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x9fbb39cefc098b93a7f302052e52b1aa4b697d07"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x9fbb39cefc098b93a7f302052e52b1aa4b697d07",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9fbb39cefc098b93a7f302052e52b1aa4b697d07",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "The birding content is definitely going to help our reputation on CT.",
+          "timestamp": "2025-07-03T23:02:59.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/286eb0e4-3bc1-47fb-11e3-5d0db3fb5f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 40269,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 724,
+            "height_px": 654
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8c174c57",
+    "url": "https://farcaster.xyz/nounishprof/0x8c174c57",
+    "author_username": "nounishprof",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-07-02T10:59:28.000Z",
+    "text": "I hear we like birds and clouds now",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6531d72a-5019-4219-304d-7d7ba867cc00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 473915,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/21ba1d98-8f0f-4292-d198-85c5a80b5e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 820858,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x05d926e3",
+    "url": "https://farcaster.xyz/v/0x05d926e3",
+    "author_username": "v",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-07-02T04:00:14.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15aee8e6-3d71-4d16-00cd-5e3ce6d0c300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 215893,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1666,
+            "height_px": 694
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xabea5147",
+    "url": "https://farcaster.xyz/v/0xabea5147",
+    "author_username": "v",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-07-01T23:03:06.000Z",
+    "text": "can someone start a polymarket for dan getting into woodworking next?",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xb57e26be5a96ebe97e4a573f3243ef11519c27ef"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb57e26be5a96ebe97e4a573f3243ef11519c27ef",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb57e26be5a96ebe97e4a573f3243ef11519c27ef",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Why didn’t anyone tell me that birding is like Pokémon for people that enjoy woods?",
+          "timestamp": "2025-07-01T21:44:16.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f6965e3c-5227-41fd-6812-bbd8a68ca300/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 597406,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 2000
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd301a09-8746-42c0-ae4c-22d6a8284000/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 152051,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1206,
+                  "height_px": 1376
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6cb18c4c",
+    "url": "https://farcaster.xyz/adrienne/0x6cb18c4c",
+    "author_username": "adrienne",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-07-04T14:43:50.000Z",
+    "text": "Bunnies",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 10990,
+          "hash": "0xe60686c7081b438f3dfc40c38aa7022972394e89"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe60686c7081b438f3dfc40c38aa7022972394e89",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 10990,
+            "username": "twb",
+            "display_name": "Timbrrr 🎩🧢 ↑ 🍖",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52593a0f-72bf-4ffc-1987-117c5a76ab00/original",
+            "custody_address": "0xa806403f0075c177912e645e014858263550680f"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe60686c7081b438f3dfc40c38aa7022972394e89",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/itookaphoto",
+          "root_parent_url": "https://warpcast.com/~/channel/itookaphoto",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Quick, founders and bird people are asleep, post bunnies.",
+          "timestamp": "2025-07-04T06:32:53.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c0ee8522-0e91-415a-aefc-6a75b187f300/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 942467,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "itookaphoto",
+            "name": "I Took a Photo!",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/95377fde-4d5c-48e1-bca9-3fb1d5ff2200/original"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c30e9a5e-6007-477c-c353-3a4aff20e600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 901327,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x58270038",
+    "url": "https://farcaster.xyz/nounishprof/0x58270038",
+    "author_username": "nounishprof",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-07-04T15:07:12.000Z",
+    "text": "If you’re in birds pivot to bunnies 🐰",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 296687,
+          "hash": "0xe70c2fb761e5ef6319b0ff3b219d661cec6d78e6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe70c2fb761e5ef6319b0ff3b219d661cec6d78e6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 296687,
+            "username": "jonathancolton",
+            "display_name": "JC",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/248cfa93-02d5-4ac8-8ed7-c94607513500/rectcrop3",
+            "custody_address": "0xee29c90ea5df712b0a0f66347f4a503f6aabe049"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe70c2fb761e5ef6319b0ff3b219d661cec6d78e6",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "A bunny on the grass.",
+          "timestamp": "2025-07-04T14:56:11.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 5818,
+                "hash": "0x6cb18c4c79ac1d370b3d25ff7621e49be8ef299d"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x6cb18c4c79ac1d370b3d25ff7621e49be8ef299d",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 5818
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2e7da1a4-c911-42ad-284e-f0190cf83600/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 840357,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1732
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x24aeeec5",
+    "url": "https://farcaster.xyz/nounishprof/0x24aeeec5",
+    "author_username": "nounishprof",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-07-04T23:48:31.000Z",
+    "text": "proof of bunny",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 864405,
+          "hash": "0x3ab2b1bd3e797a1f24a4a8967afc8e781c3cc2cf"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3ab2b1bd3e797a1f24a4a8967afc8e781c3cc2cf",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 864405,
+            "username": "bertwurst.eth",
+            "display_name": "bertwurst",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0c58c61-1cdb-4eb3-0fe7-7a8905680300/original",
+            "custody_address": "0x19007f5a72a8806f16cf0a50fa315675d5020241"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3ab2b1bd3e797a1f24a4a8967afc8e781c3cc2cf",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I heard we’re casting bunnies now…",
+          "timestamp": "2025-07-04T20:34:58.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 5406,
+                "hash": "0x04fbcf9106c739d7c0e26ca94f26e6829be520bc"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x04fbcf9106c739d7c0e26ca94f26e6829be520bc",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 5406
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6a3a3f4e-8058-4502-a1f4-d9e53349ef00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 648422,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1789,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a090c75c-98fd-4905-7769-395dda799e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 827658,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x010ece9c",
+    "url": "https://farcaster.xyz/adrienne/0x010ece9c",
+    "author_username": "adrienne",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-07-06T01:06:26.000Z",
+    "text": "The meal \n\n- Steamed cherry stone clams\n- Grilled sirloin flap steak with chimmichurri \n- Grilled asparagus and mushrooms with green goddess dressing \n- Summer corn salad\n- Bean salad \n\nVan leeuwen ice cream for dessert\n\nReally happy with how everything came out \n\nHappy Saturday!!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0xb5931ba937a77108ffd32cefe59cc062b7d74942"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb5931ba937a77108ffd32cefe59cc062b7d74942",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb5931ba937a77108ffd32cefe59cc062b7d74942",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Food prep cont.\n\nFinished corn salad\nChimichurri prep \n\nDone for now.  Will post pics of final meal later.",
+          "timestamp": "2025-07-05T18:11:32.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 5818,
+                "hash": "0xd7e1c77e54591a613912543992ab06cbfc700c58"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xd7e1c77e54591a613912543992ab06cbfc700c58",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 5818
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0772b301-380d-441e-e545-534619f31500/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 433822,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 1999
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af2aec11-334f-4667-9ebc-a3a045670400/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 609838,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 1999
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3d32c610-62a8-40b2-1ee1-369b8da95700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 475654,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 1999
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/99b660a0-56a4-4868-640e-7251b12bcd00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 785110,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 1999
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2eeaa76a",
+    "url": "https://farcaster.xyz/adrienne/0x2eeaa76a",
+    "author_username": "adrienne",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-07-05T15:06:28.000Z",
+    "text": "Garden photo dump\n\n1. After being away for a few days, the grasses and weeds are trying to take over\n\n2. After 2 hours of weeding\n\n3. Harvest! Spinach, romaine, green leaf lettuce, first few string beans, dill, basil, mint, parsley\n\nNow I’m getting to work in the kitchen. Will post pics of the final result",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/98103c20-4b94-4ed4-6a6d-3d0bfe87c300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 784385,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 1999
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/be9e36e1-6ed4-434b-5712-fdb958f01500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 1085601,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 1999
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45ba3138-c81d-41aa-6d07-84f278487200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 983607,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 1999
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x350bc3eb",
+    "url": "https://farcaster.xyz/myk/0x350bc3eb",
+    "author_username": "myk",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 217248,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ab39123-9da1-408c-ae95-6bbd1ae65500/original",
+    "cast_date": "2025-06-30T04:48:05.000Z",
+    "text": "Log a Dog: Season 2 is coming this Friday, July 4th!\n\nUpload selfies while eating a hotdog and earn onchain\n🧵 for \"wtf?\"",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/92e14a2a-874e-4150-6472-451ba9755800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 296812,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc4ed036f",
+    "url": "https://farcaster.xyz/nounishprof/0xc4ed036f",
+    "author_username": "nounishprof",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-07-04T12:26:38.000Z",
+    "text": "When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.\n\nWe hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, --That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. \n\nBut when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security.--Such has been the patient sufferance of these Colonies; and such is now the necessity which constrains them to alter their former Systems of Government. \n\nThe history of the present King of Great Britain is a history of repeated injuries and usurpations, all having in direct object the establishment of an absolute Tyranny over these States. To prove this, let Facts be submitted to a candid world.\n\nHe has refused his Assent to Laws, the most wholesome and necessary for the public good.\n\nHe has forbidden his Governors to pass Laws of immediate and pressing importance, unless suspended in their operation till his Assent should be obtained; and when so suspended, he has utterly neglected to attend to them.\n\nHe has refused to pass other Laws for the accommodation of large districts of people, unless those people would relinquish the right of Representation in the Legislature, a right inestimable to them and formidable to tyrants only.\n\nHe has called together legislative bodies at places unusual, uncomfortable, and distant from the depository of their public Records, for the sole purpose of fatiguing them into compliance with his measures.\n\nHe has dissolved Representative Houses repeatedly, for opposing with manly firmness his invasions on the rights of the people.\n\nHe has refused for a long time, after such dissolutions, to cause others to be elected; whereby the Legislative powers, incapable of Annihilation, have returned to the People at large for their exercise; the State remaining in the mean time exposed to all the dangers of invasion from without, and convulsions within.\n\nHe has endeavoured to prevent the population of these States; for that purpose obstructing the Laws for Naturalization of Foreigners; refusing to pass others to encourage their migrations hither, and raising the conditions of new Appropriations of Lands.\n\nHe has obstructed the Administration of Justice, by refusing his Assent to Laws for establishing Judiciary powers.\n\nHe has made Judges dependent on his Will alone, for the tenure of their offices, and the amount and payment of their salaries.\nHe has erected a multitude of New Offices, and sent hither swarms of Officers to harrass our people, and eat out their substance.\n\nHe has kept among us, in times of peace, Standing Armies without the Consent of our legislatures.\n\nHe has affected to render the Military independent of and superior to the Civil power.\n\nHe has combined with others to subject us to a jurisdiction foreign to our constitution, and unacknowledged by our laws; giving his Assent to their Acts of pretended Legislation:\n\nFor Quartering large bodies of armed troops among us:\n\nFor protecting them, by a mock Trial, from punishment for any Murders which they should commit on the Inhabitants of these States:\n\nFor cutting off our Trade with all parts of the world:\n\nFor imposing Taxes on us without our Consent:\n\nFor depriving us in many cases, of the benefits of Trial by Jury:\n\nFor transporting us beyond Seas to be tried for pretended offences:\n\nFor abolishing the free System of English Laws in a neighbouring Province, establishing therein an Arbitrary government, and enlarging its Boundaries so as to render it at once an example and fit instrument for introducing the same absolute rule into these Colonies:\n\nFor taking away our Charters, abolishing our most valuable Laws, and altering fundamentally the Forms of our Governments:\n\nFor suspending our own Legislatures, and declaring themselves invested with power to legislate for us in all cases whatsoever.\n\nHe has abdicated Government here, by declaring us out of his Protection and waging War against us.\n\nHe has plundered our seas, ravaged our Coasts, burnt our towns, and destroyed the lives of our people.\n\nHe is at this time transporting large Armies of foreign Mercenaries to compleat the works of death, desolation and tyranny, already begun with circumstances of Cruelty & perfidy scarcely paralleled in the most barbarous ages, and totally unworthy the Head of a civilized nation.\n\nHe has constrained our fellow Citizens taken Captive on the high Seas to bear Arms against their Country, to become the executioners of their friends and Brethren, or to fall themselves by their Hands.\n\nHe has excited domestic insurrections amongst us, and has endeavoured to bring on the inhabitants of our frontiers, the merciless Indian Savages, whose known rule of warfare, is an undistinguished destruction of all ages, sexes and conditions.\n\nIn every stage of these Oppressions We have Petitioned for Redress in the most humble terms: Our repeated Petitions have been answered only by repeated injury. A Prince, whose character is thus marked by every act which may define a Tyrant, is unfit to be the ruler of a free people.\n\nNor have We been wanting in attentions to our Brittish brethren. We have warned them from time to time of attempts by their legislature to extend an unwarrantable jurisdiction over us. We have reminded them of the circumstances of our emigration and settlement here. We have appealed to their native justice and magnanimity, and we have conjured them by the ties of our common kindred to disavow these usurpations, which, would inevitably interrupt our connections and correspondence. They too have been deaf to the voice of justice and of consanguinity. We must, therefore, acquiesce in the necessity, which denounces our Separation, and hold them, as we hold the rest of mankind, Enemies in War, in Peace Friends.\n\nWe, therefore, the Representatives of the united States of America, in General Congress, Assembled, appealing to the Supreme Judge of the world for the rectitude of our intentions, do, in the Name, and by Authority of the good People of these Colonies, solemnly publish and declare, That these United Colonies are, and of Right ought to be Free and Independent States; that they are Absolved from all Allegiance to the British Crown, and that all political connection between them and the State of Great Britain, is and ought to be totally dissolved; and that as Free and Independent States, they have full Power to levy War, conclude Peace, contract Alliances, establish Commerce, and to do all other Acts and Things which Independent States may of right do. \n\nAnd for the support of this Declaration, with a firm reliance on the protection of divine Providence, we mutually pledge to each other our Lives, our Fortunes and our sacred Honor.\n\nIn Congress, July 4, 1776\nThe unanimous Declaration of the thirteen united States of America \n\nMassachusetts\nJohn Hancock\nSamuel Adams\nJohn Adams\nRobert Treat Paine\nElbridge Gerry\n\nGeorgia\nButton Gwinnett\nLyman Hall\nGeorge Walton\n \nNorth Carolina\nWilliam Hooper\nJoseph Hewes\nJohn Penn\n \nSouth Carolina\nEdward Rutledge\nThomas Heyward, Jr.\nThomas Lynch, Jr.\nArthur Middleton\n\nMaryland\nSamuel Chase\nWilliam Paca\nThomas Stone\nCharles Carroll of Carrollton\n \nVirginia\nGeorge Wythe\nRichard Henry Lee\nThomas Jefferson\nBenjamin Harrison\nThomas Nelson, Jr.\nFrancis Lightfoot Lee\nCarter Braxton\n \nPennsylvania\nRobert Morris\nBenjamin Rush\nBenjamin Franklin\nJohn Morton\nGeorge Clymer\nJames Smith\nGeorge Taylor\nJames Wilson\nGeorge Ross\nDelaware\nCaesar Rodney\nGeorge Read\nThomas McKean\n \nNew York\nWilliam Floyd\nPhilip Livingston\nFrancis Lewis\nLewis Morris\n \nNew Jersey\nRichard Stockton\nJohn Witherspoon\nFrancis Hopkinson\nJohn Hart\nAbraham Clark\n \nNew Hampshire\nJosiah Bartlett\nWilliam Whipple\n \nRhode Island\nStephen Hopkins\nWilliam Ellery\n \nConnecticut\nRoger Sherman\nSamuel Huntington\nWilliam Williams\nOliver Wolcott\n \nNew Hampshire\nMatthew Thornton",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0d675985-2745-48a5-184b-aa31c7f33f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 102697,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 630,
+            "height_px": 748
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xac3fcf42",
+    "url": "https://farcaster.xyz/base/0xac3fcf42",
+    "author_username": "base",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 12142,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce5460f6-40a2-4486-47c1-7801e4033e00/original",
+    "cast_date": "2025-07-01T18:23:55.000Z",
+    "text": "onchain summer is heating up, it belongs to everyone, and the brand is yours to build with\n\nremix the visuals and make your own mark\n\nhttps://www.figma.com/community/file/1521907740878441668",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e2819845-6c15-40ca-f3f2-c8a529286e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 710264,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1920,
+            "height_px": 1162
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xac3fcf42",
+    "url": "https://farcaster.xyz/base/0xac3fcf42",
+    "author_username": "base",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 12142,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce5460f6-40a2-4486-47c1-7801e4033e00/original",
+    "cast_date": "2025-07-01T18:23:55.000Z",
+    "text": "onchain summer is heating up, it belongs to everyone, and the brand is yours to build with\n\nremix the visuals and make your own mark\n\nhttps://www.figma.com/community/file/1521907740878441668",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e2819845-6c15-40ca-f3f2-c8a529286e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 710264,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1920,
+            "height_px": 1162
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e9a4d76",
+    "url": "https://farcaster.xyz/katekornish/0x5e9a4d76",
+    "author_username": "katekornish",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 10081,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63a53344-e3d2-457d-e315-580be3795d00/rectcrop3",
+    "cast_date": "2025-07-04T13:17:24.000Z",
+    "text": "MY FARCASTER FAMILY\n\ntonight we gonna make someone’s dream come true!! our concert is in 3 hours and you can all watch it live! after the last piece Ofentse will finally get her bassoon (she doesn’t have any idea) \n\nit’s gonna be legendary\n\n@crowdfund @noiceapp @farcaster \n\nhttps://www.youtube.com/live/iG6c3K16JQ4?si=lkTjoJYSkDp7PzWf",
+    "embeds": [
+      {
+        "url": "https://www.youtube.com/live/iG6c3K16JQ4?si=lkTjoJYSkDp7PzWf",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.youtube.com/watch?v=iG6c3K16JQ4",
+            "oembed": {
+              "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/iG6c3K16JQ4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"SICMF 2025 | FACULTY CONCERT 1 - 20:00\"></iframe>",
+              "type": "video",
+              "title": "SICMF 2025 | FACULTY CONCERT 1 - 20:00",
+              "width": 200,
+              "height": 113,
+              "method": "provider-api",
+              "version": "1.0",
+              "author_url": "https://www.youtube.com/@StellenboschFestival",
+              "author_name": "Stellenbosch International Chamber Music Festival",
+              "provider_url": "https://www.youtube.com/",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/iG6c3K16JQ4/hqdefault.jpg",
+              "thumbnail_width": 480,
+              "thumbnail_height": 360
+            },
+            "ogDate": "2025-07-03T03:44:45-07:00",
+            "ogType": "video.other",
+            "favicon": "https://www.youtube.com/s/desktop/2253fa3d/img/logos/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://i.ytimg.com/vi/iG6c3K16JQ4/hqdefault.jpg?v=68668b4f",
+                "type": "jpg",
+                "width": "480",
+                "height": "360"
+              }
+            ],
+            "ogTitle": "SICMF 2025 | FACULTY CONCERT 1 - 20:00",
+            "ogVideo": [
+              {
+                "url": "https://www.youtube.com/embed/iG6c3K16JQ4",
+                "type": "text/html",
+                "width": "640",
+                "height": "360"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "YouTube",
+            "ogDescription": "Friday 4 July 2025 - 20:00 FACULTY CONCERT 1 R215/R165Recomposed by Max Richter: Vivaldi – The Four SeasonsSoloist: Daniel Rowland (violin)M. RICHTER(b. 1966...",
+            "ogVideoSecureURL": "https://www.youtube.com/embed/iG6c3K16JQ4"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe2a7653a",
+    "url": "https://farcaster.xyz/linda/0xe2a7653a",
+    "author_username": "linda",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-07-03T19:59:44.000Z",
+    "text": "In honor of July 4th, @maaria and I made a video of us rating presidents as hot or not in her new mini app 😂",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0197d1df-17e3-d696-284a-0dc9ceb83d6d.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 34.59
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa1678b61",
+    "url": "https://farcaster.xyz/keccers.eth/0xa1678b61",
+    "author_username": "keccers.eth",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 4407,
+    "author_pfp": "https://i.imgur.com/kynnpYw.jpg",
+    "cast_date": "2025-07-06T13:00:18.000Z",
+    "text": "But there’s just something about W, isn’t there ladies",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 12,
+          "hash": "0xe2a7653a78a716adf770f327d6bad2c74eeb23a3"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe2a7653a78a716adf770f327d6bad2c74eeb23a3",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12,
+            "username": "linda",
+            "display_name": "Linda Xie",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+            "custody_address": "0xb43575d58c49d2be880e0f821ddf51d15c13c376"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe2a7653a78a716adf770f327d6bad2c74eeb23a3",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "In honor of July 4th, @maaria and I made a video of us rating presidents as hot or not in her new mini app 😂",
+          "timestamp": "2025-07-03T19:59:44.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.farcaster.xyz/v1/video/0197d1df-17e3-d696-284a-0dc9ceb83d6d.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1280,
+                      "width_px": 720,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 852,
+                      "width_px": 480,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 640,
+                      "width_px": 360,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 426,
+                      "width_px": 240,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 34.59
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0197dfd2-0c5f-d537-91ee-fcb82fe7ab08.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 43.5
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4c58b878",
+    "url": "https://farcaster.xyz/octant/0x4c58b878",
+    "author_username": "octant",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 18203,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9853f821-1390-4ed5-4217-a46a65aa4400/original",
+    "cast_date": "2025-07-04T18:19:56.000Z",
+    "text": "Octant explained",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7d184d2-aeb9-4fce-2a80-d54fcebf1200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 711180,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1600,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcc28c803",
+    "url": "https://farcaster.xyz/octant/0xcc28c803",
+    "author_username": "octant",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 18203,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9853f821-1390-4ed5-4217-a46a65aa4400/original",
+    "cast_date": "2025-07-03T15:56:22.000Z",
+    "text": "This community never fails to amaze us 💝\n\n173 designers showed up to make Ethereum look as good as it works\n\nWe're reviewing all the entries with the respective teams with so much love rn.\n\nWinners announced July 8\n\nThank you for caring fam <3",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 18203,
+          "hash": "0xb7e3e9f2da0c0ad0678fa11beb315d3e15e588f0"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb7e3e9f2da0c0ad0678fa11beb315d3e15e588f0",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 18203,
+            "username": "octant",
+            "display_name": "Octant  ⧫",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9853f821-1390-4ed5-4217-a46a65aa4400/original",
+            "custody_address": "0xd62697301a23b4ad38e642db77cecf5ce624b135"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb7e3e9f2da0c0ad0678fa11beb315d3e15e588f0",
+          "parent_hash": null,
+          "parent_url": "https://ethereum.org",
+          "root_parent_url": "https://ethereum.org",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Want your first break as a designer? Submit an entry in our Design for Ethereum contest.\n\nWe’ve got 7 incredible projects ready for a strong new brand:\n\n✦ DeFiScan\n✦ Aestus\n✦ OSObserver\n✦ EAS\n✦ Act\n✦ Hevm\n✦ Samba\n\nApply here ⤵️\nhttps://jokerace.io/contest/base/0xc3204743f9925a2241fc285aec6f17ea10f0621e",
+          "timestamp": "2025-06-28T18:58:07.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1543a01c-0af7-45af-4a97-30dec1097a00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 141444,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1200,
+                  "height_px": 675
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "ethereum",
+            "name": "Ethereum",
+            "image_url": "https://warpcast.com/~/channel-images/ethereum.png"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/12dab018-d7fa-4ca2-c7d8-a8fdb0cf3700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 192725,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 736,
+            "height_px": 414
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4414603b",
+    "url": "https://farcaster.xyz/gmfarcaster/0x4414603b",
+    "author_username": "gmfarcaster",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 273384,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a068ff05-0b5d-427a-ee22-2088ab310800/rectcrop3",
+    "cast_date": "2025-06-27T11:55:22.000Z",
+    "text": "GM Farcaster merch shop is here!! Just a few tees, mugs and hats you might enjoy! Snap up a discount code in the /gmfarcaster YouTube chat today!\n\nhttps://gmfarcaster.shop/",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06c6a64f-b9d0-4eab-5ccc-654c723f4300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 71416,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 408,
+            "height_px": 550
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2257f398-46d8-4133-3579-63f8ddbdd900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 22439,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 326,
+            "height_px": 304
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/17e2f10c-9ea5-4fdb-19af-93132da9d700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 68107,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 454,
+            "height_px": 397
+          }
+        }
+      },
+      {
+        "url": "https://gmfarcaster.shop/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://gmfarcaster.shop/",
+            "ogType": "website",
+            "favicon": "//gmfarcaster.shop/cdn/shop/files/gmfc_logo_round_3.png?crop=center&height=32&v=1732500363&width=32",
+            "ogImage": [
+              {
+                "url": "https://gmfarcaster.shop/cdn/shop/files/gmfc_logo_round_3.png?height=628&pad_color=ffffff&v=1732500363&width=1200",
+                "type": "png",
+                "width": "1200",
+                "height": "628"
+              }
+            ],
+            "ogTitle": "GM Farcaster",
+            "ogLocale": "en",
+            "ogSiteName": "GM Farcaster",
+            "ogDescription": "GM Farcaster merch shop"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x506482e1",
+    "url": "https://farcaster.xyz/adrienne/0x506482e1",
+    "author_username": "adrienne",
+    "show_date": "2025-07-07",
+    "show_title": "GM Farcaster ep263 Monday July 7, 2025",
+    "source_episode_id": "xsnsTgzWy6E",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-06-27T01:38:31.000Z",
+    "text": "The @gmfarcaster mini app just got a glow up 💅💅\n\nNow when you share our miniapp, the image includes thumbnail and title of our latest episode.  Thanks @deodad for the nudge to improve the image to make the app look more appealing\n\nGonna share the old image embed in the next cast.\n\nhttps://miniapp.gmfarcaster.com/",
+    "embeds": [
+      {
+        "url": "https://miniapp.gmfarcaster.com/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogTitle": "GM Farcaster",
+            "ogLocale": "en",
+            "ogDescription": "Get your daily dose of Farcaster news and culture.",
+            "fcFrame": {
+              "button": {
+                "title": "Launch GM Farcaster",
+                "action": {
+                  "url": "https://miniapp.gmfarcaster.com",
+                  "name": "GM Farcaster",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://miniapp.gmfarcaster.com/logo.png",
+                  "splashBackgroundColor": "#AF48CF"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://miniapp.gmfarcaster.com/api/share-image?videoId=thsYOpMZbC0"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Launch GM Farcaster",
+            "image": "https://miniapp.gmfarcaster.com/api/share-image?videoId=thsYOpMZbC0",
+            "frames_url": "https://miniapp.gmfarcaster.com/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 5818,
+              "username": "adrienne",
+              "display_name": "adrienne",
+              "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+              "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjU4MTgsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgxMjQzNTE2NDA4RWU5NzZiMzQ1NzM2NzhmMkFBMDI5YjY5REU0RjAwIn0",
+                "payload": "eyJkb21haW4iOiJtaW5pYXBwLmdtZmFyY2FzdGVyLmNvbSJ9",
+                "signature": "MHhhZDhhNDE3OGFiMDZkOGU3MWYwYTVmYjhiNjBjMjFjOTJhYzJjYzRkNTIyMTdhNzhhNjZmZTE5NDQ3YTlmMGVmNDQ3NGY0ZDI2NmViYzg4MTU0NTI0OGUwZDYzMzg5ZGVlMTUwMTg1NWI5ODg5YzBmZTMwOGMwMWZkMzhmZjk3ODFj"
+              },
+              "frame": {
+                "version": "next",
+                "name": "GM Farcaster",
+                "home_url": "https://miniapp.gmfarcaster.com",
+                "icon_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_1024_1024.png",
+                "image_url": "https://miniapp.gmfarcaster.com/logo.png",
+                "button_title": "Launch GM Farcaster",
+                "splash_image_url": "https://miniapp.gmfarcaster.com/logo.png",
+                "splash_background_color": "#AF48CF",
+                "webhook_url": "https://api.neynar.com/f/app/56d04686-0f59-4eaa-af16-c484abd555e2/event",
+                "subtitle": "Live streamed Farcaster news",
+                "description": "Get your daily dose of Farcaster news and culture, brought to you by NounishProf and Adrienne",
+                "screenshot_urls": [
+                  "https://miniapp.gmfarcaster.com/images/screenshot1.png",
+                  "https://miniapp.gmfarcaster.com/images/screenshot2.png"
+                ],
+                "primary_category": "news-media",
+                "tags": [
+                  "news",
+                  "podcast",
+                  "farcaster",
+                  "live-streaming",
+                  "community",
+                  "gmfarcaster"
+                ],
+                "hero_image_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_wide.png",
+                "tagline": "29 minutes of Farcaster news",
+                "og_title": "GM Farcaster",
+                "og_description": "Get your daily dose of Farcaster news and culture, brought to you by NounishProf and Adrienne",
+                "og_image_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_wide.png",
+                "required_chains": [
+                  "eip155:8453"
+                ],
+                "required_capabilities": [
+                  "wallet.getEthereumProvider",
+                  "actions.sendToken",
+                  "actions.addFrame"
+                ]
+              },
+              "miniapp": {
+                "version": "next",
+                "name": "GM Farcaster",
+                "home_url": "https://miniapp.gmfarcaster.com",
+                "icon_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_1024_1024.png",
+                "image_url": "https://miniapp.gmfarcaster.com/logo.png",
+                "button_title": "Launch GM Farcaster",
+                "splash_image_url": "https://miniapp.gmfarcaster.com/logo.png",
+                "splash_background_color": "#AF48CF",
+                "webhook_url": "https://api.neynar.com/f/app/56d04686-0f59-4eaa-af16-c484abd555e2/event",
+                "subtitle": "Live streamed Farcaster news",
+                "description": "Get your daily dose of Farcaster news and culture, brought to you by NounishProf and Adrienne",
+                "screenshot_urls": [
+                  "https://miniapp.gmfarcaster.com/images/screenshot1.png",
+                  "https://miniapp.gmfarcaster.com/images/screenshot2.png"
+                ],
+                "primary_category": "news-media",
+                "tags": [
+                  "news",
+                  "podcast",
+                  "farcaster",
+                  "live-streaming",
+                  "community",
+                  "gmfarcaster"
+                ],
+                "hero_image_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_wide.png",
+                "tagline": "29 minutes of Farcaster news",
+                "og_title": "GM Farcaster",
+                "og_description": "Get your daily dose of Farcaster news and culture, brought to you by NounishProf and Adrienne",
+                "og_image_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_wide.png",
+                "required_chains": [
+                  "eip155:8453"
+                ],
+                "required_capabilities": [
+                  "wallet.getEthereumProvider",
+                  "actions.sendToken",
+                  "actions.addFrame"
+                ]
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

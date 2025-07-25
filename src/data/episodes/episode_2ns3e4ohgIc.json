@@ -1,0 +1,634 @@
+[
+  {
+    "cast_hash": "0x092702fc",
+    "url": "https://warpcast.com/v/0x092702fc",
+    "author_username": "v",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-05-09T02:30:49.000Z",
+    "text": "Dev call starts in 14.5 hours! We'll be discussing: \n\n- Programmable DCs\n- Decentralized Channels \n\nand more!\n\nhttps://fc-dev-call.replit.app/",
+    "embeds": [
+      {
+        "url": "https://fc-dev-call.replit.app/",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://fc-dev-call.replit.app/image"
+              }
+            ],
+            "ogTitle": "FC Dev Call"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0991de4b",
+    "url": "https://warpcast.com/dwr.eth/0x0991de4b",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-08T22:19:40.000Z",
+    "text": "Warpcast is back online.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0578b35d",
+    "url": "https://warpcast.com/dwr.eth/0x0578b35d",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-09T00:09:03.000Z",
+    "text": "Can I say something without everyone getting mad?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f05dd373-6a17-4143-05eb-dfd54773b500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 8990,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 180
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x294f396b",
+    "url": "https://warpcast.com/v/0x294f396b",
+    "author_username": "v",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-05-08T14:02:59.000Z",
+    "text": "“Farcaster must remove all the bots” \n\nThis is a worrying line of thinking I’m seeing more often.\n\nThe argument goes that it’s not enough to hide uninteresting content. It *must* be removed from the protocol. \n\nThat is, someone must judge the worthiness of accounts and delete them from the protocol.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf92ca124",
+    "url": "https://warpcast.com/dwr.eth/0xf92ca124",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-08T19:52:49.000Z",
+    "text": "Thanks for writing this up.\n\nThe Farcaster protocol is focused on real-time, public information. Don't use it if you are worried about information being public.\n\nAnyone is free to use the graph to build a privacy-focused social network. So nothing stopping someone from building something that focuses on your goals.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3e1f6594",
+    "url": "https://warpcast.com/dwr.eth/0x3e1f6594",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-08T16:31:29.000Z",
+    "text": "1/ People seem increasingly concerned about the term \"daily active users\" (DAU).\n\nIt's used by other web2 social networks (in SEC filings!) and now other decentralized social networks; we use Meta's definition (below).\n\nIs there likely a better definition? Yes! \n\nHave we come up with a better methodology? Not yet.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/19fd3835-f9d5-4dcc-8f00-3dbb38985100/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 71449,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1538,
+            "height_px": 132
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6a0a076b",
+    "url": "https://warpcast.com/v/0x6a0a076b",
+    "author_username": "v",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-05-08T22:01:58.000Z",
+    "text": "broadly speaking, there are two kinds of social networks - public (twitter, reddit) and private (facebook, snapchat) \n\nin a private network, encryption matters a lot because what you're saying should only be seen by trusted friends. \n\nin a public network, it doesn't matter because the intent is for *everyone* to see it",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 264159,
+          "hash": "0x28373221a1b5bd9bd2c4bd26da491f400549f88e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x28373221a1b5bd9bd2c4bd26da491f400549f88e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 264159,
+            "username": "baz.eth",
+            "display_name": "Barry",
+            "pfp_url": "https://i.imgur.com/jEzLS1V.jpg",
+            "custody_address": "0xbb7cfcaf97d3b7b0d4ebee230377d54f5a603566"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x28373221a1b5bd9bd2c4bd26da491f400549f88e",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Hey all - just wanted to share some of my concerns about the public nature of our casts/behavior on FC.\n\nHoping for an open dialogue on where we think this is headed, and in the long run, how to provide privacy protections from a user content perspective.\n\nhttps://paragraph.xyz/@barrycollier/farcaster-content-graph",
+          "timestamp": "2024-05-08T19:15:09.000Z",
+          "embeds": [
+            {
+              "url": "https://paragraph.xyz/@barrycollier/farcaster-content-graph",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogDate": "2024-05-08T18:58:41.574Z",
+                  "favicon": "https://storage.googleapis.com/papyrus_images/796027a5974934ab6f9735f35fe21afc.jpg",
+                  "ogImage": [
+                    {
+                      "url": "https://storage.googleapis.com/papyrus_images/9cafd0fd9de0f26249baa372a277c276.png",
+                      "type": "png"
+                    },
+                    {
+                      "url": "https://i.guim.co.uk/img/media/7baa35585612526dc2b33c6de8f6305d9355d4c7/120_0_2245_1347/master/2245.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMTgucG5n&enable=upscale&s=855b50a10c0f4c72d9820d2d9bb65247",
+                      "type": "jpg"
+                    }
+                  ],
+                  "ogTitle": "The Farcaster Content Graph",
+                  "ogLocale": "en",
+                  "ogDescription": "A long-term concern I have about Farcaster is how our individual content graphs (our casts/behavior) are public by default rather than private by design.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Read",
+                      "action": {
+                        "url": "https://paragraph.com/@barrycollier/farcaster-content-graph?frame=true",
+                        "name": "Paragraph",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                        "splashBackgroundColor": "#26251A"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://paragraph.com/api/og?title=The%20Farcaster%20Content%20Graph&blogName=baz.eth&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F796027a5974934ab6f9735f35fe21afc.jpg&coverPhotoUrl=&size=2048&publishedDate=1715194721574"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Read",
+                  "image": "https://paragraph.com/api/og?title=The%20Farcaster%20Content%20Graph&blogName=baz.eth&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F796027a5974934ab6f9735f35fe21afc.jpg&coverPhotoUrl=&size=2048&publishedDate=1715194721574",
+                  "frames_url": "https://paragraph.xyz/@barrycollier/farcaster-content-graph",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 378,
+                    "username": "colin",
+                    "display_name": "Colin",
+                    "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+                    "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                      "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGgueHl6In0",
+                      "signature": "MHg5YmQ4MDcxNmVmNjIwZTFjM2UwZDkzMzQ5ZDNlNTU5N2MzYmU3NzQ2MDJmYTliZmE1Zjg2Mzk3Y2QxZTk4MGExM2RmNDVmMDM2ODE5Y2FhZmZiZmE5MTMxN2U3MGRlYWRlYTI2YWUzMTA2N2I1NDNiMTFkZDI3ODk3NzQ3ZWI5YjFi"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "Paragraph",
+                      "home_url": "https://paragraph.xyz/home?frame=true",
+                      "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                      "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                      "button_title": "Discover great writing",
+                      "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                      "splash_background_color": "#ffffff",
+                      "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "Paragraph",
+                      "home_url": "https://paragraph.xyz/home?frame=true",
+                      "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                      "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                      "button_title": "Discover great writing",
+                      "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                      "splash_background_color": "#ffffff",
+                      "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8614f6f5",
+    "url": "https://warpcast.com/adrienne/0x8614f6f5",
+    "author_username": "adrienne",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-05-08T14:55:06.000Z",
+    "text": "Seeing Farcaster DAU chatter on my feed today and it's reminding me of the time I was put in charge of calculating user counts for a public b2b saas company.  Active user counts were a big deal at the company.  Founder and CEO talked about user counts a lot. Showed up in every slide deck, on our website home page.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd2022c15",
+    "url": "https://warpcast.com/cameron/0xd2022c15",
+    "author_username": "cameron",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 617,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac4e8cdc-f317-4711-d742-bb59c4651d00/original",
+    "cast_date": "2024-05-08T16:50:02.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ae0fd78-a97e-4f2c-3879-58ef792d6700/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 200554,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 607,
+            "height_px": 474
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x294f396bcb40d36e0d58ba3de40b26a15c96f52b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x294f396bcb40d36e0d58ba3de40b26a15c96f52b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x294f396bcb40d36e0d58ba3de40b26a15c96f52b",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "“Farcaster must remove all the bots” \n\nThis is a worrying line of thinking I’m seeing more often.\n\nThe argument goes that it’s not enough to hide uninteresting content. It *must* be removed from the protocol. \n\nThat is, someone must judge the worthiness of accounts and delete them from the protocol.",
+          "timestamp": "2024-05-08T14:02:59.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbfdf613b",
+    "url": "https://warpcast.com/mcbain/0xbfdf613b",
+    "author_username": "mcbain",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 1626,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6b5f14ba-508a-4090-abca-dae88b6e6d00/original",
+    "cast_date": "2024-05-08T18:13:44.000Z",
+    "text": "We officially release ourselves of all ownership of Farcon 2025 or beyond\n\nIt’s yours now!\n\nWe can’t wait to see what you do with it! \n\n-Farcon 2024 team",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa07f08a6",
+    "url": "https://warpcast.com/ace/0xa07f08a6",
+    "author_username": "ace",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 539,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8582375b-2974-438a-1ca2-072af5990800/original",
+    "cast_date": "2024-05-08T15:45:47.000Z",
+    "text": "👀 /gmfarcaster is like CNN of Farcaster. curious what they got cooking",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x42fb4278b20bce71be68140d693b84694cfc88d5"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x42fb4278b20bce71be68140d693b84694cfc88d5",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x62cf5b37e021d458b23077c6558c1a6448b4325d",
+          "parent_hash": "0x62cf5b37e021d458b23077c6558c1a6448b4325d",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 539
+          },
+          "text": "Thanks @ace! Just wait to see what we’re planning! Already thinking about how to incorporate @perl — stay tuned!",
+          "timestamp": "2024-05-08T15:43:01.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x08bc5de5",
+    "url": "https://warpcast.com/esports/0x08bc5de5",
+    "author_username": "esports",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 20265,
+    "author_pfp": "https://i.imgur.com/YqMUkRo.jpg",
+    "cast_date": "2024-05-01T16:00:17.000Z",
+    "text": "⌐◨-◨   x  🍵\n\nPlease welcome @matchaxyz as our official DEX partner!",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/c9f42a1e54775bf9af020227d5bd0bc3.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 28
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7a9ab6b6",
+    "url": "https://warpcast.com/brennen.eth/0x7a9ab6b6",
+    "author_username": "brennen.eth",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 9280,
+    "author_pfp": "https://i.imgur.com/2cWKwcm.gif",
+    "cast_date": "2024-05-08T23:16:53.000Z",
+    "text": "Huge Tavern tomorrow at 4:30pm PST! Come join the Stoopid Buddy team as they premier and talk about Shark, Pickle, Cone!\n\nhttps://alpha.tavern.fm/taverns/QB1B8YX4OVuPWu4KR2c5",
+    "embeds": [
+      {
+        "url": "https://alpha.tavern.fm/taverns/QB1B8YX4OVuPWu4KR2c5",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 2771,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/tavern-bf653.appspot.com/o/taverns%2FQB1B8YX4OVuPWu4KR2c5%2Ffeatured-image?alt=media"
+              }
+            ],
+            "ogTitle": "Shark Pickle Cone | Tavern",
+            "ogLocale": "en",
+            "ogDescription": "The First Feature-Length Documentary to be minted to the blockchain. Globally distributed. Available to all. We follow Stoopid Buddy Stoodios and Nouns’ journey to the 134th annual Rose Parade."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x874c99e9",
+    "url": "https://warpcast.com/downshift/0x874c99e9",
+    "author_username": "downshift",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xd87235a7",
+    "url": "https://warpcast.com/adrienne/0xd87235a7",
+    "author_username": "adrienne",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-05-07T18:33:10.000Z",
+    "text": "Say it back",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/9483cd7ce5348a1e38b2999a9c6bad62.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 46.29
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6841b45c",
+    "url": "https://warpcast.com/balajis.eth/0x6841b45c",
+    "author_username": "balajis.eth",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 37,
+    "author_pfp": "https://github.com/balajis.png",
+    "cast_date": "2024-05-08T23:52:20.000Z",
+    "text": "What is the emergent culture of Farcaster?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-05-09",
+    "show_title": "GM Farcaster episode 103, May 9, 2024",
+    "source_episode_id": "2ns3e4ohgIc",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

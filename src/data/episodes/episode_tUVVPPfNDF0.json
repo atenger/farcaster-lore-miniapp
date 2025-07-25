@@ -1,0 +1,1229 @@
+[
+  {
+    "cast_hash": "0x5231a92a",
+    "url": "https://warpcast.com/matthew/0x5231a92a",
+    "author_username": "matthew",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 473,
+    "author_pfp": "https://i.imgur.com/uwD4rUh.jpg",
+    "cast_date": "2024-08-26T01:08:15.000Z",
+    "text": "back from camping in yosemite for the weekend with no service, what’d i miss?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xed952849",
+    "url": "https://warpcast.com/horsefacts.eth/0xed952849",
+    "author_username": "horsefacts.eth",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2024-08-24T21:16:40.000Z",
+    "text": "yikes. French chat, is this real?",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 8481,
+          "hash": "0x9001986f1d1f870a4544e75e4bf0b73ece3c1942"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x9001986f1d1f870a4544e75e4bf0b73ece3c1942",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 8481,
+            "username": "yar0x",
+            "display_name": "Yaroslav",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e59e7f9d-b17e-4b33-bf1a-c04f140e3c00/original",
+            "custody_address": "0xfce68a6dceb3b4e9af4533421fa4d3189618c302"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9001986f1d1f870a4544e75e4bf0b73ece3c1942",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Pavel Durov arrested in France upon his arrival to Paris\n\nhttps://www.tf1info.fr/justice-faits-divers/info-tf1-lci-le-fondateur-et-pdg-de-la-messagerie-cryptee-telegram-interpelle-en-france-2316072.html",
+          "timestamp": "2024-08-24T21:01:12.000Z",
+          "embeds": [
+            {
+              "url": "https://www.tf1info.fr/justice-faits-divers/info-tf1-lci-le-fondateur-et-pdg-de-la-messagerie-cryptee-telegram-interpelle-en-france-2316072.html",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": 45962,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.tf1info.fr/justice-faits-divers/info-tf1-lci-le-fondateur-et-pdg-de-la-messagerie-cryptee-telegram-interpelle-en-france-2316072.html",
+                  "ogType": "article",
+                  "favicon": "/images/tf1info-logo-48x48.png",
+                  "ogImage": [
+                    {
+                      "url": "https://photos.tf1info.fr/images/1280/720/pavel-durov-fondateur-telegram-septembre-2015-f13aa8-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLWRlZmF1bHQucG5n&overlayWidth=18&overlayGravity=northwest&s=78c802",
+                      "type": "jpeg"
+                    }
+                  ],
+                  "ogTitle": "INFO TF1-LCI - Le fondateur et PDG de la messagerie Telegram interpellé en France | TF1 INFO",
+                  "ogLocale": "fr_FR",
+                  "ogSiteName": "TF1 INFO",
+                  "ogDescription": "[VIDÉO] Selon nos informations, le fondateur et PDG de la messagerie sécurisée Telegram a été interpellé ce samedi soir à l'aéroport du Bourget. Pavel Durov, franco-russe de 39 ans, était accompagné de son garde du corps et d'une femme. - INFO TF1-LCI - Le fondateur et PDG de la messagerie Telegram interpellé en France (Police, justice et faits divers)."
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9001986f",
+    "url": "https://warpcast.com/yar0x/0x9001986f",
+    "author_username": "yar0x",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 8481,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e59e7f9d-b17e-4b33-bf1a-c04f140e3c00/original",
+    "cast_date": "2024-08-24T21:01:12.000Z",
+    "text": "Pavel Durov arrested in France upon his arrival to Paris\n\nhttps://www.tf1info.fr/justice-faits-divers/info-tf1-lci-le-fondateur-et-pdg-de-la-messagerie-cryptee-telegram-interpelle-en-france-2316072.html",
+    "embeds": [
+      {
+        "url": "https://www.tf1info.fr/justice-faits-divers/info-tf1-lci-le-fondateur-et-pdg-de-la-messagerie-cryptee-telegram-interpelle-en-france-2316072.html",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 45962,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.tf1info.fr/justice-faits-divers/info-tf1-lci-le-fondateur-et-pdg-de-la-messagerie-cryptee-telegram-interpelle-en-france-2316072.html",
+            "ogType": "article",
+            "favicon": "/images/tf1info-logo-48x48.png",
+            "ogImage": [
+              {
+                "url": "https://photos.tf1info.fr/images/1280/720/pavel-durov-fondateur-telegram-septembre-2015-f13aa8-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLWRlZmF1bHQucG5n&overlayWidth=18&overlayGravity=northwest&s=78c802",
+                "type": "jpeg"
+              }
+            ],
+            "ogTitle": "INFO TF1-LCI - Le fondateur et PDG de la messagerie Telegram interpellé en France | TF1 INFO",
+            "ogLocale": "fr_FR",
+            "ogSiteName": "TF1 INFO",
+            "ogDescription": "[VIDÉO] Selon nos informations, le fondateur et PDG de la messagerie sécurisée Telegram a été interpellé ce samedi soir à l'aéroport du Bourget. Pavel Durov, franco-russe de 39 ans, était accompagné de son garde du corps et d'une femme. - INFO TF1-LCI - Le fondateur et PDG de la messagerie Telegram interpellé en France (Police, justice et faits divers)."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5fe285dd",
+    "url": "https://warpcast.com/phil/0x5fe285dd",
+    "author_username": "phil",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2024-08-25T16:51:22.000Z",
+    "text": "Based on the news of Pavel’s arrest today I took the time to visit his Telegram channel.\n\nHis writing history in the channel displays a clarity of thinking and commitment to transparency that is admirable. \n\nHere is his most recent post from August 14th. Hopefully it is not the last one ever.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4fda2617-b515-46f4-9ed6-cb85d6996600/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 1793931,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 2556
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x10561f4f",
+    "url": "https://warpcast.com/dwr.eth/0x10561f4f",
+    "author_username": "dwr.eth",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-08-23T18:39:47.000Z",
+    "text": "Personal update — I won't be at Burning Man this year.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5697ee46",
+    "url": "https://warpcast.com/v/0x5697ee46",
+    "author_username": "v",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-08-23T20:04:04.000Z",
+    "text": "@herocast's analytics page is really good!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8367078e-72cb-4351-db58-9b469e3be900/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 349897,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2480,
+            "height_px": 1634
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x31294464",
+    "url": "https://warpcast.com/v/0x31294464",
+    "author_username": "v",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-08-23T18:55:54.000Z",
+    "text": "Here's an idea for a Farcaster startup: \n\n- Sell labels for Farcaster accounts \n- Accounts can have multiple labels (e.g. airdrop farmer, onchain transctor)  \n- Labels can be either binary or a confidence score (0 to 1) \n\nWarpcast would pay to use this service if you did a good job.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7066b67b",
+    "url": "https://warpcast.com/robin/0x7066b67b",
+    "author_username": "robin",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 369,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b2ecdce0-da58-44f8-d6c5-3300d1b76600/original",
+    "cast_date": "2024-08-24T21:48:50.000Z",
+    "text": "lovely conversation (and song selection) by @lght.eth x @chicbangs.eth. their voices were made for radio.\n\ngave me a meaningfully new appreciation for being onchain and aiming higher.\n\n↑",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5328,
+          "hash": "0x56c48145222d94aac414ce0f3bc0423d47799c6b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x56c48145222d94aac414ce0f3bc0423d47799c6b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5328,
+            "username": "chicbangs.eth",
+            "display_name": "Chic Bangs",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70e637f2-ddb4-4fd0-e56e-35bc44605a00/original",
+            "custody_address": "0xb3c00e770ce7423ab88664367c4d9f741e13b9ad"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x56c48145222d94aac414ce0f3bc0423d47799c6b",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/light",
+          "root_parent_url": "https://warpcast.com/~/channel/light",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "WE ARE LIVE\n\nlisten to the conversation with @lght.eth here:\n\nhttps://ufo.fm/broadcast/lght-higher-together-ep01",
+          "timestamp": "2024-08-24T18:04:50.000Z",
+          "embeds": [
+            {
+              "url": "https://ufo.fm/broadcast/lght-higher-together-ep01",
+              "metadata": {
+                "content_type": "text/html",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogType": "website",
+                  "favicon": "../favicon.png",
+                  "ogImage": [
+                    {
+                      "url": "https://www.datocms-assets.com/137034/1730803270-higher-together-01.jpeg",
+                      "type": "jpeg"
+                    },
+                    {
+                      "url": "https://www.datocms-assets.com/137034/1730803270-higher-together-01.jpeg",
+                      "type": "jpeg"
+                    }
+                  ],
+                  "ogTitle": "LGHT / Higher Together EP01",
+                  "ogLocale": "en",
+                  "ogDescription": "A conversation on what it means to aim higher. Playing tracks by What So Not, Chic x LGHT, Gesaffelstein, TT The Artist and more."
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "light",
+            "name": "LGHT",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c687d9b-1d7e-4645-39f8-5597de94c400/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd73dc9d8",
+    "url": "https://warpcast.com/jessepollak/0xd73dc9d8",
+    "author_username": "jessepollak",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-08-23T19:08:06.000Z",
+    "text": "don't have a basename yet? claim your basename in a frame\n\nhttps://base.org/names",
+    "embeds": [
+      {
+        "url": "https://base.org/names",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://base.org/names",
+            "favicon": "/document/favicon-32x32.png",
+            "ogImage": [
+              {
+                "url": "https://base.org/_next/static/media/basename_cover.809183ef.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Basenames",
+            "ogLocale": "en",
+            "ogDescription": "Basenames are a core onchain building block that enables anyone to establish their identity on Base by registering human-readable names for their address(es). They are a fully onchain solution which leverages ENS infrastructure deployed on Base."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xda10d08b",
+    "url": "https://warpcast.com/jessepollak/0xda10d08b",
+    "author_username": "jessepollak",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-08-24T16:54:49.000Z",
+    "text": "what's your onchain score?\n\nonchainscore.xyz",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bf63060c-b06f-48b2-169b-44681b46ea00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 384814,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 2532
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfa5c3b29",
+    "url": "https://warpcast.com/gabrielhaines/0xfa5c3b29",
+    "author_username": "gabrielhaines",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 240987,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmQj6qrYUJNVGcZeXd7aqkrUgrFhK8ZhmG1ucPL6aq2b1x?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-08-24T20:18:06.000Z",
+    "text": "Everyone here scores over 95",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/f82426b09b678bf6ec628dc18bf214fc.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 19.1
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x083a2f46",
+    "url": "https://warpcast.com/downshift.eth/0x083a2f46",
+    "author_username": "downshift.eth",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 243719,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb5dd0ae-1541-4ace-5084-a5324bfdaf00/original",
+    "cast_date": "2024-08-24T18:56:16.000Z",
+    "text": "i read every reply to this tweet from @valko: https://x.com/valko/status/1827074085555171601\n\nmost common responses:\n- too dev/tech-heavy\n- too eth-centric\n- bad user experience (especially for newbies) \"shouting into a void\"\n- \"my friends aren't there\"\n- boring\n- couldn't pay w/ crypto or required phone # to sign up",
+    "embeds": [
+      {
+        "url": "https://x.com/valko/status/1827074085555171601",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/valko/status/1827074085555171601",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">real talk: why aren&#39;t you using farcaster?</p>&mdash; valko (@valko) <a href=\"https://twitter.com/valko/status/1827074085555171601?ref_src=twsrc%5Etfw\">August 23, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/valko",
+              "author_name": "valko",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0c0b495a",
+    "url": "https://warpcast.com/androidsixteen.eth/0x0c0b495a",
+    "author_username": "androidsixteen.eth",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 3635,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/68e0858a-bd96-41ab-ca47-3e25868d6a00/rectcrop3",
+    "cast_date": "2024-08-25T20:33:01.000Z",
+    "text": "I think the FC community is stronger bc it's earnest\n\nWhen you're a small(ish) group, treating interactions with good faith strengthens the group - that's how you grow and become a bigger group, people arrive for the good energy\n\nX is world-scale. There's not much growth left, so the vibe is ironic (and hence toxic)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 20270,
+          "hash": "0x4b694d2d1da3650db6c80cf45ae9a2fcf77a1dc5"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4b694d2d1da3650db6c80cf45ae9a2fcf77a1dc5",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 20270,
+            "username": "erica",
+            "display_name": "erica",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa6a9c8a-ade1-496b-2534-c9b6f7a1cf00/original",
+            "custody_address": "0x92ce59c18a97646e9a7e011653d8417d3a08bb2b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4b694d2d1da3650db6c80cf45ae9a2fcf77a1dc5",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/heavygweit",
+          "root_parent_url": "https://warpcast.com/~/channel/heavygweit",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "haven’t posted on X in months\n\ngo there today bc folks were saying there’s no women on farcaster and i was like “omg hey I’m there and all these other amazing women too!!”\n\nand now somehow i have been villainized by another woman for saying idt it’s fair or helpful to say there’s no women on farcaster\n\ni fucking hate X lmao",
+          "timestamp": "2024-08-25T19:13:20.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "heavygweit",
+            "name": "heavygweit",
+            "image_url": "https://i.imgur.com/5nKaUSm.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x67e994ee",
+    "url": "https://warpcast.com/proxystudio.eth/0x67e994ee",
+    "author_username": "proxystudio.eth",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 270504,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+    "cast_date": "2024-08-25T22:22:57.000Z",
+    "text": "I really enjoyed the latest gender kerfuffle\n\nit was a great opportunity to get back into a classic hobby enjoyed by many guys: having opinions about women online",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1137,
+          "hash": "0x05a4bd21698b4b0a132349820c1359aa8ea49fd4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x05a4bd21698b4b0a132349820c1359aa8ea49fd4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1137,
+            "username": "ivy",
+            "display_name": "Ivy",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7b7bfe7-0959-4eea-9e05-f134a0086600/original",
+            "custody_address": "0xff7cc396910d4fe94c353688940e39f74a12787a"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x05a4bd21698b4b0a132349820c1359aa8ea49fd4",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:8453/erc721:0x1e5115dc60cdab3c1263a945201cb509ea7a8340",
+          "root_parent_url": "chain://eip155:8453/erc721:0x1e5115dc60cdab3c1263a945201cb509ea7a8340",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "wrt the latest gender kerfuffle i think @proxystudio.eth said it best here!\n\ni am once again asking you to remember that how farcaster looks to a rando woman on twitter or elsewhere is not how it looks to us, my suspicion is that ppl's viewpoints here are really skewed due to group chats",
+          "timestamp": "2024-08-25T22:16:59.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f6648338-c03b-411a-953d-13d336b9fe00/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 146326,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2716,
+                  "height_px": 584
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcasther",
+            "name": "farcastHER",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifastwejsqeht6iwljuv2d5yqaabvkayktzfidxnb3nq4w653slai"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x05a4bd21",
+    "url": "https://warpcast.com/ivy/0x05a4bd21",
+    "author_username": "ivy",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 1137,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7b7bfe7-0959-4eea-9e05-f134a0086600/original",
+    "cast_date": "2024-08-25T22:16:59.000Z",
+    "text": "wrt the latest gender kerfuffle i think @proxystudio.eth said it best here!\n\ni am once again asking you to remember that how farcaster looks to a rando woman on twitter or elsewhere is not how it looks to us, my suspicion is that ppl's viewpoints here are really skewed due to group chats",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f6648338-c03b-411a-953d-13d336b9fe00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 146326,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2716,
+            "height_px": 584
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbd72e75b",
+    "url": "https://warpcast.com/geoffgolberg/0xbd72e75b",
+    "author_username": "geoffgolberg",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 4528,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/873e23da-8440-4b3e-e6b4-790c34800300/rectcrop3",
+    "cast_date": "2024-08-26T00:40:47.000Z",
+    "text": "real talk: why are you using farcaster?\n\nbecause i like talking to bots on the internet",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xecce046f",
+    "url": "https://warpcast.com/cassie/0xecce046f",
+    "author_username": "cassie",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 1325,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45bf39bb-9508-40de-a224-68811d248900/rectcrop3",
+    "cast_date": "2024-08-25T00:47:49.000Z",
+    "text": "Years ago, when I started building a decentralized discord clone, people asked me why. I wanted a communication tool that was truly decentralized, in a way that no state actor was able to gain control over.\n\nSignal's design wasn't capable of group chats beyond a certain size. The features only went so far. And it has failure points such that countries block them by firewall and have to rely on the good graces of others to run proxies, which ultimately get shut down or blocked too.\n\nApp stores do not share in this ideal — their concern is profit, and will bend backwards when forced to by regulatory bodies.\n\nAmazon and others are complicit in helping state actors maintain their control of the web, and are profiting handsomely from the arrangement.\n\nNone of this happened by accident. And I only saw it getting worse. I realized what I was building in this chat application went beyond just chat, and how pressing it was to make this general purpose.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1898,
+          "hash": "0x865e16bfb94edbded36acfefe967c115a9b4ed6c"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x865e16bfb94edbded36acfefe967c115a9b4ed6c",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1898,
+            "username": "boscolo.eth",
+            "display_name": "boscolo.eth",
+            "pfp_url": "https://i.seadn.io/gcs/files/7afc1e009da12d3ee58b20bfbd5cac45.png?w=500&auto=format",
+            "custody_address": "0x3efbe95ebde6042147644bc39cdfcf54b8e4f523"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x865e16bfb94edbded36acfefe967c115a9b4ed6c",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/europoooooor",
+          "root_parent_url": "https://warpcast.com/~/channel/europoooooor",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "This is what leading the world with regulations looks like.\n\nhttps://x.com/balajis/status/1827460724341559474?s=46&t=InqFv-rHAXmvTpjoTSm7Cw",
+          "timestamp": "2024-08-25T00:16:09.000Z",
+          "embeds": [
+            {
+              "url": "https://x.com/balajis/status/1827460724341559474?s=46&t=InqFv-rHAXmvTpjoTSm7Cw",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "oembed": {
+                    "url": "https://twitter.com/balajis/status/1827460724341559474",
+                    "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Telegram founder Pavel Durov arrested in France. His “crime” appears to be enabling free speech online.<a href=\"https://t.co/7zAhPg5Tjs\">https://t.co/7zAhPg5Tjs</a> <a href=\"https://t.co/Et0w5UapJv\">pic.twitter.com/Et0w5UapJv</a></p>&mdash; Balaji (@balajis) <a href=\"https://twitter.com/balajis/status/1827460724341559474?ref_src=twsrc%5Etfw\">August 24, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+                    "type": "rich",
+                    "width": 550,
+                    "height": null,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "cache_age": "3153600000",
+                    "author_url": "https://twitter.com/balajis",
+                    "author_name": "Balaji",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter"
+                  },
+                  "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                      "type": "svg"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "X (formerly Twitter)"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "europoooooor",
+            "name": "europoooooor",
+            "image_url": "https://i.imgur.com/NycQEZt.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x39980c40",
+    "url": "https://warpcast.com/saxenasaheb/0x39980c40",
+    "author_username": "saxenasaheb",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 4753,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e4a99ed-8b09-4702-687a-0783e21ce700/original",
+    "cast_date": "2024-08-25T15:04:11.000Z",
+    "text": "Okay, serious question-\n\nWho is your favourite founder and why is it @cassie?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fd71cf3a-d1d9-4b4f-65c7-4c497cd6f000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 157578,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 1588
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb399b433",
+    "url": "https://warpcast.com/six/0xb399b433",
+    "author_username": "six",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 7143,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/76301e92-5f13-4e72-cc12-c1e366163a00/original",
+    "cast_date": "2024-08-26T00:28:01.000Z",
+    "text": "claiming moxie rewards",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/286189e4-0a2b-4de0-de2e-a2ba16356b00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 859197,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 986,
+            "height_px": 1318
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x06603d4e",
+    "url": "https://warpcast.com/rskagy.eth/0x06603d4e",
+    "author_username": "rskagy.eth",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 410846,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/800bc399-4346-4c87-73a7-0448cc193100/original",
+    "cast_date": "2024-08-23T19:05:07.000Z",
+    "text": "⌐◨-◨ Look at what we accomplished together as a community! The latest mission in two small towns in the Dominican Republic has just been completed! In addition to renovating the local church in the village of Lecheria, we distributed school supplies in the village of El Batey De Palave!\n\nTogether we gave out 350 backpacks to help these kids get started in the new school year, with each one containing 5 notebooks, 5 pencils, 1 sharpener, 2 erasers, 1 small box of crayons, & 1 ruler. 3 lots of children's clothing were sent out to the church for distribution, and we fed 400 children & adults with fried chicken, plantains, chips and drinks! It was a small step towards building a better future for these kids.\n\nWe were able to spread joy, distribute food and school supplies to children, all with the power of nounish values! Watch til the end to see some kids trying on the @preciousnoggles we brought for them! Thank you to @adrienne @nounishprof for the purple nogs we got at FarCon! They are now in the DR too!",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/ff281cfc658c4a4822cb8fb93ff676dc.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "codec_name": "h264",
+                "height_px": 1080,
+                "width_px": 1920
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 720,
+                "width_px": 1280
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 480,
+                "width_px": 852
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 360,
+                "width_px": 640
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 240,
+                "width_px": 426
+              }
+            ],
+            "duration_s": 142.39
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x24b886f5",
+    "url": "https://warpcast.com/galazio/0x24b886f5",
+    "author_username": "galazio",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 13495,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2594af39-cd20-49e0-ec38-046cf188f000/original",
+    "cast_date": "2024-08-23T20:12:46.000Z",
+    "text": "Galazio Kitchen - A Farcaster Cooking Show\nEpisode 6: Spanakopitakia (mini spinach pies)\n\nGalazio Kitchen is back with one of my absolute favorite recipes! \n\nThis episode also features a \"Filo 101” introductory lesson on how to cook with filo pastry 🇬🇷\n\nPour a cup of tea and come spend a gloomy summer afternoon with me in the kitchen - I hope that you enjoy 💜",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/35ebd8856299a53212b028c4d1cd3231.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "codec_name": "h264",
+                "height_px": 1080,
+                "width_px": 1920
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 720,
+                "width_px": 1280
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 480,
+                "width_px": 852
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 360,
+                "width_px": 640
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 240,
+                "width_px": 426
+              }
+            ],
+            "duration_s": 298.4
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa134c0d0",
+    "url": "https://warpcast.com/adrienne/0xa134c0d0",
+    "author_username": "adrienne",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-08-23T20:52:31.000Z",
+    "text": "146 shitty versions down, ♾️ to go\n\nhttps://warpcast.com/garrytan/0x5aded635",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/315f80e7-df2d-4f7f-5dba-7482d5737200/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 717707,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 985
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 72,
+          "hash": "0x5aded635ec5c47522d9ba0337d22ab3c811775e8"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5aded635ec5c47522d9ba0337d22ab3c811775e8",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 72,
+            "username": "garrytan",
+            "display_name": "Garry Tan",
+            "pfp_url": "https://avatars.githubusercontent.com/u/19957?s=400&u=d95c4a92ff27aea2b16949b1a31b434c61b64453&v=4",
+            "custody_address": "0xf6a40cd52a582b200c8a87a15804073522dba2c7"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe4ec97c9a77657df9ebc7c5c0dc39396ff9b8196",
+          "parent_hash": "0xbf25c16601db1990f6061aefda9d656d84ca3e70",
+          "parent_url": null,
+          "root_parent_url": "https://farcaster.group/founders",
+          "parent_author": {
+            "fid": 373
+          },
+          "text": "Do a shitty version of it every day or week and expect it to suck, but try to get feedback and iterate and over the course of years you will go from bad to good to amazing\n\nCompounding works",
+          "timestamp": "2024-01-04T17:06:44.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "founders",
+            "name": "Founders",
+            "image_url": "https://warpcast.com/~/channel-images/founders.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5f6c41ab",
+    "url": "https://warpcast.com/nounishprof/0x5f6c41ab",
+    "author_username": "nounishprof",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-08-25T20:57:56.000Z",
+    "text": "We took some time off this summer from our weekly @paragraph updates but we're back! Catch up below and subscribe to receive our newsetter right in your wallet or inbox! \n\nhttps://paragraph.xyz/@gmfarcaster/gmfarcasterweekofaugust19",
+    "embeds": [
+      {
+        "url": "https://paragraph.xyz/@gmfarcaster/gmfarcasterweekofaugust19",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2024-08-25T00:00:00.000Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/316b5b1594aac039e53b3cc5f2901dac.jpg",
+            "ogImage": [
+              {
+                "alt": "GM Farcaster catch up",
+                "url": "https://storage.googleapis.com/papyrus_images/9ecea319c54c13ec706d937e62f0f5e2.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "GM Farcaster catch up",
+            "ogLocale": "en",
+            "ogDescription": "GM! Yeah it's been a minute -- we took a lil summer break from the weekly newsletter but now we're back! We've had some amazing episodes recently so below you'll see our recent interviews as well as last week's three episodes. Looking ahead, GM Farcaster is coming up on our one year anniversary on S",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@gmfarcaster/gmfarcasterweekofaugust19?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=GM%20Farcaster%20catch%20up&blogName=GM%20Farcaster&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F316b5b1594aac039e53b3cc5f2901dac.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F9ecea319c54c13ec706d937e62f0f5e2.jpg&size=2048&publishedDate=1724544000000"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=GM%20Farcaster%20catch%20up&blogName=GM%20Farcaster&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F316b5b1594aac039e53b3cc5f2901dac.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F9ecea319c54c13ec706d937e62f0f5e2.jpg&size=2048&publishedDate=1724544000000",
+            "frames_url": "https://paragraph.xyz/@gmfarcaster/gmfarcasterweekofaugust19",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGgueHl6In0",
+                "signature": "MHg5YmQ4MDcxNmVmNjIwZTFjM2UwZDkzMzQ5ZDNlNTU5N2MzYmU3NzQ2MDJmYTliZmE1Zjg2Mzk3Y2QxZTk4MGExM2RmNDVmMDM2ODE5Y2FhZmZiZmE5MTMxN2U3MGRlYWRlYTI2YWUzMTA2N2I1NDNiMTFkZDI3ODk3NzQ3ZWI5YjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5f25b614",
+    "url": "https://warpcast.com/borrowlucid.eth/0x5f25b614",
+    "author_username": "borrowlucid.eth",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 19858,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8f1427ef-d611-4317-55d1-6fd14eeed000/original",
+    "cast_date": "2024-08-25T17:34:15.000Z",
+    "text": "what's the best way to support /gmfarcaster with /moxie ?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3b4bb65c",
+    "url": "https://warpcast.com/kayvon/0x3b4bb65c",
+    "author_username": "kayvon",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 4473,
+    "author_pfp": "https://i.imgur.com/6871sp9.jpg",
+    "cast_date": "2024-08-23T22:33:00.000Z",
+    "text": "𝖭𝖤𝖶 𝖥𝖤𝖠𝖳𝖴𝖱𝖤 𝖮𝖭 @𝗋𝗈𝖽𝖾𝗈𝖽𝗈𝗍𝖼𝗅𝗎𝖻\n\nYou can now cast posts to specific channels directly from @rodeodotclub.\n\nPost to earn rewards on @rodeodotclub.\n\nShare out to your favorite @farcaster channel to ensure your friends see it.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e205b6fc-3d03-4a81-8142-6ddc853ea400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 228462,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 720,
+            "height_px": 405
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa3ad7913",
+    "url": "https://warpcast.com/vitalik.eth/0xa3ad7913",
+    "author_username": "vitalik.eth",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 5650,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b663cd63-fecf-4d0f-7f87-0e0b6fd42800/original",
+    "cast_date": "2024-08-25T06:32:46.000Z",
+    "text": "I guess I started an accidental AMA on which parts of the crypto space are good and which I'm so far not excited about, along with other big picture vision questions:\n\nhttps://x.com/VitalikButerin/status/1827583576751181961\n\nYou should feel free to ask questions here too! Let's see if Farcaster can come up with higher-quality questions than the other app :)",
+    "embeds": [
+      {
+        "url": "https://x.com/VitalikButerin/status/1827583576751181961",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/VitalikButerin/status/1827583576751181961",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The kinds of applications that I want to see are applications that are (i) useful in a sustainable way, and (ii) don&#39;t sacrifice on the principles (permissionlessness, decentralization, etc)<br><br>I think DEXes are great, and I use them every week.<br><br>I think decentralized stablecoins…</p>&mdash; vitalik.eth (@VitalikButerin) <a href=\"https://twitter.com/VitalikButerin/status/1827583576751181961?ref_src=twsrc%5Etfw\">August 25, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/VitalikButerin",
+              "author_name": "vitalik.eth",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd920926a",
+    "url": "https://warpcast.com/fredwilson.eth/0xd920926a",
+    "author_username": "fredwilson.eth",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 169,
+    "author_pfp": "https://lh3.googleusercontent.com/fWnQF5IzaerIcPn5rPHvl4oENtum0Jr2M5wxtC99L2c0ELGPD9WzgxhlgeybhUrO-LueMKSYgBWyhKcT5wydRotxpONeNJaP78t2nA",
+    "cast_date": "2024-08-23T16:34:12.000Z",
+    "text": "Hi Casters. I love showcasing digital art on TV screens in my home and offices. I've been doing this for almost a decade now and it has gotten easier. With view.art, which launched to the world today, it has gotten wayyyy easier. I wrote about all of this on my blog today https://avc.xyz/viewart",
+    "embeds": [
+      {
+        "url": "http://view.art",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.view.art/",
+            "ogType": "website",
+            "favicon": "/favicon.svg",
+            "ogImage": [
+              {
+                "url": "/view.art_logo_square.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "view.art",
+            "ogLocale": "en",
+            "ogSiteName": "view.art",
+            "ogDescription": "Curate and showcase onchain art anywhere"
+          }
+        }
+      },
+      {
+        "url": "https://avc.xyz/viewart",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2024-08-23T16:30:36.417Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/e7524325933060800724a1ec84d9b1ed.jpg",
+            "ogImage": [
+              {
+                "url": "https://view.art/view.art_logo_square.png",
+                "type": "png"
+              },
+              {
+                "url": "https://view.art/view.art_logo_square.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "View.art",
+            "ogLocale": "en",
+            "ogDescription": "I have long been interested in displaying digital art on the walls in my home and office. I wrote this back in 2017 and this when we open...",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@avc/viewart?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=View.art&blogName=AVC&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fe7524325933060800724a1ec84d9b1ed.jpg&coverPhotoUrl=&size=2048&publishedDate=1724430636417"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=View.art&blogName=AVC&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fe7524325933060800724a1ec84d9b1ed.jpg&coverPhotoUrl=&size=2048&publishedDate=1724430636417",
+            "frames_url": "https://avc.xyz/viewart"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1f3d56ad",
+    "url": "https://warpcast.com/keccers.eth/0x1f3d56ad",
+    "author_username": "keccers.eth",
+    "show_date": "2024-08-26",
+    "show_title": "GM Farcaster Ep147 Monday August 26, 2024",
+    "source_episode_id": "tUVVPPfNDF0",
+    "author_fid": 4407,
+    "author_pfp": "https://i.imgur.com/kynnpYw.jpg",
+    "cast_date": "2024-08-25T19:31:36.000Z",
+    "text": "“It’s a shame she didn’t get enough work done this week, I really liked her. She always was nice to her neighbors” the man in The Department of Labor Management remarked to his partner. \n\nHe turned to his computer, double checked the work quota and pressed a key, silently sending a signal to the state mandated brain implant that shut down the woman’s body instantly. She felt no pain. \n\nSomeone would pick her up in the morning to take her to be burned. A handful of bodies were used as fertilizer in the few farms that remained, but mostly everyone wound up in a giant silky dune of cremains. The technologists were working on ways to extract more from the bodies; scarce chemicals and compounds. \n\nLabor Management deaths were forbidden burials as it would take too much time away from work, for mourning. Plus while everyone knew it had to be done — nonproductive people with no other means had to die, society simply cannot support them— no one liked to look it in the eye.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  }
+]

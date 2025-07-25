@@ -1,0 +1,1289 @@
+[
+  {
+    "cast_hash": "0xf087945c",
+    "url": "https://warpcast.com/dwr.eth/0xf087945c",
+    "author_username": "dwr.eth",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-04-25T20:00:03.000Z",
+    "text": "Introducing Priority mode\n\nSee fewer uninteresting casts when using Warpcast\n\nBy default, the app will only show you casts from accounts 1) you follow, 2) with the power badge or 3) engaged with by the cast author\n\nToggle on / off in settings\n\nhttps://warpcast.notion.site/Priority-mode-7a9bccacc1474ccbba1e58dd2bec2dd3",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a73910f-571c-4dbe-af01-d7e8c54cc900/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 33609,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1204,
+            "height_px": 716
+          }
+        }
+      },
+      {
+        "url": "https://warpcast.notion.site/Priority-mode-7a9bccacc1474ccbba1e58dd2bec2dd3",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.notion.site/Priority-mode-7a9bccacc1474ccbba1e58dd2bec2dd3",
+            "ogType": "article",
+            "favicon": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2F67e83825-cb16-4f50-b620-f4662e27c43b%2FFrame_22.png?table=block&id=7a9bccac-c147-4ccb-ba1e-58dd2bec2dd3&spaceId=1ae150b5-547b-47f9-9f29-638305dbba7a&width=2000&userId=&cache=v2",
+            "ogImage": [
+              {
+                "url": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2F0ca8fc2f-975a-4192-8483-d83fb2755fd1%2FFrame_25.png?table=block&id=f36fcfd2-5e5d-4d70-ae06-2b712a168cc2&width=2000&userId=&cache=v2",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Priority mode | Notion",
+            "ogLocale": "en_US",
+            "ogSiteName": "Warpcast on Notion",
+            "ogDescription": "With priority mode, Warpcast allows you to control what other accounts you see when using the app. With priority mode turned on, you’ll only see:"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x40766025",
+    "url": "https://warpcast.com/dwr.eth/0x40766025",
+    "author_username": "dwr.eth",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-04-25T20:11:33.000Z",
+    "text": "1/ How to think about this:\n\n- Who you follow: you control this! Unfollow at any time.\n\n- Power badge: a nice mix of interesting OG Farcaster accounts and newer accounts that have built an audience\n\n- Cast author engagement: discover accounts with engagement worth replies\n\nShould bring back a \"pre-permissionless\" vibe.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xf087945cbf30890e029ae21bf1118da3ba263b5a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf087945cbf30890e029ae21bf1118da3ba263b5a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf087945cbf30890e029ae21bf1118da3ba263b5a",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Introducing Priority mode\n\nSee fewer uninteresting casts when using Warpcast\n\nBy default, the app will only show you casts from accounts 1) you follow, 2) with the power badge or 3) engaged with by the cast author\n\nToggle on / off in settings\n\nhttps://warpcast.notion.site/Priority-mode-7a9bccacc1474ccbba1e58dd2bec2dd3",
+          "timestamp": "2024-04-25T20:00:03.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a73910f-571c-4dbe-af01-d7e8c54cc900/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 33609,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1204,
+                  "height_px": 716
+                }
+              }
+            },
+            {
+              "url": "https://warpcast.notion.site/Priority-mode-7a9bccacc1474ccbba1e58dd2bec2dd3",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://warpcast.notion.site/Priority-mode-7a9bccacc1474ccbba1e58dd2bec2dd3",
+                  "ogType": "article",
+                  "favicon": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2F67e83825-cb16-4f50-b620-f4662e27c43b%2FFrame_22.png?table=block&id=7a9bccac-c147-4ccb-ba1e-58dd2bec2dd3&spaceId=1ae150b5-547b-47f9-9f29-638305dbba7a&width=2000&userId=&cache=v2",
+                  "ogImage": [
+                    {
+                      "url": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2F0ca8fc2f-975a-4192-8483-d83fb2755fd1%2FFrame_25.png?table=block&id=f36fcfd2-5e5d-4d70-ae06-2b712a168cc2&width=2000&userId=&cache=v2",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Priority mode | Notion",
+                  "ogLocale": "en_US",
+                  "ogSiteName": "Warpcast on Notion",
+                  "ogDescription": "With priority mode, Warpcast allows you to control what other accounts you see when using the app. With priority mode turned on, you’ll only see:"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa0924c78",
+    "url": "https://warpcast.com/dwr.eth/0xa0924c78",
+    "author_username": "dwr.eth",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-04-25T20:27:15.000Z",
+    "text": "Won't priority mode make it harder for new \"good\" accounts to get discovered?\n\nTL;DR — Yes. But a more tractable problem than classifying all the uninteresting accounts that annoy people.\n\n(Since people don't FAQ links.)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4fc0d98-9634-4a00-281e-3525a8eb9200/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 254952,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1558,
+            "height_px": 988
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xf087945cbf30890e029ae21bf1118da3ba263b5a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf087945cbf30890e029ae21bf1118da3ba263b5a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf087945cbf30890e029ae21bf1118da3ba263b5a",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Introducing Priority mode\n\nSee fewer uninteresting casts when using Warpcast\n\nBy default, the app will only show you casts from accounts 1) you follow, 2) with the power badge or 3) engaged with by the cast author\n\nToggle on / off in settings\n\nhttps://warpcast.notion.site/Priority-mode-7a9bccacc1474ccbba1e58dd2bec2dd3",
+          "timestamp": "2024-04-25T20:00:03.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a73910f-571c-4dbe-af01-d7e8c54cc900/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 33609,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1204,
+                  "height_px": 716
+                }
+              }
+            },
+            {
+              "url": "https://warpcast.notion.site/Priority-mode-7a9bccacc1474ccbba1e58dd2bec2dd3",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://warpcast.notion.site/Priority-mode-7a9bccacc1474ccbba1e58dd2bec2dd3",
+                  "ogType": "article",
+                  "favicon": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2F67e83825-cb16-4f50-b620-f4662e27c43b%2FFrame_22.png?table=block&id=7a9bccac-c147-4ccb-ba1e-58dd2bec2dd3&spaceId=1ae150b5-547b-47f9-9f29-638305dbba7a&width=2000&userId=&cache=v2",
+                  "ogImage": [
+                    {
+                      "url": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2F0ca8fc2f-975a-4192-8483-d83fb2755fd1%2FFrame_25.png?table=block&id=f36fcfd2-5e5d-4d70-ae06-2b712a168cc2&width=2000&userId=&cache=v2",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Priority mode | Notion",
+                  "ogLocale": "en_US",
+                  "ogSiteName": "Warpcast on Notion",
+                  "ogDescription": "With priority mode, Warpcast allows you to control what other accounts you see when using the app. With priority mode turned on, you’ll only see:"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4a580068",
+    "url": "https://warpcast.com/dwr.eth/0x4a580068",
+    "author_username": "dwr.eth",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-04-25T20:04:00.000Z",
+    "text": "After this, the last place uninteresting generic LLM-generated casts and spam will still be visible is channels. Will have a fix for it soon.\n\nRemember, you can always opt out of priority mode or use a different client.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xf087945cbf30890e029ae21bf1118da3ba263b5a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf087945cbf30890e029ae21bf1118da3ba263b5a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf087945cbf30890e029ae21bf1118da3ba263b5a",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Introducing Priority mode\n\nSee fewer uninteresting casts when using Warpcast\n\nBy default, the app will only show you casts from accounts 1) you follow, 2) with the power badge or 3) engaged with by the cast author\n\nToggle on / off in settings\n\nhttps://warpcast.notion.site/Priority-mode-7a9bccacc1474ccbba1e58dd2bec2dd3",
+          "timestamp": "2024-04-25T20:00:03.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a73910f-571c-4dbe-af01-d7e8c54cc900/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 33609,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1204,
+                  "height_px": 716
+                }
+              }
+            },
+            {
+              "url": "https://warpcast.notion.site/Priority-mode-7a9bccacc1474ccbba1e58dd2bec2dd3",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://warpcast.notion.site/Priority-mode-7a9bccacc1474ccbba1e58dd2bec2dd3",
+                  "ogType": "article",
+                  "favicon": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2F67e83825-cb16-4f50-b620-f4662e27c43b%2FFrame_22.png?table=block&id=7a9bccac-c147-4ccb-ba1e-58dd2bec2dd3&spaceId=1ae150b5-547b-47f9-9f29-638305dbba7a&width=2000&userId=&cache=v2",
+                  "ogImage": [
+                    {
+                      "url": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2F0ca8fc2f-975a-4192-8483-d83fb2755fd1%2FFrame_25.png?table=block&id=f36fcfd2-5e5d-4d70-ae06-2b712a168cc2&width=2000&userId=&cache=v2",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Priority mode | Notion",
+                  "ogLocale": "en_US",
+                  "ogSiteName": "Warpcast on Notion",
+                  "ogDescription": "With priority mode, Warpcast allows you to control what other accounts you see when using the app. With priority mode turned on, you’ll only see:"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfdb6c66a",
+    "url": "https://warpcast.com/adrienne/0xfdb6c66a",
+    "author_username": "adrienne",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-04-25T21:24:12.000Z",
+    "text": "Don’t be uninteresting",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3fc817b4-6f6c-42ad-aa4c-f1ae0b49cc00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 102333,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1116,
+            "height_px": 1405
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xf087945cbf30890e029ae21bf1118da3ba263b5a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf087945cbf30890e029ae21bf1118da3ba263b5a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf087945cbf30890e029ae21bf1118da3ba263b5a",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Introducing Priority mode\n\nSee fewer uninteresting casts when using Warpcast\n\nBy default, the app will only show you casts from accounts 1) you follow, 2) with the power badge or 3) engaged with by the cast author\n\nToggle on / off in settings\n\nhttps://warpcast.notion.site/Priority-mode-7a9bccacc1474ccbba1e58dd2bec2dd3",
+          "timestamp": "2024-04-25T20:00:03.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a73910f-571c-4dbe-af01-d7e8c54cc900/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 33609,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1204,
+                  "height_px": 716
+                }
+              }
+            },
+            {
+              "url": "https://warpcast.notion.site/Priority-mode-7a9bccacc1474ccbba1e58dd2bec2dd3",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://warpcast.notion.site/Priority-mode-7a9bccacc1474ccbba1e58dd2bec2dd3",
+                  "ogType": "article",
+                  "favicon": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2F67e83825-cb16-4f50-b620-f4662e27c43b%2FFrame_22.png?table=block&id=7a9bccac-c147-4ccb-ba1e-58dd2bec2dd3&spaceId=1ae150b5-547b-47f9-9f29-638305dbba7a&width=2000&userId=&cache=v2",
+                  "ogImage": [
+                    {
+                      "url": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2F0ca8fc2f-975a-4192-8483-d83fb2755fd1%2FFrame_25.png?table=block&id=f36fcfd2-5e5d-4d70-ae06-2b712a168cc2&width=2000&userId=&cache=v2",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Priority mode | Notion",
+                  "ogLocale": "en_US",
+                  "ogSiteName": "Warpcast on Notion",
+                  "ogDescription": "With priority mode, Warpcast allows you to control what other accounts you see when using the app. With priority mode turned on, you’ll only see:"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7c65a06a",
+    "url": "https://warpcast.com/horsefacts.eth/0x7c65a06a",
+    "author_username": "horsefacts.eth",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2024-04-24T04:40:40.000Z",
+    "text": "FC idealists and realists sometimes talk past each other. Both see a growing network with 50k DAU. \n\nIdealists round up to the best possible future. Why isn’t it more like that today? \n\nRealists round down to the most probable future: zero, default dead. What can we do today to escape it?\n\nWe need both.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd5e8b322",
+    "url": "https://warpcast.com/dwr.eth/0xd5e8b322",
+    "author_username": "dwr.eth",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-04-25T19:41:27.000Z",
+    "text": "Please reply or like the casts of questions you're most interested in hearing",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x7fbc23540dc08f59f7072f874d951d66c8e89a64"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7fbc23540dc08f59f7072f874d951d66c8e89a64",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7fbc23540dc08f59f7072f874d951d66c8e89a64",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "root_parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "@dwr.eth and I will do a 5-10 minute talk and some Q&A to kick off farcon next week. \n\nIf you're going to be there, what do you want to hear us talk about?",
+          "timestamp": "2024-04-25T19:34:08.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcon",
+            "name": "FarCon",
+            "image_url": "https://i.imgur.com/mtH8eq1.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6ba46c77",
+    "url": "https://warpcast.com/j4ck.eth/0x6ba46c77",
+    "author_username": "j4ck.eth",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 431,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b82cfba-7d62-43ad-f752-1643db239b00/original",
+    "cast_date": "2024-04-25T22:15:40.000Z",
+    "text": "Run it back, bigger & badder! 🏋️😤💪\n\n🧊 Personalized badges for Summit Pass holders\n🧊 Badges pre-mapped to all ticketholder FIDs\n🧊 FC native shortlinks (.fc)\n🧊 Share multiple accounts at once via tap\n🧊 Dynamic NFT Tickets\n🧊 Open connection data + profile APIs\n\nStoked for next week! 🐂",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/69616609-1f26-40fc-1cd9-f78e1fc4e200/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 1400557,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 908,
+            "height_px": 1210
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 12219,
+          "hash": "0x06dff6afa03359eee63d92ba6e5797ce4e227202"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x06dff6afa03359eee63d92ba6e5797ce4e227202",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12219,
+            "username": "icebreaker",
+            "display_name": "icebreaker",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5e126994-5076-4fcd-2799-2e6ef0e4b300/original",
+            "custody_address": "0x34e0db60c412dfcd1270fa72e924ef1326b69989"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 19528,
+            "username": "legacy-signer",
+            "display_name": "Legacy Signer",
+            "pfp_url": "https://i.imgur.com/Zy0CR5i.jpg",
+            "custody_address": "0x14eddb503b5b93caaf87ab93ded8da613d9a4625"
+          },
+          "thread_hash": "0x06dff6afa03359eee63d92ba6e5797ce4e227202",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Getting ready for FarCon 🤩\n\nWe are running a pre-alpha at FarCon with custom NFC cards and a dynamic NFT that transforms based on how many people you Connect with\n\nWe will have 50 cards available for distribution. Drop a comment if you’re keen to get one from @j4ck.eth in Boston 🫡",
+          "timestamp": "2023-06-07T15:57:23.000Z",
+          "embeds": [
+            {
+              "url": "https://ua.jam.so/images/643ea8d94a36e6abea20a37f/a17df7ac-4852-498b-8c5f-74451b9ceeda.jpg",
+              "metadata": {
+                "content_type": null,
+                "content_length": null,
+                "_status": "RESOLVED"
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd1ac7287",
+    "url": "https://warpcast.com/victoctero/0xd1ac7287",
+    "author_username": "victoctero",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 8109,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/43e7b262-96f9-440f-a1b2-dedd33ec4600/original",
+    "cast_date": "2024-04-25T08:10:25.000Z",
+    "text": "Would you like to have your IRL power badge?\n\nThe FLOC* team is bringing your version of the Warpcast pfp to FarCon... You'll see us for sure to pick yours up! 😉",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85d15af9-6e35-49af-1667-a6c7193adb00/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 11957521,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1200,
+            "height_px": 1200
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x93fd3dfd",
+    "url": "https://warpcast.com/jtgi/0x93fd3dfd",
+    "author_username": "jtgi",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 5179,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/484f9558-8a25-4df6-cd96-623c8fe59f00/original",
+    "cast_date": "2024-04-25T23:52:07.000Z",
+    "text": "new: /automod now supports downvote.\n\nChannel hosts can opt in whoever they want to be able to downvote via cast actions. You control the downvote threshold and what happens: hide the post, put the user in cooldown–whatever you like.\n\nAvailable now to all channels.",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/52b71bc0cabc9b73946b316ca6cbea62.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 950,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 632,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 474,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 316,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 127.19
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7998698b",
+    "url": "https://warpcast.com/jacek/0x7998698b",
+    "author_username": "jacek",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 15983,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+    "cast_date": "2024-04-22T22:55:28.000Z",
+    "text": "We've teamed up with @matchaxyz as our go-to DEX for trading $DEGEN, and we're thrilled about it! They've built an outstanding platform, and we're excited to collaborate. Plus, it’s super cool to see them handing out over 3 million $DEGEN to their users! https://matcha.xyz/?ref=degentips",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 17114,
+          "hash": "0x4bde5c0e8369674b3318df55f0c874134d00c06c"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4bde5c0e8369674b3318df55f0c874134d00c06c",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 17114,
+            "username": "matchaxyz",
+            "display_name": "Matcha 🍵 (EVM+Solana)",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d73b034-b5d1-4ca0-d349-d99fc6aa3000/original",
+            "custody_address": "0x135ec556e36906e6486771b8bc105e513cea1124"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4bde5c0e8369674b3318df55f0c874134d00c06c",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Let's make this Warpcast official (WCO) ✨🍵🎩\n\nWe're partnering with DEGEN as the preferred DEX of 🎩 gang.\n\n>in the past 60D, we've distributed 3M $DEGEN to Matcha users\n>>and now we're doubling down 😈\n\nWhat do you want to see from this Matcha x DEGEN partnership? Comment below for a tip.",
+          "timestamp": "2024-04-22T19:04:16.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.warpcast.com/v1/video/93b80d2eb973762827a7ca16ae7ef905.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "codec_name": "h264",
+                      "height_px": 1080,
+                      "width_px": 1450
+                    },
+                    {
+                      "codec_name": "h264",
+                      "height_px": 720,
+                      "width_px": 966
+                    },
+                    {
+                      "codec_name": "h264",
+                      "height_px": 480,
+                      "width_px": 644
+                    },
+                    {
+                      "codec_name": "h264",
+                      "height_px": 360,
+                      "width_px": 482
+                    },
+                    {
+                      "codec_name": "h264",
+                      "height_px": 240,
+                      "width_px": 322
+                    }
+                  ],
+                  "duration_s": 7.5
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "degen",
+            "name": "Degen",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb45b13aa",
+    "url": "https://warpcast.com/matchaxyz/0xb45b13aa",
+    "author_username": "matchaxyz",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 17114,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d73b034-b5d1-4ca0-d349-d99fc6aa3000/original",
+    "cast_date": "2024-04-19T23:32:31.000Z",
+    "text": "💥 HALVING FRAME GANG 💥\n\n👉 To commemorate this upcoming Bitcoin Halving, here’s a Frame for $WBTC enjoooyers.\n\nEver swapped $WBTC using Matcha Auto? Claim 69 $DEGEN 🎩\n\n> Counts historical trades \n> Counts new trades (wait 20 min)\n> $5+\n> Must use Matcha Auto\n> ily\n\nhttps://matcha-reward.vercel.app",
+    "embeds": [
+      {
+        "url": "https://matcha-reward.vercel.app",
+        "metadata": {
+          "content_type": "text/plain;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3c7b4b13",
+    "url": "https://warpcast.com/antimofm.eth/0x3c7b4b13",
+    "author_username": "antimofm.eth",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 4923,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ecab7b34-e9a7-4c3d-2cd4-c3f0f887b500/original",
+    "cast_date": "2024-04-25T11:05:02.000Z",
+    "text": "having gone through the thought process of explaining Farcaster to normies a few times, I think best explanation is that Farcaster is like the Matrix\n\nit must be experienced",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/efa36023-cc6c-4578-6976-1045693cab00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 105107,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 576,
+            "height_px": 324
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3c3173f7",
+    "url": "https://warpcast.com/nounishprof/0x3c3173f7",
+    "author_username": "nounishprof",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-04-25T12:51:20.000Z",
+    "text": "YAY! It worked! minted my /farcards \n\nThis clearly is resonating @undefined — well done!",
+    "embeds": [
+      {
+        "url": "https://far.cards/api/trade/user/4167",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://far.cards/api/card/4167?t=1744768558560"
+              }
+            ],
+            "ogTitle": "🃏",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa41beb6f",
+    "url": "https://warpcast.com/toadzworld/0xa41beb6f",
+    "author_username": "toadzworld",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 440135,
+    "author_pfp": "https://i.imgur.com/auVMdmv.gif",
+    "cast_date": "2024-04-25T12:54:47.000Z",
+    "text": "Collect the !vibe 🐸\n\nminted my /farcards",
+    "embeds": [
+      {
+        "url": "https://far.cards/api/trade/user/440135",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://far.cards/api/card/440135?t=1744887134562"
+              }
+            ],
+            "ogTitle": "🃏",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x37b552db",
+    "url": "https://warpcast.com/staraptor.eth/0x37b552db",
+    "author_username": "staraptor.eth",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 417418,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5766f86d-ad95-452a-7c3f-e691e3857e00/rectcrop3",
+    "cast_date": "2024-04-25T13:34:20.000Z",
+    "text": "If you want to buy someone’s far.card directly this is how ⬇️⬇️\n\nhttps://mint.club/explore/base\n\nThen search “far.cards - their name”",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a4354ac2-637b-4517-bf29-02d36b04b300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 139069,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 1830
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3e235100",
+    "url": "https://warpcast.com/undefined/0x3e235100",
+    "author_username": "undefined",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 8152,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/67d77bcc-a871-4b7e-1a8e-3d11a68d8400/original",
+    "cast_date": "2024-04-26T13:08:38.000Z",
+    "text": "use this frame to check your /farcards stash 🃏 \n\nor use the url\n\nfar(dot)cards/YOUR_FID/bag\n\nfar.cards/bag",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/14c45f9a7e649fd03e2c58d3533e7301.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "codec_name": "h264",
+                "height_px": 720,
+                "width_px": 1192
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 480,
+                "width_px": 794
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 360,
+                "width_px": 596
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 240,
+                "width_px": 396
+              }
+            ],
+            "duration_s": 22.5
+          }
+        }
+      },
+      {
+        "url": "http://far.cards/bag",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://i.imgur.com/sRS59pN.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Frog Frame",
+            "ogLocale": "en",
+            "ogDescription": "far.cards"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x61400497",
+    "url": "https://warpcast.com/jacek/0x61400497",
+    "author_username": "jacek",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 15983,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+    "cast_date": "2024-04-23T15:46:30.000Z",
+    "text": "We've recently taken action by banning approximately 2,000 users whom we suspect were farming Degen. If you believe you've been unfairly banned, please take a moment to fill out this form, and we'll investigate further: https://gz2b1hncupx.typeform.com/to/BBWdpenx",
+    "embeds": [
+      {
+        "url": "https://supercast.mypinata.cloud/ipfs/QmTjrdaev2CtBar8Ne1E4K9nTWNhDHDKP6MfCL7Pmg9Bij?filename=image.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 61175,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1248,
+            "height_px": 326
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x17699bc3",
+    "url": "https://warpcast.com/ilemi/0x17699bc3",
+    "author_username": "ilemi",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 16522,
+    "author_pfp": "https://i.seadn.io/gcs/files/0b4c55e6d43d34440c7fbf9adffa73c0.png?w=500&auto=format",
+    "cast_date": "2024-04-25T16:08:05.000Z",
+    "text": "I created a dashboard that gives Farcaster memecoins financial and social scores, so communities can understand how they stack up against one other and investors can better understand risks.\n\nLet me detail the methodology (article and dashboard linked below)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8daa27f9-0540-4c0e-c79e-f25e5a869500/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 111584,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 930,
+            "height_px": 508
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0f92ffc7",
+    "url": "https://warpcast.com/df/0x0f92ffc7",
+    "author_username": "df",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 1214,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a6497fe-5e4e-4297-fd02-26a1c052fe00/original",
+    "cast_date": "2024-04-24T20:14:47.000Z",
+    "text": "Farcasters with the longest streak of being weekly active on the network\n\nhttps://dune.com/queries/3669223",
+    "embeds": [
+      {
+        "url": "https://dune.com/queries/3669223",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/assets/glyph-1024w.png",
+            "ogImage": [
+              {
+                "url": "https://dune.com/assets/poster-1440w.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Farcaster Consecutive Weeks",
+            "ogLocale": "en",
+            "ogDescription": "Free crypto analytics by and for the community. Access crypto data tools and blockchain analytics with 700,000+ dashboards covering DeFi, NFTs, and onchain data. Track meme coin metrics, DEX analysis, and more across dozens of protocols like Ethereum, Bitcoin, and Solana."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0c0964e3",
+    "url": "https://warpcast.com/adrienne/0x0c0964e3",
+    "author_username": "adrienne",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-04-25T21:05:06.000Z",
+    "text": "Did you know Jonny Mack was on Boys Club talking about hypersub 😱 \n\n@nonlinear.eth @boysclub fantastic episode and conversation 👏 \n\nEveryone go listen \n\nhttps://open.spotify.com/episode/6Dl4o6ZR1bp0z1FfOH1Gu7?si=KTRA2AT5RdisiiP64DEyeA",
+    "embeds": [
+      {
+        "url": "https://open.spotify.com/episode/6Dl4o6ZR1bp0z1FfOH1Gu7?si=KTRA2AT5RdisiiP64DEyeA",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://open.spotify.com/episode/6Dl4o6ZR1bp0z1FfOH1Gu7",
+            "oembed": {
+              "html": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Ep 132: Creators, Subscriptions and The Money of It All with Jonny Mack, Hypersub\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/episode/6Dl4o6ZR1bp0z1FfOH1Gu7?si=KTRA2AT5RdisiiP64DEyeA&utm_source=oembed\"></iframe>",
+              "type": "rich",
+              "title": "Ep 132: Creators, Subscriptions and The Money of It All with Jonny Mack, Hypersub",
+              "width": 456,
+              "height": 152,
+              "method": "provider-api",
+              "version": "1.0",
+              "iframe_url": "https://open.spotify.com/embed/episode/6Dl4o6ZR1bp0z1FfOH1Gu7?si=KTRA2AT5RdisiiP64DEyeA&utm_source=oembed",
+              "provider_url": "https://spotify.com",
+              "provider_name": "Spotify",
+              "thumbnail_url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f3124eee6de14584ff909c6cf",
+              "thumbnail_width": 300,
+              "thumbnail_height": 300
+            },
+            "ogType": "music.song",
+            "favicon": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
+            "ogAudio": "https://podz-content.spotifycdn.com/audio/clips/4385WdPrPMRzYFUUDINigG/clip_750680_809950.mp3",
+            "ogImage": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a3124eee6de14584ff909c6cf"
+              }
+            ],
+            "ogTitle": "Ep 132: Creators, Subscriptions and The Money of It All with Jonny Mack, Hypersub",
+            "ogLocale": "en",
+            "ogSiteName": "Spotify",
+            "ogAudioType": "audio/mpeg",
+            "ogDescription": "Boys Club · Episode"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc6040193",
+    "url": "https://warpcast.com/jacek/0xc6040193",
+    "author_username": "jacek",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 15983,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+    "cast_date": "2024-04-24T13:14:01.000Z",
+    "text": "Just found out about Garden.wtf, it's sorta like BasePaint but all NFT artwork is minted using $DEGEN. When you fav a part of the canvas, that part is stored on the Degen L3 chain. I just added a pair of glasses—can someone add something cool to this?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0ca75600-6c00-4494-2243-0dd600a79400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 15210,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 542,
+            "height_px": 294
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 746,
+          "hash": "0x8d3449d17fddc91a003fa0c0dfecdf2e1f151da4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x8d3449d17fddc91a003fa0c0dfecdf2e1f151da4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 746,
+            "username": "codyb.eth",
+            "display_name": "cody",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c0e2617-61f1-471b-fe04-f5e746666500/original",
+            "custody_address": "0x375c1de579514d90da7027507e2c47c93931d1b7"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x8d3449d17fddc91a003fa0c0dfecdf2e1f151da4",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "New project in honor of degen hackathon.\n\n- /garden- released our first ever prompt “degen week” and a bounty for creative contributions.\n- Draw degen related memes and feel free to (artfully) shill projects you submitted to the degen hackathon.\n\nThe bounty is tied to a NFT that just went live. \n\njoin! garden.wtf",
+          "timestamp": "2024-04-23T20:56:08.000Z",
+          "embeds": [
+            {
+              "url": "http://garden.wtf",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/apple-touch-icon.png",
+                  "ogImage": [
+                    {
+                      "url": "https://garden.wtf/card2.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "garden",
+                  "ogLocale": "en",
+                  "ogDescription": "tend the garden"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "degen",
+            "name": "Degen",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x526b7cc9",
+    "url": "https://warpcast.com/rev/0x526b7cc9",
+    "author_username": "rev",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 17672,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/27dfc479-2a1c-4226-097d-fc9ff59b2000/original",
+    "cast_date": "2024-04-24T22:02:45.000Z",
+    "text": "Soft launching /limitless — the social predictions protocol on @base.base.eth 💥\n\nParticipate in social prediction markets & engage with your favorite creators!\n\nFirst markets are already live by /skininthegame, /onchain, and yours truly.\n\n🧠 Time to have skin in your beliefs — https://limitless.exchange",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/384641f7-0151-453c-69d0-da8d6dd14100/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 568392,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2110,
+            "height_px": 1100
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-04-26",
+    "show_title": "GM Farcaster ep97, April 26, 2024",
+    "source_episode_id": "s9cGAkGvLMs",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

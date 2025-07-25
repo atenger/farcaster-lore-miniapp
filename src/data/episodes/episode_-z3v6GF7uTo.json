@@ -1,0 +1,544 @@
+[
+  {
+    "cast_hash": "0xedaa9cb8",
+    "url": "https://warpcast.com/nounishprof/0xedaa9cb8",
+    "author_username": "nounishprof",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-02-21T12:10:20.000Z",
+    "text": "GM Farcaster ☕️ is planning some fun at eth Denver — yes karaoke 🎤brunch by request from our regular chatters! 💬\n\nOpen first to GM Farcaster episode holders then we’ll expand if there’s space. More info on the show today!\n\nrsvp below ⤵️\n\nhttps://events.xyz/b0db4e58",
+    "embeds": [
+      {
+        "url": "https://events.xyz/b0db4e58",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/api/v1/frames/events/b0db4e58/img/no_rsvp"
+              }
+            ],
+            "ogTitle": "GM Farcaster ETHDenver Meetup",
+            "ogLocale": "en",
+            "ogDescription": "FB Events for Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x917785c7",
+    "url": "https://warpcast.com/toadyhawk.eth/0x917785c7",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xef397f7f",
+    "url": "https://warpcast.com/v/0xef397f7f",
+    "author_username": "v",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-02-20T20:02:57.000Z",
+    "text": "⏰  WC Status\n\nBoth our hubs went down for unrelated reasons at the same time. For the 40 minutes that it took to recover: \n\n- Warpcast suffered stability issues\n- Messages from warpcast were not sent to other clients\n- Messages from other clients didn't make it to warpcast\n\nEverything should be back to normal now",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x209eb4fc",
+    "url": "https://warpcast.com/v/0x209eb4fc",
+    "author_username": "v",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-02-20T20:04:45.000Z",
+    "text": "Recognize that this sucks for folks building apps, and we're working hard to fix. \n\nThe root cause is that we rewrote our infrastructure to make message ingestion very, very fast, which works well most of the time. \n\nBut this new infra has a few quirks and bugs that we're ironing out.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x58929887",
+    "url": "https://warpcast.com/dwr.eth/0x58929887",
+    "author_username": "dwr.eth",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-02-20T21:36:47.000Z",
+    "text": "We had duplicate casts go out for many users during the degraded performance / downtime earlier.\n\nCheck your profile and delete any duplicates. Sorry about that!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd7358382",
+    "url": "https://warpcast.com/mxvoid/0xd7358382",
+    "author_username": "mxvoid",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 5991,
+    "author_pfp": "https://i.seadn.io/gae/lvgrZCL0d0phxMEQzHPqcP12h0xaveFQg6ULK8eWENXFv5rmTkvQtIVV1b0eNnmnpI9lxNmmmZRNx2CZjDhyc7TdT2Jvs-HnFOwL?w=500&auto=format",
+    "cast_date": "2024-02-20T21:44:01.000Z",
+    "text": "Oh. So that’s why.\n\nOh. So that’s why.\n\nOh. So that’s why.\n\nOh. So that’s why.\n\nOh. So that’s why.\n\nOh. So that’s why.\n\nOh. So that’s why.\n\nOh. So that’s why.\n\nOh. So that’s why.\n\nOh. So that’s why.\n\nOh. So that’s why.\n\nOh. So that’s why.\n\nOh. So that’s why.\n\nOh. So that’s why.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd2604ee6",
+    "url": "https://warpcast.com/v/0xd2604ee6",
+    "author_username": "v",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-02-20T17:47:55.000Z",
+    "text": "Popular channels get a lot of spam and manual moderation is hard to scale and decentralize. \n\nProposal: \n\n- Hosts can turn on a fee in settings\n- Users must pay 100 warps before they can post\n- If banned, user must pay the fee again before posting\n- Fees go to hosts\n\nIf you are a channel lead, would you use this?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8dd0407a",
+    "url": "https://warpcast.com/nounishprof/0x8dd0407a",
+    "author_username": "nounishprof",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-02-17T20:04:21.000Z",
+    "text": "GM Farcaster has a /prop-house submission in this latest 🟪 round and @adrienne & I would love your consideration! 💜☕️💬\n\nRegardless—be sure to check out the amazing submissions— the first post frames. So many great ones!🎉\n\nhttps://prop.house/0xdc86e4b4f5280747d1038a0ed5aa701b125f7e82/17",
+    "embeds": [
+      {
+        "url": "https://prop.house/0xdc86e4b4f5280747d1038a0ed5aa701b125f7e82/17",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://prop.house",
+            "ogType": "website",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://prop-house-card.onrender.com/remote/proposal/0xdc86e4b4f5280747d1038a0ed5aa701b125f7e82/17"
+              }
+            ],
+            "ogTitle": "GM Farcaster - Prof & Adrienne's Farcaster news show airing 3x a week",
+            "ogLocale": "en",
+            "ogDescription": "GM Farcaster, a live stream Farcaster news show with a loyal and growing audience, to spread Farcaster news & culture"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe5b10763",
+    "url": "https://warpcast.com/jacek/0xe5b10763",
+    "author_username": "jacek",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 15983,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+    "cast_date": "2024-02-20T16:49:14.000Z",
+    "text": "$DEGEN Update: Happy to announce that the $DEGEN angel investing round is now done! 1Confirmation is our lead investor, with amazing Farcaster OGs and friends backing us as well. The funding will help us grow the Degen ecosystem and community to be even more badass! Big shoutout to everyone riding this wave with us!",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/b0N5MJT.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 467797,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1200,
+            "height_px": 630
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x74385ed5",
+    "url": "https://warpcast.com/optimism/0x74385ed5",
+    "author_username": "optimism",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 300898,
+    "author_pfp": "https://i.imgur.com/tcXXjLp.jpg",
+    "cast_date": "2024-02-20T19:33:47.000Z",
+    "text": "Create together, and benefit together. That's the Superchain.\n\n✨Today, Optimism unveils Airdrop #4. Allocating 10M+ OP to over 22k unique addresses.\n\nRead more about how to claim here: https://optimism.mirror.xyz/3tkU-Y5479JPw83I6jp7GTu_0_q-TWEKAXckm3XKl28",
+    "embeds": [
+      {
+        "url": "https://optimism.mirror.xyz/3tkU-Y5479JPw83I6jp7GTu_0_q-TWEKAXckm3XKl28",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://images.mirror-media.xyz/publication-images/jYXeVJ04dcF3CrAPBMYfX.png?height=1440&width=2880",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Drop #4: Create together, benefit together",
+            "ogDescription": "⚠️ Stay safe: ⚠️ Only trust tweets from @Optimism or @OptimismGov. Double check the domain -- optimism.io or app.optimism.io.\n"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1184289a",
+    "url": "https://warpcast.com/jessepollak/0x1184289a",
+    "author_username": "jessepollak",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-02-20T21:32:39.000Z",
+    "text": "if you created on @base.base.eth and got this airdrop, share what you created and how much you received in the thread! \n\nwould love to recast, show people the power of creating onchain, and get your work in front of more people.\n\nthank you to @optimism for rewarding superchain creators.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 300898,
+          "hash": "0x74385ed536c7875b281cde33916f26bf26f02815"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x74385ed536c7875b281cde33916f26bf26f02815",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 300898,
+            "username": "optimism",
+            "display_name": "Optimism",
+            "pfp_url": "https://i.imgur.com/tcXXjLp.jpg",
+            "custody_address": "0x82144a398dcc8062ecd8bbf64151fa71933802e1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x74385ed536c7875b281cde33916f26bf26f02815",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/optimism",
+          "root_parent_url": "https://warpcast.com/~/channel/optimism",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Create together, and benefit together. That's the Superchain.\n\n✨Today, Optimism unveils Airdrop #4. Allocating 10M+ OP to over 22k unique addresses.\n\nRead more about how to claim here: https://optimism.mirror.xyz/3tkU-Y5479JPw83I6jp7GTu_0_q-TWEKAXckm3XKl28",
+          "timestamp": "2024-02-20T19:33:47.000Z",
+          "embeds": [
+            {
+              "url": "https://optimism.mirror.xyz/3tkU-Y5479JPw83I6jp7GTu_0_q-TWEKAXckm3XKl28",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://images.mirror-media.xyz/publication-images/jYXeVJ04dcF3CrAPBMYfX.png?height=1440&width=2880",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Drop #4: Create together, benefit together",
+                  "ogDescription": "⚠️ Stay safe: ⚠️ Only trust tweets from @Optimism or @OptimismGov. Double check the domain -- optimism.io or app.optimism.io.\n"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "optimism",
+            "name": "O P T I M I S M 🔴✨",
+            "image_url": "https://i.imgur.com/zg4Ql0k.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x99424ae3",
+    "url": "https://warpcast.com/nounishprof/0x99424ae3",
+    "author_username": "nounishprof",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-02-20T21:59:38.000Z",
+    "text": "GM Farcaster is deployed on @base.base.eth via @zora and I think that's the bulk of this amazing @optimism airdrop for me! ❤️ \n\nThanks superchain for supporting creators!🙌",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/WnXzziR.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 299244,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 810,
+            "height_px": 462
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x35252f80",
+    "url": "https://warpcast.com/chriscocreated/0x35252f80",
+    "author_username": "chriscocreated",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 5701,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/117f5639-2d6f-4aef-f414-c83538564600/original",
+    "cast_date": "2024-02-21T14:54:08.000Z",
+    "text": "This is game changing for me as an artist. Going to take a bit of time to sink in. It gives time to create. Puts more credit in my domestic life to keep pursuing the vision I have for living well in our tech enabled future. Thank you to /base and /zora and /op-stack for creating this space+fuelling the heck out of it!",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/j4TflXX.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 201554,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 648,
+            "height_px": 370
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb36c1c0d",
+    "url": "https://warpcast.com/reneecampbell/0xb36c1c0d",
+    "author_username": "reneecampbell",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 283144,
+    "author_pfp": "https://i.imgur.com/88Qqtm0.jpg",
+    "cast_date": "2024-02-21T00:57:44.000Z",
+    "text": "I’ve created a channel for all floral art. Please join me and share all things botanical. \n\nAll genres welcome!",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/3fvPJ2m.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 116506,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 900,
+            "height_px": 1350
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8750b39a",
+    "url": "https://warpcast.com/yar0x/0x8750b39a",
+    "author_username": "yar0x",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 8481,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e59e7f9d-b17e-4b33-bf1a-c04f140e3c00/original",
+    "cast_date": "2024-02-18T22:11:11.000Z",
+    "text": "/faristocats are ready to drop next week\n\nstarting with 1/1 pfps for the founding fathers of Farcaster's success!\n\nwho are them? you decide!\n\ndrop your commisions in replies!",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/6cqwUck.gif",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 6117362,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 640,
+            "height_px": 640
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xedaa9cb8",
+    "url": "https://warpcast.com/nounishprof/0xedaa9cb8",
+    "author_username": "nounishprof",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-02-21T12:10:20.000Z",
+    "text": "GM Farcaster ☕️ is planning some fun at eth Denver — yes karaoke 🎤brunch by request from our regular chatters! 💬\n\nOpen first to GM Farcaster episode holders then we’ll expand if there’s space. More info on the show today!\n\nrsvp below ⤵️\n\nhttps://events.xyz/b0db4e58",
+    "embeds": [
+      {
+        "url": "https://events.xyz/b0db4e58",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/api/v1/frames/events/b0db4e58/img/no_rsvp"
+              }
+            ],
+            "ogTitle": "GM Farcaster ETHDenver Meetup",
+            "ogLocale": "en",
+            "ogDescription": "FB Events for Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x196fce67",
+    "url": "https://warpcast.com/wake/0x196fce67",
+    "author_username": "wake",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 2904,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/abe9a136-0384-4ad3-62a2-97d1fb11e900/original",
+    "cast_date": "2024-02-20T20:10:40.000Z",
+    "text": "Reputation frames are here. This is mine, what's yours?\n\nhttps://reputex-frames.vercel.app/",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/GUQZO2z.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 263286,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1056,
+            "height_px": 1058
+          }
+        }
+      },
+      {
+        "url": "https://reputex-frames.vercel.app/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://reputex-frames.vercel.app/images/opening.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "ReputeX Farcaster Scores",
+            "ogLocale": "en",
+            "ogDescription": "Get your Farcaster reputation scores powered by ReputeX."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6f131d84",
+    "url": "https://warpcast.com/nounishprof/0x6f131d84",
+    "author_username": "nounishprof",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-02-20T23:37:05.000Z",
+    "text": "96 — is this out of 💯? I hope lol",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/XCTR859.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 170688,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd821505d",
+    "url": "https://warpcast.com/adrienne/0xd821505d",
+    "author_username": "adrienne",
+    "show_date": "2024-02-21",
+    "show_title": "GM Farcaster ep65, Feb 21, 2024",
+    "source_episode_id": "-z3v6GF7uTo",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-02-15T23:12:14.000Z",
+    "text": "Friends of /gmfarcaster ,\n\nWhat guests would you like to see on a future show? Drop suggestions in the replies or you can fill out this form: https://app.deform.cc/form/a6d8afd2-d2c9-4997-963c-c3f56a030805",
+    "embeds": [
+      {
+        "url": "https://app.deform.cc/form/a6d8afd2-d2c9-4997-963c-c3f56a030805",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://app.deform.cc/form/a6d8afd2-d2c9-4997-963c-c3f56a030805",
+            "favicon": "https://assets.deform.cc/production/b00ab1a7-318c-467c-ba56-da82b103f18a.png",
+            "ogImage": [
+              {
+                "alt": "Megaphone",
+                "url": "https://deform-csiabt31s-contributionlabs.vercel.app/images/opengraph/og.png",
+                "type": "png",
+                "width": "1200",
+                "height": "675"
+              }
+            ],
+            "ogTitle": "GM Farcaster Guests",
+            "ogLocale": "en",
+            "ogDescription": "Megaphone Forms is token‐gated forms and surveys for sign ups, allowlists, DAO governance, and other web3 marketing activities."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

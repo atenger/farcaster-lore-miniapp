@@ -1,0 +1,672 @@
+[
+  {
+    "cast_hash": "0xdfc579ef",
+    "url": "https://warpcast.com/v/0xdfc579ef",
+    "author_username": "v",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-06-24T17:27:45.000Z",
+    "text": "Investigating an issue where hubs are crashing and processing messages slowly.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x19d6ee06",
+    "url": "https://warpcast.com/v/0x19d6ee06",
+    "author_username": "v",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-06-24T22:54:57.000Z",
+    "text": "The next protocol meeting will be on Tuesday, July 2nd\n\nWe're moving it forward two days to avoid the 4th of July weekend when a lot of folks will be out.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x74c6a018",
+    "url": "https://warpcast.com/dwr.eth/0x74c6a018",
+    "author_username": "dwr.eth",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-06-25T21:21:23.000Z",
+    "text": "Walk maximalism\n\nhttps://warpcast.com/jacob/0xc5d7a839",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 169,
+          "hash": "0x0feb6f572ead2b36974813ad669e70b6e8e80ba1"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0feb6f572ead2b36974813ad669e70b6e8e80ba1",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 169,
+            "username": "fredwilson.eth",
+            "display_name": "fredwilson",
+            "pfp_url": "https://lh3.googleusercontent.com/fWnQF5IzaerIcPn5rPHvl4oENtum0Jr2M5wxtC99L2c0ELGPD9WzgxhlgeybhUrO-LueMKSYgBWyhKcT5wydRotxpONeNJaP78t2nA",
+            "custody_address": "0x6e6dc9975c7b820c235649924b4ab20068100e76"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0feb6f572ead2b36974813ad669e70b6e8e80ba1",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/avc",
+          "root_parent_url": "https://warpcast.com/~/channel/avc",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Hi Casters. I took a walk with a founder friend of mine yesterday afternoon and was reminded about how awesome walking meetings are. I feel like my mental state is vastly improved in a walking meeting vs a meeting sitting down.",
+          "timestamp": "2024-06-25T21:16:40.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "avc",
+            "name": "AVC",
+            "image_url": "https://i.imgur.com/bGUQVdC.jpg"
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 8,
+          "hash": "0xc5d7a839f759947689a4b698e974f6ecc9b9511b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc5d7a839f759947689a4b698e974f6ecc9b9511b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 8,
+            "username": "jacob",
+            "display_name": "$jacob",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89ed9bfb-655c-472d-e907-6a3da8d2ec00/rectcrop3",
+            "custody_address": "0xc6e3004b0e54a91da8d87ace80b6abc64d23e33f"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc5d7a839f759947689a4b698e974f6ecc9b9511b",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/six",
+          "root_parent_url": "https://warpcast.com/~/channel/six",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I’ve come to appreciate how good post-meal walks are. \n\n15 minute walk after lunch stops me feeling sluggish in the afternoon. \n\nGreat after dinner too but harder to do with routine sometimes",
+          "timestamp": "2024-06-25T17:46:55.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "six",
+            "name": "six",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dbc973d4-864f-4b27-6f2b-ad1e5055e500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbf8e166e",
+    "url": "https://warpcast.com/ciniz/0xbf8e166e",
+    "author_username": "ciniz",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 7251,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4f9b6269-f3ed-4bf8-3b69-6e031d4ab600/original",
+    "cast_date": "2024-06-25T21:20:43.000Z",
+    "text": "“life is good” — the walkooor",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ff7cfa02-eef4-4667-d7b5-db8c1a470600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 73112,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1283,
+            "height_px": 968
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2e919a11",
+    "url": "https://warpcast.com/proxystudio.eth/0x2e919a11",
+    "author_username": "proxystudio.eth",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 270504,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+    "cast_date": "2024-06-25T21:29:04.000Z",
+    "text": "signing off guys good luck",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eeb516ff-e684-435d-d1ea-33b4efbbcf00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 200105,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1410,
+            "height_px": 918
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 270504,
+          "hash": "0x2e55e69cc5e3097826d0fd1282fd5d559ffd2090"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x2e55e69cc5e3097826d0fd1282fd5d559ffd2090",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 270504,
+            "username": "proxystudio.eth",
+            "display_name": "gordie slater",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+            "custody_address": "0xe1731273c1262e458251abf722cf64c52f558c2a"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x2e55e69cc5e3097826d0fd1282fd5d559ffd2090",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I ❤️ you all but if one more person posts about how taking a nice stroll is good for boosting their productivity I'm shuttering proxy studio because I think farcaster might be a lost cause",
+          "timestamp": "2024-06-25T20:09:12.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x38b7c7de",
+    "url": "https://warpcast.com/rainbow/0x38b7c7de",
+    "author_username": "rainbow",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 20919,
+    "author_pfp": "https://i.imgur.com/b3SgimD.jpg",
+    "cast_date": "2024-06-25T20:20:01.000Z",
+    "text": "Introducing Rainbow ETH Rewards.\n\nWe are airdropping our hard earned ETH to the most active Rainbow users every single week.\n\nThis is just phase 1, there are more phases to come, but for now let’s talk Rainbow ETH Rewards 👇",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/152477f39c58b503c8d4847d36fc4f90.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "codec_name": "h264",
+                "height_px": 1080,
+                "width_px": 1080
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 720,
+                "width_px": 720
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 480,
+                "width_px": 480
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 360,
+                "width_px": 360
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 240,
+                "width_px": 240
+              }
+            ],
+            "duration_s": 8
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf11e3ba2",
+    "url": "https://warpcast.com/farcasteradmin.eth/0xf11e3ba2",
+    "author_username": "farcasteradmin.eth",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 1356,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1be9d191-44f4-4dcb-1bc0-7538c07b9000/original",
+    "cast_date": "2024-06-25T13:58:01.000Z",
+    "text": "so excited to get lunchbreak launched!!!\n\nget hyped for the official launch in an hour or so\n\nin the meantime, *you can buy bonding chairs early* before people know about lunchbreak\n\nlnch.is/borodutch?ref=borodutch",
+    "embeds": [
+      {
+        "url": "http://lnch.is/borodutch?ref=borodutch",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://lunchbreak.com",
+            "ogType": "website",
+            "ogImage": [
+              {
+                "url": "https://backend.lunchbreak.com/og/user/borodutch"
+              }
+            ],
+            "ogTitle": "Lunchbreak",
+            "ogLocale": "en",
+            "ogDescription": "Earn what you’re worth: Set your price for incoming messages and seats at your lunch table for ultimate access"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x83cb88f9",
+    "url": "https://warpcast.com/betashop.eth/0x83cb88f9",
+    "author_username": "betashop.eth",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 602,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5e14f7a-a60d-4aeb-3496-55305ecdd500/original",
+    "cast_date": "2024-06-26T02:23:53.000Z",
+    "text": "I’ve been reading a lot of takes on the Solana actions today \n\nThis one is highly recommended \n\nhttps://x.com/ryanberckmans/status/1805608066982858895?s=46&t=1d3oeft7YJ1_vY8fckCCEQ\n\nmy biggest take tho is that I bet we see coinbase wallet and MetaMask embrace some sort of frames even quicker now\n\nProb good new for open frames as well @df",
+    "embeds": [
+      {
+        "url": "https://x.com/ryanberckmans/status/1805608066982858895?s=46&t=1d3oeft7YJ1_vY8fckCCEQ",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/ryanberckmans/status/1805608066982858895",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Solana&#39;s Actions launch seems really powerful.<br><br>Ethereum&#39;s strength is our intellectual honesty and network effects, so imo we should not shy away from learning from others&#39; great consumer crypto launches.<br><br>What is Solana Actions? A combination of things:<br>- Actions is similar to… <a href=\"https://t.co/QfMkS7vgkm\">https://t.co/QfMkS7vgkm</a></p>&mdash; Ryan Berckmans (@ryanberckmans) <a href=\"https://twitter.com/ryanberckmans/status/1805608066982858895?ref_src=twsrc%5Etfw\">June 25, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/ryanberckmans",
+              "author_name": "Ryan Berckmans",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x78449568",
+    "url": "https://warpcast.com/briang/0x78449568",
+    "author_username": "briang",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 548,
+    "author_pfp": "https://i.seadn.io/gae/T1n8naiIITR2TKLlRyPHDEkKIRhO01WwsTJBfv1_YeUeVbtPnSlhe4MqWuYo0tMyDj9HWV3t3vJYBEKEHVeKHXYo4XIFxqSFfgEVbQ?w=500&auto=format",
+    "cast_date": "2024-06-25T17:00:42.000Z",
+    "text": "join @polymarket and i for the presidential debate this thursday\nbets are down for \"will trump say crack during the debate?\"\n\nspoiler: this won't be like other debates shows\n8pm ET this thursday",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/521cbae7c964aa95ca542d3743f1dd8b.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 35.09
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x90de9d3a",
+    "url": "https://warpcast.com/snickerdoodle/0x90de9d3a",
+    "author_username": "snickerdoodle",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 381100,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd5b2afc-f217-434f-9efc-98ad5d32a900/original",
+    "cast_date": "2024-06-25T14:50:03.000Z",
+    "text": "We Stand with Crypto, do you?  Don't miss this event and join the live watch party with us and @web3familia IRL on June 27th.",
+    "embeds": [
+      {
+        "url": "https://farcaster.snickerdoodle.com/v0/ee5acc4f-8c44-4438-b685-fec1fdd680f4",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": 1823,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "\n\t\t\t\thttps://farcaster.snickerdoodle.com/v0/4d347321-4b8f-4575-a9fb-36c57b9e321a/image/\n\t\t\t\t?lifecycle=1\n\t\t\t\t&isSurveyAd=false\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t&imageCID=QmYfZv4DqnLwkxNQXs1FrtWdgHgR6yYfQxHwaSFDutpAaJ\n\t\t\t\t&rewardName=$DEGEN\n\t\t\t\t&rewardAmount=5.0\n\t\t\t\t&frameSize=0\n\t\t\t\t&bountyBadgeColorMode=1\n\t\t\t\t&bountyBadgePosition=0\t\t\t\n\t\t\t"
+              }
+            ],
+            "ogTitle": "Share to Earn"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x79542c3b",
+    "url": "https://warpcast.com/dwr.eth/0x79542c3b",
+    "author_username": "dwr.eth",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-06-26T00:59:38.000Z",
+    "text": "Totally fine if you don’t want to start a streak.\n\nJust cast about it…every day.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdc9961d6",
+    "url": "https://warpcast.com/goose/0xdc9961d6",
+    "author_username": "goose",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 225,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd82f5e9-389e-4e79-aba0-f2426021c700/rectcrop3",
+    "cast_date": "2024-06-26T01:55:29.000Z",
+    "text": "my streak ended but i posted in /goose everyday 🫣\n\nI will not start a new streak\n\nI want my streak restored",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9f947927",
+    "url": "https://warpcast.com/dwr.eth/0x9f947927",
+    "author_username": "dwr.eth",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-06-25T15:15:54.000Z",
+    "text": "PSA — we're investigating and fixing a bug related to streak counts. \n\nBy end of day today:\n\n1. We will make sure everyone's count is accurate\n2. If cast, the count will update instantly\n\n(We had a periodic job running vs. instant but will make that faster today.)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x64648a5c",
+    "url": "https://warpcast.com/tldr/0x64648a5c",
+    "author_username": "tldr",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x3fc64d01",
+    "url": "https://warpcast.com/brianmorris.eth/0x3fc64d01",
+    "author_username": "brianmorris.eth",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 14464,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6d5638c8-a9b8-4b19-d4c7-193fea127600/rectcrop3",
+    "cast_date": "2024-06-25T11:51:24.000Z",
+    "text": "Haven’t cast in its specific channel since setting up a streak days ago.\n\nNow there’s a goal and I’m not interested. \n\nJust me?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2582f00f",
+    "url": "https://warpcast.com/samantha/0x2582f00f",
+    "author_username": "samantha",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 1606,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/015f24f6-2e7e-4890-8e10-af5e66e19200/rectcrop3",
+    "cast_date": "2024-06-25T13:30:07.000Z",
+    "text": "I turned off streaks on WC:\n- I already have other streaks, like duolingo. I don’t want another obligation.\n- I perceive my activity on warpcast to be neutral. I spend a lot of time here and anymore would be unhealthy \n- There is no intrinsic motivation for me to start it \n\nI acknowledge it can be fun for other ppl but not for me. And that’s ok!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfccf0084",
+    "url": "https://warpcast.com/jayme/0xfccf0084",
+    "author_username": "jayme",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 373,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d2b76c9f-b719-4381-ce55-c8659ee57b00/original",
+    "cast_date": "2024-06-25T13:38:47.000Z",
+    "text": "Fun thing about streaks is that this is exactly how i became active on Farcaster. \n\n@vm encouraged me to give Farcaster another chance. I set a goal to cast daily for 30 days, found good people and convos, and retained.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/840790c8-4bca-462e-cc9b-6c9def744000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 48146,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 1223
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5829134f",
+    "url": "https://warpcast.com/betashop.eth/0x5829134f",
+    "author_username": "betashop.eth",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 602,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5e14f7a-a60d-4aeb-3496-55305ecdd500/original",
+    "cast_date": "2024-06-25T11:58:29.000Z",
+    "text": "what if channels could reward their members based on the quality of their streaks?\n\nsoon...",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2fc4373a",
+    "url": "https://warpcast.com/matchaxyz/0x2fc4373a",
+    "author_username": "matchaxyz",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 17114,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d73b034-b5d1-4ca0-d349-d99fc6aa3000/original",
+    "cast_date": "2024-06-25T17:49:18.000Z",
+    "text": "what if /matcha streaks won you matcha merch?\n\n🤔🤔🤔\n\nlet’s try it 😎",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/81d70747-c95d-4505-5b88-12965a55e800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 1503572,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2400,
+            "height_px": 3200
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe43e671f",
+    "url": "https://warpcast.com/passafiume.eth/0xe43e671f",
+    "author_username": "passafiume.eth",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 6376,
+    "author_pfp": "https://i.imgur.com/uaWx0Yy.jpg",
+    "cast_date": "2024-06-25T15:51:48.000Z",
+    "text": "Re: Streaks @dwr.eth \n\ncc: @j4ck.eth @nonlinear.eth @0xdesigner /design",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ffb1ea0-bad8-407f-7199-2fb9f6c0f400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 374332,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2098,
+            "height_px": 3200
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-06-27",
+    "show_title": "GM Farcaster ep123 Wednesday, June 26, 2024",
+    "source_episode_id": "UsN4JzM_Xpc",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

@@ -1,0 +1,1177 @@
+[
+  {
+    "cast_hash": "0x15b1a362",
+    "url": "https://warpcast.com/v/0x15b1a362",
+    "author_username": "v",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-08-26T17:24:40.000Z",
+    "text": "Warpcast is giving out $5 each day to the top 100 casters.  \n\nRewards are given based on the amount of engagement your casts get divided by the number of active followers you have. \n\nWe'll run this experiment through the end of the year to see if it drives people to create more interesting content for Farcaster.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af89eb92-43c0-4ea7-439d-922874ea7400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 20735,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 830,
+            "height_px": 182
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x97bd2915",
+    "url": "https://warpcast.com/yonfrula/0x97bd2915",
+    "author_username": "yonfrula",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 243300,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d733b69f-7ebb-4c2a-82d9-c3eef656a200/original",
+    "cast_date": "2024-08-26T18:41:07.000Z",
+    "text": "huh?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/00e9c1b9-611b-4803-69d0-32e725ccb400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 14324,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 817,
+            "height_px": 121
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb280f3fd",
+    "url": "https://warpcast.com/ted/0xb280f3fd",
+    "author_username": "ted",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-08-26T19:13:10.000Z",
+    "text": "will give my $5 in warpcast rewards to the best shitpost about how the top six most engaging users* on a platform that apparently doesn't have any women are all... women :)\n\n*with room for many, many more because the normalized score is better for newer, smaller accounts vs. large accounts like mine",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x54f08cf299d9ddd8dde21b98ff11c163b06d3796"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x54f08cf299d9ddd8dde21b98ff11c163b06d3796",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x54f08cf299d9ddd8dde21b98ff11c163b06d3796",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Here are the top 25 users who earned Warpcast Rewards\n\n- score is the total engagement received as points \n- normalized score is adjusted for the number of active followers you have \n\nTagging the top 5 here:  @afrochicks @chicbangs.eth @alinaferry @thecurioushermit and @ted",
+          "timestamp": "2024-08-26T18:23:46.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2f044642-28af-4f27-f199-86c45c2daa00/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 175064,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1108,
+                  "height_px": 1794
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe50b1dc8",
+    "url": "https://warpcast.com/adrienne/0xe50b1dc8",
+    "author_username": "adrienne",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-08-26T22:55:55.000Z",
+    "text": "I love the $5 payouts 🙌 \n\nExcept for the ease of paying with digital currency, there’s nothing inherently crypto native about it.  A centralized platform competing with the big players would do the same thing- incentivize users to stay. It’s part of the “attract” phase of the attract-extract lifecycle. But since it’s on farcaster we have insurance against merkle turning evil on us some day- we can take our identities and social graph and go somewhere else. \n\nAnything being done to increase the chance of farcaster being a credibly neutral, sufficiently decentralized protocol that a billion people use- I’m here for it",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0a373f87",
+    "url": "https://warpcast.com/horsefacts.eth/0x0a373f87",
+    "author_username": "horsefacts.eth",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2024-08-27T18:05:17.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/021ab174193398e027e3d8b7fdf55ff1.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 24.2
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x754032c3",
+    "url": "https://warpcast.com/slokh/0x754032c3",
+    "author_username": "slokh",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 3887,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bcde483c-6e7e-4f6a-b254-b5e12e642d00/original",
+    "cast_date": "2024-08-28T00:38:30.000Z",
+    "text": "Turned this into a proper leaderboard, sorted by:\n1. Total USDC earned\n2. If tie, sorted by USDC per Follower (less followers = higher ranked)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/41dd4dff-7c87-4677-cef9-5bc040477600/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 348463,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2536,
+            "height_px": 1598
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3887,
+          "hash": "0xa96cd9265829be1d38d06f28266a610f8f421bd0"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa96cd9265829be1d38d06f28266a610f8f421bd0",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3887,
+            "username": "slokh",
+            "display_name": "Kartik",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bcde483c-6e7e-4f6a-b254-b5e12e642d00/original",
+            "custody_address": "0x333601a803cac32b7d17a38d32c9728a93b422f4"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa96cd9265829be1d38d06f28266a610f8f421bd0",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Dune dashboard to track Warpcast Rewards\n\nhttps://dune.com/slokhx/warpcast-rewards",
+          "timestamp": "2024-08-27T00:24:54.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7662e41b-6f3c-430b-2e87-398d5f5f2d00/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 399891,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2838,
+                  "height_px": 1324
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 2,
+                "hash": "0x15b1a362f3319dc9f64343b8c75a6d55eaecec13"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x15b1a362f3319dc9f64343b8c75a6d55eaecec13",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 2
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xeca2e6db",
+    "url": "https://warpcast.com/priyanka/0xeca2e6db",
+    "author_username": "priyanka",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 6373,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6e9f0068-0e44-4d03-0d25-d498fc309b00/original",
+    "cast_date": "2024-08-26T22:04:16.000Z",
+    "text": "sing it with me",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cdcdfc82-46a5-4ab1-c324-0252816ee400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 387751,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 800,
+            "height_px": 604
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x03baf9f0",
+    "url": "https://warpcast.com/dwr.eth/0x03baf9f0",
+    "author_username": "dwr.eth",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-08-26T22:22:33.000Z",
+    "text": "Correct. \n\nYou have to earn the attention of an audience by being interesting to other people.\n\nPeople on Farcaster are eager for more high quality content. \n\nLook at how quickly @afrochicks or @mazmhussain were able to grow.\n\nBeing interesting to a wider group of people beyond your immediate family and friends requires a lot of work.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 19627,
+          "hash": "0x75af3ec3baba1ccea05c7a76e89e0208d397d9d6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x75af3ec3baba1ccea05c7a76e89e0208d397d9d6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 19627,
+            "username": "lk",
+            "display_name": "Luke",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/532c1ab1-d4e6-4e09-0685-340fad371e00/original",
+            "custody_address": "0xcf58282be910a9e2d991c779d0c114d52fdea55c"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x75af3ec3baba1ccea05c7a76e89e0208d397d9d6",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/words-only",
+          "root_parent_url": "https://warpcast.com/~/channel/words-only",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Not-so-hot take on growing accounts:\nIt isn't easy anywhere. If you want to grow faster, then make connections, write, and generally put in the effort in a sustained manner.\n\nI have found that people are more receptive to new connections here on Farcaster than anywhere else, by far.",
+          "timestamp": "2024-08-26T22:18:46.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 3,
+                "hash": "0xc99b77182cec345cd16d6f577d5a74c2efe6024f"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xc99b77182cec345cd16d6f577d5a74c2efe6024f",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "words-only",
+            "name": "Words Only",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b9d90a2a-07c9-463f-06cd-b52dbac78600/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0ae2a19f",
+    "url": "https://warpcast.com/adrienne/0x0ae2a19f",
+    "author_username": "adrienne",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-08-26T15:30:34.000Z",
+    "text": "I just had a flashback to when I used to screenshot my mobile phone as a cast was sending bc sometimes it would not work and I’d lose the cast, so I would go to my photos and copy the text from there to try again. \n\nI never complained about it bc hey, that’s the price we pay for using new tech.\n\nI don’t know when exactly cast creation “just worked” but I know it didn’t happen by accident and it’s the type of dev work that often goes unnoticed and unacknowledged. \n\n@v who do we thank for this?\n\n🙏",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8c72624b",
+    "url": "https://warpcast.com/links/0x8c72624b",
+    "author_username": "links",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 18586,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06e47196-f4da-425c-a611-1a22464cfd00/rectcrop3",
+    "cast_date": "2024-08-27T13:35:15.000Z",
+    "text": "You get more engagement on quotes, especially when posted to a channel",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 6806,
+          "hash": "0xf26f66e47eb922a0014a8419a77bc8afe7c93f47"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf26f66e47eb922a0014a8419a77bc8afe7c93f47",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 6806,
+            "username": "dawufi",
+            "display_name": "dawufi",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/406101e5-2c23-4890-e6c9-26fc2dc03600/original",
+            "custody_address": "0xe1b1e3bbf4f29bd7253d6fc1e2ddc9cacb0a546a"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf26f66e47eb922a0014a8419a77bc8afe7c93f47",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/wufs",
+          "root_parent_url": "https://warpcast.com/~/channel/wufs",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "when did we start quoting to have conversations instead of just replying",
+          "timestamp": "2024-08-26T22:33:21.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "wufs",
+            "name": "wufs",
+            "image_url": "https://i.imgur.com/O8mpzs4.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc7669f23",
+    "url": "https://warpcast.com/matthew/0xc7669f23",
+    "author_username": "matthew",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 473,
+    "author_pfp": "https://i.imgur.com/uwD4rUh.jpg",
+    "cast_date": "2024-08-26T19:47:28.000Z",
+    "text": "speaking anecdotally, I invite fewer of my friends to FC now than I did a year or two ago. Still unpacking the reasons / thoughts behind that but curious if others feel the same.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x48cbbc9d",
+    "url": "https://warpcast.com/sunnysangwan/0x48cbbc9d",
+    "author_username": "sunnysangwan",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 324820,
+    "author_pfp": "https://i.imgur.com/AqEKS6a.jpg",
+    "cast_date": "2024-08-26T21:21:55.000Z",
+    "text": "I've been a part of the art community for 2.5 years on X & now here for a few months, & I can tell you with certainty that artists on @farcaster are at a crossroads.\n\nBest case 1: There's some foundational shift where the fc ecosystem elevates these \"quality content\" creators & they can have a meaningful existence here.\n\nBest Case 2: They go explore Lens or maybe back to X (where despite the algo, they get some recognition for their art from their peers).\n\nWorst case: They get disenchanted with web3 altogether because they've been scammed, rugged, ignored, reduced to a number & pretty much treated like second class citizens regardless of where they exist. I worry about this the most.\n\nIrony 1: The art community is the most vibrant community any social community can have. We literally have generational talent hanging out amongst us & most of us are unaware.\n\nIrony 2: Artists who are here are the most tech forward of the normie bunch we'd wanna onboard. Biggest assets for any social platform.\n\n1/2 🧵",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 308536,
+          "hash": "0x4898c0280c49fb5cf004a168862afe47df620dff"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4898c0280c49fb5cf004a168862afe47df620dff",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 308536,
+            "username": "zachlipp",
+            "display_name": "Zach Lipp",
+            "pfp_url": "https://i.imgur.com/k0HxUtE.jpg",
+            "custody_address": "0x9b0021465e08c0566b30a147468011ce1bacaa60"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc7669f2329862f8ca04849ab5ccbb8ec95d71be2",
+          "parent_hash": "0xc7669f2329862f8ca04849ab5ccbb8ec95d71be2",
+          "parent_url": null,
+          "root_parent_url": "https://warpcast.com/~/channel/latenightcrew",
+          "parent_author": {
+            "fid": 473
+          },
+          "text": "I’ve been extremely active here for 6 months.  I don’t invite new people to Farcaster anymore.  I tried to onboard a lot of people at the beginning.  A core of users stayed but 90% of the artist community I helped onboard are no longer active.  It’s a graveyard of user profiles that I brought on.  A focus on how to get those users back on the platform seems like a better bet than trying to convince someone new that it makes sense for them.",
+          "timestamp": "2024-08-26T19:59:05.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "latenightcrew",
+            "name": "Late Night Crew",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/445db5b3-7789-4f60-7164-0f41e7f1e100/rectcrop3"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xce74ed6a",
+    "url": "https://warpcast.com/keccers.eth/0xce74ed6a",
+    "author_username": "keccers.eth",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 4407,
+    "author_pfp": "https://i.imgur.com/kynnpYw.jpg",
+    "cast_date": "2024-08-26T14:23:31.000Z",
+    "text": "Think about who is driving this conversation. By and large it is not organic user feedback as it is employees\n\nThe Lens marketing team is manufacturing this perceptual divide in an attempt to win net new users; punching up at the more successful service. I don’t believe it is a reflection of the reality today, but them trying to shape the future",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 20633,
+          "hash": "0x0661ea518d730b7a571e989b3c2e10fa13e256c6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0661ea518d730b7a571e989b3c2e10fa13e256c6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 20633,
+            "username": "marcgmbh",
+            "display_name": "marc",
+            "pfp_url": "https://i.imgur.com/rYlMx7h.png",
+            "custody_address": "0x2471434413d417a17ab350836bc66f12c9579f3e"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0661ea518d730b7a571e989b3c2e10fa13e256c6",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/six",
+          "root_parent_url": "https://warpcast.com/~/channel/six",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "sad to see tech and art culture separating through lens vs farcaster. \n\nlove the absence of this divide in nyc. berlin bubbles separate and i hate it.\n\nhope we unite",
+          "timestamp": "2024-08-25T23:49:16.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "six",
+            "name": "six",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dbc973d4-864f-4b27-6f2b-ad1e5055e500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd991e86f",
+    "url": "https://warpcast.com/dwr.eth/0xd991e86f",
+    "author_username": "dwr.eth",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-08-26T22:44:41.000Z",
+    "text": "\"Did you see the post about Farcaster on Twitter?\"\n\nPlease read below.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x3670f091bb28416c5c8516bc03fe6f3481b2b673"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3670f091bb28416c5c8516bc03fe6f3481b2b673",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3670f091bb28416c5c8516bc03fe6f3481b2b673",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "\"Did you see the post about Farcaster on Twitter?\"\n\n1. No, but now I have since you just shared it with me.\n\n2. Block liberally on Twitter, life is too short.\n\n3. The only thing that matters is weekly progress. We won't always get it right. There will be up, down and sideways periods. But just have to keep trudging on.",
+          "timestamp": "2024-05-24T16:31:48.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x48416b4b",
+    "url": "https://warpcast.com/v/0x48416b4b",
+    "author_username": "v",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-08-28T05:33:04.000Z",
+    "text": "We’re considering adding \"Block\" to Warpcast.\n\nTrolly behavior has increased as the network has grown. Some users constantly pile onto people they dislike with quotes and replies. Mute was enough when FC was smaller, but users need better tools. \n\nIf you're an FC dev, would you want to add block to your app?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x44e6eae3",
+    "url": "https://warpcast.com/macbudkowski/0x44e6eae3",
+    "author_username": "macbudkowski",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 1048,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a43231ca-1d8d-4563-c9b3-6a8e934c2a00/original",
+    "cast_date": "2024-08-26T18:26:27.000Z",
+    "text": "If you were wondering why people are so spicy lately, we are going through another cycle of this",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a90e6a0a-f591-4b2c-9a19-7cb19cbc6a00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 41420,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 960,
+            "height_px": 720
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5b9e57fe",
+    "url": "https://warpcast.com/androidsixteen.eth/0x5b9e57fe",
+    "author_username": "androidsixteen.eth",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 3635,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/68e0858a-bd96-41ab-ca47-3e25868d6a00/rectcrop3",
+    "cast_date": "2024-08-27T23:58:55.000Z",
+    "text": "Nobody:\n@macbudkowski:",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c0556b86-d5a5-4294-05aa-08d938f08400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 62022,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1100,
+            "height_px": 957
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 1048,
+          "hash": "0x44e6eae3b156843e0b655d2ff00d067c40598ec2"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x44e6eae3b156843e0b655d2ff00d067c40598ec2",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1048,
+            "username": "macbudkowski",
+            "display_name": "Mac Budkowski",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a43231ca-1d8d-4563-c9b3-6a8e934c2a00/original",
+            "custody_address": "0x66cc8f831f2a05fde7573f18ba6abfef8ad59d34"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x44e6eae3b156843e0b655d2ff00d067c40598ec2",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "If you were wondering why people are so spicy lately, we are going through another cycle of this",
+          "timestamp": "2024-08-26T18:26:27.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a90e6a0a-f591-4b2c-9a19-7cb19cbc6a00/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 41420,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 960,
+                  "height_px": 720
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfc1729e1",
+    "url": "https://warpcast.com/v/0xfc1729e1",
+    "author_username": "v",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-08-27T23:55:59.000Z",
+    "text": "FIP: Introducing Ordering \n\n@cassie @dynemyte @sanjay and I have been kicking around ideas for a new sync model for Farcaster. \n\nWe're looking for feedback and people to collaborate with: https://github.com/farcasterxyz/protocol/discussions/193",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/36d01d64-63a7-4912-95ec-8f09e347bc00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 152342,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1766,
+            "height_px": 1340
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2e33fe94",
+    "url": "https://warpcast.com/v/0x2e33fe94",
+    "author_username": "v",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-08-28T02:28:47.000Z",
+    "text": "First-time contributors to Farcaster often try to propose new features. \n\nWe appreciate the energy, but this never ends up working. First-time contributors usually lack the context to identify design flaws and the clout to get people to adopt it. \n\nIf you're serious about contributing, start with simple things like fixing bugs, writing docs, upgrading packages or improving the dev ex. This will help you build the context you need to start writing features.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x62844155",
+    "url": "https://warpcast.com/dwr.eth/0x62844155",
+    "author_username": "dwr.eth",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-08-27T23:19:41.000Z",
+    "text": "@adrienne has been pinging me about this! we have a bunch of stuff we're working on, but overall it's a good idea!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x745e4b42",
+    "url": "https://warpcast.com/dwr.eth/0x745e4b42",
+    "author_username": "dwr.eth",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-08-27T19:29:35.000Z",
+    "text": "New experiment on Explore: mini-apps\n\n- @matthewfox cleverly built Flappycaster as a composer action\n- Play the game, get a high score and cast it\n- But we wanted to see if other people had interesting ideas for apps that didn't quite fit into a frame or composer action\n- If you build something, feel free to submit and ping us and we may feature it",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/5cd27fa4c73627ac141ee8131dec4776.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1440,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 960,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 320,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 17.5
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdaeeb554",
+    "url": "https://warpcast.com/ekinci.eth/0xdaeeb554",
+    "author_username": "ekinci.eth",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 6227,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9959f1ed-9b09-42b8-2f89-af8cb653a400/rectcrop3",
+    "cast_date": "2024-08-27T18:48:10.000Z",
+    "text": "Octant x Purple Retroactive Public Goods Funding\n\n10 ETH will be distributed this round to support the Farcaster public goods ecosystem!\n\nOctant staked 100,000 ETH and is distributing staking rewards to people building public goods. Octant is developed by the Golem Foundation and funding is dispersed via community voting of $GLM stakers. Learn more at /octant \n\nThanks to prop #52 PurpleDAO pre allocated 5 ETH to this round and Octant is match funding this round with another 5 ETH for a total round of 10 ETH.\n\nAnyone with a Purple Token and allowlisted Octant voters on Farcaster are eligible for voting. You can vote by simply liking a cast. You can like as many casts as you see fit.\n\nHow to get funding\n\nStarting on August 30 at 12PM UTC, you have 2 weeks to do the following:\n\n1. You need to cast inside /purple and\n2. You need to use #retropgf in your cast to qualify for this round.\n\nOptional, but encouraged:\n3. You can also submit other people by casting with the following structure:\n- credit @other_user",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b18ff852-916f-40e6-d617-0ec1fd370500/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 147370,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2386,
+            "height_px": 1340
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfdc8184c",
+    "url": "https://warpcast.com/christin/0xfdc8184c",
+    "author_username": "christin",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 15850,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bd90b57-732c-445b-4670-00040e540100/original",
+    "cast_date": "2024-08-23T18:51:19.000Z",
+    "text": "/okbanger show with @cameron and me\n004 - power.\n\nCOMING TUES 8AM PT / 11AM ET / 3PM UTC\n\n🛎️ click subscribe to alerts (right button)\nAND follow @event to be notified whenever we go live!\n\nhttps://events.xyz/channels/okbanger",
+    "embeds": [
+      {
+        "url": "https://events.xyz/channels/okbanger",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/api/frames/channels/okbanger/channel-image"
+              },
+              {
+                "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1b6018b8-e86e-4d36-8af4-025e18d57800/original"
+              }
+            ],
+            "ogTitle": "/okbanger calendar",
+            "ogLocale": "en",
+            "ogDescription": "we're gonna be 🆗  🛎️ https://events.xyz/channels/okbanger\n\n🥳 https://www.youtube.com/@okbangershow \n\n💎 https://pods.media/okbanger"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf08496fb",
+    "url": "https://warpcast.com/df/0xf08496fb",
+    "author_username": "df",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 1214,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a6497fe-5e4e-4297-fd02-26a1c052fe00/original",
+    "cast_date": "2024-08-27T14:44:42.000Z",
+    "text": "farcasterchannels.com",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc55c551b",
+    "url": "https://warpcast.com/jacy/0xc55c551b",
+    "author_username": "jacy",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 2982,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63552b96-faf4-4480-7775-a93631aaa100/original",
+    "cast_date": "2024-08-26T21:05:41.000Z",
+    "text": "Most people don’t know I used to be a Travel Ambassador for a credit card co. The role combined 3 of my biggest passions: Photography, traveling & working the cc points system. \n\nI wasn’t paid to travel, but b/c I was earning the majority of my flights, hotels, and transpo via reward points, they hired me to document my journeys around the world. \n\nI’ve been to 49 countries, gravitating to outdoor adventures & nature. I’m a hiker, biker, skier, climber, and surfer.\n\n/adventure is a home for adrenaline junkies & nature lovers.\n\nI’ve been bad about promoting it, but that ends today.\n\nI’ll be sharing pics + stories of places I’ve been fortunate to visit. Hopefully others will post theirs too so I can add some new spots to my bucket list. \n\nWill also mix in travel tips + gear + cc hacks + other fun stuff.\n\nI’ll kick it off tomorrow, but for now, enjoy this pic of the most picturesque football pitch on the planet located in the Lofoten Islands. If you squint really hard maybe you can see us ;)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/de2c1932-9493-4a5e-5363-7d4bd4639300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 1087466,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3200,
+            "height_px": 1798
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbacce01d",
+    "url": "https://warpcast.com/ccarella.eth/0xbacce01d",
+    "author_username": "ccarella.eth",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 472,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d7e7c73d-0860-4319-20af-89d97859b800/original",
+    "cast_date": "2024-08-27T22:41:08.000Z",
+    "text": "Check your streak.\n\nFrame Created by @saxophone55.eth",
+    "embeds": [
+      {
+        "url": "https://all-streak.vercel.app/frames?d=472_20240827224006448",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://all-streak.vercel.app/frames?jsx=%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-col+w-full+h-full+bg-gray-900+text-white+p-1+font-sans%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+text-6xl+font-bold+mb-1+justify-center+items-center+mb-3+pt-2%22%2C%22children%22%3A%5B%22%40%22%2C%22ccarella.eth%22%2C%22%28FID%3A%22%2C472%2C%22%29%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+bg-green-600+text-center+text-4xl+font-semibold+mb-4+justify-center+items-center%22%2C%22children%22%3A%5B%22Farcaster+Cast+Streak%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+justify-center+items-center+mb-3%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+justify-center+items-center%22%2C%22children%22%3A%5B%7B%22type%22%3A%22span%22%2C%22props%22%3A%7B%22tw%22%3A%22text-4xl+text-blue-400%22%2C%22children%22%3A%5B%22Current+Streak+%3A+%22%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+justify-center+items-center+pl-1%22%2C%22children%22%3A%5B%7B%22type%22%3A%22span%22%2C%22props%22%3A%7B%22tw%22%3A%22text-6xl+font-bold+ml-2+text-orange-400%22%2C%22children%22%3A%5B696%2C%22+days%22%5D%7D%7D%2C%7B%22type%22%3A%22span%22%2C%22props%22%3A%7B%22tw%22%3A%22text-4xl+ml-2%22%2C%22children%22%3A%5B%22%28%22%2C%222022-10-01+%7E+2024-08-26%22%2C%22%29%22%5D%7D%7D%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-row+justify-center+items-center+mb-5%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+justify-center+items-center%22%2C%22children%22%3A%5B%7B%22type%22%3A%22span%22%2C%22props%22%3A%7B%22tw%22%3A%22text-4xl+text-blue-400%22%2C%22children%22%3A%5B%22Streak+Record+%3A+%22%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+justify-center+items-center+pl-1%22%2C%22children%22%3A%5B%7B%22type%22%3A%22span%22%2C%22props%22%3A%7B%22tw%22%3A%22text-6xl+font-bold+ml-2%22%2C%22children%22%3A%5B696%2C%22+days%22%5D%7D%7D%2C%7B%22type%22%3A%22span%22%2C%22props%22%3A%7B%22tw%22%3A%22text-4xl+ml-2%22%2C%22children%22%3A%5B%22%28%22%2C%222022-10-01+%7E+2024-08-26%22%2C%22%29%22%5D%7D%7D%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+bg-green-600+text-center+text-4xl+font-semibold+mb-1+justify-center+items-center%22%2C%22children%22%3A%5B%22Channel+Current+Streak%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-col+mb-1%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+text-3xl+bg-blue-500+font-semibold%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+pl-6%22%2C%22children%22%3A%5B%22Channel+name%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1%22%2C%22children%22%3A%5B%22between%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+w-1%2F6%22%2C%22children%22%3A%5B%22days%22%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+text-4xl%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2+pl-6%22%2C%22children%22%3A%5B%22%2F%22%2C%22ccarella%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2%22%2C%22children%22%3A%5B%222024-07-21+%7E+2024-08-26%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+w-1%2F6+p-2%22%2C%22children%22%3A%5B%2237%22%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+text-4xl%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2+pl-6%22%2C%22children%22%3A%5B%22%2F%22%2C%22thesuperchain%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2%22%2C%22children%22%3A%5B%222024-08-20+%7E+2024-08-26%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+w-1%2F6+p-2%22%2C%22children%22%3A%5B%227%22%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+text-4xl%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2+pl-6%22%2C%22children%22%3A%5B%22%2F%22%2C%22nouns%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2%22%2C%22children%22%3A%5B%222024-08-23+%7E+2024-08-26%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+w-1%2F6+p-2%22%2C%22children%22%3A%5B%224%22%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+text-4xl%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2+pl-6%22%2C%22children%22%3A%5B%22%2F%22%2C%22%E2%80%95%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2%22%2C%22children%22%3A%5B%22%E2%80%95%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+w-1%2F6+p-2%22%2C%22children%22%3A%5B%22%E2%80%95%22%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+text-4xl%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2+pl-6%22%2C%22children%22%3A%5B%22%2F%22%2C%22%E2%80%95%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2%22%2C%22children%22%3A%5B%22%E2%80%95%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+w-1%2F6+p-2%22%2C%22children%22%3A%5B%22%E2%80%95%22%5D%7D%7D%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+bg-green-600+text-center+text-4xl+font-semibold+mb-1+justify-center+items-center%22%2C%22children%22%3A%5B%22Channel+Streak+Record%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-col+mb-1%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+text-3xl+bg-blue-500+font-semibold%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+pl-6%22%2C%22children%22%3A%5B%22Channel+name%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1%22%2C%22children%22%3A%5B%22between%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+w-1%2F6%22%2C%22children%22%3A%5B%22days%22%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+text-4xl%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2+pl-6%22%2C%22children%22%3A%5B%22%2F%22%2C%22nouns%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2%22%2C%22children%22%3A%5B%222024-07-15+%7E+2024-08-21%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+w-1%2F6+p-2%22%2C%22children%22%3A%5B%2238%22%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+text-4xl%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2+pl-6%22%2C%22children%22%3A%5B%22%2F%22%2C%22ccarella%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2%22%2C%22children%22%3A%5B%222024-07-21+%7E+2024-08-26%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+w-1%2F6+p-2%22%2C%22children%22%3A%5B%2237%22%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+text-4xl%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2+pl-6%22%2C%22children%22%3A%5B%22%2F%22%2C%22purple%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2%22%2C%22children%22%3A%5B%222024-01-20+%7E+2024-02-24%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+w-1%2F6+p-2%22%2C%22children%22%3A%5B%2236%22%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+text-4xl%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2+pl-6%22%2C%22children%22%3A%5B%22%2F%22%2C%22%E2%80%95%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2%22%2C%22children%22%3A%5B%22%E2%80%95%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+w-1%2F6+p-2%22%2C%22children%22%3A%5B%22%E2%80%95%22%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+text-4xl%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2+pl-6%22%2C%22children%22%3A%5B%22%2F%22%2C%22%E2%80%95%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-1+p-2%22%2C%22children%22%3A%5B%22%E2%80%95%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+w-1%2F6+p-2%22%2C%22children%22%3A%5B%22%E2%80%95%22%5D%7D%7D%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+justify-between+text-center+mb-1%22%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+justify-center+text-center%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-col%22%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+p-0+m-0+justify-between%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+text-2xl+justify-center%22%2C%22children%22%3A%5B%22Version+1.1.2%22%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+text-2xl+justify-center%22%2C%22children%22%3A%5B%22Frame+Created+by+Saxophone55.eth%22%5D%7D%7D%5D%7D%7D%5D%7D%7D%5D&aspectRatio=1%3A1&__framesjs_jsx=true"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf7ca6587",
+    "url": "https://warpcast.com/gianna/0xf7ca6587",
+    "author_username": "gianna",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 4805,
+    "author_pfp": "https://i.seadn.io/gae/9Qg0qlmsr_XLunNfhMld5QoIaRKLK5iPz52xKLUul6wUAIA9sRvr7WlA6_fstL4m9tpmuQ_EtMhvyh9ptg8tdyroWmCeihFMzURfxg?w=500&auto=format",
+    "cast_date": "2024-08-27T18:21:08.000Z",
+    "text": "please stop sending my husband pictures of your feet",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 369,
+          "hash": "0x1ae56ea63913f135a5c9453e435944f1bf632fb4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1ae56ea63913f135a5c9453e435944f1bf632fb4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 369,
+            "username": "robin",
+            "display_name": "robin (◕‿◕ ✿)",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b2ecdce0-da58-44f8-d6c5-3300d1b76600/original",
+            "custody_address": "0xa19097b0b81529cae9514f914ceb604683c7fa20"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1ae56ea63913f135a5c9453e435944f1bf632fb4",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/toe-spacer",
+          "root_parent_url": "https://warpcast.com/~/channel/toe-spacer",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "some constructive feedback. i'm truly not an expert but trying to be as objective as possible.\n\n- could use better lighting\n- too curled up, kinda stressful\n- can't see most of the toes\n- heart should be closed off\n\notherwise cool concept and tattoo. minted!",
+          "timestamp": "2024-08-27T18:03:46.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 500590,
+                "hash": "0xcb4c38431d06d2431b23a2b7ce5e82554c81209a"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xcb4c38431d06d2431b23a2b7ce5e82554c81209a",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 500590
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "toe-spacer",
+            "name": "toe spacer",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5fce651a-8ff9-4acd-ab52-b792d19db400/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2494cf4c",
+    "url": "https://warpcast.com/dawufi/0x2494cf4c",
+    "author_username": "dawufi",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 6806,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/406101e5-2c23-4890-e6c9-26fc2dc03600/original",
+    "cast_date": "2024-08-27T03:40:27.000Z",
+    "text": "I expect our new club to be featured on @gmfarcaster as it is serious news and deserves serious coverage on a serious show",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2210,
+          "hash": "0xb8dd613b16bca44e7fc1c7658d27597dd63bc6d4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb8dd613b16bca44e7fc1c7658d27597dd63bc6d4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2210,
+            "username": "kenny",
+            "display_name": "kenny 🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e6f1d0c9-26ff-4701-4bc5-f748256ab900/rectcrop3",
+            "custody_address": "0x92d181b029db404780998882a234613c0724030d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf26f66e47eb922a0014a8419a77bc8afe7c93f47",
+          "parent_hash": "0xff858d9df977f1f75df447bb56861c7891babda6",
+          "parent_url": null,
+          "root_parent_url": "https://warpcast.com/~/channel/wufs",
+          "parent_author": {
+            "fid": 1237
+          },
+          "text": "oh well in that case welcome to the cacc club 🤝",
+          "timestamp": "2024-08-27T03:33:51.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "wufs",
+            "name": "wufs",
+            "image_url": "https://i.imgur.com/O8mpzs4.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x227cb42a",
+    "url": "https://warpcast.com/ted/0x227cb42a",
+    "author_username": "ted",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-08-27T23:13:35.000Z",
+    "text": "taking a page from @afrochicks and reintroducing myself. your turn!!\n\nname: ted\njob: uh how do i answer this\nfrom: 🇺🇸 but really 🇮🇪\nbeen onchain since: 2018 (madonna x ripple lol)\nloves: the ocean, harry potter, my fam, handwritten notes, live outdoor music, moving my body, science/bio\nhates: haters :)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 780900,
+          "hash": "0x9be0f873df13e9c5a0b7686261d7fd520938f0cd"
+        },
+        "cast": {}
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb6ecde2f",
+    "url": "https://warpcast.com/jtgi/0xb6ecde2f",
+    "author_username": "jtgi",
+    "show_date": "2024-08-28",
+    "show_title": "GM Farcaster Ep148 Wednesday August 28, 2024",
+    "source_episode_id": "9Q0OSTPRwis",
+    "author_fid": 5179,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/484f9558-8a25-4df6-cd96-623c8fe59f00/original",
+    "cast_date": "2024-08-28T01:04:02.000Z",
+    "text": "Every damn morning.\n\n“It’s stupid. Just stop it.”\n“But I’d build it in my free time.”\n“What free time? Why? Your client would never get traction.”\n“I know but I want a following feed. I want to mute channels.”\n“And what about the other 200 features required for it to matter?”\n“…It’s mostly just for me.“\n“And your DMs?”\n“…it’s just a protest client. Spite driven.”\n“Wouldn’t that time be better spent talking with customers?”\n“Yes but”\n“You have enough projects.”\n“True but”\n“But?”\n“I’d use Neynar APIs. No node. It’d be fast.”",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  }
+]

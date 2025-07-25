@@ -1,0 +1,613 @@
+[
+  {
+    "cast_hash": "0x11942815",
+    "url": "https://warpcast.com/tldr/0x11942815",
+    "author_username": "tldr",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x9ba2f44e",
+    "url": "https://warpcast.com/dynamic/0x9ba2f44e",
+    "author_username": "dynamic",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 20917,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/991a2933-c112-4e8b-0f8a-3b6d185e3000/original",
+    "cast_date": "2024-05-15T16:31:05.000Z",
+    "text": "Dynamic's demo environment is better with friends 🫂\n\nNow you can share creations and collab with others instantly\n\nTry it out with your crew now ⏩",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/691e5dd1e5c36432a8dc8cfb04257c24.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1724,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1148,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 766,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 574,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 382,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 11.6
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1a0301d1",
+    "url": "https://warpcast.com/itai/0x1a0301d1",
+    "author_username": "itai",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 516,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/03118d59-5105-4f4f-e2b2-6f92c93bd400/original",
+    "cast_date": "2024-05-08T20:51:30.000Z",
+    "text": "Did you know you can customize your @farcaster login down to the pixel with @dynamic? Change colors, themes, typefaces and more.\n\nI coin it - Super Flexible (tm) 💫  😁  🎤",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8daa580e-cc30-43fe-851a-81020a4aa900/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 3010793,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1200,
+            "height_px": 628
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6f5caf6b",
+    "url": "https://warpcast.com/itai/0x6f5caf6b",
+    "author_username": "itai",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 516,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/03118d59-5105-4f4f-e2b2-6f92c93bd400/original",
+    "cast_date": "2024-05-08T17:02:12.000Z",
+    "text": "Enjoyed our @baseapp.base.eth Smart Wallet walkthrough? You can now try it out yourself!\n\n🔹Go to https://demo.dynamic.xyz/?use-environment=Coinbase\n🔹Select Coinbase\n🔹Create a wallet & log in\n🔹Go to https://www.smart-wallet.xyz/\n🔹Click \"Smart Wallet\" & mint an NFT\n\nWe break it down in 2 steps below 👇",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/0d63b4699f31fd50a812d268bca8760e.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1270,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 846,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 634,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 422,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 39.7
+          }
+        }
+      },
+      {
+        "url": "https://demo.dynamic.xyz/?use-environment=Coinbase",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://demo.dynamic.xyz/",
+            "ogType": "website",
+            "favicon": "https://demo.dynamic.xyz/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://demo.dynamic.xyz/og-image.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "Dynamic | Demo Environment",
+            "ogLocale": "en",
+            "ogDescription": "Web3 login for everyone. Simple onboarding flows for all your users and powerful developer tools to match."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfdab5de1",
+    "url": "https://warpcast.com/v/0xfdab5de1",
+    "author_username": "v",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-05-16T22:39:55.000Z",
+    "text": "Our 2024 retro grants are going out soon! \n\nA big thank you to all these teams for building OSS software that makes the Farcaster ecosystem better.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0a929631-041f-4b4e-ab44-503ba1e07700/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 259789,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1390,
+            "height_px": 1600
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x941c38d8",
+    "url": "https://warpcast.com/betashop.eth/0x941c38d8",
+    "author_username": "betashop.eth",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 602,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5e14f7a-a60d-4aeb-3496-55305ecdd500/original",
+    "cast_date": "2024-05-15T22:37:35.000Z",
+    "text": "Season 3 of Airstack Not A Token rewards are ready to claim!\n\n1,035,022 $degen claimable in frame\n96,403 Farcasters earned this round! 🤯\n- from casting\n- from building frames\n- from swapping\n- from building apps\n\nlearn more airstack.xyz/notatoken \n\nhttps://share.airstack.xyz/s/1hb",
+    "embeds": [
+      {
+        "url": "https://share.airstack.xyz/s/1hb",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://frames.airstack.xyz/dc/image?i=degen-claim-15-may-2024&o=1035002&m=2024-05-15&n=2024-05-30&d=&t=&r=&u="
+              }
+            ],
+            "ogTitle": "Airstack Degen Collect Frame",
+            "ogLocale": "en",
+            "ogDescription": "Farcaster frame for Degen Collect"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc5bff62e",
+    "url": "https://warpcast.com/yb/0xc5bff62e",
+    "author_username": "yb",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 3206,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/75065034-412e-4d5a-ea84-98e89cc1c400/original",
+    "cast_date": "2024-05-15T23:35:02.000Z",
+    "text": "ok just went on a 45 min walk and I've decided to build a client for /toc\n\nidk how it will look, but i want to try building and have fun w it\n\nall i know is:\n\n- mobile\n- @hypersub gated\n- will share weekly build updates on toc newsletter\n- TOC has a ton of smart people that I can jam with and make this client useful",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb43a8948",
+    "url": "https://warpcast.com/jessepollak/0xb43a8948",
+    "author_username": "jessepollak",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-05-16T16:26:14.000Z",
+    "text": "join the OᑎᑕᕼᗩIᑎ ᔕᑌᗰᗰEᖇ buildathon all June\n\n8 tracks, 200+ ETH in prizes, open to anyone worldwide\n\nsupport from @farcaster, @zora, @fleek, @thirdweb, @nouns, @aerodrome, @synthetix, Stripe, and Shopify — and anyone else who wants to submit a bounty on @bountycaster!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bdeb8771-a57e-476d-f3fe-2d1869a6c500/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 373735,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1570,
+            "height_px": 1496
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x04655669",
+    "url": "https://warpcast.com/six/0x04655669",
+    "author_username": "six",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 7143,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/76301e92-5f13-4e72-cc12-c1e366163a00/original",
+    "cast_date": "2024-05-16T20:18:57.000Z",
+    "text": "somebody has to pay for data storage. in web2 the advertisers pay the tech company who pays for storage. on farcaster we pay fees to the protocol. but those fees just sit in the protocol treasury, ie they are not spent on anything yet. so who is *paying* for the storage?\n\nforgive if dumb question",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x280f3ad2",
+    "url": "https://warpcast.com/xenbh.eth/0x280f3ad2",
+    "author_username": "xenbh.eth",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 11510,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ae137d7-90e1-4f29-e4c7-7f818ec86b00/original",
+    "cast_date": "2024-05-16T17:19:45.000Z",
+    "text": "Introducing Roam: the social onchain browser.\n\n1. Download at roam.xyz (limited spots)\n2. Watch and mint the video\n3. Join /roam\n\nBe early ;)\n\nhttps://zora.co/collect/base:0xc6e765ee0a737bcc58b7f4f57108b031454efdcf/1/frames\n\nhttps://paragraph.xyz/@roam-xyz/introducing-roam",
+    "embeds": [
+      {
+        "url": "https://zora.co/collect/base:0xc6e765ee0a737bcc58b7f4f57108b031454efdcf/1/frames?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      },
+      {
+        "url": "https://paragraph.xyz/@roam-xyz/introducing-roam",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2024-05-16T15:01:08.542Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/ff066f7ecb66813e4983c6ebd789ce0e.jpg",
+            "ogImage": [
+              {
+                "alt": "Introducing Roam",
+                "url": "https://storage.googleapis.com/papyrus_images/8344c94821a18de2493c26961752981e.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Introducing Roam",
+            "ogLocale": "en",
+            "ogDescription": "Introducing Roam: The Social Onchain Browser. Download the app at roam.xyz.",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@roam-xyz/introducing-roam?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Introducing%20Roam&blogName=Roam&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fff066f7ecb66813e4983c6ebd789ce0e.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F8344c94821a18de2493c26961752981e.jpg&size=2048&publishedDate=1715871668542"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Introducing%20Roam&blogName=Roam&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fff066f7ecb66813e4983c6ebd789ce0e.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F8344c94821a18de2493c26961752981e.jpg&size=2048&publishedDate=1715871668542",
+            "frames_url": "https://paragraph.xyz/@roam-xyz/introducing-roam",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGgueHl6In0",
+                "signature": "MHg5YmQ4MDcxNmVmNjIwZTFjM2UwZDkzMzQ5ZDNlNTU5N2MzYmU3NzQ2MDJmYTliZmE1Zjg2Mzk3Y2QxZTk4MGExM2RmNDVmMDM2ODE5Y2FhZmZiZmE5MTMxN2U3MGRlYWRlYTI2YWUzMTA2N2I1NDNiMTFkZDI3ODk3NzQ3ZWI5YjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x65d3d639",
+    "url": "https://warpcast.com/sum/0x65d3d639",
+    "author_username": "sum",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 5860,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmXuAKJaJZJibh3gdhumksckoBAzGXmmf9pMttuZqbDfhh?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-05-16T15:32:08.000Z",
+    "text": "been busy, how do you guys keep up after a few days off farcaster?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd03f5199",
+    "url": "https://warpcast.com/jacek/0xd03f5199",
+    "author_username": "jacek",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 15983,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+    "cast_date": "2024-05-16T09:50:39.000Z",
+    "text": "Here's a comprehensive overview of the current state of the Degen L3 and recent developments, written by NFTdegen.lol core dev @tempetechie.eth.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 11299,
+          "hash": "0x6e194aecc28e4800e6f344808baa6655e06af318"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x6e194aecc28e4800e6f344808baa6655e06af318",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 11299,
+            "username": "tempetechie.eth",
+            "display_name": "Tempe Techie",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/27dd3233-68e8-4c14-4f96-abccbeeebc00/original",
+            "custody_address": "0xb6295bae89ce900d3b9b2d0980ffb9440f5cf8bf"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x6e194aecc28e4800e6f344808baa6655e06af318",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "How the recent Degen Chain outage affected its dApps, and what to do about it.\n\nSee the thread below 🧵⬇️",
+          "timestamp": "2024-05-15T13:45:02.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "degen",
+            "name": "Degen",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x986f1397",
+    "url": "https://warpcast.com/polluterofminds/0x986f1397",
+    "author_username": "polluterofminds",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 4823,
+    "author_pfp": "https://i.seadn.io/gae/lhGgt7yK1JiBVYz_HBxcAmYLRtP03aw5xKX4FgmFT9Ai7kLD5egzlLvb0lkuRNl28shtjr07DC8IHzLUkTqlWUMndUzC9R5_MSxH3g?w=500&auto=format",
+    "cast_date": "2024-05-15T20:20:43.000Z",
+    "text": "If you're a paying Pinata customer and you build frames, respond to this message or send me a direct cast. I have questions. So many questions. But for real, I want to chat about some ideas.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2d946d65",
+    "url": "https://warpcast.com/matchaxyz/0x2d946d65",
+    "author_username": "matchaxyz",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 17114,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d73b034-b5d1-4ca0-d349-d99fc6aa3000/original",
+    "cast_date": "2024-05-11T18:11:03.000Z",
+    "text": "were yall seeing this too?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/090966ae-b37a-430a-97c7-a82226783400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 6303573,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1536,
+            "height_px": 2048
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbe4229f5",
+    "url": "https://warpcast.com/slokh/0xbe4229f5",
+    "author_username": "slokh",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 3887,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bcde483c-6e7e-4f6a-b254-b5e12e642d00/original",
+    "cast_date": "2024-05-15T19:56:30.000Z",
+    "text": "@nook v0.3.0 is now available, a full rebuild with significantly improved performance!\n\nNew feature: Lists\n- create lists of users/channels to see aggregated content\n- user lists also come with a transactional feed\n\nMint the full changelog 👇\n\nhttps://zora.co/collect/base:0x6220f9e13715927182164a1fb526ff4e7f01763e/1",
+    "embeds": [
+      {
+        "url": "https://zora.co/collect/base:0x6220f9e13715927182164a1fb526ff4e7f01763e/1?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2c9030d5",
+    "url": "https://warpcast.com/0xsmallbrain/0x2c9030d5",
+    "author_username": "0xsmallbrain",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 16831,
+    "author_pfp": "https://i.imgur.com/Vj7CdUX.jpg",
+    "cast_date": "2024-05-16T04:04:10.000Z",
+    "text": "Introducing words3: it's scrabble, but onchain... and the board is infinite\n\nPlay now (or in ten years–the game goes on forever) at words3.xyz 👇\n\nhttps://words3-frames.smallbraindev.workers.dev/mint-launch-collectible",
+    "embeds": [
+      {
+        "url": "https://words3-frames.smallbraindev.workers.dev/mint-launch-collectible",
+        "metadata": {
+          "content_type": null,
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xae35ae1d",
+    "url": "https://warpcast.com/ccarella.eth/0xae35ae1d",
+    "author_username": "ccarella.eth",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x3c802b82",
+    "url": "https://warpcast.com/ccarella.eth/0x3c802b82",
+    "author_username": "ccarella.eth",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-05-18",
+    "show_title": "GM Farcaster ep106, May 17, 2024",
+    "source_episode_id": "z4EobxKZ-kc",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

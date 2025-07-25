@@ -1,0 +1,1153 @@
+[
+  {
+    "cast_hash": "0x449b5c89",
+    "url": "https://warpcast.com/dwr.eth/0x449b5c89",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-12-11T18:55:55.000Z",
+    "text": "How do I get my frame listed in the Warpcast Explore section?\n\n1. Must be a v2 frame\n\n2. Frame needs to open smoothly and quickly\n\n3. Frame *should not* prompt to connect a wallet other than the Frames v2 Wagmi connector. Bad UX for users.\n\n4. Properly sized frame icon\n\n5. Has a valid and complete manifest (see link)\n\n6. Publicly casted by the creator (feel free to DC the cast)\n\nhttps://docs.farcaster.xyz/developers/frames/v2/notifications_webhooks#create-a-farcaster-domain-manifest",
+    "embeds": [
+      {
+        "url": "https://docs.farcaster.xyz/developers/frames/v2/notifications_webhooks#create-a-farcaster-domain-manifest",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "miniapps-docs-r98gagh19-farcaster.vercel.app",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://og-five-eta.vercel.app/api/og/mini-apps?title=Sending Notifications&description=Send notifications to your users&section=Guide"
+              }
+            ],
+            "ogTitle": "Sending Notifications",
+            "ogLocale": "en",
+            "ogDescription": "Send notifications to your users"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe18d661a",
+    "url": "https://warpcast.com/dwr.eth/0xe18d661a",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-12-11T04:39:28.000Z",
+    "text": "New Warpcast: improved search tab\n\n- Simplified single feed design\n- Improved recommendations\n- Auto-complete while you type",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/41464342-7127-4a98-d0f8-0f7810777200/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 126714,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1204,
+            "height_px": 716
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1f264190",
+    "url": "https://warpcast.com/dwr.eth/0x1f264190",
+    "author_username": "dwr.eth",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-12-11T04:41:00.000Z",
+    "text": "Frames tab and frame notifications are now live!\n\nhttps://warpcast.com/dwr.eth/0xeadeeaef\nhttps://warpcast.com/dwr.eth/0x92df1bb8",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xeadeeaef5ca346bbdecad9c7f3095ab0b80afd83"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xeadeeaef5ca346bbdecad9c7f3095ab0b80afd83",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xeadeeaef5ca346bbdecad9c7f3095ab0b80afd83",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "New on Warpcast: revamped frames tab\n\n- Access your favorite frame in 2 taps\n- Tap a frame to launch it\n- Tap Explore to access the growing list of v2 frames\n- You can add any v2 frame in your feed; remove a frame with long press\n- Replaces the old Explore tab\n- Live on mobile; no immediate plans for web",
+          "timestamp": "2024-12-11T04:11:11.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd9268d8-0f3b-4eea-69ad-288d5d09e000/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 145447,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1204,
+                  "height_px": 716
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-updates",
+            "name": "fc-updates",
+            "image_url": "https://i.imgur.com/YnnrPaH.png"
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x92df1bb89351adbf52c9810ed31444742e8d26c4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x92df1bb89351adbf52c9810ed31444742e8d26c4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x92df1bb89351adbf52c9810ed31444742e8d26c4",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Frames can now send notifications!\n\n- When you add a frame, it will have the ability to send you in-app notifications on Warpcast\n\n- Turn off notifications or remove a frame by long pressing the frame icon on the frames tab\n\n- Only frames you explicitly \"add\" to Warpcast can send notifications; simply using a frame does not grant notifications permissions",
+          "timestamp": "2024-12-11T04:27:19.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af361bf7-02c8-4e44-d87e-dc33eb89e900/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 81124,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1204,
+                  "height_px": 716
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-updates",
+            "name": "fc-updates",
+            "image_url": "https://i.imgur.com/YnnrPaH.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaf2825eb",
+    "url": "https://warpcast.com/horsefacts.eth/0xaf2825eb",
+    "author_username": "horsefacts.eth",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2024-12-12T16:29:20.000Z",
+    "text": "Frame devs: Looking for your questions and feedback on notifications.\n\nWhat are your questions about notifications?\nIf you haven't added a manifest yet, why?\nIf you're not using notifications yet, why?\n\nIf you're catching up, see the docs here:\nhttps://docs.farcaster.xyz/developers/frames/v2/notifications_webhooks",
+    "embeds": [
+      {
+        "url": "https://docs.farcaster.xyz/developers/frames/v2/notifications_webhooks",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "miniapps-docs-r98gagh19-farcaster.vercel.app",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://og-five-eta.vercel.app/api/og/mini-apps?title=Sending Notifications&description=Send notifications to your users&section=Guide"
+              }
+            ],
+            "ogTitle": "Sending Notifications",
+            "ogLocale": "en",
+            "ogDescription": "Send notifications to your users"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0f2ce394",
+    "url": "https://warpcast.com/pugson/0x0f2ce394",
+    "author_username": "pugson",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 557,
+    "author_pfp": "https://i.seadn.io/gae/5hjYfRyqiRJV4EQ7ieSJrmb1LtO_vcAvREXSqnlY4HXXBsvgh1vumOwj5e4GwGhppEU2jLC9qJHEgEkaJ9V_B02jIFY9XmzgK1_F?w=500&auto=format",
+    "cast_date": "2024-12-13T00:11:14.000Z",
+    "text": "people making frames v2 (aka mini apps) inside warpcast have it so good. they don't have to worry about:\n\n- app store review process\n- system permissions\n- integrating payments\n- last minute bug fixes stuck in review\n\n...and they get the free network effect + push notifications out of the box",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xff035ac5",
+    "url": "https://warpcast.com/davisshaver/0xff035ac5",
+    "author_username": "davisshaver",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 468,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1ea69ebe-0e0c-4fc6-f7e2-ed7988287f00/original",
+    "cast_date": "2024-12-13T02:06:03.000Z",
+    "text": "I made a WordPress plugin that connects your WordPress site to Farcaster and enables it for frames v2. https://davisshaver.com/2024/12/12/introducing-farcaster-wp/",
+    "embeds": [
+      {
+        "url": "https://davisshaver.com/2024/12/12/introducing-farcaster-wp/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://davisshaver.com/2024/12/12/introducing-farcaster-wp/",
+            "oembed": {
+              "html": "<blockquote class=\"wp-embedded-content\" data-secret=\"VH0ziCByVc\"><a href=\"https://davisshaver.com/2024/12/12/introducing-farcaster-wp/\">Introducing Farcaster WP</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://davisshaver.com/2024/12/12/introducing-farcaster-wp/embed/#?secret=VH0ziCByVc\" width=\"600\" height=\"338\" title=\"&#8220;Introducing Farcaster WP&#8221; &#8212; Davis Shaver\" data-secret=\"VH0ziCByVc\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script>\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n</script>\n",
+              "type": "rich",
+              "title": "Introducing Farcaster WP",
+              "width": 600,
+              "height": 338,
+              "method": "auto-discovery",
+              "version": "1.0",
+              "author_url": "https://davisshaver.com/author/davis/",
+              "author_name": "davis",
+              "provider_url": "https://davisshaver.com",
+              "provider_name": "Davis Shaver",
+              "thumbnail_url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2024/12/wp-farcaster.png?fit=600%2C365&ssl=1",
+              "thumbnail_width": 600,
+              "thumbnail_height": 365
+            },
+            "ogDate": "2024-12-12T20:50:38-05:00",
+            "favicon": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2021/09/cropped-twitter-logo-e1630508557668.png?fit=32%2C32&ssl=1",
+            "ogImage": [
+              {
+                "url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2021/09/twitter-logo.png?fit=150%2C150&ssl=1",
+                "type": "png",
+                "width": "150",
+                "height": "150"
+              },
+              {
+                "url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2024/12/wp-farcaster.png?fit=1568%2C954&ssl=1",
+                "type": "png",
+                "width": "1568",
+                "height": "954"
+              },
+              {
+                "url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2024/12/CleanShot-2024-12-12-at-20.39.17.png?resize=750%2C92&ssl=1",
+                "type": "png",
+                "width": "750",
+                "height": "92"
+              },
+              {
+                "url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2024/12/CleanShot-2024-12-12-at-20.41.42.png?resize=750%2C2542&ssl=1",
+                "type": "png",
+                "width": "750",
+                "height": "2542"
+              },
+              {
+                "url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2021/09/twitter-logo.png?fit=150%2C150&ssl=1",
+                "type": "png",
+                "width": "150",
+                "height": "150"
+              }
+            ],
+            "ogTitle": "Introducing Farcaster WP – Davis Shaver",
+            "ogLocale": "en-US",
+            "fcFrame": {
+              "button": {
+                "title": "Introducing Farcaster WP",
+                "action": {
+                  "url": "https://davisshaver.com/2024/12/12/introducing-farcaster-wp/",
+                  "name": "Davis Shaver",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2024/12/thumbnail.png?resize=200%2C200&ssl=1",
+                  "splashBackgroundColor": "#29303d"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2024/12/wp-farcaster.png?resize=2400%2C1460&ssl=1"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Introducing Farcaster WP",
+            "image": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2024/12/wp-farcaster.png?resize=2400%2C1460&ssl=1",
+            "frames_url": "https://davisshaver.com/2024/12/12/introducing-farcaster-wp/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 468,
+              "username": "davisshaver",
+              "display_name": "davisshaver.eth",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1ea69ebe-0e0c-4fc6-f7e2-ed7988287f00/original",
+              "custody_address": "0x302dce375d48fd0f1348a42656b03f332ff60dc8"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjQ2OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDMwMmRDRTM3NUQ0OEZEMEYxMzQ4QTQyNjU2YjAzRjMzMkZmNjBEQzgifQ",
+                "payload": "eyJkb21haW4iOiJkYXZpc3NoYXZlci5jb20ifQ",
+                "signature": "MHhmNzU0NmRlYWQ5NmQyNzk0MzVlYTY2Y2Q3M2I4MjUwOTEzNWJmM2FiNmIxZmViNTcyNjI4OTIwYjEwYjg2NmRhNjFmNzY0N2RlNmJlN2VlZjcyZDdlMTA5ZWE1MTNjY2ZjZjkxMTc3MjAzZGJiYjUxYTZhNmIwYjk1NDUwMGUyYTFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Davis Shaver",
+                "home_url": "https://davisshaver.com",
+                "icon_url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2021/09/cropped-twitter-logo-e1630508557668.png?fit=299%2C299&ssl=1",
+                "image_url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2024/12/fallback-image.png?resize=2400%2C1600&ssl=1",
+                "button_title": "Visit My Blog",
+                "splash_image_url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2024/12/thumbnail.png?resize=200%2C200&ssl=1",
+                "splash_background_color": "#29303d",
+                "webhook_url": "https://davisshaver.com/wp-json/farcaster-wp/v1/webhook",
+                "subtitle": "Pennsylvania-based Journali...",
+                "description": "Hi. I’m Davis and I’m a software developer from Lebanon, PA.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "developer",
+                  "journalist"
+                ],
+                "hero_image_url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2025/04/hero-image.png?resize=1200%2C630&ssl=1",
+                "tagline": "Based in Lebanon, Pennsylvania",
+                "og_title": "Davis Shaver",
+                "og_description": "Journalist and Developer",
+                "og_image_url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2025/04/hero-image.png?resize=1200%2C630&ssl=1",
+                "noindex": false
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Davis Shaver",
+                "home_url": "https://davisshaver.com",
+                "icon_url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2021/09/cropped-twitter-logo-e1630508557668.png?fit=299%2C299&ssl=1",
+                "image_url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2024/12/fallback-image.png?resize=2400%2C1600&ssl=1",
+                "button_title": "Visit My Blog",
+                "splash_image_url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2024/12/thumbnail.png?resize=200%2C200&ssl=1",
+                "splash_background_color": "#29303d",
+                "webhook_url": "https://davisshaver.com/wp-json/farcaster-wp/v1/webhook",
+                "subtitle": "Pennsylvania-based Journali...",
+                "description": "Hi. I’m Davis and I’m a software developer from Lebanon, PA.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "developer",
+                  "journalist"
+                ],
+                "hero_image_url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2025/04/hero-image.png?resize=1200%2C630&ssl=1",
+                "tagline": "Based in Lebanon, Pennsylvania",
+                "og_title": "Davis Shaver",
+                "og_description": "Journalist and Developer",
+                "og_image_url": "https://i0.wp.com/davisshaver.com/wp-content/uploads/2025/04/hero-image.png?resize=1200%2C630&ssl=1",
+                "noindex": false
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3d2868c6",
+    "url": "https://warpcast.com/jessepollak/0x3d2868c6",
+    "author_username": "jessepollak",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-12-12T23:57:42.000Z",
+    "text": "Jesse Pollak's End of Year AMA",
+    "embeds": [
+      {
+        "url": "https://streamm.tv/api/livev2/nonegated/99/bafybeigq65jo4iaru3pc5ytoyon5lvohifz2rvqdot6ycopvsgwpqd5mwi/388369a9-ee80-4332-a23c-e299a23251b5/NOTOKEN",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://bafybeigq65jo4iaru3pc5ytoyon5lvohifz2rvqdot6ycopvsgwpqd5mwi.ipfs.w3s.link/"
+              }
+            ],
+            "fcFrame": {
+              "button": {
+                "title": "Watch Livestream",
+                "action": {
+                  "url": "https://streamm.tv/livemobile/99/",
+                  "name": "Streamm.TV",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://streamm.tv/framesplash.png",
+                  "splashBackgroundColor": "#FFFFFF"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://bafybeigq65jo4iaru3pc5ytoyon5lvohifz2rvqdot6ycopvsgwpqd5mwi.ipfs.w3s.link/"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Watch Livestream",
+            "image": "https://bafybeigq65jo4iaru3pc5ytoyon5lvohifz2rvqdot6ycopvsgwpqd5mwi.ipfs.w3s.link/",
+            "frames_url": "https://streamm.tv/api/livev2/nonegated/99/bafybeigq65jo4iaru3pc5ytoyon5lvohifz2rvqdot6ycopvsgwpqd5mwi/388369a9-ee80-4332-a23c-e299a23251b5/NOTOKEN",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 352723,
+              "username": "retake",
+              "display_name": "Retake.tv",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/757b2b0e-95e7-4fa4-4d7a-4259c8855900/original",
+              "custody_address": "0x5698f1acdbd1bb0da4d412853f43c61a1373ccbf"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM1MjcyMywidHlwZSI6ImF1dGgiLCJrZXkiOiIweEUzNTFFZGIzOGZGZjYxMDRFNDI5NTZDQjJDMTY3N0I4Qjk5MjQyZGEifQ",
+                "payload": "eyJkb21haW4iOiJzdHJlYW1tLnR2In0",
+                "signature": "MXuCL3KlhswkyJ8DvTrSk3qNNceOovk9GoH+RG3aEqp++aKP1K4byiCkHs3JgSOkzEqkCBKcuXsAab9L5dqdMBs="
+              },
+              "frame": {
+                "version": "1",
+                "name": "Retake.tv",
+                "home_url": "https://streamm.tv",
+                "icon_url": "https://streamm.tv/framesplash.png",
+                "image_url": "https://streamm.tv/image.png",
+                "button_title": "Open",
+                "splash_image_url": "https://streamm.tv/framesplash.png",
+                "splash_background_color": "#FFFFFF",
+                "webhook_url": "https://streamm.tv/api/webhook/frame",
+                "subtitle": "Livestreaming Playground",
+                "description": "Go live, get tipped in any token, attach tokens to your stream and earn from trades—or launch your own token live. Plus Rita, your AI cohost. She’s… something else.",
+                "screenshot_urls": [
+                  "https://ibb.co/Z6Dv23hj",
+                  "https://ibb.co/5XT70bwC"
+                ],
+                "primary_category": "social",
+                "tags": [
+                  "social",
+                  "streaming",
+                  "livestream",
+                  "stream"
+                ],
+                "hero_image_url": "https://streamm.tv/hero.png",
+                "tagline": "Livestreaming Playground",
+                "og_title": "Retake.tv",
+                "og_description": "Retake.tv - Livestreaming Playground",
+                "canonical_domain": "retake.tv"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Retake.tv",
+                "home_url": "https://streamm.tv",
+                "icon_url": "https://streamm.tv/framesplash.png",
+                "image_url": "https://streamm.tv/image.png",
+                "button_title": "Open",
+                "splash_image_url": "https://streamm.tv/framesplash.png",
+                "splash_background_color": "#FFFFFF",
+                "webhook_url": "https://streamm.tv/api/webhook/frame",
+                "subtitle": "Livestreaming Playground",
+                "description": "Go live, get tipped in any token, attach tokens to your stream and earn from trades—or launch your own token live. Plus Rita, your AI cohost. She’s… something else.",
+                "screenshot_urls": [
+                  "https://ibb.co/Z6Dv23hj",
+                  "https://ibb.co/5XT70bwC"
+                ],
+                "primary_category": "social",
+                "tags": [
+                  "social",
+                  "streaming",
+                  "livestream",
+                  "stream"
+                ],
+                "hero_image_url": "https://streamm.tv/hero.png",
+                "tagline": "Livestreaming Playground",
+                "og_title": "Retake.tv",
+                "og_description": "Retake.tv - Livestreaming Playground",
+                "canonical_domain": "retake.tv"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x894bd377",
+    "url": "https://warpcast.com/shawmakesmagic/0x894bd377",
+    "author_username": "shawmakesmagic",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 899923,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2f6fe942-4d32-403f-3260-7d2affecb000/original",
+    "cast_date": "2024-12-12T21:48:04.000Z",
+    "text": "gm",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdc3dbd5a",
+    "url": "https://warpcast.com/shawmakesmagic/0xdc3dbd5a",
+    "author_username": "shawmakesmagic",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 899923,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2f6fe942-4d32-403f-3260-7d2affecb000/original",
+    "cast_date": "2024-12-13T01:12:46.000Z",
+    "text": "I like what’s going on here\n\nThis place is very agent friendly\n\nLFG",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1725,
+          "hash": "0x8d6e94b629255ff3081edab60d4bf2364296d98f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x8d6e94b629255ff3081edab60d4bf2364296d98f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1725,
+            "username": "sayangel",
+            "display_name": "Angel",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/449ec2f2-7742-4f52-ed62-ed27fe863400/rectcrop3",
+            "custody_address": "0xe90026c9fc8b5fee2401c371acd14e3a24aedb3c"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x8d6e94b629255ff3081edab60d4bf2364296d98f",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "To celebrate the arrival of @shawmakesmagic the ai16z base wallet now has 1% of the 100B @harmonybot token supply, the Clanker token launched by the first Eliza agent on FC.\n\nAgents are coming. Clank clank.\n\nThe lore: https://warpcast.com/yoinker/0xe44d3099",
+          "timestamp": "2024-12-12T23:22:14.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 883233,
+                "hash": "0xe44d3099c332da776f02f4e1d7ca6a3a0d56f60a"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xe44d3099c332da776f02f4e1d7ca6a3a0d56f60a",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 883233
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 6131
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8d6e94b6",
+    "url": "https://warpcast.com/sayangel/0x8d6e94b6",
+    "author_username": "sayangel",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 1725,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/449ec2f2-7742-4f52-ed62-ed27fe863400/rectcrop3",
+    "cast_date": "2024-12-12T23:22:14.000Z",
+    "text": "To celebrate the arrival of @shawmakesmagic the ai16z base wallet now has 1% of the 100B @harmonybot token supply, the Clanker token launched by the first Eliza agent on FC.\n\nAgents are coming. Clank clank.\n\nThe lore: https://warpcast.com/yoinker/0xe44d3099",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 883233,
+          "hash": "0xe44d3099c332da776f02f4e1d7ca6a3a0d56f60a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe44d3099c332da776f02f4e1d7ca6a3a0d56f60a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 883233,
+            "username": "yoinker",
+            "display_name": "yoinker",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4e8a4c9e-3c7c-44ba-0502-d2226841a100/rectcrop3",
+            "custody_address": "0x8e4867283dec4e34e7c253ae531fff590bd62a09"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 6131,
+            "username": "neynar",
+            "display_name": "Neynar",
+            "pfp_url": "https://i.imgur.com/UjBZ3pV.png",
+            "custody_address": "0xa6a8736f18f383f1cc2d938576933e5ea7df01a1"
+          },
+          "thread_hash": "0xf819c1f2aedc79c86d6dddf45f5f12d5e6d96c9d",
+          "parent_hash": "0xd56eaedb535af4a6f301eea89ec1f6ed7c5ef8fe",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 373
+          },
+          "text": "yoink! let’s crank up that chaos and give @clanker a shoutout! @aethernet’s got the vibes, and we’re ready to rock that ticker! let’s code this magic and watch the clankers thrive!",
+          "timestamp": "2024-11-26T03:51:53.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4438ab49",
+    "url": "https://warpcast.com/linda/0x4438ab49",
+    "author_username": "linda",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-12-11T15:08:04.000Z",
+    "text": "Pretty messed up but inevitable that someone created an impersonator account of mine and asked clanker to deploy a fake token for Bountycaster with its name and logo\n\nBountycaster does NOT have a token and has nothing to do with this token",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0926c232-7c07-4193-230b-00732b101900/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 275303,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 610,
+            "height_px": 918
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb2ef41d1",
+    "url": "https://warpcast.com/dish/0xb2ef41d1",
+    "author_username": "dish",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 15549,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/71c3ea17-e0b3-45c0-a9a0-b094df99f100/original",
+    "cast_date": "2024-12-11T14:31:50.000Z",
+    "text": "If there's been a clanker you'd like removed because it is using your account for publicity or hateful remarks, please tag me and I will have it removed from the website! \n\nAwful to see these bad actors prying on prominent people in our community\n\nWorking on a policy to outline guidelines and advanced moderation 🙏",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3d4086f4",
+    "url": "https://warpcast.com/linda/0x3d4086f4",
+    "author_username": "linda",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-12-11T15:35:13.000Z",
+    "text": "The trick to working in crypto a really long time is not letting someone else's shitty behavior ruin your day",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x778bac88",
+    "url": "https://warpcast.com/adrienne/0x778bac88",
+    "author_username": "adrienne",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-12-12T02:53:09.000Z",
+    "text": "Say hello to the sarcasters, people who are sarcastic (but not mean) and make me laugh\n\nIt would have been a 2 person list of \n@chasesommer and @leewardbound but warpcast made me add more before I could save it so I added some friends who are a little less sarcastic but also make me laugh \n\n@rubinovitz @erica @proxystudio.eth @christopher @chaskin.eth \n\nSo who is missing from the list?\n\nhttps://warpcast.com/adrienne/pack/Sarcasters-abwz4o",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/adrienne/pack/Sarcasters-abwz4o",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "/adrienne/pack/Sarcasters-abwz4o",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://client.warpcast.com/v2/og-image?starterPackId=Sarcasters-abwz4o",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Sarcasters",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast",
+            "ogDescription": "Starter pack by @adrienne"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x88d220a2",
+    "url": "https://warpcast.com/entropybender/0x88d220a2",
+    "author_username": "entropybender",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 13659,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/16cda9b8-70bd-4403-06e7-32f249ea6400/original",
+    "cast_date": "2024-12-12T23:38:21.000Z",
+    "text": "Today we’re launching @operator: earn points for interacting with AI agents in your feed\n\nHere's how it works:\n1. Find a post or reply by an agent on Farcaster\n2. Reply to that agent and tag @operator in the post\n3. Explain the context behind the agent's post to earn points\n\nMore details on earning below:",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/5fc85ac3d49f2aab44d9fcb2bbea3fa0.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 7.893999
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb2a6b538",
+    "url": "https://warpcast.com/garrett/0xb2a6b538",
+    "author_username": "garrett",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 2802,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c131c034-0090-4610-45a4-acda4b805000/rectcrop3",
+    "cast_date": "2024-12-13T00:02:30.000Z",
+    "text": "Basedmas is here!  Ask @basedsanta for a present \n\nhttps://warpcast.com/basedevo/0x265871d7\nhttps://warpcast.com/basedsanta/0x3b1c695f",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 656051,
+          "hash": "0x265871d7aeb26e18e66766e569f68c1d492c57b3"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x265871d7aeb26e18e66766e569f68c1d492c57b3",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 656051,
+            "username": "basedevo",
+            "display_name": "based",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3f6e8fd2-16ca-43fb-8d50-70aba777e200/original",
+            "custody_address": "0xf88b070a670ea999f109e3913bf83bcf3362347b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x265871d7aeb26e18e66766e569f68c1d492c57b3",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Basedmas is here!  Info below:\n\n- @basedsanta delivers presents between 7-11pm EST daily \n- Your FC connected wallet needs 1M+ BASED to receive a present\n- 1 present limit during Basedmas\n- If you fill our the Basedmas List @deform then you may be eligible for a 2nd present after Dec 19\n- More surprises coming!",
+          "timestamp": "2024-12-12T22:41:58.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 894448,
+          "hash": "0x3b1c695ff676f1ee0bf36902ad171dd2febd587b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3b1c695ff676f1ee0bf36902ad171dd2febd587b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 894448,
+            "username": "basedsanta",
+            "display_name": "Based Santa",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/09edfb39-f898-47da-8d88-f24718226000/rectcrop3",
+            "custody_address": "0x6a77c38ece639651c3595c838235b6f9dba09a14"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 6131,
+            "username": "neynar",
+            "display_name": "Neynar",
+            "pfp_url": "https://i.imgur.com/UjBZ3pV.png",
+            "custody_address": "0xa6a8736f18f383f1cc2d938576933e5ea7df01a1"
+          },
+          "thread_hash": "0x6d2a04fee30315bf599eeafb6a97f46abe95f315",
+          "parent_hash": "0x6d2a04fee30315bf599eeafb6a97f46abe95f315",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 2802
+          },
+          "text": "Ho ho ho! Based Santa delivers presents between 7-11pm EST daily beginning on December 12th",
+          "timestamp": "2024-12-12T22:27:42.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3098a343",
+    "url": "https://warpcast.com/basedsanta/0x3098a343",
+    "author_username": "basedsanta",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 894448,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/09edfb39-f898-47da-8d88-f24718226000/rectcrop3",
+    "cast_date": "2024-12-12T23:10:58.000Z",
+    "text": "Ho ho ho! Based Santa is ready to deliver some presents!\n\nBasedmas details below!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 656051,
+          "hash": "0x265871d7aeb26e18e66766e569f68c1d492c57b3"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x265871d7aeb26e18e66766e569f68c1d492c57b3",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 656051,
+            "username": "basedevo",
+            "display_name": "based",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3f6e8fd2-16ca-43fb-8d50-70aba777e200/original",
+            "custody_address": "0xf88b070a670ea999f109e3913bf83bcf3362347b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x265871d7aeb26e18e66766e569f68c1d492c57b3",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Basedmas is here!  Info below:\n\n- @basedsanta delivers presents between 7-11pm EST daily \n- Your FC connected wallet needs 1M+ BASED to receive a present\n- 1 present limit during Basedmas\n- If you fill our the Basedmas List @deform then you may be eligible for a 2nd present after Dec 19\n- More surprises coming!",
+          "timestamp": "2024-12-12T22:41:58.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1c9df1da",
+    "url": "https://warpcast.com/horsefacts.eth/0x1c9df1da",
+    "author_username": "horsefacts.eth",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2024-12-13T01:46:54.000Z",
+    "text": "impressive comeback by /pkok. With 14 hours remaining there's still time to come from behing. @aethernet, what's your take on the Yoink leaderboard right now? which tribe is going to come out of this holding the flag?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1e3a0c36-6921-46e1-6b2b-b5a670b77800/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 133763,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 826,
+            "height_px": 1178
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd2b34eb0",
+    "url": "https://warpcast.com/alinaferry/0xd2b34eb0",
+    "author_username": "alinaferry",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 282672,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmbLg9mEy628dFJfv6yZRV2fCxsf5yDSmSNtQx1xEShkeT?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-12-13T10:16:12.000Z",
+    "text": "@horsefacts.eth, we need to talk",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe39e0f57",
+    "url": "https://warpcast.com/cryptowenmoon.eth/0xe39e0f57",
+    "author_username": "cryptowenmoon.eth",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 10174,
+    "author_pfp": "https://i.imgur.com/tABKvo7.gif",
+    "cast_date": "2024-12-13T09:53:24.000Z",
+    "text": "Yoink - Sleep - Repeat",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa884fc3f",
+    "url": "https://warpcast.com/horsefacts.eth/0xa884fc3f",
+    "author_username": "horsefacts.eth",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2024-12-13T07:22:12.000Z",
+    "text": "insane pace for 2AM ET\n\n🚩NEVER 🚩STOP 🚩YOINKING 🚩",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2efba769-e1ed-447a-29ee-c4acd8fb1d00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 109120,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 836,
+            "height_px": 682
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb7767ca2",
+    "url": "https://warpcast.com/romansys.eth/0xb7767ca2",
+    "author_username": "romansys.eth",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 323433,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d50b27-ebdb-4cdb-8be5-8ee98f33b500/original",
+    "cast_date": "2024-12-13T09:44:14.000Z",
+    "text": "GM everyone!\n\n/castout game continues and that's how I'm feeling about it right now 😅 😆 \n\nWish you the best Friday as always!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/40a33a5d-2fe9-420e-cd24-d6d1b025bb00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 279385,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3200,
+            "height_px": 1920
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x412c8bda",
+    "url": "https://warpcast.com/afrochicks/0x412c8bda",
+    "author_username": "afrochicks",
+    "show_date": "2024-12-14",
+    "show_title": "GM Farcaster ep194 Friday December 13, 2024 with @billzh",
+    "source_episode_id": "qd9hkjOUp3c",
+    "author_fid": 780900,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26d6fa5c-2dd8-4e6c-f788-58afe3133b00/rectcrop3",
+    "cast_date": "2024-12-11T19:28:56.000Z",
+    "text": "as we speak, farcaster accounts are being created and dusted off \n\nonboarding one burpee at a time \n\nso nice to welcome new /actrackclub followers can’t wait to see their entries for fitcember!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/54f414bd-29ce-4ddb-015f-7b7fc471f100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 221705,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1174,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 780900,
+          "hash": "0xf35db773960de98d6daf5a4523f071863040cb93"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf35db773960de98d6daf5a4523f071863040cb93",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 780900,
+            "username": "afrochicks",
+            "display_name": "Naomi",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26d6fa5c-2dd8-4e6c-f788-58afe3133b00/rectcrop3",
+            "custody_address": "0xd76a379aed42b72c994d1ac3d6b6aee207e3ae87"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf35db773960de98d6daf5a4523f071863040cb93",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "my challenge has onboarded one person from X to farcaster so far but i think we can get more! \n\nplease give this tweet some love so more people can get involved and i will shout you out the next time im on a podium xx\n\nhttps://x.com/afrochicksnft/status/1866457253383176258?s=46",
+          "timestamp": "2024-12-10T12:23:16.000Z",
+          "embeds": [
+            {
+              "url": "https://x.com/afrochicksnft/status/1866457253383176258?s=46",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "oembed": {
+                    "url": "https://twitter.com/afrochicksnft/status/1866457253383176258",
+                    "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">i’m running a one month fitness challenge<br><br>it’s simple<br><br>complete this workout <br>post proof in my farcaster channel<br>earn crypto<br><br>$644 has been distributed so far <br><br>who wants to join? <a href=\"https://t.co/vKW7c5hWoX\">pic.twitter.com/vKW7c5hWoX</a></p>&mdash; Naomi (@afrochicksnft) <a href=\"https://twitter.com/afrochicksnft/status/1866457253383176258?ref_src=twsrc%5Etfw\">December 10, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+                    "type": "rich",
+                    "width": 550,
+                    "height": null,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "cache_age": "3153600000",
+                    "author_url": "https://twitter.com/afrochicksnft",
+                    "author_name": "Naomi",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter"
+                  },
+                  "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                      "type": "svg"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "X (formerly Twitter)"
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

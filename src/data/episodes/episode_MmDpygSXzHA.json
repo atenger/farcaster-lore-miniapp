@@ -1,0 +1,1641 @@
+[
+  {
+    "cast_hash": "0x2fddd525",
+    "url": "https://warpcast.com/bradq/0x2fddd525",
+    "author_username": "bradq",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-05-19T12:55:16.000Z",
+    "text": "29 Seconds of Farcaster ... what did you miss this weekend?\n\n* no /gmfarcaster today, /castout show today & normal show tomorrow\n\n* @moe dropped a great mini app to view Starter Packs feeds in app\n\n* @v cast a primer on Rewards, most notably it scores your top 50 casts; he also did a banger AMA | https://warpcast.com/v/0x8e1c9ebb\n\n* Lots of FarCon Rome talk w/ 'rolling up to Farcon' memes, but also side convos about FarCon being a DAO or run by Merkle & still having a US version. TBD 🤷‍♂️ \n\n* @bracky was busy with NBA Playoffs & PGA Championship... @degen-chad became the first 100 Million $Bracky winner (~$2300 on small airdrop)! s/o @arob1000 at 58 million\n\n* This Week In Mini Apps featured @keccers.eth & @jc4p hosted by @horsefacts.eth | https://warpcast.com/linda/0x3255e221\n\n* Under the radar but appreciated @jdotfinn energy to spur intentional $degen tipping again 🎩  | https://warpcast.com/jdotfinn/0x0c8664df\n\n* Lastly, @bertwurst.eth graduated Intermediate Puppy School 😁 🎉",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x87148b43c916fed78ba5b22c6723ae27f74ac261"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x87148b43c916fed78ba5b22c6723ae27f74ac261",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x87148b43c916fed78ba5b22c6723ae27f74ac261",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Slight schedule change this week: GM Farcaster will not be on Monday but will be back Tuesday at 11:30 am ET. TOMORROW we will still have a CastOut episode to recap the confessionals round and announce winners, plus introduce the next challenge! See you at noon ET for CastOut ep6!\n\nJoin us on YouTube or Twitter and come hope in the chat!\n\nhttps://www.youtube.com/live/zWOj2nmAT9U?si=ArcQV6ZCBswao7u0",
+          "timestamp": "2025-05-19T01:33:46.000Z",
+          "embeds": [
+            {
+              "url": "https://www.youtube.com/live/zWOj2nmAT9U?si=ArcQV6ZCBswao7u0",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.youtube.com/watch?v=zWOj2nmAT9U",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/zWOj2nmAT9U?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"CastOut: Lil Island ep6\"></iframe>",
+                    "type": "video",
+                    "title": "CastOut: Lil Island ep6",
+                    "width": 200,
+                    "height": 113,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@GMFarcaster",
+                    "author_name": "GM Farcaster",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/zWOj2nmAT9U/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "ogDate": "2025-05-18T18:23:16-07:00",
+                  "ogType": "video.other",
+                  "favicon": "https://www.youtube.com/s/desktop/a21ec0bb/img/logos/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://i.ytimg.com/vi/zWOj2nmAT9U/hqdefault.jpg?v=682a8807",
+                      "type": "jpg",
+                      "width": "480",
+                      "height": "360"
+                    }
+                  ],
+                  "ogTitle": "CastOut: Lil Island ep6",
+                  "ogVideo": [
+                    {
+                      "url": "https://www.youtube.com/embed/zWOj2nmAT9U",
+                      "type": "text/html",
+                      "width": "640",
+                      "height": "360"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "YouTube",
+                  "ogDescription": "confessionals recap; next challenge revealed",
+                  "ogVideoSecureURL": "https://www.youtube.com/embed/zWOj2nmAT9U"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x8e1c9ebbb5fc61d3830a274c1ca752b54e69c01d"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x8e1c9ebbb5fc61d3830a274c1ca752b54e69c01d",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x8e1c9ebbb5fc61d3830a274c1ca752b54e69c01d",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Saturday AMA. \n\nAsk me anything about Farcaster and I'll try to respond by end of day!",
+          "timestamp": "2025-05-17T18:34:41.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x168804e0",
+    "url": "https://warpcast.com/dwr.eth/0x168804e0",
+    "author_username": "dwr.eth",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-05-16T16:00:29.000Z",
+    "text": "Celo is now supported in mini apps and wallet!\n\nStarting today, Farcaster users can send, receive and swap any asset on the Celo blockchain.\n\nThe Celo team will be offering an airdrop to a group of Farcaster users later today. You’ll get an in-app notification if you’re eligible.\n\nCheck the casts below for a Celo builder starter pack and information for developers.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/68b1b548-510d-448e-196e-67c64dcba400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 81013,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1999,
+            "height_px": 1180
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3ad3e46d",
+    "url": "https://warpcast.com/linda/0x3ad3e46d",
+    "author_username": "linda",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-05-16T17:01:22.000Z",
+    "text": "Excited to see new ecosystems coming into Farcaster\n\nHuge thanks to @pirosb3 @slokh @blockheim for building this Celo airdrop tool, @sophia and the wonderful @celo team, @ted on community work, the day 1 Celo mini app builders, and lots more!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x1d1300d9ccdf0988f29de64295aa1c1d6f7b9e13"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1d1300d9ccdf0988f29de64295aa1c1d6f7b9e13",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1d1300d9ccdf0988f29de64295aa1c1d6f7b9e13",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/celo",
+          "root_parent_url": "https://warpcast.com/~/channel/celo",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Launching from the airdrop to the thread of apps was a great flow @celo @linda \n\nI just minted Celopepen, an exclusive onchain Celo collectible only mintable via Farcaster mini app.",
+          "timestamp": "2025-05-16T16:53:08.000Z",
+          "embeds": [
+            {
+              "url": "https://www.harmonybot.xyz/farcaster-celo",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.harmonybot.xyz",
+                  "ogType": "website",
+                  "favicon": "/favicon.ico",
+                  "ogTitle": "Harmonybot",
+                  "ogLocale": "en_US",
+                  "ogSiteName": "Harmonybot",
+                  "ogDescription": "Digital art collectibles",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Mint Now",
+                      "action": {
+                        "url": "https://www.harmonybot.xyz//farcaster-celo",
+                        "name": "Harmonybot",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://www.harmonybot.xyz//images/loading.png",
+                        "splashBackgroundColor": "#000000"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://www.harmonybot.xyz//images/farcaster-celo-cover.png"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Mint Now",
+                  "image": "https://www.harmonybot.xyz//images/farcaster-celo-cover.png",
+                  "frames_url": "https://www.harmonybot.xyz/farcaster-celo",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 1725,
+                    "username": "sayangel",
+                    "display_name": "Angel",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/449ec2f2-7742-4f52-ed62-ed27fe863400/rectcrop3",
+                    "custody_address": "0xe90026c9fc8b5fee2401c371acd14e3a24aedb3c"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjE3MjUsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhFOTAwMjZDOUZDOEI1RmVlMjQwMUMzNzFBQ2QxNGUzYTI0QWVEQjNjIn0",
+                      "payload": "eyJkb21haW4iOiJ3d3cuaGFybW9ueWJvdC54eXoifQ",
+                      "signature": "MHhjZDdiZDM1MGE4Mjg1YzdhNGI4NmE4YzkzOGIwZjI4NDJlYmQ2NDkyYmFhMTM4YTFlZmE4NTY2NWNiOGVlNWVjNjI5ODRiYTQ5ZjRhZjEzNjg4ZWY3YzgxYjg1ZWMzZDY0YjM0MTI4MzhlODBjZmU3NjkwZThkMjE5MTQ5NWIxNjFi"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "Harmonybot",
+                      "home_url": "https://www.harmonybot.xyz",
+                      "icon_url": "https://www.harmonybot.xyz/images/logo.png",
+                      "image_url": "https://www.harmonybot.xyz/images/frame-image.png",
+                      "button_title": "What is Harmonybot?",
+                      "splash_image_url": "https://www.harmonybot.xyz/images/loading.png",
+                      "splash_background_color": "#000000",
+                      "webhook_url": "https://api.neynar.com/f/app/65b65d0b-a918-4e9b-9042-11781a7372c3/event",
+                      "primary_category": "art-creativity",
+                      "tags": [
+                        "art",
+                        "NFTs",
+                        "collectibles"
+                      ]
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "Harmonybot",
+                      "home_url": "https://www.harmonybot.xyz",
+                      "icon_url": "https://www.harmonybot.xyz/images/logo.png",
+                      "image_url": "https://www.harmonybot.xyz/images/frame-image.png",
+                      "button_title": "What is Harmonybot?",
+                      "splash_image_url": "https://www.harmonybot.xyz/images/loading.png",
+                      "splash_background_color": "#000000",
+                      "webhook_url": "https://api.neynar.com/f/app/65b65d0b-a918-4e9b-9042-11781a7372c3/event",
+                      "primary_category": "art-creativity",
+                      "tags": [
+                        "art",
+                        "NFTs",
+                        "collectibles"
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "celo",
+            "name": "celo",
+            "image_url": "https://i.imgur.com/spdix5e.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfc93bc72",
+    "url": "https://warpcast.com/jc4p/0xfc93bc72",
+    "author_username": "jc4p",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 977233,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+    "cast_date": "2025-05-16T17:02:18.000Z",
+    "text": "made a new quiz app for the @Celo launch: a personality quiz they made me take during a google internship a decade ago then they told me i got the wrong answer (blue) — find yours!\n\nhttps://color-test.kasra.codes",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ca99eb0a-d1b4-41d5-0459-c22ab6052400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 160140,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1024
+          }
+        }
+      },
+      {
+        "url": "https://color-test.kasra.codes",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "True Colors",
+                "url": "https://cover-art.kasra.codes/true_color_rectangle.png",
+                "type": "png",
+                "width": "600",
+                "height": "400"
+              }
+            ],
+            "ogTitle": "True Colors",
+            "ogLocale": "en",
+            "ogDescription": "Discover your True Colors personality type with True Colors.",
+            "fcFrame": {
+              "button": {
+                "title": "Discover Your Color!",
+                "action": {
+                  "url": "https://color-test.kasra.codes",
+                  "name": "true-color-test",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://cover-art.kasra.codes/true_color_icon.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://cover-art.kasra.codes/true_color_rectangle.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Discover Your Color!",
+            "image": "https://cover-art.kasra.codes/true_color_rectangle.png",
+            "frames_url": "https://color-test.kasra.codes/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 977233,
+              "username": "jc4p",
+              "display_name": "Kasra Rahjerdi",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+              "custody_address": "0xa67ba0281231eb9e2ea4cf97894c0b0b5b801cc6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjk3NzIzMywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGE2N0JhMDI4MTIzMWVCOUUyZWE0Y0Y5Nzg5NGMwYjBiNUI4MDFDYzYifQ",
+                "payload": "eyJkb21haW4iOiJjb2xvci10ZXN0Lmthc3JhLmNvZGVzIn0",
+                "signature": "MHg0OWE3ZDFiMDQxN2NlNmYzZmZhMmQ4Mzg3MTY3MTBiMGMzMDc5YTlmNWFkMGI1OWRkZDhhZjEyNjg3MzhhOTE4MWE1NTZjYzY1YmJjODRhMmE1OWQ1MWFkNjRjNjU2ZjM0YzczNDQ5YzQwZDRiMDNlNzIyNWRlMmE0MDBiNWFkNTFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "True Colors",
+                "home_url": "https://color-test.kasra.codes",
+                "icon_url": "https://cover-art.kasra.codes/true_color_icon.png",
+                "image_url": "https://cover-art.kasra.codes/true_color_rectangle.png",
+                "button_title": "Discover Your Color!",
+                "splash_image_url": "https://cover-art.kasra.codes/true_color_icon.png",
+                "splash_background_color": "#ffffff"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "True Colors",
+                "home_url": "https://color-test.kasra.codes",
+                "icon_url": "https://cover-art.kasra.codes/true_color_icon.png",
+                "image_url": "https://cover-art.kasra.codes/true_color_rectangle.png",
+                "button_title": "Discover Your Color!",
+                "splash_image_url": "https://cover-art.kasra.codes/true_color_icon.png",
+                "splash_background_color": "#ffffff"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x977d9f6a",
+    "url": "https://warpcast.com/linda/0x977d9f6a",
+    "author_username": "linda",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-05-16T23:06:25.000Z",
+    "text": "These were the first batch of ~10 airdrops to Farcaster users (~$110K so far). Early on as projects target potential new high quality users, they're factoring in how likely is this user to convert (not a retro airdrop)\n\nSometimes projects choose to exclude users if there have been *multiple* prior airdrop sales in the past (not if you just sold 1). Put yourself in their shoes if a user immediately sold multiple prior airdrops, they're prob less likely to convert and you can give to another user that is higher likelihood \n\nThat said, you won't be permabanned forever for selling multiple as this is building some data early on and there will be factors that can help outweigh (post high quality content, use mini apps, do onchain txns)\n\nTeam has been slammed but we'll have more infra support on airdrops later. On list is def to show more token info (that's why I manually post info for now since not built in)\n\nAs Farcaster grows and becomes more valuable to target, airdrop amounts will naturally be larger too",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe5fa563f",
+    "url": "https://warpcast.com/v/0xe5fa563f",
+    "author_username": "v",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-05-16T21:46:02.000Z",
+    "text": "airdrops are from apps trying to get users. \n\nif someone is consistently not using apps and selling airdrops, i suspect devs will not be excited about sending them tokens, unless there is a compelling reason to be convinced that you won't do it this time.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 243300,
+          "hash": "0x0e75f6d044107d2550357e6f5c17b7d10b78a37a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0e75f6d044107d2550357e6f5c17b7d10b78a37a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 243300,
+            "username": "yonfrula",
+            "display_name": "🌈 YON",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d733b69f-7ebb-4c2a-82d9-c3eef656a200/original",
+            "custody_address": "0x7b7579f2856e9e8a5ab37d4b21dee6027e582a02"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0e75f6d044107d2550357e6f5c17b7d10b78a37a",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "ok, maybe i wasn't clear enough.\ni don't sell any of the airdrops i've received from farcaster — they're all just sitting on my warplet and not going anywhere.\n\nbut i don't like having my miniapp library full of stuff i don't actually use, so once i claim an airdrop, i'll usually delete the app if it doesn't feel useful for me (why would i have a walletconnect miniapp, for example?).\nsame goes for following accounts — i don't like following people or products i'm not genuinely interested in.\n\nthat said, farcaster really encourages you to claim your airdrops — you even get a notification for it.\nso my question is: is it bad to complete the claim steps and then delete the apps or unfollow the accounts afterward?",
+          "timestamp": "2025-05-16T20:47:10.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 243300,
+                "hash": "0xd5f3db465c87e9804eb551753ac3c25b10fe4341"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xd5f3db465c87e9804eb551753ac3c25b10fe4341",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 243300
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0e75f6d0",
+    "url": "https://warpcast.com/yonfrula/0x0e75f6d0",
+    "author_username": "yonfrula",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 243300,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d733b69f-7ebb-4c2a-82d9-c3eef656a200/original",
+    "cast_date": "2025-05-16T20:47:10.000Z",
+    "text": "ok, maybe i wasn't clear enough.\ni don't sell any of the airdrops i've received from farcaster — they're all just sitting on my warplet and not going anywhere.\n\nbut i don't like having my miniapp library full of stuff i don't actually use, so once i claim an airdrop, i'll usually delete the app if it doesn't feel useful for me (why would i have a walletconnect miniapp, for example?).\nsame goes for following accounts — i don't like following people or products i'm not genuinely interested in.\n\nthat said, farcaster really encourages you to claim your airdrops — you even get a notification for it.\nso my question is: is it bad to complete the claim steps and then delete the apps or unfollow the accounts afterward?",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 243300,
+          "hash": "0xd5f3db465c87e9804eb551753ac3c25b10fe4341"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd5f3db465c87e9804eb551753ac3c25b10fe4341",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 243300,
+            "username": "yonfrula",
+            "display_name": "🌈 YON",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d733b69f-7ebb-4c2a-82d9-c3eef656a200/original",
+            "custody_address": "0x7b7579f2856e9e8a5ab37d4b21dee6027e582a02"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd5f3db465c87e9804eb551753ac3c25b10fe4341",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "all my homies delete the miniapps and unfollow the accounts right after claiming the airdrops.",
+          "timestamp": "2025-05-16T16:32:21.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe9a668b6",
+    "url": "https://warpcast.com/burrrrrberry/0xe9a668b6",
+    "author_username": "burrrrrberry",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 311933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c38a25a6-f3e3-471c-1d79-af3b60651500/original",
+    "cast_date": "2025-05-17T00:44:42.000Z",
+    "text": "If you want to be a good airdrop candidate:\n\n- don't immediately sell the airdrop.\n- if you don't like it or it's not worth, simply don't claim it and trigger and negative consequence when you sell it.\n- instead wait and see the market reaction and if this $7 is worth claiming.\n- interact with the protocols, use their product.\n- If you like their product the cast about it.\n- if you REALLY like it, cast open feedback and help the team that gave you free tokens.\n\nAll in all, this is an opt-in or opt-out system\n\nAs a users, optimize your behavior to be properly incentivized.\n\nOR\n\nSimply don't claim and no negative consequences will occur.\n\nBut please stop bitching to @linda about how unfair the negative consequences are if you're just using these airdrops and providing zero value to the project.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 12,
+          "hash": "0x977d9f6ace86823d50c6a46204bd50f0e12c307f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x977d9f6ace86823d50c6a46204bd50f0e12c307f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12,
+            "username": "linda",
+            "display_name": "Linda Xie",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+            "custody_address": "0xb43575d58c49d2be880e0f821ddf51d15c13c376"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x977d9f6ace86823d50c6a46204bd50f0e12c307f",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "These were the first batch of ~10 airdrops to Farcaster users (~$110K so far). Early on as projects target potential new high quality users, they're factoring in how likely is this user to convert (not a retro airdrop)\n\nSometimes projects choose to exclude users if there have been *multiple* prior airdrop sales in the past (not if you just sold 1). Put yourself in their shoes if a user immediately sold multiple prior airdrops, they're prob less likely to convert and you can give to another user that is higher likelihood \n\nThat said, you won't be permabanned forever for selling multiple as this is building some data early on and there will be factors that can help outweigh (post high quality content, use mini apps, do onchain txns)\n\nTeam has been slammed but we'll have more infra support on airdrops later. On list is def to show more token info (that's why I manually post info for now since not built in)\n\nAs Farcaster grows and becomes more valuable to target, airdrop amounts will naturally be larger too",
+          "timestamp": "2025-05-16T23:06:25.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x171954de",
+    "url": "https://warpcast.com/v/0x171954de",
+    "author_username": "v",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-05-16T19:22:21.000Z",
+    "text": "Here's a quick primer on how Warpcast Creator Rewards work. \n\nWill be adding this into the Rewards mini-app and keeping it updated as the algorithm changes.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3d48baef-904f-4bb0-e19d-503f04363900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 505366,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1472,
+            "height_px": 970
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x98619994",
+    "url": "https://warpcast.com/v/0x98619994",
+    "author_username": "v",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-05-16T04:50:57.000Z",
+    "text": "Would you pay for a \"pro\" storage unit that gave you: \n\n- longer casts (10k chars)  \n- upto 4 images or embeds per cast\n- profile upgrades (link other socials, banner image etc) \n\nFor creators, this would help level up their content and profiles. \n\nAssume it costs around $10/mo and revenue goes to weekly rewards.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc1b383eb",
+    "url": "https://warpcast.com/v/0xc1b383eb",
+    "author_username": "v",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-05-17T17:10:43.000Z",
+    "text": "May 16th Dev Update Video! \n\nYou've heard of the walk and talk, but have you seen the sit and speak? Here's our agenda: \n\n- Solana\n- Farcaster Rebrand\n- Verifications \n- Snapchain Incident\n\nIf you have any questions, I'll respond in chat.",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/0196df38-8a94-3a68-e888-07c2251d9ecc.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 302.397425
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x79a71575",
+    "url": "https://warpcast.com/ted/0x79a71575",
+    "author_username": "ted",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-05-19T18:26:20.000Z",
+    "text": "one of my only requests to farcaster as more users join and reactive:\n\nbuilding from zero on any platform is hard, and can feel extra hard when it seems there's already a strong in-group (as it seems here).\n\nif someone (re)joins and says it is hard to grow here or that engagement is tough, i encourage you find truth in it before getting defensive or snarky. the latter isn't going to keep anyone around, but the former might.\n\ni would love to see farcaster lean in and embrace new and reactivated users by:\n\n1. replying to new users as much as you expect them to reply to you\n\n2. sharing what's worked for you or others if you see someone share their struggles (and acknowledging it does take time and effort)\n\n3. make someone feel heard, not unwelcome or inadequate\n\nif we want farcaster to grow, let’s be the reason someone sticks around and not the reason they leave.\n\nshout out to @keccers.eth, @matthewb, @bradq, @afrochicks, @garrett (+ many more!) who are really good at engaging with all users!!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcccf5231",
+    "url": "https://warpcast.com/bertwurst.eth/0xcccf5231",
+    "author_username": "bertwurst.eth",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 864405,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0c58c61-1cdb-4eb3-0fe7-7a8905680300/original",
+    "cast_date": "2025-05-17T00:33:12.000Z",
+    "text": "FTFY\n\ncoming soon",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4fc12c30-d0fb-453b-aa9f-1ab09b588400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 45570,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 304,
+            "height_px": 304
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x4cc445b87795f6563c2bb8939b5cbf362bc0e8bc"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4cc445b87795f6563c2bb8939b5cbf362bc0e8bc",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4cc445b87795f6563c2bb8939b5cbf362bc0e8bc",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "coming soon",
+          "timestamp": "2025-05-16T23:55:07.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/710702c9-f2b3-4944-ecd8-8bbecb677900/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 6744,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 304,
+                  "height_px": 304
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa181571f",
+    "url": "https://warpcast.com/bertwurst.eth/0xa181571f",
+    "author_username": "bertwurst.eth",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 864405,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0c58c61-1cdb-4eb3-0fe7-7a8905680300/original",
+    "cast_date": "2025-05-17T17:01:51.000Z",
+    "text": "I did it!!! Graduated from my Intermediate class!\n\nMy teacher said I’ve come a long way since we started and that everything’s really starting to click for me. They also told the Assistants I’m a pleasure to have in class. \n\nNext up: Tricks class! Time to learn how to show off a little before I’m old enough to move on to Advanced.\n\nThanks for all the encouragement along the way!!!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c18924e-65a8-4bd4-392a-f067ae75e200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 169338,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 1721
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb004918a",
+    "url": "https://warpcast.com/moe/0xb004918a",
+    "author_username": "moe",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 2073,
+    "author_pfp": "https://lh3.googleusercontent.com/_W6fcc9jG4Hl24fbG5UFFC7yQ4j-V0PYUBp4xg23tM8uKZ20pf94o9L8U3B50McLRyx2YlyhVQ_7NSbqIfKgcyPDgL3-DijmnPwbkg",
+    "cast_date": "2025-05-17T15:33:45.000Z",
+    "text": "✨ starter pack feeds ✨\n\nnew mini app to view feeds from any starter pack.\n\nhere's a feed from the independent journalists starter pack by @ted\n\nhttps://starterpack-feeds.val.run/independent-journalists-glnse9\n\nor check out the home page to see a list of curated starter packs. want a custom feed of a set of users? create a starter pack in warpcast and view it here.\n\nhttps://starterpack-feeds.val.run/",
+    "embeds": [
+      {
+        "url": "https://starterpack-feeds.val.run/independent-journalists-glnse9",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 579,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "https://starterpack-feeds.val.run/icon",
+            "ogImage": [
+              {
+                "url": "https://starterpack-feeds.val.run/image"
+              }
+            ],
+            "ogTitle": "Starter Packs",
+            "fcFrame": {
+              "button": {
+                "title": "Starter Packs",
+                "action": {
+                  "url": "https://starterpack-feeds.val.run/independent-journalists-glnse9",
+                  "name": "Starter Packs",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://starterpack-feeds.val.run/icon",
+                  "splashBackgroundColor": "#111111"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://starterpack-feeds.val.run/image?packId=independent-journalists-glnse9"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Starter Packs",
+            "image": "https://starterpack-feeds.val.run/image?packId=independent-journalists-glnse9",
+            "frames_url": "https://starterpack-feeds.val.run/independent-journalists-glnse9",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 2073,
+              "username": "moe",
+              "display_name": "MOΞ",
+              "pfp_url": "https://lh3.googleusercontent.com/_W6fcc9jG4Hl24fbG5UFFC7yQ4j-V0PYUBp4xg23tM8uKZ20pf94o9L8U3B50McLRyx2YlyhVQ_7NSbqIfKgcyPDgL3-DijmnPwbkg",
+              "custody_address": "0x48db7e71d115265916961673b968670a547b0fbe"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjIwNzMsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg0OERCN2U3MWQxMTUyNjU5MTY5NjE2NzNCOTY4NjcwQTU0N2IwZkJFIn0",
+                "payload": "eyJkb21haW4iOiJzdGFydGVycGFjay1mZWVkcy52YWwucnVuIn0",
+                "signature": "MHgwNDYyNDI1ODQyNTE0OTAxODM5MmRmMDZhOTc5ODA3NmUxOGVjZDIzZTlkY2Y5NDIzYzkxODQwNDk2MzAwMDcwNzgyMmNkOTc3ZDg0ZmY4YzE2Y2I5NTYwOWFlNmI0Y2RkOTViZDEyNWUzNjEwNWY3NzExNmJiNTQ3YzRjYzQ2MjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Starter Packs",
+                "home_url": "https://starterpack-feeds.val.run",
+                "icon_url": "https://starterpack-feeds.val.run/icon",
+                "splash_image_url": "https://starterpack-feeds.val.run/icon",
+                "splash_background_color": "#111111",
+                "webhook_url": "https://starterpack-feeds.val.run/webhook",
+                "primary_category": "social"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Starter Packs",
+                "home_url": "https://starterpack-feeds.val.run",
+                "icon_url": "https://starterpack-feeds.val.run/icon",
+                "splash_image_url": "https://starterpack-feeds.val.run/icon",
+                "splash_background_color": "#111111",
+                "webhook_url": "https://starterpack-feeds.val.run/webhook",
+                "primary_category": "social"
+              }
+            }
+          }
+        }
+      },
+      {
+        "url": "https://starterpack-feeds.val.run/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 339,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "https://starterpack-feeds.val.run/icon",
+            "ogImage": [
+              {
+                "url": "https://starterpack-feeds.val.run/image"
+              }
+            ],
+            "ogTitle": "Starter Packs",
+            "fcFrame": {
+              "button": {
+                "title": "Starter Packs",
+                "action": {
+                  "url": "https://starterpack-feeds.val.run/",
+                  "name": "Starter Packs",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://starterpack-feeds.val.run/icon",
+                  "splashBackgroundColor": "#111111"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://starterpack-feeds.val.run/image"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Starter Packs",
+            "image": "https://starterpack-feeds.val.run/image",
+            "frames_url": "https://starterpack-feeds.val.run/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 2073,
+              "username": "moe",
+              "display_name": "MOΞ",
+              "pfp_url": "https://lh3.googleusercontent.com/_W6fcc9jG4Hl24fbG5UFFC7yQ4j-V0PYUBp4xg23tM8uKZ20pf94o9L8U3B50McLRyx2YlyhVQ_7NSbqIfKgcyPDgL3-DijmnPwbkg",
+              "custody_address": "0x48db7e71d115265916961673b968670a547b0fbe"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjIwNzMsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg0OERCN2U3MWQxMTUyNjU5MTY5NjE2NzNCOTY4NjcwQTU0N2IwZkJFIn0",
+                "payload": "eyJkb21haW4iOiJzdGFydGVycGFjay1mZWVkcy52YWwucnVuIn0",
+                "signature": "MHgwNDYyNDI1ODQyNTE0OTAxODM5MmRmMDZhOTc5ODA3NmUxOGVjZDIzZTlkY2Y5NDIzYzkxODQwNDk2MzAwMDcwNzgyMmNkOTc3ZDg0ZmY4YzE2Y2I5NTYwOWFlNmI0Y2RkOTViZDEyNWUzNjEwNWY3NzExNmJiNTQ3YzRjYzQ2MjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Starter Packs",
+                "home_url": "https://starterpack-feeds.val.run",
+                "icon_url": "https://starterpack-feeds.val.run/icon",
+                "splash_image_url": "https://starterpack-feeds.val.run/icon",
+                "splash_background_color": "#111111",
+                "webhook_url": "https://starterpack-feeds.val.run/webhook",
+                "primary_category": "social"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Starter Packs",
+                "home_url": "https://starterpack-feeds.val.run",
+                "icon_url": "https://starterpack-feeds.val.run/icon",
+                "splash_image_url": "https://starterpack-feeds.val.run/icon",
+                "splash_background_color": "#111111",
+                "webhook_url": "https://starterpack-feeds.val.run/webhook",
+                "primary_category": "social"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x49faaa8e",
+    "url": "https://warpcast.com/rskagy.eth/0x49faaa8e",
+    "author_username": "rskagy.eth",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 410846,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/800bc399-4346-4c87-73a7-0448cc193100/original",
+    "cast_date": "2025-05-18T09:14:55.000Z",
+    "text": "Every Creator on @base.base.eth is invited to Global Pizza Party 2025! @thecreators is partnering with @pizzadao & @ownthedoge to invite all artists, musicians, and creators in the Based Creator Directory to the 🍕 BITCOIN PIZZA DAY CREATOR PARTY! 🍕\n\nWe're cooking up chaos for the most legendary food order in crypto history! Create a meme, music track, or piece of art celebrating Bitcoin Pizza Day (May 22)\n\n🏆 Winners get featured by @pizzadao\n📅 Deadline: May 21\n📍 Follow @thecreators, @pizzadao, & @ownthedoge. Drop entries in the comments below, tag 3 friends, and recast.\n\nPRIZES:\n1. Pizza Box from Snax's Collection (https://opensea.io/snax?collectionSlugs=rare-pizzas-box) + $50 Pizza Faucet (https://pizzafaucet.xyz/) \n2. Random Doge Pixel + $25 Pizza Faucet (https://pizzafaucet.xyz/)\n3. Global Pizza Party T-Shirt + $25 Pizza Faucet (https://pizzafaucet.xyz/)\n4. Pizza Sticks NFT + $25 Pizza Faucet (https://pizzafaucet.xyz/)\n5. $25 Pizza Faucet (https://pizzafaucet.xyz/)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85ff4a47-62b7-45bc-c71d-ba1589bfe300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 519463,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1304
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x706cb909",
+    "url": "https://warpcast.com/luciano/0x706cb909",
+    "author_username": "luciano",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 838,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1377e2f8-febf-4f11-1877-2ae62a9f8800/original",
+    "cast_date": "2025-05-16T20:31:40.000Z",
+    "text": "Farcon 2026 has officially been decided by the farcaster community and the results were shockingly close!\n\nSee you all at FarCon Rome next year😏\n\nHere’s to the /urbe-eth crew accepting this large responsibility\n@limone.eth @0xcaso @itsmide.eth 🇮🇹\n\nAnd here’s to FarCon Tokyo 2027! @yuki 🇯🇵",
+    "embeds": [
+      {
+        "url": "https://www.weponder.io/predictions/31711/results",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://www.weponder.io/api/og/predictions/31711/results"
+              }
+            ],
+            "ogTitle": "Where should FarCon 2026 be hosted? — Ponder",
+            "ogLocale": "en",
+            "ogDescription": "Daily social prediction games on Base",
+            "fcFrame": {
+              "button": {
+                "title": "📊 View Results",
+                "action": {
+                  "url": "https://www.weponder.io/apps/social-predictions/predictions/31711",
+                  "name": "Ponder",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://www.weponder.io/logo.gif",
+                  "splashBackgroundColor": "#0A131F"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://www.weponder.io/api/og/predictions/31711/results"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "📊 View Results",
+            "image": "https://www.weponder.io/api/og/predictions/31711/results",
+            "frames_url": "https://www.weponder.io/predictions/31711/results",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 18581,
+              "username": "ponder",
+              "display_name": "Ponder",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cabe6808-f469-42b9-6941-511d8abd3000/rectcrop3",
+              "custody_address": "0xb78d4c7716fa63d4e6e2259315258afcd57d1a87"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjE4NTgxLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4Qjc4ZDRDNzcxNmZhNjNENEU2ZTIyNTkzMTUyNThhRkNENTdkMWE4NyJ9",
+                "payload": "eyJkb21haW4iOiJ3d3cud2Vwb25kZXIuaW8ifQ",
+                "signature": "MHg4ZGFjOTJhNTQ5ZWQ0OWVmZDNhMzg4NjFjMGIwZWUxNzE1OGY0NGM3NWNhMTQwZDAzYWJkNjMxYTcyYWMwN2QwMzY3NzRjYWU2MDU0MmZhYjZmYWMxMTg2NjVmZTlmZDcxZDcxOTQyYTU5MmM5ZGQwNTAwZGZlNTE3Mzg1MTU1NDFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Ponder",
+                "home_url": "https://www.weponder.io/apps/social-predictions/predictions",
+                "icon_url": "https://www.weponder.io/img/logo-sm-bg.jpg",
+                "image_url": "https://www.weponder.io/img/og/home.jpg",
+                "splash_image_url": "https://www.weponder.io/logo.gif",
+                "splash_background_color": "#0A131F",
+                "webhook_url": "https://api.neynar.com/f/app/e856ad40-4a9e-4c26-b253-dd754e1e3157/event",
+                "subtitle": "Predict what the crowd thinks",
+                "description": "Ponder is a daily game of social intuition. Join your friends to:\n- Predict what the majority thinks\n- Place your entry\n- Win real rewards for reading the crowd",
+                "screenshot_urls": [
+                  "https://www.weponder.io/screenshots/screen-1.jpg",
+                  "https://www.weponder.io/screenshots/screen-2.jpg",
+                  "https://www.weponder.io/screenshots/screen-3.jpg"
+                ],
+                "primary_category": "games",
+                "tags": [
+                  "poll",
+                  "predict",
+                  "earn",
+                  "win",
+                  "poly"
+                ],
+                "hero_image_url": "https://www.weponder.io/img/og/hero-image.jpg",
+                "tagline": "Predict what the crowd thinks",
+                "og_title": "Ponder - Predict The Crowd",
+                "og_description": "Join daily polls. Predict what people think. Win real rewards.",
+                "og_image_url": "https://www.weponder.io/img/og/home.jpg"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Ponder",
+                "home_url": "https://www.weponder.io/apps/social-predictions/predictions",
+                "icon_url": "https://www.weponder.io/img/logo-sm-bg.jpg",
+                "image_url": "https://www.weponder.io/img/og/home.jpg",
+                "splash_image_url": "https://www.weponder.io/logo.gif",
+                "splash_background_color": "#0A131F",
+                "webhook_url": "https://api.neynar.com/f/app/e856ad40-4a9e-4c26-b253-dd754e1e3157/event",
+                "subtitle": "Predict what the crowd thinks",
+                "description": "Ponder is a daily game of social intuition. Join your friends to:\n- Predict what the majority thinks\n- Place your entry\n- Win real rewards for reading the crowd",
+                "screenshot_urls": [
+                  "https://www.weponder.io/screenshots/screen-1.jpg",
+                  "https://www.weponder.io/screenshots/screen-2.jpg",
+                  "https://www.weponder.io/screenshots/screen-3.jpg"
+                ],
+                "primary_category": "games",
+                "tags": [
+                  "poll",
+                  "predict",
+                  "earn",
+                  "win",
+                  "poly"
+                ],
+                "hero_image_url": "https://www.weponder.io/img/og/hero-image.jpg",
+                "tagline": "Predict what the crowd thinks",
+                "og_title": "Ponder - Predict The Crowd",
+                "og_description": "Join daily polls. Predict what people think. Win real rewards.",
+                "og_image_url": "https://www.weponder.io/img/og/home.jpg"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc9eeae65",
+    "url": "https://warpcast.com/limone.eth/0xc9eeae65",
+    "author_username": "limone.eth",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 4461,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05f5a8aa-48ee-48af-d618-c420091f3200/original",
+    "cast_date": "2025-05-16T20:40:22.000Z",
+    "text": "me and the @urbe-eth crew are all in, no hesitation\n\nwe’re thrilled to bring Farcon to our city, and grateful to everyone who voted for rome 🇮🇹\n\nfor the past 3 years, we’ve been bootstrapping the italian builders ecosystem from the ground up, and Farcon will only take that to the next level\n\nmore soon 🫡",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8678aede-0277-4246-9af9-60c9825ca000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 153096,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1024
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 838,
+          "hash": "0x706cb9097dad93d6b1a07dd5c0204b6c9abcd2f4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x706cb9097dad93d6b1a07dd5c0204b6c9abcd2f4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 838,
+            "username": "luciano",
+            "display_name": "Luciano",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1377e2f8-febf-4f11-1877-2ae62a9f8800/original",
+            "custody_address": "0x032bc5b455d99fb8e0c8270296a3b7116f099554"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x706cb9097dad93d6b1a07dd5c0204b6c9abcd2f4",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "root_parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Farcon 2026 has officially been decided by the farcaster community and the results were shockingly close!\n\nSee you all at FarCon Rome next year😏\n\nHere’s to the /urbe-eth crew accepting this large responsibility\n@limone.eth @0xcaso @itsmide.eth 🇮🇹\n\nAnd here’s to FarCon Tokyo 2027! @yuki 🇯🇵",
+          "timestamp": "2025-05-16T20:31:40.000Z",
+          "embeds": [
+            {
+              "url": "https://www.weponder.io/predictions/31711/results",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://www.weponder.io/api/og/predictions/31711/results"
+                    }
+                  ],
+                  "ogTitle": "Where should FarCon 2026 be hosted? — Ponder",
+                  "ogLocale": "en",
+                  "ogDescription": "Daily social prediction games on Base",
+                  "fcFrame": {
+                    "button": {
+                      "title": "📊 View Results",
+                      "action": {
+                        "url": "https://www.weponder.io/apps/social-predictions/predictions/31711",
+                        "name": "Ponder",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://www.weponder.io/logo.gif",
+                        "splashBackgroundColor": "#0A131F"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://www.weponder.io/api/og/predictions/31711/results"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "📊 View Results",
+                  "image": "https://www.weponder.io/api/og/predictions/31711/results",
+                  "frames_url": "https://www.weponder.io/predictions/31711/results",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 18581,
+                    "username": "ponder",
+                    "display_name": "Ponder",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cabe6808-f469-42b9-6941-511d8abd3000/rectcrop3",
+                    "custody_address": "0xb78d4c7716fa63d4e6e2259315258afcd57d1a87"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjE4NTgxLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4Qjc4ZDRDNzcxNmZhNjNENEU2ZTIyNTkzMTUyNThhRkNENTdkMWE4NyJ9",
+                      "payload": "eyJkb21haW4iOiJ3d3cud2Vwb25kZXIuaW8ifQ",
+                      "signature": "MHg4ZGFjOTJhNTQ5ZWQ0OWVmZDNhMzg4NjFjMGIwZWUxNzE1OGY0NGM3NWNhMTQwZDAzYWJkNjMxYTcyYWMwN2QwMzY3NzRjYWU2MDU0MmZhYjZmYWMxMTg2NjVmZTlmZDcxZDcxOTQyYTU5MmM5ZGQwNTAwZGZlNTE3Mzg1MTU1NDFi"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "Ponder",
+                      "home_url": "https://www.weponder.io/apps/social-predictions/predictions",
+                      "icon_url": "https://www.weponder.io/img/logo-sm-bg.jpg",
+                      "image_url": "https://www.weponder.io/img/og/home.jpg",
+                      "splash_image_url": "https://www.weponder.io/logo.gif",
+                      "splash_background_color": "#0A131F",
+                      "webhook_url": "https://api.neynar.com/f/app/e856ad40-4a9e-4c26-b253-dd754e1e3157/event",
+                      "subtitle": "Predict what the crowd thinks",
+                      "description": "Ponder is a daily game of social intuition. Join your friends to:\n- Predict what the majority thinks\n- Place your entry\n- Win real rewards for reading the crowd",
+                      "screenshot_urls": [
+                        "https://www.weponder.io/screenshots/screen-1.jpg",
+                        "https://www.weponder.io/screenshots/screen-2.jpg",
+                        "https://www.weponder.io/screenshots/screen-3.jpg"
+                      ],
+                      "primary_category": "games",
+                      "tags": [
+                        "poll",
+                        "predict",
+                        "earn",
+                        "win",
+                        "poly"
+                      ],
+                      "hero_image_url": "https://www.weponder.io/img/og/hero-image.jpg",
+                      "tagline": "Predict what the crowd thinks",
+                      "og_title": "Ponder - Predict The Crowd",
+                      "og_description": "Join daily polls. Predict what people think. Win real rewards.",
+                      "og_image_url": "https://www.weponder.io/img/og/home.jpg"
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "Ponder",
+                      "home_url": "https://www.weponder.io/apps/social-predictions/predictions",
+                      "icon_url": "https://www.weponder.io/img/logo-sm-bg.jpg",
+                      "image_url": "https://www.weponder.io/img/og/home.jpg",
+                      "splash_image_url": "https://www.weponder.io/logo.gif",
+                      "splash_background_color": "#0A131F",
+                      "webhook_url": "https://api.neynar.com/f/app/e856ad40-4a9e-4c26-b253-dd754e1e3157/event",
+                      "subtitle": "Predict what the crowd thinks",
+                      "description": "Ponder is a daily game of social intuition. Join your friends to:\n- Predict what the majority thinks\n- Place your entry\n- Win real rewards for reading the crowd",
+                      "screenshot_urls": [
+                        "https://www.weponder.io/screenshots/screen-1.jpg",
+                        "https://www.weponder.io/screenshots/screen-2.jpg",
+                        "https://www.weponder.io/screenshots/screen-3.jpg"
+                      ],
+                      "primary_category": "games",
+                      "tags": [
+                        "poll",
+                        "predict",
+                        "earn",
+                        "win",
+                        "poly"
+                      ],
+                      "hero_image_url": "https://www.weponder.io/img/og/hero-image.jpg",
+                      "tagline": "Predict what the crowd thinks",
+                      "og_title": "Ponder - Predict The Crowd",
+                      "og_description": "Join daily polls. Predict what people think. Win real rewards.",
+                      "og_image_url": "https://www.weponder.io/img/og/home.jpg"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcon",
+            "name": "FarCon",
+            "image_url": "https://i.imgur.com/mtH8eq1.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x67b5e9fb",
+    "url": "https://warpcast.com/m00npapi.eth/0x67b5e9fb",
+    "author_username": "m00npapi.eth",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 9933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/73624966-027e-43f7-82f9-d7ce481dda00/rectcrop3",
+    "cast_date": "2025-05-16T23:46:28.000Z",
+    "text": "pulling up to farcon like this \n\n(QC w your Farcaster Rome fit)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7f113163-3236-43ca-3bdc-745dbbbe2000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 54352,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 925,
+            "height_px": 1078
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3621,
+          "hash": "0x0a8f6d75fa1b424142c5d076ff8dc968f041fc39"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0a8f6d75fa1b424142c5d076ff8dc968f041fc39",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3621,
+            "username": "horsefacts.eth",
+            "display_name": "horsefacts",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+            "custody_address": "0x2cd85a093261f59270804a6ea697cea4cebecafe"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0a8f6d75fa1b424142c5d076ff8dc968f041fc39",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "me and the boys pulling up to Farcon",
+          "timestamp": "2025-05-16T23:39:19.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d524f254-cd68-425d-12ab-8ef1f21cc300/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 514719,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1024,
+                  "height_px": 683
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 4461,
+                "hash": "0xc9eeae6583c70509c1177c75a34357a843e9e24a"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xc9eeae6583c70509c1177c75a34357a843e9e24a",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 4461
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbf3f2b60",
+    "url": "https://warpcast.com/sardius/0xbf3f2b60",
+    "author_username": "sardius",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 238814,
+    "author_pfp": "https://i.imgur.com/Sr5zuLW.jpg",
+    "cast_date": "2025-05-16T23:51:55.000Z",
+    "text": "pulling up to farcon like this\n\nqc w your farcaster Rome fit",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a533e130-b547-4123-19f0-6d76d9dc8500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 38475,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 600,
+            "height_px": 338
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 9933,
+          "hash": "0x67b5e9fb35274bad97f3904edd67a313f507fb85"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x67b5e9fb35274bad97f3904edd67a313f507fb85",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 9933,
+            "username": "m00npapi.eth",
+            "display_name": "m00npapi.eth",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/73624966-027e-43f7-82f9-d7ce481dda00/rectcrop3",
+            "custody_address": "0x820ae05036e269becbd3b01aa7e30bbc9f75026d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x67b5e9fb35274bad97f3904edd67a313f507fb85",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "pulling up to farcon like this \n\n(QC w your Farcaster Rome fit)",
+          "timestamp": "2025-05-16T23:46:28.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7f113163-3236-43ca-3bdc-745dbbbe2000/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 54352,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 925,
+                  "height_px": 1078
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 3621,
+                "hash": "0x0a8f6d75fa1b424142c5d076ff8dc968f041fc39"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x0a8f6d75fa1b424142c5d076ff8dc968f041fc39",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3621
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa0eac28b",
+    "url": "https://warpcast.com/horsefacts.eth/0xa0eac28b",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2025-05-17T01:47:07.000Z",
+    "text": "pulling up to farcon like this\n\nqc w your farcaster Rome fit",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f690116a-427f-47ff-3683-56324d0a8f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 311551,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 774,
+            "height_px": 516
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 238814,
+          "hash": "0xbf3f2b60979f49e659d2ebf61c7649c829962e2e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbf3f2b60979f49e659d2ebf61c7649c829962e2e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 238814,
+            "username": "sardius",
+            "display_name": "sardius.eth",
+            "pfp_url": "https://i.imgur.com/Sr5zuLW.jpg",
+            "custody_address": "0x3e084c3081fe20a341aa8438335a4226090d5e2e"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xbf3f2b60979f49e659d2ebf61c7649c829962e2e",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "pulling up to farcon like this\n\nqc w your farcaster Rome fit",
+          "timestamp": "2025-05-16T23:51:55.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a533e130-b547-4123-19f0-6d76d9dc8500/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 38475,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 600,
+                  "height_px": 338
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 9933,
+                "hash": "0x67b5e9fb35274bad97f3904edd67a313f507fb85"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x67b5e9fb35274bad97f3904edd67a313f507fb85",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 9933
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x18d8d858",
+    "url": "https://warpcast.com/llamafacts.eth/0x18d8d858",
+    "author_username": "llamafacts.eth",
+    "show_date": "2025-05-21",
+    "show_title": "GM Farcaster ep247 and CastOut ep7 Tuesday May 20, 2025",
+    "source_episode_id": "MmDpygSXzHA",
+    "author_fid": 222896,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f3bc6d1e-cad4-49de-b310-809d9e988a00/original",
+    "cast_date": "2025-05-19T13:16:31.000Z",
+    "text": "@horsefacts.eth @llamafacts.eth they finally met IRL! 🫡",
+    "embeds": [
+      {
+        "url": "https://pamadd.mypinata.cloud/ipfs/bafybeifaerwmyefsvg5g6lebflzyrjapn5kawtpb6e4n72hyicq6etj5iy",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 754662,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 518,
+            "height_px": 690
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

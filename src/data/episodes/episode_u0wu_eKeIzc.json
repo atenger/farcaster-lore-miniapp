@@ -1,0 +1,219 @@
+[
+  {
+    "cast_hash": "0xcba3435d",
+    "url": "https://warpcast.com/farcon/0xcba3435d",
+    "author_username": "farcon",
+    "show_date": "2024-04-23",
+    "show_title": "GM Farcaster ep94, April 23, 2024",
+    "source_episode_id": "u0wu_eKeIzc",
+    "author_fid": 10315,
+    "author_pfp": "https://i.imgur.com/qebiccO.jpg",
+    "cast_date": "2023-03-06T22:49:36.000Z",
+    "text": "you asked for it, you got it\n\nannouncing FarCon, the unauthorized farcaster conference\n\ntldr: ~100 of us together for a weekend in Boston this summer\n\ndeets below\n https://i.imgur.com/slzKOmz.gif",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaa66dc31",
+    "url": "https://warpcast.com/grin/0xaa66dc31",
+    "author_username": "grin",
+    "show_date": "2024-04-23",
+    "show_title": "GM Farcaster ep94, April 23, 2024",
+    "source_episode_id": "u0wu_eKeIzc",
+    "author_fid": 1970,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e8d65d0e-42de-4237-1159-128e81c94900/original",
+    "cast_date": "2024-04-22T19:55:51.000Z",
+    "text": "to be clear - i sent every FarCon ticketholder a NEW nft for the EXISTING gc that everyone's been joining\n\nwe needed this cuz gcs can only be gated with a single token and farcon has 3 diff tokens for 3 diff ticket types\n\nif you still cant join the gc, unhide this new nft on OS\n\nsorry, this is what its like to be early",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1970,
+          "hash": "0x5bf8cc95b722f40e4d31a5830f86d6197808d4e2"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5bf8cc95b722f40e4d31a5830f86d6197808d4e2",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1970,
+            "username": "grin",
+            "display_name": ":grin:",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e8d65d0e-42de-4237-1159-128e81c94900/original",
+            "custody_address": "0xa0114ba7fe57ad00afb47e3bc1cc0b122d28df89"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5bf8cc95b722f40e4d31a5830f86d6197808d4e2",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "root_parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "everyone can now join the existing Farcon GC\n\nI made a single collection for all Farcon ticketholders to token-gate against\n\nif it doesnt work, go to https://opensea.io/account/private and unhide the \"FarCon '24 Ticketholder\" NFT, then try again\n\nhttps://warpcast.com/~/group/-DAxP8B7oNS8BLywjzg4fQ",
+          "timestamp": "2024-04-22T17:58:39.000Z",
+          "embeds": [
+            {
+              "url": "https://opensea.io/account/private",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://opensea.io/login?referrer=%2Faccount%2Fprivatereferrer=%2Faccount%2Fprivate",
+                  "ogType": "website",
+                  "favicon": "/static/images/favicon/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://static.opensea.io/og-images/Metadata-Image.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Login | OpenSea",
+                  "ogLocale": "en_US",
+                  "ogSiteName": "OpenSea",
+                  "ogDescription": "OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles. Browse, create, buy, sell, and auction NFTs using OpenSea today."
+                }
+              }
+            },
+            {
+              "url": "https://warpcast.com/~/group/-DAxP8B7oNS8BLywjzg4fQ",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://warpcast.com/~/group/-DAxP8B7oNS8BLywjzg4fQ",
+                  "ogType": "website",
+                  "favicon": "/favicon.png",
+                  "ogImage": [
+                    {
+                      "url": "https://client.warpcast.com/v2/og-image?groupInviteCode=-DAxP8B7oNS8BLywjzg4fQ",
+                      "width": "512",
+                      "height": "512"
+                    }
+                  ],
+                  "ogTitle": "FarCon ‘24",
+                  "ogLocale": "en",
+                  "ogSiteName": "Warpcast",
+                  "ogDescription": "An invitation to join the chat"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcon",
+            "name": "FarCon",
+            "image_url": "https://i.imgur.com/mtH8eq1.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9f5dd958",
+    "url": "https://warpcast.com/adrienne/0x9f5dd958",
+    "author_username": "adrienne",
+    "show_date": "2024-04-23",
+    "show_title": "GM Farcaster ep94, April 23, 2024",
+    "source_episode_id": "u0wu_eKeIzc",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-04-23T00:21:38.000Z",
+    "text": "I'm working on my lightning talk for FarCon and crowdsourcing some material.  \n\nIf you are building a:\n\n- Farcaster client\n- Farcaster themed podcast or newsletter\n- Farcaster token\n- Farcaster tool \n\nCan you reply or DM with the name of what you're building, an image/logo, and the category? 🙏",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdc65490e",
+    "url": "https://warpcast.com/nounishprof/0xdc65490e",
+    "author_username": "nounishprof",
+    "show_date": "2024-04-23",
+    "show_title": "GM Farcaster ep94, April 23, 2024",
+    "source_episode_id": "u0wu_eKeIzc",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-04-23T03:24:55.000Z",
+    "text": "Planning a lil /gmfarcaster happy hour meetup at FarCon for our @hypersub wowow and mole subscribers. RSVP frame will be dropped in the next cast in just a bit.\n\nCan't wait to see you all!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/73183f8f-f155-4c08-fec5-e1ba8f25c100/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 2448755,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-04-23",
+    "show_title": "GM Farcaster ep94, April 23, 2024",
+    "source_episode_id": "u0wu_eKeIzc",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

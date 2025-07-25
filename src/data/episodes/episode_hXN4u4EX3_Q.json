@@ -1,0 +1,940 @@
+[
+  {
+    "cast_hash": "0x1e28b9d3",
+    "url": "https://warpcast.com/dwr.eth/0x1e28b9d3",
+    "author_username": "dwr.eth",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-03-21T00:12:43.000Z",
+    "text": "The latest Farcaster protocol release NFT is here!\n\nIguana\n\nhttps://zora.co/collect/zora:0x55f5a5d980992e01256d86e7ef03a22fd5fe84af/1",
+    "embeds": [
+      {
+        "url": "https://zora.co/collect/zora:0x55f5a5d980992e01256d86e7ef03a22fd5fe84af/1?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4fb5497e",
+    "url": "https://warpcast.com/v/0x4fb5497e",
+    "author_username": "v",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-03-21T03:26:10.000Z",
+    "text": "Power badges are rolling out now! \n\nYou'll get a notification if you have the badge.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x16c6236732a7d60808d46950b5091a6bf7ffa5cd"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x16c6236732a7d60808d46950b5091a6bf7ffa5cd",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x16c6236732a7d60808d46950b5091a6bf7ffa5cd",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "The active badge is going away.\n\nSpammy accounts are aggressively gaming the system to get the badge. \nMaking the rules stricter just makes it harder for legitimate users.\n\nWe’re past the point where a simple rule based system will work. We need something better.",
+          "timestamp": "2024-03-20T02:31:12.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0bd93733",
+    "url": "https://warpcast.com/rish/0x0bd93733",
+    "author_username": "rish",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 194,
+    "author_pfp": "https://i.imgur.com/naZWL9n.gif",
+    "cast_date": "2024-03-21T03:23:10.000Z",
+    "text": "Merkle this evening",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/ZFhbxEK.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 123651,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1022,
+            "height_px": 1348
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x70359a34",
+    "url": "https://warpcast.com/rishithomas/0x70359a34",
+    "author_username": "rishithomas",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 2326,
+    "author_pfp": "https://i.imgur.com/VNJ9v9f.jpg",
+    "cast_date": "2024-03-21T03:33:58.000Z",
+    "text": "It is what it is",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/he4tIqQ.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 71314,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 500,
+            "height_px": 542
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8f2881a3",
+    "url": "https://warpcast.com/dwr.eth/0x8f2881a3",
+    "author_username": "dwr.eth",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-03-21T00:39:07.000Z",
+    "text": "Found Varun's inspo for the power badge",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/ce900a62d7e73444235851d76194ee5d.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 360,
+                "width_px": 486,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 324,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 22.1
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x39867802",
+    "url": "https://warpcast.com/yb/0x39867802",
+    "author_username": "yb",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 3206,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/75065034-412e-4d5a-ea84-98e89cc1c400/original",
+    "cast_date": "2024-03-21T03:43:03.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/oUvP2Yn.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 86687,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 500,
+            "height_px": 625
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcff83b1a",
+    "url": "https://warpcast.com/dwr.eth/0xcff83b1a",
+    "author_username": "dwr.eth",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-03-21T03:58:45.000Z",
+    "text": "the timeline rn",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/6936ea309bf9b800744275226b921d41.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 7.793999
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb329abdb",
+    "url": "https://warpcast.com/adrienne/0xb329abdb",
+    "author_username": "adrienne",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-03-22T12:00:44.000Z",
+    "text": "Badges don't matter!",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/0MiuIQg.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 1031406,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 988,
+            "height_px": 1388
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3f2698e6",
+    "url": "https://warpcast.com/john/0x3f2698e6",
+    "author_username": "john",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 913,
+    "author_pfp": "https://i.imgur.com/8X3bzRg.jpg",
+    "cast_date": "2024-03-21T03:36:23.000Z",
+    "text": "Actually there is a set of rules you can follow to earn it – post good stuff, not bad stuff.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x0bd49f9c9ddf43b02975f3598988db6e7c8cb8de"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0bd49f9c9ddf43b02975f3598988db6e7c8cb8de",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x16c6236732a7d60808d46950b5091a6bf7ffa5cd",
+          "parent_hash": "0x16c6236732a7d60808d46950b5091a6bf7ffa5cd",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 2
+          },
+          "text": "Introducing the Power Badge, a new ranking system from Warpcast.\n\nIt uses a PageRank-like approach to recursively find power users who are active and post content that the rest of the network finds interesting.\n\nUnlike the active badge, it does not have a set of rules that you can follow to earn the badge.",
+          "timestamp": "2024-03-20T02:31:44.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcde11e3b",
+    "url": "https://warpcast.com/dwr.eth/0xcde11e3b",
+    "author_username": "dwr.eth",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-03-21T17:54:51.000Z",
+    "text": "try replying",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/LyEymxf.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 52592,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 500,
+            "height_px": 501
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaeec93d6",
+    "url": "https://warpcast.com/cameron/0xaeec93d6",
+    "author_username": "cameron",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 617,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac4e8cdc-f317-4711-d742-bb59c4651d00/original",
+    "cast_date": "2024-03-21T18:13:56.000Z",
+    "text": "look at this sicko who figured out exactly how to Farcaster-max",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 269694,
+          "hash": "0x8e5f0afce9c54379d773291a51030e6bb3146e66"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x8e5f0afce9c54379d773291a51030e6bb3146e66",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 269694,
+            "username": "bitfloorsghost.eth",
+            "display_name": "Bitfloorsghost",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6ecc19ea-ac6e-4550-7da6-c7dc051b0e00/rectcrop3",
+            "custody_address": "0x9af356fa72af2c087024daeed021e3082d59406f"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xcde11e3be77b43d7683cc3b8b80f06eb4f7ab69d",
+          "parent_hash": "0x63611c2d77d797f0c0e5db62c403167ee4f5fd33",
+          "parent_url": null,
+          "root_parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+          "parent_author": {
+            "fid": 9933
+          },
+          "text": "I just enjoy talking to people tbh",
+          "timestamp": "2024-03-21T18:09:14.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "memes",
+            "name": "Memes",
+            "image_url": "https://i.seadn.io/gcs/files/1f4acfc1e6831eb38e9453ce34ac79f8.png?auto=format&dpr=1&w=512"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8aa212a3",
+    "url": "https://warpcast.com/mikedemarais.eth/0x8aa212a3",
+    "author_username": "mikedemarais.eth",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 534,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9059e9f0-9d7e-4cb2-24ae-900ad80f0600/rectcrop3",
+    "cast_date": "2024-03-21T16:43:37.000Z",
+    "text": "why do people care about the active/power badge so much? like just keep casting and stop thinking about badges?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x95962897",
+    "url": "https://warpcast.com/adrienne/0x95962897",
+    "author_username": "adrienne",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-03-21T17:37:54.000Z",
+    "text": "Searching my closet for my blue cardigan to prepare for /gmfarcaster tomorrow.\n\nYou all already know what my take is gonna be on the power badge,  right?",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/fEM21hd.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 676945,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1304,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfec131e1",
+    "url": "https://warpcast.com/renstern.eth/0xfec131e1",
+    "author_username": "renstern.eth",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 226690,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/370deb25-3356-4b89-5839-29a7469e1b00/original",
+    "cast_date": "2024-03-21T05:47:00.000Z",
+    "text": "Got a power badge but it's bittersweet.\nSome members of the Japanese WC community feel discriminated against as they are naturally not going to get likes from OG users due to the language barrier.\n\nKnow these are the growing pains of the platform, but just thought I'd call out. Feels like an opp. to build a fix tho.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 17507,
+          "hash": "0x9593e98d60e3dcfb66e8d78cab8db076a066d51b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x9593e98d60e3dcfb66e8d78cab8db076a066d51b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 17507,
+            "username": "cryptonomori.eth",
+            "display_name": "cryptonomori.based.eth",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3789caf0-ac1a-4cd9-e462-3b40afe3b300/original",
+            "custody_address": "0xc77943cb5e6127e9af06baece3c58b2df18d7f11"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9593e98d60e3dcfb66e8d78cab8db076a066d51b",
+          "parent_hash": null,
+          "parent_url": "https://farcaster.group/japanese",
+          "root_parent_url": "https://farcaster.group/japanese",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "パワーバッジを手に入れるためにはパワーバッジユーザーの好む内容のキャスト、リプライをする\n気持ち悪いね、それ\nただWarpcastを楽しみたいだけだとしても、バッジがないと周囲からの評価が低いと判断されるというのは何か違うよ",
+          "timestamp": "2024-03-21T03:47:07.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 2,
+                "hash": "0x35679d900ccfed12126977e86085fd0d2d0c0240"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x35679d900ccfed12126977e86085fd0d2d0c0240",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 2
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "japanese",
+            "name": "Japanese",
+            "image_url": "https://warpcast.com/~/channel-images/japanese.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x41ba39ea",
+    "url": "https://warpcast.com/br1an.eth/0x41ba39ea",
+    "author_username": "br1an.eth",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 548,
+    "author_pfp": "https://i.seadn.io/gae/T1n8naiIITR2TKLlRyPHDEkKIRhO01WwsTJBfv1_YeUeVbtPnSlhe4MqWuYo0tMyDj9HWV3t3vJYBEKEHVeKHXYo4XIFxqSFfgEVbQ?w=500&auto=format",
+    "cast_date": "2024-03-21T15:30:19.000Z",
+    "text": "anyone who suggests we token-gate fundamentally doesn't understand live-streaming and how difficult it is to get people to show up at a specific time. adding additional constraints to entry is mid IQ.\n\nunlonely is about creating new novel experiences that anyone can enjoy. end of story.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 576,
+          "hash": "0xbbc83e605873434169bc61b04252623f2f5e177f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbbc83e605873434169bc61b04252623f2f5e177f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 576,
+            "username": "nonlinear.eth",
+            "display_name": "Jonny Mack",
+            "pfp_url": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+            "custody_address": "0x332e19a3801738fe7bffe22198b40dcd29afd090"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5708e9840e05741c0ab15e022a6e12aa2e80ace9",
+          "parent_hash": "0x5708e9840e05741c0ab15e022a6e12aa2e80ace9",
+          "parent_url": null,
+          "root_parent_url": "chain://eip155:1/erc721:0xc7e230ce8d67b2ad116208c69d616dd6bfc96a8d",
+          "parent_author": {
+            "fid": 231749
+          },
+          "text": "i've been begging @briang to implement token-gating for months. this would take a competent mid-level engineer about half a day to ship, but for brian, 1-2 weeks (so i understand his hesitation). tho making simple calls to an nft contract onchain is a bit over his head, i will nonetheless keep working on him 🫡",
+          "timestamp": "2024-03-21T15:14:52.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "unlonely",
+            "name": "Unlonely",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/33540604-cbcc-4751-df28-8947be2f6e00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbbc83e60",
+    "url": "https://warpcast.com/nonlinear.eth/0xbbc83e60",
+    "author_username": "nonlinear.eth",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 576,
+    "author_pfp": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+    "cast_date": "2024-03-21T15:14:52.000Z",
+    "text": "i've been begging @briang to implement token-gating for months. this would take a competent mid-level engineer about half a day to ship, but for brian, 1-2 weeks (so i understand his hesitation). tho making simple calls to an nft contract onchain is a bit over his head, i will nonetheless keep working on him 🫡",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3fcc0a3e",
+    "url": "https://warpcast.com/deodad/0x3fcc0a3e",
+    "author_username": "deodad",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 6841,
+    "author_pfp": "https://i.imgur.com/dMoIan7.jpg",
+    "cast_date": "2024-03-21T22:22:58.000Z",
+    "text": "Request for feedback from frame devs:\n- give frames a way to respond with an error message that will be displayed to a user.\n- enables frames to give users quick feedback in response to user input\n\nhttps://warpcast.notion.site/Frames-Errors-ddc965b097d44d9ea03ddf98498597c6?pvs=74",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/i9K3okF.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 1040521,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 4917,
+            "height_px": 1463
+          }
+        }
+      },
+      {
+        "url": "https://warpcast.notion.site/Frames-Errors-ddc965b097d44d9ea03ddf98498597c6?pvs=74",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.notion.site/Frames-Errors-ddc965b097d44d9ea03ddf98498597c6",
+            "ogType": "article",
+            "favicon": "https://warpcast.notion.site/images/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://warpcast.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1ae150b5-547b-47f9-9f29-638305dbba7a%2F7645352d-cdec-44d4-8c04-2d15fad1a540%2FUntitled.png?table=block&id=a25eb6f7-4036-4da9-b8ff-2a241a02d178&width=2000&userId=&cache=v2",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "[Frames] Errors | Notion",
+            "ogLocale": "en_US",
+            "ogSiteName": "Warpcast on Notion",
+            "ogDescription": "Frames should be able to respond to user actions with an error message that will be displayed to the user. This enables frame developers a quick and easy way to give users feedback in response to input."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4e6df14c",
+    "url": "https://warpcast.com/phil/0x4e6df14c",
+    "author_username": "phil",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2024-03-22T02:39:52.000Z",
+    "text": "“I drink and I know things”\n\nRead Write Own L.A. launch!",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/Ir3R2gv.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 455238,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd703959d",
+    "url": "https://warpcast.com/miguelgarest.eth/0xd703959d",
+    "author_username": "miguelgarest.eth",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 323251,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd4ee967-70fa-46f4-90cc-55a7f47bc000/original",
+    "cast_date": "2024-03-20T20:33:42.000Z",
+    "text": "The Great Split 🏴‍☠️",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/SRD7N6w.gif",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 2491175,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 900,
+            "height_px": 900
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb9c931f2",
+    "url": "https://warpcast.com/ezbek/0xb9c931f2",
+    "author_username": "ezbek",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 20388,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63768382-5211-45c0-f17b-057f21b59f00/rectcrop3",
+    "cast_date": "2024-03-20T21:05:14.000Z",
+    "text": "The meme coins in my wallet",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/R5xH3ZK.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 320736,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 1286
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x03a51eb0",
+    "url": "https://warpcast.com/wake/0x03a51eb0",
+    "author_username": "wake",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 2904,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/abe9a136-0384-4ad3-62a2-97d1fb11e900/original",
+    "cast_date": "2024-03-21T11:33:52.000Z",
+    "text": "https://www.pointshq.xyz/",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 6348,
+          "hash": "0xcafe5c945d71ac436d035a9774aa3e180dcaf003"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xcafe5c945d71ac436d035a9774aa3e180dcaf003",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 6348,
+            "username": "loverajoel",
+            "display_name": "joel",
+            "pfp_url": "https://i.imgur.com/aMROWa0.gif",
+            "custody_address": "0x80d03fb634aaa8eb583325d99d342ae971379f32"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xcafe5c945d71ac436d035a9774aa3e180dcaf003",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "NEW APP: track all your onchain points on a single app\n\nRainow, Rabbit, EigenLayer, Swell, etherfi and +20 more\n\nhttps://www.pointshq.xyz/",
+          "timestamp": "2024-03-20T15:40:56.000Z",
+          "embeds": [
+            {
+              "url": "https://www.pointshq.xyz/",
+              "metadata": {
+                "content_type": "text/html",
+                "content_length": 114,
+                "_status": "RESOLVED",
+                "html": {}
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "degen",
+            "name": "Degen",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+          }
+        }
+      },
+      {
+        "url": "https://www.pointshq.xyz/",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": 114,
+          "_status": "RESOLVED",
+          "html": {}
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9f5ead9d",
+    "url": "https://warpcast.com/adrienne/0x9f5ead9d",
+    "author_username": "adrienne",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-03-21T18:07:24.000Z",
+    "text": "GM Farcaster by the numbers - keep rising 🚀 \n\nBut the stats only tell a part of the story. How do I capture the magic of bringing people together, from different countries and cultures, in our hectic too-busy world for 21 minutes of real connection? 💫",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/gj3TyLu.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 753688,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 986
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0x766f7361adde9ae7204516045f51ff6418c6443b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x766f7361adde9ae7204516045f51ff6418c6443b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x766f7361adde9ae7204516045f51ff6418c6443b",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Numbers go up 📈\n\n- 49 live streams \n- 293 episodes minted on @zora \n- 78 unique minters (we ❤️ you)\n- 37 podcast subscribers \n- 796 podcast plays \n- 4 guest interviews \n- 8 sponsors \n\n🙏🙏🙏",
+          "timestamp": "2024-01-20T01:15:42.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 5818,
+                "hash": "0x6795f50732cb2e61a1dc824615b4b519a7c19ce0"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x6795f50732cb2e61a1dc824615b4b519a7c19ce0",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 5818
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-03-22",
+    "show_title": "GM Farcaster ep78, March 22, 2024",
+    "source_episode_id": "hXN4u4EX3_Q",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

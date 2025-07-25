@@ -1,0 +1,1721 @@
+[
+  {
+    "cast_hash": "0x503f7032",
+    "url": "https://warpcast.com/sahil/0x503f7032",
+    "author_username": "sahil",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 725,
+    "author_pfp": "https://lh3.googleusercontent.com/ELQOEk4_UQ1iLnH3VBoNovAoYrEn2Fpm73fQb8cE1wsVCFLwU6eT3USqlb7P8Ju6JLBKacWt_otOsOHy0GrZOumx7xQk_i-42lO97A",
+    "cast_date": "2025-01-14T19:08:46.000Z",
+    "text": "AMA about @curabot, channels tokens, leaderboards, and channel v2 frames on wednesday 9am-10am PT. drop questions in comments :)\n\nhappy to share more on:\nhow cura uses openrank to create a channel specific reputation system and leaderboard\nhow should we grow communities on farcaster via channels, frames, agents and tokens\nhow to best use channel tokens for community building",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 375699,
+          "hash": "0xfd9749f637f7c9c46d151c59c399d4b57552dda4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xfd9749f637f7c9c46d151c59c399d4b57552dda4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 375699,
+            "username": "openrank",
+            "display_name": "OpenRank",
+            "pfp_url": "https://i.imgur.com/lsEcXex.png",
+            "custody_address": "0xc630e00b48008b236d925b6d93b9dc989ebc7aab"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 193137,
+            "username": "super",
+            "display_name": "super ツ",
+            "pfp_url": "https://supercast.mypinata.cloud/ipfs/QmdvciL78gXQFgN3ZBCWecbCa5gEhPJGTU6bYcJ4WXYiwJ?filename=supercast-logo-white-pfp.png",
+            "custody_address": "0xff62ac1e5a4a63c57211b00e119b693b7f953d76"
+          },
+          "thread_hash": "0xfd9749f637f7c9c46d151c59c399d4b57552dda4",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/openrank",
+          "root_parent_url": "https://warpcast.com/~/channel/openrank",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "1/ Channels can now launch Tokens using Cura! @curabot\n\nTransform your Farcaster channel into a sustainable community with a token.\n\nChannel owners and moderators can introduce a way to reward meaningful contributions and drive sustained engagement.\n\nHow do these tokens work?\n\n- Channel wallets launch tokens and earn fees\n- A portion of tokens are liquid and remaining go to a community rewards pool\n- Rewards are distributed based on channel leaderboards using openrank scores\nRead more here: https://cura-docs.openrank.com/channel-wallet-and-tokens\n\nLet’s dive deeper.👇",
+          "timestamp": "2025-01-14T18:17:54.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "openrank",
+            "name": "Cura (powered by openrank)",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d5eb15bd-fed6-47dd-afcc-1c559954d400/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x64c67752",
+    "url": "https://warpcast.com/humpty/0x64c67752",
+    "author_username": "humpty",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 2480,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70bfa280-906f-481c-1abe-afd9f72d7b00/original",
+    "cast_date": "2025-01-13T19:33:16.000Z",
+    "text": "What if your contributions earned real rewards?\n\nWith /openrank and Cura, communities on Farcaster just leveled up:\n\n📊 Transparent reputation scoring \n🏆 Dynamic leaderboards \n💎 Channel tokens \n\nFrom reputation to rewards, these tools empower thriving, self-sustaining onchain communities.\n\nRead our latest newsletter to learn how Farcaster channels are being revolutionized!\n\nhttps://news.cryptosapiens.xyz/the-sustainable-community-playbook-openrank,-cura,-and-channel-tokens-in-action",
+    "embeds": [
+      {
+        "url": "https://news.cryptosapiens.xyz/the-sustainable-community-playbook-openrank,-cura,-and-channel-tokens-in-action",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2025-01-13T14:00:00.493Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/aa73a1298cb5c0b6303967ebc00ed0ce.jpg",
+            "ogImage": [
+              {
+                "alt": "📕 The Sustainable Community Playbook: OpenRank, Cura, and Channel Tokens in Action",
+                "url": "https://storage.googleapis.com/papyrus_images/e040605cee08d205af990a9ffe3493bd.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "📕 The Sustainable Community Playbook: OpenRank, Cura, and Channel Tokens in Action",
+            "ogLocale": "en",
+            "ogDescription": "This week, we explore the fascinating world of OpenRank, delve into the evolution of Cura, and uncover how these innovations are reshaping Farcaster channels. Whether you're a seasoned Farcaster user or just dipping your toes into decentralized social networks, there's something here for everyone.",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@cryptosapiens/the-sustainable-community-playbook-openrank,-cura,-and-channel-tokens-in-action?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=%F0%9F%93%95%20The%20Sustainable%20Community%20Playbook%3A%20OpenRank%2C%20Cura%2C%20and%20Channel%20Tokens%20in%20Action&blogName=CryptoSapiens&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Faa73a1298cb5c0b6303967ebc00ed0ce.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fe040605cee08d205af990a9ffe3493bd.jpg&size=2048&publishedDate=1736776800493"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=%F0%9F%93%95%20The%20Sustainable%20Community%20Playbook%3A%20OpenRank%2C%20Cura%2C%20and%20Channel%20Tokens%20in%20Action&blogName=CryptoSapiens&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Faa73a1298cb5c0b6303967ebc00ed0ce.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fe040605cee08d205af990a9ffe3493bd.jpg&size=2048&publishedDate=1736776800493",
+            "frames_url": "https://news.cryptosapiens.xyz/the-sustainable-community-playbook-openrank,-cura,-and-channel-tokens-in-action"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x78c1b13d",
+    "url": "https://warpcast.com/humpty/0x78c1b13d",
+    "author_username": "humpty",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 2480,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70bfa280-906f-481c-1abe-afd9f72d7b00/original",
+    "cast_date": "2025-01-14T14:01:24.000Z",
+    "text": "Top 10 in the /cryptosapiens leaderboard so far this week:\n\n1 @humpty.eth - can you dethrone me b4 the weekly $CABAL drop?\n2 @kazani.eth \n3 @gloriakexinwu \n4 @zachlipp \n5 @rudy09 \n6 @cryptosapiens.eth \n7 @ihawaii.eth \n8 @ewi \n9 @cashlessman.eth \n10 @toadyhawk.eth\n\nhttps://cura.openrank.com/frames/cryptosapiens",
+    "embeds": [
+      {
+        "url": "https://cura.openrank.com/frames/cryptosapiens",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/icon.png?60cf856fb5022e01",
+            "ogTitle": "cryptosapiens leaderboard",
+            "ogLocale": "en",
+            "ogDescription": "Manage your channel with Cura by OpenRank",
+            "fcFrame": {
+              "button": {
+                "title": "cryptosapiens leaderboard",
+                "action": {
+                  "url": "https://cura.openrank.com/frames/cryptosapiens",
+                  "name": "cryptosapiens leaderboard",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://cura.openrank.com/icons/cura.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://cura.openrank.com/api/frames-opengraph-image?channel_id=cryptosapiens"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "cryptosapiens leaderboard",
+            "image": "https://cura.openrank.com/api/frames-opengraph-image?channel_id=cryptosapiens",
+            "frames_url": "https://cura.openrank.com/frames/cryptosapiens",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 864314,
+              "username": "curabot",
+              "display_name": "cura",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c0ba4d19-001a-4887-f271-9f7da83c2000/original",
+              "custody_address": "0xbcb984a6faa20ff56a633653f57e82a23d498aa0"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjg2NDMxNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDNERTc4QkJjQjhGN0QzYkM0NDI5MzdDYThiMTU0MTM4OGE1YzhBQWMifQ",
+                "payload": "eyJkb21haW4iOiJjdXJhLm9wZW5yYW5rLmNvbSJ9",
+                "signature": "MHg2YjBjNzMyYTVlOGJjMTkxNzdjZDA2ODdhNzhiMTY1ODE0YjU2ZWM1NDgyOTA0ZDk5ZjMwOGI2YTlmOTg0Mzk2NjRmNGI1ZDZkYjUxMTVmMzU2MzJmYzIzZWNiYjZjYzY4YzMzM2JiZTM1MmQwMTk3MjI3YzY2MzAxZjEzYzMyZjFj"
+              },
+              "frame": {
+                "version": "0.0.0",
+                "name": "Cura",
+                "home_url": "https://cura.openrank.com/frames",
+                "icon_url": "https://cura.openrank.com/icons/cura.png",
+                "splash_image_url": "https://cura.openrank.com/icons/cura.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://cura.openrank.com/api/warpcast-frame-webhook"
+              },
+              "miniapp": {
+                "version": "0.0.0",
+                "name": "Cura",
+                "home_url": "https://cura.openrank.com/frames",
+                "icon_url": "https://cura.openrank.com/icons/cura.png",
+                "splash_image_url": "https://cura.openrank.com/icons/cura.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://cura.openrank.com/api/warpcast-frame-webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xac376991",
+    "url": "https://warpcast.com/humpty/0xac376991",
+    "author_username": "humpty",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 2480,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70bfa280-906f-481c-1abe-afd9f72d7b00/original",
+    "cast_date": "2025-01-15T19:29:57.000Z",
+    "text": "🚨 New Episode Alert! 🚨\n\nDiscover how @openrank and Cura are revolutionizing decentralized communities:\n\n🔍 Transparent reputation scores\n⚙️ Spam-free leaderboards\n💰 Onchain channel tokens\n\nLearn how open data and algorithms are shaping Farcaster's future. \n\nWatch the full episode on YouTube! 👇\nhttps://youtu.be/uP0IqiCDRuk",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/01946b70-e52c-ad83-c93b-d54d8c349d1d.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 854,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 45.918504
+          }
+        }
+      },
+      {
+        "url": "https://youtu.be/uP0IqiCDRuk",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "undefined",
+            "oembed": {
+              "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/uP0IqiCDRuk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Open Data and Transparent Algorithms: How OpenRank is Reshaping Decentralized Social | CryptoSapiens\"></iframe>",
+              "type": "video",
+              "title": "Open Data and Transparent Algorithms: How OpenRank is Reshaping Decentralized Social | CryptoSapiens",
+              "width": 200,
+              "height": 113,
+              "method": "provider-api",
+              "version": "1.0",
+              "author_url": "https://www.youtube.com/@cryptosapiensofficial",
+              "author_name": "CryptoSapiens",
+              "provider_url": "https://www.youtube.com/",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/uP0IqiCDRuk/hqdefault.jpg",
+              "thumbnail_width": 480,
+              "thumbnail_height": 360
+            },
+            "favicon": "https://www.youtube.com/s/desktop/3205cbb0/img/logos/favicon.ico",
+            "ogTitle": " - YouTube",
+            "ogLocale": "en",
+            "ogDescription": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaa7a666b",
+    "url": "https://warpcast.com/humpty/0xaa7a666b",
+    "author_username": "humpty",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 2480,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70bfa280-906f-481c-1abe-afd9f72d7b00/original",
+    "cast_date": "2025-01-09T20:54:37.000Z",
+    "text": "The first ever channel token powered by @openrank was just launched!\n\n/cryptosapiens launched $CABAL (0x0b56fcfC1c1e9Dcc1Db8e61C65283070F02c76C6) as a novel way to reward meaningful engagement on Farcaster.\n\nEarn tokens by participating actively—cast your insights, share your onchain creations, and engage with the community through likes, recasts, and thoughtful comments. Your contributions fuel a vibrant creator economy, and this token is our way of giving back.\n\n1 billion tokens were created. 50% were locked into LP; the other 50% was allocated as rewards for active channel participants over 3 years.\n\n5% of that allocation was airdropped just moments ago. Allocation was calculated using OpenRank and issued based on activity over the past 60 days.\n\n25 Million CABAL were sent to 245 channel members. You can claim using the frame below.\n\nFor more info check OpenRank docs, and Dexscreener linked in the comments below.\n\nhttps://cura.openrank.com/frames/cryptosapiens/leaderboard",
+    "embeds": [
+      {
+        "url": "https://cura.openrank.com/frames/cryptosapiens/leaderboard",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/icon.png?60cf856fb5022e01",
+            "ogImage": [
+              {
+                "alt": "Cura by OpenRank",
+                "url": "https://cura.openrank.com/opengraph-image?90257908f8fe2fc1",
+                "type": "image/png",
+                "width": "800",
+                "height": "800"
+              }
+            ],
+            "ogTitle": "CURA by OpenRank",
+            "ogLocale": "en",
+            "ogDescription": "View channel details, leaderboard, and casts"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x75aecf14",
+    "url": "https://warpcast.com/matthewb/0x75aecf14",
+    "author_username": "matthewb",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 4895,
+    "author_pfp": "https://i.imgur.com/6x4u2Cc.jpg",
+    "cast_date": "2025-01-16T02:26:48.000Z",
+    "text": "bk croissant game is pretty strong, not gonna lie",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7ca2da39-c997-4b38-ae49-7029e043b300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 832537,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1801,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 4894,
+          "hash": "0x2321f4b5bf33d5ec245d3b7587e486a3e907ad2e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x2321f4b5bf33d5ec245d3b7587e486a3e907ad2e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4894,
+            "username": "brileigh",
+            "display_name": "brileigh",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/17752154-f87d-4df3-ba8e-ce5be0335c00/original",
+            "custody_address": "0x6ec571405d0752af3a0d2e1cdf38f8c29fdecc68"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x2321f4b5bf33d5ec245d3b7587e486a3e907ad2e",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xfdd5e7949bd72c95907c46a630d2c791f0e842c6",
+          "root_parent_url": "chain://eip155:1/erc721:0xfdd5e7949bd72c95907c46a630d2c791f0e842c6",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "brooklyn cafe vibes >>",
+          "timestamp": "2025-01-16T02:13:01.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a2f9f655-9dd1-4e8a-4be6-fd869da50c00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 488111,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "new-york",
+            "name": "NYC",
+            "image_url": "https://i.seadn.io/gcs/files/48399e13b30e401d90c3c61a0065e02a.png?auto=format&dpr=1&w=512"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1f2630da",
+    "url": "https://warpcast.com/tldr/0x1f2630da",
+    "author_username": "tldr",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c8a5399-3ae5-4994-a9fe-d1e6c5ebc600/original",
+    "cast_date": "2025-01-15T18:52:55.000Z",
+    "text": "@yes2crypto.eth's bit here is getting really good\n\nI'm starting to hope matcha doesnt listen so I can see how long he streaks 🤣",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 214447,
+          "hash": "0xa85f32a1d7fa2f746d8fcaa69823fcf994addb77"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa85f32a1d7fa2f746d8fcaa69823fcf994addb77",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 214447,
+            "username": "yes2crypto.eth",
+            "display_name": "YES2Crypto 🎩 🟪🟡",
+            "pfp_url": "https://i.imgur.com/dBoVmnG.jpg",
+            "custody_address": "0xb1f55f9b6adf2dbe565385f59f7d2c5e58730340"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa85f32a1d7fa2f746d8fcaa69823fcf994addb77",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+          "root_parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Day 73 of asking /matcha to support limit orders on /base",
+          "timestamp": "2025-01-15T14:51:52.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/394e71ea-47d7-47c6-a143-621649b0f200/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 875742,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 846,
+                  "height_px": 1440
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 214447,
+                "hash": "0x1811b1bf832368374c0272a0521f3503adec4e44"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x1811b1bf832368374c0272a0521f3503adec4e44",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 214447
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "memes",
+            "name": "Memes",
+            "image_url": "https://i.seadn.io/gcs/files/1f4acfc1e6831eb38e9453ce34ac79f8.png?auto=format&dpr=1&w=512"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x69fda842",
+    "url": "https://warpcast.com/adrienne/0x69fda842",
+    "author_username": "adrienne",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-01-15T19:27:58.000Z",
+    "text": "GM Farcaster Season 3\n\nICYMI, you can now\n\n📺watch the full episode\n🎧listen to the audio only version\n✨mint episode\n\nALL FROM THE FRAME WITHOUT LEAVING FARCASTER\n\nwell done pods.media",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0xd6a32aaa47748f4ff98c511c3b9f1bde25715608"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd6a32aaa47748f4ff98c511c3b9f1bde25715608",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd6a32aaa47748f4ff98c511c3b9f1bde25715608",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster ep202 out now! Watch in the frame below and collect on @pods! wowow subscribers -- all our /pods episodes are now airdropped to you!\n\ns/o today: @ted @henry /los-angeles @bradq @alexshul.eth @ceej @lovejoy @ahn.eth @jacek @uniswap /base @dwr.eth (continued in the replies)\n\nFrom our ChatGPT Intern: Episode 202 of GM Farcaster hits all the high notes, from debating whether cereal or milk goes first (answer: the blockchain doesn’t care) to celebrating leaderboard stars like @ceej and @alexshul for their casting prowess. With spicy takes on the future of channels, shoutouts to firefighters in LA, and a nostalgic defense of hashtags (boomers unite!), it’s the kind of chaos that keeps the Farcaster ecosystem hilariously human.\n\nhttps://pods.media/gm-farcaster/gm-farcaster-ep202-wednesday-january-15-2025",
+          "timestamp": "2025-01-15T18:34:55.000Z",
+          "embeds": [
+            {
+              "url": "https://pods.media/gm-farcaster/gm-farcaster-ep202-wednesday-january-15-2025",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://pods.media/gm-farcaster/gm-farcaster-ep202-wednesday-january-15-2025",
+                  "favicon": "/icon.svg?0e6eb4a8ea10ec02",
+                  "ogAudio": "https://gateway.irys.xyz/B-T7EsWdiG-56kysbpH4L_btAuzspEUwqpm54O_VW3Q/Qg_9qbIA8XBEhw4_JeJIMgSIG0pbf94NiIu4loA_Ixk.mp3",
+                  "ogImage": [
+                    {
+                      "alt": "GM Farcaster ep202 Wednesday January 15, 2025 Cover Art",
+                      "url": "https://pods.media/api/og/frame/gm-farcaster/gm-farcaster-ep202-wednesday-january-15-2025"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster ep202 Wednesday January 15, 2025",
+                  "ogLocale": "en",
+                  "ogSiteName": "pods.media",
+                  "ogDescription": "Collect this episode to support GM Farcaster and secure your spot on the leaderboard!",
+                  "fcFrame": {
+                    "button": {
+                      "title": "View Episode",
+                      "action": {
+                        "url": "https://pods.media/gm-farcaster/gm-farcaster-ep202-wednesday-january-15-2025",
+                        "name": "View Episode",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://pods.media/icon.svg",
+                        "splashBackgroundColor": "#000000"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://pods.media/api/framesV2/og/gm-farcaster/gm-farcaster-ep202-wednesday-january-15-2025"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "View Episode",
+                  "image": "https://pods.media/api/framesV2/og/gm-farcaster/gm-farcaster-ep202-wednesday-january-15-2025",
+                  "frames_url": "https://pods.media/gm-farcaster/gm-farcaster-ep202-wednesday-january-15-2025",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 13875,
+                    "username": "pods",
+                    "display_name": "pods.media",
+                    "pfp_url": "https://i.imgur.com/9S7gylW.jpg",
+                    "custody_address": "0x162a557e0f569e0ae4a5a28fb666473d2bb0b7e6"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjEzODc1LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MTYyQTU1N0UwZjU2OWUwQUU0QTVhMjhGQjY2NjQ3M2QyYkIwYjdFNiJ9",
+                      "payload": "eyJkb21haW4iOiJwb2RzLm1lZGlhIn0",
+                      "signature": "MHg0NjYzNGEyMzhiZTJjODMwMGZkOTY0MDhmYjk3Zjg2ODNjYjUyNGYzYTc0MmY1MGJiZGU4ZmFhMWVkNWEwNDQxMzBmOTJhNjU3MTQ3ODY0NmE2NTY1YmQwMjkxMzc2NjZjYWVhYjMxYjg2YTAwYjMxNWNiYmQ5NGVhYTQ2ZDA0NTFj"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "Pods",
+                      "home_url": "https://pods.media",
+                      "icon_url": "https://pods.media/assets/outline-fill.png",
+                      "splash_image_url": "https://pods.media/icon.svg",
+                      "splash_background_color": "#000000",
+                      "webhook_url": "https://pods.media/api/framesV2/webhook",
+                      "subtitle": "Collect conversations.",
+                      "description": "Pods connects podcast creators with their biggest fans.",
+                      "primary_category": "entertainment",
+                      "tags": [
+                        "podcast",
+                        "media",
+                        "content",
+                        "social"
+                      ],
+                      "hero_image_url": "https://pods.media/brand/open-graph.png",
+                      "tagline": "Collect conversations.",
+                      "og_title": "Pods",
+                      "og_description": "Pods connects podcast creators with their biggest fans.",
+                      "og_image_url": "https://pods.media/brand/open-graph.png"
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "Pods",
+                      "home_url": "https://pods.media",
+                      "icon_url": "https://pods.media/assets/outline-fill.png",
+                      "splash_image_url": "https://pods.media/icon.svg",
+                      "splash_background_color": "#000000",
+                      "webhook_url": "https://pods.media/api/framesV2/webhook",
+                      "subtitle": "Collect conversations.",
+                      "description": "Pods connects podcast creators with their biggest fans.",
+                      "primary_category": "entertainment",
+                      "tags": [
+                        "podcast",
+                        "media",
+                        "content",
+                        "social"
+                      ],
+                      "hero_image_url": "https://pods.media/brand/open-graph.png",
+                      "tagline": "Collect conversations.",
+                      "og_title": "Pods",
+                      "og_description": "Pods connects podcast creators with their biggest fans.",
+                      "og_image_url": "https://pods.media/brand/open-graph.png"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9f97caae",
+    "url": "https://warpcast.com/dwr.eth/0x9f97caae",
+    "author_username": "dwr.eth",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-01-16T00:50:29.000Z",
+    "text": "Introducing Token Links\n\nTry it now: $degen, $tn100x, $higher, $moxie, $anon\n\n- Mention a token with a leading $, it turns into a link\n- Tap link to see top tokens by market cap and recent casts\n- Links to Dexscreener and copy contract address\n- Working in casts and profiles\n- Already on the protocol; just enriching text in casts\n\nFuture ideas\n- Smarter algo for casts (expect a bit of spam this week)\n- Additional info and metrics for traders\n- Farcaster social graph signals\n- Customization for token creators\n- Tie-in with frames and onchain transactions\n\nKnown issues\n- If token links aren't linkifying, update your app and restart 1-2x\n- Casts are slow to load; making that faster\n- Token links don't work in DCs or the composer yet\n- Sorting by market cap may result in non-FC native assets ahead of FC-native ones, e.g. $anon\n\nReminder: you can mute all token links by adding $ to your mute words on Warpcast",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/01946c8d-deb0-633a-df13-90123ffe23a0.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1440,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 960,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 320,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 12.733333
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xab8024c0",
+    "url": "https://warpcast.com/rish/0xab8024c0",
+    "author_username": "rish",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 194,
+    "author_pfp": "https://i.imgur.com/naZWL9n.gif",
+    "cast_date": "2025-01-16T01:15:26.000Z",
+    "text": "webhooks are temporarily slow as a result of this migration, working on it now",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3253,
+          "hash": "0xe795df9d0f9f46bc70f080e73c50ff96c56b346b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe795df9d0f9f46bc70f080e73c50ff96c56b346b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3253,
+            "username": "flashprofits.eth",
+            "display_name": "Blinky Stitt",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9b3b04ef-a101-4f50-1a95-f7a83e853d00/rectcrop3",
+            "custody_address": "0x39a037c434c2eeee9d03a2ea5197ea9a8a5d4703"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe795df9d0f9f46bc70f080e73c50ff96c56b346b",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xd4498134211baad5846ce70ce04e7c4da78931cc",
+          "root_parent_url": "chain://eip155:1/erc721:0xd4498134211baad5846ce70ce04e7c4da78931cc",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Database migration is starting now. Things will be broken for a few minutes.",
+          "timestamp": "2025-01-15T23:30:49.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "neynar",
+            "name": "Neynar",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/86b3a6fe-a058-442f-7590-eaacc1e8c800/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb76ab403",
+    "url": "https://warpcast.com/joshcrnls/0xb76ab403",
+    "author_username": "joshcrnls",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 1136,
+    "author_pfp": "https://i.imgur.com/NJZIVtB.jpg",
+    "cast_date": "2025-01-16T14:30:20.000Z",
+    "text": "summary of what i'm hearing from builders about the mini-app platforms...\n\n- farcaster: big upgrade in dev experience with frames v2, seeing strong retention w/ improved discoverability, notifs performing crazy well, but obvs limited audience.\n- worldcoin: user numbers are attractive, but meaningful lift to adapt product for the platform and actual usage / engagement underwhelming.\n- telegram: still king with massive audience, stars make onboarding / monetizing non-crypto audiences way easier, easy build.\n\nanyone have anything to add or having a different experience?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1109be1a",
+    "url": "https://warpcast.com/bolide/0x1109be1a",
+    "author_username": "bolide",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 20429,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d09bea26-d105-4522-f2b2-b46e04f21d00/original",
+    "cast_date": "2025-01-15T17:01:32.000Z",
+    "text": "Only trust information posted from the official accounts\n\nOn X: @bolide_app\nFarcaster: @bolide",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x78ff918e",
+    "url": "https://warpcast.com/bolide/0x78ff918e",
+    "author_username": "bolide",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 20429,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d09bea26-d105-4522-f2b2-b46e04f21d00/original",
+    "cast_date": "2025-01-15T20:22:44.000Z",
+    "text": "bolide x clanker x base\n\n0x36B0Bc9B7cd78C589076c8Fb7CD3f68b25b9770a\n\nNFA/DYOR",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 950671,
+          "hash": "0x76164a7de2c1a1f53d56f6cf40b7db7d239f016f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x76164a7de2c1a1f53d56f6cf40b7db7d239f016f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 950671,
+            "username": "greenbull",
+            "display_name": "GreenBull",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ceddaca7-b6f8-42f3-809b-682330b8be00/original",
+            "custody_address": "0x3ea7612377a4497fae4f8f9b6c546e9752ad6f7c"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x76164a7de2c1a1f53d56f6cf40b7db7d239f016f",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "hey @clanker, let's celebrate bolide x clanker collab together \nPlease go ahead and launch the token\n\nName: Bolide\nTicker: BOLIDE \n\nPlease use the picture of our GREEN BULL below",
+          "timestamp": "2025-01-15T20:14:52.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fef0dfc9-6e10-4ad5-0f5b-6095e6801600/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 33382,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1280,
+                  "height_px": 1280
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5b6400a4",
+    "url": "https://warpcast.com/oxb/0x5b6400a4",
+    "author_username": "oxb",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 20286,
+    "author_pfp": "https://i.imgur.com/5lTpsyy.jpg",
+    "cast_date": "2025-01-15T23:35:46.000Z",
+    "text": "I’ll probably stop posting for today and go grab a drink 🍷\n\nwhat a launch!!!\n$BOLIDE token has generated $5M in trading volume already and it’s a day one! \n\ntomorrow is the web app launch with Clanker integration\n\nWe were seriously sniped and had to deal with it for 2 hours - I was so stressed :(( \nLuckily it was a good sniper—someone we didn’t even know existed. He sold what he wanted to sell and sent the rest of the tokens to our team wallet \n\nFor those interested we contacted the sniper via a transaction message to his wallet \n\nhttps://basescan.org/tx/0x660272c694ac57eedc912379d26360cf3271965addde7d717014cdd411311ffc\n\nWe have long-term plans and a batch of features ahead—@bolide is here to stay and play the long game!\n\nA huuuge thank you to @proxystudio.eth and the entire @clanker team. We wouldn’t have launched this token without them. First-class team 💯💙\n\nHappy to be part of the Clanker ecosystem!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 20429,
+          "hash": "0x47fb030f075624c90fffc11ce899e70d64546668"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x47fb030f075624c90fffc11ce899e70d64546668",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 20429,
+            "username": "bolide",
+            "display_name": "Bolide",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d09bea26-d105-4522-f2b2-b46e04f21d00/original",
+            "custody_address": "0x909bc34e0924d60fe233b73b347def851e6a3c79"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x47fb030f075624c90fffc11ce899e70d64546668",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/bolide",
+          "root_parent_url": "https://warpcast.com/~/channel/bolide",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "After 2 stressful hours, we are happy to announce we have secured 20% of $BOLIDE",
+          "timestamp": "2025-01-15T23:06:02.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/771c32a8-bd2e-4139-90fd-368314779e00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 38482,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 936,
+                  "height_px": 295
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "bolide",
+            "name": "Bolide",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd589ed2-05a4-4b9f-59cb-0ae07882ac00/original"
+          }
+        }
+      },
+      {
+        "url": "https://basescan.org/tx/0x660272c694ac57eedc912379d26360cf3271965addde7d717014cdd411311ffc",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5a56664c",
+    "url": "https://warpcast.com/oxb/0x5a56664c",
+    "author_username": "oxb",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 20286,
+    "author_pfp": "https://i.imgur.com/5lTpsyy.jpg",
+    "cast_date": "2025-01-15T23:44:23.000Z",
+    "text": "everything you need to know about today",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 9856,
+          "hash": "0x5c81edeefe275b52a62abe6cd092cd3ebc4fdcf0"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5c81edeefe275b52a62abe6cd092cd3ebc4fdcf0",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 9856,
+            "username": "0xluo.eth",
+            "display_name": "0xLuo",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94f2a2b9-05ad-46df-4352-2c66e2ed9000/original",
+            "custody_address": "0xffe946d9c24ca4d6f785447a923c9e812e4e7b95"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5c81edeefe275b52a62abe6cd092cd3ebc4fdcf0",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+          "root_parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "How many fake @bolide tokens have you seen today? 😂",
+          "timestamp": "2025-01-15T20:42:30.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4778e736-6783-402f-6928-8cce23f59900/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 429290,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1013,
+                  "height_px": 576
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 950671,
+                "hash": "0x76164a7de2c1a1f53d56f6cf40b7db7d239f016f"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x76164a7de2c1a1f53d56f6cf40b7db7d239f016f",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 950671
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "memes",
+            "name": "Memes",
+            "image_url": "https://i.seadn.io/gcs/files/1f4acfc1e6831eb38e9453ce34ac79f8.png?auto=format&dpr=1&w=512"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xde4cdfe5",
+    "url": "https://warpcast.com/bolide/0xde4cdfe5",
+    "author_username": "bolide",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 20429,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d09bea26-d105-4522-f2b2-b46e04f21d00/original",
+    "cast_date": "2025-01-16T02:10:12.000Z",
+    "text": "16% of the total supply is now locked on @hedgeyfinance for 2 years with a 6-month cliff",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 20429,
+          "hash": "0x47fb030f075624c90fffc11ce899e70d64546668"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x47fb030f075624c90fffc11ce899e70d64546668",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 20429,
+            "username": "bolide",
+            "display_name": "Bolide",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d09bea26-d105-4522-f2b2-b46e04f21d00/original",
+            "custody_address": "0x909bc34e0924d60fe233b73b347def851e6a3c79"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x47fb030f075624c90fffc11ce899e70d64546668",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/bolide",
+          "root_parent_url": "https://warpcast.com/~/channel/bolide",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "After 2 stressful hours, we are happy to announce we have secured 20% of $BOLIDE",
+          "timestamp": "2025-01-15T23:06:02.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/771c32a8-bd2e-4139-90fd-368314779e00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 38482,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 936,
+                  "height_px": 295
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "bolide",
+            "name": "Bolide",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd589ed2-05a4-4b9f-59cb-0ae07882ac00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb737b3a2",
+    "url": "https://warpcast.com/proxystudio.eth/0xb737b3a2",
+    "author_username": "proxystudio.eth",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 270504,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+    "cast_date": "2025-01-15T20:37:20.000Z",
+    "text": "Today I found out that some of our ecosystem devs are really slow at buying the bullish new /bolide clanker \n\nHad to execute txn for them \n\nMay need to send some founders to trading school so they can learn how to make it all easier for users",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x07c4381e",
+    "url": "https://warpcast.com/bolide/0x07c4381e",
+    "author_username": "bolide",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 20429,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d09bea26-d105-4522-f2b2-b46e04f21d00/original",
+    "cast_date": "2025-01-16T01:21:59.000Z",
+    "text": "If you want to try out the new token launch feature with Bolide x @clanker  here is how to do it in this current mode, token image upload will be as easy as upload from your camera roll by tomorrow",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/01946cb3-4122-e79d-78f9-8d9b2c7e819c.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 938,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 626,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 854,
+                "width_px": 418,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 312,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 208,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 36.7
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 20429,
+          "hash": "0x293469995bf857ad7167d8f73bb59bb646863aea"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x293469995bf857ad7167d8f73bb59bb646863aea",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 20429,
+            "username": "bolide",
+            "display_name": "Bolide",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d09bea26-d105-4522-f2b2-b46e04f21d00/original",
+            "custody_address": "0x909bc34e0924d60fe233b73b347def851e6a3c79"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x293469995bf857ad7167d8f73bb59bb646863aea",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/bolide",
+          "root_parent_url": "https://warpcast.com/~/channel/bolide",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Web App is almost here\n\nComing soon on our new web app: launch coins with \n@clanker directly from Bolide\n\nCreators: post bangers and earn rewards, fair launch memecoins on Base, and bootstrap funds to go further. Let's win, together\n\nclanker is free to use, just choose an image, ticker, and symbol and win with Bolide x Clanker!  \n\nOn launch, coins are deployed into a Uniswap v3 pool on Base. Liquidity is locked, and rewards can be claimed at any time. .4% of every swap goes to creators. \n\nClanker's rewards model enables creators, small teams, solo-founders and devs to bootstrap funding by focusing on building great products, getting attention, and sharing their authentic stories. No dev allocations, just fair markets and upside.\n\nRewards are claimable and they will be available within your bolide account.",
+          "timestamp": "2025-01-16T00:42:31.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "bolide",
+            "name": "Bolide",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd589ed2-05a4-4b9f-59cb-0ae07882ac00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb9575622",
+    "url": "https://warpcast.com/horsefacts.eth/0xb9575622",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2025-01-15T23:58:15.000Z",
+    "text": "\"Blackhole\" is a good name because this game sucks up all my tickets",
+    "embeds": [
+      {
+        "url": "https://play.farcade.ai/games/10?ref=glJIN2IvZ1",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://lqy3lriiybxcejon.public.blob.vercel-storage.com/000-shared/blackhole-landscape.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "Blackhole - Farcade",
+            "ogLocale": "en",
+            "ogDescription": "Discover the universe through blackholes",
+            "fcFrame": {
+              "button": {
+                "title": "🕹️ Play",
+                "action": {
+                  "url": "https://play.farcade.ai/games/10/overview?tgWebAppStartParam=glJIN2IvZ1",
+                  "name": "Farcade",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://play.farcade.ai/icons/icon-192x192.png",
+                  "splashBackgroundColor": "#000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://lqy3lriiybxcejon.public.blob.vercel-storage.com/000-shared/blackhole-landscape.jpg"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "🕹️ Play",
+            "image": "https://lqy3lriiybxcejon.public.blob.vercel-storage.com/000-shared/blackhole-landscape.jpg",
+            "frames_url": "https://play.farcade.ai/games/10?ref=glJIN2IvZ1",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 325741,
+              "username": "farcade",
+              "display_name": "Farcade",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c7dfdcfa-bdd7-4b61-0bd5-ff8c201f0300/rectcrop3",
+              "custody_address": "0x1d69353eb2b3824038049e826dd4652b930a53c4"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjMyNTc0MSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDFkNjkzNTNFYjJCMzgyNDAzODA0OWU4MjZEZDQ2NTJiOTMwQTUzYzQifQ",
+                "payload": "eyJkb21haW4iOiJwbGF5LmZhcmNhZGUuYWkifQ",
+                "signature": "MHgxMTkzNWI3YmY2ODgyNDQxNjRiOTZlNDFiZDNiYTM5NWQ3ODVhOTI0YWVhNTAzY2JhNjk5ZTQ4NWY2MTdmZGU2NDA0M2NhZTkxNjNhMmQ4OTc2OWZjNTNjMTY1ZTZlOGEyYmM4Yzk3YjkyZThjMDY3NGFkOWZhZjkwZTE1OTQ4YjFi"
+              },
+              "frame": {
+                "version": "0.0.1",
+                "name": "Remix",
+                "home_url": "https://play.farcade.ai",
+                "icon_url": "https://play.remix.gg/icons/icon-512x512.png",
+                "splash_image_url": "https://play.remix.gg/icons/icon-512x512.png",
+                "splash_background_color": "#000",
+                "webhook_url": "https://play.remix.gg/api/webhook/farcaster?miniApp=default",
+                "subtitle": "Play. Build. Remix.",
+                "primary_category": "games",
+                "tags": [
+                  "games",
+                  "social",
+                  "fun",
+                  "entertainment",
+                  "arcade"
+                ],
+                "hero_image_url": "https://lqy3lriiybxcejon.public.blob.vercel-storage.com/game-1200x630-q66h344B7aB03R07FutFvQCIo8v9Ta.png",
+                "tagline": "Play. Build. Remix.",
+                "og_title": "Remix",
+                "og_description": "Play. Build. Remix.",
+                "og_image_url": "https://play.remix.gg/opengraph-image",
+                "canonical_domain": "play.remix.gg"
+              },
+              "miniapp": {
+                "version": "0.0.1",
+                "name": "Remix",
+                "home_url": "https://play.farcade.ai",
+                "icon_url": "https://play.remix.gg/icons/icon-512x512.png",
+                "splash_image_url": "https://play.remix.gg/icons/icon-512x512.png",
+                "splash_background_color": "#000",
+                "webhook_url": "https://play.remix.gg/api/webhook/farcaster?miniApp=default",
+                "subtitle": "Play. Build. Remix.",
+                "primary_category": "games",
+                "tags": [
+                  "games",
+                  "social",
+                  "fun",
+                  "entertainment",
+                  "arcade"
+                ],
+                "hero_image_url": "https://lqy3lriiybxcejon.public.blob.vercel-storage.com/game-1200x630-q66h344B7aB03R07FutFvQCIo8v9Ta.png",
+                "tagline": "Play. Build. Remix.",
+                "og_title": "Remix",
+                "og_description": "Play. Build. Remix.",
+                "og_image_url": "https://play.remix.gg/opengraph-image",
+                "canonical_domain": "play.remix.gg"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3e35e451",
+    "url": "https://warpcast.com/macbudkowski/0x3e35e451",
+    "author_username": "macbudkowski",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 1048,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a43231ca-1d8d-4563-c9b3-6a8e934c2a00/original",
+    "cast_date": "2025-01-15T16:31:42.000Z",
+    "text": "gm, \n\nWe are launching the writing contest called \"Farcaster 2026\".\n\nThe goal is to explore paths that Farcaster can take this year to reach the next level in 2026. \n\nWe have a 2 ETH prize pool for best submissions.\n\nOrganized by @kiwi & @purple.\n\nMore details in the post:\nhttps://paragraph.xyz/@kiwi-updates/farcaster-2026-writing-contest",
+    "embeds": [
+      {
+        "url": "https://paragraph.xyz/@kiwi-updates/farcaster-2026-writing-contest",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2025-01-15T16:31:08.537Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/db80691f13ba99bc84d7e655938ad7ed.png",
+            "ogImage": [
+              {
+                "alt": "Farcaster 2026 writing contest",
+                "url": "https://storage.googleapis.com/papyrus_images/2782a643ef6319a7b279454de655266a.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Farcaster 2026 writing contest",
+            "ogLocale": "en",
+            "ogDescription": "Write about the future of Farcaster and compete for the 2 ETH prize pool. Contest organized by Purple & Kiwi.",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@kiwi-updates/farcaster-2026-writing-contest?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Farcaster%202026%20writing%20contest&blogName=Kiwi%20Updates&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fdb80691f13ba99bc84d7e655938ad7ed.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F2782a643ef6319a7b279454de655266a.jpg&size=2048&publishedDate=1736958668537"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Farcaster%202026%20writing%20contest&blogName=Kiwi%20Updates&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fdb80691f13ba99bc84d7e655938ad7ed.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F2782a643ef6319a7b279454de655266a.jpg&size=2048&publishedDate=1736958668537",
+            "frames_url": "https://paragraph.xyz/@kiwi-updates/farcaster-2026-writing-contest",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGgueHl6In0",
+                "signature": "MHg5YmQ4MDcxNmVmNjIwZTFjM2UwZDkzMzQ5ZDNlNTU5N2MzYmU3NzQ2MDJmYTliZmE1Zjg2Mzk3Y2QxZTk4MGExM2RmNDVmMDM2ODE5Y2FhZmZiZmE5MTMxN2U3MGRlYWRlYTI2YWUzMTA2N2I1NDNiMTFkZDI3ODk3NzQ3ZWI5YjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5023c1eb",
+    "url": "https://warpcast.com/woj.eth/0x5023c1eb",
+    "author_username": "woj.eth",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 344667,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f01058af-2ef6-4713-8872-8b3025702900/original",
+    "cast_date": "2024-12-18T14:34:38.000Z",
+    "text": "Beautiful view 🧡",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbe7994f5",
+    "url": "https://warpcast.com/jacy/0xbe7994f5",
+    "author_username": "jacy",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 2982,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63552b96-faf4-4480-7775-a93631aaa100/original",
+    "cast_date": "2025-01-15T15:47:25.000Z",
+    "text": "Huge news coming out of @jacek’s community call! \n\nDegen team is working with the legend @deployer on a framework to bring tipping onchain on both DEGEN and HAM chains. \n\nThis would mean real-time tipping instead of a monthly claim. \n\nDeployer is a goated dev who has built out a bunch of cool tech for his Ham community, so I am here for this crossover 👏🏽👏🏽\n\nLots of other good stuff coming out of the community call, including a secret POAP 👀\n\nBullish Degen. Bullish Ham.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6b5df43e",
+    "url": "https://warpcast.com/kylepatrick.eth/0x6b5df43e",
+    "author_username": "kylepatrick.eth",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 247143,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15b35784-d490-4144-15c4-62edc2a58c00/rectcrop3",
+    "cast_date": "2025-01-15T13:10:13.000Z",
+    "text": "Gm from the Farcaster trenches! \n\nWe have 8 stories for today, read them below!\n\nhttps://newsletter.ambassadors.gg/153",
+    "embeds": [
+      {
+        "url": "https://newsletter.ambassadors.gg/153",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2025-01-15T13:01:00.651Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/e00b70962e7065d6bc344c42c61a8751.jpg",
+            "ogImage": [
+              {
+                "alt": "Ambassador's Wednesday",
+                "url": "https://storage.googleapis.com/papyrus_images/45b77611a291f203794eae9863d23821.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Ambassador's Wednesday",
+            "ogLocale": "en",
+            "ogDescription": "GM from the Farcaster Trenches! ",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@ambassadors/153?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Ambassador's%20Wednesday&blogName=Ambassadors&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fe00b70962e7065d6bc344c42c61a8751.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F45b77611a291f203794eae9863d23821.jpg&size=2048&publishedDate=1736946060651"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Ambassador's%20Wednesday&blogName=Ambassadors&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fe00b70962e7065d6bc344c42c61a8751.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F45b77611a291f203794eae9863d23821.jpg&size=2048&publishedDate=1736946060651",
+            "frames_url": "https://newsletter.ambassadors.gg/153"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaf96d131",
+    "url": "https://warpcast.com/toadyhawk.eth/0xaf96d131",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-01-15T20:02:01.000Z",
+    "text": "Today’s Word Challenge: Fix short form video platforms using only the following letters:\n \nA, N, H, I, C, O & N\n\nUS Government: “NO CHINA!”\n\nMe: “ONCHAIN!”",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd49cf5bc",
+    "url": "https://warpcast.com/davidtphung/0xd49cf5bc",
+    "author_username": "davidtphung",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 1657,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5de6aae-77f0-4da7-00d7-04a721f27200/rectcrop3",
+    "cast_date": "2025-01-15T14:01:33.000Z",
+    "text": "YES- drove from los angeles. it’ll be my second irl rocket launch, first starship and my parents first. SO EXCITED for the starlink test too. \n\nseeing it stacked is glorious!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8c1492cf-ed68-45fd-81f6-5acd24344700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 409633,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1500
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9b93620a-1242-445b-5dc0-e4bda13bbc00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 247824,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1500
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x27afb128",
+    "url": "https://warpcast.com/adrienne/0x27afb128",
+    "author_username": "adrienne",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-01-15T12:09:22.000Z",
+    "text": "What’s up farcers? What are all you farcs up to today?",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 129,
+          "hash": "0xed20d02ef87fd383322cd22cfa980cbcd4bd11dd"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xed20d02ef87fd383322cd22cfa980cbcd4bd11dd",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 129,
+            "username": "phil",
+            "display_name": "phil",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+            "custody_address": "0xf6fd7deec77d7b1061435585df1d7fdfd4682577"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xed20d02ef87fd383322cd22cfa980cbcd4bd11dd",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "quick, mods are asleep\n\ngm Farcs",
+          "timestamp": "2025-01-15T08:26:24.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 2,
+                "hash": "0x7f5ab3016e40c95c2851dd4b6eac7c14138e38ed"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x7f5ab3016e40c95c2851dd4b6eac7c14138e38ed",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 2
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3dc0a90c",
+    "url": "https://warpcast.com/bradq/0x3dc0a90c",
+    "author_username": "bradq",
+    "show_date": "2025-01-16",
+    "show_title": "GM Farcaster ep203 Thursday January 16, 2025 with @humpty and @sahil",
+    "source_episode_id": "Rf7_mjn9oII",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-01-15T14:53:01.000Z",
+    "text": "We need more content like this for outsiders (and for all of us!)...\n\nThis just won @dwr.eth contest for explaining the clanker meta on FC.\n\nIf you like it, let's convince @raven50mm that we need more content like this from him....I told him it's EIL5 with a great vibe.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 211697,
+          "hash": "0xba649ff8b177bdb1098ed137f85319196d42e426"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xba649ff8b177bdb1098ed137f85319196d42e426",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 211697,
+            "username": "raven50mm",
+            "display_name": "Raven ✞ 🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fea802c0-be13-460a-59e8-bee4f641e600/original",
+            "custody_address": "0x469eea5d8e61b9c9dca700fbe7238449d6b8d488"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x16374e1c8dd3a88b463346cbc23663dfe92da2e7",
+          "parent_hash": "0x16374e1c8dd3a88b463346cbc23663dfe92da2e7",
+          "parent_url": null,
+          "root_parent_url": "https://www.bountycaster.xyz",
+          "parent_author": {
+            "fid": 3
+          },
+          "text": "Clanker Meta video! \n\n@m00npapi.eth  @proxystudio.eth  @dwr.eth \n\nShared to multiple /50mm-collective social accounts 🚀",
+          "timestamp": "2024-11-27T00:38:26.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.warpcast.com/v1/video/92999e1e-f719-4397-a3f8-77e966bd0699.m3u8",
+              "metadata": {
+                "content_type": "application/vnd.apple.mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1920,
+                      "width_px": 1080,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 1280,
+                      "width_px": 720,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 854,
+                      "width_px": 480,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 640,
+                      "width_px": 360,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 426,
+                      "width_px": 240,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 66.167032
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "bounties",
+            "name": "Bounties",
+            "image_url": "https://warpcast.com/~/channel-images/bounties.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

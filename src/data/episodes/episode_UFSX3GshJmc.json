@@ -1,0 +1,740 @@
+[
+  {
+    "cast_hash": "0xe30b9bd7",
+    "url": "https://warpcast.com/nonlinear.eth/0xe30b9bd7",
+    "author_username": "nonlinear.eth",
+    "show_date": "2024-05-08",
+    "show_title": "GM Farcaster ep101, May 7, 2024",
+    "source_episode_id": "UFSX3GshJmc",
+    "author_fid": 576,
+    "author_pfp": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+    "cast_date": "2024-05-07T00:27:36.000Z",
+    "text": "just got home from farcon",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9608183a-061a-4eb5-f169-bdaed0734100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 88010,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 1259
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1537dbc4",
+    "url": "https://warpcast.com/deodad/0x1537dbc4",
+    "author_username": "deodad",
+    "show_date": "2024-05-08",
+    "show_title": "GM Farcaster ep101, May 7, 2024",
+    "source_episode_id": "UFSX3GshJmc",
+    "author_fid": 6841,
+    "author_pfp": "https://i.imgur.com/dMoIan7.jpg",
+    "cast_date": "2024-05-07T02:25:30.000Z",
+    "text": "yes but just before I laid down @v messaged and said it’s time to build programmable DCs",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 576,
+          "hash": "0xe30b9bd75cbb28a9aa117deb0842bfcbde5745aa"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe30b9bd75cbb28a9aa117deb0842bfcbde5745aa",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 576,
+            "username": "nonlinear.eth",
+            "display_name": "Jonny Mack",
+            "pfp_url": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+            "custody_address": "0x332e19a3801738fe7bffe22198b40dcd29afd090"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe30b9bd75cbb28a9aa117deb0842bfcbde5745aa",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+          "root_parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "just got home from farcon",
+          "timestamp": "2024-05-07T00:27:36.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9608183a-061a-4eb5-f169-bdaed0734100/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 88010,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1170,
+                  "height_px": 1259
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "memes",
+            "name": "Memes",
+            "image_url": "https://i.seadn.io/gcs/files/1f4acfc1e6831eb38e9453ce34ac79f8.png?auto=format&dpr=1&w=512"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd6d8cd49",
+    "url": "https://warpcast.com/v/0xd6d8cd49",
+    "author_username": "v",
+    "show_date": "2024-05-08",
+    "show_title": "GM Farcaster ep101, May 7, 2024",
+    "source_episode_id": "UFSX3GshJmc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-05-06T04:43:55.000Z",
+    "text": "An unexpected benefit of FarCon was getting very high fidelity user feedback. \n\nWe talk to users a lot over the internet, but there's a marked difference when you can go back and forth in person. \n\nIt's changed our roadmap this week by quite a bit!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x31257cf9",
+    "url": "https://warpcast.com/v/0x31257cf9",
+    "author_username": "v",
+    "show_date": "2024-05-08",
+    "show_title": "GM Farcaster ep101, May 7, 2024",
+    "source_episode_id": "UFSX3GshJmc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-05-07T00:52:08.000Z",
+    "text": "that was fast \n\nhttps://warpcast.com/jacopo.eth/0xa25d64e9",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x3713e5086b1bff202c193410ec2fcd8fd661694e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3713e5086b1bff202c193410ec2fcd8fd661694e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3713e5086b1bff202c193410ec2fcd8fd661694e",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "root_parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Someone should really make a permanent merch store for Farcaster swag from all sources. \n\nThe gear at Farcon was next level, I'm sure many others would want to get some.",
+          "timestamp": "2024-05-06T21:10:09.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcon",
+            "name": "FarCon",
+            "image_url": "https://i.imgur.com/mtH8eq1.jpg"
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 2007,
+          "hash": "0xa25d64e91a737f5e907c39b00338bac479bc9d55"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa25d64e91a737f5e907c39b00338bac479bc9d55",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2007,
+            "username": "jacopo.eth",
+            "display_name": "jacopo.eth",
+            "pfp_url": "https://i.imgur.com/pJt6PFK.jpg",
+            "custody_address": "0xe138e2571c065e852cb0c036471cfc0092f6831c"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa25d64e91a737f5e907c39b00338bac479bc9d55",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "root_parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Farcon merch store, powered by @slice. \n\nFree delivery worldwide https://shop.slice.so/store/532",
+          "timestamp": "2024-05-07T00:46:45.000Z",
+          "embeds": [
+            {
+              "url": "https://shop.slice.so/store/532",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/store/532/icon?10975e6594e75b08",
+                  "ogImage": [
+                    {
+                      "url": "https://gvlinweehfwzdcdxkkan.supabase.co/storage/v1/object/public/slicer-images/532/main_u4td812y1.jpg",
+                      "type": "jpg"
+                    }
+                  ],
+                  "ogTitle": "Farcon merch",
+                  "ogLocale": "en",
+                  "ogDescription": "Missed Farcon merch? We got you"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcon",
+            "name": "FarCon",
+            "image_url": "https://i.imgur.com/mtH8eq1.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa25d64e9",
+    "url": "https://warpcast.com/jacopo.eth/0xa25d64e9",
+    "author_username": "jacopo.eth",
+    "show_date": "2024-05-08",
+    "show_title": "GM Farcaster ep101, May 7, 2024",
+    "source_episode_id": "UFSX3GshJmc",
+    "author_fid": 2007,
+    "author_pfp": "https://i.imgur.com/pJt6PFK.jpg",
+    "cast_date": "2024-05-07T00:46:45.000Z",
+    "text": "Farcon merch store, powered by @slice. \n\nFree delivery worldwide https://shop.slice.so/store/532",
+    "embeds": [
+      {
+        "url": "https://shop.slice.so/store/532",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/store/532/icon?10975e6594e75b08",
+            "ogImage": [
+              {
+                "url": "https://gvlinweehfwzdcdxkkan.supabase.co/storage/v1/object/public/slicer-images/532/main_u4td812y1.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "Farcon merch",
+            "ogLocale": "en",
+            "ogDescription": "Missed Farcon merch? We got you"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc6802dba",
+    "url": "https://warpcast.com/v/0xc6802dba",
+    "author_username": "v",
+    "show_date": "2024-05-08",
+    "show_title": "GM Farcaster ep101, May 7, 2024",
+    "source_episode_id": "UFSX3GshJmc",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-05-06T04:54:12.000Z",
+    "text": "Priorities this week: \n\n1. Decentralizing channels\n2. Direct Cast APIs\n3. Improving feed quality \n4. Scaling Hubs to 1M users \n5. Improving app reliability",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x15c34c4d",
+    "url": "https://warpcast.com/dwr.eth/0x15c34c4d",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-08",
+    "show_title": "GM Farcaster ep101, May 7, 2024",
+    "source_episode_id": "UFSX3GshJmc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-06T15:34:34.000Z",
+    "text": "Reminder: do not squat channels. \n\nWe will do a clean up of clearly squatted names prior to moving channels into the protocol / decentralizing them.\n\nThis is a 2-3 months away.\n\n(Having the \"intention of growing a channel later\" isn't some hack around this, either.)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2b35fad3",
+    "url": "https://warpcast.com/dwr.eth/0x2b35fad3",
+    "author_username": "dwr.eth",
+    "show_date": "2024-05-08",
+    "show_title": "GM Farcaster ep101, May 7, 2024",
+    "source_episode_id": "UFSX3GshJmc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-05-06T15:35:42.000Z",
+    "text": "If you're currently building a Farcaster app / client that uses channels, please send me a direct cast. \n\nLooking for feedback on the decentralized channel spec I'm putting together.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2dc412b8",
+    "url": "https://warpcast.com/nonlinear.eth/0x2dc412b8",
+    "author_username": "nonlinear.eth",
+    "show_date": "2024-05-08",
+    "show_title": "GM Farcaster ep101, May 7, 2024",
+    "source_episode_id": "UFSX3GshJmc",
+    "author_fid": 576,
+    "author_pfp": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+    "cast_date": "2024-05-07T02:55:25.000Z",
+    "text": "monthly subscription on @hypersub that uses DCs to privately share memes 🤔",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x3810761c8833142c8921eb6f5b20a79f1dcb6fe2"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3810761c8833142c8921eb6f5b20a79f1dcb6fe2",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3810761c8833142c8921eb6f5b20a79f1dcb6fe2",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Send a DC via an API draft spec",
+          "timestamp": "2024-05-07T01:03:33.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 3621,
+                "hash": "0x752194529019117f5d841a07bb8fb7dcfb5375d0"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x752194529019117f5d841a07bb8fb7dcfb5375d0",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3621
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc5b3ad14",
+    "url": "https://warpcast.com/li/0xc5b3ad14",
+    "author_username": "li",
+    "show_date": "2024-05-08",
+    "show_title": "GM Farcaster ep101, May 7, 2024",
+    "source_episode_id": "UFSX3GshJmc",
+    "author_fid": 30,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/79a30894-1bc9-491f-78d1-9cd68c39af00/original",
+    "cast_date": "2024-05-03T22:08:49.000Z",
+    "text": "The news is out! \n\nWe’re thrilled to be partnering with @slokh and @emo.eth who are building @nook. They’re incredible world-class builders and Nook is a delight to use \n\n(posted from Nook 😎)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3887,
+          "hash": "0x0239f917e276177435d2fd9cfc4767ea16ba9a80"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0239f917e276177435d2fd9cfc4767ea16ba9a80",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3887,
+            "username": "slokh",
+            "display_name": "Kartik",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bcde483c-6e7e-4f6a-b254-b5e12e642d00/original",
+            "custody_address": "0x333601a803cac32b7d17a38d32c9728a93b422f4"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 262426,
+            "username": "nook",
+            "display_name": "nook",
+            "pfp_url": "https://i.imgur.com/IB6Gn4I.png",
+            "custody_address": "0x94bac74ec80c25fd5f19a76f2cd74a46d6618c3a"
+          },
+          "thread_hash": "0x0239f917e276177435d2fd9cfc4767ea16ba9a80",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/nook",
+          "root_parent_url": "https://warpcast.com/~/channel/nook",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Excited to share that we raised a preseed round led by @variant earlier this year.\n\nWe've now solidified our vision for the ideal client for Farcaster and more, /nook.\n\nThe transaction feed launch is the first step in bringing @nook more onchain. Much more coming very soon (we build quick)!\n\nhttps://nook.social/",
+          "timestamp": "2024-05-03T22:05:04.000Z",
+          "embeds": [
+            {
+              "url": "https://i.imgur.com/toMoDLt.jpeg",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 70424,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 959,
+                  "height_px": 594
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "nook",
+            "name": "nook",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac6d0946-094b-4a93-811c-58b472eca700/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xefd8a097",
+    "url": "https://warpcast.com/aneri/0xefd8a097",
+    "author_username": "aneri",
+    "show_date": "2024-05-08",
+    "show_title": "GM Farcaster ep101, May 7, 2024",
+    "source_episode_id": "UFSX3GshJmc",
+    "author_fid": 7732,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmZTLntgcsPSpc5jgG6nsNe6tgJo8wxSPm8nbAmdv7HG5b?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-05-06T20:56:59.000Z",
+    "text": "Onchain summer is a blank slate. The summer will be shaped by what builders build.\n\nBuild community, build art, build brands, build apps, build wealth, build your dreams, build anything.\n\nWhat will you build?\nhttps://zora.co/collect/base:0x4b5bbc81d59d2a6bc9483a7d54046c09835f8446/1",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 99,
+          "hash": "0xa664ea13a72e3c76f23402b6b0ead160e256e6a6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa664ea13a72e3c76f23402b6b0ead160e256e6a6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 99,
+            "username": "jesse.base.eth",
+            "display_name": "Jesse Pollak",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+            "custody_address": "0x4ce34af3378a00c640125e4dbf4c9e64dff4c93b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa664ea13a72e3c76f23402b6b0ead160e256e6a6",
+          "parent_hash": null,
+          "parent_url": "https://onchainsummer.xyz",
+          "root_parent_url": "https://onchainsummer.xyz",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "1. remix the billboard\n2. mint it on @base.base.eth\n3. share it  — I'll mint my favorites",
+          "timestamp": "2024-05-06T20:32:49.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5b91bb33-178a-4e41-7d48-a5b77615b200/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 5741803,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2400,
+                  "height_px": 1200
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "base",
+            "name": "Base",
+            "image_url": "https://warpcast.com/~/channel-images/base.png"
+          }
+        }
+      },
+      {
+        "url": "https://zora.co/collect/base:0x4b5bbc81d59d2a6bc9483a7d54046c09835f8446/1?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd7ef024b",
+    "url": "https://warpcast.com/galazio/0xd7ef024b",
+    "author_username": "galazio",
+    "show_date": "2024-05-08",
+    "show_title": "GM Farcaster ep101, May 7, 2024",
+    "source_episode_id": "UFSX3GshJmc",
+    "author_fid": 13495,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2594af39-cd20-49e0-ec38-046cf188f000/original",
+    "cast_date": "2024-05-06T22:02:52.000Z",
+    "text": "Galazio Kitchen - A Farcaster Cooking Show\n\nEpisode 1: Stuffed Peppers\n\nA cozy corner of Warpcast for those who love food :) I hope that you enjoy 💜 \n\nIncludes: a tasty vegetarian-friendly dinner idea, lots of talking with my hands",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/5f27229ef71e660ed3241352d84b18be.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "codec_name": "h264",
+                "height_px": 1080,
+                "width_px": 1920
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 720,
+                "width_px": 1280
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 480,
+                "width_px": 852
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 360,
+                "width_px": 640
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 240,
+                "width_px": 426
+              }
+            ],
+            "duration_s": 294.7
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x46fceb7f",
+    "url": "https://warpcast.com/vmathur/0x46fceb7f",
+    "author_username": "vmathur",
+    "show_date": "2024-05-08",
+    "show_title": "GM Farcaster ep101, May 7, 2024",
+    "source_episode_id": "UFSX3GshJmc",
+    "author_fid": 17592,
+    "author_pfp": "https://i.imgur.com/1nHPsNJ.jpg",
+    "cast_date": "2024-05-02T16:32:36.000Z",
+    "text": "Thanks to the new cast actions link feature, I was able to build an action that shows mutual interests you have with other people. Useful for when you're meeting people IRL this week!\n\nhttps://warpcast.com/~/add-cast-action?url=https://mutualcaster.vercel.app/api/action-get",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 17592,
+          "hash": "0xe82f4e790285d2c437a582fab62dd5019fa25a4b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe82f4e790285d2c437a582fab62dd5019fa25a4b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 17592,
+            "username": "vmathur",
+            "display_name": "vishal",
+            "pfp_url": "https://i.imgur.com/1nHPsNJ.jpg",
+            "custody_address": "0xad7b3e10ad774c1938dacc124f11983f0e4da371"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe82f4e790285d2c437a582fab62dd5019fa25a4b",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "root_parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Meeting people IRL this week? Built a frame so you can look up mutual interests of other farcaster users 😊\n\nhttps://mutualcaster.vercel.app/frame",
+          "timestamp": "2024-05-01T05:36:11.000Z",
+          "embeds": [
+            {
+              "url": "https://mutualcaster.vercel.app/frame",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://mutualcaster.vercel.app/welcome.jpg",
+                      "type": "jpg"
+                    }
+                  ],
+                  "ogTitle": "Mutualcaster",
+                  "ogLocale": "en",
+                  "ogDescription": "See what you have in common with other Farcaster users"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcon",
+            "name": "FarCon",
+            "image_url": "https://i.imgur.com/mtH8eq1.jpg"
+          }
+        }
+      },
+      {
+        "url": "https://warpcast.com/~/add-cast-action?url=https://mutualcaster.vercel.app/api/action-get",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://warpcast.com/og-logo.png",
+                "type": "png",
+                "width": "512",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast",
+            "ogDescription": "A sufficiently decentralized social network"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-05-08",
+    "show_title": "GM Farcaster ep101, May 7, 2024",
+    "source_episode_id": "UFSX3GshJmc",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

@@ -1,0 +1,935 @@
+[
+  {
+    "cast_hash": "0x7e9bfd8d",
+    "url": "https://warpcast.com/toadyhawk.eth/0x7e9bfd8d",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-01-21T15:30:26.000Z",
+    "text": "\"The idea behind Redacted GDUPI was simple: You can't even pronounce the ticker without feeling stupid.\"\n\nThis week on ZEROPOD, farcaster legend @yonfrula joins me to talk about how his \"art clanker\" $GDUPI was born from a @dwr.eth bounty, and tells us all about his winding journey as a very onchain artist. \n\nWatch and Collect the full episode for free on @base.base.eth using the @pods frame below this clip!\n\nhttps://pods.media/zeropod/keep-it-gdupi-stupi-with-degenerative-artist-yon-from-peaceful-groupies-gdupi-zeropod-s2-e7?referrer=0xBaA0ee89bf12753d6317E353cb4fB1DC94230341",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/0194896f-841b-ff79-6b50-423c3dbf65f8.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 119.29
+          }
+        }
+      },
+      {
+        "url": "https://pods.media/zeropod/keep-it-gdupi-stupi-with-degenerative-artist-yon-from-peaceful-groupies-gdupi-zeropod-s2-e7?referrer=0xBaA0ee89bf12753d6317E353cb4fB1DC94230341",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://pods.media/zeropod/keep-it-gdupi-stupi-with-degenerative-artist-yon-from-peaceful-groupies-gdupi-zeropod-s2-e7",
+            "favicon": "/icon.svg?0e6eb4a8ea10ec02",
+            "ogAudio": "https://gateway.irys.xyz/Lc0n38fn8VYOIji9FRnYPOnxUEZ-BZuyssd5RVKeehA/pJYqwx4wSujA4PVPntXIi0PLFxnVPR_OyOLfPhsUYx0.mp3",
+            "ogImage": [
+              {
+                "alt": "\"Keep it Gdupi, Stupi\" with 'Degenerative Artist' Yon from Peaceful Groupies & GDUPI | ZEROPOD S2 E7 Cover Art",
+                "url": "https://pods.media/api/og/frame/zeropod/keep-it-gdupi-stupi-with-degenerative-artist-yon-from-peaceful-groupies-gdupi-zeropod-s2-e7"
+              }
+            ],
+            "ogTitle": "\"Keep it Gdupi, Stupi\" with 'Degenerative Artist' Yon from Peaceful Groupies & GDUPI | ZEROPOD S2 E7",
+            "ogLocale": "en",
+            "ogSiteName": "pods.media",
+            "ogDescription": "Collect this episode to support ZEROPOD and secure your spot on the leaderboard!",
+            "fcFrame": {
+              "button": {
+                "title": "View Episode",
+                "action": {
+                  "url": "https://pods.media/zeropod/keep-it-gdupi-stupi-with-degenerative-artist-yon-from-peaceful-groupies-gdupi-zeropod-s2-e7",
+                  "name": "View Episode",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://pods.media/icon.svg",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://pods.media/api/framesV2/og/zeropod/keep-it-gdupi-stupi-with-degenerative-artist-yon-from-peaceful-groupies-gdupi-zeropod-s2-e7"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "View Episode",
+            "image": "https://pods.media/api/framesV2/og/zeropod/keep-it-gdupi-stupi-with-degenerative-artist-yon-from-peaceful-groupies-gdupi-zeropod-s2-e7",
+            "frames_url": "https://pods.media/zeropod/keep-it-gdupi-stupi-with-degenerative-artist-yon-from-peaceful-groupies-gdupi-zeropod-s2-e7?referrer=0xBaA0ee89bf12753d6317E353cb4fB1DC94230341",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 13875,
+              "username": "pods",
+              "display_name": "pods.media",
+              "pfp_url": "https://i.imgur.com/9S7gylW.jpg",
+              "custody_address": "0x162a557e0f569e0ae4a5a28fb666473d2bb0b7e6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEzODc1LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MTYyQTU1N0UwZjU2OWUwQUU0QTVhMjhGQjY2NjQ3M2QyYkIwYjdFNiJ9",
+                "payload": "eyJkb21haW4iOiJwb2RzLm1lZGlhIn0",
+                "signature": "MHg0NjYzNGEyMzhiZTJjODMwMGZkOTY0MDhmYjk3Zjg2ODNjYjUyNGYzYTc0MmY1MGJiZGU4ZmFhMWVkNWEwNDQxMzBmOTJhNjU3MTQ3ODY0NmE2NTY1YmQwMjkxMzc2NjZjYWVhYjMxYjg2YTAwYjMxNWNiYmQ5NGVhYTQ2ZDA0NTFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Pods",
+                "home_url": "https://pods.media",
+                "icon_url": "https://pods.media/assets/outline-fill.png",
+                "splash_image_url": "https://pods.media/icon.svg",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://pods.media/api/framesV2/webhook",
+                "subtitle": "Collect conversations.",
+                "description": "Pods connects podcast creators with their biggest fans.",
+                "primary_category": "entertainment",
+                "tags": [
+                  "podcast",
+                  "media",
+                  "content",
+                  "social"
+                ],
+                "hero_image_url": "https://pods.media/brand/open-graph.png",
+                "tagline": "Collect conversations.",
+                "og_title": "Pods",
+                "og_description": "Pods connects podcast creators with their biggest fans.",
+                "og_image_url": "https://pods.media/brand/open-graph.png"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Pods",
+                "home_url": "https://pods.media",
+                "icon_url": "https://pods.media/assets/outline-fill.png",
+                "splash_image_url": "https://pods.media/icon.svg",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://pods.media/api/framesV2/webhook",
+                "subtitle": "Collect conversations.",
+                "description": "Pods connects podcast creators with their biggest fans.",
+                "primary_category": "entertainment",
+                "tags": [
+                  "podcast",
+                  "media",
+                  "content",
+                  "social"
+                ],
+                "hero_image_url": "https://pods.media/brand/open-graph.png",
+                "tagline": "Collect conversations.",
+                "og_title": "Pods",
+                "og_description": "Pods connects podcast creators with their biggest fans.",
+                "og_image_url": "https://pods.media/brand/open-graph.png"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9c89bdf6",
+    "url": "https://warpcast.com/itsbasil/0x9c89bdf6",
+    "author_username": "itsbasil",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 20384,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dbad7d82-d1a2-4bc4-dcfc-5bdb23de2500/original",
+    "cast_date": "2025-01-21T22:53:38.000Z",
+    "text": "twenty one days in: \n\n>vitalk, a milady \n>trump, a sol extractor \n>melania, the hamburgler \n>dot eths, capitulating\n>solana, crashing\n>coinbase, “aware of the issues”\n>wake, a maga dad e girl \n>dan, a newly found man of coin\n>the timeline, in shambles \n>recovery, imminent",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x784f8216",
+    "url": "https://warpcast.com/afrochicks/0x784f8216",
+    "author_username": "afrochicks",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 780900,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26d6fa5c-2dd8-4e6c-f788-58afe3133b00/rectcrop3",
+    "cast_date": "2025-01-21T21:39:59.000Z",
+    "text": "mood after returning to farcaster after a 48 hour break \n\nwhy is @wake a baddie\nwhy is the TL full of baby pictures ( i love it ) \nwhat is yo\nwhat did ETH do\nwhat is happening \n\ni think i will film some workouts again tomorrow to bring a little balance",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b323b2ef-f5d3-4a46-24b4-ef550ba1f200/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 1215342,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 498,
+            "height_px": 280
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x96bb8c48",
+    "url": "https://warpcast.com/dwr.eth/0x96bb8c48",
+    "author_username": "dwr.eth",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-01-21T14:19:57.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5062187f-ce94-41e4-4cd5-983857b08900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 56573,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 500,
+            "height_px": 659
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2ab2fe17",
+    "url": "https://warpcast.com/linda/0x2ab2fe17",
+    "author_username": "linda",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-01-22T05:58:53.000Z",
+    "text": "First photo of Ross free \n\nhttps://x.com/free_ross/status/1881925029497377104?s=46&t=QNlz9swNdb9dxGQvZZJaCw",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd124536-1f18-493f-7f49-005096396100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 225592,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1169,
+            "height_px": 1882
+          }
+        }
+      },
+      {
+        "url": "https://x.com/free_ross/status/1881925029497377104?s=46&t=QNlz9swNdb9dxGQvZZJaCw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/Free_Ross/status/1881925029497377104",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">FREEDOM!!!! <a href=\"https://t.co/itRuuyFAxe\">pic.twitter.com/itRuuyFAxe</a></p>&mdash; Free_Ross (@Free_Ross) <a href=\"https://twitter.com/Free_Ross/status/1881925029497377104?ref_src=twsrc%5Etfw\">January 22, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/Free_Ross",
+              "author_name": "Free_Ross",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x74a22963",
+    "url": "https://warpcast.com/mazmhussain/0x74a22963",
+    "author_username": "mazmhussain",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 758919,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e95b6f64-1d2d-4ac2-1d50-d2c9304e0100/original",
+    "cast_date": "2025-01-22T00:02:36.000Z",
+    "text": "Trump pardons Ross Ulbricht:",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/32f84382-61c5-4d24-831f-a749cf8b0c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 181984,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1289,
+            "height_px": 1113
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x677a1800",
+    "url": "https://warpcast.com/matthewb/0x677a1800",
+    "author_username": "matthewb",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 4895,
+    "author_pfp": "https://i.imgur.com/6x4u2Cc.jpg",
+    "cast_date": "2025-01-22T02:18:59.000Z",
+    "text": "seeing some disappointing takes re: ross on the timeline. imo his sentencing was unusually harsh in order to make an example of him. two life sentences + 40yr with no possibility of parole is extraordinarily harsh.\n\ndon’t think he was perfect by any means, but he has served 11 years already and has demonstrated genuine remorse. glad to see him released.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe456baf1",
+    "url": "https://warpcast.com/0xen/0xe456baf1",
+    "author_username": "0xen",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 528,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7c3ca449-b2e6-4570-5a48-7be60e3d5e00/original",
+    "cast_date": "2025-01-22T00:55:48.000Z",
+    "text": "If ross looked like this, instead of this he'd still be in jail rn. \n\nDude tried to have multiple people killed, there's chat logs, it's on the blockchain. Some of those people weren't real, at least one was. Either way this was his m.o. just after like 18 months or being the Dread Pirate Roberts. Crazy that people cheer him on.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1c9eef32-1c92-4282-2f3f-81c5d676be00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 349575,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 722,
+            "height_px": 574
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7885868e-2b0e-4ea4-631c-c3e913bf2f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 515206,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 728,
+            "height_px": 740
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xba3d0a69",
+    "url": "https://warpcast.com/nonlinear.eth/0xba3d0a69",
+    "author_username": "nonlinear.eth",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 576,
+    "author_pfp": "https://i.seadn.io/gae/oeyOFjLzIVCMec49KdmBp24ZHL82XXqLLDlLRuvUR8InycSpmf9ZtSCfN69lgojeOoucD7fU9cjxAt4raFBTTgSo34gD5lSZ83Klb1k?w=500&auto=format",
+    "cast_date": "2025-01-21T16:28:58.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5dbb8a9b-0775-455d-f328-242064153a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 238241,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1004,
+            "height_px": 736
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xaa3a99cdd0027818982d31ed5f6eb028f3530ee9"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xaa3a99cdd0027818982d31ed5f6eb028f3530ee9",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xaa3a99cdd0027818982d31ed5f6eb028f3530ee9",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "The way to increase the price of Ethereum is to build and use apps on Ethereum.",
+          "timestamp": "2025-01-21T15:37:18.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe2382e32",
+    "url": "https://warpcast.com/linda/0xe2382e32",
+    "author_username": "linda",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-01-20T20:30:25.000Z",
+    "text": "The Ethereum Foundation making concrete changes and being more vocal about their plans based on community feedback makes me really optimistic!\n\nYes, it's a decentralized ecosystem and we should all be doing what we can but it's undeniable the EF has significant resources and reach so their work can certainly boost everyone else's efforts, especially app builders in the space trying to onboard new users and further use cases in Ethereum\n\nWhat I'm doing personally to support:\n- been building a company @bountycaster for the past year enabling more people to get paid out in crypto globally for their work (we self funded, I'm not taking a personal salary)\n- worked on the @ethereumfilm documentary the past 3 years with its mainstream distribution this year (I declined any compensation)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7a179cea",
+    "url": "https://warpcast.com/v/0x7a179cea",
+    "author_username": "v",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-01-20T18:31:10.000Z",
+    "text": "After further investigation with @danfinlay and team, it appears that the compromise was due to a registrar that has locked up the email domain. \n\nIt appears to have only affected this one account. \n\nSome more details in thread about what we're doing next.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x0941f08bb57dbf31e01874e1846791dbb3a2cf85"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0941f08bb57dbf31e01874e1846791dbb3a2cf85",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0941f08bb57dbf31e01874e1846791dbb3a2cf85",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Earlier this morning @danfinlay's account posted a message about a token. This message wasn't posted by Dan and we've been looking into what may have happened. \n\nWe're still investigating and don't have a root cause yet, but believe this issue only affects this particular account. More details in thread.",
+          "timestamp": "2025-01-20T17:16:34.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdec3c7f1",
+    "url": "https://warpcast.com/woj.eth/0xdec3c7f1",
+    "author_username": "woj.eth",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2025-01-20T13:50:11.000Z",
+    "text": "we just cancelled all recurring billing on @super\n\nif you don't want your membership to run out (trust me, you don't) go to https://www.super.sc/settings and extend your membership ahead manually\n\nwe will be sending wc dm notifications (and soon emails) 5 days and 1 day before your membership expires\n\nshare with a super friend!",
+    "embeds": [
+      {
+        "url": "https://www.super.sc/settings",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://super.sc/",
+            "ogType": "website",
+            "favicon": "/supercast-logo-white.png",
+            "ogImage": [
+              {
+                "alt": "Super",
+                "url": "https://www.super.sc/api/og?type=landing",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Super",
+            "ogLocale": "en_US",
+            "ogSiteName": "Super",
+            "ogDescription": "Have fun on farcaster ツ"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3d07abe3",
+    "url": "https://warpcast.com/slokh/0x3d07abe3",
+    "author_username": "slokh",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 3887,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bcde483c-6e7e-4f6a-b254-b5e12e642d00/original",
+    "cast_date": "2025-01-22T01:56:24.000Z",
+    "text": "After two days of playing yapster\n\nSome of the most fun I've had with a crypto app. Good work @salvino @amirbolous and team",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/661f1d39-fa21-40d9-54a4-6304b2a9fb00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 121982,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 698,
+            "height_px": 834
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbf4e2bdd",
+    "url": "https://warpcast.com/nounishprof/0xbf4e2bdd",
+    "author_username": "nounishprof",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-01-21T16:02:25.000Z",
+    "text": "I was so close! Just needed to drop 1 spot! I should’ve waited to GM until later lol",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/09edfdf2-1b63-40c1-eff5-2d600247b000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 116745,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1098,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4cc3f053",
+    "url": "https://warpcast.com/ceej/0x4cc3f053",
+    "author_username": "ceej",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 292642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d62d96b4-f4b0-4f46-e0b6-1475b6f3ab00/original",
+    "cast_date": "2025-01-21T16:13:03.000Z",
+    "text": "I was an instagram content creator from 2017-2022\n\nit took me two years to build a following of 10k\n\nand another three to get to 20k\n\nDuring that time, I earned ~$200 per paid campaign (I think I did less than five)\n\nI received some perks, multiple mini fridges, lots of craft beer, plenty of junk, my audience also crowdfunded a hot tub (partly as a joke but still a huge W and funny)\n\ni've been posting for like 2 weeks on warpcast and I've already seen greater rewards for less effort\n\nid say keep warpcast a secret but i can't stop telling people about it",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ee90ba76-6785-40d3-a1ed-5f7659b01b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 30935,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 870,
+            "height_px": 125
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x338e99ff",
+    "url": "https://warpcast.com/bradq/0x338e99ff",
+    "author_username": "bradq",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-01-22T14:32:11.000Z",
+    "text": "\"Post a picture from a different era\" Mega Thread 🧵 \n\nFarcaster Lore demands we preserve notable ones in this great meta\n\n(Would love to hear your favorites)\n\n1/???\n\n(thread max is 10, I will add many in comments next 15 minutes)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xa5d128322277be401418fc5416fcf34efb2771d5"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa5d128322277be401418fc5416fcf34efb2771d5",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa5d128322277be401418fc5416fcf34efb2771d5",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "post a picture of you from a different era",
+          "timestamp": "2025-01-21T00:59:52.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/67ca47d6-df04-4da0-c188-f12fcd292b00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 161181,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1206,
+                  "height_px": 1167
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 2745,
+                "hash": "0x75cf83de0117b0be05126c0d3a608edd617362ae"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x75cf83de0117b0be05126c0d3a608edd617362ae",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 2745
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x81304547",
+    "url": "https://warpcast.com/mjc716/0x81304547",
+    "author_username": "mjc716",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 11599,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c6aae1d-58f0-4f42-5628-06263e661100/original",
+    "cast_date": "2025-01-21T03:07:49.000Z",
+    "text": "who started the post a picture of you from a different era trend",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x949881d7",
+    "url": "https://warpcast.com/bitfloorsghost.eth/0x949881d7",
+    "author_username": "bitfloorsghost.eth",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 269694,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6ecc19ea-ac6e-4550-7da6-c7dc051b0e00/rectcrop3",
+    "cast_date": "2025-01-16T15:01:24.000Z",
+    "text": "Post a picture of you from a different era",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4ab9c7c-ed60-4971-61aa-704a51cc6700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 387180,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1206,
+            "height_px": 1326
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4287ef58",
+    "url": "https://warpcast.com/swampnet/0x4287ef58",
+    "author_username": "swampnet",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 471228,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2b2b9e8d-93cf-4a5f-2571-c77e6bcf5f00/rectcrop3",
+    "cast_date": "2025-01-21T16:14:38.000Z",
+    "text": "cr: @sonofalli",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7bcf5cc-3c39-4987-07ce-07c0e51ba000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 107279,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1284,
+            "height_px": 1007
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x069717c2",
+    "url": "https://warpcast.com/sahil/0x069717c2",
+    "author_username": "sahil",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 725,
+    "author_pfp": "https://lh3.googleusercontent.com/ELQOEk4_UQ1iLnH3VBoNovAoYrEn2Fpm73fQb8cE1wsVCFLwU6eT3USqlb7P8Ju6JLBKacWt_otOsOHy0GrZOumx7xQk_i-42lO97A",
+    "cast_date": "2025-01-20T22:17:48.000Z",
+    "text": "channel economies are taking shape...\n\n/cryptosapiens channel automatically sent out weekly rewards with $CABAL using their Channel Leaderboard. 1-click claim using v2 frames\n\nchannel members get rewarded <--> channel wallet receives trading fee from token",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2480,
+          "hash": "0x706a3e828eaf320c4fc1ed5cc21163e33efa11d7"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x706a3e828eaf320c4fc1ed5cc21163e33efa11d7",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2480,
+            "username": "humpty.eth",
+            "display_name": "humpty",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70bfa280-906f-481c-1abe-afd9f72d7b00/original",
+            "custody_address": "0x3b1c602b14720111c9a006f1e673fde7262bd3fb"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x706a3e828eaf320c4fc1ed5cc21163e33efa11d7",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/cryptosapiens",
+          "root_parent_url": "https://warpcast.com/~/channel/cryptosapiens",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Cabaliers!\n\nThe first window to claim $CABAL is TODAY 🤑 \n\nSimply check the /cryptosapiens leaderboard, connect your wallet, and claim your tokens. It's that simple!\n\nLeaderboard resets every Monday. Keep casting bangers all week and reap the rewards. \n\nCheck your rewards with the frame below ⬇️ \n\nhttps://cura.openrank.com/frames/cryptosapiens",
+          "timestamp": "2025-01-20T17:00:57.000Z",
+          "embeds": [
+            {
+              "url": "https://cura.openrank.com/frames/cryptosapiens",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/icon.png?60cf856fb5022e01",
+                  "ogTitle": "cryptosapiens leaderboard",
+                  "ogLocale": "en",
+                  "ogDescription": "Manage your channel with Cura by OpenRank",
+                  "fcFrame": {
+                    "button": {
+                      "title": "cryptosapiens leaderboard",
+                      "action": {
+                        "url": "https://cura.openrank.com/frames/cryptosapiens",
+                        "name": "cryptosapiens leaderboard",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://cura.openrank.com/icons/cura.png",
+                        "splashBackgroundColor": "#ffffff"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://cura.openrank.com/api/frames-opengraph-image?channel_id=cryptosapiens"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "cryptosapiens leaderboard",
+                  "image": "https://cura.openrank.com/api/frames-opengraph-image?channel_id=cryptosapiens",
+                  "frames_url": "https://cura.openrank.com/frames/cryptosapiens",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 864314,
+                    "username": "curabot",
+                    "display_name": "cura",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c0ba4d19-001a-4887-f271-9f7da83c2000/original",
+                    "custody_address": "0xbcb984a6faa20ff56a633653f57e82a23d498aa0"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjg2NDMxNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDNERTc4QkJjQjhGN0QzYkM0NDI5MzdDYThiMTU0MTM4OGE1YzhBQWMifQ",
+                      "payload": "eyJkb21haW4iOiJjdXJhLm9wZW5yYW5rLmNvbSJ9",
+                      "signature": "MHg2YjBjNzMyYTVlOGJjMTkxNzdjZDA2ODdhNzhiMTY1ODE0YjU2ZWM1NDgyOTA0ZDk5ZjMwOGI2YTlmOTg0Mzk2NjRmNGI1ZDZkYjUxMTVmMzU2MzJmYzIzZWNiYjZjYzY4YzMzM2JiZTM1MmQwMTk3MjI3YzY2MzAxZjEzYzMyZjFj"
+                    },
+                    "frame": {
+                      "version": "0.0.0",
+                      "name": "Cura",
+                      "home_url": "https://cura.openrank.com/frames",
+                      "icon_url": "https://cura.openrank.com/icons/cura.png",
+                      "splash_image_url": "https://cura.openrank.com/icons/cura.png",
+                      "splash_background_color": "#ffffff",
+                      "webhook_url": "https://cura.openrank.com/api/warpcast-frame-webhook"
+                    },
+                    "miniapp": {
+                      "version": "0.0.0",
+                      "name": "Cura",
+                      "home_url": "https://cura.openrank.com/frames",
+                      "icon_url": "https://cura.openrank.com/icons/cura.png",
+                      "splash_image_url": "https://cura.openrank.com/icons/cura.png",
+                      "splash_background_color": "#ffffff",
+                      "webhook_url": "https://cura.openrank.com/api/warpcast-frame-webhook"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "cryptosapiens",
+            "name": "cryptosapiens",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5c139a7c-f9f1-41f5-e134-9041953d3600/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x135359f9",
+    "url": "https://warpcast.com/cdixon.eth/0x135359f9",
+    "author_username": "cdixon.eth",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 25,
+    "author_pfp": "https://i.imgur.com/ju8z8lD.jpg",
+    "cast_date": "2025-01-20T17:57:45.000Z",
+    "text": "👇",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4b867196-ae60-4713-e6e9-4a00104b0700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 258638,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1134,
+            "height_px": 1108
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x20393330",
+    "url": "https://warpcast.com/androidsixteen.eth/0x20393330",
+    "author_username": "androidsixteen.eth",
+    "show_date": "2025-01-22",
+    "show_title": "GM Farcaster ep205 Wednesday January 22, 2025 with  @simmons /pods",
+    "source_episode_id": "YJgwoIS7TDo",
+    "author_fid": 3635,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/68e0858a-bd96-41ab-ca47-3e25868d6a00/rectcrop3",
+    "cast_date": "2025-01-20T16:42:47.000Z",
+    "text": "PSA — we are in a very adversarial phase of the cycle and it’s hard to know what’s real. There are a lot of rugs & scams right now. Be careful!\n\nAnd importantly, don’t lynch each other here. FC is one of the few corners of crypto that still feels sane. Give folks benefit of the doubt. That’s what will onboard people long-term",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  }
+]

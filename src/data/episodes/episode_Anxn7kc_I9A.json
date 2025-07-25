@@ -1,0 +1,1464 @@
+[
+  {
+    "cast_hash": "0xb577e665",
+    "url": "https://warpcast.com/nounishprof/0xb577e665",
+    "author_username": "nounishprof",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-07-08T01:01:45.000Z",
+    "text": "GM Farcaster back at 8:30 AM ET this morning for 29 minutes of /farcaster news to start your day! \n\nJoin @adrienne and I live on @unlonely, YT & Twitter with a replay at 11:30 am ET/8:30 am PT. \n\nAND we're moving to a new /gmfcnetwork channel on Unlonely! Put those notifs on!\n\nhttps://www.unlonely.app/channels/gmfarcasternetwork",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fb9435ea-98ba-40de-884e-9882acfe0400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 968376,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1200,
+            "height_px": 675
+          }
+        }
+      },
+      {
+        "url": "https://www.unlonely.app/channels/gmfarcasternetwork",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://unlonely.app/channel/gmfarcasternetwork",
+            "ogType": "website",
+            "favicon": "/images/favicon-32x32.png",
+            "ogImage": [
+              {
+                "url": "https://unlonely.app/images/social_banner.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "gmfarcasternetwork's channel | GM Farcaster Network",
+            "ogLocale": "en_US",
+            "ogSiteName": "GM Farcaster Network",
+            "ogDescription": "gm & welcome to the GM Farcaster Network. GM Farcaster with @adrienne & @nounishprof streaming 8:30 am ET Monday/Wednesday/Friday with replay 11:30 am ET. See Unlonely calendar for other network shows."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9c2b5fae",
+    "url": "https://warpcast.com/v/0x9c2b5fae",
+    "author_username": "v",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-07-08T23:50:57.000Z",
+    "text": "FIP: Reduce Storage Limits\n\n@wazzymandias.eth's proposal is up for review. it reduces the # of casts, links and reactions per storage unit to help hubs scale. \n\nhttps://github.com/farcasterxyz/protocol/discussions/189",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8d2d5264-3190-4c52-b529-dd689f7bd300/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 338146,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1918,
+            "height_px": 1664
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8cf09e6f",
+    "url": "https://warpcast.com/dwr.eth/0x8cf09e6f",
+    "author_username": "dwr.eth",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-07-08T23:53:00.000Z",
+    "text": "\"I use all my reaction storage but very little of my cast storage. Can storage units be flexible?\"\n\n> Flexible storage units are very tricky to implement with a good UX. There are many problems, but the most pressing one is what to do when you’ve exceeded the limit and send a new message. The only solution with our eventually consistent network is to prune the oldest message, irrespective of type. This means that if you run out of space and like something, the first person you followed may get unfollowed, which is really bad. There is no easy solution to this problem.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x9c2b5fae3c56685794f49e6d1f2b9cd0e3a7efe0"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x9c2b5fae3c56685794f49e6d1f2b9cd0e3a7efe0",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9c2b5fae3c56685794f49e6d1f2b9cd0e3a7efe0",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "FIP: Reduce Storage Limits\n\n@wazzymandias.eth's proposal is up for review. it reduces the # of casts, links and reactions per storage unit to help hubs scale. \n\nhttps://github.com/farcasterxyz/protocol/discussions/189",
+          "timestamp": "2024-07-08T23:50:57.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8d2d5264-3190-4c52-b529-dd689f7bd300/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 338146,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1918,
+                  "height_px": 1664
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-updates",
+            "name": "fc-updates",
+            "image_url": "https://i.imgur.com/YnnrPaH.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7dfcb1e2",
+    "url": "https://warpcast.com/wazzymandias.eth/0x7dfcb1e2",
+    "author_username": "wazzymandias.eth",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 8379,
+    "author_pfp": "https://i.imgur.com/lqrvqvM.jpg",
+    "cast_date": "2024-07-10T01:01:16.000Z",
+    "text": "Hub release 1.13.6 is out: https://github.com/farcasterxyz/hub-monorepo/releases\n\nIn addition to bug fixes and quality of life improvements, please note: there are NO rewards for running a hub\n\nWe recommend running Hubs if you're building an app, need access to the latest data or want to help decentralize the network",
+    "embeds": [
+      {
+        "url": "https://github.com/farcasterxyz/hub-monorepo/releases",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "/farcasterxyz/hub-monorepo/releases",
+            "ogType": "object",
+            "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+            "ogImage": [
+              {
+                "alt": "Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster - farcasterxyz/hub-monorepo",
+                "url": "https://opengraph.githubassets.com/1fb8686715bf8ad4401c136e10bc13e5ca9c1801edb1f76f1f0516cc3ef339a7/farcasterxyz/hub-monorepo",
+                "width": "1200",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "Releases · farcasterxyz/hub-monorepo",
+            "ogLocale": "en",
+            "ogSiteName": "GitHub",
+            "ogDescription": "Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster - farcasterxyz/hub-monorepo"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe4780508",
+    "url": "https://warpcast.com/dwr.eth/0xe4780508",
+    "author_username": "dwr.eth",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-07-10T01:08:24.000Z",
+    "text": "Please spread the word: there are 0 economic rewards—currently or in the future—for running a Hub.\n\nOnly run a Hub if you:\n1. Find it fun\n2. Find it useful for your project or your business\n\nThere's no surprise or gotcha that comes later.\n\nAll of the YouTube video tutorials are lying to you about a potential reward.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 8379,
+          "hash": "0x7dfcb1e2a1116f5ca9d2e32c7a9a95e214ec93d9"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7dfcb1e2a1116f5ca9d2e32c7a9a95e214ec93d9",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 8379,
+            "username": "wazzymandias.eth",
+            "display_name": "Wasif Iqbal",
+            "pfp_url": "https://i.imgur.com/lqrvqvM.jpg",
+            "custody_address": "0xf1f3d8077dae5e46ad89c30b588acc417c67a968"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7dfcb1e2a1116f5ca9d2e32c7a9a95e214ec93d9",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/hubs",
+          "root_parent_url": "https://warpcast.com/~/channel/hubs",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Hub release 1.13.6 is out: https://github.com/farcasterxyz/hub-monorepo/releases\n\nIn addition to bug fixes and quality of life improvements, please note: there are NO rewards for running a hub\n\nWe recommend running Hubs if you're building an app, need access to the latest data or want to help decentralize the network",
+          "timestamp": "2024-07-10T01:01:16.000Z",
+          "embeds": [
+            {
+              "url": "https://github.com/farcasterxyz/hub-monorepo/releases",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "/farcasterxyz/hub-monorepo/releases",
+                  "ogType": "object",
+                  "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+                  "ogImage": [
+                    {
+                      "alt": "Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster - farcasterxyz/hub-monorepo",
+                      "url": "https://opengraph.githubassets.com/1fb8686715bf8ad4401c136e10bc13e5ca9c1801edb1f76f1f0516cc3ef339a7/farcasterxyz/hub-monorepo",
+                      "width": "1200",
+                      "height": "600"
+                    }
+                  ],
+                  "ogTitle": "Releases · farcasterxyz/hub-monorepo",
+                  "ogLocale": "en",
+                  "ogSiteName": "GitHub",
+                  "ogDescription": "Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster - farcasterxyz/hub-monorepo"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "hubs",
+            "name": "hubs",
+            "image_url": "https://i.imgur.com/yxbFcHk.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd6eac672",
+    "url": "https://warpcast.com/adrienne/0xd6eac672",
+    "author_username": "adrienne",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-07-10T01:17:03.000Z",
+    "text": "Will add to our important announcements on /gmfarcaster 🔊🔊🔊\n\nCc @nounishprof \n\nSee also: \nwarps do not fluctuate in value \n\nThere is no farcaster token \n\nCast in channels",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0bd9c0ec",
+    "url": "https://warpcast.com/v/0x0bd9c0ec",
+    "author_username": "v",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-07-08T23:46:00.000Z",
+    "text": "Some quality of life improvements for search\n\n1. Type \"in: <channel>\" to find casts with hello in that channel \n\n2. Type \"from: <username> hello\" to find casts with hello from that user",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3c4df511",
+    "url": "https://warpcast.com/dwr.eth/0x3c4df511",
+    "author_username": "dwr.eth",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-07-08T20:21:02.000Z",
+    "text": "Improvement for Warpcast web DC composer auto-complete\n\n- Will only show users in the chat\n- If you keep typing a username, will indicate that the user isn't in the group\n- Fuzzy search by username and display name\n- Keyboard shortcuts (up / down arrows)\n- Improved full-width design",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4b83ad52-4716-438e-5108-328f0c6c9300/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 111241,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1232,
+            "height_px": 698
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4a76c8ae",
+    "url": "https://warpcast.com/dwr.eth/0x4a76c8ae",
+    "author_username": "dwr.eth",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-07-08T21:25:57.000Z",
+    "text": "https://frames.weponder.io/api/polls/3247/frame",
+    "embeds": [
+      {
+        "url": "https://frames.weponder.io/api/polls/3247/frame",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 483,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://frames.weponder.io/api/polls/3247/img"
+              }
+            ],
+            "ogTitle": "Do you consider replies with tips spam?",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2fed8695",
+    "url": "https://warpcast.com/dwr.eth/0x2fed8695",
+    "author_username": "dwr.eth",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-07-08T21:55:34.000Z",
+    "text": "50% of people think tips are spammy sometimes. 10% always.\n\nWonder if there is a better convention that allows Farcaster clients to better classify / collapse tips into a more useful UX for those that want to see them and hidden for those that don't want them.\n\nParsing $[token] replies with some regexes could work but a bit naive.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x4a76c8ae11fc537c6d1ebda9197a5f30fad7d2c6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4a76c8ae11fc537c6d1ebda9197a5f30fad7d2c6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4a76c8ae11fc537c6d1ebda9197a5f30fad7d2c6",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "https://frames.weponder.io/api/polls/3247/frame",
+          "timestamp": "2024-07-08T21:25:57.000Z",
+          "embeds": [
+            {
+              "url": "https://frames.weponder.io/api/polls/3247/frame",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": 483,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogImage": [
+                    {
+                      "url": "https://frames.weponder.io/api/polls/3247/img"
+                    }
+                  ],
+                  "ogTitle": "Do you consider replies with tips spam?",
+                  "ogLocale": "en"
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcb4ac91d",
+    "url": "https://warpcast.com/links/0xcb4ac91d",
+    "author_username": "links",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xc71c2fab",
+    "url": "https://warpcast.com/dwr.eth/0xc71c2fab",
+    "author_username": "dwr.eth",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-07-08T22:31:21.000Z",
+    "text": "For those saying \"just mute\" — consumer products work at-scale because of smart defaults.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x2fed8695f77dbc5fd5b0c2758d5d25d5c48087d1"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x2fed8695f77dbc5fd5b0c2758d5d25d5c48087d1",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x2fed8695f77dbc5fd5b0c2758d5d25d5c48087d1",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "50% of people think tips are spammy sometimes. 10% always.\n\nWonder if there is a better convention that allows Farcaster clients to better classify / collapse tips into a more useful UX for those that want to see them and hidden for those that don't want them.\n\nParsing $[token] replies with some regexes could work but a bit naive.",
+          "timestamp": "2024-07-08T21:55:34.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 3,
+                "hash": "0x4a76c8ae11fc537c6d1ebda9197a5f30fad7d2c6"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x4a76c8ae11fc537c6d1ebda9197a5f30fad7d2c6",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7c82cffe",
+    "url": "https://warpcast.com/dwr.eth/0x7c82cffe",
+    "author_username": "dwr.eth",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-07-08T15:58:24.000Z",
+    "text": "Looking for feedback from cast / composer action developers\n\n1. What do you wish was better about this page?\n\n2. Examples of other places that do \"discovery\" well?\n\nhttps://warpcast.com/~/discover-actions",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9ad5be71-37d6-495c-7e13-b5a6d3658300/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 306519,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1270,
+            "height_px": 1372
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x872f30e3",
+    "url": "https://warpcast.com/dwr.eth/0x872f30e3",
+    "author_username": "dwr.eth",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-07-10T00:17:37.000Z",
+    "text": "Sent $100 in USDC to @wavewarriors and @crystalhearts!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xe35b7b53e3fea1792f4448fa5f3cec2372eda794"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe35b7b53e3fea1792f4448fa5f3cec2372eda794",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe35b7b53e3fea1792f4448fa5f3cec2372eda794",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "If anyone runs or knows of a 501(c)(3) charity willing to:\n\n1. Set up a Farcaster profile\n2. Connect an Ethereum address\n3. Accept donations in USDC on @base.base.eth via Pay on Warpcast\n\nWould be happy to feature them in some marketing and I'll personally donate the first $100.",
+          "timestamp": "2024-07-09T15:20:13.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7d195f5e",
+    "url": "https://warpcast.com/rachelw/0x7d195f5e",
+    "author_username": "rachelw",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 14396,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmfMJyNCATvCnXrchAuNvLzxatRpRSYPnsUfaHF17RF46U?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2024-07-10T00:56:31.000Z",
+    "text": "Ok, this is awesome! 🎉\n\nThanks to @dwr.eth for giving @wavewarriors some funds and love! We appreciate it so much. 🐋\n\nWave Warriors is doing incredible work, and @breadcat and I have been working closely with them to develop levers for on-chain fundraising. \n\nWe’re aiming to onboard 25 non-profits to Farcaster by the end of July 🚀\n\nYou can learn more about our mission at sendhalp.xyz and /halp",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x872f30e350b07e7db827ef5482c1783edf58399a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x872f30e350b07e7db827ef5482c1783edf58399a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x872f30e350b07e7db827ef5482c1783edf58399a",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Sent $100 in USDC to @wavewarriors and @crystalhearts!",
+          "timestamp": "2024-07-10T00:17:37.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 3,
+                "hash": "0xe35b7b53e3fea1792f4448fa5f3cec2372eda794"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xe35b7b53e3fea1792f4448fa5f3cec2372eda794",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "http://sendhalp.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "Halp | OnChain Giving made Easy",
+            "ogLocale": "en",
+            "ogDescription": "SendHalp.xyz"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbad6d643",
+    "url": "https://warpcast.com/v/0xbad6d643",
+    "author_username": "v",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-07-09T19:14:36.000Z",
+    "text": "Excited to welcome @gabrielayuso.eth to the team!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 834,
+          "hash": "0x9b12fff7f9ba5845092a41a47f38f8822fff5f1c"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x9b12fff7f9ba5845092a41a47f38f8822fff5f1c",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 834,
+            "username": "gabrielayuso.eth",
+            "display_name": "Gabriel Ayuso",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0a4721e1-7694-44c0-f120-4eec4f747300/original",
+            "custody_address": "0xf8381127c3bec4162f7fceaf13709c249b8b87e2"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9b12fff7f9ba5845092a41a47f38f8822fff5f1c",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "UPDATE:\n\nI've been meaning to write a post about this but I haven't given myself the time to do so. Therefore, I'll share it quickly in a cast.\n\nYesterday was my first day working full-time on /warpcast at Merkle Manufactory.\n\nFarcaster is directionally how I want the decentralized web to evolve.\n\nThere is no better app and better team to work with to push the future of decentralized web forward. So I've decided to join them on this journey.\n\nLooking forward to helping grow Farcaster and make Warpcast better for everyone!",
+          "timestamp": "2024-07-09T19:05:00.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9b12fff7",
+    "url": "https://warpcast.com/gabrielayuso.eth/0x9b12fff7",
+    "author_username": "gabrielayuso.eth",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 834,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0a4721e1-7694-44c0-f120-4eec4f747300/original",
+    "cast_date": "2024-07-09T19:05:00.000Z",
+    "text": "UPDATE:\n\nI've been meaning to write a post about this but I haven't given myself the time to do so. Therefore, I'll share it quickly in a cast.\n\nYesterday was my first day working full-time on /warpcast at Merkle Manufactory.\n\nFarcaster is directionally how I want the decentralized web to evolve.\n\nThere is no better app and better team to work with to push the future of decentralized web forward. So I've decided to join them on this journey.\n\nLooking forward to helping grow Farcaster and make Warpcast better for everyone!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe4e0ae03",
+    "url": "https://warpcast.com/matthew/0xe4e0ae03",
+    "author_username": "matthew",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 473,
+    "author_pfp": "https://i.imgur.com/uwD4rUh.jpg",
+    "cast_date": "2024-07-09T17:30:13.000Z",
+    "text": "I'm excited to finally share the new release of eventcaster! full update list below, but TLDR:\n\n⚡️ 10x better event creation flow\n⚡️ Faster, simpler, and cleaner event frame\n⚡️ Composer action — make events right in Warpcast!\n⚡️ A new events.xyz, focused on seeing what your friends are going to",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x636965cd",
+    "url": "https://warpcast.com/matthew/0x636965cd",
+    "author_username": "matthew",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 473,
+    "author_pfp": "https://i.imgur.com/uwD4rUh.jpg",
+    "cast_date": "2024-07-09T23:25:24.000Z",
+    "text": "1️⃣ add cal subscription (guide below)\n2️⃣ rsvp to events in feed with 1 tap\n3️⃣ events add + update automatically in your cal\n\n➡️ events.xyz/calendar\n\nstay tuned for an easier way to do this!",
+    "embeds": [
+      {
+        "url": "http://events.xyz/calendar",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/calendar.png",
+                "type": "png"
+              },
+              {
+                "url": "https://eventcaster-d2atjl81y-eventsxyz.vercel.app/calendar.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Eventcaster Subscription",
+            "ogLocale": "en",
+            "ogDescription": "RSVP in the feed and events show up automatically on your calendar."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0aeafb8f",
+    "url": "https://warpcast.com/matthew/0x0aeafb8f",
+    "author_username": "matthew",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 473,
+    "author_pfp": "https://i.imgur.com/uwD4rUh.jpg",
+    "cast_date": "2024-07-10T02:01:05.000Z",
+    "text": "easily add *all* your eventcaster rsvps to your calendar, right from a frame.\n\n1️⃣ tap below and pick apple or google calendar (finally!)\n2️⃣ rsvp to events right from your feed\n3️⃣ events add + update in your calendar automatically\n\nhttps://events.xyz/calendar",
+    "embeds": [
+      {
+        "url": "https://events.xyz/calendar",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/calendar.png",
+                "type": "png"
+              },
+              {
+                "url": "https://eventcaster-d2atjl81y-eventsxyz.vercel.app/calendar.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Eventcaster Subscription",
+            "ogLocale": "en",
+            "ogDescription": "RSVP in the feed and events show up automatically on your calendar."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x024b18b9",
+    "url": "https://warpcast.com/matthew/0x024b18b9",
+    "author_username": "matthew",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 473,
+    "author_pfp": "https://i.imgur.com/uwD4rUh.jpg",
+    "cast_date": "2024-07-09T22:43:54.000Z",
+    "text": "poap 🤝 farcaster events\n\nlmk if you want to turn it on for your next event!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 16041,
+          "hash": "0xc137a82622eb4ff16acb2f6ae303001c4a79d213"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc137a82622eb4ff16acb2f6ae303001c4a79d213",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 16041,
+            "username": "iz",
+            "display_name": "isabel.eth ",
+            "pfp_url": "https://i.imgur.com/gCJ7fD7.jpg",
+            "custody_address": "0x40908000ef127d5d029f475984b5736d68db36ad"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x973d2ceb3aedc7d65ea526d713012c9cfb074a60",
+          "parent_hash": "0x973d2ceb3aedc7d65ea526d713012c9cfb074a60",
+          "parent_url": null,
+          "root_parent_url": "chain://eip155:1/erc721:0xfdd5e7949bd72c95907c46a630d2c791f0e842c6",
+          "parent_author": {
+            "fid": 16567
+          },
+          "text": "PSA: the @eventsxyz app now has a POAP integration, h/t @matthew .",
+          "timestamp": "2024-07-09T21:44:11.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "new-york",
+            "name": "NYC",
+            "image_url": "https://i.seadn.io/gcs/files/48399e13b30e401d90c3c61a0065e02a.png?auto=format&dpr=1&w=512"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd84b9385",
+    "url": "https://warpcast.com/matthew/0xd84b9385",
+    "author_username": "matthew",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 473,
+    "author_pfp": "https://i.imgur.com/uwD4rUh.jpg",
+    "cast_date": "2024-07-09T23:20:28.000Z",
+    "text": "you can do #2 right now with @event... add your link as the location, and anyone who signs up will get a DC about it at the date and time you set!\n\nfastest way to \"save the date\" on farcaster",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/821be649-550f-421f-4588-565b4c1f5700/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 97585,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 914,
+            "height_px": 1004
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xd136aa6a95655c9a71533ed2c27401ab44505c84"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd136aa6a95655c9a71533ed2c27401ab44505c84",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd136aa6a95655c9a71533ed2c27401ab44505c84",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-devs",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-devs",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "1/2 A few composer action ideas\n\n1. Gated polls based on criteria — you can only vote if...\n    a. Onchain activity — age of wallet, token balance, holding an NFT\n    b. Farcaster activity — age of account, # of followers, OpenRank or Power Badge\n\n2. Remind me — useful for live virtual events like Farhouse, Unlonely, /tabletop game night; creates a frame with a single button to remind the user via a programmatic DC 1 hour or 15 minutes before event is live\n\n3. Waitlist — useful for building excitement about a consumer app launch; creates a frame with single button to join the wailist; admin UI is a table of FIDs and relevant metrics, ability to invite users to the app via a programmatic DC\n\n4. Prop bet — creates a frame with a description, $ amount, odds and resolver (i.e. 3rd party who decides who won the bet) for a prop bet against the caster. Transaction on Base in USDC? Degen?",
+          "timestamp": "2024-07-09T19:51:08.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-devs",
+            "name": "Farcaster Devs",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a0a4802-6819-47ee-2c3b-29b681d7c500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf80d7e58",
+    "url": "https://warpcast.com/jacek/0xf80d7e58",
+    "author_username": "jacek",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 15983,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+    "cast_date": "2024-07-09T20:48:50.000Z",
+    "text": "1/3 Hey Degens! We’ve just released the Degen Vault! Lock your tokens now to receive a tip allowance starting July 11th, UTC. https://www.degen.tips/airdrop2/current",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1a85ee79-06e8-40be-e404-8d4116f45c00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 213034,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1200,
+            "height_px": 740
+          }
+        }
+      },
+      {
+        "url": "https://www.degen.tips/airdrop2/current",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://i.imgur.com/BDBFLr0.jpg",
+                "type": "jpg"
+              },
+              {
+                "url": "https://i.imgur.com/WUIMxds.jpg",
+                "type": "jpg"
+              },
+              {
+                "url": "https://i.imgur.com/ukOl9QF.jpg",
+                "type": "jpg"
+              },
+              {
+                "url": "https://i.imgur.com/4w3iwbb.jpg",
+                "type": "jpg"
+              },
+              {
+                "url": "https://i.imgur.com/xq0l5cF.jpg",
+                "type": "jpg"
+              },
+              {
+                "url": "https://i.imgur.com/ZFVmb84.gif",
+                "type": "gif"
+              },
+              {
+                "url": "https://i.imgur.com/Em4h4xG.gif",
+                "type": "gif"
+              },
+              {
+                "url": "https://i.imgur.com/rBVUVrS.jpg",
+                "type": "jpg"
+              },
+              {
+                "url": "https://i.imgur.com/VGLQ6Di.jpg",
+                "type": "jpg"
+              },
+              {
+                "url": "https://i.imgur.com/88Qqtm0.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "Airdrop 2 | Degen",
+            "ogLocale": "en",
+            "ogDescription": "Earn points by posting on Farcaster!"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc3f345ab",
+    "url": "https://warpcast.com/tayzonday/0xc3f345ab",
+    "author_username": "tayzonday",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 768581,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3af05cce-3293-4735-65b0-0e6fc0923400/rectcrop3",
+    "cast_date": "2024-07-09T21:17:07.000Z",
+    "text": "I just made the same post on Farcaster (184 followers at time of post), Facebook (67,000 followers) and Threads (5,515 followers). After 1-2 hours:\n\nFarcaster= 8 replies / 24 Likes\nFacebook= 4 likes\nThreads= 5 likes\n\nMy actual reach on those platforms is just the tip of the Zuckerberg",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x22d83048",
+    "url": "https://warpcast.com/tayzonday/0x22d83048",
+    "author_username": "tayzonday",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 768581,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3af05cce-3293-4735-65b0-0e6fc0923400/rectcrop3",
+    "cast_date": "2024-07-09T19:59:57.000Z",
+    "text": "I truly realized I was in my 40s when I brushed my teeth with itch cream",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3fed9ae2-8bb7-4501-340b-1a3d3d350300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 612867,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3200,
+            "height_px": 2400
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x078723a7",
+    "url": "https://warpcast.com/six/0x078723a7",
+    "author_username": "six",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 7143,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/76301e92-5f13-4e72-cc12-c1e366163a00/original",
+    "cast_date": "2024-07-09T21:54:24.000Z",
+    "text": "I don't know what Chocolate Rain is and at this point i'm too afraid to ask",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf7e1f37c",
+    "url": "https://warpcast.com/yungwknd/0xf7e1f37c",
+    "author_username": "yungwknd",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 4632,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a512d43d-7874-4389-781a-5e600a9f9400/original",
+    "cast_date": "2024-07-09T22:00:00.000Z",
+    "text": "https://www.youtube.com/watch?v=EwTZ2xpQwpA",
+    "embeds": [
+      {
+        "url": "https://www.youtube.com/watch?v=EwTZ2xpQwpA",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x413b662a",
+    "url": "https://warpcast.com/jacy/0x413b662a",
+    "author_username": "jacy",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 2982,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63552b96-faf4-4480-7775-a93631aaa100/original",
+    "cast_date": "2024-07-09T21:57:26.000Z",
+    "text": "The 3 years I was in law school was like a black hole. SO many cultural phenomenons happened that I was completely unaware of in my little legal bubble. \n\nI love discovering them randomly every now and then. Like today, when @tayzonday kept popping up on my feed. \n\nHad no clue who he was, but lots of folks were engaging so I did some google snooping and it turns out he had an insanely viral song that currently has 138 million views on YouTube.\n\nBut it came out in 2007 during my law school haze. So I never even heard of it. \n\nNow he's on Farcaster and I get to play catch up, so welcome to the purple app Tay! Aloha 🤙",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd83316cb",
+    "url": "https://warpcast.com/ronin234/0xd83316cb",
+    "author_username": "ronin234",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 665259,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8418fc08-986d-44ed-2eb6-6ed8e457e500/rectcrop3",
+    "cast_date": "2024-07-09T22:00:22.000Z",
+    "text": "Chocolate Rain is a popular internet video and song that gained widespread attention in the mid-2000s. It was created by musician and internet personality Tay Zonday, and features his deep, distinctive voice singing about social issues over a catchy, repetitive melody. The song's lyrics and music video address themes of racism and discrimination, and it quickly became a viral sensation, receiving millions of views on YouTube. Despite its somewhat unusual subject matter, Chocolate Rain has endured as a memorable piece of internet culture and remains a popular meme to this day.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4f2a2ef5",
+    "url": "https://warpcast.com/briang/0x4f2a2ef5",
+    "author_username": "briang",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 548,
+    "author_pfp": "https://i.seadn.io/gae/T1n8naiIITR2TKLlRyPHDEkKIRhO01WwsTJBfv1_YeUeVbtPnSlhe4MqWuYo0tMyDj9HWV3t3vJYBEKEHVeKHXYo4XIFxqSFfgEVbQ?w=500&auto=format",
+    "cast_date": "2024-07-08T14:42:50.000Z",
+    "text": "another day of building in @dwr.eth 's playground and keeping him happy.\nsome tips:\n- use the features he makes\n- post into channels\n- no bad vibes about farcaster\n- don't mention CCP\n- don't mention solana or anything non-evm based\n\nin exchange you get solid distribution",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4bd4ea05",
+    "url": "https://warpcast.com/briang/0x4bd4ea05",
+    "author_username": "briang",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 548,
+    "author_pfp": "https://i.seadn.io/gae/T1n8naiIITR2TKLlRyPHDEkKIRhO01WwsTJBfv1_YeUeVbtPnSlhe4MqWuYo0tMyDj9HWV3t3vJYBEKEHVeKHXYo4XIFxqSFfgEVbQ?w=500&auto=format",
+    "cast_date": "2024-07-09T16:03:58.000Z",
+    "text": "update: after threatening to nuke every single farcaster hub, dwr has reluctantly allowed me to keep my account",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 548,
+          "hash": "0x72c7ac49573d1e3256b89adc8628cf00b17f0782"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x72c7ac49573d1e3256b89adc8628cf00b17f0782",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 548,
+            "username": "briang",
+            "display_name": "brian is live on unlonely",
+            "pfp_url": "https://i.seadn.io/gae/T1n8naiIITR2TKLlRyPHDEkKIRhO01WwsTJBfv1_YeUeVbtPnSlhe4MqWuYo0tMyDj9HWV3t3vJYBEKEHVeKHXYo4XIFxqSFfgEVbQ?w=500&auto=format",
+            "custody_address": "0xd50e2d83924d46c81d5c391ca04fd8b14fdad254"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x72c7ac49573d1e3256b89adc8628cf00b17f0782",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/bad-takes",
+          "root_parent_url": "https://warpcast.com/~/channel/bad-takes",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "this might be my last cast as im currently talking to dwr and hes thinking of permabanning me from warpcast\nif you never hear from me again, you know what happened",
+          "timestamp": "2024-07-09T03:37:22.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "bad-takes",
+            "name": "bad-takes",
+            "image_url": "https://i.imgur.com/iMPXYvM.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xad65d087",
+    "url": "https://warpcast.com/christin/0xad65d087",
+    "author_username": "christin",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 15850,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bd90b57-732c-445b-4670-00040e540100/original",
+    "cast_date": "2024-07-09T17:57:35.000Z",
+    "text": "status as a service or freedom to dissent?\n\njoin us as we explore the delicate balance between convenience and censorship, and uncover the hidden social dynamics shaping our digital landscape\n\nhttps://zora.co/collect/base:0xe203c94650f60c9ae3e2c373de8e1c7b0b7e1c85/11/frames",
+    "embeds": [
+      {
+        "url": "https://zora.co/collect/base:0xe203c94650f60c9ae3e2c373de8e1c7b0b7e1c85/11/frames?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x28a443b4",
+    "url": "https://warpcast.com/christin/0x28a443b4",
+    "author_username": "christin",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 15850,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bd90b57-732c-445b-4670-00040e540100/original",
+    "cast_date": "2024-07-10T00:17:37.000Z",
+    "text": "guess who is in the top 10 for top 500 active streaks 😂",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ae818895-3c3e-4f5e-472b-c5dabad1da00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 391895,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1990,
+            "height_px": 1352
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf3761dad",
+    "url": "https://warpcast.com/adrienne/0xf3761dad",
+    "author_username": "adrienne",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-06-28T20:16:30.000Z",
+    "text": "My 2nd submission for the /writinghackathon \n\nWhy I love Farcaster  - my personal account of how and why I became a daily active user",
+    "embeds": [
+      {
+        "url": "https://paragraph.xyz/@adrienne/why-i-love-farcaster",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2024-06-28T20:13:50.750Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/c39028c21d26d17755801d29525ad072.png",
+            "ogImage": [
+              {
+                "alt": "Why I love Farcaster",
+                "url": "https://storage.googleapis.com/papyrus_images/ac793af472f08021b62ab7ecbeacc188.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Why I love Farcaster",
+            "ogLocale": "en",
+            "ogDescription": "Farcaster is new-ish social network built on the Ethereum blockchain. I joined in November 2022 and instantly became a daily active user.&nbsp; Most ...",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@adrienne/why-i-love-farcaster?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Why%20I%20love%20Farcaster&blogName=adriennetenger&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fc39028c21d26d17755801d29525ad072.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fac793af472f08021b62ab7ecbeacc188.jpg&size=2048&publishedDate=1719605630750"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Why%20I%20love%20Farcaster&blogName=adriennetenger&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fc39028c21d26d17755801d29525ad072.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fac793af472f08021b62ab7ecbeacc188.jpg&size=2048&publishedDate=1719605630750",
+            "frames_url": "https://paragraph.xyz/@adrienne/why-i-love-farcaster",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGgueHl6In0",
+                "signature": "MHg5YmQ4MDcxNmVmNjIwZTFjM2UwZDkzMzQ5ZDNlNTU5N2MzYmU3NzQ2MDJmYTliZmE1Zjg2Mzk3Y2QxZTk4MGExM2RmNDVmMDM2ODE5Y2FhZmZiZmE5MTMxN2U3MGRlYWRlYTI2YWUzMTA2N2I1NDNiMTFkZDI3ODk3NzQ3ZWI5YjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb755d778",
+    "url": "https://warpcast.com/keccers.eth/0xb755d778",
+    "author_username": "keccers.eth",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x9d5c7327",
+    "url": "https://warpcast.com/ted/0x9d5c7327",
+    "author_username": "ted",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2024-07-09T19:45:39.000Z",
+    "text": "there are many of us here betting our careers, our brands, and our futures on decentralized social winning — but how does it compare to web2 social and why does this matter?\n\njoin @geoffgolberg (iykyk), @coinbrad.eth (ex tiktok, lens) and me tmrw @ 9am PT to discuss :)\n\nmobile.farhouse.club/s/geoffgolberg/1971",
+    "embeds": [
+      {
+        "url": "https://frame.farhouse.club/frames/schedule?roomId=laq-twdu-flu",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://frame.farhouse.club/?jsx=%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22w-full+h-full+flex+p-12%22%2C%22style%22%3A%7B%22backgroundImage%22%3A%22url%28%27https%3A%2F%2Fdy95p8aq490x0.cloudfront.net%2Fog-medium-bg.png%27%29%22%7D%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+w-full+items-center+justify-between+h-full%22%2C%22children%22%3A%5B%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-col+h-full+w-full+justify-between%22%2C%22children%22%3A%5B%7B%22type%22%3A%22svg%22%2C%22props%22%3A%7B%22width%22%3A%22186%22%2C%22height%22%3A%2254%22%2C%22viewBox%22%3A%220+0+186+54%22%2C%22fill%22%3A%22none%22%2C%22xmlns%22%3A%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%2C%22children%22%3A%5B%7B%22type%22%3A%22g%22%2C%22props%22%3A%7B%22clip-path%22%3A%22url%28%23clip0_11_770%29%22%2C%22children%22%3A%5B%7B%22type%22%3A%22path%22%2C%22props%22%3A%7B%22d%22%3A%22M42.25+0H12.25C5.62258+0+0.25+5.37258+0.25+12V42C0.25+48.6274+5.62258+54+12.25+54H42.25C48.8774+54+54.25+48.6274+54.25+42V12C54.25+5.37258+48.8774+0+42.25+0Z%22%2C%22fill%22%3A%22%237D64C0%22%7D%7D%2C%7B%22type%22%3A%22g%22%2C%22props%22%3A%7B%22filter%22%3A%22url%28%23filter0_dddddi_11_770%29%22%2C%22children%22%3A%5B%7B%22type%22%3A%22path%22%2C%22props%22%3A%7B%22d%22%3A%22M15.8582+19.2173C15.8582+18.3902+15.1877+17.7197+14.3606+17.7197C13.5335+17.7197+12.863+18.3902+12.863+19.2173V24.2093C12.863+31.6989+18.5506+37.8602+25.8422+38.6096V42.6797H21.3494C20.5223+42.6797+19.8518+43.3502+19.8518+44.1773C19.8518+45.0044+20.5223+45.6749+21.3494+45.6749H33.3302C34.1573+45.6749+34.8278+45.0044+34.8278+44.1773C34.8278+43.3502+34.1573+42.6797+33.3302+42.6797H28.8374V38.6096C36.1291+37.8602+41.8166+31.6989+41.8166+24.2093V19.2173C41.8166+18.3902+41.1461+17.7197+40.319+17.7197C39.4919+17.7197+38.8214+18.3902+38.8214+19.2173V24.2093C38.8214+30.5504+33.6809+35.6909+27.3398+35.6909C20.9987+35.6909+15.8582+30.5504+15.8582+24.2093V19.2173Z%22%2C%22fill%22%3A%22white%22%7D%7D%2C%7B%22type%22%3A%22path%22%2C%22props%22%3A%7B%22fill-rule%22%3A%22evenodd%22%2C%22clip-rule%22%3A%22evenodd%22%2C%22d%22%3A%22M19.3526+16.2221C19.3526+11.8109+22.9286+8.23489+27.3398+8.23489C31.751+8.23489+35.327+11.8109+35.327+16.2221V24.2093C35.327+28.6205+31.751+32.1965+27.3398+32.1965C22.9286+32.1965+19.3526+28.6205+19.3526+24.2093V16.2221ZM27.3481+21.2911C26.6004+21.2857+25.812+21.3932+24.7071+21.6688C23.9046+21.869+23.0918+21.3807+22.8916+20.5782C22.6914+19.7757+23.1796+18.9628+23.9821+18.7626C25.2384+18.4492+26.2899+18.2882+27.3694+18.2959C28.4425+18.3036+29.4724+18.4778+30.674+18.757C31.4796+18.9442+31.981+19.749+31.7938+20.5546C31.6066+21.3603+30.8017+21.8616+29.9961+21.6745C28.887+21.4168+28.1022+21.2964+27.3481+21.2911ZM26.651+26.6729C27.2095+26.5549+27.4438+26.5581+28.0494+26.6771C28.861+26.8367+29.6482+26.3081+29.8078+25.4966C29.9673+24.685+29.4388+23.8977+28.6272+23.7382C27.6739+23.5507+27.0297+23.5316+26.032+23.7424C25.2227+23.9133+24.7053+24.7079+24.8762+25.5172C25.0472+26.3264+25.8418+26.8439+26.651+26.6729Z%22%2C%22fill%22%3A%22white%22%7D%7D%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22path%22%2C%22props%22%3A%7B%22d%22%3A%22M71.449+35.6891C70.981+35.6891+70.612+35.5631+70.342+35.3111C70.09+35.0591+69.964+34.6901+69.964+34.2041V17.9771C69.964+17.4911+70.09+17.1221+70.342+16.8701C70.612+16.6001+70.99+16.4651+71.476+16.4651H81.088C81.484+16.4651+81.772+16.5641+81.952+16.7621C82.15+16.9421+82.249+17.2121+82.249+17.5721C82.249+17.9501+82.15+18.2381+81.952+18.4361C81.772+18.6341+81.484+18.7331+81.088+18.7331H72.772V24.8081H80.548C80.908+24.8081+81.187+24.9071+81.385+25.1051C81.601+25.2851+81.709+25.5551+81.709+25.9151C81.709+26.2931+81.601+26.5811+81.385+26.7791C81.187+26.9771+80.908+27.0761+80.548+27.0761H72.772V34.2041C72.772+35.1941+72.331+35.6891+71.449+35.6891ZM88.3019+35.7431C87.3839+35.7431+86.5559+35.5631+85.8179+35.2031C85.0979+34.8431+84.5309+34.3571+84.1169+33.7451C83.7029+33.1331+83.4959+32.4401+83.4959+31.6661C83.4959+30.6941+83.7389+29.9291+84.2249+29.3711C84.7289+28.7951+85.5479+28.3901+86.6819+28.1561C87.8339+27.9041+89.3819+27.7781+91.3259+27.7781H92.5949V29.4521H91.3529C90.0569+29.4521+89.0309+29.5151+88.2749+29.6411C87.5189+29.7671+86.9789+29.9831+86.6549+30.2891C86.3489+30.5771+86.1959+30.9821+86.1959+31.5041C86.1959+32.1881+86.4299+32.7461+86.8979+33.1781C87.3659+33.5921+88.0139+33.7991+88.8419+33.7991C89.5079+33.7991+90.0929+33.6461+90.5969+33.3401C91.1009+33.0161+91.4969+32.5841+91.7849+32.0441C92.0909+31.5041+92.2439+30.8831+92.2439+30.1811V27.0761C92.2439+26.0501+92.0279+25.3121+91.5959+24.8621C91.1639+24.4121+90.4529+24.1871+89.4629+24.1871C88.8869+24.1871+88.2839+24.2591+87.6539+24.4031C87.0419+24.5471+86.4029+24.7901+85.7369+25.1321C85.4309+25.2761+85.1699+25.3211+84.9539+25.2671C84.7379+25.2131+84.5669+25.0961+84.4409+24.9161C84.3149+24.7181+84.2429+24.5111+84.2249+24.2951C84.2249+24.0611+84.2789+23.8361+84.3869+23.6201C84.5129+23.4041+84.7199+23.2421+85.0079+23.1341C85.7999+22.7561+86.5829+22.4861+87.3569+22.3241C88.1309+22.1621+88.8599+22.0811+89.5439+22.0811C90.7499+22.0811+91.7399+22.2701+92.5139+22.6481C93.3059+23.0261+93.8909+23.6021+94.2689+24.3761C94.6469+25.1501+94.8359+26.1491+94.8359+27.3731V34.3121C94.8359+34.7441+94.7279+35.0861+94.5119+35.3381C94.2959+35.5721+93.9809+35.6891+93.5669+35.6891C93.1709+35.6891+92.8559+35.5721+92.6219+35.3381C92.3879+35.0861+92.2709+34.7441+92.2709+34.3121V32.5571H92.5139C92.3699+33.2231+92.0999+33.7991+91.7039+34.2851C91.3259+34.7531+90.8489+35.1131+90.2729+35.3651C89.6969+35.6171+89.0399+35.7431+88.3019+35.7431ZM99.9688+35.6891C99.5188+35.6891+99.1768+35.5721+98.9428+35.3381C98.7088+35.0861+98.5918+34.7441+98.5918+34.3121V23.5121C98.5918+23.0621+98.7088+22.7201+98.9428+22.4861C99.1768+22.2521+99.5008+22.1351+99.9148+22.1351C100.347+22.1351+100.671+22.2521+100.887+22.4861C101.121+22.7201+101.238+23.0621+101.238+23.5121V25.4831H100.968C101.256+24.4031+101.787+23.5841+102.561+23.0261C103.335+22.4681+104.325+22.1441+105.531+22.0541C105.855+22.0361+106.107+22.1171+106.287+22.2971C106.485+22.4771+106.593+22.7561+106.611+23.1341C106.647+23.5121+106.566+23.8181+106.368+24.0521C106.17+24.2681+105.864+24.3941+105.45+24.4301L104.937+24.4841C103.767+24.5921+102.876+24.9611+102.264+25.5911C101.652+26.2211+101.346+27.0851+101.346+28.1831V34.3121C101.346+34.7441+101.229+35.0861+100.995+35.3381C100.779+35.5721+100.437+35.6891+99.9688+35.6891ZM110.365+35.6891C109.915+35.6891+109.564+35.5631+109.312+35.3111C109.078+35.0591+108.961+34.7081+108.961+34.2581V17.7071C108.961+17.2391+109.078+16.8881+109.312+16.6541C109.564+16.4021+109.915+16.2761+110.365+16.2761C110.815+16.2761+111.157+16.4021+111.391+16.6541C111.643+16.8881+111.769+17.2391+111.769+17.7071V24.6731H122.434V17.7071C122.434+17.2391+122.551+16.8881+122.785+16.6541C123.037+16.4021+123.388+16.2761+123.838+16.2761C124.288+16.2761+124.63+16.4021+124.864+16.6541C125.098+16.8881+125.215+17.2391+125.215+17.7071V34.2581C125.215+34.7081+125.098+35.0591+124.864+35.3111C124.63+35.5631+124.288+35.6891+123.838+35.6891C123.388+35.6891+123.037+35.5631+122.785+35.3111C122.551+35.0591+122.434+34.7081+122.434+34.2581V27.0221H111.769V34.2581C111.769+34.7081+111.652+35.0591+111.418+35.3111C111.184+35.5631+110.833+35.6891+110.365+35.6891ZM135.086+35.7431C133.754+35.7431+132.602+35.4641+131.63+34.9061C130.676+34.3481+129.929+33.5561+129.389+32.5301C128.849+31.5041+128.579+30.2981+128.579+28.9121C128.579+27.8501+128.732+26.9051+129.038+26.0771C129.344+25.2491+129.776+24.5381+130.334+23.9441C130.91+23.3321+131.594+22.8731+132.386+22.5671C133.196+22.2431+134.096+22.0811+135.086+22.0811C136.4+22.0811+137.534+22.3601+138.488+22.9181C139.46+23.4761+140.216+24.2681+140.756+25.2941C141.296+26.3021+141.566+27.5081+141.566+28.9121C141.566+29.9561+141.413+30.9011+141.107+31.7471C140.801+32.5931+140.36+33.3131+139.784+33.9071C139.226+34.5011+138.542+34.9601+137.732+35.2841C136.94+35.5901+136.058+35.7431+135.086+35.7431ZM135.086+33.6371C135.824+33.6371+136.472+33.4571+137.03+33.0971C137.588+32.7371+138.02+32.2061+138.326+31.5041C138.65+30.8021+138.812+29.9381+138.812+28.9121C138.812+27.3641+138.47+26.1941+137.786+25.4021C137.102+24.6101+136.202+24.2141+135.086+24.2141C134.33+24.2141+133.673+24.3941+133.115+24.7541C132.557+25.0961+132.116+25.6181+131.792+26.3201C131.486+27.0221+131.333+27.8861+131.333+28.9121C131.333+30.4421+131.675+31.6121+132.359+32.4221C133.043+33.2321+133.952+33.6371+135.086+33.6371ZM149.327+35.7431C148.265+35.7431+147.374+35.5451+146.654+35.1491C145.952+34.7531+145.421+34.1681+145.061+33.3941C144.719+32.6021+144.548+31.6121+144.548+30.4241V23.5121C144.548+23.0441+144.665+22.7021+144.899+22.4861C145.133+22.2521+145.466+22.1351+145.898+22.1351C146.33+22.1351+146.663+22.2521+146.897+22.4861C147.149+22.7021+147.275+23.0441+147.275+23.5121V30.4511C147.275+31.5131+147.491+32.2961+147.923+32.8001C148.355+33.3041+149.039+33.5561+149.975+33.5561C151.001+33.5561+151.829+33.2141+152.459+32.5301C153.107+31.8281+153.431+30.9101+153.431+29.7761V23.5121C153.431+23.0441+153.548+22.7021+153.782+22.4861C154.016+22.2521+154.358+22.1351+154.808+22.1351C155.24+22.1351+155.573+22.2521+155.807+22.4861C156.041+22.7021+156.158+23.0441+156.158+23.5121V34.3121C156.158+35.2301+155.717+35.6891+154.835+35.6891C154.421+35.6891+154.097+35.5721+153.863+35.3381C153.629+35.0861+153.512+34.7441+153.512+34.3121V32.0171L153.863+32.6111C153.503+33.6191+152.927+34.3931+152.135+34.9331C151.343+35.4731+150.407+35.7431+149.327+35.7431ZM164.618+35.7431C163.826+35.7431+163.007+35.6531+162.161+35.4731C161.333+35.2931+160.568+34.9871+159.866+34.5551C159.632+34.3931+159.47+34.2131+159.38+34.0151C159.29+33.8171+159.254+33.6191+159.272+33.4211C159.308+33.2051+159.389+33.0251+159.515+32.8811C159.659+32.7191+159.83+32.6201+160.028+32.5841C160.244+32.5481+160.469+32.5931+160.703+32.7191C161.405+33.1151+162.08+33.3941+162.728+33.5561C163.376+33.7001+164.015+33.7721+164.645+33.7721C165.599+33.7721+166.319+33.6011+166.805+33.2591C167.291+32.9171+167.534+32.4581+167.534+31.8821C167.534+31.4141+167.372+31.0541+167.048+30.8021C166.724+30.5321+166.238+30.3251+165.59+30.1811L163.025+29.6681C161.909+29.4341+161.063+29.0201+160.487+28.4261C159.911+27.8321+159.623+27.0761+159.623+26.1581C159.623+25.3301+159.848+24.6101+160.298+23.9981C160.748+23.3861+161.378+22.9181+162.188+22.5941C162.998+22.2521+163.934+22.0811+164.996+22.0811C165.788+22.0811+166.535+22.1801+167.237+22.3781C167.939+22.5761+168.587+22.8731+169.181+23.2691C169.415+23.3951+169.568+23.5661+169.64+23.7821C169.712+23.9801+169.721+24.1781+169.667+24.3761C169.631+24.5741+169.541+24.7541+169.397+24.9161C169.253+25.0601+169.073+25.1501+168.857+25.1861C168.659+25.2041+168.434+25.1501+168.182+25.0241C167.642+24.6821+167.102+24.4391+166.562+24.2951C166.04+24.1511+165.518+24.0791+164.996+24.0791C164.042+24.0791+163.322+24.2591+162.836+24.6191C162.368+24.9611+162.134+25.4291+162.134+26.0231C162.134+26.4731+162.278+26.8421+162.566+27.1301C162.854+27.4181+163.304+27.6251+163.916+27.7511L166.481+28.2641C167.651+28.4981+168.533+28.8941+169.127+29.4521C169.739+30.0101+170.045+30.7661+170.045+31.7201C170.045+32.9621+169.55+33.9431+168.56+34.6631C167.57+35.3831+166.256+35.7431+164.618+35.7431ZM179.262+35.7431C177.822+35.7431+176.58+35.4731+175.536+34.9331C174.51+34.3751+173.709+33.5921+173.133+32.5841C172.575+31.5581+172.296+30.3431+172.296+28.9391C172.296+27.5711+172.575+26.3741+173.133+25.3481C173.691+24.3221+174.456+23.5211+175.428+22.9451C176.4+22.3691+177.507+22.0811+178.749+22.0811C179.667+22.0811+180.486+22.2341+181.206+22.5401C181.926+22.8281+182.538+23.2601+183.042+23.8361C183.564+24.3941+183.951+25.0781+184.203+25.8881C184.473+26.6981+184.608+27.6071+184.608+28.6151C184.608+28.9211+184.518+29.1551+184.338+29.3171C184.158+29.4611+183.888+29.5331+183.528+29.5331H174.456V27.8591H182.772L182.313+28.2371C182.313+27.3371+182.178+26.5721+181.908+25.9421C181.656+25.3121+181.269+24.8351+180.747+24.5111C180.243+24.1691+179.613+23.9981+178.857+23.9981C178.011+23.9981+177.291+24.1961+176.697+24.5921C176.121+24.9881+175.68+25.5371+175.374+26.2391C175.068+26.9411+174.915+27.7601+174.915+28.6961V28.8581C174.915+30.4421+175.284+31.6391+176.022+32.4491C176.778+33.2411+177.867+33.6371+179.289+33.6371C179.829+33.6371+180.396+33.5651+180.99+33.4211C181.602+33.2771+182.178+33.0341+182.718+32.6921C183.024+32.5121+183.294+32.4311+183.528+32.4491C183.78+32.4671+183.978+32.5481+184.122+32.6921C184.284+32.8361+184.383+33.0161+184.419+33.2321C184.455+33.4481+184.419+33.6731+184.311+33.9071C184.203+34.1231+184.014+34.3211+183.744+34.5011C183.132+34.9151+182.421+35.2301+181.611+35.4461C180.801+35.6441+180.018+35.7431+179.262+35.7431Z%22%2C%22fill%22%3A%22%23F5F5F5%22%7D%7D%2C%7B%22type%22%3A%22defs%22%2C%22props%22%3A%7B%22children%22%3A%5B%7B%22type%22%3A%22filter%22%2C%22props%22%3A%7B%22id%22%3A%22filter0_dddddi_11_770%22%2C%22x%22%3A%228.54304%22%2C%22y%22%3A%227.51489%22%2C%22width%22%3A%2237.5936%22%2C%22height%22%3A%2252.92%22%2C%22filterUnits%22%3A%22userSpaceOnUse%22%2C%22color-interpolation-filters%22%3A%22sRGB%22%2C%22children%22%3A%5B%7B%22type%22%3A%22feFlood%22%2C%22props%22%3A%7B%22flood-opacity%22%3A%220%22%2C%22result%22%3A%22BackgroundImageFix%22%7D%7D%2C%7B%22type%22%3A%22feColorMatrix%22%2C%22props%22%3A%7B%22in%22%3A%22SourceAlpha%22%2C%22type%22%3A%22matrix%22%2C%22values%22%3A%220+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+127+0%22%2C%22result%22%3A%22hardAlpha%22%7D%7D%2C%7B%22type%22%3A%22feOffset%22%2C%22props%22%3A%7B%7D%7D%2C%7B%22type%22%3A%22feColorMatrix%22%2C%22props%22%3A%7B%22type%22%3A%22matrix%22%2C%22values%22%3A%220+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0.2+0%22%7D%7D%2C%7B%22type%22%3A%22feBlend%22%2C%22props%22%3A%7B%22mode%22%3A%22normal%22%2C%22in2%22%3A%22BackgroundImageFix%22%2C%22result%22%3A%22effect1_dropShadow_11_770%22%7D%7D%2C%7B%22type%22%3A%22feColorMatrix%22%2C%22props%22%3A%7B%22in%22%3A%22SourceAlpha%22%2C%22type%22%3A%22matrix%22%2C%22values%22%3A%220+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+127+0%22%2C%22result%22%3A%22hardAlpha%22%7D%7D%2C%7B%22type%22%3A%22feOffset%22%2C%22props%22%3A%7B%22dy%22%3A%220.72%22%7D%7D%2C%7B%22type%22%3A%22feGaussianBlur%22%2C%22props%22%3A%7B%22stdDeviation%22%3A%220.72%22%7D%7D%2C%7B%22type%22%3A%22feColorMatrix%22%2C%22props%22%3A%7B%22type%22%3A%22matrix%22%2C%22values%22%3A%220+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0.2+0%22%7D%7D%2C%7B%22type%22%3A%22feBlend%22%2C%22props%22%3A%7B%22mode%22%3A%22normal%22%2C%22in2%22%3A%22effect1_dropShadow_11_770%22%2C%22result%22%3A%22effect2_dropShadow_11_770%22%7D%7D%2C%7B%22type%22%3A%22feColorMatrix%22%2C%22props%22%3A%7B%22in%22%3A%22SourceAlpha%22%2C%22type%22%3A%22matrix%22%2C%22values%22%3A%220+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+127+0%22%2C%22result%22%3A%22hardAlpha%22%7D%7D%2C%7B%22type%22%3A%22feOffset%22%2C%22props%22%3A%7B%22dy%22%3A%222.52%22%7D%7D%2C%7B%22type%22%3A%22feGaussianBlur%22%2C%22props%22%3A%7B%22stdDeviation%22%3A%221.26%22%7D%7D%2C%7B%22type%22%3A%22feColorMatrix%22%2C%22props%22%3A%7B%22type%22%3A%22matrix%22%2C%22values%22%3A%220+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0.18+0%22%7D%7D%2C%7B%22type%22%3A%22feBlend%22%2C%22props%22%3A%7B%22mode%22%3A%22normal%22%2C%22in2%22%3A%22effect2_dropShadow_11_770%22%2C%22result%22%3A%22effect3_dropShadow_11_770%22%7D%7D%2C%7B%22type%22%3A%22feColorMatrix%22%2C%22props%22%3A%7B%22in%22%3A%22SourceAlpha%22%2C%22type%22%3A%22matrix%22%2C%22values%22%3A%220+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+127+0%22%2C%22result%22%3A%22hardAlpha%22%7D%7D%2C%7B%22type%22%3A%22feOffset%22%2C%22props%22%3A%7B%22dy%22%3A%225.76%22%7D%7D%2C%7B%22type%22%3A%22feGaussianBlur%22%2C%22props%22%3A%7B%22stdDeviation%22%3A%221.8%22%7D%7D%2C%7B%22type%22%3A%22feColorMatrix%22%2C%22props%22%3A%7B%22type%22%3A%22matrix%22%2C%22values%22%3A%220+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0.1+0%22%7D%7D%2C%7B%22type%22%3A%22feBlend%22%2C%22props%22%3A%7B%22mode%22%3A%22normal%22%2C%22in2%22%3A%22effect3_dropShadow_11_770%22%2C%22result%22%3A%22effect4_dropShadow_11_770%22%7D%7D%2C%7B%22type%22%3A%22feColorMatrix%22%2C%22props%22%3A%7B%22in%22%3A%22SourceAlpha%22%2C%22type%22%3A%22matrix%22%2C%22values%22%3A%220+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+127+0%22%2C%22result%22%3A%22hardAlpha%22%7D%7D%2C%7B%22type%22%3A%22feOffset%22%2C%22props%22%3A%7B%22dy%22%3A%2210.44%22%7D%7D%2C%7B%22type%22%3A%22feGaussianBlur%22%2C%22props%22%3A%7B%22stdDeviation%22%3A%222.16%22%7D%7D%2C%7B%22type%22%3A%22feColorMatrix%22%2C%22props%22%3A%7B%22type%22%3A%22matrix%22%2C%22values%22%3A%220+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0.02+0%22%7D%7D%2C%7B%22type%22%3A%22feBlend%22%2C%22props%22%3A%7B%22mode%22%3A%22normal%22%2C%22in2%22%3A%22effect4_dropShadow_11_770%22%2C%22result%22%3A%22effect5_dropShadow_11_770%22%7D%7D%2C%7B%22type%22%3A%22feBlend%22%2C%22props%22%3A%7B%22mode%22%3A%22normal%22%2C%22in%22%3A%22SourceGraphic%22%2C%22in2%22%3A%22effect5_dropShadow_11_770%22%2C%22result%22%3A%22shape%22%7D%7D%2C%7B%22type%22%3A%22feColorMatrix%22%2C%22props%22%3A%7B%22in%22%3A%22SourceAlpha%22%2C%22type%22%3A%22matrix%22%2C%22values%22%3A%220+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+0+127+0%22%2C%22result%22%3A%22hardAlpha%22%7D%7D%2C%7B%22type%22%3A%22feOffset%22%2C%22props%22%3A%7B%22dy%22%3A%221.6875%22%7D%7D%2C%7B%22type%22%3A%22feGaussianBlur%22%2C%22props%22%3A%7B%22stdDeviation%22%3A%221.6875%22%7D%7D%2C%7B%22type%22%3A%22feComposite%22%2C%22props%22%3A%7B%22in2%22%3A%22hardAlpha%22%2C%22operator%22%3A%22arithmetic%22%2C%22k2%22%3A%22-1%22%2C%22k3%22%3A%221%22%7D%7D%2C%7B%22type%22%3A%22feColorMatrix%22%2C%22props%22%3A%7B%22type%22%3A%22matrix%22%2C%22values%22%3A%220+0+0+0+0.490196+0+0+0+0+0.392157+0+0+0+0+0.752941+0+0+0+0.48+0%22%7D%7D%2C%7B%22type%22%3A%22feBlend%22%2C%22props%22%3A%7B%22mode%22%3A%22normal%22%2C%22in2%22%3A%22shape%22%2C%22result%22%3A%22effect6_innerShadow_11_770%22%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22clipPath%22%2C%22props%22%3A%7B%22id%22%3A%22clip0_11_770%22%2C%22children%22%3A%5B%7B%22type%22%3A%22rect%22%2C%22props%22%3A%7B%22width%22%3A%2254%22%2C%22height%22%3A%2254%22%2C%22fill%22%3A%22white%22%2C%22transform%22%3A%22translate%280.25%29%22%7D%7D%5D%7D%7D%5D%7D%7D%5D%7D%7D%2C%7B%22type%22%3A%22div%22%2C%22props%22%3A%7B%22tw%22%3A%22flex+flex-col%22%2C%22children%22%3A%5B%7B%22type%22%3A%22span%22%2C%22props%22%3A%7B%22tw%22%3A%22text-%5B2rem%5D+font-bold+text-%5B%23F5F5F5%5D%22%2C%22children%22%3A%5B%22Web2+vs.+Web3+Social+With+Bradley+Freeman+%28Former+TikTok+%26+Lens%29+%22%5D%7D%7D%2C%7B%22type%22%3A%22span%22%2C%22props%22%3A%7B%22tw%22%3A%22font-semibold+text-gray-100+mt-4+text-%5B1.5rem%5D%22%2C%22children%22%3A%5B%22Wednesday+July+10+2024+16%3A00+UTC%22%5D%7D%7D%2C%7B%22type%22%3A%22span%22%2C%22props%22%3A%7B%22tw%22%3A%22font-semibold+text-gray-100+mt-4+text-%5B1.2rem%5D%22%2C%22children%22%3A%5B%22Hosted+by%3A+%40Geoff+Golberg%22%5D%7D%7D%5D%7D%7D%5D%7D%7D%5D%7D%7D%5D%7D%7D%5D&aspectRatio=1.91%3A1&__framesjs_jsx=true"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-07-10",
+    "show_title": "Gm Farcaster Ep127 Wednesday July 10 2024",
+    "source_episode_id": "Anxn7kc_I9A",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

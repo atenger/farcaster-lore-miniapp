@@ -1,0 +1,1730 @@
+[
+  {
+    "cast_hash": "0x99fb10f0",
+    "url": "https://warpcast.com/nounishprof/0x99fb10f0",
+    "author_username": "nounishprof",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-07-19T20:53:01.000Z",
+    "text": "GM Farcaster Here for the Art | @brianmorris.eth \n\nWe are so excited to share the next contribution to our Here for the Art collection celebrating the amazing artists of Farcaster -- this month with the amazing Brian Morris!\n\nThis incredible piece from @brianmorris.eth puts a GM Farcaster spin on his trademark style and just took our breath away! This mint has been airdropped to our wowow hypersub as well as our prior Here for the Art artists. This mint will be open until the end of the month with all creator rewards to @brianmorris.eth. Snap it up while you can!\n\nAn accompanying podast interview with Brian will be out shortly and airdropped to holders of this piece. \n\nhttps://zora.co/collect/base:0x73b2bdee3c89ff52e3ddb398d740dc0968c1f1b4/7",
+    "embeds": [
+      {
+        "url": "https://zora.co/collect/base:0x73b2bdee3c89ff52e3ddb398d740dc0968c1f1b4/7?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x77497099",
+    "url": "https://warpcast.com/v/0x77497099",
+    "author_username": "v",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2024-07-22T19:32:11.000Z",
+    "text": "When you sign up to Warpacst today, we will: \n\n1. Ask for your interests \n2. Show you an algo feed \n3. Ask you to follow people \n\nAs you follow more people, we'll show you more stuff from your followers and less from the algo.\n\nThis is an experiment and ~ half of new users will see this today.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 16098,
+          "hash": "0x1f86f224cda53a3792329b434140d46d0a1ac010"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1f86f224cda53a3792329b434140d46d0a1ac010",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 16098,
+            "username": "jpfraneto.eth",
+            "display_name": "jp 🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd27ed2e-efe3-4432-6b12-d2664216c500/original",
+            "custody_address": "0xab20de8f5a4f8e147baac9d1f6e236861485516a"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1f86f224cda53a3792329b434140d46d0a1ac010",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "every week i create a new fid through warpcast to check how the onboarding flow changes through my own experience\n\nguess what\n\nno more 70 autofollow list\n\nand that initial feed is now a cherry pick and seemingly unbiased selection of the best casts of the network\n\nthis is an important change. chapeau 🎩",
+          "timestamp": "2024-07-22T16:35:38.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aeb6af7b-6e8f-4fa3-03b8-133509aeec00/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 110533,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 828,
+                  "height_px": 1792
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 243719,
+                "hash": "0xaa3ea0c97dec96231c102865c7e491b9268c0877"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xaa3ea0c97dec96231c102865c7e491b9268c0877",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 243719
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1a5e2ef1",
+    "url": "https://warpcast.com/dwr.eth/0x1a5e2ef1",
+    "author_username": "dwr.eth",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-07-22T17:32:04.000Z",
+    "text": "Experimenting with a new onboarding feed that is algorithmic like TikTok. No initial follows.\n\nBut that means you need to be posting engaging content.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 16098,
+          "hash": "0x1f86f224cda53a3792329b434140d46d0a1ac010"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1f86f224cda53a3792329b434140d46d0a1ac010",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 16098,
+            "username": "jpfraneto.eth",
+            "display_name": "jp 🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd27ed2e-efe3-4432-6b12-d2664216c500/original",
+            "custody_address": "0xab20de8f5a4f8e147baac9d1f6e236861485516a"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1f86f224cda53a3792329b434140d46d0a1ac010",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x10a77f29a6bbeae936f3f27cd60546072dae4e41",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "every week i create a new fid through warpcast to check how the onboarding flow changes through my own experience\n\nguess what\n\nno more 70 autofollow list\n\nand that initial feed is now a cherry pick and seemingly unbiased selection of the best casts of the network\n\nthis is an important change. chapeau 🎩",
+          "timestamp": "2024-07-22T16:35:38.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aeb6af7b-6e8f-4fa3-03b8-133509aeec00/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 110533,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 828,
+                  "height_px": 1792
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 243719,
+                "hash": "0xaa3ea0c97dec96231c102865c7e491b9268c0877"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xaa3ea0c97dec96231c102865c7e491b9268c0877",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 243719
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "warpcast",
+            "name": "Warpcast",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreifezhnp5wzgabkdbkb6d65oix4r5axibupv45r7ifxphl4d6qqnry"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1f86f224",
+    "url": "https://warpcast.com/jpfraneto/0x1f86f224",
+    "author_username": "jpfraneto",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 16098,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd27ed2e-efe3-4432-6b12-d2664216c500/original",
+    "cast_date": "2024-07-22T16:35:38.000Z",
+    "text": "every week i create a new fid through warpcast to check how the onboarding flow changes through my own experience\n\nguess what\n\nno more 70 autofollow list\n\nand that initial feed is now a cherry pick and seemingly unbiased selection of the best casts of the network\n\nthis is an important change. chapeau 🎩",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aeb6af7b-6e8f-4fa3-03b8-133509aeec00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 110533,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 828,
+            "height_px": 1792
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 243719,
+          "hash": "0xaa3ea0c97dec96231c102865c7e491b9268c0877"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xaa3ea0c97dec96231c102865c7e491b9268c0877",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 243719,
+            "username": "downshift.eth",
+            "display_name": "downshift. 🏎️💨",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb5dd0ae-1541-4ace-5084-a5324bfdaf00/original",
+            "custody_address": "0xbac15878e22d525c60ef156f8fc11e598de56462"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xaa3ea0c97dec96231c102865c7e491b9268c0877",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/downshift",
+          "root_parent_url": "https://warpcast.com/~/channel/downshift",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "the autofollow list is the staggeringly drunk uncle you didn’t even expect to show up to the function but should have been asked to leave hours ago",
+          "timestamp": "2024-07-22T16:24:07.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 253127,
+                "hash": "0x3f025038d1d6f8a9d62648954405e80ac714b510"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x3f025038d1d6f8a9d62648954405e80ac714b510",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 253127
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "downshift",
+            "name": "downshift",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/67d84786-e3a9-4797-5a3a-f0ec59122400/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8cdec501",
+    "url": "https://warpcast.com/ethereumfilm/0x8cdec501",
+    "author_username": "ethereumfilm",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 668912,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fce5800f-9cf3-4acf-e4d6-f581235dff00/original",
+    "cast_date": "2024-07-23T16:10:20.000Z",
+    "text": "Watch and mint the full trailer at Ethereumfilm.xyz! After three years of filming across 28 cities & 15 countries, the trailer for “Vitalik: An Ethereum Story” is finally here.\n\nFor 75 hours only, we’re running a leaderboard challenge at ethereumfilm.xyz, offering rewards and credits for the top minters on Zora. (Locks at 3pm ET on July 26th, 2024). Be a part of history to revolutionize how films are financed, distributed, and experienced.\n\nhttps://zora.co/collect/base:0x923b382f3205c26efe706c53d69f71f0817aa954/1?referrer=0xfda84EAda14805beBD3583BbA087769af91BbCfc",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/949075c3a5028402a6d27d6a82250931.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 34.391992
+          }
+        }
+      },
+      {
+        "url": "https://zora.co/collect/base:0x923b382f3205c26efe706c53d69f71f0817aa954/1?referrer=0xfda84EAda14805beBD3583BbA087769af91BbCfc",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://zora.co/collect/base:0x923b382f3205c26efe706c53d69f71f0817aa954/1",
+            "favicon": "https://zora.co/favicon/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://zora.co/api/og-image/post/base:0x923b382f3205c26efe706c53d69f71f0817aa954/1?v=2&mints=24954"
+              }
+            ],
+            "ogTitle": "Vitalik: An Ethereum Story (Official Trailer)",
+            "ogLocale": "en",
+            "ogSiteName": "Zora",
+            "ogDescription": "Trailer mint is now available! After three years of filming. 28 cities. 15 countries. We can finally share this feature documentary about Vitalik and Ethereum’s community of builders. Thank you to everyone who made it possible.  \n\nThe film showcases the humanity and heart behind this technology. And it’s only fitting that we release the film and trailer onchain, to put the power in the hands of the people, not big distributors. \n\nWE NEED YOUR HELP, to share this film with community members, the crypto-curious, and skeptics alike. Please mint the trailer (can be minted multiple times), and share it with your community. Every mint will help the film reach audiences everywhere, while also supporting Protocol Guild. Think of theatrical events globally. A streaming release. A short film series of “Ethereum Stories.” You can read our detailed plan at EthereumFilm.xyz.\n\nSEE THE FULL FILM by minting a ticket to stream it on Zora or by getting a ticket to an in person premiere! All at Ethereumfilm.xyz. \n\nBIG THANKS to Zora, Base, Bonfire, and the entire community of builders and enthusiasts who helped make this film. Thanks to you, it could remain entirely independent without pressure from major media companies to sensationalize the story.",
+            "fcFrame": {
+              "button": {
+                "title": "Buy",
+                "action": {
+                  "url": "https://zora.co/collect/base:0x923b382f3205c26efe706c53d69f71f0817aa954/1/frame-v2",
+                  "name": "Buy",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://zora.co/assets/logo.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://zora.co/api/og-image/post/base:0x923b382f3205c26efe706c53d69f71f0817aa954/1?v=2&mints=24954&crop=farcaster"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Buy",
+            "image": "https://zora.co/api/og-image/post/base:0x923b382f3205c26efe706c53d69f71f0817aa954/1?v=2&mints=24954&crop=farcaster",
+            "frames_url": "https://zora.co/collect/base:0x923b382f3205c26efe706c53d69f71f0817aa954/1?referrer=0xfda84EAda14805beBD3583BbA087769af91BbCfc"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x98b5a299",
+    "url": "https://warpcast.com/linda/0x98b5a299",
+    "author_username": "linda",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2024-07-24T14:32:25.000Z",
+    "text": "We've been blown away by all the excitement on the \"Vitalik: An Ethereum Story\" trailer. The @ethereumfilm documentary has been a HUGE team effort over 3 years with 130 people involved in the making of it to bring a high-quality production to the mainstream public\n\nDirected by @zachingrasci @christemple produced by Carrie Weprin & Jenna Kelly. We can't wait to premiere it on Sept 18th!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 12,
+          "hash": "0x7fe62ce7885ce863a30df60593efe66e4aca8f21"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7fe62ce7885ce863a30df60593efe66e4aca8f21",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12,
+            "username": "linda",
+            "display_name": "Linda Xie",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+            "custody_address": "0xb43575d58c49d2be880e0f821ddf51d15c13c376"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7fe62ce7885ce863a30df60593efe66e4aca8f21",
+          "parent_hash": null,
+          "parent_url": "https://ethereum.org",
+          "root_parent_url": "https://ethereum.org",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "The full trailer for ”Vitalik: An Ethereum Story”\n\nOur @ethereumfilm documentary premiering worldwide on Sept 18th!\n\nMint the trailer at ethereumfilm.xyz",
+          "timestamp": "2024-07-24T00:14:21.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.warpcast.com/v1/video/61010e45608c6b1e60cab226fb455536.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1080,
+                      "width_px": 2160,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 720,
+                      "width_px": 1440,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 480,
+                      "width_px": 960,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 360,
+                      "width_px": 720,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 240,
+                      "width_px": 480,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 157.895961
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "ethereum",
+            "name": "Ethereum",
+            "image_url": "https://warpcast.com/~/channel-images/ethereum.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8ee2cb0b",
+    "url": "https://warpcast.com/toadyhawk.eth/0x8ee2cb0b",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2024-07-18T19:54:07.000Z",
+    "text": "👀 👀 🐸 🐸 \n\nhttp://moxie-frames.airstack.xyz/sufta?t=88",
+    "embeds": [
+      {
+        "url": "http://moxie-frames.airstack.xyz/sufta?t=88",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://moxie-frames.airstack.xyz/sufta/image?t=88&u="
+              }
+            ],
+            "ogTitle": "Moxie Single Upcoming FTA Frame",
+            "ogLocale": "en",
+            "ogDescription": "Farcaster Frame for Single Upcoming FTA"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xff957b97",
+    "url": "https://warpcast.com/rskagy.eth/0xff957b97",
+    "author_username": "rskagy.eth",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 410846,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/800bc399-4346-4c87-73a7-0448cc193100/original",
+    "cast_date": "2024-07-16T15:44:27.000Z",
+    "text": "For The Children is a nonprofit mission inspired by nounish leaderfulness. When we go on July 25 to feed over 1000 children in the Dominican Republic together with members of Wu-Tang Clan, we will represent nouns there, & produce sharable content to show the work being done by all the volunteers and sponsors of this event, with special attention being paid to how this type of work is inspired by the nounish ethos.\n\nThe official artwork now features Wu-Tang-flavored noggles. You can mint here to support the cause: https://zora.co/collect/base:0x2dc3209d13165db78b86529012ec73aef86d2449/1\nYou can join at shaolin.buzz to see your name or logo alongside Methodman and dozens of other leaders of the onchain space.\n\nI also have two pairs of purple noggles from Farcon, which myself and @lynn-mosqueda will wear in the live updates and documentary we film while on the ground making the distributions of food, clothing and school supplies. If anyone has nounish gear they want to lend to see on camera, please DC me.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b9ad42a5-0e9f-4e1a-bf59-6c787492b800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 1535238,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3200,
+            "height_px": 3200
+          }
+        }
+      },
+      {
+        "url": "https://zora.co/collect/base:0x2dc3209d13165db78b86529012ec73aef86d2449/1?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x881a925c",
+    "url": "https://warpcast.com/adrienne/0x881a925c",
+    "author_username": "adrienne",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-07-17T14:14:20.000Z",
+    "text": "A group of nounish volunteers are going to the Dominican Republic next week with members of the Wu-Tang Clan to feed over 1000 children. They haven’t reached their fundraising goal yet but there’s still time to support them. \nRyan shares more info below. \n\nI minted the NFT this morning",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 410846,
+          "hash": "0xff957b97ecf6ff9c272ddcf7ba3278a7194e1e9b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xff957b97ecf6ff9c272ddcf7ba3278a7194e1e9b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 410846,
+            "username": "rskagy.eth",
+            "display_name": "rskagy.base.eth 👁️🚪",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/800bc399-4346-4c87-73a7-0448cc193100/original",
+            "custody_address": "0x2c8b634f59069690fc98109773d78f9d6ca83ecc"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xff957b97ecf6ff9c272ddcf7ba3278a7194e1e9b",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0x9c8ff314c9bc7f6e59a9d9225fb22946427edc03",
+          "root_parent_url": "chain://eip155:1/erc721:0x9c8ff314c9bc7f6e59a9d9225fb22946427edc03",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "For The Children is a nonprofit mission inspired by nounish leaderfulness. When we go on July 25 to feed over 1000 children in the Dominican Republic together with members of Wu-Tang Clan, we will represent nouns there, & produce sharable content to show the work being done by all the volunteers and sponsors of this event, with special attention being paid to how this type of work is inspired by the nounish ethos.\n\nThe official artwork now features Wu-Tang-flavored noggles. You can mint here to support the cause: https://zora.co/collect/base:0x2dc3209d13165db78b86529012ec73aef86d2449/1\nYou can join at shaolin.buzz to see your name or logo alongside Methodman and dozens of other leaders of the onchain space.\n\nI also have two pairs of purple noggles from Farcon, which myself and @lynn-mosqueda will wear in the live updates and documentary we film while on the ground making the distributions of food, clothing and school supplies. If anyone has nounish gear they want to lend to see on camera, please DC me.",
+          "timestamp": "2024-07-16T15:44:27.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b9ad42a5-0e9f-4e1a-bf59-6c787492b800/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 1535238,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 3200,
+                  "height_px": 3200
+                }
+              }
+            },
+            {
+              "url": "https://zora.co/collect/base:0x2dc3209d13165db78b86529012ec73aef86d2449/1?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+              "metadata": {
+                "_status": "PENDING"
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "nouns",
+            "name": "Nouns",
+            "image_url": "https://warpcast.com/~/channel-images/nouns.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd3c31733",
+    "url": "https://warpcast.com/pfista/0xd3c31733",
+    "author_username": "pfista",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 451,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35ff884b-a727-46ff-9241-5652d35a3100/rectcrop3",
+    "cast_date": "2024-07-21T19:19:15.000Z",
+    "text": "You can install the Superfollow cast action here\n\n- Get notified via Buoy app on mobile whenever someone casts\n- You can choose to include replies too (warpcast doesn't notify you about replies!)\n- Requires Buoy Pro plan\n\nhttps://warpcast.com/~/add-cast-action?url=https%3A%2F%2Fapi.buoy.club%2Fv1%2Factions%2Fsuperfollow",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/~/add-cast-action?url=https%3A%2F%2Fapi.buoy.club%2Fv1%2Factions%2Fsuperfollow",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://warpcast.com/og-logo.png",
+                "type": "png",
+                "width": "512",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast",
+            "ogDescription": "A sufficiently decentralized social network"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7634905a",
+    "url": "https://warpcast.com/pfista/0x7634905a",
+    "author_username": "pfista",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 451,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35ff884b-a727-46ff-9241-5652d35a3100/rectcrop3",
+    "cast_date": "2024-07-20T22:57:58.000Z",
+    "text": "introducing the ⭐️ SUPERFOLLOW ⭐️ cast action for farcaster\n\n✦ get notified whenever someone casts\n✦ superfollow them right from your feed with the superfollow cast action\n✦ exclude replies if you only want top level casts\n\nDEMO VIDEO 👇 \n\ntry it at beta.buoy.club",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/166c3f6902b2721ddcd0f293bb174677.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1256,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 836,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 558,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 418,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 278,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 64.4
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd5fd251b",
+    "url": "https://warpcast.com/matthew/0xd5fd251b",
+    "author_username": "matthew",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 473,
+    "author_pfp": "https://i.imgur.com/uwD4rUh.jpg",
+    "cast_date": "2024-07-23T18:12:43.000Z",
+    "text": "New on @event: duplicate an event\n\nTap the hamburger button in the top right of an event page. Then tap the \"duplicate event button\" (must be a host to see it). And voila, you'll get a copy of your event.\n\n@ispeaknerd @serendipity @nounishprof @humpty.eth hope this is helpful :)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b367263b-dcec-4268-5818-f6e48f568800/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 79506,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1346,
+            "height_px": 922
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1a8782bf-bc4b-4deb-2cde-b2b630b82500/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 219157,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1388,
+            "height_px": 1748
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf8f637cf",
+    "url": "https://warpcast.com/cojo.eth/0xf8f637cf",
+    "author_username": "cojo.eth",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 4327,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66013ade-eb0f-4eb9-7d5a-e08f1b9e1c00/original",
+    "cast_date": "2024-07-23T00:19:23.000Z",
+    "text": "🗳️ HOW TO CUSTOMIZE POLLS 🗳️\n\nNative @ponder polls have been rapidly improving, so we made two quick videos showing how you can get the most out of them. \n\nPart I\n- How to make a poll\n- Anon vs. Public\n- Gate by followers only\n- Gate by tokens held\n- How it all gets displayed",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/06e1be653632e1fb6d74cfdab0f7989c.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1440,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 960,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 320,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 229.29
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2a3d99d6",
+    "url": "https://warpcast.com/robrecht/0x2a3d99d6",
+    "author_username": "robrecht",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 2417,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3933efd9-8a97-4c1c-0616-3aa04cc1f900/original",
+    "cast_date": "2024-07-22T14:10:47.000Z",
+    "text": "only had 4 options, sorry for everyone younger/older\nhttps://frame.weponder.io/api/polls/4941",
+    "embeds": [
+      {
+        "url": "https://frame.weponder.io/api/polls/4941",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 12396,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://frame.weponder.io/api/polls/4941/img/eyJwb2xsRGF0YSI6eyJpZCI6NDk0MSwidHlwZSI6ImJhc2ljIiwidGV4dCI6IldoYXQgaXMgeW91ciBhZ2UgZ3JvdXA_IiwiYXV0aG9yIjp7ImlkIjoxMTE2LCJ1dWlkIjoiZTFkY2MwM2QtNmMzOC00ZTM3LWE2ZjYtMDcyZThiZGE0NWI4IiwiZmlkIjoyNDE3LCJ1c2VybmFtZSI6InJvYnJlY2h0IiwiZGlzcGxheU5hbWUiOiJSb2IgU2FuY2hleiIsInBmcCI6Imh0dHBzOi8vaW1hZ2VkZWxpdmVyeS5uZXQvQlhsdVF4NGlnZTlHdVcwSWE1NkJIdy84ZWQ0ZTRjZC1mYjQ3LTRlY2EtNWExOC01ZTFmOTlmY2I5MDAvb3JpZ2luYWwiLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHg0YzRhZTkyNmE3MDYzNDlmZDE2NzAwYjRmMzY4YTRhMGNkNGE2N2U0IiwiMHhiMThiYTc1MDJiNDhkMGQ2MDc2ZjlhYWUwNmY2OGExMjY2NTYyZmFhIl0sInNwb25zb3JlZENvdW50IjowLCJzY29yZSI6MC4wMDcyMDExODMxMjE2NTE0MTEsInN0YXRpc3RpY3MiOnsiYW5zd2Vyc0NvdW50IjoyLCJ2b3Rlc0NvdW50Ijo2NSwicG9sbHNDb3VudCI6NiwicXVlc3Rpb25zQ291bnQiOjJ9fSwib3B0aW9ucyI6WyIxOCB0byAyNCIsIjI1IHRvIDM0IiwiMzUgdG8gNDQiLCI0NSB0byA1NCJdLCJzdGF0dXMiOiJjYWxjdWxhdGVkIiwiY3JlYXRlZEF0IjoiMjAyNC0wNy0yMlQxNDoxMDoxOC4zNTc1ODUrMDA6MDAiLCJleHBpcmVzQXQiOiIyMDI0LTA3LTI0VDE0OjEwOjE4LjM1NyswMDowMCIsImlzQW5vbnltb3VzIjpmYWxzZSwiaXNBcmNoaXZlZCI6ZmFsc2UsInJlc3VsdHNEYXRhIjpbeyJvcHRpb25JZCI6MSwidm90ZXMiOjg5LCJ0ZXh0IjoiMTggdG8gMjQiLCJwZXJjZW50T2ZUb3RhbCI6MjAsImZpbHRlcnMiOnsiZGVmYXVsdCI6eyJ2b3RlcyI6ODksInBlcmNlbnRPZlRvdGFsIjoyMH0sInBvd2VyQmFkZ2VGaWQiOnsidm90ZXMiOjE0LCJwZXJjZW50T2ZUb3RhbCI6OC40ODQ4NDg0ODQ4NDg0OX0sIm9nRmlkIjp7InZvdGVzIjoxMCwicGVyY2VudE9mVG90YWwiOjcuODc0MDE1NzQ4MDMxNX0sInBvcHVsYXJGaWQiOnsidm90ZXMiOjI0LCJwZXJjZW50T2ZUb3RhbCI6MTIuNDM1MjMzMTYwNjIxOH19fSx7Im9wdGlvbklkIjoyLCJ2b3RlcyI6MjAxLCJ0ZXh0IjoiMjUgdG8gMzQiLCJwZXJjZW50T2ZUb3RhbCI6NDUsImZpbHRlcnMiOnsiZGVmYXVsdCI6eyJ2b3RlcyI6MjAxLCJwZXJjZW50T2ZUb3RhbCI6NDV9LCJwb3dlckJhZGdlRmlkIjp7InZvdGVzIjo3NywicGVyY2VudE9mVG90YWwiOjQ2LjY2NjY2NjY2NjY2Njd9LCJvZ0ZpZCI6eyJ2b3RlcyI6NjMsInBlcmNlbnRPZlRvdGFsIjo0OS42MDYyOTkyMTI1OTg0fSwicG9wdWxhckZpZCI6eyJ2b3RlcyI6ODcsInBlcmNlbnRPZlRvdGFsIjo0NS4wNzc3MjAyMDcyNTM5fX19LHsib3B0aW9uSWQiOjMsInZvdGVzIjoxMTgsInRleHQiOiIzNSB0byA0NCIsInBlcmNlbnRPZlRvdGFsIjoyNiwiZmlsdGVycyI6eyJkZWZhdWx0Ijp7InZvdGVzIjoxMTgsInBlcmNlbnRPZlRvdGFsIjoyNn0sInBvd2VyQmFkZ2VGaWQiOnsidm90ZXMiOjU0LCJwZXJjZW50T2ZUb3RhbCI6MzIuNzI3MjcyNzI3MjcyN30sIm9nRmlkIjp7InZvdGVzIjo0MCwicGVyY2VudE9mVG90YWwiOjMxLjQ5NjA2Mjk5MjEyNn0sInBvcHVsYXJGaWQiOnsidm90ZXMiOjU3LCJwZXJjZW50T2ZUb3RhbCI6MjkuNTMzNjc4NzU2NDc2N319fSx7Im9wdGlvbklkIjo0LCJ2b3RlcyI6NDIsInRleHQiOiI0NSB0byA1NCIsInBlcmNlbnRPZlRvdGFsIjo5LCJmaWx0ZXJzIjp7ImRlZmF1bHQiOnsidm90ZXMiOjQyLCJwZXJjZW50T2ZUb3RhbCI6OX0sInBvd2VyQmFkZ2VGaWQiOnsidm90ZXMiOjIwLCJwZXJjZW50T2ZUb3RhbCI6MTIuMTIxMjEyMTIxMjEyMX0sIm9nRmlkIjp7InZvdGVzIjoxNCwicGVyY2VudE9mVG90YWwiOjExLjAyMzYyMjA0NzI0NDF9LCJwb3B1bGFyRmlkIjp7InZvdGVzIjoyNSwicGVyY2VudE9mVG90YWwiOjEyLjk1MzM2Nzg3NTY0Nzd9fX1dLCJ0b3BWb3RlcnMiOlt7ImlkIjoxLCJ1dWlkIjoiNjFlMzMxM2EtODUxZS00Y2ZiLWFmODYtMjNmZjI4Y2NkZWQ4IiwiZmlkIjo0MzI3LCJ1c2VybmFtZSI6ImNvam8uZXRoIiwiZGlzcGxheU5hbWUiOiJDb2xpbiBKb2huc29uIPCfkq0iLCJwZnAiOiJodHRwczovL2kuaW1ndXIuY29tLzVrV3pDYUEuanBnIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4ZTk0M2NhODgzZWYzMjk0ZTBmYzU1YTFhMTQ1OTFhYmVhZDFiNTkyNyIsIjB4Y2FhYTI2YzU0OThkZTY3NDY2ZTY4MjNlZjY5NzE4ZmViMDRjMjk1MiJdLCJzcG9uc29yZWRDb3VudCI6NCwic2NvcmUiOjAuMDAwNTQyNzMxMDgyNTMyNTU0OX0seyJpZCI6MiwidXVpZCI6IjI3YTA5MmY3LTY0OWEtNDE0ZS1hNGE3LTViYjE2OTE1NDkzYyIsImZpZCI6OTc2LCJ1c2VybmFtZSI6ImJhIiwiZGlzcGxheU5hbWUiOiJCZW4gQWRhbXNreSDwn5KtIiwicGZwIjoiaHR0cHM6Ly9pbWFnZWRlbGl2ZXJ5Lm5ldC9CWGx1UXg0aWdlOUd1VzBJYTU2Qkh3LzFlYmNkNDk4LTA5NDAtNGNlOS0yZmYxLTkyNjBmNGUwMDkwMC9vcmlnaW5hbCIsImNvbm5lY3RlZEFkZHJlc3NlcyI6WyIweDY0ZmYzM2I2NTNiMjZlZGNiNDY0NGUyN2QzNzIwZjNjNjUzZjgzNzEiLCIweGM2NDY0Y2Y0NTE3YzgxMWYwYjk1NjBhZWMyMGViN2Q4MjllNjhlNGYiXSwic3BvbnNvcmVkQ291bnQiOjQsInNjb3JlIjowLjAwMDE0OTM0MzY3MjA5MjA3MjY3fSx7ImlkIjo1LCJ1dWlkIjoiYTgwOGQ0ZDQtMTZhYi00YzhkLThkMWMtMmQzNTdmNjMwZDBlIiwiZmlkIjo2NzMxLCJ1c2VybmFtZSI6ImNoaWNhZ28iLCJkaXNwbGF5TmFtZSI6IkNoaWNhZ28g8J-OqSIsInBmcCI6Imh0dHBzOi8vaW1hZ2VkZWxpdmVyeS5uZXQvQlhsdVF4NGlnZTlHdVcwSWE1NkJIdy80OGU3MTM0Ny02NmMwLTQ1MTktYzcwMi02ZmEyODc5YWIyMDAvcmVjdGNyb3AzIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4NWMwZDk4MjhjYTY1OTVkYjEwMTJhNDA2M2M3YWU4YjZlZGVlNzUzNCIsIjB4NmQzNDkyNzQ0MWM0YTIzOGE4NGY5ZjU0YTQ3ZDY3Y2MzZDU1ZjU3NSIsIjB4ZmFhOGNmY2Y3YTcwNmM2NGU3NTJkNGI0ODQyNmMyYTIxZmIzNGVkYSJdLCJzcG9uc29yZWRDb3VudCI6MCwic2NvcmUiOjAuMDAwMTU3MjE5ODk2MjA5NDI2MjJ9LHsiaWQiOjE2LCJ1dWlkIjoiYWQwMjg3ODEtMzI2ZC00MTU3LWEzMWQtMGM5MjY5YTEyNmZlIiwiZmlkIjo1ODE4LCJ1c2VybmFtZSI6ImFkcmllbm5lIiwiZGlzcGxheU5hbWUiOiJhZHJpZW5uZSIsInBmcCI6Imh0dHBzOi8vaW1hZ2VkZWxpdmVyeS5uZXQvQlhsdVF4NGlnZTlHdVcwSWE1NkJIdy8xNDkwNzgyMS0wNmYxLTRiMGItZjI4ZS0zYTczM2EwNTRmMDAvb3JpZ2luYWwiLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHhhZWE0YTBkZWRiOTRiYTViMmI4ZWQ5NDc3YThhNTQzNzljNTg0NTQyIiwiMHhiMWIyMTg4NGFmZTY1ODFmM2M0OTk3YjAzMjA0NjVmMThlOTY4MmMwIl0sInNwb25zb3JlZENvdW50IjowLCJzY29yZSI6MC4wMDA4NTI2OTMyNzk3Mzk0NjkzfSx7ImlkIjo0MiwidXVpZCI6IjRmNTdhMWRmLTJjYjctNDVlMS05NDUwLTQwNDU4OGE4MDUyOSIsImZpZCI6NDQwNywidXNlcm5hbWUiOiJrZWNjZXJzLmV0aCIsImRpc3BsYXlOYW1lIjoia2VjY2VycyIsInBmcCI6Imh0dHBzOi8vaS5pbWd1ci5jb20va3lubnBZdy5qcGciLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHhhMmZlMWQ0MTQ1NDQzZWJjMDI3ZjE1YzlmN2NhMjdmN2U5ZmQ1ZjMzIiwiMHhkOGU0Y2VlZmJmZDNiYzNiZmMyMjQ1MWI5ZTU0OGZjY2UyNjY5OTAyIl0sInNwb25zb3JlZENvdW50IjowLCJzY29yZSI6MC4wMDg0OTEyODE0MTk5OTI0NDd9XSwic3RhdGlzdGljcyI6eyJ2b3Rlc0NvdW50Ijo0NTAsInZvdGVyc09nQ291bnQiOjEyNywidm90ZXJzT2dQZXJjZW50YWdlIjoyOCwidm90ZXJzUG93ZXJiYWRnZUNvdW50IjoxNjUsInZvdGVyc1Bvd2VyYmFkZ2VQZXJjZW50YWdlIjozNywidm90ZXJzR3RlRm9sbG93ZXJzQ291bnQiOjE5Mywidm90ZXJzR3RlRm9sbG93ZXJzUGVyY2VudGFnZSI6NDMsInJhbmsiOjF9LCJib3VudHkiOm51bGwsImdhdGluZyI6bnVsbH19"
+              }
+            ],
+            "ogTitle": "What is your age group?",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x592daa0d",
+    "url": "https://warpcast.com/robrecht/0x592daa0d",
+    "author_username": "robrecht",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 2417,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3933efd9-8a97-4c1c-0616-3aa04cc1f900/original",
+    "cast_date": "2024-07-23T14:38:04.000Z",
+    "text": "comparing warpcast.com and x.com age groups\n\n1) in general warpcast users are older than x users \n2) on Warpcast, power badge users, popular casters, and OGs tend to be older",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4cbfcf5b-d267-428b-0bfd-87657b030700/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 32932,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1200,
+            "height_px": 742
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/371da8a3-317c-44c3-4b65-c54ebb858200/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 75035,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1193,
+            "height_px": 805
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7fe4e1b0",
+    "url": "https://warpcast.com/galazio/0x7fe4e1b0",
+    "author_username": "galazio",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 13495,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2594af39-cd20-49e0-ec38-046cf188f000/original",
+    "cast_date": "2024-07-22T22:41:03.000Z",
+    "text": "Galazio Kitchen - A Farcaster Cooking Show\nEpisode 5: Summer French Toast 🍞\n\nThis compote is the perfect recipe for fresh blueberries and plums that are in season! 🫐 \n\nThis recipe is also a great way to utilize leftover hot dog and hamburger buns after summer barbecues, though you can use a standard sliced loaf as well! \n\nI hope that you enjoy <3",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/6247c8dd7243446c50b5856d749c1abf.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "codec_name": "h264",
+                "height_px": 1080,
+                "width_px": 1920
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 720,
+                "width_px": 1280
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 480,
+                "width_px": 852
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 360,
+                "width_px": 640
+              },
+              {
+                "codec_name": "h264",
+                "height_px": 240,
+                "width_px": 426
+              }
+            ],
+            "duration_s": 244.3
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd5ae98a7",
+    "url": "https://warpcast.com/christin/0xd5ae98a7",
+    "author_username": "christin",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 15850,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bd90b57-732c-445b-4670-00040e540100/original",
+    "cast_date": "2024-07-24T02:32:26.000Z",
+    "text": "christin *REACTS* to @galazio 's summer french toast\n\npls follow /galazio and @galazio if you want more sincere farcaster native soothing cooking content\n\nhttps://www.loom.com/share/c9ce00d43ca2495fb0fcdd2a01de33d6?sid=99a6c3b6-e1c6-41a4-b83e-3ef795e398f9",
+    "embeds": [
+      {
+        "url": "https://www.loom.com/share/c9ce00d43ca2495fb0fcdd2a01de33d6?sid=99a6c3b6-e1c6-41a4-b83e-3ef795e398f9",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.loom.com/share/c9ce00d43ca2495fb0fcdd2a01de33d6?sid=99a6c3b6-e1c6-41a4-b83e-3ef795e398f9",
+            "oembed": {
+              "html": "<iframe src=\"https://www.loom.com/embed/c9ce00d43ca2495fb0fcdd2a01de33d6\" frameborder=\"0\" width=\"1662\" height=\"1246\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+              "type": "video",
+              "title": "Reacting to Stephanie's French Toast 🍳",
+              "width": 1662,
+              "height": 1246,
+              "method": "provider-api",
+              "version": "1.0",
+              "duration": 426.933,
+              "description": "Hey there! In this video, I react to Stephanie's cooking video featuring a French toast recipe. We explore her kitchen, learn about zesting, and discuss ingredient substitutions for a personalized touch. Watch to upgrade your cooking skills!",
+              "provider_url": "https://www.loom.com",
+              "provider_name": "Loom",
+              "thumbnail_url": "https://cdn.loom.com/sessions/thumbnails/c9ce00d43ca2495fb0fcdd2a01de33d6-22b91230004732bd.gif",
+              "thumbnail_width": 1662,
+              "thumbnail_height": 1246
+            },
+            "ogType": "video.other",
+            "ogImage": [
+              {
+                "url": "https://cdn.loom.com/sessions/thumbnails/c9ce00d43ca2495fb0fcdd2a01de33d6-22b91230004732bd.gif",
+                "type": "gif",
+                "width": "1662",
+                "height": "1080"
+              }
+            ],
+            "ogTitle": "Reacting to Stephanie's French Toast 🍳",
+            "ogVideo": [
+              {
+                "url": "https://cdn.loom.com/sessions/transcoded/c9ce00d43ca2495fb0fcdd2a01de33d6-1721788073714.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vc2Vzc2lvbnMvdHJhbnNjb2RlZC9jOWNlMDBkNDNjYTI0OTVmYjBmY2RkMmEwMWRlMzNkNi0xNzIxNzg4MDczNzE0Lm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDkwOTE1MX19fV19&Key-Pair-Id=KQOSYIR44AIC0&Signature=oIIeFoRqz5fRXjfaMFAuRNJnWEwT333HcVB493rzRtZMFqiviCsaTyDfC6EZx%7EBVdx8QatK-PzndUtDBQno3M9WmCeahRnDrYWEI0q2ePvXoB1aRmEcFUPCgpwBVGy-zKnwfnU5%7EPdduajecdZvBD253zVW79uJFPTjyUJmfOstBsqUTLNoHEiSeDKLN7ZA5oPxhthWtb5CajeaK8GnK-u%7EdEXExyxcupLA8V81nqvQ5ADxL6NmKXVGXH108yEiGktlt00H8pt4xoL%7EXFw8j9zbNwDKjIJAq3xdpjjdcQOlqUUqLEKGEP3im%7EV8lIICyTIZhT8FZfOO6rt43edUGjw__",
+                "type": "video/mp4",
+                "width": "1662",
+                "height": "1080"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "Loom",
+            "ogDescription": "Hey there! In this video, I react to Stephanie's cooking video featuring a French toast recipe. We explore her kitchen, learn about zesting, and discuss ingredient substitutions for a personalized touch. Watch to upgrade your cooking skills!",
+            "ogVideoSecureURL": "https://cdn.loom.com/sessions/transcoded/c9ce00d43ca2495fb0fcdd2a01de33d6-1721788073714.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vc2Vzc2lvbnMvdHJhbnNjb2RlZC9jOWNlMDBkNDNjYTI0OTVmYjBmY2RkMmEwMWRlMzNkNi0xNzIxNzg4MDczNzE0Lm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDkwOTE1MX19fV19&Key-Pair-Id=KQOSYIR44AIC0&Signature=oIIeFoRqz5fRXjfaMFAuRNJnWEwT333HcVB493rzRtZMFqiviCsaTyDfC6EZx%7EBVdx8QatK-PzndUtDBQno3M9WmCeahRnDrYWEI0q2ePvXoB1aRmEcFUPCgpwBVGy-zKnwfnU5%7EPdduajecdZvBD253zVW79uJFPTjyUJmfOstBsqUTLNoHEiSeDKLN7ZA5oPxhthWtb5CajeaK8GnK-u%7EdEXExyxcupLA8V81nqvQ5ADxL6NmKXVGXH108yEiGktlt00H8pt4xoL%7EXFw8j9zbNwDKjIJAq3xdpjjdcQOlqUUqLEKGEP3im%7EV8lIICyTIZhT8FZfOO6rt43edUGjw__"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3dc26200",
+    "url": "https://warpcast.com/jacek/0x3dc26200",
+    "author_username": "jacek",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 15983,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+    "cast_date": "2024-07-23T11:37:42.000Z",
+    "text": "We are excited to introduce content moderators to our Degen community on Farcaster. Our goal is to ensure that the $DEGEN tipping system rewards high-quality content and fosters a respectful and engaging environment for all users. Here are the guiding goals and principles behind this initiative:",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6614c558-56cb-41d5-5a5e-77e6475a3800/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 171696,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1164,
+            "height_px": 606
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 2904,
+          "hash": "0xc457b55d670bebf004dac631e172d7ecc1d722db"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc457b55d670bebf004dac631e172d7ecc1d722db",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2904,
+            "username": "wake",
+            "display_name": "wake",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/abe9a136-0384-4ad3-62a2-97d1fb11e900/original",
+            "custody_address": "0x4f09bcbc633fac4ed1821119641c133d815888f5"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc457b55d670bebf004dac631e172d7ecc1d722db",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/crucible",
+          "root_parent_url": "https://warpcast.com/~/channel/crucible",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Welcome to The Crucible. Here $DEGEN tipping game moderators discuss and enforce tip etiquette and tipping game participation.\n\nThis first wave of moderators were, by and large, nominated by the wider degen and farcaster communities. Each has demonstrated grit and creativity within the Warpcast context and kept the spirit of the tipping project in mind as they explore new ways to build, grow, and make friends.\n\nYou all tip wisely. \n\nNow it's up to you and the community to decide and enforce what that means and, ultimately, whether a tip counts as good quality.",
+          "timestamp": "2024-07-22T14:42:25.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "crucible",
+            "name": "The Crucible",
+            "image_url": "https://i.imgur.com/QF3Ig8v.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc457b55d",
+    "url": "https://warpcast.com/wake.eth/0xc457b55d",
+    "author_username": "wake.eth",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 2904,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/abe9a136-0384-4ad3-62a2-97d1fb11e900/original",
+    "cast_date": "2024-07-22T14:42:25.000Z",
+    "text": "Welcome to The Crucible. Here $DEGEN tipping game moderators discuss and enforce tip etiquette and tipping game participation.\n\nThis first wave of moderators were, by and large, nominated by the wider degen and farcaster communities. Each has demonstrated grit and creativity within the Warpcast context and kept the spirit of the tipping project in mind as they explore new ways to build, grow, and make friends.\n\nYou all tip wisely. \n\nNow it's up to you and the community to decide and enforce what that means and, ultimately, whether a tip counts as good quality.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0996caf2",
+    "url": "https://warpcast.com/dwr.eth/0x0996caf2",
+    "author_username": "dwr.eth",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-07-23T16:14:46.000Z",
+    "text": "If you want to argue with me on FC, please attempt to climb as high on the pyramid as possible.\n\nYour choice to live in the name-calling zone, but decent chance I ignore or mute you.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2e21faae-92c5-45a3-544e-0809089be400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 518191,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1060,
+            "height_px": 782
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc3b3ed95",
+    "url": "https://warpcast.com/horsefacts.eth/0xc3b3ed95",
+    "author_username": "horsefacts.eth",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2024-07-23T17:04:50.000Z",
+    "text": "transcend the pyramid",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/42bd6468-3cad-4f69-c992-0700892e8800/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 4665875,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2604,
+            "height_px": 2470
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8ebd4325",
+    "url": "https://warpcast.com/vgr/0x8ebd4325",
+    "author_username": "vgr",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 4606,
+    "author_pfp": "https://i.seadn.io/gae/T-nT2JPzx2mx6bLRETolnn8Vc-D8vdUqDz5vrSPZPIcu5xjFMtIC3qmfU2Kqjfj9W0fNDxVSJQ-tggAWEsI38Gxw-Lxmw4H-osi6IA?w=500&auto=format",
+    "cast_date": "2024-07-23T22:39:32.000Z",
+    "text": "This diagram based on How to Disagree was what made me mostly tune out Paul Graham. Ironically, people’s filters are actually a solid basis for tuning your own.\n\nThis is a filter model for the powerful-but-overwhelmed pretending to be a reasonable discourse model for truth-seeking. A consent manufacturing funnel that eventually ossifies into a reality distortion field and then decays into a charismatic epistemology (see linked thread).\n\nI rarely descend to the lower levels, but consider a dash of name-calling a reliable indicator of a real signal. But I don’t care enough to actively disagree with people who feel the need for unilateral rules of engagement. And to be fair, once someone has installed such a filter, I’m not a particularly useful person to talk to for them either. So no loss.\n\nBut yeah, this is why I give the “civil debate” crowd a wide berth. I’m a fairly civil person but have never had a useful “civil debate” in my life.\n\nhttps://x.com/vgr/status/1421268674313220102",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x0996caf2c76b7d6dda7497453615411d5039ce46"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0996caf2c76b7d6dda7497453615411d5039ce46",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0996caf2c76b7d6dda7497453615411d5039ce46",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "If you want to argue with me on FC, please attempt to climb as high on the pyramid as possible.\n\nYour choice to live in the name-calling zone, but decent chance I ignore or mute you.",
+          "timestamp": "2024-07-23T16:14:46.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2e21faae-92c5-45a3-544e-0809089be400/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 518191,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1060,
+                  "height_px": 782
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://x.com/vgr/status/1421268674313220102",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7ced3d0c",
+    "url": "https://warpcast.com/links/0x7ced3d0c",
+    "author_username": "links",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0xe92b03b4",
+    "url": "https://warpcast.com/randomerror.eth/0xe92b03b4",
+    "author_username": "randomerror.eth",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 784003,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e1e987e6-d865-4fe0-dd71-58f95baedb00/original",
+    "cast_date": "2024-07-24T00:24:39.000Z",
+    "text": "\"I'm gonna have the last word even when my ass is handed to me\" type of attitude",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 53,
+          "hash": "0xcc955d7cd7544e428e14757a0f34445ff599d3b7"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xcc955d7cd7544e428e14757a0f34445ff599d3b7",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 53,
+            "username": "antonio",
+            "display_name": "agm.eth",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmYJ7NYUPC4DG8TutdeJ128iKBnEYooZUaQNz6CEckFNub?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0xd33a887940a410a206762242adb84c6bd3d0a745"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe43e583729bfa5611fe86bcc380fac963310d2f9",
+          "parent_hash": "0x225371986f150c41b37d2bc61083823c73108bbd",
+          "parent_url": null,
+          "root_parent_url": "https://warpcast.com/~/channel/moz",
+          "parent_author": {
+            "fid": 784003
+          },
+          "text": "That guy is in Paris, they're not protesting there. \n\nThere's a bit of protest in BCN, over Airbnb, which has indeed ruined the old city.",
+          "timestamp": "2024-07-23T21:50:42.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "moz",
+            "name": "MoZ",
+            "image_url": "https://i.imgur.com/WvmWLia.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x117d1a14",
+    "url": "https://warpcast.com/toadyhawk.eth/0x117d1a14",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2024-07-19T20:50:49.000Z",
+    "text": "🟡 Kicking off the weekend with another Yellow Collective Creator Contest, and this one's for the shutterbugs! 📸 \n\nYellow & @moshicam present: The OᑎᑕᕼᗩIᑎ ᔑᑌᗰᗰEᖇ ᔑᑎᗩPᔑ Photography Contest!\n\n📸 Snap a photo that evokes Onchain Summer vibes \n📸 Mint it on Moshi dot cam using the \"Based & Yellow\" frame \n📸  Share the FRAME in the /yellow channel to enter\n\n1 ETH in prizes on @base.base.eth to be disbursed via @rounds \n\nDeadline July 26.\n\nhttps://rounds.wtf/yellow/onchain-summer-snaps-contest-by-yellow-x-moshicam-1",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a8bbe72e-beed-4f3d-518b-156859e11100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 461533,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 1500
+          }
+        }
+      },
+      {
+        "url": "https://rounds.wtf/yellow/onchain-summer-snaps-contest-by-yellow-x-moshicam-1",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://rounds.wtf/api/app-frames/onchain-summer-snaps-contest-by-yellow-x-moshicam-1/opengraph-image"
+              }
+            ],
+            "ogTitle": "\"Onchain Summer Snaps\" Contest by Yellow x Moshi.cam on Rounds.wtf",
+            "ogLocale": "en",
+            "ogDescription": "Rounds are how communities award people onchain.",
+            "fcFrame": {
+              "button": {
+                "title": "View round",
+                "action": {
+                  "url": "https://rounds.wtf/yellow/onchain-summer-snaps-contest-by-yellow-x-moshicam-1",
+                  "name": "Rounds.wtf",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://rounds.wtf/icon-200x200.png",
+                  "splashBackgroundColor": "#702bc4"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://rounds.wtf/api/app-frames/onchain-summer-snaps-contest-by-yellow-x-moshicam-1/opengraph-image"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "View round",
+            "image": "https://rounds.wtf/api/app-frames/onchain-summer-snaps-contest-by-yellow-x-moshicam-1/opengraph-image",
+            "frames_url": "https://rounds.wtf/yellow/onchain-summer-snaps-contest-by-yellow-x-moshicam-1",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 271985,
+              "username": "rounds",
+              "display_name": "Rounds",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8b700aa1-5992-4de7-c1ab-d2ee584baa00/original",
+              "custody_address": "0x03daf2bebe483a194e1eb02957a825d8ae1197b5"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjI3MTk4NSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDAzZEFmMkJlQkU0ODNBMTk0RTFlYjAyOTU3QTgyNWQ4QUUxMTk3QjUifQ",
+                "payload": "eyJkb21haW4iOiJyb3VuZHMud3RmIn0",
+                "signature": "MHhmMWJmZGY5NzlkYTJkOTIyZTRhZjBmZDViMDQ0MjYyZDVlMTgxMTJmYzQ3NTE2NjUxN2Y0ZmNiMzg4MjE3MWVmNzUyNTNmZGRlMTU0NWJjMzVlMWI3Y2MwYzk1N2U1OWQ1ZGFiZmVhYzZiMGNhNzNmMWU5ZDgyYjUzMTI0YzNkODFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Rounds.wtf",
+                "home_url": "https://rounds.wtf",
+                "icon_url": "https://rounds.wtf/icon-200x200.png",
+                "splash_image_url": "https://rounds.wtf/icon-200x200.png",
+                "splash_background_color": "#702bc4",
+                "webhook_url": "https://rounds.wtf/api/app-frames/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Rounds.wtf",
+                "home_url": "https://rounds.wtf",
+                "icon_url": "https://rounds.wtf/icon-200x200.png",
+                "splash_image_url": "https://rounds.wtf/icon-200x200.png",
+                "splash_background_color": "#702bc4",
+                "webhook_url": "https://rounds.wtf/api/app-frames/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xff2609ce",
+    "url": "https://warpcast.com/manuwilliams/0xff2609ce",
+    "author_username": "manuwilliams",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 308410,
+    "author_pfp": "https://i.imgur.com/t2z5IK1.jpg",
+    "cast_date": "2024-07-24T02:38:28.000Z",
+    "text": "I resisted @moshicam for a while but the custom polaroid frames reminded me of my fun instant photo days and I caved…\n\nGrabbed some sunny vibes from the /yellow mints before bed by my friends:\n🌻😎💛\n\n@y0b \n@innamosina \n@reneecampbell \n@angelikakollin",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7e8dd864-fcb3-4ba5-c29b-edb5c9b3d000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 209624,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1263,
+            "height_px": 1496
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc3e9bc1a",
+    "url": "https://warpcast.com/toadyhawk.eth/0xc3e9bc1a",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2024-07-20T17:04:45.000Z",
+    "text": "\"I like to spend most of my governance time on proposals where I have a unique expertise or point of view.\"\n\nOn episode 29 of the Zero Rights Reserved podcast, we get into the nitty gritty with @will Papper, Nouner and co-founder of @syndicate about all things Ethereum, Farcaster, L2s and L3s, $degen and, of course, Nouns! \n\nMint a watchable copy of the video pod for FREE on @base.base.eth using the frame directly below this short clip. First 50 mints are Boosted and Free! ⌐◨-◨  \n\nhttps://zora.co/collect/base:0x7f16f2d17907fb3f4e8a8859384a7aec54166ccc/29/frames",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/8fe6d1523e23f3b94bf9f88ed390851c.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 157.29
+          }
+        }
+      },
+      {
+        "url": "https://zora.co/collect/base:0x7f16f2d17907fb3f4e8a8859384a7aec54166ccc/29/frames?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x47cbfaab",
+    "url": "https://warpcast.com/toadyhawk.eth/0x47cbfaab",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2024-07-23T02:16:21.000Z",
+    "text": "Over the past few months, @carlosjmelgar & I have hosted 19 episodes of The Based Buillders Show on X Spaces, but this week we are trying something new…\n\nBased Builders #20 will be hosted LIVE on video on @unlonely & featuring none other than Unlonely founders @grace & @briang. \n\nWED, 3PM EST\n\nRSVP in frame below👇 \n\nhttps://www.unlonely.app/channels/thenounsquare",
+    "embeds": [
+      {
+        "url": "https://www.unlonely.app/channels/thenounsquare",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://unlonely.app/channel/thenounsquare",
+            "ogType": "website",
+            "favicon": "/images/favicon-32x32.png",
+            "ogImage": [
+              {
+                "url": "https://unlonely.app/images/social_banner.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "thenounsquare's channel | Based Builders Live",
+            "ogLocale": "en_US",
+            "ogSiteName": "Based Builders Live",
+            "ogDescription": "gm & welcome to our first Live Video Stream version of the Based Builders show with Toady Hawk and Carlos J Melgar. \n\nThis week we will be joined by the founders of Unlonely, Grace and Brian, to talk about their experience building on Base."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x10e7b86a",
+    "url": "https://warpcast.com/toadyhawk.eth/0x10e7b86a",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2024-07-23T01:14:48.000Z",
+    "text": "\"Thanks For Having Us\"\n\nA commemorative free mint supercut celebrating the one year anniversary of The Zero Rights Reserved podcast (aka ZEROPOD), produced by /thenounsquare and funded by Nouns ⌐◨-◨  \n\nThank you to all our incredible guests from year 1! 👇\n\nhttps://zora.co/collect/base:0xf85fdc5728439105cea9c52baabe3e7cbac36934/1",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/63bb6116b999999fe1db3ef6ad68c777.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1440,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 960,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 320,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 83.6
+          }
+        }
+      },
+      {
+        "url": "https://zora.co/collect/base:0xf85fdc5728439105cea9c52baabe3e7cbac36934/1?referrer=0xBe3FC886e104904935cfC5f4F32F4CCec06CbA79",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbb1366e3",
+    "url": "https://warpcast.com/adrienne/0xbb1366e3",
+    "author_username": "adrienne",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2024-07-01T00:19:52.000Z",
+    "text": "5 months ago, we had recorded fewer than 40 episodes, had 37 subscribers, less than 800 listens across podcast platforms, and less than 300 mints.    \n\nAs of today, we've live streamed 124 episodes (plus a bunch of bonus ones not counted), have over 300 subscribers, 11k listens across podcast platforms, and over 5k mints. \n\nHuge thanks to all the listeners, chatters, friends, hypersub subscribers, sponsors and people who make Farcaster newsworthy enough so that we can do what we love. We 💜 you.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/574c4db3-e4e9-493b-2bd2-24afe727cb00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 715843,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 986
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0x766f7361adde9ae7204516045f51ff6418c6443b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x766f7361adde9ae7204516045f51ff6418c6443b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x766f7361adde9ae7204516045f51ff6418c6443b",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Numbers go up 📈\n\n- 49 live streams \n- 293 episodes minted on @zora \n- 78 unique minters (we ❤️ you)\n- 37 podcast subscribers \n- 796 podcast plays \n- 4 guest interviews \n- 8 sponsors \n\n🙏🙏🙏",
+          "timestamp": "2024-01-20T01:15:42.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 5818,
+                "hash": "0x6795f50732cb2e61a1dc824615b4b519a7c19ce0"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x6795f50732cb2e61a1dc824615b4b519a7c19ce0",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 5818
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5fe8addf",
+    "url": "https://warpcast.com/nounishprof/0x5fe8addf",
+    "author_username": "nounishprof",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-07-23T19:57:43.000Z",
+    "text": "Every time my kiddo (16yo) leaves the kitchen there’s a cabinet or drawer open. EVERY. SINGLE. TIME. \n\nwhy? Is this a teen thing? Is this a guy thing? Why??????? 🤬 ok rant over, carry on \n\n(and yes of course there are ⌐◨-◨ on my fridge)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f5ae27c6-11af-4614-2eca-c237d096d000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 671600,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2400,
+            "height_px": 3200
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e4684db",
+    "url": "https://warpcast.com/nounishprof/0x5e4684db",
+    "author_username": "nounishprof",
+    "show_date": "2024-07-25",
+    "show_title": "Gm Farcaster Ep133 Wednesday, July 24, 2024 with guest cohost  @toadyhawk",
+    "source_episode_id": "6pwEzMMcdCM",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2024-03-11T12:25:14.000Z",
+    "text": "GM Faraster cup o' mole is unlimited for those with an abundance mindset -- while wowow is currently limited to 100 until our 100th episode!  Get your cup o' mole here:\nhttps://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+    "embeds": [
+      {
+        "url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://hypersub.xyz/s/gm-farcaster-cup-o-mole-as1135ef0vsw",
+            "ogType": "website",
+            "favicon": "/apple-touch-icon.png",
+            "ogImage": [
+              {
+                "url": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Subscribe to GM Farcaster Cup o' Mole on Hypersub",
+            "ogSiteName": "@withfabricxyz",
+            "ogDescription": "GM Farcaster is the first and only live stream news show and podcast covering the Farcaster ecosystem hosted and produced by @NounishProf and @Adrienne.  ...",
+            "fcFrame": {
+              "button": {
+                "title": "Join",
+                "action": {
+                  "url": "https://hypersub.xyz/frames/v2/membership/gm-farcaster-cup-o-mole-as1135ef0vsw?slug=gm-farcaster-cup-o-mole-as1135ef0vsw",
+                  "name": "Hypersub",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://hypersub.xyz/hsog.png",
+                  "splashBackgroundColor": "#F7F7F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join",
+            "image": "https://storage.withfabric.xyz/loom/d2d33737-8a2a-43b1-ad89-cddcacb8f17a.png",
+            "frames_url": "https://hypersub.withfabric.xyz/collection/gm-farcaster-cup-o-mole-as1135ef0vsw"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

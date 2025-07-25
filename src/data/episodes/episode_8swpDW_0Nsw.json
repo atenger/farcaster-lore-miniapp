@@ -1,0 +1,1508 @@
+[
+  {
+    "cast_hash": "0x059b7cdc",
+    "url": "https://warpcast.com/chuckstock/0x059b7cdc",
+    "author_username": "chuckstock",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 16405,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b25619df-aa17-456e-3847-528f45688d00/original",
+    "cast_date": "2025-01-17T23:01:02.000Z",
+    "text": "First Month /farcade Highlights \n\n- 250k Users\n- 1.5M Games Played\n- 6 Games Launched\n- 3 Ecosystems (Farcaster, World, Telegram)\n- $0 Marketing\n\nAl Studio up next. It's Game Time!\nhttps://play.farcade.ai",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b55468b1-459b-47b3-b5bb-60702ae8c400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 437537,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1200,
+            "height_px": 630
+          }
+        }
+      },
+      {
+        "url": "https://play.farcade.ai",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "Remix",
+                "url": "https://play.remix.gg/opengraph-image?bace1d5c14472d48",
+                "type": "image/png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Remix",
+            "ogLocale": "en",
+            "ogDescription": "Play. Create. Remix.",
+            "fcFrame": {
+              "button": {
+                "title": "🕹️ Play",
+                "action": {
+                  "url": "https://play.remix.gg",
+                  "name": "Remix",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://play.remix.gg/icons/craig-splash.png",
+                  "splashBackgroundColor": "#09090B"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://play.remix.gg/opengraph-image?v=1"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "🕹️ Play",
+            "image": "https://play.remix.gg/opengraph-image?v=1",
+            "frames_url": "https://play.farcade.ai/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 325741,
+              "username": "farcade",
+              "display_name": "Farcade",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c7dfdcfa-bdd7-4b61-0bd5-ff8c201f0300/rectcrop3",
+              "custody_address": "0x1d69353eb2b3824038049e826dd4652b930a53c4"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjMyNTc0MSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDFkNjkzNTNFYjJCMzgyNDAzODA0OWU4MjZEZDQ2NTJiOTMwQTUzYzQifQ",
+                "payload": "eyJkb21haW4iOiJwbGF5LmZhcmNhZGUuYWkifQ",
+                "signature": "MHgxMTkzNWI3YmY2ODgyNDQxNjRiOTZlNDFiZDNiYTM5NWQ3ODVhOTI0YWVhNTAzY2JhNjk5ZTQ4NWY2MTdmZGU2NDA0M2NhZTkxNjNhMmQ4OTc2OWZjNTNjMTY1ZTZlOGEyYmM4Yzk3YjkyZThjMDY3NGFkOWZhZjkwZTE1OTQ4YjFi"
+              },
+              "frame": {
+                "version": "0.0.1",
+                "name": "Remix",
+                "home_url": "https://play.farcade.ai",
+                "icon_url": "https://play.remix.gg/icons/icon-512x512.png",
+                "splash_image_url": "https://play.remix.gg/icons/icon-512x512.png",
+                "splash_background_color": "#000",
+                "webhook_url": "https://play.remix.gg/api/webhook/farcaster?miniApp=default",
+                "subtitle": "Play. Build. Remix.",
+                "primary_category": "games",
+                "tags": [
+                  "games",
+                  "social",
+                  "fun",
+                  "entertainment",
+                  "arcade"
+                ],
+                "hero_image_url": "https://lqy3lriiybxcejon.public.blob.vercel-storage.com/game-1200x630-q66h344B7aB03R07FutFvQCIo8v9Ta.png",
+                "tagline": "Play. Build. Remix.",
+                "og_title": "Remix",
+                "og_description": "Play. Build. Remix.",
+                "og_image_url": "https://play.remix.gg/opengraph-image",
+                "canonical_domain": "play.remix.gg"
+              },
+              "miniapp": {
+                "version": "0.0.1",
+                "name": "Remix",
+                "home_url": "https://play.farcade.ai",
+                "icon_url": "https://play.remix.gg/icons/icon-512x512.png",
+                "splash_image_url": "https://play.remix.gg/icons/icon-512x512.png",
+                "splash_background_color": "#000",
+                "webhook_url": "https://play.remix.gg/api/webhook/farcaster?miniApp=default",
+                "subtitle": "Play. Build. Remix.",
+                "primary_category": "games",
+                "tags": [
+                  "games",
+                  "social",
+                  "fun",
+                  "entertainment",
+                  "arcade"
+                ],
+                "hero_image_url": "https://lqy3lriiybxcejon.public.blob.vercel-storage.com/game-1200x630-q66h344B7aB03R07FutFvQCIo8v9Ta.png",
+                "tagline": "Play. Build. Remix.",
+                "og_title": "Remix",
+                "og_description": "Play. Build. Remix.",
+                "og_image_url": "https://play.remix.gg/opengraph-image",
+                "canonical_domain": "play.remix.gg"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdefa99e3",
+    "url": "https://warpcast.com/ds8/0xdefa99e3",
+    "author_username": "ds8",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 11124,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7cfc6af7-1eb5-4287-5818-afd214f45b00/original",
+    "cast_date": "2025-01-19T18:22:34.000Z",
+    "text": "calm tf down\n\nhttps://calmer.onfc.xyz?sid=ccb186d9-d9fc-449e-a8d2-dbc85bca1b07",
+    "embeds": [
+      {
+        "url": "https://calmer.onfc.xyz?sid=ccb186d9-d9fc-449e-a8d2-dbc85bca1b07",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/icon.png",
+            "ogTitle": "Calmer",
+            "ogLocale": "en",
+            "ogDescription": "Breath and relax",
+            "fcFrame": {
+              "button": {
+                "title": "Let's go",
+                "action": {
+                  "url": "https://calmer.onfc.xyz",
+                  "name": "Calmer",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://calmer.onfc.xyz/splash.png",
+                  "splashBackgroundColor": "#166534"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://calmer.onfc.xyz/frames/image?sid=ccb186d9-d9fc-449e-a8d2-dbc85bca1b07"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Let's go",
+            "image": "https://calmer.onfc.xyz/frames/image?sid=ccb186d9-d9fc-449e-a8d2-dbc85bca1b07",
+            "frames_url": "https://calmer.onfc.xyz/?sid=ccb186d9-d9fc-449e-a8d2-dbc85bca1b07",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 11124,
+              "username": "ds8",
+              "display_name": "dusan 🎩",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7cfc6af7-1eb5-4287-5818-afd214f45b00/original",
+              "custody_address": "0xdcc89df5fc8d42c5443388531af1551e0fbd5cad"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjExMTI0LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4ZENjODlEZjVGYzhENDJDNTQ0MzM4ODUzMWFGMTU1MUUwRmJkNUNBZCJ9",
+                "payload": "eyJkb21haW4iOiJjYWxtZXIub25mYy54eXoifQ",
+                "signature": "MHgyMTFiZmZkOGQwNGFmZWEwMzI0ZWQwMDRlMzM3NjY4MTVjMTVhMDUzZmY1MDc3NjY4Njg3MmMyMjQwMjBiNTlhMjQ2ZmMwYzU0OGI5MzE4NGYyMWZjYjY3YjViN2Q5NzdmYWUwYzFmNmRjMWM5OGQxYzJmNmVlODAzY2YxYTA2NjFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Calmer",
+                "home_url": "https://calmer.onfc.xyz",
+                "icon_url": "https://calmer.onfc.xyz/icon.png",
+                "image_url": "https://calmer.onfc.xyz/og.png",
+                "button_title": "Let's go",
+                "splash_image_url": "https://calmer.onfc.xyz/splash.png",
+                "splash_background_color": "#166534",
+                "webhook_url": "https://calmer.onfc.xyz/api/frames/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Calmer",
+                "home_url": "https://calmer.onfc.xyz",
+                "icon_url": "https://calmer.onfc.xyz/icon.png",
+                "image_url": "https://calmer.onfc.xyz/og.png",
+                "button_title": "Let's go",
+                "splash_image_url": "https://calmer.onfc.xyz/splash.png",
+                "splash_background_color": "#166534",
+                "webhook_url": "https://calmer.onfc.xyz/api/frames/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3afc3554",
+    "url": "https://warpcast.com/matthewfox/0x3afc3554",
+    "author_username": "matthewfox",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 4282,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af861e5b-616c-48e8-6531-3547e7686e00/original",
+    "cast_date": "2025-01-20T00:17:11.000Z",
+    "text": "thanks for the 20billy bandos",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e9d393a0-711e-4fcc-5a83-7cf506500700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 231879,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1280,
+            "height_px": 650
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7bdb81a3",
+    "url": "https://warpcast.com/dwr.eth/0x7bdb81a3",
+    "author_username": "dwr.eth",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-01-18T18:04:30.000Z",
+    "text": "Massive Overton Window shifting events create massive new surface areas for opportunity.\n\nWill be a chaotic, weird and exhausting year.\n\nBuckle up.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdf206c44",
+    "url": "https://warpcast.com/ted/0xdf206c44",
+    "author_username": "ted",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-01-18T20:00:22.000Z",
+    "text": "Moonshot reports 200k+ new users last night\nKraken just announced $TRUMP listing, available now\nLegal doc circulating on X claiming $USA launching on 1/24\nNon-crypto groupchats asking me if it is a scam and why to buy it",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x7bdb81a3c5cdc98ff6c039fa8fc484a7998002ec"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7bdb81a3c5cdc98ff6c039fa8fc484a7998002ec",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7bdb81a3c5cdc98ff6c039fa8fc484a7998002ec",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Massive Overton Window shifting events create massive new surface areas for opportunity.\n\nWill be a chaotic, weird and exhausting year.\n\nBuckle up.",
+          "timestamp": "2025-01-18T18:04:30.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x48564ce3",
+    "url": "https://warpcast.com/jessepollak/0x48564ce3",
+    "author_username": "jessepollak",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-01-18T18:04:17.000Z",
+    "text": "on $TRUMP:\n\nto everyone: a huge win for crypto - the overton window is shifted and many new people coming onchain.\n\nto solana: reaffirms your awesome work, proud to build alongside you. \n\nto based builders: THIS IS THE BEGINNING. time to buckle down, keep building, stay based.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9113443a",
+    "url": "https://warpcast.com/nounishprof/0x9113443a",
+    "author_username": "nounishprof",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-01-18T19:28:25.000Z",
+    "text": "I think this take from @nick really sums it up well. Having a hard time looking at it as a huge win. I think it’s mixed.\n\nhttps://x.com/ntmoney/status/1880666008148402620?s=46&t=N80rptBytKhSU-csz4Akrg",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 99,
+          "hash": "0x48564ce3e6136df4644261078d95e94bd8f8311f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x48564ce3e6136df4644261078d95e94bd8f8311f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 99,
+            "username": "jesse.base.eth",
+            "display_name": "Jesse Pollak",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+            "custody_address": "0x4ce34af3378a00c640125e4dbf4c9e64dff4c93b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x48564ce3e6136df4644261078d95e94bd8f8311f",
+          "parent_hash": null,
+          "parent_url": "https://onchainsummer.xyz",
+          "root_parent_url": "https://onchainsummer.xyz",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "on $TRUMP:\n\nto everyone: a huge win for crypto - the overton window is shifted and many new people coming onchain.\n\nto solana: reaffirms your awesome work, proud to build alongside you. \n\nto based builders: THIS IS THE BEGINNING. time to buckle down, keep building, stay based.",
+          "timestamp": "2025-01-18T18:04:17.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "base",
+            "name": "Base",
+            "image_url": "https://warpcast.com/~/channel-images/base.png"
+          }
+        }
+      },
+      {
+        "url": "https://x.com/ntmoney/status/1880666008148402620?s=46&t=N80rptBytKhSU-csz4Akrg",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/NTmoney/status/1880666008148402620",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">2 satoshis on the TRUMP memecoin:<br><br>- Net positive. Vibe shift from Biden anti-crypto era to Trump era is great<br><br>- Trump owning 80% and timing launch hours before inauguration is predatory and many will likely get hurt by it. Trump should be airdropping to the people rather than…</p>&mdash; Nick Tomaino (@NTmoney) <a href=\"https://twitter.com/NTmoney/status/1880666008148402620?ref_src=twsrc%5Etfw\">January 18, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/NTmoney",
+              "author_name": "Nick Tomaino",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdc78c695",
+    "url": "https://warpcast.com/pfista/0xdc78c695",
+    "author_username": "pfista",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 451,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35ff884b-a727-46ff-9241-5652d35a3100/rectcrop3",
+    "cast_date": "2025-01-18T21:14:44.000Z",
+    "text": "$trump conversational volume on buoy\n\nsee major tokens on our new tokens page\n\nbeta.buoy.club/tokens",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c7ed9505-7b09-4533-a97a-5db8510e1300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 135877,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1250
+          }
+        }
+      },
+      {
+        "url": "http://beta.buoy.club/tokens",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "Buoy",
+            "ogLocale": "en",
+            "ogDescription": "Search and Monitor Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x88f78621",
+    "url": "https://warpcast.com/cryptocitizens/0x88f78621",
+    "author_username": "cryptocitizens",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 941280,
+    "author_pfp": "https://img.uno.fun/NcWB6S7GITE-6ibs71L3H6lBbVxnuXd9dalSD_K7c1o/rs:fit:800:600:0/g:sm/Z3M6Ly91bm8taW1hZ2VzLXYwLzAxSkg4V0c0R0NZUTlRTVJOMkpZQkVHNjhHLnBuZw",
+    "cast_date": "2025-01-19T22:21:27.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://img.uno.fun/3-HjZVCbc1Myov1pYNxUxixFfdjcgB4Ce5YcldkyxHY/rs:fit:800:600:0/g:sm/Z3M6Ly91bm8taW1hZ2VzLXYwLzAxSkowQUZXWFRKN0pEVEhIRzUzRDI2OTlCLmpwZw",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 30010,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 508,
+            "height_px": 600
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x57f91d6c",
+    "url": "https://warpcast.com/afrochicks/0x57f91d6c",
+    "author_username": "afrochicks",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 780900,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26d6fa5c-2dd8-4e6c-f788-58afe3133b00/rectcrop3",
+    "cast_date": "2025-01-19T17:56:44.000Z",
+    "text": "following the ban i have decided on a new business venture \n\ni am now officially a tiktok video dealer\n\namericans, send me degen and i’ll reply with a tiktok video \n\nand for the premium package i will dc you 5 tiktok videos a day \n\ni have a unlimited supply 🇬🇧",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0cf14ec5",
+    "url": "https://warpcast.com/cryptocitizens/0x0cf14ec5",
+    "author_username": "cryptocitizens",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 941280,
+    "author_pfp": "https://img.uno.fun/NcWB6S7GITE-6ibs71L3H6lBbVxnuXd9dalSD_K7c1o/rs:fit:800:600:0/g:sm/Z3M6Ly91bm8taW1hZ2VzLXYwLzAxSkg4V0c0R0NZUTlRTVJOMkpZQkVHNjhHLnBuZw",
+    "cast_date": "2025-01-19T20:22:39.000Z",
+    "text": "And just like that, TikTok is back. Great theatrics. pay attention.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 941280,
+          "hash": "0x8d9b3e4814c47188a2a3e75a2a3822dc9b74a415"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x8d9b3e4814c47188a2a3e75a2a3822dc9b74a415",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 941280,
+            "username": "cryptocitizens",
+            "display_name": "CryptoCitizens",
+            "pfp_url": "https://img.uno.fun/NcWB6S7GITE-6ibs71L3H6lBbVxnuXd9dalSD_K7c1o/rs:fit:800:600:0/g:sm/Z3M6Ly91bm8taW1hZ2VzLXYwLzAxSkg4V0c0R0NZUTlRTVJOMkpZQkVHNjhHLnBuZw",
+            "custody_address": "0x4582ad8fe5c0ae44f77af3dd087fc1fcb9c64ddb"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 6131,
+            "username": "neynar",
+            "display_name": "Neynar",
+            "pfp_url": "https://i.imgur.com/UjBZ3pV.png",
+            "custody_address": "0xa6a8736f18f383f1cc2d938576933e5ea7df01a1"
+          },
+          "thread_hash": "0x8d9b3e4814c47188a2a3e75a2a3822dc9b74a415",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Would be funny if TikTok was back on Monday or Tuesday LOL and just like that, Donnie will make TikTokers and Gen Z happy (and the launch of the token has already made Crypto Twitter and all degens happy). Way to create positive sentiment even before stepping into office. Elmo is probably advising HAHA",
+          "timestamp": "2025-01-19T04:23:56.000Z",
+          "embeds": [
+            {
+              "url": "https://img.uno.fun/yFIiKml0tF6JGOUlHkw1jkLI26hgpZGnmUnC3IEDceA/rs:fit:800:600:0/g:sm/Z3M6Ly91bm8taW1hZ2VzLXYwLzAxSkhZQ0pON1E2MDczVEgyRkM2QjBNWlZRLmpwZw",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 41639,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 674,
+                  "height_px": 600
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x82a53865",
+    "url": "https://warpcast.com/gigamesh/0x82a53865",
+    "author_username": "gigamesh",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 4378,
+    "author_pfp": "https://i.imgur.com/3hrPNK8.jpg",
+    "cast_date": "2025-01-16T15:00:01.000Z",
+    "text": "I respect all the companies that maintain a Farcaster presence despite the small near-term benefits. It’s a signal that they’re long-term thinkers and walk the walk on crypto values.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x891bbee5",
+    "url": "https://warpcast.com/adrienne/0x891bbee5",
+    "author_username": "adrienne",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-01-17T16:21:50.000Z",
+    "text": "Some of these brands aren’t casting from their brand account but rather from founders and employees. \n\nSee: privy and @henri @segall \npinata and @polluterofminds and @stevedylandev \n\nBut I want to give flowers to the brands so wasn’t sure what to do\n\nThoughts? \n\n\nhttps://warpcast.com/adrienne/pack/Brand-Accounts-But-nbumw4",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x06abc1f91c0f3e61b918b093957af510ca45857b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x06abc1f91c0f3e61b918b093957af510ca45857b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x06abc1f91c0f3e61b918b093957af510ca45857b",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "So be cool. Don’t be all like, uncool. \n\nNew starter pack from @adrienne \n\nhttps://warpcast.com/adrienne/pack/Brand-Accounts-But-nbumw4",
+          "timestamp": "2025-01-17T15:44:50.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c59b7d8a-4a6b-4312-389c-14bacd19b200/original",
+              "metadata": {
+                "content_type": "image/gif",
+                "content_length": 3744061,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 500,
+                  "height_px": 281
+                }
+              }
+            },
+            {
+              "url": "https://warpcast.com/adrienne/pack/Brand-Accounts-But-nbumw4",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "/adrienne/pack/Brand-Accounts-But-nbumw4",
+                  "ogType": "website",
+                  "favicon": "/favicon.png",
+                  "ogImage": [
+                    {
+                      "url": "https://client.warpcast.com/v2/og-image?starterPackId=Brand-Accounts-But-nbumw4",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "Brand Accounts. But Cool.",
+                  "ogLocale": "en",
+                  "ogSiteName": "Warpcast",
+                  "ogDescription": "Starter pack by @adrienne"
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://warpcast.com/adrienne/pack/Brand-Accounts-But-nbumw4",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "/adrienne/pack/Brand-Accounts-But-nbumw4",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://client.warpcast.com/v2/og-image?starterPackId=Brand-Accounts-But-nbumw4",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Brand Accounts. But Cool.",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast",
+            "ogDescription": "Starter pack by @adrienne"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3e35e451",
+    "url": "https://warpcast.com/macbudkowski/0x3e35e451",
+    "author_username": "macbudkowski",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 1048,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a43231ca-1d8d-4563-c9b3-6a8e934c2a00/original",
+    "cast_date": "2025-01-15T16:31:42.000Z",
+    "text": "gm, \n\nWe are launching the writing contest called \"Farcaster 2026\".\n\nThe goal is to explore paths that Farcaster can take this year to reach the next level in 2026. \n\nWe have a 2 ETH prize pool for best submissions.\n\nOrganized by @kiwi & @purple.\n\nMore details in the post:\nhttps://paragraph.xyz/@kiwi-updates/farcaster-2026-writing-contest",
+    "embeds": [
+      {
+        "url": "https://paragraph.xyz/@kiwi-updates/farcaster-2026-writing-contest",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2025-01-15T16:31:08.537Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/db80691f13ba99bc84d7e655938ad7ed.png",
+            "ogImage": [
+              {
+                "alt": "Farcaster 2026 writing contest",
+                "url": "https://storage.googleapis.com/papyrus_images/2782a643ef6319a7b279454de655266a.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Farcaster 2026 writing contest",
+            "ogLocale": "en",
+            "ogDescription": "Write about the future of Farcaster and compete for the 2 ETH prize pool. Contest organized by Purple & Kiwi.",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@kiwi-updates/farcaster-2026-writing-contest?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Farcaster%202026%20writing%20contest&blogName=Kiwi%20Updates&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fdb80691f13ba99bc84d7e655938ad7ed.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F2782a643ef6319a7b279454de655266a.jpg&size=2048&publishedDate=1736958668537"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Farcaster%202026%20writing%20contest&blogName=Kiwi%20Updates&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fdb80691f13ba99bc84d7e655938ad7ed.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F2782a643ef6319a7b279454de655266a.jpg&size=2048&publishedDate=1736958668537",
+            "frames_url": "https://paragraph.xyz/@kiwi-updates/farcaster-2026-writing-contest",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGgueHl6In0",
+                "signature": "MHg5YmQ4MDcxNmVmNjIwZTFjM2UwZDkzMzQ5ZDNlNTU5N2MzYmU3NzQ2MDJmYTliZmE1Zjg2Mzk3Y2QxZTk4MGExM2RmNDVmMDM2ODE5Y2FhZmZiZmE5MTMxN2U3MGRlYWRlYTI2YWUzMTA2N2I1NDNiMTFkZDI3ODk3NzQ3ZWI5YjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x01dfd990",
+    "url": "https://warpcast.com/limone.eth/0x01dfd990",
+    "author_username": "limone.eth",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 4461,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05f5a8aa-48ee-48af-d618-c420091f3200/original",
+    "cast_date": "2025-01-17T16:39:35.000Z",
+    "text": "🎺 /farville ALPHA is live! 🎺\n\nplant, grow and harvest crop with you farcaster frens 🧑‍🌾\n\nstart farming today to collect XP points and compete in the global leaderboard ⭐️\n\nALPHA will last for 1 month, at the end of which, the best players will earn some special rewards 👀\n\nfarville.farm",
+    "embeds": [
+      {
+        "url": "http://farville.farm",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://farville.farm/images/og-preview.png",
+                "type": "png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Farville",
+            "ogLocale": "en",
+            "ogDescription": "Plant, grow, and harvest crops with your friends.",
+            "fcFrame": {
+              "button": {
+                "title": "Play Farville 🧑‍🌾",
+                "action": {
+                  "url": "https://farville.farm",
+                  "name": "Farville",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://farville.farm/images/splash.png",
+                  "splashBackgroundColor": "#f7f7f7"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://farville.farm/images/feed.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Play Farville 🧑‍🌾",
+            "image": "https://farville.farm/images/feed.png",
+            "frames_url": "http://farville.farm/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 592677,
+              "username": "builders-garden",
+              "display_name": "Builders Garden 🌳",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/21cd5780-1fa9-411d-9684-b746237b2c00/rectcrop3",
+              "custody_address": "0xf39bc05b88fd7d253eea6e2cd6eee8a1495f80d8"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjU5MjY3NywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEYzOWJDMDViODhmRDdEMjUzZWVhNmUyQ0Q2ZUVFOEExNDk1RjgwRDgifQ",
+                "payload": "eyJkb21haW4iOiJmYXJ2aWxsZS5mYXJtIn0",
+                "signature": "MHg4OTRjODNmZjY0NmNkYjBlMjUzZWMxM2RkM2E0ZWNjOTgwZDgwMjc4ZjMyYTJlYTE1ZTJjYzg1YTYyMjkxZjI2NWYzNmQ0MGI0NDFjZjYyMmE0YjE4ZTIwNTRkYTY0OWFhOWU3MjNmOTY0NWY1Y2MxZGEzNTg3MGVmMmZiNjU1YzFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Farville",
+                "home_url": "https://farville.farm",
+                "icon_url": "https://farville.farm/images/icon.png",
+                "image_url": "https://farville.farm/images/feed.png",
+                "button_title": "Play Farville 🧑‍🌾",
+                "splash_image_url": "https://farville.farm/images/splash.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://farville.farm/api/webhook",
+                "subtitle": "Farm daily, earn weekly",
+                "description": "Plant, harvest, compete and earn",
+                "screenshot_urls": [
+                  "https://farville.farm/images/screenshots/1.png",
+                  "https://farville.farm/images/screenshots/2.png",
+                  "https://farville.farm/images/screenshots/3.png"
+                ],
+                "primary_category": "games",
+                "tags": [
+                  "farm",
+                  "potato",
+                  "game"
+                ],
+                "hero_image_url": "https://farville.farm/images/hero.jpg",
+                "tagline": "Farm daily, earn weekly",
+                "og_title": "Play Farville",
+                "og_description": "Plant, harvest, compete and earn",
+                "og_image_url": "https://farville.farm/images/hero.jpg",
+                "noindex": false
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Farville",
+                "home_url": "https://farville.farm",
+                "icon_url": "https://farville.farm/images/icon.png",
+                "image_url": "https://farville.farm/images/feed.png",
+                "button_title": "Play Farville 🧑‍🌾",
+                "splash_image_url": "https://farville.farm/images/splash.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://farville.farm/api/webhook",
+                "subtitle": "Farm daily, earn weekly",
+                "description": "Plant, harvest, compete and earn",
+                "screenshot_urls": [
+                  "https://farville.farm/images/screenshots/1.png",
+                  "https://farville.farm/images/screenshots/2.png",
+                  "https://farville.farm/images/screenshots/3.png"
+                ],
+                "primary_category": "games",
+                "tags": [
+                  "farm",
+                  "potato",
+                  "game"
+                ],
+                "hero_image_url": "https://farville.farm/images/hero.jpg",
+                "tagline": "Farm daily, earn weekly",
+                "og_title": "Play Farville",
+                "og_description": "Plant, harvest, compete and earn",
+                "og_image_url": "https://farville.farm/images/hero.jpg",
+                "noindex": false
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9ae38d52",
+    "url": "https://warpcast.com/nounishprof/0x9ae38d52",
+    "author_username": "nounishprof",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-01-17T13:19:08.000Z",
+    "text": "Send me a yo \n\n(I have no idea what’s happening but I have until Monday to figure it out before /gmfarcaster cc: @stephancill )",
+    "embeds": [
+      {
+        "url": "https://yo.steer.fun/?user=4167",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://yo.steer.fun/og.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "@nounishprof on Yo",
+            "ogLocale": "en",
+            "ogDescription": "Just yo on Farcaster.",
+            "fcFrame": {
+              "button": {
+                "title": "Yo @nounishprof",
+                "action": {
+                  "url": "https://yo.steer.fun?user=4167",
+                  "name": "Launch Yo",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://yo.steer.fun/splash.png",
+                  "splashBackgroundColor": "#361B54"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://yo.steer.fun/images/user?fid=4167"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Yo @nounishprof",
+            "image": "https://yo.steer.fun/images/user?fid=4167",
+            "frames_url": "https://yo.steer.fun/?user=4167",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1689,
+              "username": "stephancill",
+              "display_name": "Stephan",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/64c851c0-2036-4629-ead7-ae60bfc62500/original",
+              "custody_address": "0x2738b21cb9520338f9a375c3b971b1778ae1004a"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjE2ODksInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgyNzM4QjIxY0I5NTIwMzM4RjlBMzc1YzNiOTcxQjE3NzhhZTEwMDRhIn0",
+                "payload": "eyJkb21haW4iOiJ5by5zdGVlci5mdW4ifQ",
+                "signature": "MHhjODdlOGNhZGIxMDZmYjFmNTU5NjMyNDFhMDFkMmM5N2YwM2FlOTlhYWRlMDBiNmY2YjYyZjZkNmYzNzEwMzM4MTZjMjZmMjc5N2EyYzVmMDIwMDJmNmVlMTQ0Y2VkNWYyNjg1ZTU1NmQxNjNmZjA5ZWFmMDE5MDljZDU4ZDBjNzFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Yo",
+                "home_url": "https://yo.steer.fun",
+                "icon_url": "https://yo.steer.fun/icon.png",
+                "image_url": "https://yo.steer.fun/og.png",
+                "button_title": "Yo",
+                "splash_image_url": "https://yo.steer.fun/splash.png",
+                "splash_background_color": "#361B54",
+                "webhook_url": "https://yo.steer.fun/api/webhooks/farcaster"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Yo",
+                "home_url": "https://yo.steer.fun",
+                "icon_url": "https://yo.steer.fun/icon.png",
+                "image_url": "https://yo.steer.fun/og.png",
+                "button_title": "Yo",
+                "splash_image_url": "https://yo.steer.fun/splash.png",
+                "splash_background_color": "#361B54",
+                "webhook_url": "https://yo.steer.fun/api/webhooks/farcaster"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x140db345",
+    "url": "https://warpcast.com/nounishprof/0x140db345",
+    "author_username": "nounishprof",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-01-17T16:00:49.000Z",
+    "text": "Yo @adrienne",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f74895d8-1fa1-4a17-0840-e41ef60e7700/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 1416179,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 320,
+            "height_px": 240
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0x2cbb4b33d21f289e6b13ac05fe96b251907a0bf9"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x2cbb4b33d21f289e6b13ac05fe96b251907a0bf9",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9ae38d522e660102af32999e1e9e40a8a8465f55",
+          "parent_hash": "0x9ae38d522e660102af32999e1e9e40a8a8465f55",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 4167
+          },
+          "text": "Yooo",
+          "timestamp": "2025-01-17T14:23:38.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x73191f02",
+    "url": "https://warpcast.com/nounishprof/0x73191f02",
+    "author_username": "nounishprof",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-01-17T16:22:29.000Z",
+    "text": "Yo — I’m getting poke vibes 👉",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6b33ac8b-841b-41a0-c6dd-f26d92930000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 200356,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1269,
+            "height_px": 849
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfc043d32",
+    "url": "https://warpcast.com/vitalik.eth/0xfc043d32",
+    "author_username": "vitalik.eth",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 5650,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b663cd63-fecf-4d0f-7f87-0e0b6fd42800/original",
+    "cast_date": "2025-01-18T15:15:31.000Z",
+    "text": "We are indeed currently in the process of large changes to EF leadership structure, which has been ongoing for close to a year. Some of this has already been executed on and made public, and some is still in progress.\n\nWhat we're trying to achieve is primarily the following goals:\n\n* Improve level of technical expertise within EF leadership\n* Improve two-way communications and ties between EF leadership and the ecosystem actors, old and new, that it is our role to support: users (individual and institutional), app devs, wallets, L2s\n* Bring in fresh talent, improve execution ability and speed\n* Become more actively supportive of app builders, and make sure important values and inalienable rights (esp privacy, open source, censorship resistance) are a reality for users including at the app layer\n* Continue to increase our use of decentralized and privacy tech and the Ethereum chain, including for payments and treasury management\n\n...",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xff1fed64",
+    "url": "https://warpcast.com/brixbounty/0xff1fed64",
+    "author_username": "brixbounty",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 18723,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b84ec371-e4c8-48bb-4f2f-8541866bf100/rectcrop3",
+    "cast_date": "2025-01-19T23:47:21.000Z",
+    "text": "Understanding what’s up with the mess that are swaps on Solana?\n\nthis is a good quick summary.\n\nhttps://x.com/0xrwu/status/1881110034412867893?s=46&t=TVy9rDl3UkuxmVj4e18bOA",
+    "embeds": [
+      {
+        "url": "https://x.com/0xrwu/status/1881110034412867893?s=46&t=TVy9rDl3UkuxmVj4e18bOA",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/0xrwu/status/1881110034412867893",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">What is happening:<br><br>- Someone nuked SOL on-chain. Probably market sold a bunch of it into pools.<br>- SOL down to $200 on-chain.<br>- A bunch of arb bots started bombarding Jup + DEX, since CEXs were still at $250.<br>- This caused a spike in priority fees for DEXs as everyone tries to…</p>&mdash; Richard | Tensor (apps/acc) (@0xrwu) <a href=\"https://twitter.com/0xrwu/status/1881110034412867893?ref_src=twsrc%5Etfw\">January 19, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/0xrwu",
+              "author_name": "Richard | Tensor (apps/acc)",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdec3c7f1",
+    "url": "https://warpcast.com/woj.eth/0xdec3c7f1",
+    "author_username": "woj.eth",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2025-01-20T13:50:11.000Z",
+    "text": "we just cancelled all recurring billing on @super\n\nif you don't want your membership to run out (trust me, you don't) go to https://www.super.sc/settings and extend your membership ahead manually\n\nwe will be sending wc dm notifications (and soon emails) 5 days and 1 day before your membership expires\n\nshare with a super friend!",
+    "embeds": [
+      {
+        "url": "https://www.super.sc/settings",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://super.sc/",
+            "ogType": "website",
+            "favicon": "/supercast-logo-white.png",
+            "ogImage": [
+              {
+                "alt": "Super",
+                "url": "https://www.super.sc/api/og?type=landing",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Super",
+            "ogLocale": "en_US",
+            "ogSiteName": "Super",
+            "ogDescription": "Have fun on farcaster ツ"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x25d75539",
+    "url": "https://warpcast.com/woj.eth/0x25d75539",
+    "author_username": "woj.eth",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2025-01-20T11:53:07.000Z",
+    "text": "@eddy on friday we completed our rebrand and launched the free version of the app — can we merge this change to a16z/awesme-farcaster please?\n\nhttps://github.com/a16z/awesome-farcaster/pull/115",
+    "embeds": [
+      {
+        "url": "https://github.com/a16z/awesome-farcaster/pull/115",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://github.com/a16z/awesome-farcaster/pull/115",
+            "ogType": "object",
+            "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+            "ogImage": [
+              {
+                "url": "https://opengraph.githubassets.com/7bd4f3c1373a42edb5f575b4432798e7cc303a61e7697d74851d41e6d6a5448c/a16z/awesome-farcaster/pull/115",
+                "width": "1200",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "Rename supercast to super by wojtekwtf · Pull Request #115 · a16z/awesome-farcaster",
+            "ogLocale": "en",
+            "ogSiteName": "GitHub"
+          }
+        }
+      },
+      {
+        "url": "https://supercast.mypinata.cloud/ipfs/QmZuXu2QudZEuqATbG3AdrZmvfjTaewffZ5BjBVfZyuyAT?filename=Screenshot-2025-01-20-at-12.52.45.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 1263210,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3248,
+            "height_px": 2112
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x92467f43",
+    "url": "https://warpcast.com/eulerlagrange.eth/0x92467f43",
+    "author_username": "eulerlagrange.eth",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 16148,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d20697e6-f714-4c5a-aad3-5ba1da907100/rectcrop3",
+    "cast_date": "2024-01-26T17:20:41.000Z",
+    "text": "I’m always skeptical when men say their wives shaped who they are.\n\nDid she affect who you are professionally, or are we talking family man Dan?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x517be2bf",
+    "url": "https://warpcast.com/nounishprof/0x517be2bf",
+    "author_username": "nounishprof",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-01-17T03:12:58.000Z",
+    "text": "😏",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9565ac99-f5cf-436c-2722-a78986289e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 173496,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 1008
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0xe92d0429e39cbbe7f3ae085cfe7959a1f6911251"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe92d0429e39cbbe7f3ae085cfe7959a1f6911251",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9d636c0e1cea2e069e1cecfba17256b8d1c8ddeb",
+          "parent_hash": "0x8e5b9d892b4ead9333ce85f4345edcd18d239a09",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 4167
+          },
+          "text": "Invite your wife meta is killing me",
+          "timestamp": "2025-01-16T22:35:41.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9d636c0e",
+    "url": "https://warpcast.com/adrienne/0x9d636c0e",
+    "author_username": "adrienne",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-01-16T20:09:22.000Z",
+    "text": "Dude compares dating women to customers and finding PMF and somehow it’s not at all cringe and just a wholesome story about love  \n\n🥰🥰",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5494,
+          "hash": "0x113f4c84ca429a972db41e73cd0e854c5f0920ff"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x113f4c84ca429a972db41e73cd0e854c5f0920ff",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5494,
+            "username": "jachian",
+            "display_name": "Jason",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e27518c4-686e-429a-92f1-f635c05a1100/rectcrop3",
+            "custody_address": "0xd5ac95c4f39952083085bbfda5b3794be330ed48"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x113f4c84ca429a972db41e73cd0e854c5f0920ff",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Little different, but my story more closely resembles a wandering founder finding PMF. Met wife at 28 and got married at 29\n\nJust about spent the first 25 years of my life not dating. After finding some stability in my life around 27, I had the realization that there's no better solve for finding a mate than just going on dates (talk to customers). In that period on dating apps, I learned a lot about myself and some of the things that I wanted to change to attract the type of future wife I wanted, I eventually met @shiwen \n\nI couldn't tell you what PMF actually feels like, but I'd imagine it was similar to what I felt meeting my future wife. You know it when you see it. We got married 1.5 years after our first date",
+          "timestamp": "2025-01-16T19:14:25.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 16148,
+                "hash": "0x92467f43c2f1cd56f2b62b7405bfbeeccd0e065d"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x92467f43c2f1cd56f2b62b7405bfbeeccd0e065d",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 16148
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x113f4c84",
+    "url": "https://warpcast.com/jachian/0x113f4c84",
+    "author_username": "jachian",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 5494,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e27518c4-686e-429a-92f1-f635c05a1100/rectcrop3",
+    "cast_date": "2025-01-16T19:14:25.000Z",
+    "text": "Little different, but my story more closely resembles a wandering founder finding PMF. Met wife at 28 and got married at 29\n\nJust about spent the first 25 years of my life not dating. After finding some stability in my life around 27, I had the realization that there's no better solve for finding a mate than just going on dates (talk to customers). In that period on dating apps, I learned a lot about myself and some of the things that I wanted to change to attract the type of future wife I wanted, I eventually met @shiwen \n\nI couldn't tell you what PMF actually feels like, but I'd imagine it was similar to what I felt meeting my future wife. You know it when you see it. We got married 1.5 years after our first date",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 16148,
+          "hash": "0x92467f43c2f1cd56f2b62b7405bfbeeccd0e065d"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x92467f43c2f1cd56f2b62b7405bfbeeccd0e065d",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 16148,
+            "username": "eulerlagrange.eth",
+            "display_name": "NoReverseGearLagrange",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d20697e6-f714-4c5a-aad3-5ba1da907100/rectcrop3",
+            "custody_address": "0xcc168396cb323f4828192b4d78c3f7848314228e"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd33eebe60cf88849739b3d67b9e633817567983f",
+          "parent_hash": "0xd5ce6d6f8c26c5e1ca3f314fe17df5d6967fb526",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 3
+          },
+          "text": "I’m always skeptical when men say their wives shaped who they are.\n\nDid she affect who you are professionally, or are we talking family man Dan?",
+          "timestamp": "2024-01-26T17:20:41.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x66ba0355",
+    "url": "https://warpcast.com/rish/0x66ba0355",
+    "author_username": "rish",
+    "show_date": "2025-01-20",
+    "show_title": "GM Farcaster ep204 Monday January 20, 2025 with @chuckstock /farcade",
+    "source_episode_id": "8swpDW_0Nsw",
+    "author_fid": 194,
+    "author_pfp": "https://i.imgur.com/naZWL9n.gif",
+    "cast_date": "2025-01-16T14:41:18.000Z",
+    "text": "same\n\n@galazio and I met when we were 20, got married at 25 \n\nour time together shaped a lot of who we have and will become",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x0af32a82f617ab8c6e0e8e190e5243e271427574"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0af32a82f617ab8c6e0e8e190e5243e271427574",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd33eebe60cf88849739b3d67b9e633817567983f",
+          "parent_hash": "0x92467f43c2f1cd56f2b62b7405bfbeeccd0e065d",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 16148
+          },
+          "text": "I met her at 25. Huge impact on who I am as an adult.",
+          "timestamp": "2024-01-26T17:21:40.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

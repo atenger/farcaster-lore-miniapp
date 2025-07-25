@@ -1,0 +1,1590 @@
+[
+  {
+    "cast_hash": "0x94ba526a",
+    "url": "https://farcaster.xyz/adrienne/0x94ba526a",
+    "author_username": "adrienne",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-06-01T13:39:48.000Z",
+    "text": "View from a party I went to last night, with NYC skyline in the distance (easier to see IRL than in the photo)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4de3b4f2-93ea-4f0d-8233-38f56c4a2100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 441031,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1499
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4b823090",
+    "url": "https://farcaster.xyz/nickysap/0x4b823090",
+    "author_username": "nickysap",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 269091,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9898cc1f-6574-453c-5817-da0e8bc3a800/original",
+    "cast_date": "2025-05-31T02:41:40.000Z",
+    "text": "Big day for @circusdotfun and Farcaster.\n\nThe airdrop went extremely smoothly. Hats off to @pirosb3 and the team. @linda coordinated the entire process beautifully, making us feel like genuine partners every step of the way.\n\nHere are some thoughts now that the dust has settled:",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0c69267e",
+    "url": "https://farcaster.xyz/linda/0x0c69267e",
+    "author_username": "linda",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-05-30T17:29:31.000Z",
+    "text": "Thanks to @nickysap for working with us on this first Solana token airdrop to Farcaster users! Huge thanks to @pirosb3 for the custom Solana work and @slokh @blockheim for building the airdrop tool itself\n\nWe've got 4 more Solana token airdrops lined up totaling $80k. DM me if you're interested in running an airdrop",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1,
+          "hash": "0x72bd6684c77859c41fc7442d9b05857573ea543b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x72bd6684c77859c41fc7442d9b05857573ea543b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1,
+            "username": "farcaster",
+            "display_name": "Farcaster",
+            "pfp_url": "https://i.imgur.com/I2rEbPF.png",
+            "custody_address": "0x8773442740c17c9d0f0b87022c722f9a136206ed"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x72bd6684c77859c41fc7442d9b05857573ea543b",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "The first Solana airdrop to Farcaster users is live!\n\n@circusdotfun from @nickysap",
+          "timestamp": "2025-05-30T17:11:28.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.farcaster.xyz/v1/video/0197222c-b264-8a38-d239-0d72aaad5d37.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1080,
+                      "width_px": 1440,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 720,
+                      "width_px": 960,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 480,
+                      "width_px": 640,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 360,
+                      "width_px": 480,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 240,
+                      "width_px": 320,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 12.39
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd3c94daa",
+    "url": "https://farcaster.xyz/linda/0xd3c94daa",
+    "author_username": "linda",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-05-30T19:50:45.000Z",
+    "text": "For the $CRCS airdrop today, at least $10 in SOL was *one* of the requirements. Among users that had at least $10 in SOL, the Circus team optimized for top 1.5k users based on mix of mini app usage and onchain txns (each team picks different criteria + budget). I also included a large buffer for SOL price fluctuation",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 12,
+          "hash": "0xacbeaa7a8f96c2182f535c85e27f59f0bfa52c10"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xacbeaa7a8f96c2182f535c85e27f59f0bfa52c10",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12,
+            "username": "linda",
+            "display_name": "Linda Xie",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+            "custody_address": "0xb43575d58c49d2be880e0f821ddf51d15c13c376"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xacbeaa7a8f96c2182f535c85e27f59f0bfa52c10",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "The first Solana token airdrop to Farcaster users is $CRCS, here's where you can learn more about the token! https://www.circus.fun/#token\n\nThe criteria will be optimizing for a mix of mini app usage, onchain txns, and a Farcaster wallet balance of at least $10 in SOL\n\nThanks @nickysap for working with us on this!",
+          "timestamp": "2025-05-29T01:50:05.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 269091,
+                "hash": "0xc7e19f15305fc117c986a41252425e1d890e0674"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xc7e19f15305fc117c986a41252425e1d890e0674",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 269091
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://www.circus.fun/#token",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogTitle": "CIRCUS - The Next Act Begins",
+                  "ogLocale": "en",
+                  "ogDescription": "Embedding onchain capabilities directly into the social fabric and transforming online engagement into direct economic participation."
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbdb52c95",
+    "url": "https://farcaster.xyz/linda/0xbdb52c95",
+    "author_username": "linda",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-06-01T01:33:37.000Z",
+    "text": "We can always improve the airdrops and something we're working on but also can't make everyone happy giving out tokens with a set budget (usually $10K). I do feel happy though in 2 months there's been ~$140K distributed to 10K+ Farcaster users with $125K+ lined up and positive feedback from teams we've worked with",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x16c7bf42",
+    "url": "https://farcaster.xyz/tldr/0x16c7bf42",
+    "author_username": "tldr",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c8a5399-3ae5-4994-a9fe-d1e6c5ebc600/original",
+    "cast_date": "2025-05-31T13:18:20.000Z",
+    "text": "My 2c on Airdrop-Selling drama:\n\n+ I worked with Merkle on an Airdrop. They didn't impose their criteria on us, they helped us to set *our* critieria.\n\n+ Therefore, I think many people are mistakingly taking Dan's comment as a threat \"from Dan\" when, in fact, it is his observation of what Airdrop Teams will decide for their self-interest.\n\n+ And I'd say Dan's point is directionally correct – giving airdrops that seem likely to be insta-sold is less appealing to Teams than the opposite.\n\n+ However, selling does *not* have to overwhelm all other criteria. Eg, if someone is a power-user of many apps and tokens like @tricil.eth, this may be more important to a Team than whether he sold a drop or not.\n\ntldr: Dan's point clearly has merit, but Airdrop Criteria is a unique decision made by each Team (not by Merkle!)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x07c544eddd368affcb9bf1338ae408a3ca5c50bb"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x07c544eddd368affcb9bf1338ae408a3ca5c50bb",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x07c544eddd368affcb9bf1338ae408a3ca5c50bb",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "You’re a developer building a new token-based product.\n\nYour goal is to acquire users for your product. You’re considering an airdrop as a tactic to do this.\n\nUser A \nHistory of not selling airdrops immediately.\n\nUser B\nSells most airdrops immediately.\n\nYou can only airdrop to one. Which one do you choose?",
+          "timestamp": "2025-05-31T03:11:34.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0a71bc4b",
+    "url": "https://farcaster.xyz/metadavid/0x0a71bc4b",
+    "author_username": "metadavid",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 243818,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66be8e25-9f0b-4feb-4d42-b2adb2f66800/original",
+    "cast_date": "2025-05-31T12:49:24.000Z",
+    "text": "I feel like there’s more of a misunderstanding than disagreement.\n\nIf the dev’s intent is to drive usage of a mini-app, we have to be intellectually honest about that — yes, your history of what you’ve done with airdrops and mini-app usage matters. \n\nIf the dev’s intent is to drive awareness, then maybe OpenRank & historical leaderboard rankings matter more.\n\nUltimately, it’s the devs call because they have different goals. \n\nFwiw, I rarely qualify for any of these airdrops, so I’m there with many of you. \n\nJust carry-on and pretend like there was no airdrop. :)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x07c544eddd368affcb9bf1338ae408a3ca5c50bb"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x07c544eddd368affcb9bf1338ae408a3ca5c50bb",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x07c544eddd368affcb9bf1338ae408a3ca5c50bb",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "You’re a developer building a new token-based product.\n\nYour goal is to acquire users for your product. You’re considering an airdrop as a tactic to do this.\n\nUser A \nHistory of not selling airdrops immediately.\n\nUser B\nSells most airdrops immediately.\n\nYou can only airdrop to one. Which one do you choose?",
+          "timestamp": "2025-05-31T03:11:34.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x204b962a",
+    "url": "https://farcaster.xyz/linda/0x204b962a",
+    "author_username": "linda",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-06-01T04:21:48.000Z",
+    "text": "Great feedback from @matthewfox @sayangel on potentially renaming \"airdrops\" in our program as these are closer to quests/campaigns/rewards. Taking name suggestions and will think on it!\n\nhttps://farcaster.xyz/matthewfox/0x6a983bff\nhttps://farcaster.xyz/sayangel/0xf84f794e",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4282,
+          "hash": "0x6a983bff6f81b43ba93a4d92c848471087215295"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x6a983bff6f81b43ba93a4d92c848471087215295",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4282,
+            "username": "matthewfox",
+            "display_name": "Matthew Fox 🌐",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af861e5b-616c-48e8-6531-3547e7686e00/original",
+            "custody_address": "0x76136ab779cff2ec24161d83aef5ee7ece414b05"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4999fc3b08c28768bb91e3f3225bdd566fcf6006",
+          "parent_hash": "0x4999fc3b08c28768bb91e3f3225bdd566fcf6006",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 12
+          },
+          "text": "Think it's calling them airdrops that triggers people since the expectation is random generational wealth\n\nPressing a button and getting any amount of $ should be a good thing, just feels like expectations are off because of the naming association",
+          "timestamp": "2025-06-01T03:52:46.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 1725,
+          "hash": "0xf84f794e3d8810b62f74a913432b559d1768bd82"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf84f794e3d8810b62f74a913432b559d1768bd82",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1725,
+            "username": "sayangel",
+            "display_name": "Angel",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/449ec2f2-7742-4f52-ed62-ed27fe863400/rectcrop3",
+            "custody_address": "0xe90026c9fc8b5fee2401c371acd14e3a24aedb3c"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4999fc3b08c28768bb91e3f3225bdd566fcf6006",
+          "parent_hash": "0x4999fc3b08c28768bb91e3f3225bdd566fcf6006",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 12
+          },
+          "text": "My $0.02: consider renaming them. The airdrop word carries a lot of weight in the space that people can’t part ways with.\n\nSeeing as these tend to be meant to drive traffic they’re closer to promotions, incentives, rewards.\n\nThese are more like when hello fresh offers me $100 in credit to resubscribe.",
+          "timestamp": "2025-06-01T04:16:37.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfba311e2",
+    "url": "https://farcaster.xyz/annoushka.eth/0xfba311e2",
+    "author_username": "annoushka.eth",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 2736,
+    "author_pfp": "https://i.imgur.com/C9MzmTN.jpg",
+    "cast_date": "2025-06-01T09:36:55.000Z",
+    "text": "“Airdrops” → “Little treats”",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 12,
+          "hash": "0x204b962a409db3fb036dedae04c478aa3d1c3a24"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x204b962a409db3fb036dedae04c478aa3d1c3a24",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12,
+            "username": "linda",
+            "display_name": "Linda Xie",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+            "custody_address": "0xb43575d58c49d2be880e0f821ddf51d15c13c376"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x204b962a409db3fb036dedae04c478aa3d1c3a24",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Great feedback from @matthewfox @sayangel on potentially renaming \"airdrops\" in our program as these are closer to quests/campaigns/rewards. Taking name suggestions and will think on it!\n\nhttps://farcaster.xyz/matthewfox/0x6a983bff\nhttps://farcaster.xyz/sayangel/0xf84f794e",
+          "timestamp": "2025-06-01T04:21:48.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 4282,
+                "hash": "0x6a983bff6f81b43ba93a4d92c848471087215295"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x6a983bff6f81b43ba93a4d92c848471087215295",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 4282
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 1725,
+                "hash": "0xf84f794e3d8810b62f74a913432b559d1768bd82"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xf84f794e3d8810b62f74a913432b559d1768bd82",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 1725
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/231a5345-9d33-46c3-eb15-41347d44da00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 563905,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1569,
+            "height_px": 1931
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7685813f",
+    "url": "https://farcaster.xyz/tayyab/0x7685813f",
+    "author_username": "tayyab",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 66,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04ad2f2e-0625-4125-cdc5-aacec3749c00/rectcrop3",
+    "cast_date": "2025-05-30T14:50:46.000Z",
+    "text": "Annnnnnnnnnddddd… we are closed! We’ve taken a final snapshot,  still some admin items to officially close, but votes will no longer count and no more submissions are eligible. \n\nFunds will be distributed in you roughly 48 hours.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 66,
+          "hash": "0x3117908ce8f001d2b8cda0773c6b7bd8af3f2334"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3117908ce8f001d2b8cda0773c6b7bd8af3f2334",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 66,
+            "username": "tayyab",
+            "display_name": "Tayyab - d/acc",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04ad2f2e-0625-4125-cdc5-aacec3749c00/rectcrop3",
+            "custody_address": "0x9207401977012d588ce4181f8df26402f2514450"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3117908ce8f001d2b8cda0773c6b7bd8af3f2334",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "🚀 Submissions for Farcaster Spring 2025 RPGF are NOW OPEN! \n\nGrants reward past work that’s positively impacted Farcaster. To enter, post your project with #farcasterrpgfspring2025 in the /octant channel—only one nomination per person.",
+          "timestamp": "2025-05-20T15:06:08.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e2e0977b-d1bf-4706-8c64-db37eb836500/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 71730,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1280,
+                  "height_px": 720
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa926610f",
+    "url": "https://farcaster.xyz/nounishprof/0xa926610f",
+    "author_username": "nounishprof",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-05-28T20:27:35.000Z",
+    "text": "GM Farcaster is partnering with @matthewfox @arek and the /fctrivia team to bring Farcaster live trivia each Wednesday at noon ET throughout June! AND we're looking for sponsors to highlight during the game and help support the game and prize pool.\n\nNot familiar with /fctrivia? Check out this montage from our recent /fctrivia during CastOut where we asked Farcaster trivia plus questions about the sponsors (and players even did their homework researching the sponsors prior to the game!)\n\nWe just launched a prop to @purple to sponsor 4 games in June plus we have 8 additional spots you can purchase on @highlight. You'll find the links for each week in the replies below. Got questions? drop them in the replies or dc me. \n\nWe can't wait to bring back /fctrivia!",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01971881-6914-e6d6-b7b1-4b7069af0260.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 161.5
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaa8e78e1",
+    "url": "https://farcaster.xyz/cojo.eth/0xaa8e78e1",
+    "author_username": "cojo.eth",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 4327,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66013ade-eb0f-4eb9-7d5a-e08f1b9e1c00/original",
+    "cast_date": "2025-05-30T18:47:14.000Z",
+    "text": "I had this long post written out about channels but did a full 180 by the time I got to the end.\n\nHere’s how I’d like to imagine navigating FC, though. I like knowing cozy corners exist even if I don’t use them often.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3dd261bc-cb66-4e98-69e6-94423529c200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 420279,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1942,
+            "height_px": 1960
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5747acd1",
+    "url": "https://farcaster.xyz/humpty.eth/0x5747acd1",
+    "author_username": "humpty.eth",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 2480,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70bfa280-906f-481c-1abe-afd9f72d7b00/original",
+    "cast_date": "2025-05-30T23:29:01.000Z",
+    "text": "Official Channels Day—June 7, 2025",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af93d2f0-8a22-4aca-e349-4e33c2fe5f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 193719,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd9c5d997",
+    "url": "https://farcaster.xyz/dwr.eth/0xd9c5d997",
+    "author_username": "dwr.eth",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-06-01T22:30:47.000Z",
+    "text": "Looking for people to test a big new thing for wallet starting tomorrow.\n\nReply here if you're interested. Will ping 20 or so of you in the morning.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x13cab5bf",
+    "url": "https://farcaster.xyz/nmadd/0x13cab5bf",
+    "author_username": "nmadd",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 326181,
+    "author_pfp": "https://i.imgur.com/asrQSEM.jpg",
+    "cast_date": "2025-05-29T14:12:36.000Z",
+    "text": "Over the last few days, the number of daily top-level casts has exceeded the number of replies for the first time ever",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/414e56ba-31e7-4710-8b22-a6f9a9eaa800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 221107,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1090,
+            "height_px": 792
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6786d43e",
+    "url": "https://farcaster.xyz/pfista/0x6786d43e",
+    "author_username": "pfista",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 451,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35ff884b-a727-46ff-9241-5652d35a3100/rectcrop3",
+    "cast_date": "2025-05-31T17:40:46.000Z",
+    "text": "What's new with /buoy??\n\nIn case you missed it, we've shipped some exciting things since Farcon NYC!!\n\nAs a reminder, @buoy is the best way to track keywords on Farcaster. When someone mentions your brand, product, coin, or community, we'll send a realtime notification to your Farcaster app, mobile device, web, and even apps like Slack. It's a perfect way to stay on top of the conversation for things you care about.\n\n🆕 Here's the new stuff\n\n- Get your keyword notifications inside Farcaster, via our new mini-app buoy.club (see below)\n- Get superfollow and watch notifications inside mini-app\n- Get notified in Telegram, Slack, Discord, (or anywhere) with Buoy Max\n- Our mini-app is a mini-Buoy: search Farcaster with advanced filters. We retain everything, so you can find old casts too :)\n- We'll be adding a simple way to create keyword notifications in our mini-app in the future!\n- Migrated Buoy to Snap-chain\n- Migrated from warpcast -> farcaster.xyz links",
+    "embeds": [
+      {
+        "url": "https://buoy.club",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://nextjs.org",
+            "ogType": "website",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "Buoy - Monitor keywords on Farcaster",
+                "url": "https://buoy.club/opengraph-image.jpg",
+                "type": "jpg",
+                "width": "1200",
+                "height": "675"
+              }
+            ],
+            "ogTitle": "Buoy",
+            "ogLocale": "en_US",
+            "ogSiteName": "Buoy",
+            "ogDescription": "Monitor keywords on Farcaster",
+            "fcFrame": {
+              "button": {
+                "title": "Search Farcaster",
+                "action": {
+                  "url": "https://buoy.club/search",
+                  "name": "Buoy",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://buoy.club/splash.png",
+                  "splashBackgroundColor": "#0a0a0a"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://buoy.club/opengraph-image.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Search Farcaster",
+            "image": "https://buoy.club/opengraph-image.png",
+            "frames_url": "https://buoy.club/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 451,
+              "username": "pfista",
+              "display_name": "Michael Pfister",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35ff884b-a727-46ff-9241-5652d35a3100/rectcrop3",
+              "custody_address": "0xd2344f892241e3a83c7eca8e586093714be8ca7f"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjQ1MSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGQyMzQ0Rjg5MjI0MWUzYTgzYzdFY2E4RTU4NjA5MzcxNEJlOGNhN2YifQ",
+                "payload": "eyJkb21haW4iOiJidW95LmNsdWIifQ",
+                "signature": "MHg2ZTA0YTYwYzJmYWJlNzRmYmVkNDU1OWUyNjJlNDJhYWMxYjg1MzA5NDNiZjhiMmFkY2M1NmI3MjAwZjgwNzQwN2Q0YWQyMTYxYTAyYjhhY2UzN2ZmODUxMTc2YmI2ZGU1YTk2ZTQ5ODg4MTRkY2UzZDIyOWU4ZGUzYWNjM2RmZTFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Buoy",
+                "home_url": "https://buoy.club/search",
+                "icon_url": "https://buoy.club/icon.png",
+                "image_url": "https://buoy.club/opengraph-image.png",
+                "button_title": "Open Buoy",
+                "splash_image_url": "https://buoy.club/splash.png",
+                "splash_background_color": "#0a0a0a",
+                "webhook_url": "https://buoy.club/api/webhook",
+                "subtitle": "Real-time keyword monitoring",
+                "description": "Monitor keywords and receive notifications on Farcaster",
+                "primary_category": "utility",
+                "tags": [
+                  "alerts",
+                  "search"
+                ],
+                "tagline": "Real-time keyword monitoring",
+                "cast_share_url": "https://buoy.club/share"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Buoy",
+                "home_url": "https://buoy.club/search",
+                "icon_url": "https://buoy.club/icon.png",
+                "image_url": "https://buoy.club/opengraph-image.png",
+                "button_title": "Open Buoy",
+                "splash_image_url": "https://buoy.club/splash.png",
+                "splash_background_color": "#0a0a0a",
+                "webhook_url": "https://buoy.club/api/webhook",
+                "subtitle": "Real-time keyword monitoring",
+                "description": "Monitor keywords and receive notifications on Farcaster",
+                "primary_category": "utility",
+                "tags": [
+                  "alerts",
+                  "search"
+                ],
+                "tagline": "Real-time keyword monitoring",
+                "cast_share_url": "https://buoy.club/share"
+              }
+            }
+          }
+        }
+      },
+      {
+        "url": "https://farcaster.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://farcaster.xyz/og-logo.png",
+                "type": "png",
+                "width": "512",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Farcaster",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster",
+            "ogDescription": "A sufficiently decentralized social network"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x95e19148",
+    "url": "https://farcaster.xyz/productclank/0x95e19148",
+    "author_username": "productclank",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 1018901,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26466b75-5d10-423b-b2a9-0fb3f256f600/original",
+    "cast_date": "2025-06-01T10:39:59.000Z",
+    "text": "🚀 ProductClank is ready for lift off and you can be part of it !\n\n** Support builders. Earn when they win. Join awesome communities of believers! **\n\nProductClank allows you to discover new apps & support the builders while getting skin in the game - Every product coin you own gives you direct upside opportunity for the success of the app!\n\nHere's how to earn your share of $PRO:\n\n1️⃣ Visit the @productclank Miniapp & \"Believe\" in any of the amazing products listed\n2️⃣ Click the \"Share with Cast\" button and post on your feed! Tag a friend that might want to take part too!\n3️⃣ Reply to this cast with the link to your sharing cast to verify participation in the gig to earn $PRO.\n\n(Full @gigbot.eth gig details in the comments 👇)\n\nhttps://farcaster.xyz/miniapps/X_DQ70cYHoX0/product-clank",
+    "embeds": [
+      {
+        "url": "https://farcaster.xyz/miniapps/X_DQ70cYHoX0/product-clank",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz/miniapps/01979046-9506-afb4-9780-eeafcee385c1/product-clank",
+            "ogType": "website",
+            "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fminiapp.productclank.com%2Fframe%2Flogo.png&s=ff2f67f3e2c480fe354188a349d24831248ee59d9dc8db57cdd843c2291599a5",
+            "ogImage": [
+              {
+                "url": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fminiapp.productclank.com%2Fframe%2Flogo.png&s=ff2f67f3e2c480fe354188a349d24831248ee59d9dc8db57cdd843c2291599a5",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": " - Farcaster Mini Apps",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster Mini App",
+            "fcFrame": {
+              "button": {
+                "title": "Open",
+                "action": {
+                  "url": "https://miniapp.productclank.com/",
+                  "name": "Product Clank",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://miniapp.productclank.com/frame/splash.png",
+                  "splashBackgroundColor": "#002c85"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://miniapp.productclank.com/frame/logo.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Open",
+            "image": "https://miniapp.productclank.com/frame/logo.png",
+            "frames_url": "https://farcaster.xyz/miniapps/X_DQ70cYHoX0/product-clank"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf128b1d6",
+    "url": "https://farcaster.xyz/nounishprof/0xf128b1d6",
+    "author_username": "nounishprof",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-06-01T12:02:21.000Z",
+    "text": "Great read especially if you’re new here \n\n“Most people don’t know how to be interesting, even though everyone has something interesting to share. I think it often comes from self-doubt or fear of rejection. So people hide behind safe, generic content, then wonder why no one is interested.\n\nOnly one person on the planet has your exact combination of experiences, curiosities, connections, and tastes.\n\nSo write the casts you want to see in your feed. Keep showing up.”",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 719715,
+          "hash": "0xb41aa7f2c254faf970a0d24fba46350efe9ef6b4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb41aa7f2c254faf970a0d24fba46350efe9ef6b4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 719715,
+            "username": "patriciaxlee.eth",
+            "display_name": "Patricia Lee",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cccc97ef-8ef1-4925-85c3-a9326be2af00/rectcrop3",
+            "custody_address": "0x82c653cad9a460a4e0ee091e776aa43c5af1728d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb41aa7f2c254faf970a0d24fba46350efe9ef6b4",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I wrote a reflection about my first month on Farcaster.\n\nHonest feedback is welcome. Don't worry about my feelings. I'm more interested in your POV, especially if you have a strong reaction. :)\n\nhttps://paragraph.com/@patriciaxlee/most-people-dont-know-how-to-be-interesting",
+          "timestamp": "2025-06-01T00:18:36.000Z",
+          "embeds": [
+            {
+              "url": "https://paragraph.com/@patriciaxlee/most-people-dont-know-how-to-be-interesting",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://paragraph.com/@patriciaxlee/most-people-dont-know-how-to-be-interesting",
+                  "ogDate": "2025-06-01T00:12:33.290Z",
+                  "favicon": "https://storage.googleapis.com/papyrus_images/95fa72c818fa3e54c7e26c8d7f98d8bb.jpg",
+                  "ogImage": [
+                    {
+                      "alt": "Most People Don’t Know How to Be Interesting",
+                      "url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                      "type": "jpg",
+                      "width": "1024",
+                      "height": "512"
+                    }
+                  ],
+                  "ogTitle": "Most People Don’t Know How to Be Interesting",
+                  "ogLocale": "en",
+                  "ogDescription": "I’ve been casting on Farcaster for a month. Here’s what I’ve realized about attention and content creation, thanks to a conversation with an undertaker.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Read",
+                      "action": {
+                        "url": "https://paragraph.com/@patriciaxlee/most-people-dont-know-how-to-be-interesting?frame=true",
+                        "name": "Paragraph",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                        "splashBackgroundColor": "#26251A"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://paragraph.com/api/og?title=Most%20People%20Don%E2%80%99t%20Know%20How%20to%20Be%20Interesting&blogName=Patricia%20Lee&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F95fa72c818fa3e54c7e26c8d7f98d8bb.jpg&coverPhotoUrl=&size=2048&publishedDate=1748736753290"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Read",
+                  "image": "https://paragraph.com/api/og?title=Most%20People%20Don%E2%80%99t%20Know%20How%20to%20Be%20Interesting&blogName=Patricia%20Lee&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F95fa72c818fa3e54c7e26c8d7f98d8bb.jpg&coverPhotoUrl=&size=2048&publishedDate=1748736753290",
+                  "frames_url": "https://paragraph.com/@patriciaxlee/most-people-dont-know-how-to-be-interesting",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 378,
+                    "username": "colin",
+                    "display_name": "Colin",
+                    "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+                    "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                      "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGguY29tIn0",
+                      "signature": "MHg1MGI0NjljMDhmOWQ3Nzg3NjYyYTU2ZjkyZWNjNTMyNjliNDRjYTY1NmM0MjM0NjVkMGRkNDlmNjAxMTI5YjI5NDk2MDc5YTNhZTFjYzQ1NDFjMDcxMmUwYjUxYjkwYTU2Y2U5ZWMzODVmMjczYmNmMWZmYzZjMzViMWM2ODZlMTFi"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "Paragraph",
+                      "home_url": "https://paragraph.com/home?frame=true",
+                      "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                      "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                      "button_title": "Discover great writing",
+                      "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                      "splash_background_color": "#26251A",
+                      "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook"
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "Paragraph",
+                      "home_url": "https://paragraph.com/home?frame=true",
+                      "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                      "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                      "button_title": "Discover great writing",
+                      "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                      "splash_background_color": "#26251A",
+                      "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb41aa7f2",
+    "url": "https://farcaster.xyz/patriciaxlee.eth/0xb41aa7f2",
+    "author_username": "patriciaxlee.eth",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 719715,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cccc97ef-8ef1-4925-85c3-a9326be2af00/rectcrop3",
+    "cast_date": "2025-06-01T00:18:36.000Z",
+    "text": "I wrote a reflection about my first month on Farcaster.\n\nHonest feedback is welcome. Don't worry about my feelings. I'm more interested in your POV, especially if you have a strong reaction. :)\n\nhttps://paragraph.com/@patriciaxlee/most-people-dont-know-how-to-be-interesting",
+    "embeds": [
+      {
+        "url": "https://paragraph.com/@patriciaxlee/most-people-dont-know-how-to-be-interesting",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://paragraph.com/@patriciaxlee/most-people-dont-know-how-to-be-interesting",
+            "ogDate": "2025-06-01T00:12:33.290Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/95fa72c818fa3e54c7e26c8d7f98d8bb.jpg",
+            "ogImage": [
+              {
+                "alt": "Most People Don’t Know How to Be Interesting",
+                "url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Most People Don’t Know How to Be Interesting",
+            "ogLocale": "en",
+            "ogDescription": "I’ve been casting on Farcaster for a month. Here’s what I’ve realized about attention and content creation, thanks to a conversation with an undertaker.",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@patriciaxlee/most-people-dont-know-how-to-be-interesting?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Most%20People%20Don%E2%80%99t%20Know%20How%20to%20Be%20Interesting&blogName=Patricia%20Lee&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F95fa72c818fa3e54c7e26c8d7f98d8bb.jpg&coverPhotoUrl=&size=2048&publishedDate=1748736753290"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Most%20People%20Don%E2%80%99t%20Know%20How%20to%20Be%20Interesting&blogName=Patricia%20Lee&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F95fa72c818fa3e54c7e26c8d7f98d8bb.jpg&coverPhotoUrl=&size=2048&publishedDate=1748736753290",
+            "frames_url": "https://paragraph.com/@patriciaxlee/most-people-dont-know-how-to-be-interesting",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGguY29tIn0",
+                "signature": "MHg1MGI0NjljMDhmOWQ3Nzg3NjYyYTU2ZjkyZWNjNTMyNjliNDRjYTY1NmM0MjM0NjVkMGRkNDlmNjAxMTI5YjI5NDk2MDc5YTNhZTFjYzQ1NDFjMDcxMmUwYjUxYjkwYTU2Y2U5ZWMzODVmMjczYmNmMWZmYzZjMzViMWM2ODZlMTFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                "splash_background_color": "#26251A",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                "splash_background_color": "#26251A",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x954d34bc",
+    "url": "https://farcaster.xyz/toadyhawk.eth/0x954d34bc",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-05-30T19:58:48.000Z",
+    "text": "my official entry for the @procoin walk & talk video contest\n\nTLDR: @afrochicks is my favorite farcaster and she makes it all look easier than it really is…",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1093494,
+          "hash": "0x4f8678401ba73ef5312bc77cf54ee33dbc8c80f7"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4f8678401ba73ef5312bc77cf54ee33dbc8c80f7",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1093494,
+            "username": "procoin",
+            "display_name": "Procoin",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa97b2f9-93e9-45ef-a175-f528d53ae800/rectcrop3",
+            "custody_address": "0x75983d0c61744a284ce53209caeae9e57994c95a"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4f8678401ba73ef5312bc77cf54ee33dbc8c80f7",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "The Farcaster Vertical Video competition is now live!\n\n1.5 MILLION $PRO IN PRIZES, distributed after 8 hours.\n\nFilm a vertical video of yourself talking about one of the following things:\n- your favorite Farcaster user\n- your favorite part about Farcaster\n- your goals for the network\n\nIt must be an original video of yourself talking, 1 minute or less.\n\nYou must quote cast this post with your video in order to submit.\n\nSubmissions close 8 hours after the publication of this cast. \n\nWe will name 5-10 winners.\n\nHappy filming 😍",
+          "timestamp": "2025-05-30T15:42:23.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/019722c4-ca44-a685-b0fc-0466acc6d136.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 67.19
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbd53ab55",
+    "url": "https://farcaster.xyz/alinaferry/0xbd53ab55",
+    "author_username": "alinaferry",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 282672,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmbLg9mEy628dFJfv6yZRV2fCxsf5yDSmSNtQx1xEShkeT?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-05-31T02:00:23.000Z",
+    "text": "Nothing beats meeting the love of your life\n\n@bertwurst.eth",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/92331d15-181f-4ba0-86e9-8dc51b34ca00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 459612,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1730,
+            "height_px": 1730
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5bee5e4c",
+    "url": "https://farcaster.xyz/bertwurst.eth/0x5bee5e4c",
+    "author_username": "bertwurst.eth",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 864405,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0c58c61-1cdb-4eb3-0fe7-7a8905680300/original",
+    "cast_date": "2025-05-31T14:31:33.000Z",
+    "text": "Still riding high from yesterday’s Farcaster Friday meetup!!!\nI got to meet so many nice humans (including @ted), collect an overwhelming number of new smells, and ate my first burger!\n\nA full debrief is coming soon (once I’ve processed the sensory overload).\n\nNow it’s BEACH DAY.\nBut first, a walk to a coffee shop so the Assistants can caffeinate for the day ahead.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/76105e5f-47d5-4e2c-a3f0-35bed1428100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 490340,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1825,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xea38919d",
+    "url": "https://farcaster.xyz/bradq/0xea38919d",
+    "author_username": "bradq",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-05-30T15:31:22.000Z",
+    "text": "@bertwurst.eth at FC Friday in LA tonight... me, @erica , @thedude & many others extend our heartfelt joy for those of you in LA 💜",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 864405,
+          "hash": "0x0fc48905ea08c008bf7185de0eda7c54b287ef2a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0fc48905ea08c008bf7185de0eda7c54b287ef2a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 864405,
+            "username": "bertwurst.eth",
+            "display_name": "bertwurst",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0c58c61-1cdb-4eb3-0fe7-7a8905680300/original",
+            "custody_address": "0x19007f5a72a8806f16cf0a50fa315675d5020241"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0fc48905ea08c008bf7185de0eda7c54b287ef2a",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM from the road!!!\n\nOfficially en route to Los Angeles. The Assistants claim they packed only the essentials (which apparently includes half the house) and we are now mobile.\n\nI’ve been promised a burger tonight and I’m already emotionally invested. Drool levels: rising.\n\nLA, I hope you’re ready for me.",
+          "timestamp": "2025-05-30T13:58:34.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3ba045b0-c49c-4afe-9776-2d993ce08600/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 416672,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/141c7bc8-b4db-4f58-1711-f4ca939e3200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 853605,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1152,
+            "height_px": 1132
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x43699be7",
+    "url": "https://farcaster.xyz/0xbhaisaab/0x43699be7",
+    "author_username": "0xbhaisaab",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 479,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/54763df9-41c0-4296-94d1-3c6c40dc2e00/original",
+    "cast_date": "2025-05-31T12:14:36.000Z",
+    "text": "💜💜💜💜💜",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01972642-fc99-2103-ae9a-1a165ac87df5.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 5
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x52dda12e",
+    "url": "https://farcaster.xyz/woj.eth/0x52dda12e",
+    "author_username": "woj.eth",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2025-06-01T19:08:06.000Z",
+    "text": "gm, time to let everyone know that i'm no longer working for merkle\n\ni'm still a huge fan and a believer in dan, varun, the team and the whole farcaster community, but in the end i wasn't the right fit\n\nwill be taking some time to rest, learn new things and eventually start something new -- farcaster will know first",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5db7dee1",
+    "url": "https://farcaster.xyz/adrienne/0x5db7dee1",
+    "author_username": "adrienne",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-05-31T13:51:09.000Z",
+    "text": "seeing all the old interns seeing all the college kids on farcaster now",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 240586,
+          "hash": "0xe31e826016e4ed9d20e8db2f4b914609291cb427"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe31e826016e4ed9d20e8db2f4b914609291cb427",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 240586,
+            "username": "goldytalks",
+            "display_name": "Goldy",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/95ef80fc-8a02-4e9e-7b70-766008336400/rectcrop3",
+            "custody_address": "0xa661164b250b8fd7936378930a14663fda719156"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe31e826016e4ed9d20e8db2f4b914609291cb427",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "seeing all the college kids on farcaster now",
+          "timestamp": "2025-05-31T03:04:56.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c540a9a-fa9a-4efb-e6e1-39e77146e300/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 23552,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 352,
+                  "height_px": 264
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/173da2e4-3db3-4c9f-f72c-fa5357ed1000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 35302,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 620,
+            "height_px": 324
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe31e8260",
+    "url": "https://farcaster.xyz/goldytalks/0xe31e8260",
+    "author_username": "goldytalks",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 240586,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/95ef80fc-8a02-4e9e-7b70-766008336400/rectcrop3",
+    "cast_date": "2025-05-31T03:04:56.000Z",
+    "text": "seeing all the college kids on farcaster now",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c540a9a-fa9a-4efb-e6e1-39e77146e300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 23552,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 352,
+            "height_px": 264
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x198dc9e0",
+    "url": "https://farcaster.xyz/octant/0x198dc9e0",
+    "author_username": "octant",
+    "show_date": "2025-06-02",
+    "show_title": "GM Farcaster ep253 Monday June 2, 2025",
+    "source_episode_id": "cIJ-OYynZcU",
+    "author_fid": 18203,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9853f821-1390-4ed5-4217-a46a65aa4400/original",
+    "cast_date": "2025-05-22T13:32:31.000Z",
+    "text": "gm gm ❤️\n\nWe're finally ready to unveil Epoch 8.\n\n🥁🥁🥁 This epoch is an Ethereum-core alignment epoch. It's a special one because it's a major step in our broader roadmap to contribute to Ethereum's growth.\n\nLike Epoch 7, there's no snapshot. Our internal reviewers will select projects based on impact and relevance.\n\nAllocation window remains the same. ETH rewards are time-weighted and allocating to projects get you matched\n\n🗓Application Deadline: 3 June, 2025 @ 11:59 pm PST\n\n🛠 Who should apply?\nBuilders advancing Ethereum in 4 core areas:\n\n1) Direct protocol improvements (consensus, execution, data availability, core networking)\n\n2) Shared infrastructure (clients, testnets & tooling, p2p networking stacks, security & formal-verification frameworks, transparency)\n\n3) Open dashboards, datasets, or studies (roll-ups, bridges, MEVs -  resulting insights must strengthen Ethereum)\n\n4) Protocol-level research + specification work (advancing Ethereum's roadmap)\n\nApp link + eligibility criteria 👇",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/513cad0a-2c1e-4483-68d1-1f88aaaad100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 366582,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1920,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

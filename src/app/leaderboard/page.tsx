@@ -1,15 +1,12 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { Cast } from '@/lib/types';
 import Link from 'next/link';
 
 interface UserStats {
   username: string;
-  fid: number;
   count: number;
-  firstSeen: string;
-  lastSeen: string;
+  pfpUrl?: string;
 }
 
 export default function Leaderboard() {
@@ -19,42 +16,77 @@ export default function Leaderboard() {
   useEffect(() => {
     const loadLeaderboard = async () => {
       try {
-        const response = await fetch('/casts.json');
-        const casts: Cast[] = await response.json();
+        // Fetch the cast index data
+        const response = await fetch('/api/casts/index');
+        const casts = await response.json();
         
-        // Group casts by user
+        // Group by author_username
         const userMap = new Map<string, UserStats>();
         
-        casts.forEach(cast => {
-          if (!cast.author_username) return;
+        casts.forEach((cast: any) => {
+          const username = cast.author_username;
+          if (!username) return;
           
-          const key = `${cast.author_username}-${cast.author_fid}`;
-          
-          if (userMap.has(key)) {
-            const existing = userMap.get(key)!;
+          if (userMap.has(username)) {
+            const existing = userMap.get(username)!;
             existing.count++;
-            if (cast.timestamp < existing.firstSeen) {
-              existing.firstSeen = cast.timestamp;
-            }
-            if (cast.timestamp > existing.lastSeen) {
-              existing.lastSeen = cast.timestamp;
-            }
           } else {
-            userMap.set(key, {
-              username: cast.author_username,
-              fid: cast.author_fid,
+            userMap.set(username, {
+              username,
               count: 1,
-              firstSeen: cast.timestamp,
-              lastSeen: cast.timestamp
             });
           }
         });
         
         // Convert to array and sort by count (descending)
-        const stats = Array.from(userMap.values())
+        let stats = Array.from(userMap.values())
           .sort((a, b) => b.count - a.count)
           .slice(0, 100); // Top 100 users
+
+        // Smart PFP fetching for all 100 users
+        // Step 1: Get all unique episode IDs needed for top 100 users
+        const userEpisodeMap = new Map<string, string[]>();
+        stats.forEach(user => {
+          const userCasts = casts.filter((c: any) => c.author_username === user.username);
+          const episodeIds = [...new Set(userCasts.map((c: any) => c.source_episode_id))];
+          userEpisodeMap.set(user.username, episodeIds);
+        });
+
+        // Step 2: Get all unique episode IDs across all users
+        const allEpisodeIds = [...new Set(Array.from(userEpisodeMap.values()).flat().filter((id): id is string => typeof id === 'string'))];
         
+        // Step 3: Load all episode files in parallel
+        const episodeDataMap = new Map<string, any[]>();
+        await Promise.all(allEpisodeIds.map(async (episodeId) => {
+          try {
+            const response = await fetch(`/api/episodes/${episodeId}`);
+            if (response.ok) {
+              const data = await response.json();
+              episodeDataMap.set(episodeId, data);
+            }
+          } catch (error) {
+            console.warn(`Failed to load episode ${episodeId}:`, error);
+          }
+        }));
+
+        // Step 4: Build username -> PFP lookup map
+        const usernamePfpMap = new Map<string, string>();
+        episodeDataMap.forEach((episodeData, episodeId) => {
+          episodeData.forEach((cast: any) => {
+            if (cast.author_username && cast.author_pfp && !usernamePfpMap.has(cast.author_username)) {
+              usernamePfpMap.set(cast.author_username, cast.author_pfp);
+            }
+          });
+        });
+
+        // Step 5: Assign PFPs to users
+        stats.forEach(user => {
+          const pfpUrl = usernamePfpMap.get(user.username);
+          if (pfpUrl) {
+            user.pfpUrl = pfpUrl;
+          }
+        });
+
         setUserStats(stats);
         setIsLoading(false);
       } catch (error) {
@@ -65,23 +97,6 @@ export default function Leaderboard() {
 
     loadLeaderboard();
   }, []);
-
-  const formatDate = (timestamp: string) => {
-    try {
-      if (!timestamp) return 'Unknown';
-      
-      const date = new Date(timestamp);
-      if (isNaN(date.getTime())) return 'Unknown';
-      
-      return date.toLocaleDateString('en-US', { 
-        year: 'numeric', 
-        month: 'short', 
-        day: 'numeric' 
-      });
-    } catch {
-      return 'Unknown';
-    }
-  };
 
   if (isLoading) {
     return (
@@ -145,27 +160,29 @@ export default function Leaderboard() {
                   <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
                     Mentions
                   </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                    First Seen
-                  </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                    Last Seen
-                  </th>
                 </tr>
               </thead>
               <tbody className="bg-white divide-y divide-gray-200">
                 {userStats.map((user, index) => (
-                  <tr key={`${user.username}-${user.fid}`} className="hover:bg-gray-50">
+                  <tr key={user.username} className="hover:bg-gray-50">
                     <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
                       #{index + 1}
                     </td>
                     <td className="px-6 py-4 whitespace-nowrap">
                       <div className="flex items-center">
-                        <div className="w-8 h-8 bg-gradient-to-br from-purple-500 to-blue-600 rounded-full flex items-center justify-center mr-3">
-                          <span className="text-white text-sm font-medium">
-                            {user.username.charAt(0).toUpperCase()}
-                          </span>
-                        </div>
+                        {user.pfpUrl ? (
+                          <img
+                            src={user.pfpUrl}
+                            alt={user.username}
+                            className="w-8 h-8 rounded-full mr-3 border border-gray-200"
+                          />
+                        ) : (
+                          <div className="w-8 h-8 bg-gradient-to-br from-purple-500 to-blue-600 rounded-full flex items-center justify-center mr-3">
+                            <span className="text-white text-sm font-medium">
+                              {user.username.charAt(0).toUpperCase()}
+                            </span>
+                          </div>
+                        )}
                         <div>
                           <div className="text-sm font-medium text-gray-900">
                             @{user.username}
@@ -175,12 +192,6 @@ export default function Leaderboard() {
                     </td>
                     <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
                       <span className="font-semibold">{user.count}</span>
-                    </td>
-                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                      {formatDate(user.firstSeen)}
-                    </td>
-                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                      {formatDate(user.lastSeen)}
                     </td>
                   </tr>
                 ))}

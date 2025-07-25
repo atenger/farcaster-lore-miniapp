@@ -1,0 +1,1491 @@
+[
+  {
+    "cast_hash": "0xd7d644c6",
+    "url": "https://farcaster.xyz/erica/0xd7d644c6",
+    "author_username": "erica",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 20270,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa6a9c8a-ade1-496b-2534-c9b6f7a1cf00/original",
+    "cast_date": "2025-06-05T21:08:05.000Z",
+    "text": "everyone on x rn",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4327,
+          "hash": "0x4a6e2f488cbe58ad3aed5e1fdeae63c001526026"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4a6e2f488cbe58ad3aed5e1fdeae63c001526026",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4327,
+            "username": "cojo.eth",
+            "display_name": "Colin Johnson 💭",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66013ade-eb0f-4eb9-7d5a-e08f1b9e1c00/original",
+            "custody_address": "0x0f54e4c6ee5be1b41917559cc8e609711cd90a90"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x602123f5aec48a0e6784de6ae126b9e36ae6a42d",
+          "parent_hash": "0x602123f5aec48a0e6784de6ae126b9e36ae6a42d",
+          "parent_url": null,
+          "root_parent_url": "https://warpcast.com/~/channel/politics",
+          "parent_author": {
+            "fid": 4167
+          },
+          "text": "There is no bowl of popcorn that’s big enough right now",
+          "timestamp": "2025-06-05T19:44:10.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "politics",
+            "name": "politics",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d8894790-e2fe-4e21-94bf-5207aafe6a00/original"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/97f09a6d-aeff-4ff7-1dd1-d34a1a6a8e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 560059,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1200,
+            "height_px": 866
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x115fe9a4",
+    "url": "https://farcaster.xyz/farcaster/0x115fe9a4",
+    "author_username": "farcaster",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 1,
+    "author_pfp": "https://i.imgur.com/I2rEbPF.png",
+    "cast_date": "2025-06-04T18:21:12.000Z",
+    "text": "Farcaster now supports HyperEVM in wallet and mini apps!\n\nSend and swap any token on HyperEVM with your existing balances on other chains. No bridging necessary!\n\nUpdate and restart your mobile app to enable.\n\nSee the next cast for a Day 1 HyperEVM mini app from @jc4p.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f71949d6-9af6-44f9-8588-0d81bb304b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 80805,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1999,
+            "height_px": 1180
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x114e4a17",
+    "url": "https://farcaster.xyz/slokh/0x114e4a17",
+    "author_username": "slokh",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 3887,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bcde483c-6e7e-4f6a-b254-b5e12e642d00/original",
+    "cast_date": "2025-06-04T18:30:03.000Z",
+    "text": "hyperliquid\n\nhttps://farcaster.xyz/farcaster/0x115fe9a4",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3887,
+          "hash": "0x753b6417aaddca4ff70cdf99da3079a35b9b5d4a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x753b6417aaddca4ff70cdf99da3079a35b9b5d4a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3887,
+            "username": "slokh",
+            "display_name": "Kartik",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bcde483c-6e7e-4f6a-b254-b5e12e642d00/original",
+            "custody_address": "0x333601a803cac32b7d17a38d32c9728a93b422f4"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x753b6417aaddca4ff70cdf99da3079a35b9b5d4a",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Wife out of town for the weekend, friends as well 😔\n\nGuess I’ll ship 🤷",
+          "timestamp": "2025-05-30T22:39:21.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 1,
+          "hash": "0x115fe9a40d24891338780ffb526a2ce3848c2db1"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x115fe9a40d24891338780ffb526a2ce3848c2db1",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1,
+            "username": "farcaster",
+            "display_name": "Farcaster",
+            "pfp_url": "https://i.imgur.com/I2rEbPF.png",
+            "custody_address": "0x8773442740c17c9d0f0b87022c722f9a136206ed"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x115fe9a40d24891338780ffb526a2ce3848c2db1",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Farcaster now supports HyperEVM in wallet and mini apps!\n\nSend and swap any token on HyperEVM with your existing balances on other chains. No bridging necessary!\n\nUpdate and restart your mobile app to enable.\n\nSee the next cast for a Day 1 HyperEVM mini app from @jc4p.",
+          "timestamp": "2025-06-04T18:21:12.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f71949d6-9af6-44f9-8588-0d81bb304b00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 80805,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1999,
+                  "height_px": 1180
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x36ef858c",
+    "url": "https://farcaster.xyz/humpty.eth/0x36ef858c",
+    "author_username": "humpty.eth",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 2480,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70bfa280-906f-481c-1abe-afd9f72d7b00/original",
+    "cast_date": "2025-06-03T21:38:35.000Z",
+    "text": "Official Channels Day is on June 7, 2025 \n\nWhat does this mean? Channels were launched on June 7, 2023 and quickly became cozy corners for creators, curators and communities to connect and grow on Farcaster.\n\nCelebrate with us!\n\nIf you're a channel owner, quote cast this post with a note about why you started your channel. How is it meaningful to you? And don't forget to celebrate your active members by tagging the top contributors and letting them know how they help make your cozy corner better.\n\nIf you don't own a channel, or are simply a fan of channels, quote cast this post, tag your top three channels, and share why they’re important to you. How do they make the Internet (or Farcaster) a better place for you?\n\nDon't forget to join us for the Official Channels Day—Launch Party on Friday, June 6th starting at 8am PDT\n\nRSVP in comments below",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8e461324-8b7b-4f18-e888-e091b7255f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 642821,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc094473b",
+    "url": "https://farcaster.xyz/sahil/0xc094473b",
+    "author_username": "sahil",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 725,
+    "author_pfp": "https://lh3.googleusercontent.com/ELQOEk4_UQ1iLnH3VBoNovAoYrEn2Fpm73fQb8cE1wsVCFLwU6eT3USqlb7P8Ju6JLBKacWt_otOsOHy0GrZOumx7xQk_i-42lO97A",
+    "cast_date": "2025-06-04T19:58:29.000Z",
+    "text": "We’ve been rooting for channels since day 1\n\nOn Channels Day (7th June), we’ll celebrate folks who make channels great - mods and users who show up in channels everyday.   \n\nwe’ll pick the 100 most active channels and drop a Channels Day NFT to the top 50 users on each of these channel leaderboards. you can check your rank and share directly from the channel app. \n\nhttps://cura.network/memes/leaderboard?leaderboardType=lifetime",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2480,
+          "hash": "0x36ef858c198182778dcc4ecd8c457112daf568b6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x36ef858c198182778dcc4ecd8c457112daf568b6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2480,
+            "username": "humpty.eth",
+            "display_name": "humpty",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70bfa280-906f-481c-1abe-afd9f72d7b00/original",
+            "custody_address": "0x3b1c602b14720111c9a006f1e673fde7262bd3fb"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x36ef858c198182778dcc4ecd8c457112daf568b6",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Official Channels Day is on June 7, 2025 \n\nWhat does this mean? Channels were launched on June 7, 2023 and quickly became cozy corners for creators, curators and communities to connect and grow on Farcaster.\n\nCelebrate with us!\n\nIf you're a channel owner, quote cast this post with a note about why you started your channel. How is it meaningful to you? And don't forget to celebrate your active members by tagging the top contributors and letting them know how they help make your cozy corner better.\n\nIf you don't own a channel, or are simply a fan of channels, quote cast this post, tag your top three channels, and share why they’re important to you. How do they make the Internet (or Farcaster) a better place for you?\n\nDon't forget to join us for the Official Channels Day—Launch Party on Friday, June 6th starting at 8am PDT\n\nRSVP in comments below",
+          "timestamp": "2025-06-03T21:38:35.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8e461324-8b7b-4f18-e888-e091b7255f00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 642821,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1080,
+                  "height_px": 1080
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      },
+      {
+        "url": "https://cura.network/memes/leaderboard?leaderboardType=lifetime",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://cura.network/memes/leaderboard?leaderboardType=lifetime",
+            "favicon": "/icon.png",
+            "ogImage": [
+              {
+                "alt": "Post image",
+                "url": "https://cura.network/api/og/leaderboard?channelId=memes&leaderboardType=lifetime",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "/memes on Cura",
+            "ogLocale": "en",
+            "ogDescription": "Cura lets you curate, reward, and tokenize your community",
+            "fcFrame": {
+              "button": {
+                "title": "/memes on Cura",
+                "action": {
+                  "url": "https://cura.network/memes/leaderboard?leaderboardType=lifetime",
+                  "name": "Cura",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://cura.network/icon.png",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://cura.network/api/og/leaderboard?channelId=memes&leaderboardType=lifetime&frame=true"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "/memes on Cura",
+            "image": "https://cura.network/api/og/leaderboard?channelId=memes&leaderboardType=lifetime&frame=true",
+            "frames_url": "https://cura.network/memes/leaderboard?leaderboardType=lifetime",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 864314,
+              "username": "curabot",
+              "display_name": "cura",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c0ba4d19-001a-4887-f271-9f7da83c2000/original",
+              "custody_address": "0xbcb984a6faa20ff56a633653f57e82a23d498aa0"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjg2NDMxNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEJjYjk4NEE2ZmFhMjBmRjU2QTYzMzY1M0Y1N2U4MmEyM2Q0OThhQTAifQ",
+                "payload": "eyJkb21haW4iOiJjdXJhLm5ldHdvcmsifQ",
+                "signature": "MHhhZDAwYWNiN2I0YjgxNzljZTBlNTc3NWZjZDkyOWU2OTFkZGUyNzMzODAwNDk5ZjUwZDZiOWViZjFlMzUzZTI3NzQ0NzllNmEyNmNlODkxMjM1MTAzODcxNzFmMTViOTMwYTY0YzUyM2YwNTg1MDA0MTI0MGMwNGQ3OGZmYzRiMjFj"
+              },
+              "frame": {
+                "version": "0.0.1",
+                "name": "Cura",
+                "home_url": "https://cura.network",
+                "icon_url": "https://cura.network/icon.png",
+                "splash_image_url": "https://cura.network/icon.png",
+                "splash_background_color": "#111111",
+                "webhook_url": "https://notifications.cura.network/api/v1/webhooks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiY3VyYS5uZXR3b3JrIn0.PONNJOwdS8Je59nk9CnpgbZAaENHCe3zLHPCcX0wB0w",
+                "primary_category": "social",
+                "tags": [
+                  "cura",
+                  "openrank",
+                  "community",
+                  "moderation",
+                  "channels"
+                ]
+              },
+              "miniapp": {
+                "version": "0.0.1",
+                "name": "Cura",
+                "home_url": "https://cura.network",
+                "icon_url": "https://cura.network/icon.png",
+                "splash_image_url": "https://cura.network/icon.png",
+                "splash_background_color": "#111111",
+                "webhook_url": "https://notifications.cura.network/api/v1/webhooks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiY3VyYS5uZXR3b3JrIn0.PONNJOwdS8Je59nk9CnpgbZAaENHCe3zLHPCcX0wB0w",
+                "primary_category": "social",
+                "tags": [
+                  "cura",
+                  "openrank",
+                  "community",
+                  "moderation",
+                  "channels"
+                ]
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x79a89c52",
+    "url": "https://farcaster.xyz/deodad/0x79a89c52",
+    "author_username": "deodad",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 6841,
+    "author_pfp": "https://i.imgur.com/dMoIan7.jpg",
+    "cast_date": "2025-06-04T21:50:45.000Z",
+    "text": "🔙 New Mini App API for Back Navigation\n\n- 1-line integration for standard web apps\n- custom integration available for advanced use cases\n- back control will vary depending on platform; web is button, iOS is a swipe left, Android is native back control (swipe and/or hardware / virtual button)\n\nsimple yet powerful\n\nhttps://miniapps.farcaster.xyz/docs/sdk/back",
+    "embeds": [
+      {
+        "url": "https://miniapps.farcaster.xyz/docs/sdk/back",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 9274,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "miniapps-docs-kgeq2bp4a-farcaster.vercel.app",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://og-five-eta.vercel.app/api/og/mini-apps?title=Back Navigation&description=Support back navigation in your mini app&section=SDK"
+              }
+            ],
+            "ogTitle": "Back Navigation",
+            "ogLocale": "en",
+            "ogDescription": "Support back navigation in your mini app"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x513c20fc",
+    "url": "https://farcaster.xyz/farcaster/0x513c20fc",
+    "author_username": "farcaster",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 1,
+    "author_pfp": "https://i.imgur.com/I2rEbPF.png",
+    "cast_date": "2025-06-04T23:26:33.000Z",
+    "text": "New: improved threads\n\nWe're now showing more replies by default. See the images below for examples.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a59b2a2c-15cd-4b3a-81f0-d4f042fc2d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 753662,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1438,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1bfbbe8c-0805-4bf8-491c-8093126b6b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 735521,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1496,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa5172870",
+    "url": "https://farcaster.xyz/dwr.eth/0xa5172870",
+    "author_username": "dwr.eth",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-06-04T23:46:08.000Z",
+    "text": "In the last 2 months:\n\n- Farcaster app rebrand\n- Web wallet launch\n- Snapchain launch\n- Farcaster Pro: 12,000+ subscriptions\n- Coinbase Wallet beta with Farcaster support\n- New ecosystems: Monad, Celo, Solana, HyperEVM\n- Minimized mini apps\n- A bunch of improvements to the mini apps SDK and dev tools\n- Auth addresses shipped\n- Increased USDC rewards for casters and developers\n- Tip Tuesday\n- Trending topics\n- Gasless / background swaps\n- Improved token pages\n\nchoo choo",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcec2d509",
+    "url": "https://farcaster.xyz/0xluo.eth/0xcec2d509",
+    "author_username": "0xluo.eth",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 9856,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94f2a2b9-05ad-46df-4352-2c66e2ed9000/original",
+    "cast_date": "2025-06-04T19:35:39.000Z",
+    "text": "Farcaster is for every chain!\nThe map keeps being updated.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 9856,
+          "hash": "0x6fbb14e20e7236514321d0ae285df791411c5ac2"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x6fbb14e20e7236514321d0ae285df791411c5ac2",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 9856,
+            "username": "0xluo.eth",
+            "display_name": "0xLuo",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94f2a2b9-05ad-46df-4352-2c66e2ed9000/original",
+            "custody_address": "0xffe946d9c24ca4d6f785447a923c9e812e4e7b95"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x6fbb14e20e7236514321d0ae285df791411c5ac2",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Farcaster is for every chain!\nhttps://x.com/eth_call/status/1925616998521741361",
+          "timestamp": "2025-05-22T19:11:49.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/db31f179-4f5c-41c4-f409-cacec3510b00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 213871,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1024,
+                  "height_px": 1024
+                }
+              }
+            },
+            {
+              "url": "https://x.com/eth_call/status/1925616998521741361",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "oembed": {
+                    "url": "https://twitter.com/eth_call/status/1925616998521741361",
+                    "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">&quot;Base LinkedIn&quot; now works on Solana.<br><br>And Monad and Ethereum and Optimism and Arbitrum and Celo and Polygon and Gnosis and Degen and Zora and Unichain… <a href=\"https://t.co/mq7vLlbndV\">https://t.co/mq7vLlbndV</a></p>&mdash; horsefacts (@eth_call) <a href=\"https://twitter.com/eth_call/status/1925616998521741361?ref_src=twsrc%5Etfw\">May 22, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+                    "type": "rich",
+                    "width": 550,
+                    "height": null,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "cache_age": "3153600000",
+                    "author_url": "https://twitter.com/eth_call",
+                    "author_name": "horsefacts",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter"
+                  },
+                  "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                      "type": "svg"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "X (formerly Twitter)"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f90f1b54-774d-4c27-c4c6-a7c9c68f6500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 226846,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1024
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb0e4c5d5",
+    "url": "https://farcaster.xyz/rish/0xb0e4c5d5",
+    "author_username": "rish",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 194,
+    "author_pfp": "https://i.imgur.com/naZWL9n.gif",
+    "cast_date": "2025-06-04T21:29:10.000Z",
+    "text": "Continuing to make notifications better for mini app developers\n\nYou can now create \"notification campaigns\" the dev portal and see metrics like\n- delivery rate\n- open rate\n- unique opens\n\nUsing \"open rate\" as a way to iterate on notification styles can significantly improve app performance over time - the higher the % of users clicking your notifications, the better your app performs overall\n\nh/t @veganbeef for the work, reach out with any questions 🪐\n\n(tutorial on how to set up notifications in reply)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1568,
+          "hash": "0x7d28f7d4ae6ab00a2e14479036ab3a68a901e898"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7d28f7d4ae6ab00a2e14479036ab3a68a901e898",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1568,
+            "username": "veganbeef",
+            "display_name": "veganbeef",
+            "pfp_url": "https://lh3.googleusercontent.com/EGkjOnxiqvc1bpKHcmJFntUBzUu8ZuAGR9KkFqQFH1eJeSXoDD7IaYIhtB4UnnldaJRT0fujpbsvZb6MvBWpZDwILzAK5-H1b9HBEBs",
+            "custody_address": "0xb2e206f154071bac29c35d77265600ebca38a281"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7d28f7d4ae6ab00a2e14479036ab3a68a901e898",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/miniapps",
+          "root_parent_url": "https://warpcast.com/~/channel/miniapps",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Curious how your mini app notifications are performing? Want to know if one notification drove more clicks than another? \n\n@neynar now offers advanced notification analytics for customers using the Neynar starter kit or the MiniAppProvider from @neynar/react\n\nSee the updated notifications guide for more info on how to set this up, and please reach out with any comments or questions 🪐\n\nhttps://docs.neynar.com/docs/send-notifications-to-mini-app-users#send-notifications-to-mini-app-users",
+          "timestamp": "2025-06-04T21:06:11.000Z",
+          "embeds": [
+            {
+              "url": "https://docs.neynar.com/docs/send-notifications-to-mini-app-users#send-notifications-to-mini-app-users",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "/docs/send-notifications-to-mini-app-users",
+                  "ogType": "website",
+                  "favicon": "https://mintlify.s3-us-west-1.amazonaws.com/neynar/_generated/favicon/favicon.ico?v=3",
+                  "ogImage": [
+                    {
+                      "url": "https://neynar.mintlify.app/mintlify-assets/_next/image?url=%2Fapi%2Fog%3Fdivision%3DDocumentation%26mode%3Ddark%26title%3DSend%2BNotifications%2Bto%2BMini%2BApp%2BUsers%26description%3DThis%2Bguide%2Bwalks%2Byou%2Bthrough%2Ba%2Bsimple%2Bsetup%2Bfor%2Benabling%2Bnotifications%2Bfor%2Byour%2Bmini%2Bapp%26logoLight%3Dhttps%253A%252F%252Fmintlify.s3.us-west-1.amazonaws.com%252Fneynar%252Flogo%252Flogo-light.png%26logoDark%3Dhttps%253A%252F%252Fmintlify.s3.us-west-1.amazonaws.com%252Fneynar%252Flogo%252Flogo-dark.png%26primaryColor%3D%2523482b82%26lightColor%3D%25238512e0%26darkColor%3D%2523482b82&w=1200&q=100",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "Send Notifications to Mini App Users - Neynar",
+                  "ogLocale": "en",
+                  "ogSiteName": "Neynar",
+                  "ogDescription": "This guide walks you through a simple setup for enabling notifications for your mini app"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "miniapps",
+            "name": "Mini Apps",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8fe17302-9e46-475c-6e4a-794694cb3500/original"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/377bc6c4-68ab-4bf5-2081-ba27b5886700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 448833,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 938
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xee21078d",
+    "url": "https://farcaster.xyz/linda/0xee21078d",
+    "author_username": "linda",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-06-04T20:28:31.000Z",
+    "text": "Um someone just DCed me their passport photo unprompted, please don't do that I'm not verifying your KYC",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4c7c4276",
+    "url": "https://farcaster.xyz/srijan.eth/0x4c7c4276",
+    "author_username": "srijan.eth",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 377,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/34aab6e6-015f-4363-98c4-a4abafecb800/rectcrop3",
+    "cast_date": "2025-06-04T19:00:06.000Z",
+    "text": "ok banger is now a super tip",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01973c4d-bb37-9219-0f2e-2bce92c901dd.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 360,
+                "width_px": 656,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 438,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 18.5
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x046abfe4",
+    "url": "https://farcaster.xyz/miguelgarest.eth/0x046abfe4",
+    "author_username": "miguelgarest.eth",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 323251,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd4ee967-70fa-46f4-90cc-55a7f47bc000/original",
+    "cast_date": "2025-06-05T09:13:35.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d2454268-9636-4d6f-368d-c6e4b7b2d700/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 1443715,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 900,
+            "height_px": 900
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x562bd1aa",
+    "url": "https://farcaster.xyz/dwr.eth/0x562bd1aa",
+    "author_username": "dwr.eth",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2024-08-02T23:28:09.000Z",
+    "text": "I wish \"ok banger\" was worth 10x more than a normal reply.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5d6d45fc",
+    "url": "https://farcaster.xyz/kylepatrick.eth/0x5d6d45fc",
+    "author_username": "kylepatrick.eth",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 247143,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15b35784-d490-4144-15c4-62edc2a58c00/rectcrop3",
+    "cast_date": "2025-06-05T13:31:51.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f54d1112-b34b-4ff0-a1a0-0806b9825c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 350784,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 500,
+            "height_px": 852
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x881199d5",
+    "url": "https://farcaster.xyz/nounishprof/0x881199d5",
+    "author_username": "nounishprof",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-06-05T13:30:14.000Z",
+    "text": "GM! We've been having trouble with our hypersub group chat -- it keeps kicking people out when doing the nft checker so I turned off that function but it is still token gated to those holding our hypersub token. \n\nSo I added everyone back in that I could if I had your FC name. I may have missed some so please rejoin here. Sorry for the craziness -- it just kept auto-kicking everyone. \n\nhttps://farcaster.xyz/~/group/Xo1QRBIpNi41sLfj06_hAw",
+    "embeds": [
+      {
+        "url": "https://farcaster.xyz/~/group/Xo1QRBIpNi41sLfj06_hAw",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x35f6254d",
+    "url": "https://farcaster.xyz/triumph/0x35f6254d",
+    "author_username": "triumph",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 1180,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e024680a-7980-4837-3907-b45f4fc3a700/rectcrop3",
+    "cast_date": "2025-06-05T16:37:14.000Z",
+    "text": "PSA if you want someone to leave a group chat you can just ASK instead of kicking them🙄\n\nfc needs more beef??? well alright then let’s dance @adrienne @nounishprof",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe7a8f633",
+    "url": "https://farcaster.xyz/jessepollak/0xe7a8f633",
+    "author_username": "jessepollak",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-06-05T14:48:29.000Z",
+    "text": "suited up",
+    "embeds": [
+      {
+        "url": "https://b891d14d436694bb9a7feeba91730b95.ipfscdn.io/ipfs/QmVpbjgt9paWs6stJ7j7xduecEN6w9cCKm9hHHKotFPgWi",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 730216,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 750,
+            "height_px": 1000
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 99,
+          "hash": "0xcbcbe6f63268c4e2e75fdd8183e068d4305e9138"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xcbcbe6f63268c4e2e75fdd8183e068d4305e9138",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 99,
+            "username": "jesse.base.eth",
+            "display_name": "Jesse Pollak",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+            "custody_address": "0x4ce34af3378a00c640125e4dbf4c9e64dff4c93b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 309857,
+            "username": "baseapp.base.eth",
+            "display_name": "Base app",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05c00f8a-3374-40b4-249c-7cc70a260500/original",
+            "custody_address": "0x20c5cfecc0d1e03d2511aec13ea016f552d639b7"
+          },
+          "thread_hash": "0xcbcbe6f63268c4e2e75fdd8183e068d4305e9138",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "does anyone have a suit in DC?",
+          "timestamp": "2025-06-05T13:13:25.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xce12b11c",
+    "url": "https://farcaster.xyz/jessepollak/0xce12b11c",
+    "author_username": "jessepollak",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-06-05T23:02:37.000Z",
+    "text": "ok today went better than I expected",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/base-app/video/upload/sp_auto/v1749164552/video_uploads/87d5a740-5128-486f-9837-98d4c5eeb026.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": 959,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 960,
+                "width_px": 540,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 270,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 36.066667
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc656cf97",
+    "url": "https://farcaster.xyz/jessepollak/0xc656cf97",
+    "author_username": "jessepollak",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-06-05T19:42:30.000Z",
+    "text": "just saw the president, he seemed distracted",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/base-app/video/upload/sp_auto/v1749152549/video_uploads/bea57f44-1ae8-4af8-b0d1-67cb8db2bb72.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": 253,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 960,
+                "width_px": 540,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 270,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 320,
+                "width_px": 180,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 30.199674
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xef0c709f",
+    "url": "https://farcaster.xyz/aneri/0xef0c709f",
+    "author_username": "aneri",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 7732,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmZTLntgcsPSpc5jgG6nsNe6tgJo8wxSPm8nbAmdv7HG5b?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-06-05T15:17:42.000Z",
+    "text": "If you want to make sure your mini app gets visibility in Coinbase Wallet.\n\nEnsure your mainfest is properly set up here: https://farcaster.xyz/~/developers/mini-apps/manifest\n\nSome of the biggest apps do not have this set up. Most important ones to fill out:\n- primaryCategory\n- ogTitle, ogDescription and ogImageUrl\n- subtitle , description and tagline\n- heroImageUrl\n\nPlease double check now!!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8c56fdda",
+    "url": "https://farcaster.xyz/garrett/0x8c56fdda",
+    "author_username": "garrett",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 2802,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c131c034-0090-4610-45a4-acda4b805000/rectcrop3",
+    "cast_date": "2025-06-05T18:40:05.000Z",
+    "text": "Crypto IPO market looks very hot \n\nCircle shot up 3x on listing after debuting at $31/share, currently sitting just over $18B market cap\n\nThe P/E ratio according to their 2024 earnings is around 115 right now \n\nFor comparison, Nvidia’s P/E ratio in Spring 2023 hovered around the same level with the AI boom",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2802,
+          "hash": "0xd1445ac28be5970cf5a062dd396d266fb0d6df04"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd1445ac28be5970cf5a062dd396d266fb0d6df04",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2802,
+            "username": "garrett",
+            "display_name": "Garrett",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c131c034-0090-4610-45a4-acda4b805000/rectcrop3",
+            "custody_address": "0xb3b4c5d8a76b33d5db8f94b44444563b9038a7a3"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd1445ac28be5970cf5a062dd396d266fb0d6df04",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "The Circle IPO seems to be overvalued bc there’s so much demand for exposure to stablecoin growth and there’s not many options to get exposure, especially for more traditional investors \n\nCoinbase gets 100% of the revenue from $USDC held on its platform. 50% for all other residual revenue from $USDC reserves \n\nCoinbase is better placed to earn from the gain in USDC market cap than Circle itself us. \n\nThis will be true for the next few years at minimum. According to Coinbase’s 2024 report, the agreement that began in 2022 runs for an initial term of three years. \n\nAfter that, Coinbase and Circle will “discuss in good faith whether any modifications to the Circle Agreement are warranted.” If no new terms are agreed upon, the deal automatically renews for another three years—unless either side fails to meet its obligations.\n\nWith all of that said, Circle could essentially become a meme stock for stablecoin growth and get a valuation far beyond its current fundamentals",
+          "timestamp": "2025-06-05T14:36:46.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/12ea1620-4292-41ec-4b3f-c56941827f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 71082,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 1599
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4dab747c",
+    "url": "https://farcaster.xyz/ted/0x4dab747c",
+    "author_username": "ted",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-06-03T18:14:27.000Z",
+    "text": "overwhelming feedback from new users is that the content on farcaster is often too farcaster-centric.\n\nsharing a few topics i would love to read more on farcaster (and please lmk if any of these are in your wheelhouse bc i would love to help amplify!):\n\n1. popular culture! trend analyses and insights on culture (and not crypto culture). tell us what do gen z and gen alpha (and sure, millennial) consumers care about. i know \"men in tech\" may not care about this, but plenty of women *do* and there's a lot of us here!\n\n2. start ups! tell us which startups are hitting milestones, getting funding, growing exponentially — and tell us whether you think they are worthwhile businesses or not.\n\n3. data-centric information about technology, the economy, psychology, and everyday life. i love seeing data visualizations behind things that we know and love.\n\n4. more SCIENCE! tell us how pigs could solve the organ donor crisis or why sunshine is good for the immune system. anything!\n\nwhat do you want to read more of here?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x053a5c88",
+    "url": "https://farcaster.xyz/bradq/0x053a5c88",
+    "author_username": "bradq",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-06-05T01:16:26.000Z",
+    "text": "Inside Farcaster there are two wolves...\n\n(represented by @adrienne & @tldr )",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1628,
+          "hash": "0x37f655a32278731b6d3407f23da990fa620e8557"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x37f655a32278731b6d3407f23da990fa620e8557",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1628,
+            "username": "debbie",
+            "display_name": "Debbie 🔜",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/61321600-eb11-4ccb-e5f7-6ed519f6b000/original",
+            "custody_address": "0x2380ddf1eadb402d4f221edbcd4fc8ee53788d41"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x37f655a32278731b6d3407f23da990fa620e8557",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "wait are we not supposed to talk about farcaster on farcaster anymore",
+          "timestamp": "2025-06-05T00:28:14.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/38222ab3-beff-4e8c-58eb-17a434d15800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 603353,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 794
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x32db3223",
+    "url": "https://farcaster.xyz/ted/0x32db3223",
+    "author_username": "ted",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-06-03T22:20:43.000Z",
+    "text": "was wondering why i didn't see anything about mountainhead on the timeline here, but a quick search reveals:\n\n1. farcasters did, in fact, cast about it\n2. and it seems like most people had high expectations that weren't met\n3. but i still can't decide whether it is worth the watch or not\n\nanybody else watch it?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b80bf601-3854-49fa-df63-a36d30d6ae00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 620048,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 834,
+            "height_px": 1294
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/14e96eab-f171-4e61-a76a-907963dc9b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 701795,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 822,
+            "height_px": 1288
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5ec10d9e",
+    "url": "https://farcaster.xyz/nounishprof/0x5ec10d9e",
+    "author_username": "nounishprof",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-06-04T03:57:10.000Z",
+    "text": "“Because I take Kant really fucking seriously” was my favorite line and I immediately thought of @tldr lol",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 239,
+          "hash": "0x32db32234cc66c80e168d4c70ec1294783fdd864"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x32db32234cc66c80e168d4c70ec1294783fdd864",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 239,
+            "username": "ted",
+            "display_name": "ted (not lasso)",
+            "pfp_url": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+            "custody_address": "0xc67925418dc80265720244594c632b258a5c78e8"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x32db32234cc66c80e168d4c70ec1294783fdd864",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xc4934dbb7a71f76e4068cd04fade20ad6c0023dd",
+          "root_parent_url": "chain://eip155:1/erc721:0xc4934dbb7a71f76e4068cd04fade20ad6c0023dd",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "was wondering why i didn't see anything about mountainhead on the timeline here, but a quick search reveals:\n\n1. farcasters did, in fact, cast about it\n2. and it seems like most people had high expectations that weren't met\n3. but i still can't decide whether it is worth the watch or not\n\nanybody else watch it?",
+          "timestamp": "2025-06-03T22:20:43.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b80bf601-3854-49fa-df63-a36d30d6ae00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 620048,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 834,
+                  "height_px": 1294
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/14e96eab-f171-4e61-a76a-907963dc9b00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 701795,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 822,
+                  "height_px": 1288
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "screens",
+            "name": "Screens",
+            "image_url": "https://i.seadn.io/gcs/files/6a1b1587b246576cc87309031f781bea.png?auto=format&dpr=1&w=512"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x35a9ef79",
+    "url": "https://farcaster.xyz/chriscocreated/0x35a9ef79",
+    "author_username": "chriscocreated",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 5701,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/117f5639-2d6f-4aef-f414-c83538564600/original",
+    "cast_date": "2025-06-03T14:32:52.000Z",
+    "text": "Two years ago, Farcaster had just 2,000 weekly active users\nI made a piece with /purple to mark that moment\n\nToday, I’m dropping the Pro upgrade - all 10k Pros + the FC team\n\n⚡ FREE SD mint (24px PFPs) — just like this cast\n🔥 Limited HD edition (96px PFPs) — premium artefact\n⏳ Open for 48 hours\n\nI give you WeCastPro\n\nhttps://mint-frame-we-cast-pro.vercel.app",
+    "embeds": [
+      {
+        "url": "https://mint-frame-we-cast-pro.vercel.app",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "WeCastPro Mint Page",
+            "ogLocale": "en",
+            "ogDescription": "Mint a WeCastPro from ChrisCoCreated",
+            "fcFrame": {
+              "button": {
+                "title": "Free Mint",
+                "action": {
+                  "url": "https://mint-frame-we-cast-pro.vercel.app/",
+                  "name": "WeCastPro Mint",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://mint-frame-we-cast-pro.vercel.app//splash.png",
+                  "splashBackgroundColor": "#0f172a"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://mint-frame-we-cast-pro.vercel.app//button_hero.jpg"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Free Mint",
+            "image": "https://mint-frame-we-cast-pro.vercel.app//button_hero.jpg",
+            "frames_url": "https://mint-frame-we-cast-pro.vercel.app/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 5701,
+              "username": "chriscocreated",
+              "display_name": "ChrisCoCreated",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/117f5639-2d6f-4aef-f414-c83538564600/original",
+              "custody_address": "0x214573f904759874c9c2e4903b1cbd0bb5821e1d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjU3MDEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgyMTQ1NzNGOTA0NzU5ODc0QzlDMmU0OTAzYjFjYmQwYkI1ODIxZTFEIn0",
+                "payload": "eyJkb21haW4iOiJtaW50LWZyYW1lLXdlLWNhc3QtcHJvLnZlcmNlbC5hcHAifQ",
+                "signature": "MHg5NGVmODVlYjNjN2I1MjY3MTE0M2EzNWZkNzFlM2VhYmJlYTI0ODUzOGFhZTMzMjA5Njg0YjI0YTQ5MjAxOWUxMjY4NzZmZWUyMzNkZmIwZmIxYjY0MjNlY2UxNTRjNjdmMzlmMWVkYWVkYjE0ZTM4MTkwZmM3MzU2MzU1MGQ0NTFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "WeCastPro Mint",
+                "home_url": "https://mint-frame-we-cast-pro.vercel.app/",
+                "icon_url": "https://mint-frame-we-cast-pro.vercel.app//icon.png",
+                "splash_image_url": "https://mint-frame-we-cast-pro.vercel.app//splash.png",
+                "splash_background_color": "#0f172a",
+                "subtitle": "Mint a WeCastPro",
+                "description": "Mint a WeCastPro",
+                "screenshot_urls": [
+                  "https://mint-frame-we-cast-pro.vercel.app//screenshot1.png",
+                  "https://mint-frame-we-cast-pro.vercel.app//screenshot2.png",
+                  "https://mint-frame-we-cast-pro.vercel.app//screenshot3.png"
+                ],
+                "primary_category": "art-creativity",
+                "tags": [
+                  "social",
+                  "community",
+                  "art",
+                  "cocreated",
+                  "artifact"
+                ],
+                "hero_image_url": "https://mint-frame-we-cast-pro.vercel.app//hero.jpg",
+                "tagline": "Mint a WeCastPro",
+                "og_title": "WeCastPro Mint",
+                "og_description": "Mint a WeCastPro",
+                "og_image_url": "https://mint-frame-we-cast-pro.vercel.app//hero.jpg",
+                "noindex": false
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "WeCastPro Mint",
+                "home_url": "https://mint-frame-we-cast-pro.vercel.app/",
+                "icon_url": "https://mint-frame-we-cast-pro.vercel.app//icon.png",
+                "splash_image_url": "https://mint-frame-we-cast-pro.vercel.app//splash.png",
+                "splash_background_color": "#0f172a",
+                "subtitle": "Mint a WeCastPro",
+                "description": "Mint a WeCastPro",
+                "screenshot_urls": [
+                  "https://mint-frame-we-cast-pro.vercel.app//screenshot1.png",
+                  "https://mint-frame-we-cast-pro.vercel.app//screenshot2.png",
+                  "https://mint-frame-we-cast-pro.vercel.app//screenshot3.png"
+                ],
+                "primary_category": "art-creativity",
+                "tags": [
+                  "social",
+                  "community",
+                  "art",
+                  "cocreated",
+                  "artifact"
+                ],
+                "hero_image_url": "https://mint-frame-we-cast-pro.vercel.app//hero.jpg",
+                "tagline": "Mint a WeCastPro",
+                "og_title": "WeCastPro Mint",
+                "og_description": "Mint a WeCastPro",
+                "og_image_url": "https://mint-frame-we-cast-pro.vercel.app//hero.jpg",
+                "noindex": false
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe76bdfa7",
+    "url": "https://farcaster.xyz/galazio/0xe76bdfa7",
+    "author_username": "galazio",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 13495,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2594af39-cd20-49e0-ec38-046cf188f000/original",
+    "cast_date": "2025-06-06T03:13:25.000Z",
+    "text": "Power washing Adirondack chairs tonight :) This was so satisfying!",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01974339-7188-e484-5a84-aea7b5932f19.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 13.5
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x198dc9e0",
+    "url": "https://farcaster.xyz/octant/0x198dc9e0",
+    "author_username": "octant",
+    "show_date": "2025-06-06",
+    "show_title": "GM Farcaster ep255 Friday June 6, 2025",
+    "source_episode_id": "RUNhbIPHR0M",
+    "author_fid": 18203,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9853f821-1390-4ed5-4217-a46a65aa4400/original",
+    "cast_date": "2025-05-22T13:32:31.000Z",
+    "text": "gm gm ❤️\n\nWe're finally ready to unveil Epoch 8.\n\n🥁🥁🥁 This epoch is an Ethereum-core alignment epoch. It's a special one because it's a major step in our broader roadmap to contribute to Ethereum's growth.\n\nLike Epoch 7, there's no snapshot. Our internal reviewers will select projects based on impact and relevance.\n\nAllocation window remains the same. ETH rewards are time-weighted and allocating to projects get you matched\n\n🗓Application Deadline: 3 June, 2025 @ 11:59 pm PST\n\n🛠 Who should apply?\nBuilders advancing Ethereum in 4 core areas:\n\n1) Direct protocol improvements (consensus, execution, data availability, core networking)\n\n2) Shared infrastructure (clients, testnets & tooling, p2p networking stacks, security & formal-verification frameworks, transparency)\n\n3) Open dashboards, datasets, or studies (roll-ups, bridges, MEVs -  resulting insights must strengthen Ethereum)\n\n4) Protocol-level research + specification work (advancing Ethereum's roadmap)\n\nApp link + eligibility criteria 👇",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/513cad0a-2c1e-4483-68d1-1f88aaaad100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 366582,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1920,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

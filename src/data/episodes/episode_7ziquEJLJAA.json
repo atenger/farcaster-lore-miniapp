@@ -1,0 +1,1833 @@
+[
+  {
+    "cast_hash": "0x1f222916",
+    "url": "https://warpcast.com/cryptowenmoon.eth/0x1f222916",
+    "author_username": "cryptowenmoon.eth",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 10174,
+    "author_pfp": "https://i.imgur.com/tABKvo7.gif",
+    "cast_date": "2025-04-20T19:59:24.000Z",
+    "text": "Happy crypto easter to those who celebrate",
+    "embeds": [
+      {
+        "url": "https://media.firefly.land/farcaster/a16720dc-ee03-4a70-a81b-22721c02ac79.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 2739443,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1016,
+            "height_px": 1016
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xabcbb8d8",
+    "url": "https://warpcast.com/nounishprof/0xabcbb8d8",
+    "author_username": "nounishprof",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-04-20T22:26:39.000Z",
+    "text": "GM Farcaster has two special events for our @hypsersub coming up for FarCon. On Wednesday April 30 at 5 pm ET we have our karaoke happy hour and on Friday we have a breakfast meetup at 8 am ET with early entry into the FarCon Summit, special swag bag and a sneak peek at our media studio! RSVP below!\n\nhttps://events.xyz/events/648c5e22",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0xb50096753a415c34f873d9f6b29ed158fa49448e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb50096753a415c34f873d9f6b29ed158fa49448e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb50096753a415c34f873d9f6b29ed158fa49448e",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Attention GM Farcaster hypersub: If you're coming to FarCon, Join NounishProf and @adrienne for a welcome to FarCon happy hour with appetizers & karaoke in Williamsburg! This event is for our GM Farcaster Hypersub holders (wowow and mole tiers) and invited guests. Singing optional; fun required!\n\nPlease request to join if you'll be in NYC on April 30 -- we'd love to see you! Priority approvals for our active GM Farcaster Hypersub. (note: we've momentarily paused new signups to allow for current active members to have first opportunity to rsvp - we are revamping our hypersub and will reopen next week.)\n\nhttps://events.xyz/events/5ad15d",
+          "timestamp": "2025-04-11T14:52:17.000Z",
+          "embeds": [
+            {
+              "url": "https://events.xyz/events/5ad15d",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://events.xyz/api/frames/events/5ad15d/img/no_rsvp"
+                    }
+                  ],
+                  "ogTitle": "GMFC Karaoke Happy Hour at FarCon",
+                  "ogLocale": "en",
+                  "ogDescription": "FB Events for Farcaster"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      },
+      {
+        "url": "https://events.xyz/events/648c5e22",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/api/frames/events/648c5e22/img/no_rsvp"
+              }
+            ],
+            "ogTitle": "GM Farcaster breakfast meetup/early entry",
+            "ogLocale": "en",
+            "ogDescription": "FB Events for Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4a0bbfc3",
+    "url": "https://warpcast.com/bradq/0x4a0bbfc3",
+    "author_username": "bradq",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-04-21T12:07:37.000Z",
+    "text": "29 Seconds of Farcaster ... what did you miss this weekend?\n\n* @afrochicks gave us a killer cast reminding us that \"bringing the world onchain means bringing the world onchain\" & how westerners need to understand & empathize with others (esp. Africa) perception of coming on FC\n\n* @tayyab announced Octant's biggest FC Retro Funding round yet at up to 15 ETH\n\n* @v shared that FC signups are headed to basically free--snapchain allows initiating steps to get there\n\n* The 'tips for casts' discussion evolved & heated up w/ notable FCers discussing the need for a cast response that tips ~ $0.25\n\n* @dwr.eth teased a new feature for the sidebar; & $bracky brought renewed interest to the NBA Playoffs in a new format\n\n* 'This week in mini apps' hosted by @linda & @horsefacts.eth gave us a great rundown by @phil of the QR mini app by @jake which shows the convergence of many FC building blocks\n\n* Join @adrienne & @nounishprof after a week off, sure to far exceed 29 Minutes 😂 to catch up & start the week 8:30 AM EST",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x87966ccb175157bfe8d37d96808c9bd7e0cb4019"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x87966ccb175157bfe8d37d96808c9bd7e0cb4019",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x87966ccb175157bfe8d37d96808c9bd7e0cb4019",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster is back this week starting tomorrow at 8:30 am ET with @adrienne and prof getting caught up on the happenings of last week. Then Wednesday join us at 11:30 am ET with special guest @vpabundance.eth from @octant and Friday @esteez.eth is popping by to chat about /farcon-nyc. Get ready for a great week ahead!",
+          "timestamp": "2025-04-20T16:54:40.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dc1b49c7-8bf8-4021-3e8a-7d61ef7a4c00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 601937,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 960,
+                  "height_px": 540
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb8ad22c7",
+    "url": "https://warpcast.com/bradq/0xb8ad22c7",
+    "author_username": "bradq",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-04-18T15:45:01.000Z",
+    "text": "Since /gmfarcaster wasn't live this week to keep us up to date, here are some notes from the week:\n\n* best story of the week: @hankmoody interviewing @rosaliesrainbow  & @shanemac.eth stepping up to change a little girl's life | https://warpcast.com/hankmoody/0x1c06d4c7\n\n* new video explaining FC mini apps from @linda  | https://warpcast.com/dwr.eth/0x58ce55ec\n\n* there were some events surrounding, *checks notes* 'content coins'; easiest way to catch up is probably using the new FC trending feature on mobile & scroll the 'content coin' category or start w/ @jesse.base.eth posts and go from there\n\n* cast directly to Twitter/X shared by @woj | https://warpcast.com/woj.eth/0xc16a6080  \nnote: I hear it's armageddon over there on X ☠️ ☠️ ☠️ \n\n* FC has a blog to capture ongoing announcements in one place | https://warpcast.com/dwr.eth/0x10cc6a3f\n\nNot exhaustive, but these keep you in the loop",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 475488,
+          "hash": "0x1c06d4c7f0458f7eb3e377ad7acd9e8415f3281d"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1c06d4c7f0458f7eb3e377ad7acd9e8415f3281d",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 475488,
+            "username": "hankmoody",
+            "display_name": "HankMoody",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6db997b7-66fb-4c45-2cbf-063f61333700/rectcrop3",
+            "custody_address": "0xdf1adda7869dd01242a0c067d20f8ea842ff74c5"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1c06d4c7f0458f7eb3e377ad7acd9e8415f3281d",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/live-the-same",
+          "root_parent_url": "https://warpcast.com/~/channel/live-the-same",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨 𝗦𝗢 𝗠𝗨𝗖𝗛 𝗦𝗛𝗔𝗡𝗘𝗠𝗔𝗖 💜💜!!\n\nFriends,\n\nWhat fabulous news! Mr. Shanemac donated the 2 ETH to Rosalie!\n\nI was so excited to see this. Thank you so much to everyone who tagged him in the comments yesterday. I'm just thinking of @zwillow and @bradq, but I'm sure there were more.\n\n@shanemac.eth, I'm just an ordinary guy. I couldn't have done what you did, but I thank you from the bottom of my heart for making @rosalie's dream come true. We need a lot more people like you in this world!\nhttps://warpcast.com/shanemac.eth/0x97279f1d",
+          "timestamp": "2025-04-16T15:03:01.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 375,
+                "hash": "0x97279f1d52a2bfdf2b606f6708bf7f4dead958b7"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x97279f1d52a2bfdf2b606f6708bf7f4dead958b7",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 375
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "live-the-same",
+            "name": "Live the same",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c16fd754-a4eb-41f2-0b60-cd0ea7601100/original"
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x58ce55ec962da03baca7f92fcbacc96175e2de13"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x58ce55ec962da03baca7f92fcbacc96175e2de13",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x58ce55ec962da03baca7f92fcbacc96175e2de13",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "If you have 5 minutes and want to help out Farcaster!\n\n1. Watch this video from @linda \n2. Like\n3. Subscribe\n\nhttps://www.youtube.com/watch?v=anVED0U7DeY",
+          "timestamp": "2025-04-15T22:40:06.000Z",
+          "embeds": [
+            {
+              "url": "https://www.youtube.com/watch?v=anVED0U7DeY",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "undefined",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/anVED0U7DeY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"What Are Farcaster Mini Apps? Explained in 5 Minutes\"></iframe>",
+                    "type": "video",
+                    "title": "What Are Farcaster Mini Apps? Explained in 5 Minutes",
+                    "width": 200,
+                    "height": 150,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@farcasterxyz",
+                    "author_name": "Farcaster",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/anVED0U7DeY/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "favicon": "https://www.youtube.com/s/desktop/4365d982/img/logos/favicon.ico",
+                  "ogTitle": " - YouTube",
+                  "ogLocale": "en",
+                  "ogDescription": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcb03d679",
+    "url": "https://warpcast.com/dwr.eth/0xcb03d679",
+    "author_username": "dwr.eth",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-04-11T20:00:43.000Z",
+    "text": "Introducing Trending Topics\n\nAlgorithmic collections of casts about topics people are talking about. They update a few times per day.\n\nMobile only to start. Update to the latest version of Warpcast from the your app store and restart your app 1-2x. \n\nTopics will appear on the search tab and in your feed while you're scrolling. \n\nWe’re running this as an experiment in Warpcast for the next couple months.\n\n---\n\n> Are these channels?\n\nTrending topics **are not** channels. They are collections casts about a popular topic identified by an AI-powered algorithm. Channels have no bearing on trending topics.\n\n> Are the topics on the protocol?\n\nThe casts themselves are on the protocol but the categorization and feeds are generated by Warpcast. There are developer tools like @mbd that can provide this for your app.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f775b006-9c94-4ffe-2c11-73ba44e4b300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 164483,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1204,
+            "height_px": 716
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0975e7bc",
+    "url": "https://warpcast.com/gabrielayuso.eth/0x0975e7bc",
+    "author_username": "gabrielayuso.eth",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 834,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0a4721e1-7694-44c0-f120-4eec4f747300/original",
+    "cast_date": "2025-04-11T20:35:44.000Z",
+    "text": "The web Developer Tools just got a new fresh coat of paint!\n\nThe tools are focused on validating, previewing and publishing your mini apps.\n\nWe removed building the json builder since starter projects and other tools can help with that (more to come).\nWe also removed localhost support because it didn't work well and it was a source of frustration for devs, we recommend using a tunnel instead.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f50939b0-7fd2-44d2-1d88-07014f6e9600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 325384,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 864,
+            "height_px": 1981
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/519ece1e-efc6-41da-e737-4085c7cd7f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 178973,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 853,
+            "height_px": 814
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x033bfd03",
+    "url": "https://warpcast.com/gabrielayuso.eth/0x033bfd03",
+    "author_username": "gabrielayuso.eth",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 834,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0a4721e1-7694-44c0-f120-4eec4f747300/original",
+    "cast_date": "2025-04-11T23:00:05.000Z",
+    "text": "One more thing...\n\nWe now provide you with analytics for your Mini Apps on the web Developer Tools!\n\nWe call them... charts.\n\nStarting with: \n- Unique Users\n- Opens\n- Transactions\n- Unique Users with a Transaction",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1cd3677f-38a8-4ca1-96fa-2a8680f91d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 207679,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1024
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f521825e-c3ad-4117-0674-bd7f11e8f700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 198522,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1223,
+            "height_px": 814
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe2845ffb",
+    "url": "https://warpcast.com/aneri/0xe2845ffb",
+    "author_username": "aneri",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 7732,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmZTLntgcsPSpc5jgG6nsNe6tgJo8wxSPm8nbAmdv7HG5b?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-04-11T23:23:29.000Z",
+    "text": "Mini app builders: I often get asked how to make sure your mini app works well in Coinbase Wallet.\n\nOne of the biggest issues: mini apps that use Warpcast deeplinks (many even buttons that say “Share to Warpcast”) where users are dropped into a dead-end logged out Warpcast screen in the browser.\n\nTo ensure full compatibility across clients, switch from Warpcast cast intent URLs to using composeCast from the Farcaster Mini Apps SDK.",
+    "embeds": [
+      {
+        "url": "https://miniapps.farcaster.xyz/docs/sdk/actions/compose-cast",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 8420,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "miniapps-docs-evohvd3q0-farcaster.vercel.app",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://og-five-eta.vercel.app/api/og/mini-apps?title=composeCast&description=Open the cast composer with a suggested cast&section=Action"
+              }
+            ],
+            "ogTitle": "composeCast",
+            "ogLocale": "en",
+            "ogDescription": "Open the cast composer with a suggested cast"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xde27c033",
+    "url": "https://warpcast.com/dwr.eth/0xde27c033",
+    "author_username": "dwr.eth",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-04-14T23:42:38.000Z",
+    "text": "Improved sharing to X and other apps with a much improved image\n\nh/t @woj @blockheim",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/019636ae-768a-5862-d0cd-e44c1ddb3b24.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 14.8
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc16a6080",
+    "url": "https://warpcast.com/woj.eth/0xc16a6080",
+    "author_username": "woj.eth",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2025-04-14T23:09:37.000Z",
+    "text": "new on warpcast: share a cast straight to X (and other apps)\n\nnot much to say here, please share your favorite posts with your friends :)\n\nlinks in dms, images to X and IG\n\nlive on mobile and web, please tag me if you see any bugs!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/12e22715-2dc7-478d-841c-2f159a7c3600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 97662,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1134,
+            "height_px": 834
+          }
+        }
+      },
+      {
+        "url": "https://stream.warpcast.com/v1/video/0196368b-8aa0-0429-a621-8f14d24e1531.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1562,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1042,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 780,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 520,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 20.79
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2c4f09e0",
+    "url": "https://warpcast.com/v/0x2c4f09e0",
+    "author_username": "v",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-04-15T23:41:51.000Z",
+    "text": "Snapchain is now live! \n\nWarpcast and Neynar are reading and writing from Snapchain. Casting across apps is now faster, more reliable and more likely to scale as Farcaster grows. \n\nI recorded a new beginner friendly video series to explain how this works: \n\nhttps://youtu.be/xVqcy2hqUVs?si=ufnFHiALYDGeylx0",
+    "embeds": [
+      {
+        "url": "https://youtu.be/xVqcy2hqUVs?si=ufnFHiALYDGeylx0",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "undefined",
+            "oembed": {
+              "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/xVqcy2hqUVs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Farcaster: Introduction to Snapchain\"></iframe>",
+              "type": "video",
+              "title": "Farcaster: Introduction to Snapchain",
+              "width": 200,
+              "height": 150,
+              "method": "provider-api",
+              "version": "1.0",
+              "author_url": "https://www.youtube.com/@farcasterxyz",
+              "author_name": "Farcaster",
+              "provider_url": "https://www.youtube.com/",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/xVqcy2hqUVs/hqdefault.jpg",
+              "thumbnail_width": 480,
+              "thumbnail_height": 360
+            },
+            "favicon": "https://www.youtube.com/s/desktop/c722ba88/img/logos/favicon.ico",
+            "ogTitle": " - YouTube",
+            "ogLocale": "en",
+            "ogDescription": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb6c17a67",
+    "url": "https://warpcast.com/v/0xb6c17a67",
+    "author_username": "v",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-04-18T15:48:28.000Z",
+    "text": "Warpcast Wallet makes gas problems go away. \n\nIf you need ETH on base but only have USDC, the wallet will prompt you to swap it as part of your transaction. Users don't have to think about gas, and it just works.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 12152,
+          "hash": "0xa36ddace52fbacce48838847904587e30341353a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa36ddace52fbacce48838847904587e30341353a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12152,
+            "username": "pirosb3",
+            "display_name": "Daniel - Bountycaster",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7229dfa5-4873-42d0-9dd0-69f4f3fc4d00/original",
+            "custody_address": "0x0bf45f967e90ffd60635d1ac195062a3a9fcc62b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa36ddace52fbacce48838847904587e30341353a",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "New feature: Gasless mini app interactions ✨\n\nWarplet now enables mini-app transactions even without sufficient ETH\n\nFor developers: charge in ETH knowing the app will automatically swap for it if needed. Plus, users low on gas will get a $1 auto-swap to complete transactions\n\nDemo #1 - minting topi from @azflin with my USDC",
+          "timestamp": "2025-04-18T15:06:26.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.warpcast.com/v1/video/0196496f-3239-ad29-d041-6d594fff63ab.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1560,
+                      "width_px": 720,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 1040,
+                      "width_px": 480,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 780,
+                      "width_px": 360,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 520,
+                      "width_px": 240,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 36
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa36ddace",
+    "url": "https://warpcast.com/pirosb3/0xa36ddace",
+    "author_username": "pirosb3",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 12152,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7229dfa5-4873-42d0-9dd0-69f4f3fc4d00/original",
+    "cast_date": "2025-04-18T15:06:26.000Z",
+    "text": "New feature: Gasless mini app interactions ✨\n\nWarplet now enables mini-app transactions even without sufficient ETH\n\nFor developers: charge in ETH knowing the app will automatically swap for it if needed. Plus, users low on gas will get a $1 auto-swap to complete transactions\n\nDemo #1 - minting topi from @azflin with my USDC",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/0196496f-3239-ad29-d041-6d594fff63ab.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1560,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1040,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 780,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 520,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 36
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa211d05b",
+    "url": "https://warpcast.com/v/0xa211d05b",
+    "author_username": "v",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-04-18T15:54:45.000Z",
+    "text": "New FIP: Storage Redenomination \n\nThe goal is to get to effectively \"free signups\" by reducing fees to 5c over time. At this price, apps will be able to sponsor users who pass sybil checks.  \n\nhttps://github.com/farcasterxyz/protocol/discussions/229",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6dcb2412-576c-41ee-39d2-13d1b03a1200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 651534,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1882,
+            "height_px": 1276
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf17566a4",
+    "url": "https://warpcast.com/esteez.eth/0xf17566a4",
+    "author_username": "esteez.eth",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 17571,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15501d1c-e40f-4303-c8f6-a13b425c8b00/original",
+    "cast_date": "2025-04-18T00:33:52.000Z",
+    "text": "Side events keep on rolling!!\n📍 Morning Run with @carlos, @w3runn3rs\n📍 Mini App Spotlight with @seedclub \n📍 Builders Happy Hour with @janehk, Volt Capital\n\nReminder that tomorrow is the last day to sign up for the FarCon Open!! 👀 \n\nAll other details are on farcon.nyc of course 🤩",
+    "embeds": [
+      {
+        "url": "https://farcon.nyc",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": 31706,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcon.nyc/",
+            "ogType": "website",
+            "favicon": "https://framerusercontent.com/images/N3hYY7YROdHWp1QB1Bme3t9aw.png",
+            "ogImage": [
+              {
+                "url": "https://framerusercontent.com/images/sMXvEvW1Oun66bNusm2SwMjio.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "FarCon 2025",
+            "ogLocale": "en",
+            "ogDescription": "NYC's coziest corner.",
+            "fcFrame": {
+              "button": {
+                "title": "Open FarCon NYC",
+                "action": {
+                  "url": "https://farcon.nyc",
+                  "name": "FarCon NYC",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://i.imgur.com/eCaAt9v.png",
+                  "splashBackgroundColor": "#472a91"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://i.imgur.com/whxCsvz.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Open FarCon NYC",
+            "image": "https://i.imgur.com/whxCsvz.png",
+            "frames_url": "https://farcon.nyc/"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x16f71be5",
+    "url": "https://warpcast.com/phil/0x16f71be5",
+    "author_username": "phil",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2025-04-13T23:46:09.000Z",
+    "text": "AMPS FOR ALL\n\n1) Starting tomorrow, anyone can buy recasts from their followers via @ampsfun \n\n2) If you're already registered, there's nothing more you need to do to be eligible to earn. Some users, like @tldr, have already earned hundreds of dollars by simply registering their profile and setting their recast price. \n\n3) If you're not registered, you can do so by visiting the miniapp. This will give people you follow the ability to buy likes and recasts from you for a fee. \n\n4) Our priority with this rollout is to expand the number of buyers and help our registered signers earn more. \n\n5) However, with more buyers comes bad actors. We have implemented several anti-spam measures to maintain quality. We'll be actively monitoring this week to make sure posts meet our quality standards and reacting quickly if we see something we don't like. \n\namps.fun",
+    "embeds": [
+      {
+        "url": "https://amps.fun",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "Amps",
+                "url": "https://amps.fun/opengraph-image?dfe2b126b69be248",
+                "type": "image/png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Amps",
+            "ogLocale": "en",
+            "ogDescription": "Get paid when friends post",
+            "fcFrame": {
+              "button": {
+                "title": "Get started",
+                "action": {
+                  "url": "https://amps.fun",
+                  "name": "Amps",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://amps.fun/splash.png",
+                  "splashBackgroundColor": "#1A1623"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://amps.fun/opengraph-image.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Get started",
+            "image": "https://amps.fun/opengraph-image.png",
+            "frames_url": "https://amps.fun/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 980410,
+              "username": "ampsfun",
+              "display_name": "amps.fun",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6b691633-c886-4cdf-ed85-88a7d34b9c00/original",
+              "custody_address": "0x8a601a8c052e698b9e0854d81772ee2fa78265e4"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjk4MDQxMCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDhBNjAxQThjMDUyRTY5OEI5ZTA4NTRkODE3NzJFZTJGQTc4MjY1RTQifQ",
+                "payload": "eyJkb21haW4iOiJhbXBzLmZ1biJ9",
+                "signature": "MHg1NTU5NDUyOWVhOWY0NmI4NWY4OWEyMWRjZjc4ZjU2ZDc2YzcwYTNjYjNlODcwNTA4NjQ2ZWE3NGNhNmY4ZmE2Njg5YjU1MzVlZDJkMzVlNTkyNGRhZTA2MjkyMGYwMWU1MzhlNmI1ZDI1MDNkZTYzYzk3ZWZiYTAwOTgxMGY1ZjFi"
+              },
+              "frame": {
+                "version": "0.0.1",
+                "name": "Amps",
+                "home_url": "https://amps.fun",
+                "icon_url": "https://amps.fun/icon.png",
+                "image_url": "https://amps.fun/icon.png",
+                "button_title": "Get started",
+                "splash_image_url": "https://amps.fun/splash.png",
+                "splash_background_color": "#1A1623",
+                "webhook_url": "https://api.neynar.com/f/app/f6de9e8a-516b-40ab-972e-7987e2e5e439/event",
+                "subtitle": "Get paid when friends post",
+                "description": "Get paid when friends post",
+                "screenshot_urls": [
+                  "https://amps.fun/amps-screenshot-1.png"
+                ],
+                "primary_category": "utility",
+                "tags": [
+                  "Social",
+                  "Earn",
+                  "Advertising",
+                  "Ads",
+                  "USDC"
+                ],
+                "hero_image_url": "https://amps.fun/hero@2x.png",
+                "tagline": "Get paid when friends post",
+                "og_title": "Amps",
+                "og_description": "Buy and sell engagement on Farcaster",
+                "og_image_url": "https://amps.fun/opengraph-image.png",
+                "cast_share_url": "https://amps.fun"
+              },
+              "miniapp": {
+                "version": "0.0.1",
+                "name": "Amps",
+                "home_url": "https://amps.fun",
+                "icon_url": "https://amps.fun/icon.png",
+                "image_url": "https://amps.fun/icon.png",
+                "button_title": "Get started",
+                "splash_image_url": "https://amps.fun/splash.png",
+                "splash_background_color": "#1A1623",
+                "webhook_url": "https://api.neynar.com/f/app/f6de9e8a-516b-40ab-972e-7987e2e5e439/event",
+                "subtitle": "Get paid when friends post",
+                "description": "Get paid when friends post",
+                "screenshot_urls": [
+                  "https://amps.fun/amps-screenshot-1.png"
+                ],
+                "primary_category": "utility",
+                "tags": [
+                  "Social",
+                  "Earn",
+                  "Advertising",
+                  "Ads",
+                  "USDC"
+                ],
+                "hero_image_url": "https://amps.fun/hero@2x.png",
+                "tagline": "Get paid when friends post",
+                "og_title": "Amps",
+                "og_description": "Buy and sell engagement on Farcaster",
+                "og_image_url": "https://amps.fun/opengraph-image.png",
+                "cast_share_url": "https://amps.fun"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3f24677d",
+    "url": "https://warpcast.com/cojo.eth/0x3f24677d",
+    "author_username": "cojo.eth",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 4327,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66013ade-eb0f-4eb9-7d5a-e08f1b9e1c00/original",
+    "cast_date": "2025-04-13T18:17:53.000Z",
+    "text": "The issue is now patched - here’s a quick summary.\n\nCheck out Ben’s cast for the full write up.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c37c6c58-dbf6-4621-dc6a-54ecc47a4500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 140911,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1320,
+            "height_px": 1099
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 976,
+          "hash": "0x79612091c44d37ee440e1983280cca39e2bf989a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x79612091c44d37ee440e1983280cca39e2bf989a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 976,
+            "username": "ba",
+            "display_name": "Ben Adamsky 💭",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1ebcd498-0940-4ce9-2ff1-9260f4e00900/original",
+            "custody_address": "0xae6706fe1cb6887e5ed9b2e7e64ba78ba9c5e785"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x79612091c44d37ee440e1983280cca39e2bf989a",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Update on today's incident: We've identified a critical vulnerability in our withdrawal API, where there was an exploit that allowed unauthorized withdrawals to bypass our security checks. We've frozen withdrawing funds on smart wallets until this is fully resolved.\n\nMost importantly - all smart contracts, admin wallets, and user smart wallets remain fully secure and uncompromised\n\nThe root cause was an authentication spoofing technique in our API routes due to architectural constraints within our auth system. We've learned a lot from this exploit and are implementing more robust security measures to prevent a situation like this from ever happening again.\n\nAll affected users will be refunded this week",
+          "timestamp": "2025-04-13T18:06:31.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 4327,
+                "hash": "0xf963b7cb2b4b0cd7ad96c61b77e678ed3ef3e16d"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xf963b7cb2b4b0cd7ad96c61b77e678ed3ef3e16d",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 4327
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcbfd1bca",
+    "url": "https://warpcast.com/myk/0xcbfd1bca",
+    "author_username": "myk",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 217248,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ab39123-9da1-408c-ae95-6bbd1ae65500/original",
+    "cast_date": "2025-04-14T00:35:11.000Z",
+    "text": "This weekend I created Flock In: an onchain cameo miniapp on Farcaster\n\nFor creators:\n- Complete requests for videos\n- Earn onchain\n\nFor users:\n- Get personalized videos from people on farcaster\n- Leave reviews for others\n\nBuilt with @onchainkit \n\nhttps://flock-in.vercel.app",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/019631b5-c0ca-f70a-f3aa-39a7fa2b437d.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 98.79
+          }
+        }
+      },
+      {
+        "url": "https://flock-in.vercel.app",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogTitle": "Flock In",
+            "ogLocale": "en",
+            "ogDescription": "Flock In lets you pay for videos from your favorite farcaster creators!",
+            "fcFrame": {
+              "button": {
+                "title": "Launch Flock In",
+                "action": {
+                  "url": "https://flock-in.vercel.app",
+                  "name": "Flock In",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://flock-in.vercel.app/fire.png",
+                  "splashBackgroundColor": "#e5e5e5"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://flock-in.vercel.app/api/frame?"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Launch Flock In",
+            "image": "https://flock-in.vercel.app/api/frame?",
+            "frames_url": "https://flock-in.vercel.app/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 217248,
+              "username": "myk",
+              "display_name": "myk.eth",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ab39123-9da1-408c-ae95-6bbd1ae65500/original",
+              "custody_address": "0xeba78717b6f059cfe0b75e75c2ed4bb7ca65154f"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjIxNzI0OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGViYTc4NzE3YjZmMDU5Q0ZFMGI3NUU3NUMyZWQ0QkI3Y0E2NTE1NEYifQ",
+                "payload": "eyJkb21haW4iOiJmbG9jay1pbi52ZXJjZWwuYXBwIn0",
+                "signature": "MHgxNWVmNWQwMTI5ZmFiYjA2ZDAwZjZjNjk1YWEzNThjODMyNzA5MTcxZWNmYTE0ODFiZmQwM2VkMzIwODA2ZjgyNDE5M2IwMzE4MmM5OTQ0MGUwMGJlY2YwYWVkNjM5Mjg0ZjllNjI1ZDU1MDM2NzVlYjVmYTQ1MjY4OWRjODRjNTFj"
+              },
+              "frame": {
+                "version": "next",
+                "name": "Flock In",
+                "home_url": "https://flock-in.vercel.app",
+                "icon_url": "https://flock-in.vercel.app/fire.png",
+                "image_url": "https://flock-in.vercel.app/fire.png",
+                "button_title": "Launch Flock In",
+                "splash_image_url": "https://flock-in.vercel.app/fire.png",
+                "splash_background_color": "#e5e5e5",
+                "webhook_url": "https://api.neynar.com/f/app/1cfa8c61-5b71-4d23-a4b2-e937651b930a/event"
+              },
+              "miniapp": {
+                "version": "next",
+                "name": "Flock In",
+                "home_url": "https://flock-in.vercel.app",
+                "icon_url": "https://flock-in.vercel.app/fire.png",
+                "image_url": "https://flock-in.vercel.app/fire.png",
+                "button_title": "Launch Flock In",
+                "splash_image_url": "https://flock-in.vercel.app/fire.png",
+                "splash_background_color": "#e5e5e5",
+                "webhook_url": "https://api.neynar.com/f/app/1cfa8c61-5b71-4d23-a4b2-e937651b930a/event"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2a8f3887",
+    "url": "https://warpcast.com/brianjckim/0x2a8f3887",
+    "author_username": "brianjckim",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 426,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/42872000-12c5-4b57-cd79-55f889997600/original",
+    "cast_date": "2025-04-18T15:03:44.000Z",
+    "text": "the pirate cooks even harder at home\n\nhttps://www.architecturaldigest.com/story/venice-craftsman-compound-electric-bowery",
+    "embeds": [
+      {
+        "url": "https://www.architecturaldigest.com/story/venice-craftsman-compound-electric-bowery",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.architecturaldigest.com/story/venice-craftsman-compound-electric-bowery",
+            "ogType": "article",
+            "favicon": "https://www.architecturaldigest.com/verso/static/architectural-digest/assets/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://media.architecturaldigest.com/photos/67fd66a9ac86d143c8fcc41a/16:9/w_1280,c_limit/EB_Palms7155Final.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "Tour a Venice Craftsman Compound That “Feels Like a Small Italian Village”",
+            "ogLocale": "en-US",
+            "ogSiteName": "Architectural Digest",
+            "ogDescription": "Electric Bowery designs a group of whimsical LA bungalows—treehouse and snack shack included"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x439f7f2f",
+    "url": "https://warpcast.com/grin/0x439f7f2f",
+    "author_username": "grin",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 1970,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e8d65d0e-42de-4237-1159-128e81c94900/original",
+    "cast_date": "2025-04-19T19:00:44.000Z",
+    "text": "lol thank you! now you and prof aren't the only match made at FC1",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x686b5d5a",
+    "url": "https://warpcast.com/ted/0x686b5d5a",
+    "author_username": "ted",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-04-11T19:02:12.000Z",
+    "text": "tons of users have been reaching out to me re: spam labels. when i look at their content, these are the 5 most common pieces of feedback i give:\n\n1. don’t only post mini-apps. think of warpcast as early facebook: if someone only posted dolphin olympics screenshots every day, people would tune them out.\n\n2. avoid overly generic content. casting \"gm\" or inspirational quotes is fine occasionally, but if your feed feels interchangeable with anyone else’s, it’s hard for people to connect with you.\n\n3. don't use AI thoughtlessly. people notice when casts or replies feel like ChatGPT wrote them. it’s fine to use AI, just add real thoughts or emotions. authenticity wins here.\n\n4. don’t repost stolen photos / art from the internet. farcaster values original content or curation that reflects your taste — not just what’s trending on pinterest, reddit, or X.\n\n5. quality > quantity. you don’t need to cast 10x a day or reply to everyone everywhere. take time to cast things you would stop scrolling to read.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x20399362",
+    "url": "https://warpcast.com/zinger/0x20399362",
+    "author_username": "zinger",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 1407,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/def58dd1-1eba-4976-87de-8f6a4767b400/original",
+    "cast_date": "2025-04-17T21:45:31.000Z",
+    "text": "Wow just walked by not even an hour later and they already had it updated and even winced a little when I dropped Linda's name\n\nLooked like they were covering up some bruises and sweeping up some broken glass too 😳",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ddeef667-68ed-4b58-1a85-d4bfa1f46b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 513431,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1536
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 12,
+          "hash": "0x53f0667c968be0a2e29f8fdb38687c0e89b92e0f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x53f0667c968be0a2e29f8fdb38687c0e89b92e0f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12,
+            "username": "linda",
+            "display_name": "Linda Xie",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+            "custody_address": "0xb43575d58c49d2be880e0f821ddf51d15c13c376"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x53f0667c968be0a2e29f8fdb38687c0e89b92e0f",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Triggered",
+          "timestamp": "2025-04-17T20:52:41.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/734ab76b-35c8-44fb-aa93-b4b35d1eb000/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 503387,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8b0d8b3b",
+    "url": "https://warpcast.com/dwr.eth/0x8b0d8b3b",
+    "author_username": "dwr.eth",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-04-11T17:26:37.000Z",
+    "text": "Welcome to @rrhoover, founder of ProductHunt!\n\nHe's kindly agreed to do an AMA—starts in 30 minutes.\n\nReply with your questions!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/55dce13f-b5b4-43ea-a8ed-df8ffdd58b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 230407,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1064,
+            "height_px": 640
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x31cf942e",
+    "url": "https://warpcast.com/dwr.eth/0x31cf942e",
+    "author_username": "dwr.eth",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-04-19T15:59:13.000Z",
+    "text": "Team is cooking something on web...",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/977318e1-586a-468a-acac-9400b0b14900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 455831,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1772,
+            "height_px": 1158
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x24293046",
+    "url": "https://warpcast.com/tayyab/0x24293046",
+    "author_username": "tayyab",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 66,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04ad2f2e-0625-4125-cdc5-aacec3749c00/rectcrop3",
+    "cast_date": "2025-04-18T16:38:19.000Z",
+    "text": "📣 Announcing: Farcaster Network Goods Funding Round – Spring 2025 \n\nThe biggest RetroPGF round yet is coming to Farcaster, hosted on @rounds. We’re rewarding builders, tools, and public goods that have delivered real value to the network.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5292c648-484c-4386-3c92-0d4b0d82e000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 71730,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1280,
+            "height_px": 720
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbbc0822d",
+    "url": "https://warpcast.com/afrochicks/0xbbc0822d",
+    "author_username": "afrochicks",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 780900,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26d6fa5c-2dd8-4e6c-f788-58afe3133b00/rectcrop3",
+    "cast_date": "2025-04-19T16:49:47.000Z",
+    "text": "reminder: bringing the world onchain means bringing THE WORLD onchain\n\n1.  just because accounts are not from western countries doesn’t mean they are bots\n\n2. dan said to cast alot so they are casting alot\n\n3. wc rewards can go a long way in other currencies \n\nnon-western people of farcaster - i say this with love and care 💖\n\n1. not everyone will engage with you no matter how nice you are or how hard you try\n\nstop replying to people who *never* respond back to you it’s not worth your effort and you could end up with a spam label\n\n2. if you post content from pinterest etc pretending it’s yours pls dont (this is ok for memes) but not for /itap etc \n\nonly post lifestyle photos that are originally yours as if not ppl will think u are a bot\n\n3. keep being authentically YOU\n\nown where you are from, for instance i am so proud to be of nigerian and jamaican heritage \n\ndon’t let negative stereotypes stop you from being authentic ❤️",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e00dad70-b3ec-42d7-5ca4-9e85d7bebf00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 57823,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1284,
+            "height_px": 761
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x69ed4f80",
+    "url": "https://warpcast.com/v/0x69ed4f80",
+    "author_username": "v",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-04-18T02:10:26.000Z",
+    "text": "Some loosely held beliefs on how money will flow to creators:  \n\n- \"sponsor\" - get status, appreciation or access.\n- \"collect\" - acquire aesthetic artifacts for status\n- \"invest\" - get upside from being early \n- \"buy\" - get useful services",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb2a4ebd7",
+    "url": "https://warpcast.com/jessepollak/0xb2a4ebd7",
+    "author_username": "jessepollak",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-04-19T00:23:05.000Z",
+    "text": "can't long post on here - so here's a screenshot\n\ntl;dr\n\n1. i believe in coining\n2. i'm hopeful we'll see more experimentation\n3. i'm sorry for my tweet this morning\n\nwill keep experimenting, making mistakes, taking the L (learnings) and figuring out how to do better. keep building, stay based",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/800af7ff-f7e8-4589-605e-63c577bcd100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 816839,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1172,
+            "height_px": 1388
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x62207ce3",
+    "url": "https://warpcast.com/jessepollak/0x62207ce3",
+    "author_username": "jessepollak",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-04-19T22:55:37.000Z",
+    "text": "to be explicit: the north star for @base.base.eth is to grow the number of builders and creators onchain\n\ncreators and builders then generate the supply of use cases, content, etc that will onboard everyone else\n\neverything we do is in this pursuit",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4018af2e",
+    "url": "https://warpcast.com/alanadlevin/0x4018af2e",
+    "author_username": "alanadlevin",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 1460,
+    "author_pfp": "https://i.seadn.io/gcs/files/2f05ca167c746fee1c549f692fbb01e1.png?w=500&auto=format",
+    "cast_date": "2025-04-20T17:40:05.000Z",
+    "text": "I believe all of these things simultaneously:\n\n1. Expanding the set of ways for people to earn online is good (and \n@zora is playing a role in this)\n\n2. Earning on platforms like Zora is not an apples-to-apples comparison with Instagram payouts. It's an actively bad comparison when reasoning about second-order effects. The top of funnel source of funds is entirely different (businesses looking to convert customers on Insta vs. retail consumers on Zora)\n\n3. The business model for tokenized content is still immature. It took attention platforms years of iteration to hone ads-based business models, and years more to start sharing with the people creating content. It'll likely take many iterations to figure out sustainable models for tokenized content (i.e. it can't just be retail speculating), but accelerating the timeline for sharing earnings with creators is good",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0baa4ba3",
+    "url": "https://warpcast.com/nounishprof/0x0baa4ba3",
+    "author_username": "nounishprof",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-04-17T01:14:56.000Z",
+    "text": "I said something similar when @zora  launched their new model — it doesn’t make sense unless it’s integrated into a much larger social graph/network. It’s obvious that’s coming (and soon duh). But until then they will be treated as memecoins and the ride will be bumpy. \n\nBut I still own $lemons",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x720cb8967c7a39cd311e2112ca76053c5c5e9529"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x720cb8967c7a39cd311e2112ca76053c5c5e9529",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x720cb8967c7a39cd311e2112ca76053c5c5e9529",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Content coins will work if you get people to post them with sufficient quantity and frequency.\n\nUntil then, there will be a lot of push back. But the only way through is posting more.\n\nSwap \"being cool\" with \"established coin norms\" and \"being cringe\" with \"creating more coins\".",
+          "timestamp": "2025-04-16T23:39:07.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/67feadee-8f80-401c-357d-806ae4671200/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 258250,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1000,
+                  "height_px": 968
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf753976a",
+    "url": "https://warpcast.com/tldr/0xf753976a",
+    "author_username": "tldr",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c8a5399-3ae5-4994-a9fe-d1e6c5ebc600/original",
+    "cast_date": "2025-04-17T12:53:13.000Z",
+    "text": "Remember how much most of Farcaster was worried about / scoffed at / looked down on / doubted early $degen?\n\n(I do, bc I felt that way.)\n\nAnd remember how quickly we changed our tune once $degen succeeded and got attention? And how it helped the network to a big growth moment?\n\n^ This experience makes me much more humble about casting stones. \n\nInstead, I prefer to be open minded, give things a little time to play out, and — most importantly — do what I can to help out the builders who I believe in… with whatever they happen to be trying!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1689,
+          "hash": "0x5da716fb5724bac741c467811ba09ff3fe5efdf9"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5da716fb5724bac741c467811ba09ff3fe5efdf9",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1689,
+            "username": "stephancill",
+            "display_name": "Stephan",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/64c851c0-2036-4629-ead7-ae60bfc62500/original",
+            "custody_address": "0x2738b21cb9520338f9a375c3b971b1778ae1004a"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe64d19bf8f6899763af75aafeb05ebcc06345b67",
+          "parent_hash": "0xe64d19bf8f6899763af75aafeb05ebcc06345b67",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 1689
+          },
+          "text": "I’m not a fan of content coins but CT’s arguments are so superficial that it all falls apart if the price goes up",
+          "timestamp": "2025-04-17T04:34:34.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0bda20fd",
+    "url": "https://warpcast.com/bradq/0x0bda20fd",
+    "author_username": "bradq",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-04-19T13:16:51.000Z",
+    "text": "gm 💜",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f35b088b-2556-4774-b769-7c7cfd1aee00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 129464,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1222,
+            "height_px": 962
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x47f68b7f",
+    "url": "https://warpcast.com/nicholas/0x47f68b7f",
+    "author_username": "nicholas",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 1237,
+    "author_pfp": "https://i.imgur.com/VYIWJX5.png",
+    "cast_date": "2025-04-19T18:30:32.000Z",
+    "text": "does it the timeline want me to spit fire? https://x.com/nnnnicholas/status/1913657027202605424?s=46&t=1znVA-6f1LI1qvsp8w99Kg",
+    "embeds": [
+      {
+        "url": "https://x.com/nnnnicholas/status/1913657027202605424?s=46&t=1znVA-6f1LI1qvsp8w99Kg",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/nnnnicholas/status/1913657027202605424",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">do you think sama is fretting about contentcoins? do you think pmarca or balaji or ilya even have an opinion? <br><br>everyone talking about this saga has a fake job and no ambition to actually do anything themselves, spending their time on twitter commenting on forgettable fluff…</p>&mdash; nicholas ⛱ (@nnnnicholas) <a href=\"https://twitter.com/nnnnicholas/status/1913657027202605424?ref_src=twsrc%5Etfw\">April 19, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/nnnnicholas",
+              "author_name": "nicholas ⛱",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x411d52a7",
+    "url": "https://warpcast.com/0xl/0x411d52a7",
+    "author_username": "0xl",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 9198,
+    "author_pfp": "https://i.imgur.com/rxKC1sz.jpg",
+    "cast_date": "2025-04-18T14:53:35.000Z",
+    "text": "Content coins are net positive\n\nBut NFTs are often a better earnings mechanism for creators\n\nSame podcast episode:\n\n• Zora: $430 volume → $1.20 earned\n• Pods: $45 volume → $25 earned\n\n~10x less volume, ~20x more earnings\n\n• Coins = virality & upside\n• NFTs = sustainability & higher floor\n\nIt’s so early for onchain content - there's room for both models to win.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfbea3492",
+    "url": "https://warpcast.com/proxystudio.eth/0xfbea3492",
+    "author_username": "proxystudio.eth",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 270504,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+    "cast_date": "2025-04-18T00:32:23.000Z",
+    "text": "today clanker team shipped content coins (now live!)\n\nideologically it took a lot but the dev lift was zero, we actually had it live already and didn’t know",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x05acff3e",
+    "url": "https://warpcast.com/jessepollak/0x05acff3e",
+    "author_username": "jessepollak",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-04-21T00:06:36.000Z",
+    "text": "people assume this week was some coordinated marketing campaign\n\nthe truth is the effort to coin things from @base.base.eth went 0 to 1 in <1 day with @drewcoffman doing the creative and the only goal being use onchain tools\n\neverything else has just happened. coins are viral I guess.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x36016151",
+    "url": "https://warpcast.com/drewcoffman.eth/0x36016151",
+    "author_username": "drewcoffman.eth",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 3895,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a66ea281-6781-4c00-1dc5-c815ab5df700/rectcrop3",
+    "cast_date": "2025-04-21T02:27:50.000Z",
+    "text": "many are saying this",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/71dbe2c0-f567-402b-c5e3-83bceec45300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 36925,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1206,
+            "height_px": 597
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x97a4ee2c",
+    "url": "https://warpcast.com/keccers.eth/0x97a4ee2c",
+    "author_username": "keccers.eth",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 4407,
+    "author_pfp": "https://i.imgur.com/kynnpYw.jpg",
+    "cast_date": "2025-04-19T13:51:47.000Z",
+    "text": "If you have a post with 10,000 viewers\n1% of them tip .50\nthat’s $50 direct to creator with none of the bad feelings of speculation involved for either party \n\nWe have all the building blocks for this today but don’t do it because …. ? \n\nToo hard to socialize the behavior?\nProfit motive — trading leads to many more txn for the chains and platforms? \nContent is actually valueless and no one will ever pay?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb7023fb7",
+    "url": "https://warpcast.com/ted/0xb7023fb7",
+    "author_username": "ted",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-04-14T21:43:14.000Z",
+    "text": "strong opinion, somewhat strongly held:\n\ncreatives don't want to create for \"content traders\"\n\nthe word \"trader\" is inherently transactional — someone primarily seeking profit, optimizing for price movement without emotional or philosophical attachment to the asset itself\n\nidk a single creative who seeks that out",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc5ca9bbb",
+    "url": "https://warpcast.com/dwr.eth/0xc5ca9bbb",
+    "author_username": "dwr.eth",
+    "show_date": "2025-04-21",
+    "show_title": "GM Farcaster ep236 Monday April 21, 2025",
+    "source_episode_id": "7ziquEJLJAA",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-04-18T17:43:12.000Z",
+    "text": "Welcome to @jacob, cofounder of @zora!\n\nHe's kindly agreed to do an AMA—starts in 20 minutes.\n\nReply with your questions!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/175755cc-7cc0-4bb2-ab34-8fcb556f7900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 154920,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1064,
+            "height_px": 640
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

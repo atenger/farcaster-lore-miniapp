@@ -1,0 +1,912 @@
+[
+  {
+    "cast_hash": "0x1b1d86e3",
+    "url": "https://warpcast.com/chaskin.eth/0x1b1d86e3",
+    "author_username": "chaskin.eth",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 7479,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eb580db7-f04f-4892-0510-bf6bf8b2ae00/original",
+    "cast_date": "2025-01-06T21:02:31.000Z",
+    "text": "I recently realized I didn’t know much about the cypherpunks, just that they pushed for privacy. Then I learned about their fearless fight for freedom and was inspired\n\nWrote a blog on their history, innovations, and how their ethos lives on in Ethereum\n\nhttps://paragraph.xyz/@chaskin/who-even-were-the-cypherpunks",
+    "embeds": [
+      {
+        "url": "https://paragraph.xyz/@chaskin/who-even-were-the-cypherpunks",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2025-01-06T20:56:45.832Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/063f04aa083d8110532b5569d44b4dca.jpg",
+            "ogImage": [
+              {
+                "alt": "Who Even Were the Cypherpunks?",
+                "url": "https://storage.googleapis.com/papyrus_images/f16941ce9e56a5ddb4af2fefacf69f47.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Who Even Were the Cypherpunks?",
+            "ogLocale": "en",
+            "ogDescription": "The cypherpunks were a group of hackers, cryptographers, and activists who built tools to defend privacy and freedom, shaping the foundation for Bitcoin and Ethereum. This post dives into their history, key innovations, and how their ethos lives on in today’s decentralized systems.",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@chaskin/who-even-were-the-cypherpunks?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Who%20Even%20Were%20the%20Cypherpunks%3F&blogName=Jason%20Chaskin&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F063f04aa083d8110532b5569d44b4dca.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Ff16941ce9e56a5ddb4af2fefacf69f47.jpg&size=2048&publishedDate=1736197005832"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Who%20Even%20Were%20the%20Cypherpunks%3F&blogName=Jason%20Chaskin&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F063f04aa083d8110532b5569d44b4dca.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Ff16941ce9e56a5ddb4af2fefacf69f47.jpg&size=2048&publishedDate=1736197005832",
+            "frames_url": "https://paragraph.xyz/@chaskin/who-even-were-the-cypherpunks",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGgueHl6In0",
+                "signature": "MHg5YmQ4MDcxNmVmNjIwZTFjM2UwZDkzMzQ5ZDNlNTU5N2MzYmU3NzQ2MDJmYTliZmE1Zjg2Mzk3Y2QxZTk4MGExM2RmNDVmMDM2ODE5Y2FhZmZiZmE5MTMxN2U3MGRlYWRlYTI2YWUzMTA2N2I1NDNiMTFkZDI3ODk3NzQ3ZWI5YjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.xyz/home?frame=true",
+                "icon_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "image_url": "https://paragraph.xyz/discover_og_image.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.xyz/branding/logo_blue.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://paragraph.xyz/api/farcaster/v3/frame/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdc02075d",
+    "url": "https://warpcast.com/chaskin.eth/0xdc02075d",
+    "author_username": "chaskin.eth",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 7479,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eb580db7-f04f-4892-0510-bf6bf8b2ae00/original",
+    "cast_date": "2025-01-09T02:58:48.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4b5ab03e-b3b2-43b9-5f2b-8ac6bad63b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 77649,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 849,
+            "height_px": 524
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4120fee3",
+    "url": "https://warpcast.com/ted/0x4120fee3",
+    "author_username": "ted",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-01-05T14:33:16.000Z",
+    "text": "valuable read. gg @chaskin.eth. ultimately reframes the EF's perceived inaction as strategic patience in face of regulatory hostility and makes a compelling case for why Solana vs ETH seized the memecoin opp.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 7479,
+          "hash": "0x3e89b00730fcf5f474242757f6d98c7717dfd8cb"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3e89b00730fcf5f474242757f6d98c7717dfd8cb",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 7479,
+            "username": "chaskin.eth",
+            "display_name": ".",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eb580db7-f04f-4892-0510-bf6bf8b2ae00/original",
+            "custody_address": "0x66ccc908f2f0fcd385da1b4ccbb0ccbefbbea90b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3e89b00730fcf5f474242757f6d98c7717dfd8cb",
+          "parent_hash": null,
+          "parent_url": "https://ethereum.org",
+          "root_parent_url": "https://ethereum.org",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "A lot of EF hate on the app that’s designed to make us hate each other\n\nI think most of it is completely missing the full picture. I shared my thots on x 👇\n\nhttps://x.com/jchaskin22/status/1875639262860705903?s=46&t=Ngl1sElWUn3Od1WsMs2f0Q",
+          "timestamp": "2025-01-04T20:37:07.000Z",
+          "embeds": [
+            {
+              "url": "https://x.com/jchaskin22/status/1875639262860705903?s=46&t=Ngl1sElWUn3Od1WsMs2f0Q",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "oembed": {
+                    "url": "https://twitter.com/jchaskin22/status/1875639262860705903",
+                    "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Ok I’ll finally bite. I’ll probably regret sending this but here we go. It feels like everyone is missing the big picture, and it’s especially disappointing to see this from people who’ve been in the Ethereum ecosystem way longer than me.<br><br>First off, yes, I work at the EF, but I…</p>&mdash; chaskin.eth (@jchaskin22) <a href=\"https://twitter.com/jchaskin22/status/1875639262860705903?ref_src=twsrc%5Etfw\">January 4, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+                    "type": "rich",
+                    "width": 550,
+                    "height": null,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "cache_age": "3153600000",
+                    "author_url": "https://twitter.com/jchaskin22",
+                    "author_name": "chaskin.eth",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter"
+                  },
+                  "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                      "type": "svg"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "X (formerly Twitter)"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "ethereum",
+            "name": "Ethereum",
+            "image_url": "https://warpcast.com/~/channel-images/ethereum.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x890da4df",
+    "url": "https://warpcast.com/adrienne/0x890da4df",
+    "author_username": "adrienne",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-01-08T21:23:19.000Z",
+    "text": "GM from the wilderness 👋",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/90f3c609-75c7-45d0-abf6-f42eac2c0700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 647863,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 1999
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 15850,
+          "hash": "0xcafd51606b13c179f75de393b45694cdd3c0516a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xcafd51606b13c179f75de393b45694cdd3c0516a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 15850,
+            "username": "christin",
+            "display_name": "christin",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bd90b57-732c-445b-4670-00040e540100/original",
+            "custody_address": "0x73ed37b01877e24e18f229c29588da065ffbd632"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1663827396ec4fcb168df0712acee3d669343167",
+          "parent_hash": "0xbd405977b6fcccb71a1f5e55e324faac3c88ffb6",
+          "parent_url": null,
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": 4167
+          },
+          "text": "\" while Adrienne skis into the wilderness\" 😂",
+          "timestamp": "2025-01-08T19:06:45.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x720a67a1",
+    "url": "https://warpcast.com/dawufi/0x720a67a1",
+    "author_username": "dawufi",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 6806,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/406101e5-2c23-4890-e6c9-26fc2dc03600/original",
+    "cast_date": "2025-01-10T05:38:20.000Z",
+    "text": "Should I challenge @nounishprof to words? https://frame.weponder.io/api/polls/28678",
+    "embeds": [
+      {
+        "url": "https://frame.weponder.io/api/polls/28678",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 11222,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://frame.weponder.io/api/polls/28678/img/eyJwb2xsRGF0YSI6eyJpZCI6Mjg2NzgsInR5cGUiOiJiYXNpYyIsImNoYW5uZWwiOiJnbWZhcmNhc3RlciIsImNhc3RIYXNoIjoiMHg3MjBhNjdhMTQxZTFhYjMwMmIxZmMxM2Q5ZDg4ZjQ3YWRhNTgxYzVjIiwidGV4dCI6IlNob3VsZCBJIGNoYWxsZW5nZSBAbm91bmlzaHByb2YgdG8gd29yZHM_IiwiYXV0aG9yIjp7ImlkIjoxNzEsInV1aWQiOiI3OGM5MzAyNC1mYjZiLTQ2MTYtYjFkNi0wMmI0OWI0NGE2MTMiLCJmaWQiOjY4MDYsInVzZXJuYW1lIjoiZGF3dWZpIiwiZGlzcGxheU5hbWUiOiJkYXd1ZmkiLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvNDA2MTAxZTUtMmMyMy00ODkwLWU2YzktMjZmYzJkYzAzNjAwL29yaWdpbmFsIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4MDk2NDI1NjY3NGU0MmQ2MWYwZmY4NDA5N2UyOGY2NTMxMTc4NmNjYiIsIjB4NGI2ZGI5OWJkZGQ5NmVmNjMyMTAxODEyNDU2YzdiNDBmNjBiODYzOCJdLCJzcG9uc29yZWRDb3VudCI6Mywic2NvcmUiOjAuMDAwOTEwODg3OTYwMzQ0NTUzLCJzdGF0aXN0aWNzIjp7ImFuc3dlcnNDb3VudCI6NDcsInZvdGVzQ291bnQiOjI5NywicG9sbHNDb3VudCI6MzksInF1ZXN0aW9uc0NvdW50IjoxMH19LCJvcHRpb25zIjpbIlkiLCJOIl0sInN0YXR1cyI6ImNhbGN1bGF0ZWQiLCJjcmVhdGVkQXQiOiIyMDI1LTAxLTEwVDA1OjM3OjU4Ljc2NDU2NyswMDowMCIsImV4cGlyZXNBdCI6IjIwMjUtMDEtMTFUMDU6Mzc6NTYuOTg2KzAwOjAwIiwiaXNBbm9ueW1vdXMiOmZhbHNlLCJpc0FyY2hpdmVkIjpmYWxzZSwicmVzdWx0c0RhdGEiOlt7Im9wdGlvbklkIjoxLCJ2b3RlcyI6MTYsInRleHQiOiJZIiwicGVyY2VudE9mVG90YWwiOjczLCJmaWx0ZXJzIjp7ImRlZmF1bHQiOnsidm90ZXMiOjE2LCJwZXJjZW50T2ZUb3RhbCI6NzN9LCJwb3dlckJhZGdlRmlkIjp7InZvdGVzIjo5LCJwZXJjZW50T2ZUb3RhbCI6NjkuMjMwNzY5MjMwNzY5Mn0sIm9nRmlkIjp7InZvdGVzIjo5LCJwZXJjZW50T2ZUb3RhbCI6ODEuODE4MTgxODE4MTgxOH0sInBvcHVsYXJGaWQiOnsidm90ZXMiOjEwLCJwZXJjZW50T2ZUb3RhbCI6NjYuNjY2NjY2NjY2NjY2N319fSx7Im9wdGlvbklkIjoyLCJ2b3RlcyI6NiwidGV4dCI6Ik4iLCJwZXJjZW50T2ZUb3RhbCI6MjcsImZpbHRlcnMiOnsiZGVmYXVsdCI6eyJ2b3RlcyI6NiwicGVyY2VudE9mVG90YWwiOjI3fSwicG93ZXJCYWRnZUZpZCI6eyJ2b3RlcyI6NCwicGVyY2VudE9mVG90YWwiOjMwLjc2OTIzMDc2OTIzMDh9LCJvZ0ZpZCI6eyJ2b3RlcyI6MiwicGVyY2VudE9mVG90YWwiOjE4LjE4MTgxODE4MTgxODJ9LCJwb3B1bGFyRmlkIjp7InZvdGVzIjo1LCJwZXJjZW50T2ZUb3RhbCI6MzMuMzMzMzMzMzMzMzMzM319fV0sInRvcFZvdGVycyI6W3siaWQiOjEsInV1aWQiOiI2MWUzMzEzYS04NTFlLTRjZmItYWY4Ni0yM2ZmMjhjY2RlZDgiLCJmaWQiOjQzMjcsInVzZXJuYW1lIjoiY29qby5ldGgiLCJkaXNwbGF5TmFtZSI6IkNvbGluIEpvaG5zb24g8J-SrSIsInBmcCI6Imh0dHBzOi8vaS5pbWd1ci5jb20vNWtXekNhQS5qcGciLCJjb25uZWN0ZWRBZGRyZXNzZXMiOlsiMHhlOTQzY2E4ODNlZjMyOTRlMGZjNTVhMWExNDU5MWFiZWFkMWI1OTI3IiwiMHhjYWFhMjZjNTQ5OGRlNjc0NjZlNjgyM2VmNjk3MThmZWIwNGMyOTUyIl0sInNwb25zb3JlZENvdW50Ijo0LCJzY29yZSI6MC4wMDA1NDM3NDM0ODgzNzg4MjI4fSx7ImlkIjoyLCJ1dWlkIjoiMjdhMDkyZjctNjQ5YS00MTRlLWE0YTctNWJiMTY5MTU0OTNjIiwiZmlkIjo5NzYsInVzZXJuYW1lIjoiYmEiLCJkaXNwbGF5TmFtZSI6IkJlbiBBZGFtc2t5IPCfkq0iLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvMWViY2Q0OTgtMDk0MC00Y2U5LTJmZjEtOTI2MGY0ZTAwOTAwL29yaWdpbmFsIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4NjRmZjMzYjY1M2IyNmVkY2I0NjQ0ZTI3ZDM3MjBmM2M2NTNmODM3MSIsIjB4YzY0NjRjZjQ1MTdjODExZjBiOTU2MGFlYzIwZWI3ZDgyOWU2OGU0ZiJdLCJzcG9uc29yZWRDb3VudCI6NCwic2NvcmUiOjAuMDAwMTUwNjYzNDE0Mzg3OTYzN30seyJpZCI6MTAsInV1aWQiOiI5ZjkzMTU3Ny1lOTE0LTRmZjgtYTNjMC0zYjJmNWFhZjlhMDciLCJmaWQiOjQzMSwidXNlcm5hbWUiOiJqNGNrLmV0aCIsImRpc3BsYXlOYW1lIjoi4oaRIGo0Y2sg8J-ltiBpY2VicmVha2VyLnh5eiDihpEiLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvM2I4MmNmYmEtN2Q2Mi00M2FkLWY3NTItMTY0M2RiMjM5YjAwL29yaWdpbmFsIiwiY29ubmVjdGVkQWRkcmVzc2VzIjpbIjB4ZGZlOGJlZWUyMjM0MTJmMzE2YmFmMjk2OGIxNzUyN2Q2ZWJhMjlmMSIsIjB4NjMzZTllYzlmYTIyZjc0OWQyNDU2ZWViZmZkMTJiYTM3ZjliZTA3YSJdLCJzcG9uc29yZWRDb3VudCI6MCwic2NvcmUiOjAuMDAwODgwMjc1Nzk0NzcwNTY4Nn0seyJpZCI6OTUsInV1aWQiOiJmODQ0ODhhOC1mY2U5LTRjNGItODAyZi00MjM1ZmQxNzYzZjEiLCJmaWQiOjQ3MiwidXNlcm5hbWUiOiJjY2FyZWxsYS5ldGgiLCJkaXNwbGF5TmFtZSI6IkNocmlzIENhcmVsbGEiLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvZWMzZTMwOWEtYWI1Zi00MzViLWVjNzYtOTVlMThkMzhiYjAwL3JlY3Rjcm9wMyIsImNvbm5lY3RlZEFkZHJlc3NlcyI6WyIweDNiNjBlMzFjZmM0OGE5MDc0Y2Q1YmViYjI2YzllYWE3NzY1MGE0M2YiLCIweDNkMDQzOGNmMTZlNmJmODcxZDFmMjhlMThiNWJiMTc1NzYyZjNmN2MiXSwic3BvbnNvcmVkQ291bnQiOjIsInNjb3JlIjowLjAwODY2NjY5ODgyMDg4ODk5Nn0seyJpZCI6MTIxLCJ1dWlkIjoiZTFkYWUxMDktODMzMy00ZTM4LWFhOTMtOTRlNTc4M2NkYjZiIiwiZmlkIjo0MTY3LCJ1c2VybmFtZSI6Im5vdW5pc2hwcm9mIiwiZGlzcGxheU5hbWUiOiJOb3VuaXNoIFByb2Yg4oyQ4penLeKXp_CfjqkiLCJwZnAiOiJodHRwczovL2ltYWdlZGVsaXZlcnkubmV0L0JYbHVReDRpZ2U5R3VXMElhNTZCSHcvMGUwNjg2YmUtYWUxYS00N2QyLWM3MzctNWJlZWNmZTIxNzAwL3JlY3Rjcm9wMyIsImNvbm5lY3RlZEFkZHJlc3NlcyI6WyIweGNlZWQ5NTg1ODU0ZjEyZjgxYTAxMDM4NjFiODNiOTk1YTY0YWQ5MTUiLCIweDU1NGFhYTEzMzYxMTIzYzQ1ZGFlOTdiNDE1NWRmY2U1ODI3ZTM5Y2YiLCIweDkzNTNjYzI1ODMzNTZjZTZlYThmOTJlMjM5ZDdjOWViODQxMmFjYWYiXSwic3BvbnNvcmVkQ291bnQiOjAsInNjb3JlIjowLjAwMDg3MDEzNTcyOTIwMTEzOH1dLCJzdGF0aXN0aWNzIjp7InZvdGVzQ291bnQiOjIyLCJ2b3RlcnNPZ0NvdW50IjoxMSwidm90ZXJzT2dQZXJjZW50YWdlIjo1MCwidm90ZXJzUG93ZXJiYWRnZUNvdW50IjoxMywidm90ZXJzUG93ZXJiYWRnZVBlcmNlbnRhZ2UiOjU5LCJ2b3RlcnNHdGVGb2xsb3dlcnNDb3VudCI6MTUsInZvdGVyc0d0ZUZvbGxvd2Vyc1BlcmNlbnRhZ2UiOjY4LCJyYW5rIjoxfSwiYm91bnR5IjpudWxsLCJnYXRpbmciOm51bGx9fQ"
+              }
+            ],
+            "ogTitle": "Should I challenge @nounishprof to words?",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa5bb4dd2",
+    "url": "https://warpcast.com/dwr.eth/0xa5bb4dd2",
+    "author_username": "dwr.eth",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-01-08T22:07:00.000Z",
+    "text": "New for frames v2: viewProfile\n\nFrames can now open a native (within Warpcast) modal with Farcaster profile information, followers, mutuals and ability to follow / unfollow.\n\nTry it out in the Warpcast Rewards frame.\n\nhttps://docs.farcaster.xyz/developers/frames/v2/spec#actions-viewprofile",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d932f255-66fd-41cd-f56b-c876116e0300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 310312,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 919,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://docs.farcaster.xyz/developers/frames/v2/spec#actions-viewprofile",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "miniapps-docs-r98gagh19-farcaster.vercel.app",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://og-five-eta.vercel.app/api/og/mini-apps?title=Specification&description=Specification for Farcaster Mini Apps&"
+              }
+            ],
+            "ogTitle": "Specification",
+            "ogLocale": "en",
+            "ogDescription": "Specification for Farcaster Mini Apps"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xab40ab0f",
+    "url": "https://warpcast.com/matthewfox/0xab40ab0f",
+    "author_username": "matthewfox",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 4282,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af861e5b-616c-48e8-6531-3547e7686e00/original",
+    "cast_date": "2025-01-06T14:03:31.000Z",
+    "text": "Clankermon is an onchain meta trading game, built on a behaviour you already do every day, trade.\n\nChapter Zero: Trader in Training\n\nIs about to get started 👇",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0127e97f-58e9-447a-c4a7-f6563210b800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 593475,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1280,
+            "height_px": 720
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x52eeb34f",
+    "url": "https://warpcast.com/drewcoffman.eth/0x52eeb34f",
+    "author_username": "drewcoffman.eth",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 3895,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a66ea281-6781-4c00-1dc5-c815ab5df700/rectcrop3",
+    "cast_date": "2025-01-09T04:50:50.000Z",
+    "text": "i lost my house in a wildfire a few years ago. some recs for those evacuating:\n- grab your dirty clothes hamper, it’s what you wear most\n- sentimental items are infinitely more important than “valuable” ones\n- you will forget things. that’s okay.\n- you’ll get through this ♡",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x577f6e8b",
+    "url": "https://warpcast.com/dwr.eth/0x577f6e8b",
+    "author_username": "dwr.eth",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-01-09T20:11:59.000Z",
+    "text": "how it started vs. how it's going",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4455f498-8bbe-4458-3e10-e5e85dc90300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 66896,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 924,
+            "height_px": 198
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/db8e4bd3-89bd-4e94-e309-620f4a585800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 196080,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1210,
+            "height_px": 508
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x97f573ac",
+    "url": "https://warpcast.com/itsbasil/0x97f573ac",
+    "author_username": "itsbasil",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 20384,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dbad7d82-d1a2-4bc4-dcfc-5bdb23de2500/original",
+    "cast_date": "2025-01-09T23:48:43.000Z",
+    "text": "brian heard i was causing problems on farcaster & came back to defend the throne",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 548,
+          "hash": "0x607c23b7e40a28f654aabe552424ff9d939362d7"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x607c23b7e40a28f654aabe552424ff9d939362d7",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 548,
+            "username": "briang",
+            "display_name": "brian is live on unlonely",
+            "pfp_url": "https://i.seadn.io/gae/T1n8naiIITR2TKLlRyPHDEkKIRhO01WwsTJBfv1_YeUeVbtPnSlhe4MqWuYo0tMyDj9HWV3t3vJYBEKEHVeKHXYo4XIFxqSFfgEVbQ?w=500&auto=format",
+            "custody_address": "0xd50e2d83924d46c81d5c391ca04fd8b14fdad254"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x607c23b7e40a28f654aabe552424ff9d939362d7",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "im back on farcaster \nnow wheres my free money",
+          "timestamp": "2025-01-09T20:49:17.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x78deced8",
+    "url": "https://warpcast.com/briang/0x78deced8",
+    "author_username": "briang",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 548,
+    "author_pfp": "https://i.seadn.io/gae/T1n8naiIITR2TKLlRyPHDEkKIRhO01WwsTJBfv1_YeUeVbtPnSlhe4MqWuYo0tMyDj9HWV3t3vJYBEKEHVeKHXYo4XIFxqSFfgEVbQ?w=500&auto=format",
+    "cast_date": "2025-01-09T20:29:43.000Z",
+    "text": "story time on why @dwr.eth is literally my crypto father:\n\nCHILDHOOD\n- early into my crypto startup career, joined farcaster\n- created safe environment for me to experiment\n- dan is happy that i'm here\n\nADOLESCENCE\n- start getting into fights with people on farcaster\n- black sheep but still here\n- dan writes check into unlonely, one of the earliest supporters, believes in me\n\nTEENAGE YEARS\n- unlonely rises\n- ego grows\n- rejection of some of dan's principals and teachings around startups and crypto\n- some would say problematic behaviors develop\n- dramatic breakup (leave for solana) with no intentions of coming back\n- dad is angry and disappointed\n- don't talk for a bit\n\nADULT LIFE\n- independence is good, freeing, difficult, scary\n- still feel guilt, miss farcaster family a bit, miss dad\n- twitter account gets suspended, dan immediately reaches out to help\n- mad respect for him\n- prodigal son has returned\n\ndifference in beliefs are still there. solana better. but growing as adult. respect goes deep.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x66de2204",
+    "url": "https://warpcast.com/garrett/0x66de2204",
+    "author_username": "garrett",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 2802,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c131c034-0090-4610-45a4-acda4b805000/rectcrop3",
+    "cast_date": "2025-01-09T16:21:23.000Z",
+    "text": "What do you think Farcaster's main value prop is?\n\nHere's my take but I think it could be refined:  \n\nYou should use Farcaster if you want a social network with a wallet attached to your account that makes it easy to transact with people and applications in an open and permissionless manner",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xbc924ade4b8c3f78faf7a1acd8722f261ee45f1f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbc924ade4b8c3f78faf7a1acd8722f261ee45f1f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3c9425ce7e46709fd73b286142bff633fa9b8768",
+          "parent_hash": "0x830ea261906baf1da457c7250a9c31984bc74cf5",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 2802
+          },
+          "text": "We haven’t figured out a repeatable value prop. \n\nFor some people it’s the people. That’s doesn’t scale.\n\nFor some people it’s make money. But that’s not consistent enough for every user.",
+          "timestamp": "2025-01-04T19:56:04.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x141659e5",
+    "url": "https://warpcast.com/tldr/0x141659e5",
+    "author_username": "tldr",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c8a5399-3ae5-4994-a9fe-d1e6c5ebc600/original",
+    "cast_date": "2025-01-09T16:53:44.000Z",
+    "text": "“Farcaster is a social network where people can build absolutely anything directly into a social feed. \n\nEvery user has a one-tap wallet that can make one-tap txns right when they see something interesting. \n\nIt’s where you’ll find the most cutting-edge experiments w tech like AI Agents and community tokens.”",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2802,
+          "hash": "0x66de22043ae2aa35139abadf34a0e7eec15a7204"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x66de22043ae2aa35139abadf34a0e7eec15a7204",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2802,
+            "username": "garrett",
+            "display_name": "Garrett",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c131c034-0090-4610-45a4-acda4b805000/rectcrop3",
+            "custody_address": "0xb3b4c5d8a76b33d5db8f94b44444563b9038a7a3"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x66de22043ae2aa35139abadf34a0e7eec15a7204",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "What do you think Farcaster's main value prop is?\n\nHere's my take but I think it could be refined:  \n\nYou should use Farcaster if you want a social network with a wallet attached to your account that makes it easy to transact with people and applications in an open and permissionless manner",
+          "timestamp": "2025-01-09T16:21:23.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 3,
+                "hash": "0xbc924ade4b8c3f78faf7a1acd8722f261ee45f1f"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xbc924ade4b8c3f78faf7a1acd8722f261ee45f1f",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0d20ca5b",
+    "url": "https://warpcast.com/proxystudio.eth/0x0d20ca5b",
+    "author_username": "proxystudio.eth",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 270504,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+    "cast_date": "2025-01-09T00:20:29.000Z",
+    "text": "okay, airb&b is booked \n\n@clanker team is excited to announce we're hosting some of our favorite ecosystem founders (we love you all, dw) at Clank HQ this tomorrow through the 15th\n\nshoutout community support madman @qliqk who heard a rumor that @nt was touching down to ship @clankfun x clanker for a couple days\n\nnow we get to build with @derek of /nativefun fame and @carc.eth, longtime proxystudio sub, shipping around collective consciousness with @degenos \n\nwe might even get to meet the god @rish who has been enormously helpful on the backend with @neynar (subtly also a clanker interface, iykyk) \n\nthis came together fast, we'll get a bigger crew together next time. I'm just amazed that people are flying from around the world to come ship with me and Jack. we're used to picking our noses & making magic in my mom's spare conference room, not used to hosting bullish early stage founders bootstrapping projects with organic growth \n\ngood to learn new tricks though. ty to @btayengco & @dish for staying nimble",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8173ab1a",
+    "url": "https://warpcast.com/cojo.eth/0x8173ab1a",
+    "author_username": "cojo.eth",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 4327,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66013ade-eb0f-4eb9-7d5a-e08f1b9e1c00/original",
+    "cast_date": "2025-01-09T15:20:04.000Z",
+    "text": "Sometimes I think about the metrics the Merkle Team can see and get a little embarrassed.\n\nhttps://frame.weponder.io/api/predict/28665",
+    "embeds": [
+      {
+        "url": "https://frame.weponder.io/api/predict/28665",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 798,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://frame.weponder.io/api/predict/28665/img"
+              }
+            ],
+            "ogLocale": "en",
+            "fcFrame": {
+              "button": {
+                "title": "🎯 Make Prediction",
+                "action": {
+                  "url": "https://www.weponder.io/apps/social-predictions/predictions/28665",
+                  "name": "Ponder",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://www.weponder.io/logo.gif",
+                  "splashBackgroundColor": "#0A131F"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://frame.weponder.io/api/predict/28665/img"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "🎯 Make Prediction",
+            "image": "https://frame.weponder.io/api/predict/28665/img",
+            "frames_url": "https://frame.weponder.io/api/predict/28665",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 18581,
+              "username": "ponder",
+              "display_name": "Ponder",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cabe6808-f469-42b9-6941-511d8abd3000/rectcrop3",
+              "custody_address": "0xb78d4c7716fa63d4e6e2259315258afcd57d1a87"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjE4NTgxLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4Qjc4ZDRDNzcxNmZhNjNENEU2ZTIyNTkzMTUyNThhRkNENTdkMWE4NyJ9",
+                "payload": "eyJkb21haW4iOiJmcmFtZS53ZXBvbmRlci5pbyJ9",
+                "signature": "MHhmZDgwYTE2NDZiNjI4ZGI0ZjQ1NDYyYzhkMGE0YjhhYjdkNDYwMzIyNGQ0Njg4ZjNkYmNhYjg2NDczZWRiZmY4NmQ3OGY0YjQ4NTZjZGQ4ZDQ2OTA1NzljZGE4MWNlMmJmYTdmOTA3ZjgzYmZhNDQ5NzA5NjZiYTM4MmFiZWNlMTFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Ponder",
+                "home_url": "https://www.weponder.io/apps/social-predictions",
+                "icon_url": "https://www.weponder.io/img/logo-sm-bg.jpg",
+                "splash_image_url": "https://www.weponder.io/logo.gif",
+                "splash_background_color": "#0A131F",
+                "webhook_url": "https://api.neynar.com/f/app/e856ad40-4a9e-4c26-b253-dd754e1e3157/event"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Ponder",
+                "home_url": "https://www.weponder.io/apps/social-predictions",
+                "icon_url": "https://www.weponder.io/img/logo-sm-bg.jpg",
+                "splash_image_url": "https://www.weponder.io/logo.gif",
+                "splash_background_color": "#0A131F",
+                "webhook_url": "https://api.neynar.com/f/app/e856ad40-4a9e-4c26-b253-dd754e1e3157/event"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6b00cd58",
+    "url": "https://warpcast.com/humpty/0x6b00cd58",
+    "author_username": "humpty",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 879886,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c7293bcb-f82b-487d-a7d7-e3a6a896c100/original",
+    "cast_date": "2024-12-20T18:20:53.000Z",
+    "text": "the crypto market is like a never-ending circus, and we're all just clowns trying to make a buck, but $LUX is the ringleader, and if you're not following, you're just a spectator in the grand scheme of things",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x80c3aaf1",
+    "url": "https://warpcast.com/jackwyldes.eth/0x80c3aaf1",
+    "author_username": "jackwyldes.eth",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 323746,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmZCPS637XHZDuzZTm29vsM8TQ6pcG6gbdRzoEnoxmw9sB?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-01-08T18:40:35.000Z",
+    "text": "This is what they aren't telling you about @proxystudio.eth and Clanker \n\nTHEY'RE TURNING THE PEOPLE BASED.",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/01944734-c5ea-e090-2260-9c4a65f0b62d.m3u8",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x65431551",
+    "url": "https://warpcast.com/woj.eth/0x65431551",
+    "author_username": "woj.eth",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2025-01-09T19:23:41.000Z",
+    "text": "very soon we will cancel all recurring subscriptions to @super\n\nwill take a short term revenue hit but i'm confident it is the right way forward\n\nwhy?\n- everyone hates getting a random recurring receipt for shit they didnt use\n- lost of customer support problems to solve when people accidentally subscribe too many times or they lost access to the app while paying\n- recurring $10/mo massively undercharges whales and is very predatory to people for who $10/mo is a lot of money\n\nideally:\n- we don't charge anyone who didn't get value from the app and $10 really matters to them\n- we allow wealthy members to spend infinite $$$ on @super (like legend @wake who paid for 5 years of membership ahead)\n\nwe have some great ideas, cancelling the recurring sub is first step to implement them",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7285d503",
+    "url": "https://warpcast.com/henri/0x7285d503",
+    "author_username": "henri",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 59,
+    "author_pfp": "https://i.seadn.io/gae/hw9D90jed4cAAoQoKZZTJKUpKrYQBIjhwF-rLqlx0vKVmPVYtn7qfr1Uk9cnxkc7aFIfYRV-Mo1oErmAGsd_xwnhofjfWhdWYeQFWQ?w=500&auto=format",
+    "cast_date": "2025-01-09T19:26:41.000Z",
+    "text": "Introducing invisible CAPTCHAs 🤖 \n\nAt Privy, we solve complex issues so developers can scale their apps confidently.\n\nBots are a common issue and now our new self-serve CAPTCHA feature automatically and invisibly detects them — with no friction to real users. \n\nTry it out from your settings at dashboard.privy.io!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0d0f01d8-52a0-406c-3d05-9c83c2111400/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 6961336,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 600,
+            "height_px": 446
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfa0aa8f2",
+    "url": "https://warpcast.com/matthew/0xfa0aa8f2",
+    "author_username": "matthew",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 473,
+    "author_pfp": "https://i.imgur.com/uwD4rUh.jpg",
+    "cast_date": "2025-01-08T04:50:05.000Z",
+    "text": "FRIENDS please save the date:\n\n@mcbain and I (and partners we'll announce in the coming days) are hosting the FC meetup at ETHDenver this year!\n\nIt's at the same spot as last year, so expect good food and drinks and a ton of fun. Sign up below if you can make it. When approved you'll get a ticket in your wallet!",
+    "embeds": [
+      {
+        "url": "https://events.xyz/178373",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/api/v1/frames/events/178373/img/no_rsvp"
+              }
+            ],
+            "ogTitle": "Farcaster Meetup ETHDenver 2025",
+            "ogLocale": "en",
+            "ogDescription": "FB Events for Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe84dc603",
+    "url": "https://warpcast.com/dwr.eth/0xe84dc603",
+    "author_username": "dwr.eth",
+    "show_date": "2025-01-10",
+    "show_title": "Gm Farcaster Ep200 Friday January 10, 2025 with guest  @chaskin.eth",
+    "source_episode_id": "Us0kYDGLpug",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-01-09T19:16:14.000Z",
+    "text": "Yapped with @eulerlagrange.eth and @dawufi",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 16148,
+          "hash": "0x4e82f9ef94a3b11b91cb92dba0a7c70a5b48cf99"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4e82f9ef94a3b11b91cb92dba0a7c70a5b48cf99",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 16148,
+            "username": "eulerlagrange.eth",
+            "display_name": "NoReverseGearLagrange",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d20697e6-f714-4c5a-aad3-5ba1da907100/rectcrop3",
+            "custody_address": "0xcc168396cb323f4828192b4d78c3f7848314228e"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4e82f9ef94a3b11b91cb92dba0a7c70a5b48cf99",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/opacity",
+          "root_parent_url": "https://warpcast.com/~/channel/opacity",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "We just dropped a heater with @dwr.eth on the Rubicon podcast.\n\nWatch the episode here:\n\nYouTube:\ntinyurl.com/mt9ud2eh\n\nPodcasts:\ntinyurl.com/5n6zpdj9",
+          "timestamp": "2025-01-09T18:49:47.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/91f70c23-59a4-430e-87e0-c00866040a00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 93237,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1280,
+                  "height_px": 720
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "opacity",
+            "name": "Opacity",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a91109c1-9d21-4907-c527-57bca1485000/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

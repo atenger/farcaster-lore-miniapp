@@ -1,0 +1,162 @@
+[
+  {
+    "cast_hash": "0x31672033",
+    "url": "https://warpcast.com/dwr.eth/0x31672033",
+    "author_username": "dwr.eth",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep7 Oct 4, 2023",
+    "source_episode_id": "3qil-1eQlxo",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2023-10-03T22:32:08.000Z",
+    "text": "PSA\n\n- We're increasing the price of 1 storage unit from $5 to $7 next week w/ permissionless launch\n\n- Everyone who migrated last month got 2 free storage slots \n\n- 1 storage slot: 5000 casts, 2500 likes, 2500 follows\n\n- You can buy storage on @sammdec.eth's helpful site with OP Mainnet ETH.\n\nhttps://caststorage.com",
+    "embeds": [
+      {
+        "url": "https://caststorage.com",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://caststorage.com",
+            "ogType": "website",
+            "favicon": "/icon.svg?5c31b06d1835fd95",
+            "ogTitle": "caststorage",
+            "ogLocale": "en_US",
+            "ogSiteName": "caststorage",
+            "ogDescription": "View your current Farcaster storage & buy more",
+            "fcFrame": {
+              "button": {
+                "title": "Open Caststorage",
+                "action": {
+                  "url": "https://caststorage.com/frame",
+                  "name": "Caststorage",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://caststorage.com/splash.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://caststorage.com/frame-og-2.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Open Caststorage",
+            "image": "https://caststorage.com/frame-og-2.png",
+            "frames_url": "https://caststorage.com/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1864,
+              "username": "sammdec.eth",
+              "display_name": "Sam",
+              "pfp_url": "https://lh3.googleusercontent.com/ytltNksSCxLqEK48JkTNRegRIh_yWVh9kqZNDkjZV265Fmg7ZbqV9ZBBoNzDP4tM4Jf5eI2EcRvyzxlu6RZhNyskr8WNbG7oRcTd",
+              "custody_address": "0x7103eb0d992b60be23432b5c1b4b0d3d2055b55e"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjE4NjQsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg3MTAzZWIwRDk5MkI2MGJlMjM0MzJCNUMxQjRCMEQzRDIwNTVCNTVFIn0",
+                "payload": "eyJkb21haW4iOiJjYXN0c3RvcmFnZS5jb20ifQ",
+                "signature": "MHg4NjU2YzhlODY3MjA5ZmNhZTdkYmNiNjg5MGU3OTM5ZTI0NGY0MTUxMzk0NTg2Yzg0YWM5Zjk4MDcwOTg5ZTJkMzUyNjc1ZTQzZDRkMzQzYWNiZGM3MjU0NWQwZTBjMjc1NDEyMzdmYzdiYzc2ZGI5NWQwNjU1NjU0NWY2ZWZiNDFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Caststorage",
+                "home_url": "https://caststorage.com/frame",
+                "icon_url": "https://caststorage.com/icon.png",
+                "image_url": "https://caststorage.com/frame-og-2.png",
+                "button_title": "Open Caststorage",
+                "splash_image_url": "https://caststorage.com/splash.png",
+                "splash_background_color": "#ffffff",
+                "primary_category": "utility",
+                "tags": [
+                  "storage"
+                ]
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Caststorage",
+                "home_url": "https://caststorage.com/frame",
+                "icon_url": "https://caststorage.com/icon.png",
+                "image_url": "https://caststorage.com/frame-og-2.png",
+                "button_title": "Open Caststorage",
+                "splash_image_url": "https://caststorage.com/splash.png",
+                "splash_background_color": "#ffffff",
+                "primary_category": "utility",
+                "tags": [
+                  "storage"
+                ]
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa4bd4fd1",
+    "url": "https://warpcast.com/ccarella.eth/0xa4bd4fd1",
+    "author_username": "ccarella.eth",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep7 Oct 4, 2023",
+    "source_episode_id": "3qil-1eQlxo",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x3113d3e2",
+    "url": "https://warpcast.com/ted/0x3113d3e2",
+    "author_username": "ted",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep7 Oct 4, 2023",
+    "source_episode_id": "3qil-1eQlxo",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2023-10-02T16:54:15.000Z",
+    "text": "i like FarcastHER (and Farcaster generally) compared to the equivalent corners on because the women casting here feel authentic rather than performative.\n\nperhaps this is bc we built our audiences from scratch in a bear market and have no “image” to maintain — or its bc this is the type of person FC attracts.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x47422054",
+    "url": "https://warpcast.com/sher/0x47422054",
+    "author_username": "sher",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep7 Oct 4, 2023",
+    "source_episode_id": "3qil-1eQlxo",
+    "author_fid": 5653,
+    "author_pfp": "https://i.imgur.com/lJiz1Kd.jpg",
+    "cast_date": "2023-10-03T19:50:03.000Z",
+    "text": "Curious who the absolute youngest and oldest warpcast users with an active badge are",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb18fe33a",
+    "url": "https://warpcast.com/briang/0xb18fe33a",
+    "author_username": "briang",
+    "show_date": "2024-01-02",
+    "show_title": "GM Farcaster ep7 Oct 4, 2023",
+    "source_episode_id": "3qil-1eQlxo",
+    "author_fid": 548,
+    "author_pfp": "https://i.seadn.io/gae/T1n8naiIITR2TKLlRyPHDEkKIRhO01WwsTJBfv1_YeUeVbtPnSlhe4MqWuYo0tMyDj9HWV3t3vJYBEKEHVeKHXYo4XIFxqSFfgEVbQ?w=500&auto=format",
+    "cast_date": "2023-10-02T17:29:51.000Z",
+    "text": "first episode is tonight at 5pm PT/8pm ET on @unlonely \n\ncome bet on blind dates 👀",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/AL2MGOS.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 347394,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1212,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

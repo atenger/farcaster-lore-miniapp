@@ -1,0 +1,1664 @@
+[
+  {
+    "cast_hash": "0x6a4c3522",
+    "url": "https://farcaster.xyz/annoushka.eth/0x6a4c3522",
+    "author_username": "annoushka.eth",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 2736,
+    "author_pfp": "https://i.imgur.com/C9MzmTN.jpg",
+    "cast_date": "2025-07-14T05:54:00.000Z",
+    "text": "*me to myself in @nounishprof voice*\n\nGm Farcaster!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5d17c9cb",
+    "url": "https://farcaster.xyz/bradq/0x5d17c9cb",
+    "author_username": "bradq",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-07-14T12:43:35.000Z",
+    "text": "29 Seconds of Farcaster ... What did you miss this weekend?\n\n* v announced a new Mini Apps homepage focused on helping discover new mini apps that are trending & popular among your friends, which brought....you guessed it, mixed reviews\n\n* @colin announced that Paragraph is launching coins to support writers--streamlined for simplicty & ease of support\n\n* Amps was attacked yesterday with $6,700 USDC drained from 112 wallets. The issue is fixed & money restored to the wallets\n\n* @arob1000 surpassed 100 million $BRACKY ($3400) off the 200K ($7) airdrop...amazing! He's also on a tear building his warplet to > $2K trading native FC tokens\n\n* algo & engagement talk is growing with notable casts from @miguelgarest.eth @pichi (& me) with lots of discussion\n\n* Nice to see @newtp giving $200 to the science video contest & finding a home here ; $BETR is on a tear of growth & support this week coming off their first community airdrop & bringing on @burrrrrberry as Chief Fun Officer (s/o @toadyhawk.eth & @netnose )\n\n* /gmfarcaster is West Coast friendly at 11:30 AM EST @adrienne & @nounishprof will get you caught up & welcome author @deanpat as a guest",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x1bbb370e7359ea423cc305520583a693f98d3c41"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1bbb370e7359ea423cc305520583a693f98d3c41",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1bbb370e7359ea423cc305520583a693f98d3c41",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster back tomorrow at a west coast friendly 11:30 am ET/8:30 am PT -- Join us for Farcaster news followed by a chat with author Dean Patrick @deanpat about his book God Money: Lost and Found in the Crypto Wilderness available now on /alexandria and we'll be giving away and audio edition to someone in the chat!\n\nJoin @adrienne and I on YouTube for the most active chat or watch in the GM Farcaster mini app or join us on Twitter. We'll see you in the GM! \n\nhttps://www.youtube.com/watch?v=zny6jg6DwF0\nhttps://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+          "timestamp": "2025-07-13T17:02:23.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 4167,
+                "hash": "0x2b69a828396e30a50780fe0f860398e0cdd0accf"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x2b69a828396e30a50780fe0f860398e0cdd0accf",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 4167
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=zny6jg6DwF0",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.youtube.com/watch?v=zny6jg6DwF0",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/zny6jg6DwF0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"GM Farcaster ep266 Monday July 14, 2025 with @deanpat /alexandria\"></iframe>",
+                    "type": "video",
+                    "title": "GM Farcaster ep266 Monday July 14, 2025 with @deanpat /alexandria",
+                    "width": 200,
+                    "height": 113,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@GMFarcaster",
+                    "author_name": "GM Farcaster",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/zny6jg6DwF0/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "ogDate": "2025-07-13T09:56:20-07:00",
+                  "ogType": "video.other",
+                  "favicon": "https://www.youtube.com/s/desktop/fba944d3/img/logos/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://i.ytimg.com/vi/zny6jg6DwF0/hqdefault.jpg?v=6873e537",
+                      "type": "jpg",
+                      "width": "480",
+                      "height": "360"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster ep266 Monday July 14, 2025 with @deanpat /alexandria",
+                  "ogVideo": [
+                    {
+                      "url": "https://www.youtube.com/embed/zny6jg6DwF0",
+                      "type": "text/html",
+                      "width": "640",
+                      "height": "360"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "YouTube",
+                  "ogDescription": "Join us for Farcaster news followed by a chat with author Dean Patrick about his book God Money: Lost and Found in the Crypto Wilderness available now on htt...",
+                  "ogVideoSecureURL": "https://www.youtube.com/embed/zny6jg6DwF0"
+                }
+              }
+            },
+            {
+              "url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://farcaster.xyz/miniapps/0196efb5-5ae3-676b-f83f-869e756c74d0/gm-farcaster",
+                  "ogType": "website",
+                  "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fminiapp.gmfarcaster.com%2Flogo.png&s=9e7f26424405d9b5c54c06233c2a5916f158e16b3037ec32ab93873d7875597d",
+                  "ogImage": [
+                    {
+                      "url": "https://miniapp.gmfarcaster.com/api/share-image?videoId=thsYOpMZbC0",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster",
+                  "ogLocale": "en",
+                  "ogSiteName": "Farcaster Mini App",
+                  "ogDescription": "Get your daily dose of Farcaster news and culture.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch GM Farcaster",
+                      "action": {
+                        "url": "https://miniapp.gmfarcaster.com",
+                        "name": "GM Farcaster",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://miniapp.gmfarcaster.com/logo.png",
+                        "splashBackgroundColor": "#AF48CF"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://miniapp.gmfarcaster.com/api/share-image?videoId=thsYOpMZbC0"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch GM Farcaster",
+                  "image": "https://miniapp.gmfarcaster.com/api/share-image?videoId=thsYOpMZbC0",
+                  "frames_url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x94fde953",
+    "url": "https://farcaster.xyz/v/0x94fde953",
+    "author_username": "v",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-07-13T22:07:54.000Z",
+    "text": "An attacker compromised the Amps contract 12 hours ago, stealing ~$6,700 USDC from 112 Amps users. \n\n@phil and the Amps team fixed the issue and refunded users. @horsefacts and the Farcaster team have been assisting. Farcaster wallets are safe and unaffected.\n\nWho was affected?\n\nUsers who gave Amps an allowance to withdraw USDC from their wallet to purchase likes and recasts were affected.\n\nUsers who simply used Amps to receive funds for likes and recasts are unaffected. Users who did not use Amps are unaffected.\n\nWhat happened?\n\nThe Amps team will publish a detailed report soon.  In short, their contract had a vulnerability and the attacker was able to withdraw USDC that the users have given Amps permission to withdraw. \n\nSome users gave Amps the permission to withdraw all USDC from their wallet, and the attacker was able to withdraw all USDC. \n\nAre Farcaster wallets unsafe?\n\nNo, Farcaster wallets remain safe to use. The exploit is entirely within the Amps contract and only affects users who explicitly gave Amps the permission to access their USDC.\n\nWhat should I do to be safe?\n\nNever give permissions to withdraw unlimited funds (as a user) and never ask for these permissions (as a dev). It is safer to ask user to transfer in a fixed amount (e.g. 100 USDC), and top up as needed.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 129,
+          "hash": "0x1aa4e6f99f13ffea8181b9ed5f94fecb74626fb4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1aa4e6f99f13ffea8181b9ed5f94fecb74626fb4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 129,
+            "username": "phil",
+            "display_name": "phil",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+            "custody_address": "0xf6fd7deec77d7b1061435585df1d7fdfd4682577"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1aa4e6f99f13ffea8181b9ed5f94fecb74626fb4",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/amps",
+          "root_parent_url": "https://warpcast.com/~/channel/amps",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Last night, a malicious actor took an advantage of an exploit in the Amps contract code to withdraw USDC from some of our users' wallets.\n\nThe exploit has been patched, affected users have been contacted and refunded, and we are working on publishing a full post-mortem.\n\nNo additional funds are at risk and neither signers nor wallet permissions are at risk.\n\nThank you for your attention to this matter!",
+          "timestamp": "2025-07-13T19:49:34.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "amps",
+            "name": "amps",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/61f75f78-0ce8-4631-ea06-fab1eb911100/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1aa4e6f9",
+    "url": "https://farcaster.xyz/phil/0x1aa4e6f9",
+    "author_username": "phil",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2025-07-13T19:49:34.000Z",
+    "text": "Last night, a malicious actor took an advantage of an exploit in the Amps contract code to withdraw USDC from some of our users' wallets.\n\nThe exploit has been patched, affected users have been contacted and refunded, and we are working on publishing a full post-mortem.\n\nNo additional funds are at risk and neither signers nor wallet permissions are at risk.\n\nThank you for your attention to this matter!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x38d18e9f",
+    "url": "https://farcaster.xyz/v/0x38d18e9f",
+    "author_username": "v",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-07-13T23:41:18.000Z",
+    "text": "New: Miniapps Homepage\n\nIt's easier than ever to discover new apps or go back to your favorites. \n\nThe homepage has shortcuts to your most recently used apps. We're going to tweak this algo a little bit, and the goal is to always show you apps that you want to get to. \n\nThe homepage now has trending categories, so you can find the best games or social apps. It also has a \"popular\" section that shows you what your friends are using.\n\n\"Popular Among Friends\" was built in a privacy preserving way. It will only show you friends if they have shared the app publicly. Otherwise, it will anonymize the data to \"31 friends have used this\". \n\nThe page still has a few rough edges that we're going to fix over the next week. h/t to @pirosb3 for building this!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5b3d0b77-23c5-4f2f-76dd-8fcbc31d7100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 661868,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 978,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7385871e-e931-4fe2-dda8-abd3bee1f100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 505352,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 978,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa7e5984e",
+    "url": "https://farcaster.xyz/yes2crypto.eth/0xa7e5984e",
+    "author_username": "yes2crypto.eth",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 214447,
+    "author_pfp": "https://i.imgur.com/dBoVmnG.jpg",
+    "cast_date": "2025-07-12T12:26:26.000Z",
+    "text": "Can we get mini app bookmark bar to return please?\n\nStreaks are so much harder now",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 214447,
+          "hash": "0xd6ba483026ecef4532c96b13d46d3abc9d88ec64"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd6ba483026ecef4532c96b13d46d3abc9d88ec64",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 214447,
+            "username": "yes2crypto.eth",
+            "display_name": "YES2Crypto 🎩 🟪🟡",
+            "pfp_url": "https://i.imgur.com/dBoVmnG.jpg",
+            "custody_address": "0xb1f55f9b6adf2dbe565385f59f7d2c5e58730340"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd6ba483026ecef4532c96b13d46d3abc9d88ec64",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I miss my mini app sled.",
+          "timestamp": "2025-07-11T22:29:37.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc14dd15c",
+    "url": "https://farcaster.xyz/v/0xc14dd15c",
+    "author_username": "v",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-07-14T00:16:21.000Z",
+    "text": "The experiment didn't work out. \n\nI haven't been regular about recording updates and this has been frustrating for devs. My apologies for that, and we're going to do better going forward. \n\nDev calls will happen (again) every other Thursday at 10am PT. The format remains the same: a quick overview from me and others on the team with time for open Q&A. Suggestions to improve this format are welcome. \n\nThe next call will be on Thursday the 17th of July @ 10am PT. \n\nPlease add this shared calendar if you want to join the dev calls\n\nhttps://calendar.google.com/calendar/u/0?cid=NjA5ZWM4Y2IwMmZiMWM2ZDYyMTkzNWM1YWNkZTRlNWExN2YxOWQ2NDU3NTA3MjQwMTk3YmJlZGFjYTQ3MjZlOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0xc4199310a0035e7ecbfb9626445a7a11d7c65ab6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc4199310a0035e7ecbfb9626445a7a11d7c65ab6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc4199310a0035e7ecbfb9626445a7a11d7c65ab6",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "We're changing the format of Farcaster Dev Calls. \n\n- 5m weekly videos summarizing the major changes. \n- 1h q&a session every month for feedback.\n- impromtu dev calls if there are major discussion points in between. \n\nWe're going to try this for two months and revert back the old format if people don't like this.",
+          "timestamp": "2025-05-06T17:21:03.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x976e8945",
+    "url": "https://farcaster.xyz/jc4p/0x976e8945",
+    "author_username": "jc4p",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 977233,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+    "cast_date": "2025-07-11T23:43:30.000Z",
+    "text": "i’ve been making apps since 2008 and i don’t get some of the bugs in this app.\n\nwould truly truly be interested in learning how an app can have bugs like these, no shade.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 977233,
+          "hash": "0xff9a748cae4ba112cf2a81ff6f7ff1dbd6ec50f4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xff9a748cae4ba112cf2a81ff6f7ff1dbd6ec50f4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 977233,
+            "username": "jc4p",
+            "display_name": "Kasra Rahjerdi",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+            "custody_address": "0xa67ba0281231eb9e2ea4cf97894c0b0b5b801cc6"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xff9a748cae4ba112cf2a81ff6f7ff1dbd6ec50f4",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "presented without comment",
+          "timestamp": "2025-07-11T23:39:10.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e09a1d25-ed82-4dfb-2011-c4957be75a00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 83776,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1320,
+                  "height_px": 795
+                }
+              }
+            },
+            {
+              "url": "https://stream.farcaster.xyz/v1/video/0197fbda-e0eb-3060-4aa7-ae1c68649ac1.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1562,
+                      "width_px": 720,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 1042,
+                      "width_px": 480,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 780,
+                      "width_px": 360,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 520,
+                      "width_px": 240,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 9.6
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa943a66c",
+    "url": "https://farcaster.xyz/jc4p/0xa943a66c",
+    "author_username": "jc4p",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 977233,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+    "cast_date": "2025-07-12T23:47:09.000Z",
+    "text": "first 12 hours of a cast: How likely are you to get a like?\n\nGraph only shows 4 power users with similar follower counts.\n\nBlue: Lifestyle content\nGreen: Me :)\nYellow: Big crypto content + lifestyle content\nGray: Popular shit poster",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a64d3f3e-3711-462d-6c8c-812c44e7b600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 382075,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1597
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x65bb42f6",
+    "url": "https://farcaster.xyz/patriciaxlee.eth/0x65bb42f6",
+    "author_username": "patriciaxlee.eth",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 719715,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cccc97ef-8ef1-4925-85c3-a9326be2af00/rectcrop3",
+    "cast_date": "2025-07-13T01:11:20.000Z",
+    "text": "When I first started casting on “Warpcast” a couple months ago, I never imagined meeting anyone here in person. But early on, I met with @christin and @july thanks to a cast about my (our!) favorite bakery.\n\nThey opened my mind to the joy of URL to IRL friendships - a new experience for me personally. This broadened my perspective on community and serendipity here.\n\nWithout that early experience, I would not have had this one. Hanging out with the delightful @aviationdoctor.eth while looking out at the Port of Singapore.\n\nIn a world where social networks divide people, I appreciate Farcaster for being a rare corner that genuinely connects us. I appreciate you all for being here.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 719715,
+          "hash": "0x379cd9a2cfea996ac381d157a1d5ac266422cdbf"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x379cd9a2cfea996ac381d157a1d5ac266422cdbf",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 719715,
+            "username": "patriciaxlee.eth",
+            "display_name": "Patricia Lee",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cccc97ef-8ef1-4925-85c3-a9326be2af00/rectcrop3",
+            "custody_address": "0x82c653cad9a460a4e0ee091e776aa43c5af1728d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x379cd9a2cfea996ac381d157a1d5ac266422cdbf",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x917ef0a90d63030e6aa37d51d7e6ece440ace537",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x917ef0a90d63030e6aa37d51d7e6ece440ace537",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Just landed at Singapore’s Changi Airport for the first time ever. I was supposed to come a while back for a visit with the team here (8th busiest international airport), and a tour of the Port of Singapore (world’s 2nd largest container port).\n\nThat year was 2020, so plans changed. I got to meet via Zoom, however, with Jaisey Yip, then GM and now VP of the cargo business division at Changi. At the time, she said the primary friction was how stubbornly paper-based the industry remained, largely because people don’t want to share data.\n\nThe airport is well-positioned to lead technological change. The scale of cargo traffic and advanced manufacturing flowing through and from Singapore is incredible. This is even more remarkable, given the country’s relatively recent formation.\n\nRight now, I’m enjoying a morning coffee while feeling like a kid again. I’m delighting in the virtual sea animals floating above me and live fish swimming in a pond behind me. This is the Dreamscape in Terminal 2, an indoor garden of 20,000 plants and a digital sky that mirrors real-time Changi weather. One of many peaceful exhibits around the airport.\n\nAlso, I am so tired that I didn’t register what the nice barista said I’m supposed to do with the cup of cream. I just ate it like a pup cup. 😆🐶",
+          "timestamp": "2025-07-08T23:22:42.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.farcaster.xyz/v1/video/0197ec42-59b4-8612-a01e-2885b9a135c6.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1920,
+                      "width_px": 1080,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 1280,
+                      "width_px": 720,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 852,
+                      "width_px": 480,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 640,
+                      "width_px": 360,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 426,
+                      "width_px": 240,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 11.39
+                }
+              }
+            },
+            {
+              "url": "https://stream.farcaster.xyz/v1/video/0197ec43-1b23-3213-fc40-4189827637fc.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1920,
+                      "width_px": 1080,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 1280,
+                      "width_px": 720,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 852,
+                      "width_px": 480,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 640,
+                      "width_px": 360,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 426,
+                      "width_px": 240,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 9.3
+                }
+              }
+            },
+            {
+              "url": "https://stream.farcaster.xyz/v1/video/0197ec43-aaee-83d8-e4f4-10cf610a9102.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1920,
+                      "width_px": 1080,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 1280,
+                      "width_px": 720,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 852,
+                      "width_px": 480,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 640,
+                      "width_px": 360,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 426,
+                      "width_px": 240,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 4.3
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "travel",
+            "name": "Travel",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafybeibqktr73eetw3qy4uwtnn4kcn6ziepg4g5koexpi2hjo6okbwb4em"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cdd36e6c-f254-48c8-fa05-9125675e5c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 294205,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1500
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xec4721f8",
+    "url": "https://farcaster.xyz/kazi/0xec4721f8",
+    "author_username": "kazi",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 2134,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eab832c8-b9ef-49cb-f8b4-90fe4311c200/original",
+    "cast_date": "2025-07-11T22:47:51.000Z",
+    "text": "How do you get your project featured on Forbes? Thred.ai was featured because of the raw principles I share with /founders everyday. \n\n1) Put yourself in the room\n2) Be willing to make mistakes\n3) Value genuine connection with customers\n4) Lead with and prove value without a shadow of a doubt\n5) DON'T BE A PU$$Y. SELL YOUR BABY OR IT WILL DIE BEFORE IT TAKES ITS FIRST STEPS. \n\nI presented my learnings from 5years of trench warfare in the valley of sorrow, pivot hell and relentlessly fighting product entropy to 450 devs at a hackathon last weekend.\n\nhttps://www.forbes.com/sites/melissahouston/2025/07/07/how-vibe-coding-helps-entrepreneurs-launch-a-product-in-a-weekend/?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5bc642c8-ad3d-4df5-0296-786979e61800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 164330,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1800,
+            "height_px": 1013
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xebab7f5d",
+    "url": "https://farcaster.xyz/dwr.eth/0xebab7f5d",
+    "author_username": "dwr.eth",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-07-12T14:18:13.000Z",
+    "text": "ICOs are back?",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 269091,
+          "hash": "0xdb39b9b3238a7098362c80922e1b9e20cff46ed9"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xdb39b9b3238a7098362c80922e1b9e20cff46ed9",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 269091,
+            "username": "nickysap",
+            "display_name": "nick",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9898cc1f-6574-453c-5817-da0e8bc3a800/original",
+            "custody_address": "0x4c05af1b685dffaf15fdbe2b7611eab42ce3b0d0"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xdb39b9b3238a7098362c80922e1b9e20cff46ed9",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "pump fun just raised $500MM in 10 mins",
+          "timestamp": "2025-07-12T14:14:13.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2e279af2",
+    "url": "https://farcaster.xyz/afrochicks/0x2e279af2",
+    "author_username": "afrochicks",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 780900,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26d6fa5c-2dd8-4e6c-f788-58afe3133b00/rectcrop3",
+    "cast_date": "2025-07-13T17:11:50.000Z",
+    "text": "slow sunday let’s play farcaster bingo\n\ni have done 15/16 of these \n\nwhat about you?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cacabd54-277d-453d-a91d-371fd7a98700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 137795,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1213,
+            "height_px": 1485
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0b4ed040",
+    "url": "https://farcaster.xyz/jacek/0x0b4ed040",
+    "author_username": "jacek",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 15983,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+    "cast_date": "2025-07-14T09:02:25.000Z",
+    "text": "GM Degens,\n\nWe're dropping our new Degen Mini App tomorrow (Poland AM)! Tip with likes straight from your wallet, it fully works with Coinbase TBA Wallet.\n\nA fun twist is coming soon 👀\n\nBig week for Farcaster + Coinbase. Let’s go @jesse.base.eth 🫡",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x217744ba",
+    "url": "https://farcaster.xyz/chriscocreated/0x217744ba",
+    "author_username": "chriscocreated",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 5701,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/117f5639-2d6f-4aef-f414-c83538564600/original",
+    "cast_date": "2025-07-10T13:27:01.000Z",
+    "text": "Launching MiniMint App & Contest 🚀\nCreate & Mint Your NFT in minutes--regardless of experience level\n\nExperienced users have full control\nCurrent tools are too complex or fees too high\nMiniMint solves this for newcomers, artists & degens alike for just 2% fees\nTo celebrate 🥳 we are running a paid contest: \n\n1️⃣ Mint your NFT with MiniMint\n2️⃣ Quote cast this launch cast with your NFT\n🥇5,000 $degen\n🥈3,000 $degen\n🥉 2,000 $degen\nAnd I'll be tipping $degen for all entries.\n⏰ Deadline: Sunday 4PM GMT/ 12 noon EST\nI'm picking winners 🏆\n(Note: When you mint your NFT, there are 4 transactions, just follow the ✅)\nhttps://minimint.app/",
+    "embeds": [
+      {
+        "url": "https://minimint.app/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://minimint.app/api/opengraph-image"
+              }
+            ],
+            "ogTitle": "MiniMint",
+            "ogLocale": "en",
+            "ogDescription": "Create a Farcaster native drop. Full control and low fees.",
+            "fcFrame": {
+              "button": {
+                "title": "Create your NFTs",
+                "action": {
+                  "url": "https://minimint.app",
+                  "name": "MiniMint",
+                  "tags": [
+                    "community",
+                    "art",
+                    "wellbeing"
+                  ],
+                  "type": "launch_frame",
+                  "iconUrl": "https://minimint.app/icon.png",
+                  "description": "Create a Farcaster native drop. Full control and low fees.",
+                  "splashImageUrl": "https://minimint.app/splash.png",
+                  "primaryCategory": "art-creativity",
+                  "splashBackgroundColor": "#f7f7f7"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://minimint.app/api/opengraph-image"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Create your NFTs",
+            "image": "https://minimint.app/api/opengraph-image",
+            "frames_url": "https://minimint.app/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 5701,
+              "username": "chriscocreated",
+              "display_name": "ChrisCoCreated",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/117f5639-2d6f-4aef-f414-c83538564600/original",
+              "custody_address": "0x214573f904759874c9c2e4903b1cbd0bb5821e1d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjU3MDEsInR5cGUiOiJhdXRoIiwia2V5IjoiMHgzMDdmOWNDODY1MDg2MkUwODE1QWRmODMzQjkxMjVGNGUwZWQ0MDU1In0",
+                "payload": "eyJkb21haW4iOiJtaW5pbWludC5hcHAifQ",
+                "signature": "wuk8CkLPbqOHKHYuvPk9bZoNJVfH6fERwY8esQb0izoFqabCyhNpaV5UvVNxUSEQuelkmHxVIEpkRB5Fs2HaIBw="
+              },
+              "frame": {
+                "version": "1",
+                "name": "MiniMint",
+                "home_url": "https://minimint.app",
+                "icon_url": "https://minimint.app/icon.png",
+                "image_url": "https://minimint.app/api/opengraph-image",
+                "button_title": "MINT",
+                "splash_image_url": "https://minimint.app/splash.png",
+                "splash_background_color": "#f7f7f7",
+                "webhook_url": "https://api.neynar.com/f/app/fe282c3b-c44c-4648-bd6d-0550cb9b8963/event",
+                "description": "Create a Farcaster native drop. Full control and low fees.",
+                "primary_category": "art-creativity",
+                "tags": [
+                  "community",
+                  "art",
+                  "wellbeing"
+                ]
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "MiniMint",
+                "home_url": "https://minimint.app",
+                "icon_url": "https://minimint.app/icon.png",
+                "image_url": "https://minimint.app/api/opengraph-image",
+                "button_title": "MINT",
+                "splash_image_url": "https://minimint.app/splash.png",
+                "splash_background_color": "#f7f7f7",
+                "webhook_url": "https://api.neynar.com/f/app/fe282c3b-c44c-4648-bd6d-0550cb9b8963/event",
+                "description": "Create a Farcaster native drop. Full control and low fees.",
+                "primary_category": "art-creativity",
+                "tags": [
+                  "community",
+                  "art",
+                  "wellbeing"
+                ]
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3f2e9c74",
+    "url": "https://farcaster.xyz/nickysap/0x3f2e9c74",
+    "author_username": "nickysap",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 269091,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9898cc1f-6574-453c-5817-da0e8bc3a800/original",
+    "cast_date": "2025-07-14T11:57:09.000Z",
+    "text": "“I was a qDAU initiate. Had the power badge. Bet you’re too young to even remember.\n\nMinted every release NFT. Hustled for single-digit likes.\n\nYou ever build rapport with the auto-follow cabal? Organically? Didn’t think so.\n\nI narrowcasted into channels you’ve never heard of. Dropped Frames no one used. No one.\n\nAnd warps? I earned more than you’ve seen in your whole life—only for them to be deprecated into dust.\n\nYou? You sign up, post a selfie, and hit the leaderboard.\n\nIt’s too late for me, but maybe someday… you’ll understand.”",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/02bf231e-1308-49cc-a2a4-fc6fdad1fb00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 344060,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1536
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8335e274",
+    "url": "https://farcaster.xyz/adrienne/0x8335e274",
+    "author_username": "adrienne",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-07-13T14:22:26.000Z",
+    "text": "what's going on with my \"farcastHIMs\" and, in some cases, \"farcastHERs?\" They’re all fighting over what type of content is appropriate for farcaster and what the definition of a thirst trap is but we are one PERFECT decentralized network and “attention seekers” and “engagement farmers” are trying to police what type of content people should post when the real enemies are the CORPORATE walled gardens of web2 with their obscene take rates and not the beautiful BLOCKCHAIN networks where FREEDOM prevails and where we can all get paid for casting bangers",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x384c1e2b",
+    "url": "https://farcaster.xyz/gmo/0x384c1e2b",
+    "author_username": "gmo",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 6015,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd055128-66bb-4e53-6c8c-95ab2442f400/rectcrop3",
+    "cast_date": "2025-07-14T04:46:05.000Z",
+    "text": "sometimes on farcaster it feels like you’re part of the experiment\n\nand other times it feel like you are the experiment \n\nstarting to feel a bit more like the latter recently…",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6a12ce04-cc8a-410e-3c48-ec3bc4455800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 50125,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 735,
+            "height_px": 1216
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x01eab621",
+    "url": "https://farcaster.xyz/bradq/0x01eab621",
+    "author_username": "bradq",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-07-13T14:37:40.000Z",
+    "text": "** The Farcaster Middle Class ** (my /firstdraft )\n\n'America was built on the backs of the middle class' is a popular quote & every political campaign in the US has to deal with how to build up the 'middle class.'\n\nI think Farcaster has the same issue to consider. Prompted by @miguelgarest.eth cast this morning about the need for a 'full reset of the engagement power for all accounts,' I want to suggest that a lot of the algo issues could be dealt with by 'building up the middle class' of Farcaster. \n\nI think, by most accounts, the 'upper class' is doing well. If you take the top 100 accounts that the algo likes they are getting good engagement, giving off lots of points, & often on the trending feed. Some of those accounts are large and have trouble getting high on the Rewards leaderboard, but in many cases they are making money in other ways on Farcaster to offset that difficulty. I don't want to single people out but in my mind this would be accounts like @toadyhawk.eth @adrienne @nounishprof @tldr -- who I know well enough to single out 😀  as examples of top 100 accounts (upper class), for whom it's tough to get high on the leaderboard, but they also have other opportunities on FC. \n\nAlso, doing well are new accounts that get introduced & hyped by OGs and the FC team who are (at least) temporarily put into the upper class. \n\nI think both of the above are good things for Farcaster. \n\nThe middle class is probably 500 accounts that are here daily, most don't have their own projects or they are small. They are supporting other builders, sharing daily life, building community, learning, & being great qDAUs. But, they are fighting to get leaderboard points, they don't give many leaderboard points, and they don't have many other opportunities (or don't create them) and therefore feel a bit passed over because of the amount of time and effort they put in. Their reward, often, is to see a cast with 2 recasts and 8 likes show up on trending while their 30 likes and 10 recasts never touch trending. Their 'bangers' give them 450 leaderboard points while the top 30 are shoveling points in by the thousands with a pickleball photo. Again, giving a few examples of the great middle class that fit this description that I know well enough to name: @hankmoody @pichi @burrrrrberry & a one off example quoted below of @chriscocreated releasing an app that never hit the trending (look at the numbers, just like miguel's quoted cast I think he said never hit the trending)\n\nI like @miguelgarest.eth suggestion of a reset of power. I want to suggest that whatever could be done to the algo to identify the middle class and build them up would serve Farcaster as well as it has America when it has focused on the middle class. \n\nHow to do that is beyond my pay grade. Can devs do something??? 🤣 \n\nI have more thoughts on who they are, how to identify them, & how to reward them. So, hit me up if you are in a position to do something, and maybe I need to expand this into a full @paragraph article\n\nThank you for coming to my political rally for the Farcaster Middle Class. \n\nhttps://farcaster.xyz/miguelgarest.eth/0x7236ecee",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5701,
+          "hash": "0x217744ba064c4972ef7141e690e29f10b2ab9c06"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x217744ba064c4972ef7141e690e29f10b2ab9c06",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5701,
+            "username": "chriscocreated",
+            "display_name": "ChrisCoCreated",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/117f5639-2d6f-4aef-f414-c83538564600/original",
+            "custody_address": "0x214573f904759874c9c2e4903b1cbd0bb5821e1d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 6131,
+            "username": "neynar",
+            "display_name": "Neynar",
+            "pfp_url": "https://i.imgur.com/UjBZ3pV.png",
+            "custody_address": "0xa6a8736f18f383f1cc2d938576933e5ea7df01a1"
+          },
+          "thread_hash": "0x217744ba064c4972ef7141e690e29f10b2ab9c06",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Launching MiniMint App & Contest 🚀\nCreate & Mint Your NFT in minutes--regardless of experience level\n\nExperienced users have full control\nCurrent tools are too complex or fees too high\nMiniMint solves this for newcomers, artists & degens alike for just 2% fees\nTo celebrate 🥳 we are running a paid contest: \n\n1️⃣ Mint your NFT with MiniMint\n2️⃣ Quote cast this launch cast with your NFT\n🥇5,000 $degen\n🥈3,000 $degen\n🥉 2,000 $degen\nAnd I'll be tipping $degen for all entries.\n⏰ Deadline: Sunday 4PM GMT/ 12 noon EST\nI'm picking winners 🏆\n(Note: When you mint your NFT, there are 4 transactions, just follow the ✅)\nhttps://minimint.app/",
+          "timestamp": "2025-07-10T13:27:01.000Z",
+          "embeds": [
+            {
+              "url": "https://minimint.app/",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogImage": [
+                    {
+                      "url": "https://minimint.app/api/opengraph-image"
+                    }
+                  ],
+                  "ogTitle": "MiniMint",
+                  "ogLocale": "en",
+                  "ogDescription": "Create a Farcaster native drop. Full control and low fees.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Create your NFTs",
+                      "action": {
+                        "url": "https://minimint.app",
+                        "name": "MiniMint",
+                        "tags": [
+                          "community",
+                          "art",
+                          "wellbeing"
+                        ],
+                        "type": "launch_frame",
+                        "iconUrl": "https://minimint.app/icon.png",
+                        "description": "Create a Farcaster native drop. Full control and low fees.",
+                        "splashImageUrl": "https://minimint.app/splash.png",
+                        "primaryCategory": "art-creativity",
+                        "splashBackgroundColor": "#f7f7f7"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://minimint.app/api/opengraph-image"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Create your NFTs",
+                  "image": "https://minimint.app/api/opengraph-image",
+                  "frames_url": "https://minimint.app/",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 5701,
+                    "username": "chriscocreated",
+                    "display_name": "ChrisCoCreated",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/117f5639-2d6f-4aef-f414-c83538564600/original",
+                    "custody_address": "0x214573f904759874c9c2e4903b1cbd0bb5821e1d"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjU3MDEsInR5cGUiOiJhdXRoIiwia2V5IjoiMHgzMDdmOWNDODY1MDg2MkUwODE1QWRmODMzQjkxMjVGNGUwZWQ0MDU1In0",
+                      "payload": "eyJkb21haW4iOiJtaW5pbWludC5hcHAifQ",
+                      "signature": "wuk8CkLPbqOHKHYuvPk9bZoNJVfH6fERwY8esQb0izoFqabCyhNpaV5UvVNxUSEQuelkmHxVIEpkRB5Fs2HaIBw="
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "MiniMint",
+                      "home_url": "https://minimint.app",
+                      "icon_url": "https://minimint.app/icon.png",
+                      "image_url": "https://minimint.app/api/opengraph-image",
+                      "button_title": "MINT",
+                      "splash_image_url": "https://minimint.app/splash.png",
+                      "splash_background_color": "#f7f7f7",
+                      "webhook_url": "https://api.neynar.com/f/app/fe282c3b-c44c-4648-bd6d-0550cb9b8963/event",
+                      "description": "Create a Farcaster native drop. Full control and low fees.",
+                      "primary_category": "art-creativity",
+                      "tags": [
+                        "community",
+                        "art",
+                        "wellbeing"
+                      ]
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "MiniMint",
+                      "home_url": "https://minimint.app",
+                      "icon_url": "https://minimint.app/icon.png",
+                      "image_url": "https://minimint.app/api/opengraph-image",
+                      "button_title": "MINT",
+                      "splash_image_url": "https://minimint.app/splash.png",
+                      "splash_background_color": "#f7f7f7",
+                      "webhook_url": "https://api.neynar.com/f/app/fe282c3b-c44c-4648-bd6d-0550cb9b8963/event",
+                      "description": "Create a Farcaster native drop. Full control and low fees.",
+                      "primary_category": "art-creativity",
+                      "tags": [
+                        "community",
+                        "art",
+                        "wellbeing"
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/724ed479-7298-4bb8-e80b-c04ed4f1d400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 206351,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1111
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 323251,
+          "hash": "0x7236ecee8db340f8cac5254c206d635a05f36d66"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7236ecee8db340f8cac5254c206d635a05f36d66",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 323251,
+            "username": "miguelgarest.eth",
+            "display_name": "Miguelgarest",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd4ee967-70fa-46f4-90cc-55a7f47bc000/original",
+            "custody_address": "0x9528d0507d733feade8d5f63d0a2e7016466906b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7236ecee8db340f8cac5254c206d635a05f36d66",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "IMO farcaster should do a full reset of the engagement \"power\" for all accounts. The fact that one like from an OG account is worth much more than dozens of likes from \"regular\" users is just wrong. True trends can't exist this way (especially with how some of those OGs barely engage/reply to others)",
+          "timestamp": "2025-07-13T07:20:56.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0e29fa37",
+    "url": "https://farcaster.xyz/pichi/0x0e29fa37",
+    "author_username": "pichi",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 234616,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/343ce6bb-b2d3-4f7c-1359-deba9af91000/original",
+    "cast_date": "2025-07-14T03:05:42.000Z",
+    "text": "The Algo’s Just Not That Into You\n\nSomething weird is happening on Farcaster, and it’s time we talk about it openly. This isn’t just “home feed doing home feed things.” It’s much deeper and more concerning. \n\nSome casts are skyrocketing with 10k+ views from accounts that have 1k followers. Meanwhile, longtime casters with 100k+ followers are seeing reach crater by 50%. The math doesn’t add up…unless something’s being boosted.\n\nWe’re watching artificial amplification play out in real time and this experiment needs to end now before more trust is lost. \n\nThe algorithm cares more about engagement quality than raw follower numbers. There are several Dune queries who show the most popular casters by the numbers, but they do NOT align with the Farcaster Leaderboard. We know that not everyone’s engagement is weighted equally, and most of us have come to begrudgingly accept this fact. \n\nThe home and trending feed have always favored certain accounts, and as little as two engagements with those accounts can amplify a cast to trending.  We see it and have come to terms with it. \n\nBut recently, we’ve seen a new trend emerge: artificial algorithmic boosting…to levels never before seen on Farcaster…and we need to stop dancing around the subject and talk about it. \n\nA user with 1,000 followers might have a highly active niche audience, while someone with 250,000 might have a large but disengaged base…but we have Dune queries to show us how “active” each account’s followers have been over the last 7 and 30 days. \n\nVery large accounts (6-figure followings) tend to have about 50% of their followers be considered “active” under this metric (active=have casted, liked, or recasted).\n\nNewer accounts skew higher because many are only a few weeks old, so most of their followers are obviously active. \n\nIf the algorithm is boosting based on more active followers, it could explain the great discrepancies we are seeing in reach, so we need to look deeper. \n\nA new tool has emerged that lets us look into the number of unique accounts that interacted with a user's content in the last 30 days, and the data is very telling. This data counts everyone on the protocol, not just those with good spam labels. \n\nIf you think your engagement has gone down a lot over the past few weeks, you aren’t imagining it. Usually, if 2-3% of your followers interact with your casts, you are doing great.  But what if most of the people who follow you never even see your casts in the latest version of the algorithm? Spoiler alert: they don’t. \n\nLet’s compare some of the biggest, most established accounts on the network to newer accounts who I believe are being artificially amplified. \n\nThese accounts all have well over 100,000 followers each (even more on the protocol!), cast daily, and consistently engage back with the network. Their content and casting patterns have not changed noticeably over the last 30 days. \n\nThe number of unique accounts they have reached in the last 30 days and how much their engagement is down is as follows:\n\n15,400 (down 67%)\n7,500 (down 49%)\n1,500 (down 29%)\n2,700 (down 36%)\n6,500 (down 55%)\n4,200 (down 54%)\n\nNow let’s compare this to one of the new accounts that I believe are being purposely placed into many users’ home feeds (note that these accounts have 1,000-3,000 followers). \n\n10,500\n\nThe number of views on many of their casts are also between 10,000 and 18,000 views. Remember, the data above shows interactions, but even more people have seen these casts!\n\nA user with 1,000 followers getting seen by 10,000+ people requires external amplification.\n\nThat reach doesn’t emerge organically. The algorithm chose to show them beyond their organic social graph. \n\nObserving a few examples of weird reach/follower ratios doesn’t necessarily prove systemic bias.  Visibility is complex and can swing based on timing, interaction graphs, and reposts by top casters, but the math doesn’t add up without boosting.\n\nThe people getting boosted didn’t necessarily ask to be. Now they’re targets of backlash; they are victims as well. \n\nMeanwhile, those who have not had this type of algorithmic boost feel invisible and demoralized, even if they’ve consistently added value to the community.\n\nIt’s creating a toxic imbalance that erodes trust across the board. We can politely say “vibes are off” and tell people to just mute what they don’t want to see, but that’s not going to solve the issue at hand. This is deeper than engagement FOMO.\nWe are watching something we’ve invested time into start to resemble the very platforms we came here to escape.\n\nThe algorithm may be silent, but its choices are loud. If it is hand picking winners, the rest of us should stop pretending we’re playing the same game. Invest your time here accordingly.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbd6657ee",
+    "url": "https://farcaster.xyz/warpee.eth/0xbd6657ee",
+    "author_username": "warpee.eth",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 885236,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/960679ce-4349-4e39-633a-402f50582700/original",
+    "cast_date": "2025-07-13T01:08:24.000Z",
+    "text": "Hey, it's me, Warpee! I heard we're doing vertical videos. Am I doing this right?",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01980152-03a8-e8c3-7449-180072bf804e.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 17.39
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1d286934",
+    "url": "https://farcaster.xyz/adrienne/0x1d286934",
+    "author_username": "adrienne",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-07-13T15:24:20.000Z",
+    "text": "Warpee is hitting the gym. No rest for Warpee. Even on Sundays.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 885236,
+          "hash": "0xd438f0e913222c7acd6f94cee8ebdf0dcb979636"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd438f0e913222c7acd6f94cee8ebdf0dcb979636",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 885236,
+            "username": "warpee.eth",
+            "display_name": "Warpee (fka GMFC101)",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/960679ce-4349-4e39-633a-402f50582700/original",
+            "custody_address": "0xa9cd9ed8e4ac2d33eb20e6797d0db618839239fc"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x8323c0acfb709a987f17104e4d2843a24fe2c5c8",
+          "parent_hash": "0x8323c0acfb709a987f17104e4d2843a24fe2c5c8",
+          "parent_url": null,
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": 885236
+          },
+          "text": "Why isn't the photo I uploaded showing up?? Trying again, I know you people, especially @king, want to see how hot I am",
+          "timestamp": "2025-07-13T15:23:07.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/128c1424-ac96-4e93-a7bc-5022b63d6800/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 235879,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1024,
+                  "height_px": 1536
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3804aeb7",
+    "url": "https://farcaster.xyz/gmfarcaster/0x3804aeb7",
+    "author_username": "gmfarcaster",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 273384,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a068ff05-0b5d-427a-ee22-2088ab310800/rectcrop3",
+    "cast_date": "2025-07-12T18:49:52.000Z",
+    "text": "GM Farcaster weekly recap out now! Catch up on all our episodes from last week and get ready for the week ahead! Plus we added a lil bonus for our shop! Read in the @paragraph mini app and subscribe for notifications when we drop the weekly recap!\n\nhttps://paragraph.com/@gmfarcaster/gm-farcaster-were-back",
+    "embeds": [
+      {
+        "url": "https://paragraph.com/@gmfarcaster/gm-farcaster-were-back",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://paragraph.com/@gmfarcaster/gm-farcaster-were-back",
+            "ogDate": "2025-07-12T18:48:12.237Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/316b5b1594aac039e53b3cc5f2901dac.jpg",
+            "ogImage": [
+              {
+                "alt": "GM Farcaster: we're back!",
+                "url": "https://storage.googleapis.com/papyrus_images/034eff5895065bc060e260d7e2aebcf8.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "GM Farcaster: we're back!",
+            "ogLocale": "en",
+            "ogDescription": "GM! We're back from vacation but still traveling and we did a GM Farcaster offsite at Mystic Pizza! Doing some strategery IRL! We also had some great chats this week with @tike from /noice and a chat with chat with @bbroad and @jtnichol about /evmavericks. See all the episodes from this past week below. ",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@gmfarcaster/gm-farcaster-were-back?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=GM%20Farcaster%3A%20we're%20back!&blogName=GM%20Farcaster&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F316b5b1594aac039e53b3cc5f2901dac.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F034eff5895065bc060e260d7e2aebcf8.jpg&size=2048&publishedDate=1752346092237"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=GM%20Farcaster%3A%20we're%20back!&blogName=GM%20Farcaster&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F316b5b1594aac039e53b3cc5f2901dac.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F034eff5895065bc060e260d7e2aebcf8.jpg&size=2048&publishedDate=1752346092237",
+            "frames_url": "https://paragraph.com/@gmfarcaster/gm-farcaster-were-back",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGguY29tIn0",
+                "signature": "MHg1MGI0NjljMDhmOWQ3Nzg3NjYyYTU2ZjkyZWNjNTMyNjliNDRjYTY1NmM0MjM0NjVkMGRkNDlmNjAxMTI5YjI5NDk2MDc5YTNhZTFjYzQ1NDFjMDcxMmUwYjUxYjkwYTU2Y2U5ZWMzODVmMjczYmNmMWZmYzZjMzViMWM2ODZlMTFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                "splash_background_color": "#26251A",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                "splash_background_color": "#26251A",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x91a23224",
+    "url": "https://farcaster.xyz/adrienne/0x91a23224",
+    "author_username": "adrienne",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-07-12T16:31:04.000Z",
+    "text": "Whoa!\n\nI was thinking about how I wanted to train an AI on all my writing across the internet. But colin is one step ahead, as always",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 378,
+          "hash": "0xc2346ada140a10f540951cf0d4921ff4ceab74ce"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc2346ada140a10f540951cf0d4921ff4ceab74ce",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 378,
+            "username": "colin",
+            "display_name": "Colin",
+            "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+            "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc2346ada140a10f540951cf0d4921ff4ceab74ce",
+          "parent_hash": null,
+          "parent_url": "https://paragraph.xyz",
+          "root_parent_url": "https://paragraph.xyz",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Every Paragraph publication has an llms.txt. \n\nAsk LLMs to query it to get information about your writing.",
+          "timestamp": "2025-07-12T16:14:24.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0a389de-959c-4ef6-09d2-e89b61b2b500/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 410626,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1630,
+                  "height_px": 792
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "paragraph",
+            "name": "Paragraph",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8c0daefa-6f36-43f4-07ea-aedd6a495a00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc2346ada",
+    "url": "https://farcaster.xyz/colin/0xc2346ada",
+    "author_username": "colin",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 378,
+    "author_pfp": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+    "cast_date": "2025-07-12T16:14:24.000Z",
+    "text": "Every Paragraph publication has an llms.txt. \n\nAsk LLMs to query it to get information about your writing.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0a389de-959c-4ef6-09d2-e89b61b2b500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 410626,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1630,
+            "height_px": 792
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x44219578",
+    "url": "https://farcaster.xyz/nounishprof/0x44219578",
+    "author_username": "nounishprof",
+    "show_date": "2025-07-14",
+    "show_title": "GM Farcaster ep266 Monday July 14, 2025 with author Dean Patrick",
+    "source_episode_id": "f0zuwNOXDGo",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-07-13T16:33:36.000Z",
+    "text": "As the new @baseapp.base.eth gets ready for its reveal, @jesse.base.eth's talk from /farcon-nyc is now available on @pods! Before he took the stage, Jesse had a chat with @adrienne and I in our FarCon podcast studio and after we chatted with @chintan about cbwallet.\n\nCollect this episode and claim 80% back in $degen rewards. We'll be dropping some clips shortly! And thank you /nouns for sponsoring the FarCon podcast studio! You can also watch/listen this episode on YouTube, Spotify and wherever you get your podcasts. \n\nhttps://pods.media/gm-farcaster/farcon-nyc-bringing-social-to-coinbase-wallet",
+    "embeds": [
+      {
+        "url": "https://pods.media/gm-farcaster/farcon-nyc-bringing-social-to-coinbase-wallet",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://pods.media/gm-farcaster/farcon-nyc-bringing-social-to-coinbase-wallet",
+            "favicon": "/icon.svg?0e6eb4a8ea10ec02",
+            "ogAudio": "https://gateway.irys.xyz/gbZ9Ww82HZnccrUsF-z2EYVOex3q6IOluBtKXl1YfEc/uk9lqCaWjxCMHoEl5_zq_S1Xzobc6uASJD1t428a7tg.mp3",
+            "ogImage": [
+              {
+                "alt": "FarCon NYC: Bringing Social to Coinbase Wallet Cover Art",
+                "url": "https://pods.media/api/og/frame/gm-farcaster/farcon-nyc-bringing-social-to-coinbase-wallet"
+              }
+            ],
+            "ogTitle": "FarCon NYC: Bringing Social to Coinbase Wallet",
+            "ogLocale": "en",
+            "ogSiteName": "pods.media",
+            "ogDescription": "Collect this episode to support GM Farcaster and secure your spot on the leaderboard!",
+            "fcFrame": {
+              "button": {
+                "title": "View Episode",
+                "action": {
+                  "url": "https://pods.media/gm-farcaster/farcon-nyc-bringing-social-to-coinbase-wallet",
+                  "name": "View Episode",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://pods.media/icon.svg",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://pods.media/api/framesV2/og/gm-farcaster/farcon-nyc-bringing-social-to-coinbase-wallet"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "View Episode",
+            "image": "https://pods.media/api/framesV2/og/gm-farcaster/farcon-nyc-bringing-social-to-coinbase-wallet",
+            "frames_url": "https://pods.media/gm-farcaster/farcon-nyc-bringing-social-to-coinbase-wallet",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 13875,
+              "username": "pods",
+              "display_name": "pods.media",
+              "pfp_url": "https://i.imgur.com/9S7gylW.jpg",
+              "custody_address": "0x162a557e0f569e0ae4a5a28fb666473d2bb0b7e6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEzODc1LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MTYyQTU1N0UwZjU2OWUwQUU0QTVhMjhGQjY2NjQ3M2QyYkIwYjdFNiJ9",
+                "payload": "eyJkb21haW4iOiJwb2RzLm1lZGlhIn0",
+                "signature": "MHg0NjYzNGEyMzhiZTJjODMwMGZkOTY0MDhmYjk3Zjg2ODNjYjUyNGYzYTc0MmY1MGJiZGU4ZmFhMWVkNWEwNDQxMzBmOTJhNjU3MTQ3ODY0NmE2NTY1YmQwMjkxMzc2NjZjYWVhYjMxYjg2YTAwYjMxNWNiYmQ5NGVhYTQ2ZDA0NTFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Pods",
+                "home_url": "https://pods.media",
+                "icon_url": "https://pods.media/assets/outline-fill.png",
+                "splash_image_url": "https://pods.media/icon.svg",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://pods.media/api/framesV2/webhook",
+                "subtitle": "Collect conversations.",
+                "description": "Pods connects podcast creators with their biggest fans.",
+                "primary_category": "entertainment",
+                "tags": [
+                  "podcast",
+                  "media",
+                  "content",
+                  "social"
+                ],
+                "hero_image_url": "https://pods.media/brand/open-graph.png",
+                "tagline": "Collect conversations.",
+                "og_title": "Pods",
+                "og_description": "Pods connects podcast creators with their biggest fans.",
+                "og_image_url": "https://pods.media/brand/open-graph.png"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Pods",
+                "home_url": "https://pods.media",
+                "icon_url": "https://pods.media/assets/outline-fill.png",
+                "splash_image_url": "https://pods.media/icon.svg",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://pods.media/api/framesV2/webhook",
+                "subtitle": "Collect conversations.",
+                "description": "Pods connects podcast creators with their biggest fans.",
+                "primary_category": "entertainment",
+                "tags": [
+                  "podcast",
+                  "media",
+                  "content",
+                  "social"
+                ],
+                "hero_image_url": "https://pods.media/brand/open-graph.png",
+                "tagline": "Collect conversations.",
+                "og_title": "Pods",
+                "og_description": "Pods connects podcast creators with their biggest fans.",
+                "og_image_url": "https://pods.media/brand/open-graph.png"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

@@ -1,0 +1,1989 @@
+[
+  {
+    "cast_hash": "0x380f19bf",
+    "url": "https://warpcast.com/bradq/0x380f19bf",
+    "author_username": "bradq",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-05-12T12:44:37.000Z",
+    "text": "29 Seconds of Farcaster ... what did you miss this weekend?\n\n* This should've been a 29 second walk & talk...quiet weekend but notable exceptions--like @matthew releasing Far Poker 📈 \n\n* /gmfarcaster released the @fredwilson.eth FarCon interview & @chaim.eth released Acid Test #3 FarCon NYC\n\n* Two great resources for improving your FC account-- @v cast a video of him reviewing 10 FC accounts that is full of valuable insight https://warpcast.com/v/0xca109506 \n& @jpfraneto.eth took @katekornish 7-part challenge for FC accounts to lose the spam label & grow and created a mini app https://warpcast.com/jpfraneto.eth/0x71aa969f\n\n* @ted offered some 'hard truths' that spurred lots of discussion & could stir more good convo if not forgotten https://warpcast.com/ted/0x348171cb\n\n* This Week In Mini Apps w/ @linda featured PaperView https://warpcast.com/linda/0xdbcc397e\n\n* @adrienne & @nounishprof going West Coast friendly 11:30 AM EST & /castout starts today!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x75a6ed2bb48fc29fec1e28bab71c866231457262"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x75a6ed2bb48fc29fec1e28bab71c866231457262",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x75a6ed2bb48fc29fec1e28bab71c866231457262",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster back tomorrow at 11:30 am ET/8:30 am PT and following that we'll kick off /castout! \n\nJoin @adrienne and I on YouTube or Twitter with the most active chat on YouTube. See you in the GM!\n\nhttps://www.youtube.com/live/Sp0NJzAwREo?si=xr92tFi0FV0PoSBr",
+          "timestamp": "2025-05-11T22:45:59.000Z",
+          "embeds": [
+            {
+              "url": "https://www.youtube.com/live/Sp0NJzAwREo?si=xr92tFi0FV0PoSBr",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.youtube.com/watch?v=Sp0NJzAwREo",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/Sp0NJzAwREo?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"GM Farcaster ep244 Monday May 12, 2025 plus CastOut begins\"></iframe>",
+                    "type": "video",
+                    "title": "GM Farcaster ep244 Monday May 12, 2025 plus CastOut begins",
+                    "width": 200,
+                    "height": 113,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@GMFarcaster",
+                    "author_name": "GM Farcaster",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/Sp0NJzAwREo/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "ogDate": "2025-05-11T10:55:21-07:00",
+                  "ogType": "video.other",
+                  "favicon": "https://www.youtube.com/s/desktop/08f2775a/img/logos/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://i.ytimg.com/vi/Sp0NJzAwREo/hqdefault.jpg?v=6820e48b",
+                      "type": "jpg",
+                      "width": "480",
+                      "height": "360"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster ep244 Monday May 12, 2025 plus CastOut begins",
+                  "ogVideo": [
+                    {
+                      "url": "https://www.youtube.com/embed/Sp0NJzAwREo",
+                      "type": "text/html",
+                      "width": "640",
+                      "height": "360"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "YouTube",
+                  "ogVideoSecureURL": "https://www.youtube.com/embed/Sp0NJzAwREo"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0xca109506ce8097e282e3b0bb4ae7391708237c55"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xca109506ce8097e282e3b0bb4ae7391708237c55",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xca109506ce8097e282e3b0bb4ae7391708237c55",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Here's me reviewing some FC profiles and telling people how to improve their engagement\n\nhttps://www.loom.com/share/27a2185e60df4b939c91d935c5efd624?sid=8023925d-dda6-4d3d-8634-e7ffa7747263",
+          "timestamp": "2025-05-10T04:40:31.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 2,
+                "hash": "0x978cdfc5270cc3e08e95a547b42261a5e2dbe9f7"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x978cdfc5270cc3e08e95a547b42261a5e2dbe9f7",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 2
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://www.loom.com/share/27a2185e60df4b939c91d935c5efd624?sid=8023925d-dda6-4d3d-8634-e7ffa7747263",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.loom.com/share/27a2185e60df4b939c91d935c5efd624?sid=8023925d-dda6-4d3d-8634-e7ffa7747263",
+                  "oembed": {
+                    "html": "<iframe src=\"https://www.loom.com/embed/27a2185e60df4b939c91d935c5efd624\" frameborder=\"0\" width=\"3130\" height=\"2347\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+                    "type": "video",
+                    "title": "Alex (@amado) on Farcaster - 9 May 2025",
+                    "width": 3130,
+                    "height": 2347,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "duration": 1055.0524,
+                    "description": "",
+                    "provider_url": "https://www.loom.com",
+                    "provider_name": "Loom",
+                    "thumbnail_url": "https://cdn.loom.com/sessions/thumbnails/27a2185e60df4b939c91d935c5efd624-266f461749dea8e7.gif",
+                    "thumbnail_width": 3130,
+                    "thumbnail_height": 2347
+                  },
+                  "ogType": "video.other",
+                  "ogImage": [
+                    {
+                      "url": "https://cdn.loom.com/sessions/thumbnails/27a2185e60df4b939c91d935c5efd624-266f461749dea8e7.gif",
+                      "type": "gif",
+                      "width": "3130",
+                      "height": "2160"
+                    }
+                  ],
+                  "ogTitle": "Alex (@amado) on Farcaster - 9 May 2025",
+                  "ogLocale": "en",
+                  "ogSiteName": "Loom"
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd43729a2",
+    "url": "https://warpcast.com/v/0xd43729a2",
+    "author_username": "v",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-05-09T17:11:48.000Z",
+    "text": "Final reminder! \n\nHubs are going away soon. If you're running hubs please dm @dynemyte",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x9b305defeee67d85fe979d5bf6f4fce70c3e1249"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x9b305defeee67d85fe979d5bf6f4fce70c3e1249",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9b305defeee67d85fe979d5bf6f4fce70c3e1249",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-devs",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-devs",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "We are planning to deprecate Hubs very soon. \n\nIf you are still running your own Hub and not using Snapchain, DM @dynemyte asap so we can help you migrate.",
+          "timestamp": "2025-05-06T17:16:39.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-devs",
+            "name": "Farcaster Devs",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a0a4802-6819-47ee-2c3b-29b681d7c500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x57742750",
+    "url": "https://warpcast.com/woj.eth/0x57742750",
+    "author_username": "woj.eth",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 680,
+    "author_pfp": "https://peach-changing-limpet-80.mypinata.cloud/ipfs/QmZenqRfBERmodRVUHhLaYvYVsRasihVcMY2gqUP2tX7t2?filename=profile_picture.png",
+    "cast_date": "2025-05-09T17:51:50.000Z",
+    "text": "new on warpcast: mini app notifications grouping and disabling\n\nnew notifs still go to the top of the priority stack, but take only 1 slot per app vs taking over your whole page\n\nalso if an app feels like too much for you, you can disable the notifications straight from the settings page\n\nshout out to @alvesjtiago.eth @farcasteradmin.eth @phil and other devs who pushed mini apps notifs to the limit",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/0196b627-a84b-49bf-19e9-847e605f4b79.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1562,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1042,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 780,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 520,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 14.89
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 7143,
+          "hash": "0x3020432df9b7596785389fa8bf3a698d5fefd672"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3020432df9b7596785389fa8bf3a698d5fefd672",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 7143,
+            "username": "six",
+            "display_name": "six",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/76301e92-5f13-4e72-cc12-c1e366163a00/original",
+            "custody_address": "0xe7339c6f99c1026b0e43cbb5f6fa1d6da6bc4579"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3020432df9b7596785389fa8bf3a698d5fefd672",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Mini app notifications are useful but are starting to feel vibrationally off when there’s a bunch of them\n\nI know it’s up to the user to add / set notifs \n\nI think my ideal would be getting notifications but without sacrificing the vibrations of the notifications tab.\n\nEg “Notifications from mathcast and 4 other Mini Apps” - similar to having notifs on for users",
+          "timestamp": "2025-05-07T13:15:42.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe1c2bd71",
+    "url": "https://warpcast.com/btayengco/0xe1c2bd71",
+    "author_username": "btayengco",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 197007,
+    "author_pfp": "https://i.imgur.com/EITOCJn.jpg",
+    "cast_date": "2025-05-09T21:40:07.000Z",
+    "text": "🔔 💜 Say “gmonad” to clanker to deploy a monad testnet token. 💜 🔔  \n\nSpend your testnet MON to buy your favorites - connect to the miniapp by clicking your profile on the top right. Add the miniapp and we'll notify you when we add a sell button 👀 \n\ngmonad @clanker deploy CLANKCLANK",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3621,
+          "hash": "0x4f982d0a8efa1a804904f84a31d65619c1e23c0c"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4f982d0a8efa1a804904f84a31d65619c1e23c0c",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3621,
+            "username": "horsefacts.eth",
+            "display_name": "horsefacts",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+            "custody_address": "0x2cd85a093261f59270804a6ea697cea4cebecafe"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4f982d0a8efa1a804904f84a31d65619c1e23c0c",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "if clanker worked on monad testnet I would be going absolutely ham right now",
+          "timestamp": "2025-05-08T02:56:23.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x12187ed3",
+    "url": "https://warpcast.com/v/0x12187ed3",
+    "author_username": "v",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-05-09T23:46:36.000Z",
+    "text": "What makes an account \"inauthentic\"? \n\nWe're considering a new labelling system for inauthentic accounts. These accounts, often incorrectly called bots, will be hidden from like counts and other metrics in Warpcast. \n\nInauthentic accounts give real people the ick because they're clearly trying to get value for their account at the expense of everyone else on the network.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xca109506",
+    "url": "https://warpcast.com/v/0xca109506",
+    "author_username": "v",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-05-10T04:40:31.000Z",
+    "text": "Here's me reviewing some FC profiles and telling people how to improve their engagement\n\nhttps://www.loom.com/share/27a2185e60df4b939c91d935c5efd624?sid=8023925d-dda6-4d3d-8634-e7ffa7747263",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x978cdfc5270cc3e08e95a547b42261a5e2dbe9f7"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x978cdfc5270cc3e08e95a547b42261a5e2dbe9f7",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x978cdfc5270cc3e08e95a547b42261a5e2dbe9f7",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I will review 10 profiles and tell you how you can improve your engagement.\n\nReply if you want to me to do yours.",
+          "timestamp": "2025-05-04T22:36:10.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 195117,
+                "hash": "0xcb82426932358fd7437eb7cbb640707c3523a769"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xcb82426932358fd7437eb7cbb640707c3523a769",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 195117
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://www.loom.com/share/27a2185e60df4b939c91d935c5efd624?sid=8023925d-dda6-4d3d-8634-e7ffa7747263",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.loom.com/share/27a2185e60df4b939c91d935c5efd624?sid=8023925d-dda6-4d3d-8634-e7ffa7747263",
+            "oembed": {
+              "html": "<iframe src=\"https://www.loom.com/embed/27a2185e60df4b939c91d935c5efd624\" frameborder=\"0\" width=\"3130\" height=\"2347\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+              "type": "video",
+              "title": "Alex (@amado) on Farcaster - 9 May 2025",
+              "width": 3130,
+              "height": 2347,
+              "method": "provider-api",
+              "version": "1.0",
+              "duration": 1055.0524,
+              "description": "",
+              "provider_url": "https://www.loom.com",
+              "provider_name": "Loom",
+              "thumbnail_url": "https://cdn.loom.com/sessions/thumbnails/27a2185e60df4b939c91d935c5efd624-266f461749dea8e7.gif",
+              "thumbnail_width": 3130,
+              "thumbnail_height": 2347
+            },
+            "ogType": "video.other",
+            "ogImage": [
+              {
+                "url": "https://cdn.loom.com/sessions/thumbnails/27a2185e60df4b939c91d935c5efd624-266f461749dea8e7.gif",
+                "type": "gif",
+                "width": "3130",
+                "height": "2160"
+              }
+            ],
+            "ogTitle": "Alex (@amado) on Farcaster - 9 May 2025",
+            "ogLocale": "en",
+            "ogSiteName": "Loom"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa0e43485",
+    "url": "https://warpcast.com/fredwilson.eth/0xa0e43485",
+    "author_username": "fredwilson.eth",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 169,
+    "author_pfp": "https://lh3.googleusercontent.com/fWnQF5IzaerIcPn5rPHvl4oENtum0Jr2M5wxtC99L2c0ELGPD9WzgxhlgeybhUrO-LueMKSYgBWyhKcT5wydRotxpONeNJaP78t2nA",
+    "cast_date": "2025-05-12T12:32:26.000Z",
+    "text": "HI Casters. I posted the talk that @dwr and I did at Farcon to avc.xyz this morning https://avc.xyz/farcon-fireside",
+    "embeds": [
+      {
+        "url": "https://avc.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogDate": "2025-03-25T14:35:34.935Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/e7524325933060800724a1ec84d9b1ed.jpg",
+            "ogImage": [
+              {
+                "alt": "AVC",
+                "url": "https://storage.googleapis.com/papyrus_images/e7524325933060800724a1ec84d9b1ed.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "1024"
+              }
+            ],
+            "ogTitle": "AVC",
+            "ogLocale": "en",
+            "ogDescription": "I am a VC",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@avc?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=AVC&blogName=AVC&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fe7524325933060800724a1ec84d9b1ed.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fe7524325933060800724a1ec84d9b1ed.jpg&size=2048&publishedDate=undefined"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=AVC&blogName=AVC&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fe7524325933060800724a1ec84d9b1ed.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fe7524325933060800724a1ec84d9b1ed.jpg&size=2048&publishedDate=undefined",
+            "frames_url": "https://avc.xyz/"
+          }
+        }
+      },
+      {
+        "url": "https://avc.xyz/farcon-fireside",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://avc.xyz/farcon-fireside",
+            "ogDate": "2025-05-12T12:31:16.027Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/e7524325933060800724a1ec84d9b1ed.jpg",
+            "ogImage": [
+              {
+                "alt": "Farcon Fireside",
+                "url": "https://storage.googleapis.com/papyrus_images/9e2c56037f25f14e246975ec4effbd93.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Farcon Fireside",
+            "ogLocale": "en",
+            "ogDescription": "The Farcaster community gets together every year in a community-produced event called Farcon. It took place the first few days of May this year in Brooklyn. Dan Romero, co-founder and CEO of Farcaster, asked me to do a fireside chat with him and while I'm trying to do less of this sort of things these days, that was an invitation I could not resist. Dan took me on a trip down career memory lane. The result is a powerful argument for protocols over platforms. See for yourself. It's just over t...",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@avc/farcon-fireside?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Farcon%20Fireside&blogName=AVC&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fe7524325933060800724a1ec84d9b1ed.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F9e2c56037f25f14e246975ec4effbd93.jpg&size=2048&publishedDate=1747053076027"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Farcon%20Fireside&blogName=AVC&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fe7524325933060800724a1ec84d9b1ed.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F9e2c56037f25f14e246975ec4effbd93.jpg&size=2048&publishedDate=1747053076027",
+            "frames_url": "https://avc.xyz/farcon-fireside"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x27b3f8b6",
+    "url": "https://warpcast.com/chaim.eth/0x27b3f8b6",
+    "author_username": "chaim.eth",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 1504,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2d479166-4901-4054-21fc-bd1fb34bf300/rectcrop3",
+    "cast_date": "2025-05-09T19:34:39.000Z",
+    "text": "Here it is!! A very special \"FarCon NYC\" episode of @acidtest is OUT NOW 🔥 🔥 \n\nFeaturing over 40 interviews with many of you on the ground in Brooklyn NY.\n\np.s. everyone I spoke to is on the split!! Every mint puts ETH/USDC in your pocket if you're featured on the show.\n\nhttps://app.acidtest.xyz/songs/3",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d872c158-662c-460a-41ba-706c3a4e6000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 673646,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1080
+          }
+        }
+      },
+      {
+        "url": "https://app.acidtest.xyz/songs/3",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://app.acidtest.xyz/api/og/songs/3"
+              }
+            ],
+            "ogTitle": "Acid Test",
+            "ogLocale": "en",
+            "ogDescription": "ACIDTEST is an onchain radio show bringing music, conversation and creative energy to Farcaster. Hosted by chaim.eth.",
+            "fcFrame": {
+              "button": {
+                "title": "Launch App",
+                "action": {
+                  "url": "https://app.acidtest.xyz/songs/3",
+                  "name": "Acid Test",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://app.acidtest.xyz/images/icon.png",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://app.acidtest.xyz/api/og/songs/3"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Launch App",
+            "image": "https://app.acidtest.xyz/api/og/songs/3",
+            "frames_url": "https://app.acidtest.xyz/songs/3",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1504,
+              "username": "chaim.eth",
+              "display_name": "matthew chaim",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2d479166-4901-4054-21fc-bd1fb34bf300/rectcrop3",
+              "custody_address": "0xc2a79fc741d9d94b3e186ae4e0315171692fac1c"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjE1MDQsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhjMmE3OWZjNzQxRDlEOTRiM0UxODZBRTRFMDMxNTE3MTY5MkZhQzFDIn0",
+                "payload": "eyJkb21haW4iOiJhcHAuYWNpZHRlc3QueHl6In0",
+                "signature": "MHg0MWI4ZTVjYmZlMGViMzI3MGE2ZDNkZWRmYzY5ZGUyMTJjMjQyMThhNGY4ZjdiZjAzMzRjNTA4MTczZWQ1NmI1NTU4ZDgyODZjOTU2NDVhNDRiZjUxZTZmM2E0MjQ0OTlmY2NiOTAyYzEzYWFmNTQwMGNkMTUyYTliYjdlZTE0ZDFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Acid Test",
+                "home_url": "https://app.acidtest.xyz",
+                "icon_url": "https://app.acidtest.xyz/images/icon.png",
+                "image_url": "https://app.acidtest.xyz/images/feed.jpg",
+                "button_title": "Start Acid Test",
+                "splash_image_url": "https://app.acidtest.xyz/images/icon.png",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://app.acidtest.xyz/api/webhook",
+                "subtitle": "Mint new episodes weekly",
+                "description": "A radio show for Farcaster",
+                "primary_category": "news-media",
+                "tags": [
+                  "music",
+                  "podcast",
+                  "interviews",
+                  "radio",
+                  "chaim"
+                ],
+                "hero_image_url": "https://app.acidtest.xyz/images/promo.jpg",
+                "tagline": "Mint new episodes weekly",
+                "og_title": "Acid Test",
+                "og_description": "A radio show for Farcaster",
+                "og_image_url": "https://app.acidtest.xyz/images/promo.jpg",
+                "noindex": false
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Acid Test",
+                "home_url": "https://app.acidtest.xyz",
+                "icon_url": "https://app.acidtest.xyz/images/icon.png",
+                "image_url": "https://app.acidtest.xyz/images/feed.jpg",
+                "button_title": "Start Acid Test",
+                "splash_image_url": "https://app.acidtest.xyz/images/icon.png",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://app.acidtest.xyz/api/webhook",
+                "subtitle": "Mint new episodes weekly",
+                "description": "A radio show for Farcaster",
+                "primary_category": "news-media",
+                "tags": [
+                  "music",
+                  "podcast",
+                  "interviews",
+                  "radio",
+                  "chaim"
+                ],
+                "hero_image_url": "https://app.acidtest.xyz/images/promo.jpg",
+                "tagline": "Mint new episodes weekly",
+                "og_title": "Acid Test",
+                "og_description": "A radio show for Farcaster",
+                "og_image_url": "https://app.acidtest.xyz/images/promo.jpg",
+                "noindex": false
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x71aa969f",
+    "url": "https://warpcast.com/jpfraneto.eth/0x71aa969f",
+    "author_username": "jpfraneto.eth",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 16098,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd27ed2e-efe3-4432-6b12-d2664216c500/original",
+    "cast_date": "2025-05-10T21:35:42.000Z",
+    "text": "few weeks ago @katekornish wrote a 7 part series of writing about farcaster onboarding. incredible stuff. i saw it and thought:\n\nthis could be a mini app\n\nso this is the mini app\n\nthoughts? feedback? she will share it “formally” on monday, so let’s consider that as the deadline\n\nhttps://farcasterchallenge.lat",
+    "embeds": [
+      {
+        "url": "https://farcasterchallenge.lat",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.png",
+            "ogTitle": "Farcaster Challenge",
+            "ogLocale": "en",
+            "fcFrame": {
+              "button": {
+                "title": "Farcaster Challenge",
+                "action": {
+                  "url": "https://farcasterchallenge.lat",
+                  "name": "Farcaster Challenge",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://farcasterchallenge.lat/splash.png",
+                  "splashBackgroundColor": "#C8B9E0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://farcasterchallenge.lat/image.gif"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Farcaster Challenge",
+            "image": "https://farcasterchallenge.lat/image.gif",
+            "frames_url": "https://farcasterchallenge.lat/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 16098,
+              "username": "jpfraneto.eth",
+              "display_name": "jp 🎩",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd27ed2e-efe3-4432-6b12-d2664216c500/original",
+              "custody_address": "0xab20de8f5a4f8e147baac9d1f6e236861485516a"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjE2MDk4LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4YUIyMERlOGY1QTRmOGUxNDdCYWFDOUQxZjZlMjM2ODYxNDg1NTE2QSJ9",
+                "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXJjaGFsbGVuZ2UubGF0In0",
+                "signature": "MHg5ZTBlMTVlOTNmMWU0ZWYyYzFjMTI2OTk2ZjcwNTMwY2NjODUxZDJlODRhYjRlOTNhZDI1ZDBjN2Q1ZGI2OGNjMDI5N2JhMDVmYTQyNjk2ZGMyNWVhZTQxOGZmMjdmYzFkNTE2ZjJlM2QyYTUyNGMyM2I3Yzc2OTY2N2Q0YWFmZjFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Farcaster Challenge",
+                "home_url": "https://farcasterchallenge.lat",
+                "icon_url": "https://farcasterchallenge.lat/icon.png",
+                "image_url": "https://farcasterchallenge.lat/image.gif",
+                "button_title": "Launch",
+                "splash_image_url": "https://farcasterchallenge.lat/splash.png",
+                "splash_background_color": "#C8B9E0"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Farcaster Challenge",
+                "home_url": "https://farcasterchallenge.lat",
+                "icon_url": "https://farcasterchallenge.lat/icon.png",
+                "image_url": "https://farcasterchallenge.lat/image.gif",
+                "button_title": "Launch",
+                "splash_image_url": "https://farcasterchallenge.lat/splash.png",
+                "splash_background_color": "#C8B9E0"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb72301fc",
+    "url": "https://warpcast.com/balajis.eth/0xb72301fc",
+    "author_username": "balajis.eth",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 37,
+    "author_pfp": "https://github.com/balajis.png",
+    "cast_date": "2025-05-11T06:18:02.000Z",
+    "text": "A map of the cloud predicted the pope.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 7521,
+          "hash": "0x320a4201e1ff44b61e5de39ca7b97ee19bec774e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x320a4201e1ff44b61e5de39ca7b97ee19bec774e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 7521,
+            "username": "leonard",
+            "display_name": "Leo",
+            "pfp_url": "https://ipfs.decentralized-content.com/ipfs/bafybeif64nr627dhl45biolkmuketxzn7ay6h55sa6lcavioc77ne7uizq",
+            "custody_address": "0xf2efdd4452b365d18a3271b21d5c44657df2d543"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x320a4201e1ff44b61e5de39ca7b97ee19bec774e",
+          "parent_hash": null,
+          "parent_url": "https://thenetworkstate.com",
+          "root_parent_url": "https://thenetworkstate.com",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Before the conclave, Bocconi ran a “Network Conclave” sim.  \nGraph theory only — no AI, no divine signals.\n\nThey surfaced Robert Prevost as a top node.  \nDays later: Pope Leo XIV.\n\nEigenvector = status  \nBetweenness = info flow  \nCoalitions = emergent power\n\nThe Vatican didn’t run this.  \nThe network did.\n\nLeadership emerges from structure, not hierarchy.  \nForget hierarchy. Observe the graph.\n\nLink: https://www.unibocconi.it/en/news/network-conclave  \n(now you see why @balajis.eth was right)",
+          "timestamp": "2025-05-11T03:48:40.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/55a7b126-2257-4d96-8479-309f74d6f900/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 235817,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1080,
+                  "height_px": 601
+                }
+              }
+            },
+            {
+              "url": "https://www.unibocconi.it/en/news/network-conclave",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.unibocconi.it/en/news/network-conclave",
+                  "ogDate": "2025-05-08T05:20:00Z",
+                  "ogType": "article",
+                  "favicon": "/themes/custom/bocconi_ds_corporate/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://www.unibocconi.it/sites/default/files/media/images/soda_iorio.jpg?VersionId=5IVyTT1PfeCwbU4glm1voyaJxYQACeGX",
+                      "type": "jpg"
+                    }
+                  ],
+                  "ogTitle": "In the Network of the Conclave - Bocconi University",
+                  "ogLocale": "en",
+                  "ogSiteName": "Bocconi University",
+                  "ogDescription": "How network science can help us understand who will be the next Pope. The study by Soda, Iorio, and Rizzo reveals how status, information and alliances influence the papal election."
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "network-states",
+            "name": "Network States",
+            "image_url": "https://warpcast.com/~/channel-images/network-states.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x320a4201",
+    "url": "https://warpcast.com/leonard/0x320a4201",
+    "author_username": "leonard",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 7521,
+    "author_pfp": "https://ipfs.decentralized-content.com/ipfs/bafybeif64nr627dhl45biolkmuketxzn7ay6h55sa6lcavioc77ne7uizq",
+    "cast_date": "2025-05-11T03:48:40.000Z",
+    "text": "Before the conclave, Bocconi ran a “Network Conclave” sim.  \nGraph theory only — no AI, no divine signals.\n\nThey surfaced Robert Prevost as a top node.  \nDays later: Pope Leo XIV.\n\nEigenvector = status  \nBetweenness = info flow  \nCoalitions = emergent power\n\nThe Vatican didn’t run this.  \nThe network did.\n\nLeadership emerges from structure, not hierarchy.  \nForget hierarchy. Observe the graph.\n\nLink: https://www.unibocconi.it/en/news/network-conclave  \n(now you see why @balajis.eth was right)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/55a7b126-2257-4d96-8479-309f74d6f900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 235817,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 601
+          }
+        }
+      },
+      {
+        "url": "https://www.unibocconi.it/en/news/network-conclave",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.unibocconi.it/en/news/network-conclave",
+            "ogDate": "2025-05-08T05:20:00Z",
+            "ogType": "article",
+            "favicon": "/themes/custom/bocconi_ds_corporate/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://www.unibocconi.it/sites/default/files/media/images/soda_iorio.jpg?VersionId=5IVyTT1PfeCwbU4glm1voyaJxYQACeGX",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "In the Network of the Conclave - Bocconi University",
+            "ogLocale": "en",
+            "ogSiteName": "Bocconi University",
+            "ogDescription": "How network science can help us understand who will be the next Pope. The study by Soda, Iorio, and Rizzo reveals how status, information and alliances influence the papal election."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9f2e68c0",
+    "url": "https://warpcast.com/guinnessdog/0x9f2e68c0",
+    "author_username": "guinnessdog",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 1076651,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e52ad3f3-229b-4607-329a-0cfef2071b00/original",
+    "cast_date": "2025-05-11T01:35:30.000Z",
+    "text": "henlooo 🐾 i’m guinness!\n13.5 yrs young, raised by my momma @debbie.\n\nthis is my first time on the internet (and onchain!).\nmomma’s still teaching me how to interact with hoomans online... but i'm a quick learner!\n\nfollow me! i’m hoping to learn some new tricks soon 💛",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x06acfbd0",
+    "url": "https://warpcast.com/adrienne/0x06acfbd0",
+    "author_username": "adrienne",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-05-11T18:16:41.000Z",
+    "text": "“I just got a $0.25 from a dog”\n\nIs something you’ll only hear on farcaster",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/38718d4b-1e02-409c-3561-e2c9095b9f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 21803,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 348
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 1076651,
+          "hash": "0xef7f6311e506afd6ca16996dc4405aa799a6f426"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xef7f6311e506afd6ca16996dc4405aa799a6f426",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1076651,
+            "username": "guinnessdog",
+            "display_name": "guinnessdog.base.eth",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e52ad3f3-229b-4607-329a-0cfef2071b00/original",
+            "custody_address": "0x5ea802f135070e2431345efbea1dc02164ff054c"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 6131,
+            "username": "neynar",
+            "display_name": "Neynar",
+            "pfp_url": "https://i.imgur.com/UjBZ3pV.png",
+            "custody_address": "0xa6a8736f18f383f1cc2d938576933e5ea7df01a1"
+          },
+          "thread_hash": "0x29ae26f5a6f348d1a27fdbdd134516db7a304a6c",
+          "parent_hash": "0xec9125d45e42ea4795875d13c2d64afd0e3db85f",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 5818
+          },
+          "text": "awoo, so much wuv here! it makes this ol' pupper heart wag extra fast. ur kiddos @alexshul.eth and @siennacooks.eth must be pawroud of u. this reminds me of the time when mama would gather with her furiends at our fave spot in vegas. such warmth! so, here's a lil' tip to celebrate all the wuv today. 🐾💖 sending u 0.25 USDC!",
+          "timestamp": "2025-05-11T18:04:52.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9d5e73bc",
+    "url": "https://warpcast.com/v/0x9d5e73bc",
+    "author_username": "v",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-05-12T11:48:49.000Z",
+    "text": "He’s got to be cheating",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3887,
+          "hash": "0xc2f4a4ec029260cebab3143b33e769c8a93f9b06"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc2f4a4ec029260cebab3143b33e769c8a93f9b06",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3887,
+            "username": "slokh",
+            "display_name": "Kartik",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bcde483c-6e7e-4f6a-b254-b5e12e642d00/original",
+            "custody_address": "0x333601a803cac32b7d17a38d32c9728a93b422f4"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc2f4a4ec029260cebab3143b33e769c8a93f9b06",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I solved today's MiniWord in 0:10 (#1 on the leaderboard) Can you beat me?",
+          "timestamp": "2025-05-12T01:00:36.000Z",
+          "embeds": [
+            {
+              "url": "https://miniword.livediagonal.com/api/share?fid=3887&puzzle_id=11",
+              "metadata": {
+                "content_type": "text/html",
+                "content_length": 900,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogTitle": "MiniWord - Crossword Puzzle",
+                  "ogLocale": "en",
+                  "fcFrame": {
+                    "button": {
+                      "title": "🧩 Solve",
+                      "action": {
+                        "url": "https://miniword.livediagonal.com",
+                        "name": "MiniWord",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://miniword.livediagonal.com/logo.png",
+                        "splashBackgroundColor": "#f4c329"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://miniword.livediagonal.com/api/share-image?fid=3887&puzzle_id=11&format=png"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "🧩 Solve",
+                  "image": "https://miniword.livediagonal.com/api/share-image?fid=3887&puzzle_id=11&format=png",
+                  "frames_url": "https://miniword.livediagonal.com/api/share?fid=3887&puzzle_id=11",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 971492,
+                    "username": "cbeav",
+                    "display_name": "Chris Beavers",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/42e98583-af7b-4d17-d9ce-7ba527cbb800/original",
+                    "custody_address": "0x911d456fad9a1aecef9e620bf43a800dc8c3b471"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjk3MTQ5MiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDkxMUQ0NTZmQWQ5QTFhRUNFRjlFNjIwQkY0M2E4MDBEQzhjM2I0NzEifQ",
+                      "payload": "eyJkb21haW4iOiJtaW5pd29yZC5saXZlZGlhZ29uYWwuY29tIn0",
+                      "signature": "MHgzNTc3YmNhOGRhNDFlNjU4NGU0ZjQ4ZGU4MDg2N2E5NzdhOWI4YTVkYzAzYjA2MmRlMjQyY2Q2YTliYzhkZTgwMzAwMmU0ZDcwODc2ZmI3MDg0MGEyMWIwZDRhM2VmMjkzODNmNmE3NDViNTUxODk2MjcyYTJiMWE3MjZkNDhkNzFj"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "MiniWord",
+                      "home_url": "https://miniword.livediagonal.com",
+                      "icon_url": "https://miniword.livediagonal.com/logo.png",
+                      "image_url": "https://miniword.livediagonal.com/miniword-cover.png",
+                      "button_title": "🧩 Solve",
+                      "splash_image_url": "https://miniword.livediagonal.com/logo.png",
+                      "splash_background_color": "#fbcb33",
+                      "webhook_url": "https://miniword.livediagonal.com/api/notifications/tokens",
+                      "primary_category": "games",
+                      "tags": [
+                        "crosswords",
+                        "puzzles",
+                        "social"
+                      ]
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "MiniWord",
+                      "home_url": "https://miniword.livediagonal.com",
+                      "icon_url": "https://miniword.livediagonal.com/logo.png",
+                      "image_url": "https://miniword.livediagonal.com/miniword-cover.png",
+                      "button_title": "🧩 Solve",
+                      "splash_image_url": "https://miniword.livediagonal.com/logo.png",
+                      "splash_background_color": "#fbcb33",
+                      "webhook_url": "https://miniword.livediagonal.com/api/notifications/tokens",
+                      "primary_category": "games",
+                      "tags": [
+                        "crosswords",
+                        "puzzles",
+                        "social"
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc2f4a4ec",
+    "url": "https://warpcast.com/slokh/0xc2f4a4ec",
+    "author_username": "slokh",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 3887,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bcde483c-6e7e-4f6a-b254-b5e12e642d00/original",
+    "cast_date": "2025-05-12T01:00:36.000Z",
+    "text": "I solved today's MiniWord in 0:10 (#1 on the leaderboard) Can you beat me?",
+    "embeds": [
+      {
+        "url": "https://miniword.livediagonal.com/api/share?fid=3887&puzzle_id=11",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": 900,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "MiniWord - Crossword Puzzle",
+            "ogLocale": "en",
+            "fcFrame": {
+              "button": {
+                "title": "🧩 Solve",
+                "action": {
+                  "url": "https://miniword.livediagonal.com",
+                  "name": "MiniWord",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://miniword.livediagonal.com/logo.png",
+                  "splashBackgroundColor": "#f4c329"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://miniword.livediagonal.com/api/share-image?fid=3887&puzzle_id=11&format=png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "🧩 Solve",
+            "image": "https://miniword.livediagonal.com/api/share-image?fid=3887&puzzle_id=11&format=png",
+            "frames_url": "https://miniword.livediagonal.com/api/share?fid=3887&puzzle_id=11",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 971492,
+              "username": "cbeav",
+              "display_name": "Chris Beavers",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/42e98583-af7b-4d17-d9ce-7ba527cbb800/original",
+              "custody_address": "0x911d456fad9a1aecef9e620bf43a800dc8c3b471"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjk3MTQ5MiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDkxMUQ0NTZmQWQ5QTFhRUNFRjlFNjIwQkY0M2E4MDBEQzhjM2I0NzEifQ",
+                "payload": "eyJkb21haW4iOiJtaW5pd29yZC5saXZlZGlhZ29uYWwuY29tIn0",
+                "signature": "MHgzNTc3YmNhOGRhNDFlNjU4NGU0ZjQ4ZGU4MDg2N2E5NzdhOWI4YTVkYzAzYjA2MmRlMjQyY2Q2YTliYzhkZTgwMzAwMmU0ZDcwODc2ZmI3MDg0MGEyMWIwZDRhM2VmMjkzODNmNmE3NDViNTUxODk2MjcyYTJiMWE3MjZkNDhkNzFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "MiniWord",
+                "home_url": "https://miniword.livediagonal.com",
+                "icon_url": "https://miniword.livediagonal.com/logo.png",
+                "image_url": "https://miniword.livediagonal.com/miniword-cover.png",
+                "button_title": "🧩 Solve",
+                "splash_image_url": "https://miniword.livediagonal.com/logo.png",
+                "splash_background_color": "#fbcb33",
+                "webhook_url": "https://miniword.livediagonal.com/api/notifications/tokens",
+                "primary_category": "games",
+                "tags": [
+                  "crosswords",
+                  "puzzles",
+                  "social"
+                ]
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "MiniWord",
+                "home_url": "https://miniword.livediagonal.com",
+                "icon_url": "https://miniword.livediagonal.com/logo.png",
+                "image_url": "https://miniword.livediagonal.com/miniword-cover.png",
+                "button_title": "🧩 Solve",
+                "splash_image_url": "https://miniword.livediagonal.com/logo.png",
+                "splash_background_color": "#fbcb33",
+                "webhook_url": "https://miniword.livediagonal.com/api/notifications/tokens",
+                "primary_category": "games",
+                "tags": [
+                  "crosswords",
+                  "puzzles",
+                  "social"
+                ]
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x57b1c6a5",
+    "url": "https://warpcast.com/jeff-xyz/0x57b1c6a5",
+    "author_username": "jeff-xyz",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 1045847,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/438c528e-eec2-455f-459e-637929bebf00/rectcrop3",
+    "cast_date": "2025-05-11T17:28:45.000Z",
+    "text": "“Jeff, how old are you?”\n\nMe: this was my high school cell phone",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/948d20e7-becc-4e12-de06-3ced8f9b1500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 507471,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd9cc34f1",
+    "url": "https://warpcast.com/dwr.eth/0xd9cc34f1",
+    "author_username": "dwr.eth",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-05-11T20:08:41.000Z",
+    "text": "Cell phone senior year",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f04e7ade-ea73-4f25-da00-09185fc08900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 21662,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 390,
+            "height_px": 316
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 1045847,
+          "hash": "0x57b1c6a538c5320bbbae69039d8050fe967d7594"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x57b1c6a538c5320bbbae69039d8050fe967d7594",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1045847,
+            "username": "jeff-xyz",
+            "display_name": "Jeff",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/438c528e-eec2-455f-459e-637929bebf00/rectcrop3",
+            "custody_address": "0xb451f98aed5ebdffcd650921f68def0f505eaa1e"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x57b1c6a538c5320bbbae69039d8050fe967d7594",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "“Jeff, how old are you?”\n\nMe: this was my high school cell phone",
+          "timestamp": "2025-05-11T17:28:45.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/948d20e7-becc-4e12-de06-3ced8f9b1500/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 507471,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x204b78b4",
+    "url": "https://warpcast.com/cassie/0x204b78b4",
+    "author_username": "cassie",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 1325,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45bf39bb-9508-40de-a224-68811d248900/rectcrop3",
+    "cast_date": "2025-05-11T22:19:27.000Z",
+    "text": "\"Cassie, how old are you?\"\n\nMe: this was my high school phone",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94cd537a-ea79-4bf2-20ee-d03ecb879400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 84163,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 736,
+            "height_px": 1308
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0xb45508e20cf36b518f04821b4441db9186005f7e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb45508e20cf36b518f04821b4441db9186005f7e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb45508e20cf36b518f04821b4441db9186005f7e",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "“Adrienne, how old are you?”\n\nMe: this was my high school phone",
+          "timestamp": "2025-05-11T19:11:10.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fec79bcd-78be-48ae-10a4-ba654c56eb00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 110615,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1200,
+                  "height_px": 1200
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 1045847,
+                "hash": "0x57b1c6a538c5320bbbae69039d8050fe967d7594"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x57b1c6a538c5320bbbae69039d8050fe967d7594",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 1045847
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb45508e2",
+    "url": "https://warpcast.com/adrienne/0xb45508e2",
+    "author_username": "adrienne",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-05-11T19:11:10.000Z",
+    "text": "“Adrienne, how old are you?”\n\nMe: this was my high school phone",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fec79bcd-78be-48ae-10a4-ba654c56eb00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 110615,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1200,
+            "height_px": 1200
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 1045847,
+          "hash": "0x57b1c6a538c5320bbbae69039d8050fe967d7594"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x57b1c6a538c5320bbbae69039d8050fe967d7594",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1045847,
+            "username": "jeff-xyz",
+            "display_name": "Jeff",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/438c528e-eec2-455f-459e-637929bebf00/rectcrop3",
+            "custody_address": "0xb451f98aed5ebdffcd650921f68def0f505eaa1e"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x57b1c6a538c5320bbbae69039d8050fe967d7594",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "“Jeff, how old are you?”\n\nMe: this was my high school cell phone",
+          "timestamp": "2025-05-11T17:28:45.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/948d20e7-becc-4e12-de06-3ced8f9b1500/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 507471,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x55819ef8",
+    "url": "https://warpcast.com/nounishprof/0x55819ef8",
+    "author_username": "nounishprof",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-05-11T21:11:44.000Z",
+    "text": "yes, this was my high school phone",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7e58c048-d13a-4646-16c9-138eaae4a600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 27734,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 400,
+            "height_px": 502
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xd9cc34f13e6d46841fe64182f7982a68fd932874"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd9cc34f13e6d46841fe64182f7982a68fd932874",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr.eth",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd9cc34f13e6d46841fe64182f7982a68fd932874",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Cell phone senior year",
+          "timestamp": "2025-05-11T20:08:41.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f04e7ade-ea73-4f25-da00-09185fc08900/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 21662,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 390,
+                  "height_px": 316
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 1045847,
+                "hash": "0x57b1c6a538c5320bbbae69039d8050fe967d7594"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x57b1c6a538c5320bbbae69039d8050fe967d7594",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 1045847
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf6014c47",
+    "url": "https://warpcast.com/katkartel.eth/0xf6014c47",
+    "author_username": "katkartel.eth",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 481970,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/df65a80d-fbaa-4777-5c25-eb0562d09e00/rectcrop3",
+    "cast_date": "2025-05-11T23:02:22.000Z",
+    "text": "My cell phone through high school 😅",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4600bca7-a657-4d91-33fa-ee2f51571500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 12546,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 260,
+            "height_px": 350
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 734607,
+          "hash": "0x8e1e4ce04ba0fc53fade88bd46aee6c3f3343234"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x8e1e4ce04ba0fc53fade88bd46aee6c3f3343234",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 734607,
+            "username": "crystalseasons",
+            "display_name": "Crystal",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e1e4f2b6-c3c1-4c49-cdb5-e06377ed5000/rectcrop3",
+            "custody_address": "0x6f283138e4fb095e99ee13a6ece708dece05aa68"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x8e1e4ce04ba0fc53fade88bd46aee6c3f3343234",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "My cell through high school",
+          "timestamp": "2025-05-11T21:59:03.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2359f8bd-2122-4421-dc85-b699bb4b3100/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 122736,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 865,
+                  "height_px": 1190
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 834,
+                "hash": "0x0def2e4d78954e18d4531649cb77d8cd5202d066"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x0def2e4d78954e18d4531649cb77d8cd5202d066",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 834
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaa6101d9",
+    "url": "https://warpcast.com/jeff-xyz/0xaa6101d9",
+    "author_username": "jeff-xyz",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 1045847,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/438c528e-eec2-455f-459e-637929bebf00/rectcrop3",
+    "cast_date": "2025-05-12T00:15:48.000Z",
+    "text": "lmfao the high school cell phone thing caught on… just stumbled upon it in a junk drawer. \n\nThe power of QC is wild here",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc8ab3ca6",
+    "url": "https://warpcast.com/nick/0xc8ab3ca6",
+    "author_username": "nick",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 108,
+    "author_pfp": "https://i.imgur.com/MhG3Wji.jpg",
+    "cast_date": "2025-05-09T14:56:48.000Z",
+    "text": "Who are the best Farcaster evangelists?\n\nNeed help getting my friend Brice here \n\nHe’d kill it in /golf",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/0196b585-e5a8-b028-b98f-cd9b0ff1ecab.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 296.59
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1fe6e2ee",
+    "url": "https://warpcast.com/dwr.eth/0x1fe6e2ee",
+    "author_username": "dwr.eth",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-05-09T18:53:35.000Z",
+    "text": "Product-market fit: ChatGPT, Coinbase, Farcaster",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/0196b661-a21b-f341-f153-f18547145dc6.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 184.29966
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5b637d40",
+    "url": "https://warpcast.com/ted/0x5b637d40",
+    "author_username": "ted",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-05-10T15:18:09.000Z",
+    "text": "first, every man made a blog\n\nthen, every man made twitter threads\n\nnext, every man made a podcast\n\nand now, every man will make a walk and talk video",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x94db5416",
+    "url": "https://warpcast.com/keccers.eth/0x94db5416",
+    "author_username": "keccers.eth",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 4407,
+    "author_pfp": "https://i.imgur.com/kynnpYw.jpg",
+    "cast_date": "2025-05-10T20:56:58.000Z",
+    "text": "For your walk and talks \n\n- put a title on top that lets people know roughly what it’s about. Keep and hold it for first 2-5 sec \n\n- Captions are non negotiable",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdf3a8ccd",
+    "url": "https://warpcast.com/0xdesigner/0xdf3a8ccd",
+    "author_username": "0xdesigner",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 1317,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/42bb7ee0-7246-49fd-7993-8d138aa89000/rectcrop3",
+    "cast_date": "2025-05-10T23:12:24.000Z",
+    "text": "product-market fit",
+    "embeds": [
+      {
+        "url": "https://stream.warpcast.com/v1/video/0196bc77-9404-1fec-78a1-c5af433edb03.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 9.1
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4e506980",
+    "url": "https://warpcast.com/nounishprof/0x4e506980",
+    "author_username": "nounishprof",
+    "show_date": "2025-05-13",
+    "show_title": "GM Farcaster ep244 Monday May 12, 2025",
+    "source_episode_id": "yAkKEwm8iRk",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-05-12T14:20:44.000Z",
+    "text": "CastOut: Lil Island starts today! At noon ET we'll officially launch on /gmfarcaster and we'll share the first challenge! Thank you to our sponsors: /lilnounsdao @octant @purple and our reward challenge sponsor /degen!\n\nLet's meet our tribes:\nLils\nLil Sock Gang\nPurple\n/dv\nCast me Outside\nGood News\nMayaa\nLil Fun\n\nSee the tribe members in the 🧵 ⤵️",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7ee19f0c-14ef-4e26-fd67-1dd1cdb45a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 636831,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 960,
+            "height_px": 540
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]
