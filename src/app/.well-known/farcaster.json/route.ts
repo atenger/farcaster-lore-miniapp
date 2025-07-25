@@ -3,12 +3,11 @@ import { miniAppConfig } from '../../../lib/config';
 
 export async function GET() {
   const manifest = {
-    // TODO: Add accountAssociation after signing with Farcaster custody address
-    // accountAssociation: {
-    //   header: "...",
-    //   payload: "...", 
-    //   signature: "..."
-    // },
+    "accountAssociation": {
+    "header": "eyJmaWQiOjU4MTgsInR5cGUiOiJhdXRoIiwia2V5IjoiMHhCMUIyMTg4NGFmRTY1ODFGM0M0OTk3YjAzMjA0NjVGMThFOTY4MkMwIn0",
+    "payload": "eyJkb21haW4iOiJsb3JlLmdtZmFyY2FzdGVyLmNvbSJ9",
+    "signature": "mIYJ0xeG8jvxkxWxuJ2sHC160QrkYHfL/vmy6jHo0h4Lf4j8BNMOC/PK0+DCGNev77xL42x8LcSFiHoNfWoarBw="
+    },
     miniapp: {
       version: "1",
       name: "Farcaster Lore",
