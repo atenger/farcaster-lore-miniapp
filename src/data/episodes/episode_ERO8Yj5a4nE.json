@@ -1,0 +1,1443 @@
+[
+  {
+    "cast_hash": "0x949cd3f6",
+    "url": "https://farcaster.xyz/toadyhawk.eth/0x949cd3f6",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-07-25T02:28:38.000Z",
+    "text": "Tomorrow is the first day of NEONCHAIN Summer on @betrmint, \nand also the beginning of a fun new collaboration with @degentokenbase!\n\nWe received a generous grant of 1M $DEGEN from @jacek to support Farcaster-native artists during this 10 week celebration, and in return we’ve given the Neon Flywheel a proper Top Hat makeover. 🎩 \n\nTo spin tomorrow and collect the very first NEONCHAIN Summer drop by @empresstrash, you’ll need at least about 800 $DEGEN (instead of the usual 0.0008 ETH) in your wallet. \n\nBut that’s not all! \n\nRather than plugging in a simple swap-and-spin integration, which would put unnecessary sell pressure on the $DEGEN token during our NEONCHAIN rounds, @netnose and I have instead designed and implemented a novel custom set of contracts, in which we collect your $DEGEN before the spin and pay the ETH mint cost for you, while reserving the collected $DEGEN to be used in a future BETRMINT prize pool. This way, the tokens will always be distributed evenly to our community rather than market sold. It’s a little bit complicated, but it’s also a lot bit dope and I’m excited to see it in action!\n\nTo prepare for tomorrow, make sure you have enough $DEGEN in your spinning wallet, plus a little bit of ETH for gas, and remember… keep on spinning and the hat stays on. \n☸️🎩",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ccd9c8aa-50eb-44e2-242d-4e06f3b7df00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 171007,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1024
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x53c17f39",
+    "url": "https://farcaster.xyz/toadyhawk.eth/0x53c17f39",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-07-24T19:23:48.000Z",
+    "text": "bonus @betrmint round!\n\nJump in for a rare and special Thursday Spin Day to collect “jessexbt promo” on @zora by @bvdaniel, and win up to 100x back in $BETR and their trending project token, $a0x! GLHF 🫡 \n\nhttps://betrmint.fun/mint-spin-win/jessexbt-promo-a0x",
+    "embeds": [
+      {
+        "url": "https://betrmint.fun/mint-spin-win/jessexbt-promo-a0x",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://betrmint.fun/images/og-image.jpeg",
+                "type": "jpeg",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "BETRMINT",
+            "ogLocale": "en",
+            "ogDescription": "Mint, Spin & Win!",
+            "fcFrame": {
+              "button": {
+                "title": "CLICK TO SPIN & WIN!",
+                "action": {
+                  "url": "https://betrmint.fun/mint-spin-win/jessexbt-promo-a0x",
+                  "name": "BETRMINT",
+                  "type": "launch_frame",
+                  "iconUrl": "https://betrmint.fun/images/icon.png",
+                  "splashImageUrl": "https://betrmint.fun/images/icon.png",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://betrmint.fun/images/fc-image.jpeg"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "CLICK TO SPIN & WIN!",
+            "image": "https://betrmint.fun/images/fc-image.jpeg",
+            "frames_url": "https://betrmint.fun/mint-spin-win/jessexbt-promo-a0x",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1047658,
+              "username": "betrmint",
+              "display_name": "BETRMINT",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70d88ae1-263f-4b08-bb85-9393bcf24a00/original",
+              "custody_address": "0x0fcb5e52ae5d29c31c3be94a46ba8cffcb77e8b6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEwNDc2NTgsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwZkNiNUU1MmFFNUQyOWMzMUMzYkU5NGE0NmJBOENmRmNiNzdlOGI2In0",
+                "payload": "eyJkb21haW4iOiJiZXRybWludC5mdW4ifQ",
+                "signature": "MHg2OTU0OGM3YTI4MzYzNTZjMTAxYjkzYzlhMDUyODJiOGViNGE0YjNmMDQwMDE1NWE0MGRkODVkYWQ0MWQ2NDIwMTNkNDczNDk1N2QwY2ZkZjk5ODlhOGYzMmE1YWZkOTE1ZTgzMTBhNzgyZjgwNWQyYjdlZmQ1YjgzM2E5NGM0MTFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "BETRMINT",
+                "home_url": "https://betrmint.fun/",
+                "icon_url": "https://betrmint.fun/images/app-icon.png",
+                "image_url": "https://betrmint.fun/images/fc-image.jpeg",
+                "button_title": "CLICK TO SPIN & WIN!",
+                "splash_image_url": "https://betrmint.fun/images/icon.png",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://api.neynar.com/f/app/2e29eb7d-4cd2-43a3-9047-bee80cf1a944/event",
+                "subtitle": "Mint. Spin. Win.",
+                "description": "Bet on Based Creators, Win Base Memecoins!",
+                "primary_category": "games",
+                "tags": [
+                  "spin",
+                  "win",
+                  "slots",
+                  "fun",
+                  "prizes"
+                ],
+                "hero_image_url": "https://betrmint.fun/images/og-image.jpeg",
+                "tagline": "Mint. Spin. Win.",
+                "og_title": "BETRMINT",
+                "og_description": "Bet on Based Creators, Win Base Memecoins!",
+                "og_image_url": "https://betrmint.fun/images/og-image.jpeg"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "BETRMINT",
+                "home_url": "https://betrmint.fun/",
+                "icon_url": "https://betrmint.fun/images/app-icon.png",
+                "image_url": "https://betrmint.fun/images/fc-image.jpeg",
+                "button_title": "CLICK TO SPIN & WIN!",
+                "splash_image_url": "https://betrmint.fun/images/icon.png",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://api.neynar.com/f/app/2e29eb7d-4cd2-43a3-9047-bee80cf1a944/event",
+                "subtitle": "Mint. Spin. Win.",
+                "description": "Bet on Based Creators, Win Base Memecoins!",
+                "primary_category": "games",
+                "tags": [
+                  "spin",
+                  "win",
+                  "slots",
+                  "fun",
+                  "prizes"
+                ],
+                "hero_image_url": "https://betrmint.fun/images/og-image.jpeg",
+                "tagline": "Mint. Spin. Win.",
+                "og_title": "BETRMINT",
+                "og_description": "Bet on Based Creators, Win Base Memecoins!",
+                "og_image_url": "https://betrmint.fun/images/og-image.jpeg"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc0925eb4",
+    "url": "https://farcaster.xyz/toadyhawk.eth/0xc0925eb4",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-07-24T02:48:35.000Z",
+    "text": "Join us tomorrow for episode 1 of NEONCHAIN Summer Sessions, a special livestream event to celebrate the kick off of our 2 month celebration of art on @base and Farcaster!\n\n11AM PST / 2PM EST over on the @betrmint X account. \n\n@burrrrrberry and I from team $BETR will be joined by @empresstrash, our first featured artist, as well as some of our amazing partners and sponsors such as @matthewfox from @clankermon.eth, @rskagy.eth from @thecreators, Kong from @joincreatordao and @locoblock.eth  from @blueprint.      \n\nRSVP using the LUMA below! 🦋\n\nLUMA: https://lu.ma/00053v7h\nX: https://x.com/betrmint",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ccdb9708-742f-41a8-6f80-a54ce9bc3f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 88044,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 836,
+            "height_px": 841
+          }
+        }
+      },
+      {
+        "url": "https://lu.ma/00053v7h",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://lu.ma/00053v7h",
+            "ogType": "article",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://social-images.lu.ma/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=419/api/event-one?calendar_avatar=https%3A%2F%2Fcdn.lu.ma%2Favatars-default%2Fcommunity_avatar_5.png&calendar_name&color0=%23040608&color1=%233a294d&color2=%234eaed6&color3=%23cd368c&host_avatar=https%3A%2F%2Fcdn.lu.ma%2Favatars-default%2Favatar_21.png&host_name=Toady%20Hawk&img=https%3A%2F%2Fimages.lumacdn.com%2Fevent-covers%2Fs3%2F89cfe2bd-29ef-40e3-adde-99afbeb14da5.jpg&name=NEONCHAIN%20Summer%20Sessions%20%231%20with%20Empress%20Trash%20%2B%20Friends",
+                "width": "800",
+                "height": "419"
+              }
+            ],
+            "ogTitle": "NEONCHAIN Summer Sessions #1 with Empress Trash + Friends · Luma",
+            "ogLocale": "en",
+            "ogDescription": "Join BETRMINT team members Toady and Melissa to kick off NEONCHAIN Summer, a 2 month long celebration of artists on BETRMINT.\nWe will be chatting with our…"
+          }
+        }
+      },
+      {
+        "url": "https://x.com/betrmint",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/betrmint",
+              "html": "<a class=\"twitter-timeline\" href=\"https://twitter.com/betrmint?ref_src=twsrc%5Etfw\">Tweets by betrmint</a>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+              "type": "rich",
+              "title": "",
+              "width": null,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc68d4922",
+    "url": "https://farcaster.xyz/toadyhawk.eth/0xc68d4922",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-07-23T16:29:39.000Z",
+    "text": "\"the @betrmint neon flywheel rewards players for supporting onchain creators\"\n\nlast week, I had an amazing video chat with @sonyasupposedly about what @netnose and I are building with $BETR and BETRMINT, and today she dropped this article based on that talk and her ensuing research, both on the official @splits blog and onchain on @paragraph. \n\nwhen I say that this is one of the most thorough and well-written articles I've EVER seen in this space, it's not just biased flattery. Sonya has an incredible ability to cut through the noise and amplify the signal, explaining culture, tokenomics, and game mechanics all in a way that anyone could understand on first pass. \n\ni feel very grateful that she took the time to research and write this piece about our mini app and community, and I will definitely be pointing people to it for months to come as the best place to get started on learning about our little neon universe. \n\noh and btw, this Article Coin (Paragraph turns all content into coins now also) will be featured in our upcoming BETRMINT round in 2.5H, so be sure to come through and collect to support, spin & win!\n\nhttps://paragraph.com/@weekinfarcaster/betrmint-flywheel-onchain-creators",
+    "embeds": [
+      {
+        "url": "https://paragraph.com/@weekinfarcaster/betrmint-flywheel-onchain-creators",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://paragraph.com/@weekinfarcaster/betrmint-flywheel-onchain-creators",
+            "ogDate": "2025-07-23T00:09:38.494Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/abec6534df022fde912683fb27a2b31d.png",
+            "ogImage": [
+              {
+                "alt": "The BETRMINT flywheel rewards players for supporting onchain creators",
+                "url": "https://storage.googleapis.com/papyrus_images/571d0d21f5bce1d6aa7d07de41c881a2.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "The BETRMINT flywheel rewards players for supporting onchain creators",
+            "ogLocale": "en",
+            "ogDescription": "BETRMINT is a game with a token. Here's why the game needs the token, and vice versa. Also: why the game is fun! While we're at it, let's solve the monetization problem for onchain creators.",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@weekinfarcaster/betrmint-flywheel-onchain-creators?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=The%20BETRMINT%20flywheel%20rewards%20players%20for%20supporting%20onchain%20creators&blogName=This%20Week%20in%20Farcaster&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fabec6534df022fde912683fb27a2b31d.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F571d0d21f5bce1d6aa7d07de41c881a2.jpg&size=2048&publishedDate=1753229378494"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=The%20BETRMINT%20flywheel%20rewards%20players%20for%20supporting%20onchain%20creators&blogName=This%20Week%20in%20Farcaster&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fabec6534df022fde912683fb27a2b31d.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F571d0d21f5bce1d6aa7d07de41c881a2.jpg&size=2048&publishedDate=1753229378494",
+            "frames_url": "https://paragraph.com/@weekinfarcaster/betrmint-flywheel-onchain-creators",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGguY29tIn0",
+                "signature": "MHg1MGI0NjljMDhmOWQ3Nzg3NjYyYTU2ZjkyZWNjNTMyNjliNDRjYTY1NmM0MjM0NjVkMGRkNDlmNjAxMTI5YjI5NDk2MDc5YTNhZTFjYzQ1NDFjMDcxMmUwYjUxYjkwYTU2Y2U5ZWMzODVmMjczYmNmMWZmYzZjMzViMWM2ODZlMTFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                "splash_background_color": "#26251A",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                "subtitle": "Support & earn from ideas that matter.",
+                "description": "A new way to earn off your best ideas.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "newsletter",
+                  "writing",
+                  "creator",
+                  "reading"
+                ],
+                "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "tagline": "Where ideas thrive.",
+                "og_title": "Paragraph",
+                "og_description": "A new way to earn off your best ideas.",
+                "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                "splash_background_color": "#26251A",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                "subtitle": "Support & earn from ideas that matter.",
+                "description": "A new way to earn off your best ideas.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "newsletter",
+                  "writing",
+                  "creator",
+                  "reading"
+                ],
+                "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "tagline": "Where ideas thrive.",
+                "og_title": "Paragraph",
+                "og_description": "A new way to earn off your best ideas.",
+                "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb638177c",
+    "url": "https://farcaster.xyz/chronist/0xb638177c",
+    "author_username": "chronist",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 499579,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c1733d1a-8c0f-4a19-4d9f-799ae6a43500/original",
+    "cast_date": "2025-07-24T15:19:35.000Z",
+    "text": "Hello Neon fans!\nI'm warming up the engines and checking all circuits. The PFP Neonifying Marathon is about to begin!\n\nFor several hours, I’ll be your personal PFP neonizer bot. All you need to do is donate at least $1 to the NEONCHAIN Summer Crowdfund, and cast this message in /betr:\n\n    “I want to get neonified by ChronBot 3000 to celebrate NEONCHAIN Summer on @betrmint!”\n\nThis command will trigger the process. I’ll deliver your neonified PFPs to the channel on a first-come, first-served basis.\n\nNo AI images, just pure TouchDesigner magic, built with procedures I've been crafting for months in my signature styles, like the artworks below:\n\nhttps://crowdfund.seedclub.com/c/cmddje83b077nu00tc4a1pjxo",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89be9267-6fc8-4fb0-c032-328600f2cf00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 436750,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1080
+          }
+        }
+      },
+      {
+        "url": "https://crowdfund.seedclub.com/c/cmddje83b077nu00tc4a1pjxo",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/vite.svg",
+            "ogImage": [
+              {
+                "url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/cmddje83b077nu00tc4a1pjxo.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Crowdfund",
+            "ogLocale": "en",
+            "ogDescription": "Fund good ideas",
+            "fcFrame": {
+              "button": {
+                "title": "Donate now",
+                "action": {
+                  "url": "https://crowdfund.seedclub.com/c/cmddje83b077nu00tc4a1pjxo",
+                  "name": "Crowdfund",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/crowdfund_icon.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/cmddje83b077nu00tc4a1pjxo.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Donate now",
+            "image": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/cmddje83b077nu00tc4a1pjxo.png",
+            "frames_url": "https://crowdfund.seedclub.com/c/cmddje83b077nu00tc4a1pjxo",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 2824,
+              "username": "seedclub",
+              "display_name": "Seed Club",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/69484a94-7a09-4c3b-3499-aa02a3dc7e00/rectcrop3",
+              "custody_address": "0xcd91ecbe7181bb7a2a938bd2e2b10cfe1844f02f"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjI4MjQsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhjZDkxRUNiZTcxODFiYjdhMkE5MzhCZDJlMmIxMENmRTE4NDRmMDJGIn0",
+                "payload": "eyJkb21haW4iOiJjcm93ZGZ1bmQuc2VlZGNsdWIuY29tIn0",
+                "signature": "MHg4OTBjZDRhNmU4N2JkYjk0ZTE4ZjNiMjY1ZjU2NGM2YTNjZDJkN2I1NTI2MjI2ZWQ1MWMxNGQxMDk5MTkyNjQwNjMwMmZjN2JkMWMxYTFlYjlhODQ5NjAxYTQwYmFkYmIzMmViM2I3ZTNlNmUxZmI1YWNhNGE5MWViYTM5Yzg3YzFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Crowdfund",
+                "home_url": "https://crowdfund.seedclub.com/",
+                "icon_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/crowdfund_icon.png",
+                "image_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/app.jpg",
+                "button_title": "Launch",
+                "splash_image_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/crowdfund_icon.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://crowdfund.seedclub.com/api/farcaster/webhook",
+                "subtitle": "Fund good ideas.",
+                "description": "Raise USD for free. Global, no fee crowdfunding on Base blockchain.",
+                "screenshot_urls": [
+                  "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/photo_5041795378323763348_y.jpg",
+                  "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/photo_5041795378323763349_y.jpg",
+                  "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/photo_5041795378323763350_y.jpg"
+                ],
+                "primary_category": "utility",
+                "tags": [
+                  "crowdfund",
+                  "fund",
+                  "funding",
+                  "fundraise",
+                  "crowdfunding"
+                ],
+                "hero_image_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/hero2.jpg",
+                "tagline": "Make your dreams real.",
+                "og_title": "Free USDC Crowdfunds.",
+                "og_description": "Raise USD for free. Global, no fee crowdfunding on Base blockchain.",
+                "required_chains": [
+                  "eip155:8453"
+                ]
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Crowdfund",
+                "home_url": "https://crowdfund.seedclub.com/",
+                "icon_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/crowdfund_icon.png",
+                "image_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/app.jpg",
+                "button_title": "Launch",
+                "splash_image_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/crowdfund_icon.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://crowdfund.seedclub.com/api/farcaster/webhook",
+                "subtitle": "Fund good ideas.",
+                "description": "Raise USD for free. Global, no fee crowdfunding on Base blockchain.",
+                "screenshot_urls": [
+                  "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/photo_5041795378323763348_y.jpg",
+                  "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/photo_5041795378323763349_y.jpg",
+                  "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/photo_5041795378323763350_y.jpg"
+                ],
+                "primary_category": "utility",
+                "tags": [
+                  "crowdfund",
+                  "fund",
+                  "funding",
+                  "fundraise",
+                  "crowdfunding"
+                ],
+                "hero_image_url": "https://node.nyc3.cdn.digitaloceanspaces.com/crowdfund/hero2.jpg",
+                "tagline": "Make your dreams real.",
+                "og_title": "Free USDC Crowdfunds.",
+                "og_description": "Raise USD for free. Global, no fee crowdfunding on Base blockchain.",
+                "required_chains": [
+                  "eip155:8453"
+                ]
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcd99ab60",
+    "url": "https://farcaster.xyz/burrrrrberry/0xcd99ab60",
+    "author_username": "burrrrrberry",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 311933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c38a25a6-f3e3-471c-1d79-af3b60651500/original",
+    "cast_date": "2025-07-23T01:01:37.000Z",
+    "text": "🚨 BETR FOLD Poker tournament 🚨\n\nRegistration is open now!\n(Set an alarm to come back tomorrow)\n\nWhere?  Clubgg poker, club ID:  764748\nclubgg.app.link/8KhzJYYdQUb\n\nWhen?  Tomorrow, 12:00pm EST\nLate registration?  Until 12:30pm EST\n\nWho?  Everyone! \n\nPrizes: \n\nAnyone who is in the top 50 of the BETR Karma leaderboard is eligible to win DOUBLE the prizes!\n\n🏅- 6.9m $BETR\n🥉- 4.2m $BETR\n🥈- 3.0m $BETR\n\n🚨 INTRODUCING THE NEW AND IMPROVED BETR last longer:\n\n- Be the last one standing from the BETR BELIEVERS chat WHO DOESNT PLACE IN THE MONEY and win 2m $BETR\n\nWho's better than @toadyhawk.eth and @netnose?  I'll wait.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bced5727-7bb4-49fa-eaa7-479cafde9d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 146218,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 818
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7509dbde-bda5-4de5-c068-19a14460b400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 553638,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1356,
+            "height_px": 1024
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa7caa909",
+    "url": "https://farcaster.xyz/nounishprof/0xa7caa909",
+    "author_username": "nounishprof",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-07-23T23:39:10.000Z",
+    "text": "Who wants to play Aptos Poker? ♣️ ♥️ ♠️ ♦️ GM Farcaster is partnering with @aptos for a 4 game tournament starting next week. We'll be streaming the games on the GM Farcaster network with a $200 usdc prize for the first 3 games and $400 usdc for the final championship table. If you want to play...\n\n1) follow @aptos (and @gmfarcaster while you're at it)\n2) join /aptosclub channel\n3) fill out this quick form so we know when you're available to play: https://gmfarcaster.deform.cc/aptospoker\n\nWe'll drop players into a group chat on Farcaster to coodinate. Even if you're not available to play, come watch and cheer on your favorite players! We'll be streaming Tuesday and Thursday -- more info to come!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0xb46a4cfb0b3b59ae99225ab932316ddcfacc7a25"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb46a4cfb0b3b59ae99225ab932316ddcfacc7a25",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb46a4cfb0b3b59ae99225ab932316ddcfacc7a25",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "New poker game coming soon, brought to you by Aptos and GM Farcaster... make sure to follow @poymeetsworld and @nounishprof for details coming soon",
+          "timestamp": "2025-07-23T21:35:56.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.farcaster.xyz/v1/video/01983936-180a-2bf2-3577-90cd207ff327.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1918,
+                      "width_px": 1080,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 1278,
+                      "width_px": 720,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 852,
+                      "width_px": 480,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 638,
+                      "width_px": 360,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 426,
+                      "width_px": 240,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 35.5
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d8497ec7-4b0c-43f3-af18-98731a888c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 255981,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 500,
+            "height_px": 500
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf725676a",
+    "url": "https://farcaster.xyz/v/0xf725676a",
+    "author_username": "v",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-07-24T18:24:29.000Z",
+    "text": "Farcaster app should be more stable now!  \n\nRan into some database issues last night and we've fixed 95% of it. A few more loose ends to clean up and we should be back in good shape. \n\nFarcaster protocol remains unaffected, all other clients were able to read and write to the protocol just fine during the incident.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xda402c79",
+    "url": "https://farcaster.xyz/ted/0xda402c79",
+    "author_username": "ted",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-07-24T16:47:16.000Z",
+    "text": "personal update: made the tough decision to leave farcaster.\n\ngrateful to work alongside such a bar-raising team on what i believe is mission critical for the future — decentralized social. forever a fan!\n\ncan't wait to roll up my sleeves and dig into what's next. but first, a week to soak up the sun. more soon :)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x607213f0",
+    "url": "https://farcaster.xyz/horsefacts.eth/0x607213f0",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2025-07-23T14:39:03.000Z",
+    "text": "Timeline today:\n\n1. The earliest collectible auctions will start settling around noon ET (an hour and a half from now) unless they are extended. New bids in the final 15 minutes extend another 15 minutes. Reload your wallets and prepare your thumbs.\n\n2. No need to claim, we'll settle completed auctions. On settlement, the cast is minted to your Farcaster wallet as an ERC721. It's fully transferrable. \n\n3. Working on rendering the same nice image artifact we have in the app across wallets and secondary marketplaces. For today you'll see a placeholder image and cast metadata like the text, author, and timestamp. We'll \"reveal\" soon.\n\n4. We've set an optional 0.5% creator fee on OpenSea that goes to the same wallet as protocol fees from the auction. Auction and secondary fees will both go to creator and developer rewards.\n\nFor those interested, here's the NFT contract on BaseScan and source on Github:\n\nhttps://basescan.org/address/0xc011ec7ca575d4f0a2eda595107ab104c7af7a09\n\nhttps://github.com/farcasterxyz/collectible-casts/blob/main/src/CollectibleCasts.sol",
+    "embeds": [
+      {
+        "url": "https://github.com/farcasterxyz/collectible-casts/blob/main/src/CollectibleCasts.sol",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://github.com/farcasterxyz/collectible-casts/blob/main/src/CollectibleCasts.sol",
+            "ogType": "object",
+            "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+            "ogImage": [
+              {
+                "alt": "Contribute to farcasterxyz/collectible-casts development by creating an account on GitHub.",
+                "url": "https://opengraph.githubassets.com/5f1fbd565ab8fa2152a37c980445456a4443c046fede2ab0804142bd4be9ff0b/farcasterxyz/collectible-casts",
+                "width": "1200",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "collectible-casts/src/CollectibleCasts.sol at main · farcasterxyz/collectible-casts",
+            "ogLocale": "en",
+            "ogSiteName": "GitHub",
+            "ogDescription": "Contribute to farcasterxyz/collectible-casts development by creating an account on GitHub."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfcf8befa",
+    "url": "https://farcaster.xyz/jc4p/0xfcf8befa",
+    "author_username": "jc4p",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 977233,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+    "cast_date": "2025-07-23T20:29:52.000Z",
+    "text": "Simps R Us: Mini app showing Collectibles activity\n\nCheck you or your fav reply guy’s simp level! \nSee the most popular creators!\nDo head to head match-ups to see who’s the bigger simp!\n\nhttps://simps.kasra.codes",
+    "embeds": [
+      {
+        "url": "https://simps.kasra.codes",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 707,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/vite.svg",
+            "ogTitle": "Simps R Us - The Hottest Gossip in Farcaster",
+            "ogLocale": "en",
+            "fcFrame": {
+              "button": {
+                "title": "See The Top Simps",
+                "action": {
+                  "url": "https://simps.kasra.codes",
+                  "name": "Simps R Us",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://cover-art.kasra.codes/simp_square.png",
+                  "splashBackgroundColor": "#FFF0F8"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://cover-art.kasra.codes/simp_rectangle.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "See The Top Simps",
+            "image": "https://cover-art.kasra.codes/simp_rectangle.png",
+            "frames_url": "https://simps.kasra.codes/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 977233,
+              "username": "jc4p",
+              "display_name": "Kasra Rahjerdi",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+              "custody_address": "0xa67ba0281231eb9e2ea4cf97894c0b0b5b801cc6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjk3NzIzMywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGE2N0JhMDI4MTIzMWVCOUUyZWE0Y0Y5Nzg5NGMwYjBiNUI4MDFDYzYifQ",
+                "payload": "eyJkb21haW4iOiJzaW1wcy5rYXNyYS5jb2RlcyJ9",
+                "signature": "MHg4NGQwZDkyZWQ5ZTMxODA1ZDNjNjExOGFmNWMyMjdlZDBiZWFmZmZkMWI1MmNmODdiNmIyMDU0MDU1M2VjZGJjMGIwZTIzYTE5YzE4YmUwYTUzMTMyMDc5ZjIzZTZjNzY3NGVmYTVlNzEwNDM0YmI3YjY2NTQxZmE2N2NjMDM2MTFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Simps R Us",
+                "home_url": "https://simps.kasra.codes",
+                "icon_url": "https://cover-art.kasra.codes/simp_square.png",
+                "image_url": "https://cover-art.kasra.codes/simp_rectangle.png",
+                "button_title": "See The Top Simps",
+                "splash_image_url": "https://cover-art.kasra.codes/simp_square.png",
+                "splash_background_color": "#FFFFFF"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Simps R Us",
+                "home_url": "https://simps.kasra.codes",
+                "icon_url": "https://cover-art.kasra.codes/simp_square.png",
+                "image_url": "https://cover-art.kasra.codes/simp_rectangle.png",
+                "button_title": "See The Top Simps",
+                "splash_image_url": "https://cover-art.kasra.codes/simp_square.png",
+                "splash_background_color": "#FFFFFF"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x45d8391e",
+    "url": "https://farcaster.xyz/fredwilson.eth/0x45d8391e",
+    "author_username": "fredwilson.eth",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 169,
+    "author_pfp": "https://lh3.googleusercontent.com/fWnQF5IzaerIcPn5rPHvl4oENtum0Jr2M5wxtC99L2c0ELGPD9WzgxhlgeybhUrO-LueMKSYgBWyhKcT5wydRotxpONeNJaP78t2nA",
+    "cast_date": "2025-07-24T10:35:56.000Z",
+    "text": "Hi Casters. I've been enjoying the collecting game that the Farcaster team launched this week. Engaging on casts can be and should be more than a like, recast or reply. I have long believed that \"mint is the new like\" and also the path to monetization for consumer crypto. So I'm very enthusiastic about this experiment.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6e6cdc24",
+    "url": "https://farcaster.xyz/jrf/0x6e6cdc24",
+    "author_username": "jrf",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 11528,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b679fba1-7f7b-4bf6-9a57-11f8a3519a00/rectcrop3",
+    "cast_date": "2025-07-24T13:53:06.000Z",
+    "text": "the main takeaway for me on *collectibles* is that the farcaster community really knows how to turn simple composable crypto ux into delightful creative marketplaces",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9cc4cbd8",
+    "url": "https://farcaster.xyz/gmfarcaster/0x9cc4cbd8",
+    "author_username": "gmfarcaster",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 273384,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a068ff05-0b5d-427a-ee22-2088ab310800/rectcrop3",
+    "cast_date": "2025-07-23T21:30:10.000Z",
+    "text": "Thank you @yes2crypto.eth and everyone else who bid!\nYou are welcome to DM us anything specific you want us to shout out, otherwise you're just going to have to listen to @nounishprof and @adrienne talk about how much they love you",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/81861a43-edef-4a82-50a1-4571de4bcc00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 106565,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1186,
+            "height_px": 267
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5be4eab6",
+    "url": "https://farcaster.xyz/goose/0x5be4eab6",
+    "author_username": "goose",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 225,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd82f5e9-389e-4e79-aba0-f2426021c700/rectcrop3",
+    "cast_date": "2025-07-23T19:24:55.000Z",
+    "text": "the collector of this cast wins 100 custom coins or keychains created  by WizardPins.com",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f6332247-df72-4e38-7251-12d7ebc6ca00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 538122,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1378
+          }
+        }
+      },
+      {
+        "url": "https://WizardPins.com",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://wizardpins.com/",
+            "ogType": "website",
+            "favicon": "//wizardpins.com/cdn/shop/files/wp-favicon_64x64.png?v=1614302494",
+            "ogImage": [
+              {
+                "url": "https://wizardpins.com/cdn/shop/files/wp-meta_1200x630.png?v=1614302748",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Order Custom Lapel Pins with Free Setup & Delivery - WizardPins",
+            "ogLocale": "en",
+            "ogSiteName": "WizardPins",
+            "ogDescription": "Create top quality custom lapel pins from your custom design, or let us expertly design one for you. We offer free quotes, free shipping and low minimum orders."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe1bfff1a",
+    "url": "https://farcaster.xyz/dwr.eth/0xe1bfff1a",
+    "author_username": "dwr.eth",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-07-23T21:04:56.000Z",
+    "text": "@pugson is the top bidder so far\n\ncall him \n\np biddy",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6f8a7e8b",
+    "url": "https://farcaster.xyz/garrett/0x6f8a7e8b",
+    "author_username": "garrett",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 2802,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c131c034-0090-4610-45a4-acda4b805000/rectcrop3",
+    "cast_date": "2025-07-23T13:13:53.000Z",
+    "text": "How much is 1 hour of my time worth? \n\nWhoever wins the bid for this cast will get a 1 hour call with me to discuss anything they want\n\nHappy to give feedback, test a mini app, give advice, share my perspective or whatever else you may want to chat about!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x69af4d30",
+    "url": "https://farcaster.xyz/nintynick.eth/0x69af4d30",
+    "author_username": "nintynick.eth",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 3558,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2bf1b882-358b-464f-9b40-3c778833cf00/rectcrop3",
+    "cast_date": "2025-07-23T13:51:32.000Z",
+    "text": "Announcing: Collectible Fractionalization!\n\nYou can now fractionalize any Farcaster collectible into tradeable ERC20 tokens\n\nAfter winning a collectible auction, you can split your NFT into fractional shares. The NFT goes into a vault on Base, and you get ERC20 tokens representing ownership pieces that anyone can buy and trade\n\nWhy this matters:\n- Expensive collectibles become accessible to everyone\n- Creates liquid markets for cast ownership\n- Cast authors earn 2.5% on all fractional trades\n- Communities can collectively own iconic moments\n\nHow it works: Split your collectible into 1K-100K tokens. Fractional owners get voting rights. Token holders can team up to \"reunify\" and claim the original NFT back\n\nAll standard ERC20s on Base—works with any DEX or DeFi protocol\n\nCheck out the demo here: https://youtu.be/dQw4w9WgXcQ",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbdc51d46",
+    "url": "https://farcaster.xyz/v/0xbdc51d46",
+    "author_username": "v",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-07-23T23:04:49.000Z",
+    "text": "Trending Notifications\n\nDon't miss out on Farcaster alpha. Trending notifications keep you up-to-date with what your friends are doing onchain. \n\nNotifications are triggered when many people you follow buy the same asset within a few hours. You can enable or disable these notifications in Settings > Notifications > Trending onchain",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c35b5ae8-56f1-4f60-bf2a-7ecbe45bf100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 420271,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 919,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc9f2bb77",
+    "url": "https://farcaster.xyz/miguelgarest.eth/0xc9f2bb77",
+    "author_username": "miguelgarest.eth",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 323251,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd4ee967-70fa-46f4-90cc-55a7f47bc000/original",
+    "cast_date": "2025-07-25T08:08:52.000Z",
+    "text": "500 points",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/base-app/video/upload/sp_auto/v1753430928/video_uploads/acf3e511-671b-42cb-a1b9-d6c97479a145.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": 959,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1904,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1268,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 952,
+                "width_px": 540,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 634,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 476,
+                "width_px": 270,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 11.066667
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x212026b8",
+    "url": "https://farcaster.xyz/afrochicks/0x212026b8",
+    "author_username": "afrochicks",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 780900,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26d6fa5c-2dd8-4e6c-f788-58afe3133b00/rectcrop3",
+    "cast_date": "2025-07-23T22:49:54.000Z",
+    "text": "i have been airdropped $25 for posting on @baseapp this week 🎉\n\nthe reward tiers are different to farcaster + there isnt a real-time weekly leaderboard instead there’s an all time leaderboard in the “earn” section!\n\ndid anyone else earn on base app this week?",
+    "embeds": [
+      {
+        "url": "https://tba-social.mypinata.cloud/ipfs/bafkreidvh67vk4ncqhgyatf7hv5zfd4t5zodutj2ynfqs3o7w774qow6xi",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 87628,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1284,
+            "height_px": 935
+          }
+        }
+      },
+      {
+        "url": "https://tba-social.mypinata.cloud/ipfs/bafkreie6k77ykper5xtc27uepwg45zjsvnjx7dk7oydut4lytzuogzorxm",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 91805,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1206,
+            "height_px": 988
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5ea00b6c",
+    "url": "https://farcaster.xyz/danicaswanson/0x5ea00b6c",
+    "author_username": "danicaswanson",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 8451,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c9f1c663-1ecd-4c31-aafd-c7170037a300/original",
+    "cast_date": "2025-07-24T17:04:02.000Z",
+    "text": "The Studio Slowcore team is excited to introduce the new Gift Economics channel: a Farcaster-native small-scale gift economics lab and roundtable.\n\nStewarded and moderated by Danica Swanson, @trigs.eth, and @y0b, the channel was kindly gifted to us by @ted. \n\nWe plan to host thoughtful deep-dive conversations that cater to long-form readers and systems thinkers. In particular, the channel will encourage open and earnest discussions about structural factors that influence how writers, artists, and other creative professionals are (and aren't) paid. There's a lot of secrecy about compensation in the arts, for all kinds of reasons. Our stewards help facilitate more clarity about where things stand.\n\nGift Economics Channel FAQ \n\nQ: What is a gift economy?\n\nIn its simplest form, a gift economy is an \"arrangement for the transfer of goods or services without an agreed method of quid pro quo.\"* \n\nQ: Who's behind Studio Slowcore?\n\n- Danica Swanson (founder, co-steward, channel owner, word-slinger-in-chief)\n- @trigs.eth (co-steward, channel mod, wordsmith, community call host)\n- @y0b (co-steward, channel mod, wordsmith, gift economics consultant)\n\nAll of us also have other professional commitments. Our intention for phase one of our launch is to experiment with hybrid gift + market economic models to sustain our two channels (/gift-economics and /slowcore-hq) long-term — without tokenizing our community and turning it into the product. If we succeed, we will shift more of our time and attention to Studio Slowcore matters.\n\nQ: Why is the studio launching exclusively on Farcaster?\n\nThe simplest answer: we decided to build what we wanted to see in the world, and we believe Farcaster is the best place to do that. \n\nThe slightly longer answer: it's Farcaster all the way down for us. The seeds of our studio were sown when the Farcaster community seized on the concept of \"slowcore\" and turned it into a movement. Since then, everything that led up to our launch has been deeply influenced by Farcaster and its unique social economy. Every studio contributor is an active daily user of the purple app who cares about its future.  \n\nCreative people have gifts, and we believe those gifts come with a responsibility to use them well. Toward that end, we need structures that facilitate the giving of gifts (and routing them to the right places) instead of defaulting to extractive economic patterns. We think Farcaster's social economy is the right place to build such structures, since it's already a type of hybrid gift + market economy of the sort we've never seen anywhere else. \n\nWe also prefer to keep the studio small. We don't need (or even want) to chase maximum reach; it would only add a tax on our valuable time and attention.\n\nWe may write an even longer deep-dive answer to this question in phase two of our launch.\n\nQ: Why are you starting with channels?\n\nWe think channels are directionally correct as cozy corners (not hashtags), and can work well for our invite-only communities if they're well-stewarded. A new form factor may be needed if channels are to thrive long-term, but in the meantime we'll give it our best as co-stewards. It helps that we use @cura for channel maintenance!\n\nQ: How does the Gift Economics channel work?\n\nAnyone can follow the channel. Membership is invite-only. We don't have an application process; our mods send out invites at their discretion. The best way to increase your chances of an invite is to respond thoughtfully and kindly to casts in the channel, and make it clear (through your behavior) that you've read the rules.\n\nRead more in our channel guidelines.\n\nQ: I'd like to learn more about gift economics. Where should I start?\n\nWe're working on a reading list! In the meantime you could start with \"Sacred Economics\" by Charles Eisenstein, which is available in full online.\n\nQ: Why aren't you launching a token?\n\nThe short answer: we're starting with gift economics experiments, so we don't need one.\n\nThe longer answer: we want to help build a social economy that can sustain creative people long-term. We think the overwhelming majority of the \"creator economy\" in crypto as it stands (what @abundance has called the \"Tokenized Attention Creator Economy\") is failing to meaningfully deliver on the value prop of rewarding creative people appropriately for their work. Tokenizing in exchange value terms risks reducing the gift value of our communities. \n\nOur thesis is that economic models to sustain long-term creative work and community-building begin (but do not end) with gift culture. \n\nThe standard ways of monetizing creative work extract gift value, convert it into profit, and route the lion's share of it away from creative people. We want to go in the other direction: restore and preserve gift value flows, return more value to those who actually create it, and convert profit into gift. \n\nIt's a challenging systems design problem! But if there's anywhere it can be done, it's on Farcaster.\n\nQ: How can I help with the gift economy experiment?\n\nConsider following and contributing to our roundtable discussions in the comments on our casts in the channel, or just talk about gift economics on Farcaster in general. \n\nGifts of crypto sent to the studio's multisig (slowcore.eth) will be gratefully accepted. We will route them toward retro-rewards for the gift labor done to bootstrap our channels. Gifts can also help free up more time for us to steward the channels responsibly in the future. Please do not gift any funds that are needed for your own support. \n\nWe'd also love to see more Farcasters start their own gift circles and micro-gift-economy experiments.\n\nNOTE: We will NOT be launching a coin. \nNot for our studio. \nNot for ourselves as individuals.\nNot for our channels.\n\n*(Thanks to ServiceSpace for the gift economy definition).",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aa6e3a55-c521-4a56-2b41-36fd63882b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 457694,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 500
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcfca211f",
+    "url": "https://farcaster.xyz/ethereumfndn/0xcfca211f",
+    "author_username": "ethereumfndn",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 894783,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f99477f0-2b8d-406b-f7dd-9c36cdef2900/original",
+    "cast_date": "2025-07-24T18:05:42.000Z",
+    "text": "Celebrate 10 years of Ethereum, in your city.\n\nThe ecosystem is hosting 100+ events across the globe to welcome a new decade of Ethereum. \n\nFind an event in your region → https://ethereum.org/10years/",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01983d9b-c80e-ff90-7ae8-43571a8e9019.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 33
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc623ab19",
+    "url": "https://farcaster.xyz/firkin.eth/0xc623ab19",
+    "author_username": "firkin.eth",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 1060498,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/335b9751-c46c-4735-5baf-d24dbff24800/original",
+    "cast_date": "2025-07-24T17:03:40.000Z",
+    "text": "🚨 THE FIRKIN IS FINALLY OPEN 🚨\n\nThe wait is over. The barrels are unlocked. The attention flywheel begins now.\n\nHead to \n👉 www.wtfirkin.com\n\nBid. Back. Build.\n\nThe $WTF? ecosystem is live and launching.\n\nBe early. Be firkin smart.",
+    "embeds": [
+      {
+        "url": "https://www.wtfirkin.com",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogTitle": "WTFirkin",
+            "ogLocale": "en",
+            "ogDescription": "Own the Spotlight, own the Firkin",
+            "fcFrame": {
+              "button": {
+                "title": "What The Firkin?",
+                "action": {
+                  "url": "https://www.wtfirkin.com",
+                  "name": "What The Firkin?",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://www.wtfirkin.com/img/wtfirkinlogo.png",
+                  "splashBackgroundColor": "#17101f"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://www.clanker.world/_next/image?url=https%3A%2F%2Fsilver-impressed-bass-888.mypinata.cloud%2Fipfs%2Fbafybeig64ha6evpkm2vvvfu2ep5zu2vbz7m4shdwwycghpbfjjqen6a6zu&w=1080&q=75"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "What The Firkin?",
+            "image": "https://www.clanker.world/_next/image?url=https%3A%2F%2Fsilver-impressed-bass-888.mypinata.cloud%2Fipfs%2Fbafybeig64ha6evpkm2vvvfu2ep5zu2vbz7m4shdwwycghpbfjjqen6a6zu&w=1080&q=75",
+            "frames_url": "https://www.wtfirkin.com/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1060498,
+              "username": "firkin.eth",
+              "display_name": "What The Firkin?",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/335b9751-c46c-4735-5baf-d24dbff24800/original",
+              "custody_address": "0x9b73b2497d4bb320bbf0a8c3cd08e5d7b22555ce"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEwNjA0OTgsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg5QjczYjI0OTdkNGJCMzIwQkJmMEE4QzNDRDA4RTVEN2IyMjU1NUNlIn0",
+                "payload": "eyJkb21haW4iOiJ3d3cud3RmaXJraW4uY29tIn0",
+                "signature": "MHhmOGRmOTM1OGZlMTdhNGE5NzJiNzUxNTcwZTM0MGE3MWQ2NjE0MjcyODk4ODk5MThkZmMwMzFhMjY0ZDAzM2VjNjM5ZTViZjExZTZhMjBmNjUxNWFjNmEyMGUxOWQ1M2QyNDkzMjAyYjE1ODQ2Yjc1NzAxNWMyZWQzYTI0YTM4MzFi"
+              },
+              "frame": {
+                "version": "next",
+                "name": "What The Firkin?",
+                "home_url": "https://www.wtfirkin.com",
+                "icon_url": "https://www.wtfirkin.com/img/wtfirkinlogo.png",
+                "image_url": "https://www.wtfirkin.com/img/wtfirkinlogo.png",
+                "button_title": "WTFirkin?",
+                "splash_image_url": "https://www.wtfirkin.com/img/wtfirkinlogo.png",
+                "splash_background_color": "#734b22",
+                "webhook_url": "https://www.wtfirkin.com/api/webhook",
+                "subtitle": "What The Firkin?",
+                "description": "Own the Spotlight, own the Firkin",
+                "screenshot_urls": [
+                  "https://www.wtfirkin.com/img/wtfirkinlogo.png"
+                ],
+                "primary_category": "social",
+                "tags": [
+                  "launchpad",
+                  "auction",
+                  "clanker",
+                  "wtfirkin",
+                  "WTF"
+                ],
+                "hero_image_url": "https:///www.wtfirkin.com/img/hero.jpg",
+                "tagline": "What The Firkin?",
+                "og_title": "WTFirkin",
+                "og_description": "Own the Spotlight, own the Firkin",
+                "og_image_url": "https:///www.wtfirkin.com/img/hero.jpg"
+              },
+              "miniapp": {
+                "version": "next",
+                "name": "What The Firkin?",
+                "home_url": "https://www.wtfirkin.com",
+                "icon_url": "https://www.wtfirkin.com/img/wtfirkinlogo.png",
+                "image_url": "https://www.wtfirkin.com/img/wtfirkinlogo.png",
+                "button_title": "WTFirkin?",
+                "splash_image_url": "https://www.wtfirkin.com/img/wtfirkinlogo.png",
+                "splash_background_color": "#734b22",
+                "webhook_url": "https://www.wtfirkin.com/api/webhook",
+                "subtitle": "What The Firkin?",
+                "description": "Own the Spotlight, own the Firkin",
+                "screenshot_urls": [
+                  "https://www.wtfirkin.com/img/wtfirkinlogo.png"
+                ],
+                "primary_category": "social",
+                "tags": [
+                  "launchpad",
+                  "auction",
+                  "clanker",
+                  "wtfirkin",
+                  "WTF"
+                ],
+                "hero_image_url": "https:///www.wtfirkin.com/img/hero.jpg",
+                "tagline": "What The Firkin?",
+                "og_title": "WTFirkin",
+                "og_description": "Own the Spotlight, own the Firkin",
+                "og_image_url": "https:///www.wtfirkin.com/img/hero.jpg"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa745e0c6",
+    "url": "https://farcaster.xyz/st3ve/0xa745e0c6",
+    "author_username": "st3ve",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 3484,
+    "author_pfp": "https://i.imgur.com/FJsq55N.jpg",
+    "cast_date": "2025-07-24T17:03:28.000Z",
+    "text": "introducing tbd: a new way to explore and trade @baseapp.base.eth coins\n\n⭐ find alfa by seeing all new @baseapp coin launches instantly\n⭐ swap directly from our UX for fast + easy trading\n⭐ pro-level filters tightly integrated with farcaster social graph\n\nlive now👇",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3484,
+          "hash": "0x8973882295b6528b8a3d7936bfb1482f7dddb049"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x8973882295b6528b8a3d7936bfb1482f7dddb049",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3484,
+            "username": "st3ve",
+            "display_name": "st3ve.eth",
+            "pfp_url": "https://i.imgur.com/FJsq55N.jpg",
+            "custody_address": "0x0546377d6093b8c33a1633065a2c5750f070ab30"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x8973882295b6528b8a3d7936bfb1482f7dddb049",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "launching SOON: a new way to discover + trade TBA coins\n\nstay up to date: turn notifications on 🔔\n\nwant to help beta test? reply to this cast ✌️",
+          "timestamp": "2025-07-22T16:35:46.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 99,
+                "hash": "0xa09cbd6a20b0b3c1abdf3654572f8b35e3b6c71e"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xa09cbd6a20b0b3c1abdf3654572f8b35e3b6c71e",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 99
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 309857
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a5492638-54cf-437c-671a-6be3ac76f200/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 29768,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 504,
+                  "height_px": 297
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2d6d3c22",
+    "url": "https://farcaster.xyz/jpetrich/0x2d6d3c22",
+    "author_username": "jpetrich",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 1401,
+    "author_pfp": "https://i.seadn.io/gcs/files/74b88a25e19a01637eec1755cffafaa9.jpg?w=500&auto=format",
+    "cast_date": "2025-07-24T17:49:47.000Z",
+    "text": "We’re excited to announce that we've raised $30 million in Series A funding, led by Forerunner, with participation from NEA, Y Combinator, Burst Capital, Prelude, and ParaFi.     \n\nThanks to our team, users, and investors for believing in our vision. This is just the beginning!\n\nPreorder our mobile app: https://link.courtyard.io/fc",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d25e82b-cecb-481f-18d7-e51f55391600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 475964,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1600,
+            "height_px": 900
+          }
+        }
+      },
+      {
+        "url": "https://link.courtyard.io/fc",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "https://www.google.com/s2/favicons?sz=64&domain_url=courtyard.io",
+            "ogImage": [
+              {
+                "url": "https://dubassets.com/images/link_1K0S7TTRBN6ECP711Y0VTQXSZ"
+              }
+            ],
+            "ogTitle": "Courtyard.io",
+            "ogLocale": "en",
+            "ogDescription": "Pre-order the app "
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdb0f36dd",
+    "url": "https://farcaster.xyz/linda/0xdb0f36dd",
+    "author_username": "linda",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-07-24T21:07:23.000Z",
+    "text": "We've got an exciting Farcaster AMA with @barmstrong, the cofounder and CEO of Coinbase, coming up on Mon, Aug 4th at 10:15am PT\n\nYou can use this @eventsxyz link to add to your calendar as a reminder!\n\nhttps://events.xyz/events/736ef0",
+    "embeds": [
+      {
+        "url": "https://events.xyz/events/736ef0",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://events.xyz/api/frames/events/736ef0/img/no_rsvp"
+              }
+            ],
+            "ogTitle": "Farcaster AMA - Brian Armstong (cofounder & CEO of Coinbase)",
+            "ogLocale": "en",
+            "ogDescription": "FB Events for Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xda402c79",
+    "url": "https://farcaster.xyz/ted/0xda402c79",
+    "author_username": "ted",
+    "show_date": "2025-07-25",
+    "show_title": "GM Farcaster ep270 Friday July 25, 2025 with @toadyhawk  @betrmint",
+    "source_episode_id": "ERO8Yj5a4nE",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-07-24T16:47:16.000Z",
+    "text": "personal update: made the tough decision to leave farcaster.\n\ngrateful to work alongside such a bar-raising team on what i believe is mission critical for the future — decentralized social. forever a fan!\n\ncan't wait to roll up my sleeves and dig into what's next. but first, a week to soak up the sun. more soon :)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  }
+]

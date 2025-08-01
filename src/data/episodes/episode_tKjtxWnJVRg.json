@@ -1,0 +1,1839 @@
+[
+  {
+    "cast_hash": "0xa7caa909",
+    "url": "https://farcaster.xyz/nounishprof/0xa7caa909",
+    "author_username": "nounishprof",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-07-23T23:39:10.000Z",
+    "text": "Who wants to play Aptos Poker? ♣️ ♥️ ♠️ ♦️ GM Farcaster is partnering with @aptos for a 4 game tournament starting next week. We'll be streaming the games on the GM Farcaster network with a $200 usdc prize for the first 3 games and $400 usdc for the final championship table. If you want to play...\n\n1) follow @aptos (and @gmfarcaster while you're at it)\n2) join /aptosclub channel\n3) fill out this quick form so we know when you're available to play: https://gmfarcaster.deform.cc/aptospoker\n\nWe'll drop players into a group chat on Farcaster to coodinate. Even if you're not available to play, come watch and cheer on your favorite players! We'll be streaming Tuesday and Thursday -- more info to come!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0xb46a4cfb0b3b59ae99225ab932316ddcfacc7a25"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb46a4cfb0b3b59ae99225ab932316ddcfacc7a25",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb46a4cfb0b3b59ae99225ab932316ddcfacc7a25",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "New poker game coming soon, brought to you by Aptos and GM Farcaster... make sure to follow @poymeetsworld and @nounishprof for details coming soon",
+          "timestamp": "2025-07-23T21:35:56.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.farcaster.xyz/v1/video/01983936-180a-2bf2-3577-90cd207ff327.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1918,
+                      "width_px": 1080,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 1278,
+                      "width_px": 720,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 852,
+                      "width_px": 480,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 638,
+                      "width_px": 360,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 426,
+                      "width_px": 240,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 35.5
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d8497ec7-4b0c-43f3-af18-98731a888c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 255981,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 500,
+            "height_px": 500
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x01333401",
+    "url": "https://farcaster.xyz/bradq/0x01333401",
+    "author_username": "bradq",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-07-28T12:40:51.000Z",
+    "text": "29 Seconds of Farcaster ... What did you miss this weekend?\n\n* $ZORA is on a crazy run tied to TBA coining of posts, which has led to lots of discussion, some valuable, some less so.... and you guessed it, mixed reviews\n\n* @tldr highlighted a breakthrough weekend for $BRACKY with the first in chat trading and a new all-time high market cap of $5m (also first F1 market)\n\n* @jake noted that the first crowd funded $QR auction was organized & won by @zeni.eth & rocketed their mini app up the leaderboard & doubled the marketcap of $STREME\n\n* @chronist neonified the timeline to support @betrmint 's crowdfund for NEONCHAIN Summer... what started as a few hours turned into a few days of redoing pfps in his distinct style and filling the feed with bangers\n\n* @mjc716 teased $PROCOIN mini app 'FEEDS' under soft launch and @jdotfinn was hyping the curation model & noted the mini app was #5 pre-launch\n\n* This Week In Mini Apps @limone.eth joined @linda here: https://farcaster.xyz/linda/0x77c581bd & also limone dropped an article 'The New Economic Stack For Creators' https://farcaster.xyz/limone.eth/0xc43baf96\n\n* @adrienne & @nounishprof are on today at 11:30 AM EST/ 8:30 PST to cover all things Farcaster to start your week",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0xc3d2efea6dba5183565fb2c9f8d7e56a37a4bdc2"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc3d2efea6dba5183565fb2c9f8d7e56a37a4bdc2",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc3d2efea6dba5183565fb2c9f8d7e56a37a4bdc2",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster Monday preview -- next Monday we welcome @joincreatordao as special guest to chat about their upcoming launch and how they are supporting creators onchain! \n\nJoin @adrienne and I on YouTube, Twitter or the GM Farcaster mini app at a west coast friendly 11:30 am ET/8:30 am PT for 29 minutes of Farcaster news followed by our chat with @rskagy.eth and CreatorDAO around noon ET/9 am PT. Add the GMFC mini app now for a reminder when we go live!\n\nAND thank you to @joincreatordao for sponsoring /gmfarcaster! We're excited to chat with you on Monday!\n\nhttps://www.youtube.com/live/ZnMLSYA1AWk?si=_YCTS0dQr7wYRhJN\n\nhttps://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+          "timestamp": "2025-07-25T15:17:08.000Z",
+          "embeds": [
+            {
+              "url": "https://www.youtube.com/live/ZnMLSYA1AWk?si=_YCTS0dQr7wYRhJN",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.youtube.com/watch?v=ZnMLSYA1AWk",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/ZnMLSYA1AWk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"GM Farcaster ep271 Monday July 28, 2025 with CreatorDAO\"></iframe>",
+                    "type": "video",
+                    "title": "GM Farcaster ep271 Monday July 28, 2025 with CreatorDAO",
+                    "width": 200,
+                    "height": 113,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@GMFarcaster",
+                    "author_name": "GM Farcaster",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/ZnMLSYA1AWk/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "ogDate": "2025-07-25T08:11:42-07:00",
+                  "ogType": "video.other",
+                  "favicon": "https://www.youtube.com/s/desktop/477ecd89/img/logos/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://i.ytimg.com/vi/ZnMLSYA1AWk/hqdefault.jpg?v=68839eb1",
+                      "type": "jpg",
+                      "width": "480",
+                      "height": "360"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster ep271 Monday July 28, 2025 with CreatorDAO",
+                  "ogVideo": [
+                    {
+                      "url": "https://www.youtube.com/embed/ZnMLSYA1AWk",
+                      "type": "text/html",
+                      "width": "640",
+                      "height": "360"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "YouTube",
+                  "ogDescription": "Join Adrienne and NounishProf for 29 minutes of Farcaster news followed by a chat with CreatorDAO a new way to back Creators onchain.",
+                  "ogVideoSecureURL": "https://www.youtube.com/embed/ZnMLSYA1AWk"
+                }
+              }
+            },
+            {
+              "url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://farcaster.xyz/miniapps/0196efb5-5ae3-676b-f83f-869e756c74d0/gm-farcaster",
+                  "ogType": "website",
+                  "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fminiapp.gmfarcaster.com%2Flogo.png&s=9e7f26424405d9b5c54c06233c2a5916f158e16b3037ec32ab93873d7875597d",
+                  "ogImage": [
+                    {
+                      "url": "https://miniapp.gmfarcaster.com/api/share-image?videoId=lOpXEV36ols",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster",
+                  "ogLocale": "en",
+                  "ogSiteName": "Farcaster Mini App",
+                  "ogDescription": "Get your daily dose of Farcaster news and culture.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch GM Farcaster",
+                      "action": {
+                        "url": "https://miniapp.gmfarcaster.com",
+                        "name": "GM Farcaster",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://miniapp.gmfarcaster.com/logo.png",
+                        "splashBackgroundColor": "#AF48CF"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://miniapp.gmfarcaster.com/api/share-image?videoId=lOpXEV36ols"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch GM Farcaster",
+                  "image": "https://miniapp.gmfarcaster.com/api/share-image?videoId=lOpXEV36ols",
+                  "frames_url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/774e2613-b270-49a5-c170-eb57eaeed800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 185489,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1099
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7c66efc0",
+    "url": "https://farcaster.xyz/v/0x7c66efc0",
+    "author_username": "v",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-07-26T23:23:57.000Z",
+    "text": "FC Mini Apps now support batched transactions!\n\nUpgrade immediately to improve conversions in all payment flows. Users only need to approve a single transaction to send USDC, instead of an approve + send flow. \n\nThe useSendCalls hook makes this easy\n\nhttps://miniapps.farcaster.xyz/docs/guides/wallets#batch-transactions",
+    "embeds": [
+      {
+        "url": "https://miniapps.farcaster.xyz/docs/guides/wallets#batch-transactions",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 11242,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "miniapps-docs-97l3a6jma-farcaster.vercel.app",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://og-five-eta.vercel.app/api/og/mini-apps?title=Interacting with Ethereum wallets&description=Seamlessly interact with a user's Ethereum wallet&section=Guide"
+              }
+            ],
+            "ogTitle": "Interacting with Ethereum wallets",
+            "ogLocale": "en",
+            "ogDescription": "Seamlessly interact with a user's Ethereum wallet"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4df1d66e",
+    "url": "https://farcaster.xyz/myk/0x4df1d66e",
+    "author_username": "myk",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 217248,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ab39123-9da1-408c-ae95-6bbd1ae65500/original",
+    "cast_date": "2025-07-28T02:35:27.000Z",
+    "text": "Excited to see EIP-5792 gaining support on @farcaster!\n\nI created a mini app called Wallet Sweep that lets you clean up your wallet in a Tinder-like interface\n\n👉 keep the token in your wallet\n👈 add the token to a batched swap\n\nWhen you're ready, batch sell to USDC!\n\nhttps://wallet-sweep.vercel.app",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x7c66efc06e59a66ee6ff941e7acf3550efcfd9e9"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7c66efc06e59a66ee6ff941e7acf3550efcfd9e9",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7c66efc06e59a66ee6ff941e7acf3550efcfd9e9",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "FC Mini Apps now support batched transactions!\n\nUpgrade immediately to improve conversions in all payment flows. Users only need to approve a single transaction to send USDC, instead of an approve + send flow. \n\nThe useSendCalls hook makes this easy\n\nhttps://miniapps.farcaster.xyz/docs/guides/wallets#batch-transactions",
+          "timestamp": "2025-07-26T23:23:57.000Z",
+          "embeds": [
+            {
+              "url": "https://miniapps.farcaster.xyz/docs/guides/wallets#batch-transactions",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": 11242,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "miniapps-docs-97l3a6jma-farcaster.vercel.app",
+                  "ogType": "website",
+                  "favicon": "/favicon.png",
+                  "ogImage": [
+                    {
+                      "url": "https://og-five-eta.vercel.app/api/og/mini-apps?title=Interacting with Ethereum wallets&description=Seamlessly interact with a user's Ethereum wallet&section=Guide"
+                    }
+                  ],
+                  "ogTitle": "Interacting with Ethereum wallets",
+                  "ogLocale": "en",
+                  "ogDescription": "Seamlessly interact with a user's Ethereum wallet"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-updates",
+            "name": "fc-updates",
+            "image_url": "https://i.imgur.com/YnnrPaH.png"
+          }
+        }
+      },
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01984ee1-c91f-e877-795a-1e591ef3c801.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 23.1
+          }
+        }
+      },
+      {
+        "url": "https://wallet-sweep.vercel.app",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "Wallet Sweep - Batch Sell Tokens",
+                "url": "https://wallet-sweep.vercel.app/api/og",
+                "width": "1200",
+                "height": "800"
+              }
+            ],
+            "ogTitle": "Wallet Sweep - Batch Sell Tokens",
+            "ogLocale": "en",
+            "ogDescription": "Easily batch sell multiple tokens from your wallet in one transaction",
+            "fcFrame": {
+              "button": {
+                "title": "🧹 Sweep Wallet",
+                "action": {
+                  "url": "https://wallet-sweep.vercel.app",
+                  "name": "Wallet Sweep",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://wallet-sweep.vercel.app/api/splash-icon",
+                  "splashBackgroundColor": "#1a1a1a"
+                }
+              },
+              "version": "1",
+              "imageUrl": "https://wallet-sweep.vercel.app/api/og"
+            }
+          },
+          "frame": {
+            "version": "1",
+            "title": "🧹 Sweep Wallet",
+            "image": "https://wallet-sweep.vercel.app/api/og",
+            "frames_url": "https://wallet-sweep.vercel.app/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 217248,
+              "username": "myk",
+              "display_name": "myk.eth",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ab39123-9da1-408c-ae95-6bbd1ae65500/original",
+              "custody_address": "0xeba78717b6f059cfe0b75e75c2ed4bb7ca65154f"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjIxNzI0OCwidHlwZSI6ImF1dGgiLCJrZXkiOiIweEJjRmNkM0JiOTA3NTA3QTEyM2Y5QzM3RTkyMGNlYjVDOERiNTZGZWIifQ",
+                "payload": "eyJkb21haW4iOiJ3YWxsZXQtc3dlZXAudmVyY2VsLmFwcCJ9",
+                "signature": "TTLWvncoI561gnHZHviQp0G+3q19Vq13r5i3l65BdYpMwbo7Wg2pto4MxeZvboLH6k+0fFYIxgxXhkpOpKlzfxw="
+              },
+              "frame": {
+                "version": "1",
+                "name": "Wallet Sweep",
+                "home_url": "https://wallet-sweep.vercel.app/",
+                "icon_url": "https://wallet-sweep.vercel.app/api/splash-icon",
+                "image_url": "https://wallet-sweep.vercel.app/api/og",
+                "button_title": "🧹 Sweep Wallet",
+                "splash_image_url": "https://wallet-sweep.vercel.app/api/splash-icon",
+                "splash_background_color": "#1a1a1a",
+                "webhook_url": "https://wallet-sweep.vercel.app/api/webhook",
+                "screenshot_urls": [
+                  "https://wallet-sweep.vercel.app/images/sell.png",
+                  "https://wallet-sweep.vercel.app/images/keep.png"
+                ],
+                "primary_category": "finance",
+                "tags": [
+                  "wallet",
+                  "sweep",
+                  "tokens",
+                  "sell",
+                  "batch"
+                ],
+                "hero_image_url": "https://wallet-sweep.vercel.app/api/og",
+                "tagline": "Batch sell tokens easily",
+                "og_title": "Wallet Sweep",
+                "og_description": "Batch sell tokens from your wallet on Base",
+                "og_image_url": "https://wallet-sweep.vercel.app/api/og"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Wallet Sweep",
+                "home_url": "https://wallet-sweep.vercel.app/",
+                "icon_url": "https://wallet-sweep.vercel.app/api/splash-icon",
+                "image_url": "https://wallet-sweep.vercel.app/api/og",
+                "button_title": "🧹 Sweep Wallet",
+                "splash_image_url": "https://wallet-sweep.vercel.app/api/splash-icon",
+                "splash_background_color": "#1a1a1a",
+                "webhook_url": "https://wallet-sweep.vercel.app/api/webhook",
+                "screenshot_urls": [
+                  "https://wallet-sweep.vercel.app/images/sell.png",
+                  "https://wallet-sweep.vercel.app/images/keep.png"
+                ],
+                "primary_category": "finance",
+                "tags": [
+                  "wallet",
+                  "sweep",
+                  "tokens",
+                  "sell",
+                  "batch"
+                ],
+                "hero_image_url": "https://wallet-sweep.vercel.app/api/og",
+                "tagline": "Batch sell tokens easily",
+                "og_title": "Wallet Sweep",
+                "og_description": "Batch sell tokens from your wallet on Base",
+                "og_image_url": "https://wallet-sweep.vercel.app/api/og"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb151641c",
+    "url": "https://farcaster.xyz/garrett/0xb151641c",
+    "author_username": "garrett",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 2802,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c131c034-0090-4610-45a4-acda4b805000/rectcrop3",
+    "cast_date": "2025-07-27T13:02:20.000Z",
+    "text": "Looks like @jack didn’t intend to launch the visualizevalue creator coin\n\ngood lore though \n\nhttps://x.com/jackbutcher/status/1949444409654947849?s=46&t=LNZpH03544B952EdXOUs2w",
+    "embeds": [
+      {
+        "url": "https://x.com/jackbutcher/status/1949444409654947849?s=46&t=LNZpH03544B952EdXOUs2w",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/jackbutcher/status/1949444409654947849",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">did not intend to activate a zora coin but apparently happens automatically when you log into the ios app, which is a bit mental <br><br>would like to have done something like this much more intentionally, but here we are</p>&mdash; jack (@jackbutcher) <a href=\"https://twitter.com/jackbutcher/status/1949444409654947849?ref_src=twsrc%5Etfw\">July 27, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/jackbutcher",
+              "author_name": "jack",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xeff55d25",
+    "url": "https://farcaster.xyz/christopher/0xeff55d25",
+    "author_username": "christopher",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 4085,
+    "author_pfp": "https://img.uno.fun/NVLTATDRhLYWmXRhanaeUyb1kivtwtaw-qswwF5TuWk/rs:fit:0:0/f:jpg/Z3M6Ly91bm8taW1hZ2VzLXYwLzAxSlNNVldQNDJTNFpTTkIzU1dTNjQ3U0MyLmF2aWY",
+    "cast_date": "2025-07-27T15:29:32.000Z",
+    "text": "This is how it should feel to coin something",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01984c7f-70ad-266e-efd7-1f59fe3c550e.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 60.2
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfea67baa",
+    "url": "https://farcaster.xyz/base.base.eth/0xfea67baa",
+    "author_username": "base.base.eth",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 12142,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce5460f6-40a2-4486-47c1-7801e4033e00/original",
+    "cast_date": "2025-07-25T16:06:25.000Z",
+    "text": "Quick facts about Onchain Summer:\n\n- 50 teams will win prizes from a pool of $200k\n\n- There are two tracks; Apps and Mini Apps\n\n- You can enter with either an app you already launched or an app you’re planning to launch this summer\n\n- This is a retroactive awards campaign based upon onchain and offchain engagement\n\n- Winning is about more than prize money! The top teams will be invited to basecamp in September and be featured onstage",
+    "embeds": [
+      {
+        "url": "https://tba-social.mypinata.cloud/ipfs/bafkreieudjj2ddwhhxquhdbicwhbar3t3h3ljqxjxmrct5ryisnitxa7bu?zoraCoin=0x2ba8b2d1f48fff6d95e9928e72e0d0dad1700979",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 132632,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1116,
+            "height_px": 628
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x25500c2d",
+    "url": "https://farcaster.xyz/adrienne/0x25500c2d",
+    "author_username": "adrienne",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-07-25T14:37:03.000Z",
+    "text": "Have your bangers been mentioned on /gmfarcaster ?\n\nFind out:  lore.gmfarcaster.com",
+    "embeds": [
+      {
+        "url": "https://lore.gmfarcaster.com",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "Farcaster Lore - GM Farcaster Casts",
+            "ogLocale": "en",
+            "ogDescription": "Explore casts featured on GM Farcaster episodes through time",
+            "fcFrame": {
+              "button": {
+                "title": "Travel Through Farcaster History",
+                "action": {
+                  "url": "https://lore.gmfarcaster.com",
+                  "name": "Farcaster Lore",
+                  "type": "launch_miniapp",
+                  "splashImageUrl": "https://lore.gmfarcaster.com/loredark_icon.png",
+                  "splashBackgroundColor": "#6a329f"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://lore.gmfarcaster.com/loredark_image.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Travel Through Farcaster History",
+            "image": "https://lore.gmfarcaster.com/loredark_image.png",
+            "frames_url": "https://lore.gmfarcaster.com/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 5818,
+              "username": "adrienne",
+              "display_name": "adrienne",
+              "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+              "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjU4MTgsInR5cGUiOiJhdXRoIiwia2V5IjoiMHhCMUIyMTg4NGFmRTY1ODFGM0M0OTk3YjAzMjA0NjVGMThFOTY4MkMwIn0",
+                "payload": "eyJkb21haW4iOiJsb3JlLmdtZmFyY2FzdGVyLmNvbSJ9",
+                "signature": "mIYJ0xeG8jvxkxWxuJ2sHC160QrkYHfL/vmy6jHo0h4Lf4j8BNMOC/PK0+DCGNev77xL42x8LcSFiHoNfWoarBw="
+              },
+              "frame": {
+                "version": "1",
+                "name": "Farcaster Lore",
+                "home_url": "https://lore.gmfarcaster.com",
+                "icon_url": "https://lore.gmfarcaster.com/loredark_icon.png",
+                "image_url": "https://lore.gmfarcaster.com/loredark_image.png",
+                "button_title": "📚 Explore",
+                "splash_image_url": "https://lore.gmfarcaster.com/loredark_icon.png",
+                "splash_background_color": "#6a329f",
+                "description": "Explore casts featured on GM Farcaster episodes"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Farcaster Lore",
+                "home_url": "https://lore.gmfarcaster.com",
+                "icon_url": "https://lore.gmfarcaster.com/loredark_icon.png",
+                "image_url": "https://lore.gmfarcaster.com/loredark_image.png",
+                "button_title": "📚 Explore",
+                "splash_image_url": "https://lore.gmfarcaster.com/loredark_icon.png",
+                "splash_background_color": "#6a329f",
+                "description": "Explore casts featured on GM Farcaster episodes"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x05f2d6e9",
+    "url": "https://farcaster.xyz/thedude/0x05f2d6e9",
+    "author_username": "thedude",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 13874,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4c0da258-299b-476a-ed5d-2302f99ea200/original",
+    "cast_date": "2025-07-25T15:30:06.000Z",
+    "text": "WOAH! I had no idea that I was featured in an episode this is sooo cool thanks guys",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4fdf54ea-9cea-4a68-942f-23b0dfe15200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 338671,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 756,
+            "height_px": 1258
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x607dc07c",
+    "url": "https://farcaster.xyz/rish/0x607dc07c",
+    "author_username": "rish",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 194,
+    "author_pfp": "https://i.imgur.com/naZWL9n.gif",
+    "cast_date": "2025-07-25T15:03:15.000Z",
+    "text": "ask Neynar AI about\n\n- any mini app\n- which mini apps are trending, and more specifically \n- which ones are relevant for you \n\nhttps://farcaster.xyz/miniapps/w1O_146jGEE9/neynar-ai\n\nit's continuing to learn more about the Farcaster ecosystem everyday, send us feedback 🪐",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/28ec6b25-d5f8-4284-0b94-3cae7b53cd00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 142845,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 873,
+            "height_px": 1662
+          }
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/miniapps/w1O_146jGEE9/neynar-ai",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz/miniapps/019736b1-7ade-cac1-f7f8-c650614947a3/neynar-ai",
+            "ogType": "website",
+            "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fai.neynar.com%2Ficon.png&s=958a7fa411931949272e38f0e12b97833acf87e9ea1525268f986a49a1b38f42",
+            "ogImage": [
+              {
+                "url": "https://ai.neynar.com/api/opengraph-image",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Neynar AI",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster Mini App",
+            "ogDescription": "AI agent for Farcaster",
+            "fcFrame": {
+              "button": {
+                "title": "I'm an AI on FC, AMA!",
+                "action": {
+                  "url": "https://ai.neynar.com",
+                  "name": "Neynar AI",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://ai.neynar.com/icon.png",
+                  "splashBackgroundColor": "#7f62c6"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://ai.neynar.com/api/opengraph-image"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "I'm an AI on FC, AMA!",
+            "image": "https://ai.neynar.com/api/opengraph-image",
+            "frames_url": "https://farcaster.xyz/miniapps/w1O_146jGEE9/neynar-ai"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc25cebd8",
+    "url": "https://farcaster.xyz/linda/0xc25cebd8",
+    "author_username": "linda",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-07-25T15:08:33.000Z",
+    "text": "Fun pinball mini app game by @altagers.eth with a Farcaster level featuring some familiar faces :)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 217261,
+          "hash": "0xd2eddca74c47e8e86873d7928b6357e027a321b2"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd2eddca74c47e8e86873d7928b6357e027a321b2",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 217261,
+            "username": "altagers.eth",
+            "display_name": "Duxander.base.eth |🔵",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a5837154-fc70-406a-cff2-3f20d73f7400/original",
+            "custody_address": "0x07f6d8d31f465fcb2a12f3d26767705bec231399"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd2eddca74c47e8e86873d7928b6357e027a321b2",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "try it, try it)\n\n⚪ I just scored 5850 points in Degen room 🎩! Can you beat that? 🚩 Pinball: all stars ⭐ made by @lifeisatape.eth & @altagers.eth",
+          "timestamp": "2025-07-25T10:00:22.000Z",
+          "embeds": [
+            {
+              "url": "https://pinballll.space",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": 3249,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://pinballll.space/",
+                  "ogType": "website",
+                  "ogImage": [
+                    {
+                      "url": "https://pinballll.space/gm.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Pinball: all stars - Classic Arcade Experience",
+                  "ogLocale": "en",
+                  "ogDescription": "Classic pinball game with original soundtrack and multiple themed rooms",
+                  "fcFrame": {
+                    "button": {
+                      "title": "⭐ START ⭐",
+                      "action": {
+                        "url": "https://pinballll.space/",
+                        "name": "Pinball: all stars",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://pinballll.space/gn.png",
+                        "splashBackgroundColor": "#ffffff"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://pinballll.space/gm.png"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "⭐ START ⭐",
+                  "image": "https://pinballll.space/gm.png",
+                  "frames_url": "https://pinballll.space/",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 1022212,
+                    "username": "lifeisatape.eth",
+                    "display_name": "that one other person",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd9b6fb4-8555-4dda-0b21-6c920779cf00/original",
+                    "custody_address": "0xfe046af2d54edf703a6a0ca77d56db4f147d3ed7"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjEwMjIyMTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhmZTA0NmFGMmQ1NEVEZjcwM2E2QTBjQTc3RDU2RGI0ZjE0N2QzRWQ3In0",
+                      "payload": "eyJkb21haW4iOiJwaW5iYWxsbGwuc3BhY2UifQ",
+                      "signature": "MHg3OTJlNDdlZTk0YTNjZmI3M2FlZGVmNmJiZGZjMjNhMDc5ZjVlZWZmYzc2Mzg5OGU2NTJlYzFmYmMwZmQzYjQwNjdkNzVjNzY0YmNlZmU1MmRiODYzMWQ4YzRmYzYwNDg0NjhmMzI4YTQ1MThkMDg2MThhY2EyMDc2NGUyNDM4NjFj"
+                    },
+                    "frame": {
+                      "version": "next",
+                      "name": "Pinball: all stars",
+                      "home_url": "https://pinballll.space/?miniApp=true",
+                      "icon_url": "https://pinballll.space/gn.png",
+                      "splash_image_url": "https://pinballll.space/gn.png",
+                      "splash_background_color": "#ffffff",
+                      "subtitle": "pinball game",
+                      "description": "pinball game with original soundtrack",
+                      "screenshot_urls": [
+                        "https://pinballll.space/gn.png"
+                      ],
+                      "primary_category": "games",
+                      "tags": [
+                        "game",
+                        "arcade",
+                        "pinball"
+                      ],
+                      "hero_image_url": "https://pinballll.space/gm.png",
+                      "og_title": "pinbal",
+                      "og_description": "pinball game with original soundtrack",
+                      "og_image_url": "https://pinballll.space/gm.png"
+                    },
+                    "miniapp": {
+                      "version": "next",
+                      "name": "Pinball: all stars",
+                      "home_url": "https://pinballll.space/?miniApp=true",
+                      "icon_url": "https://pinballll.space/gn.png",
+                      "splash_image_url": "https://pinballll.space/gn.png",
+                      "splash_background_color": "#ffffff",
+                      "subtitle": "pinball game",
+                      "description": "pinball game with original soundtrack",
+                      "screenshot_urls": [
+                        "https://pinballll.space/gn.png"
+                      ],
+                      "primary_category": "games",
+                      "tags": [
+                        "game",
+                        "arcade",
+                        "pinball"
+                      ],
+                      "hero_image_url": "https://pinballll.space/gm.png",
+                      "og_title": "pinbal",
+                      "og_description": "pinball game with original soundtrack",
+                      "og_image_url": "https://pinballll.space/gm.png"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/abbe2629-373f-42d3-516d-2e0dfd8a7800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 510008,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 600,
+            "height_px": 970
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd2eddca7",
+    "url": "https://farcaster.xyz/altagers.eth/0xd2eddca7",
+    "author_username": "altagers.eth",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 217261,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a5837154-fc70-406a-cff2-3f20d73f7400/original",
+    "cast_date": "2025-07-25T10:00:22.000Z",
+    "text": "try it, try it)\n\n⚪ I just scored 5850 points in Degen room 🎩! Can you beat that? 🚩 Pinball: all stars ⭐ made by @lifeisatape.eth & @altagers.eth",
+    "embeds": [
+      {
+        "url": "https://pinballll.space",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 3249,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://pinballll.space/",
+            "ogType": "website",
+            "ogImage": [
+              {
+                "url": "https://pinballll.space/gm.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Pinball: all stars - Classic Arcade Experience",
+            "ogLocale": "en",
+            "ogDescription": "Classic pinball game with original soundtrack and multiple themed rooms",
+            "fcFrame": {
+              "button": {
+                "title": "⭐ START ⭐",
+                "action": {
+                  "url": "https://pinballll.space/",
+                  "name": "Pinball: all stars",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://pinballll.space/gn.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://pinballll.space/gm.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "⭐ START ⭐",
+            "image": "https://pinballll.space/gm.png",
+            "frames_url": "https://pinballll.space/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1022212,
+              "username": "lifeisatape.eth",
+              "display_name": "that one other person",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd9b6fb4-8555-4dda-0b21-6c920779cf00/original",
+              "custody_address": "0xfe046af2d54edf703a6a0ca77d56db4f147d3ed7"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEwMjIyMTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhmZTA0NmFGMmQ1NEVEZjcwM2E2QTBjQTc3RDU2RGI0ZjE0N2QzRWQ3In0",
+                "payload": "eyJkb21haW4iOiJwaW5iYWxsbGwuc3BhY2UifQ",
+                "signature": "MHg3OTJlNDdlZTk0YTNjZmI3M2FlZGVmNmJiZGZjMjNhMDc5ZjVlZWZmYzc2Mzg5OGU2NTJlYzFmYmMwZmQzYjQwNjdkNzVjNzY0YmNlZmU1MmRiODYzMWQ4YzRmYzYwNDg0NjhmMzI4YTQ1MThkMDg2MThhY2EyMDc2NGUyNDM4NjFj"
+              },
+              "frame": {
+                "version": "next",
+                "name": "Pinball: all stars",
+                "home_url": "https://pinballll.space/?miniApp=true",
+                "icon_url": "https://pinballll.space/gn.png",
+                "splash_image_url": "https://pinballll.space/gn.png",
+                "splash_background_color": "#ffffff",
+                "subtitle": "pinball game",
+                "description": "pinball game with original soundtrack",
+                "screenshot_urls": [
+                  "https://pinballll.space/gn.png"
+                ],
+                "primary_category": "games",
+                "tags": [
+                  "game",
+                  "arcade",
+                  "pinball"
+                ],
+                "hero_image_url": "https://pinballll.space/gm.png",
+                "og_title": "pinbal",
+                "og_description": "pinball game with original soundtrack",
+                "og_image_url": "https://pinballll.space/gm.png"
+              },
+              "miniapp": {
+                "version": "next",
+                "name": "Pinball: all stars",
+                "home_url": "https://pinballll.space/?miniApp=true",
+                "icon_url": "https://pinballll.space/gn.png",
+                "splash_image_url": "https://pinballll.space/gn.png",
+                "splash_background_color": "#ffffff",
+                "subtitle": "pinball game",
+                "description": "pinball game with original soundtrack",
+                "screenshot_urls": [
+                  "https://pinballll.space/gn.png"
+                ],
+                "primary_category": "games",
+                "tags": [
+                  "game",
+                  "arcade",
+                  "pinball"
+                ],
+                "hero_image_url": "https://pinballll.space/gm.png",
+                "og_title": "pinbal",
+                "og_description": "pinball game with original soundtrack",
+                "og_image_url": "https://pinballll.space/gm.png"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0eb3c839",
+    "url": "https://farcaster.xyz/mcflury/0x0eb3c839",
+    "author_username": "mcflury",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 280824,
+    "author_pfp": "https://i.imgur.com/80aC8NO.jpg",
+    "cast_date": "2025-07-24T20:37:09.000Z",
+    "text": "HOLD THE CUBE \n\nHere‘s a prompt for your PFP to hold the @base.base.eth Cube 👇🏽\n\nUse the provided user photo as the main subject. Make it look like the person in the image is holding a cube in their hands.\n\nThe cube must be a perfect, smooth, solid blue cube with rounded corners, exactly like this: a square shape with evenly curved edges, pure intense #0000FF royal blue, evenly filled, no texture, no reflections, no gradients.\n\nThe cube must match this reference image exactly — same shape, color, size ratio and corner radius. It should be placed realistically in the person’s hands, as if they are holding it carefully.\n\nMake sure the lighting and shadows make the cube feel integrated into the original photo.\n\n@jesse.base.eth @buildonbase",
+    "embeds": [
+      {
+        "url": "https://tba-social.mypinata.cloud/ipfs/bafybeichsj444b7qorrok26aqwa4dksj6hds4xapp5fx3hiovz26nnvzay?zoraCoin=0x7726773e80217135c5723bda3dc9bb2bb0ec6401",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 1782960,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1024
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x60bf8d98",
+    "url": "https://farcaster.xyz/jesse.base.eth/0x60bf8d98",
+    "author_username": "jesse.base.eth",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-07-25T14:26:53.000Z",
+    "text": "want to hold the cube?\n\ntry this awesome miniapp from @stephancill \n\nhttps://stylize.steer.fun/generations/7f9e43be-55f2-4e4c-8156-59a8b75d77c7",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 99,
+          "hash": "0xeb8115c953c20a918d9f707daa6677d9a968b973"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xeb8115c953c20a918d9f707daa6677d9a968b973",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 99,
+            "username": "jesse.base.eth",
+            "display_name": "Jesse Pollak",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+            "custody_address": "0x4ce34af3378a00c640125e4dbf4c9e64dff4c93b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 309857,
+            "username": "baseapp.base.eth",
+            "display_name": "Base app",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05c00f8a-3374-40b4-249c-7cc70a260500/original",
+            "custody_address": "0x20c5cfecc0d1e03d2511aec13ea016f552d639b7"
+          },
+          "thread_hash": "0xeb8115c953c20a918d9f707daa6677d9a968b973",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "HOLD THE CUBE",
+          "timestamp": "2025-07-24T20:57:43.000Z",
+          "embeds": [
+            {
+              "url": "https://tba-social.mypinata.cloud/ipfs/bafkreic3qz6brmqgyjbx5wirulklkmneanheug2r5pcpsjzppdpqvyikwq",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 56553,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1024,
+                  "height_px": 1024
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 280824,
+                "hash": "0x0eb3c83957546d60bfb1a1fc7bc2fbc4cbdd49eb"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x0eb3c83957546d60bfb1a1fc7bc2fbc4cbdd49eb",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 280824
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 309857
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://stylize.steer.fun/generations/7f9e43be-55f2-4e4c-8156-59a8b75d77c7",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "Generated Image",
+                "url": "https://stylize.steer.fun/generations/7f9e43be-55f2-4e4c-8156-59a8b75d77c7/opengraph-image?b21023cdcedcde1a",
+                "type": "image/png",
+                "width": "1200",
+                "height": "800"
+              }
+            ],
+            "ogTitle": "Stylize Me",
+            "ogLocale": "en",
+            "ogDescription": "Stylize any image with AI",
+            "fcFrame": {
+              "button": {
+                "title": "Stylize Me",
+                "action": {
+                  "url": "https://stylize.steer.fun/generations/7f9e43be-55f2-4e4c-8156-59a8b75d77c7",
+                  "name": "Stylize Me",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://stylize.steer.fun/splash.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "iconUrl": "https://stylize.steer.fun/splash.png",
+              "version": "next",
+              "imageUrl": "https://stylize.steer.fun/generations/7f9e43be-55f2-4e4c-8156-59a8b75d77c7/opengraph-image"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Stylize Me",
+            "image": "https://stylize.steer.fun/generations/7f9e43be-55f2-4e4c-8156-59a8b75d77c7/opengraph-image",
+            "frames_url": "https://stylize.steer.fun/generations/7f9e43be-55f2-4e4c-8156-59a8b75d77c7",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1689,
+              "username": "stephancill",
+              "display_name": "Stephan",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/64c851c0-2036-4629-ead7-ae60bfc62500/original",
+              "custody_address": "0x2738b21cb9520338f9a375c3b971b1778ae1004a"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjE2ODksInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgyNzM4QjIxY0I5NTIwMzM4RjlBMzc1YzNiOTcxQjE3NzhhZTEwMDRhIn0",
+                "payload": "eyJkb21haW4iOiJzdHlsaXplLnN0ZWVyLmZ1biJ9",
+                "signature": "MHgzMzU4MzFkZTM3MjllNmVjZDM3MTdiODc1NzhkNWI1NGZiNmQyODE2NzIxYjE2ODlhMTMwNDlkYTAwNDRhOGEzMGE5NTU1MTRhNTQ3NzQ5YmNhMzJhMTlmYTQ0OTVlNDI3Y2ZiOGVjOTA0MjJlYTZlZDRkYmI3NjBjY2QwNzFmNzFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Stylize Me",
+                "home_url": "https://stylize.steer.fun",
+                "icon_url": "https://stylize.steer.fun/splash.png",
+                "image_url": "https://stylize.steer.fun/og.png",
+                "button_title": "Try it now",
+                "splash_image_url": "https://stylize.steer.fun/splash.png",
+                "splash_background_color": "#f7f7f7",
+                "webhook_url": "https://stylize.steer.fun/api/webhooks/farcaster",
+                "subtitle": "Create & Earn",
+                "description": "Create viral image prompts and earn rewards. Upload any image and apply artistic styles to create stunning visual effects.",
+                "primary_category": "art-creativity",
+                "tags": [
+                  "image",
+                  "style-transfer",
+                  "creative",
+                  "photo-editing"
+                ],
+                "og_title": "Stylize Me",
+                "og_description": "Transform photos with AI style transfer. Create stunning artistic effects instantly.",
+                "og_image_url": "https://stylize.steer.fun/og.png"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Stylize Me",
+                "home_url": "https://stylize.steer.fun",
+                "icon_url": "https://stylize.steer.fun/splash.png",
+                "image_url": "https://stylize.steer.fun/og.png",
+                "button_title": "Try it now",
+                "splash_image_url": "https://stylize.steer.fun/splash.png",
+                "splash_background_color": "#f7f7f7",
+                "webhook_url": "https://stylize.steer.fun/api/webhooks/farcaster",
+                "subtitle": "Create & Earn",
+                "description": "Create viral image prompts and earn rewards. Upload any image and apply artistic styles to create stunning visual effects.",
+                "primary_category": "art-creativity",
+                "tags": [
+                  "image",
+                  "style-transfer",
+                  "creative",
+                  "photo-editing"
+                ],
+                "og_title": "Stylize Me",
+                "og_description": "Transform photos with AI style transfer. Create stunning artistic effects instantly.",
+                "og_image_url": "https://stylize.steer.fun/og.png"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x39d1399d",
+    "url": "https://farcaster.xyz/nounishprof/0x39d1399d",
+    "author_username": "nounishprof",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-07-25T14:34:45.000Z",
+    "text": "🟦 great mini app @stephancill",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 99,
+          "hash": "0x60bf8d98bcb2819afa04e917e7525e451617565b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x60bf8d98bcb2819afa04e917e7525e451617565b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 99,
+            "username": "jesse.base.eth",
+            "display_name": "Jesse Pollak",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+            "custody_address": "0x4ce34af3378a00c640125e4dbf4c9e64dff4c93b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x60bf8d98bcb2819afa04e917e7525e451617565b",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "want to hold the cube?\n\ntry this awesome miniapp from @stephancill \n\nhttps://stylize.steer.fun/generations/7f9e43be-55f2-4e4c-8156-59a8b75d77c7",
+          "timestamp": "2025-07-25T14:26:53.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 99,
+                "hash": "0xeb8115c953c20a918d9f707daa6677d9a968b973"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xeb8115c953c20a918d9f707daa6677d9a968b973",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 99
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 309857
+                }
+              }
+            },
+            {
+              "url": "https://stylize.steer.fun/generations/7f9e43be-55f2-4e4c-8156-59a8b75d77c7",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "alt": "Generated Image",
+                      "url": "https://stylize.steer.fun/generations/7f9e43be-55f2-4e4c-8156-59a8b75d77c7/opengraph-image?b21023cdcedcde1a",
+                      "type": "image/png",
+                      "width": "1200",
+                      "height": "800"
+                    }
+                  ],
+                  "ogTitle": "Stylize Me",
+                  "ogLocale": "en",
+                  "ogDescription": "Stylize any image with AI",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Stylize Me",
+                      "action": {
+                        "url": "https://stylize.steer.fun/generations/7f9e43be-55f2-4e4c-8156-59a8b75d77c7",
+                        "name": "Stylize Me",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://stylize.steer.fun/splash.png",
+                        "splashBackgroundColor": "#ffffff"
+                      }
+                    },
+                    "iconUrl": "https://stylize.steer.fun/splash.png",
+                    "version": "next",
+                    "imageUrl": "https://stylize.steer.fun/generations/7f9e43be-55f2-4e4c-8156-59a8b75d77c7/opengraph-image"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Stylize Me",
+                  "image": "https://stylize.steer.fun/generations/7f9e43be-55f2-4e4c-8156-59a8b75d77c7/opengraph-image",
+                  "frames_url": "https://stylize.steer.fun/generations/7f9e43be-55f2-4e4c-8156-59a8b75d77c7",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 1689,
+                    "username": "stephancill",
+                    "display_name": "Stephan",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/64c851c0-2036-4629-ead7-ae60bfc62500/original",
+                    "custody_address": "0x2738b21cb9520338f9a375c3b971b1778ae1004a"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjE2ODksInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgyNzM4QjIxY0I5NTIwMzM4RjlBMzc1YzNiOTcxQjE3NzhhZTEwMDRhIn0",
+                      "payload": "eyJkb21haW4iOiJzdHlsaXplLnN0ZWVyLmZ1biJ9",
+                      "signature": "MHgzMzU4MzFkZTM3MjllNmVjZDM3MTdiODc1NzhkNWI1NGZiNmQyODE2NzIxYjE2ODlhMTMwNDlkYTAwNDRhOGEzMGE5NTU1MTRhNTQ3NzQ5YmNhMzJhMTlmYTQ0OTVlNDI3Y2ZiOGVjOTA0MjJlYTZlZDRkYmI3NjBjY2QwNzFmNzFj"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "Stylize Me",
+                      "home_url": "https://stylize.steer.fun",
+                      "icon_url": "https://stylize.steer.fun/splash.png",
+                      "image_url": "https://stylize.steer.fun/og.png",
+                      "button_title": "Try it now",
+                      "splash_image_url": "https://stylize.steer.fun/splash.png",
+                      "splash_background_color": "#f7f7f7",
+                      "webhook_url": "https://stylize.steer.fun/api/webhooks/farcaster",
+                      "subtitle": "Create & Earn",
+                      "description": "Create viral image prompts and earn rewards. Upload any image and apply artistic styles to create stunning visual effects.",
+                      "primary_category": "art-creativity",
+                      "tags": [
+                        "image",
+                        "style-transfer",
+                        "creative",
+                        "photo-editing"
+                      ],
+                      "og_title": "Stylize Me",
+                      "og_description": "Transform photos with AI style transfer. Create stunning artistic effects instantly.",
+                      "og_image_url": "https://stylize.steer.fun/og.png"
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "Stylize Me",
+                      "home_url": "https://stylize.steer.fun",
+                      "icon_url": "https://stylize.steer.fun/splash.png",
+                      "image_url": "https://stylize.steer.fun/og.png",
+                      "button_title": "Try it now",
+                      "splash_image_url": "https://stylize.steer.fun/splash.png",
+                      "splash_background_color": "#f7f7f7",
+                      "webhook_url": "https://stylize.steer.fun/api/webhooks/farcaster",
+                      "subtitle": "Create & Earn",
+                      "description": "Create viral image prompts and earn rewards. Upload any image and apply artistic styles to create stunning visual effects.",
+                      "primary_category": "art-creativity",
+                      "tags": [
+                        "image",
+                        "style-transfer",
+                        "creative",
+                        "photo-editing"
+                      ],
+                      "og_title": "Stylize Me",
+                      "og_description": "Transform photos with AI style transfer. Create stunning artistic effects instantly.",
+                      "og_image_url": "https://stylize.steer.fun/og.png"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/da7c95d4-9185-4263-e41c-1bf5ebf9da00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 67920,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 512,
+            "height_px": 512
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0e188aa5",
+    "url": "https://farcaster.xyz/ethereumfndn/0x0e188aa5",
+    "author_username": "ethereumfndn",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 894783,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f99477f0-2b8d-406b-f7dd-9c36cdef2900/original",
+    "cast_date": "2025-07-26T16:45:49.000Z",
+    "text": "The 10 Year Anniversary Livestream will happen on July 30th.\n\nTo memorialize the occasion, the ecosystem will be able to mint a free, commemorative Ethereum Torch NFT for 24hrs after the event.\n\nJoin the global celebration.\n\n⏰ 2:30pm UTC\nLivestream link: https://www.youtube.com/live/igPIMF1p5Bo",
+    "embeds": [
+      {
+        "url": "https://www.youtube.com/live/igPIMF1p5Bo",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "undefined",
+            "oembed": {
+              "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/igPIMF1p5Bo?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"10 Years of Ethereum Livestream\"></iframe>",
+              "type": "video",
+              "title": "10 Years of Ethereum Livestream",
+              "width": 200,
+              "height": 113,
+              "method": "provider-api",
+              "version": "1.0",
+              "author_url": "https://www.youtube.com/@EthereumProtocol",
+              "author_name": "Ethereum",
+              "provider_url": "https://www.youtube.com/",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/igPIMF1p5Bo/hqdefault.jpg",
+              "thumbnail_width": 480,
+              "thumbnail_height": 360
+            },
+            "favicon": "https://www.youtube.com/s/desktop/5f57c66e/img/logos/favicon.ico",
+            "ogTitle": " - YouTube",
+            "ogLocale": "en",
+            "ogDescription": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7ae26272",
+    "url": "https://farcaster.xyz/octant/0x7ae26272",
+    "author_username": "octant",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 18203,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9853f821-1390-4ed5-4217-a46a65aa4400/original",
+    "cast_date": "2025-07-27T11:19:19.000Z",
+    "text": "gm gm 💝\n\nEthereum turns 10 next week. A whole decade of building the future. 🥳\n\nSpecial Dragon's Den to celebrate with Ethereum Cat Herders. \n\nTrivia, prizes, decade stories, and much fun. Live on X.\n\nTuesday, July 29, 1 PM EDT / 5 PM UTC.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/82363298-62b1-4fe2-8c34-1a8309740e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 441130,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1920,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3ce38e6b",
+    "url": "https://farcaster.xyz/kylepatrick.eth/0x3ce38e6b",
+    "author_username": "kylepatrick.eth",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 247143,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15b35784-d490-4144-15c4-62edc2a58c00/rectcrop3",
+    "cast_date": "2025-07-25T12:35:11.000Z",
+    "text": "Introducing: A Shitcaster's Guide to Farcaster\n\nContext is hard to find especially if you're new. \n\nSo, we made a guide for all the Farcaster lore, projects, memes, and so much more.\n\nThis is a growing list, I suggest you bookmark this article.\n\nhttps://paragraph.com/@readme/guide",
+    "embeds": [
+      {
+        "url": "https://paragraph.com/@readme/guide",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://paragraph.com/@readme/guide",
+            "ogDate": "2025-07-25T12:30:03.958Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/cc7779840def141251ada5c0740d274a.jpg",
+            "ogImage": [
+              {
+                "alt": "A Shitcaster's Guide to Farcaster",
+                "url": "https://storage.googleapis.com/papyrus_images/797dedf6aa6c14fce35fd339879ad30e.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "A Shitcaster's Guide to Farcaster",
+            "ogLocale": "en",
+            "ogDescription": "You're here because someone said \"frames\" and you smiled and nodded like you knew what that meant. It's okay. We all did. Context is hard to find, especially if you're new. Everyone's speaking meme, half the words are inside-jokes, and the other half are just nonsense. So we made this. A guide that actually explains what things mean. It'll keep growing as the lore does. ",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@readme/guide?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=A%20Shitcaster's%20Guide%20to%20Farcaster&blogName=Read%20Me&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fcc7779840def141251ada5c0740d274a.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F797dedf6aa6c14fce35fd339879ad30e.jpg&size=2048&publishedDate=1753446603958"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=A%20Shitcaster's%20Guide%20to%20Farcaster&blogName=Read%20Me&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fcc7779840def141251ada5c0740d274a.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F797dedf6aa6c14fce35fd339879ad30e.jpg&size=2048&publishedDate=1753446603958",
+            "frames_url": "https://paragraph.com/@readme/guide",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 378,
+              "username": "colin",
+              "display_name": "Colin",
+              "pfp_url": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+              "custody_address": "0x75d610d712d14076d2760e481731a5c8f9e7212d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1ZDYxMGQ3MTJkMTQwNzZEMjc2MGU0ODE3MzFBNUM4ZjllNzIxMkQifQ",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGguY29tIn0",
+                "signature": "MHg1MGI0NjljMDhmOWQ3Nzg3NjYyYTU2ZjkyZWNjNTMyNjliNDRjYTY1NmM0MjM0NjVkMGRkNDlmNjAxMTI5YjI5NDk2MDc5YTNhZTFjYzQ1NDFjMDcxMmUwYjUxYjkwYTU2Y2U5ZWMzODVmMjczYmNmMWZmYzZjMzViMWM2ODZlMTFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                "splash_background_color": "#26251A",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                "subtitle": "Support & earn from ideas that matter.",
+                "description": "A new way to earn off your best ideas.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "newsletter",
+                  "writing",
+                  "creator",
+                  "reading"
+                ],
+                "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "tagline": "Where ideas thrive.",
+                "og_title": "Paragraph",
+                "og_description": "A new way to earn off your best ideas.",
+                "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                "splash_background_color": "#26251A",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                "subtitle": "Support & earn from ideas that matter.",
+                "description": "A new way to earn off your best ideas.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "newsletter",
+                  "writing",
+                  "creator",
+                  "reading"
+                ],
+                "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "tagline": "Where ideas thrive.",
+                "og_title": "Paragraph",
+                "og_description": "A new way to earn off your best ideas.",
+                "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf4f0705f",
+    "url": "https://farcaster.xyz/tldr/0xf4f0705f",
+    "author_username": "tldr",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c8a5399-3ae5-4994-a9fe-d1e6c5ebc600/original",
+    "cast_date": "2025-07-27T17:22:34.000Z",
+    "text": "what has FC done to my child?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a9fa6d3e-4ab3-43d9-593c-f735e2626b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 158756,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1286,
+            "height_px": 710
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5ea52d19",
+    "url": "https://farcaster.xyz/bradq/0x5ea52d19",
+    "author_username": "bradq",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-07-27T17:58:33.000Z",
+    "text": "A new 'Bert & Bracky' episode just dropped!\n\n@bracky with a mouth only a @tldr could love...\n\n@bertwurst.eth the counselor coming to his side ... 'Is something going on at home?' 🤣",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a245362c-1e22-45f7-8613-e5fd8a466700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 711358,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1198,
+            "height_px": 1406
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaf9adaa6",
+    "url": "https://farcaster.xyz/superposition/0xaf9adaa6",
+    "author_username": "superposition",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 1103908,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/67710cb5-91aa-4794-5f03-e26dc019fc00/original",
+    "cast_date": "2025-07-25T09:02:00.000Z",
+    "text": "We’re excited to announce the @9lives trading competition! 🐱🏆\n\nWin up to 5,000 $ARB by creating a prediction market with the highest organic volume and liquidity.\n\nIt runs until September 1st and starts TODAY. 👇",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/38e6fc7e-f6bb-4c0e-6261-c365a242a100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 233736,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1600,
+            "height_px": 900
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x35ae187b",
+    "url": "https://farcaster.xyz/furqan/0x35ae187b",
+    "author_username": "furqan",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 3612,
+    "author_pfp": "https://lh3.googleusercontent.com/7MXxYevhNO4vg0K9Qg1docAt5ddO3mI-iocos2TwbY68Hg7H2Fad1KgGcx9ZQ14fD5U2FRmlr6ddujQVqI7OfqkeWCs44gR4gxPD",
+    "cast_date": "2025-07-26T01:24:53.000Z",
+    "text": "After 4 years of building tools for 100k+ web3 developers, we rebuilt thirdweb from the ground up.\n\nNew version cuts dev time by 80% and is built specifically for AI agents to use web3 easily.\n\nWant early access? Reply below for a DM.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x531a2b65",
+    "url": "https://farcaster.xyz/six/0x531a2b65",
+    "author_username": "six",
+    "show_date": "2025-07-28",
+    "show_title": "Poker, Pinball, and CreatorDAO bridging web2 to web3: GM Farcaster ep271 Monday, July 28, 2025",
+    "source_episode_id": "tKjtxWnJVRg",
+    "author_fid": 7143,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c94161eb-4176-4cd9-529a-accbe289b200/original",
+    "cast_date": "2025-07-25T14:04:05.000Z",
+    "text": "We should start calling Merkle “The Manufactory”. Goes kinda hard",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  }
+]
