@@ -18,6 +18,9 @@ export async function GET() {
       splashImageUrl: miniAppConfig.splashImageUrl(),
       splashBackgroundColor: miniAppConfig.splashBackgroundColor,
       description: "Explore casts featured on GM Farcaster episodes"
+    },
+    "baseBuilder": {
+      "allowedAddresses": ["0x6CB835229ff7e97ee8E1332139dA84D9ecB54Da6"]
     }
   };
 
