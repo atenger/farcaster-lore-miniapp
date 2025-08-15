@@ -20,17 +20,6 @@ export default function MyReferences() {
   // Get user's FID from Farcaster context
   const userFid = context?.user?.fid;
 
-  // Show loading while SDK is initializing
-  if (!isSDKLoaded) {
-    return (
-      <main className="min-h-screen bg-gray-50">
-        <div className="flex items-center justify-center py-12">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-purple-600"></div>
-        </div>
-      </main>
-    );
-  }
-
   const loadUserCasts = useCallback(async () => {
     if (!userFid) return;
     
@@ -92,6 +81,17 @@ export default function MyReferences() {
       setError('No Farcaster user detected. Please make sure you are using this MiniApp from within Farcaster.');
     }
   }, [userFid, isSDKLoaded, loadUserCasts]);
+
+  // Show loading while SDK is initializing
+  if (!isSDKLoaded) {
+    return (
+      <main className="min-h-screen bg-gray-50">
+        <div className="flex items-center justify-center py-12">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-purple-600"></div>
+        </div>
+      </main>
+    );
+  }
 
   return (
     <main className="min-h-screen bg-gray-50">
