@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { useMiniApp } from '@neynar/react';
 import Link from 'next/link';
 import { EnrichedCast, SearchFilters } from '@/lib/types';
@@ -20,17 +20,6 @@ export default function MyReferences() {
   // Get user's FID from Farcaster context
   const userFid = context?.user?.fid;
 
-  // Load user's casts when FID is available
-  useEffect(() => {
-    if (userFid) {
-      loadUserCasts();
-    } else if (isSDKLoaded && !userFid) {
-      // SDK loaded but no user FID - show appropriate message
-      setIsLoading(false);
-      setError('No Farcaster user detected. Please make sure you are using this MiniApp from within Farcaster.');
-    }
-  }, [userFid, isSDKLoaded]);
-
   // Show loading while SDK is initializing
   if (!isSDKLoaded) {
     return (
@@ -42,7 +31,7 @@ export default function MyReferences() {
     );
   }
 
-  const loadUserCasts = async () => {
+  const loadUserCasts = useCallback(async () => {
     if (!userFid) return;
     
     try {
@@ -65,7 +54,7 @@ export default function MyReferences() {
       setError('Failed to load your casts. Please try again.');
       setIsLoading(false);
     }
-  };
+  }, [userFid]);
 
   const loadMore = async () => {
     if (isLoadingMore || !userFid) return;
@@ -92,6 +81,17 @@ export default function MyReferences() {
   };
 
   const hasMore = casts.length < totalCasts;
+
+  // Load user's casts when FID is available
+  useEffect(() => {
+    if (userFid) {
+      loadUserCasts();
+    } else if (isSDKLoaded && !userFid) {
+      // SDK loaded but no user FID - show appropriate message
+      setIsLoading(false);
+      setError('No Farcaster user detected. Please make sure you are using this MiniApp from within Farcaster.');
+    }
+  }, [userFid, isSDKLoaded, loadUserCasts]);
 
   return (
     <main className="min-h-screen bg-gray-50">
@@ -159,9 +159,9 @@ export default function MyReferences() {
                 No casts found for your FID. This might mean:
               </p>
               <ul className="text-gray-500 mt-2 space-y-1">
-                <li>• You haven't been mentioned on GM Farcaster yet</li>
+                <li>• You haven&apos;t been mentioned on GM Farcaster yet</li>
                 <li>• You need to be using this MiniApp from within Farcaster</li>
-                <li>• There's an issue with the data</li>
+                <li>• There&apos;s an issue with the data</li>
               </ul>
             </div>
           ) : (

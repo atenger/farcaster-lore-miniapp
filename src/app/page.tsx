@@ -13,7 +13,7 @@ import Link from 'next/link';
 const CASTS_PER_PAGE = 20;
 
 export default function Home() {
-  const { isSDKLoaded, context } = useMiniApp();
+  const { context } = useMiniApp();
   const [casts, setCasts] = useState<EnrichedCast[]>([]);
   const [totalCasts, setTotalCasts] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
