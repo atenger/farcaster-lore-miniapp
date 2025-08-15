@@ -1,0 +1,1025 @@
+[
+  {
+    "cast_hash": "0x303cf5e7",
+    "url": "https://farcaster.xyz/v/0x303cf5e7",
+    "author_username": "v",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-08-01T04:54:59.000Z",
+    "text": "Collectible earnings upto $31k now!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0xa1ee59347e8092c6e0efd3f4b124be339822ec9e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa1ee59347e8092c6e0efd3f4b124be339822ec9e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa1ee59347e8092c6e0efd3f4b124be339822ec9e",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Creators earned $23,000 from collectibles in the first week! \n\nWe knew historically significant casts would be popular, but its also been really cool to see how people have sold candles, prints or even rented out their time to others via collectibles. \n\nOur next priority for collectibles is getting them to work on web, which we hope to ship this week. If you have any annoying bugs or feature requests, please share them in the thread below.",
+          "timestamp": "2025-07-29T18:17:15.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8d7c7244",
+    "url": "https://farcaster.xyz/yonfrula/0x8d7c7244",
+    "author_username": "yonfrula",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 243300,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d733b69f-7ebb-4c2a-82d9-c3eef656a200/original",
+    "cast_date": "2025-07-31T03:16:11.000Z",
+    "text": "a new trippy pfp is stamped on the blockchain!\n\n@dwr.eth — my archienemy.\nstatic and monochromatic, every animated pfp's nightmare.\nhttps://zora.co/coin/base:0x85dba08547329386f84a7cfc64922c2005d149dd?referrer=0x78b2de47fe499e0a6f7a67dbf965b8ec765d2d9d",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dcc41dfb-50f8-4c50-0f04-344d94788e00/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 4831619,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 800,
+            "height_px": 800
+          }
+        }
+      },
+      {
+        "url": "https://zora.co/coin/base:0x85dba08547329386f84a7cfc64922c2005d149dd?referrer=0x78b2de47fe499e0a6f7a67dbf965b8ec765d2d9d",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://zora.co/coin/base:0x85dba08547329386f84a7cfc64922c2005d149dd",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://zora.co/api/og-image/coin/base:0x85dba08547329386f84a7cfc64922c2005d149dd"
+              }
+            ],
+            "ogTitle": "dwr",
+            "ogLocale": "en",
+            "ogSiteName": "Zora",
+            "fcFrame": {
+              "button": {
+                "title": "Buy",
+                "action": {
+                  "type": "view_token",
+                  "token": "eip155:8453/erc20:0x85dba08547329386f84a7cfc64922c2005d149dd"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://zora.co/api/og-image/coin/base:0x85dba08547329386f84a7cfc64922c2005d149dd?crop=farcaster",
+              "aspectRatio": "1:1"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Buy",
+            "image": "https://zora.co/api/og-image/coin/base:0x85dba08547329386f84a7cfc64922c2005d149dd?crop=farcaster",
+            "frames_url": "https://zora.co/coin/base:0x85dba08547329386f84a7cfc64922c2005d149dd?referrer=0x78b2de47fe499e0a6f7a67dbf965b8ec765d2d9d"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5499acd7",
+    "url": "https://farcaster.xyz/yonfrula/0x5499acd7",
+    "author_username": "yonfrula",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 243300,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d733b69f-7ebb-4c2a-82d9-c3eef656a200/original",
+    "cast_date": "2025-07-31T16:40:07.000Z",
+    "text": "bid on this collectible to get a custom trippy pfp.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 243300,
+          "hash": "0x3b3a8bfae5fc3cc4c26029b4d3eaf2290db91aad"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3b3a8bfae5fc3cc4c26029b4d3eaf2290db91aad",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 243300,
+            "username": "yonfrula",
+            "display_name": "🌈 YON",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d733b69f-7ebb-4c2a-82d9-c3eef656a200/original",
+            "custody_address": "0x7b7579f2856e9e8a5ab37d4b21dee6027e582a02"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3b3a8bfae5fc3cc4c26029b4d3eaf2290db91aad",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/groupies",
+          "root_parent_url": "https://warpcast.com/~/channel/groupies",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "bid on this collectible to get a custom trippy pfp.",
+          "timestamp": "2025-07-28T12:07:19.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d26db3f9-0005-4d3e-8dd1-91960e7da300/original",
+              "metadata": {
+                "content_type": "image/gif",
+                "content_length": 3381700,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 800,
+                  "height_px": 800
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "groupies",
+            "name": "groupies",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ba2082b-cce4-4bbe-2ed4-c00a44480f00/original"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f726c059-ce34-4196-f58e-e4743cad0500/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 3381700,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 800,
+            "height_px": 800
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa9900a96",
+    "url": "https://farcaster.xyz/sloppy/0xa9900a96",
+    "author_username": "sloppy",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 196215,
+    "author_pfp": "https://i.imgur.com/N1Na2oD.jpg",
+    "cast_date": "2025-07-31T17:24:44.000Z",
+    "text": "I'll be drawing with my good friend @holakidd live on stream as part of @betrmint Neonchain Summer sessions! \n\nWe did this awesome piece last time so tune in to see what we cook next. \n\nBid on this cast and be the winner of the next collab piece! Freshly minted for the winner of the bid",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/419ac995-f8b6-4add-d8b3-9249651ed600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 743929,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1920,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb90b48d1",
+    "url": "https://farcaster.xyz/dwr.eth/0xb90b48d1",
+    "author_username": "dwr.eth",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-07-30T16:26:34.000Z",
+    "text": "AMA\n\nHaven’t done one of these in a while. Will be a bit slow to respond.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd4eaa3df",
+    "url": "https://farcaster.xyz/adrienne/0xd4eaa3df",
+    "author_username": "adrienne",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-07-31T18:51:04.000Z",
+    "text": "And we used @blackbird-xyz to find a restaurant, make a reservation,  and pay \n\nFirst time using it since trying it at FarCon NYC. Great experience.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 8004,
+          "hash": "0xf0cf665d55a3c25381f858413ffccac0f893ecfe"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf0cf665d55a3c25381f858413ffccac0f893ecfe",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 8004,
+            "username": "ahn.eth",
+            "display_name": "justin.ahn.eth",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cca05e9f-4f52-45c9-ebdb-c60ec8f93d00/rectcrop3",
+            "custody_address": "0x7d330a7be9e6ab47cf24f60f546537aba6bc17a8"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf0cf665d55a3c25381f858413ffccac0f893ecfe",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/justinahn",
+          "root_parent_url": "https://warpcast.com/~/channel/justinahn",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "gm, farcaster\n\ncc @adrienne 🦊",
+          "timestamp": "2025-07-31T17:56:02.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/723478dd-07dc-450b-6631-c7f00e7b4100/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 591099,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1999,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "justinahn",
+            "name": "justinahn",
+            "image_url": "https://i.imgur.com/n2YEWKR.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcea15cb9",
+    "url": "https://farcaster.xyz/nounishprof/0xcea15cb9",
+    "author_username": "nounishprof",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-08-01T12:17:03.000Z",
+    "text": "@aptos poker last night was so much fun! And thanks to the over 750 folks who were watching live! wowow! Congrats to @joely.eth our winner and @thumb the runner up who will both be playing in the final game next Thursday. And congrats @jacy who won bragging rights! (@aptos team not allowed to really win lol) And @kia.eth you were gone way too soon! \n\nWe'll be back with the next game on Tuesday Aug 5 and final game on Aug 7.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x15ddf80f8b5cd64fe1dd029c966baf1d5aea923c"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x15ddf80f8b5cd64fe1dd029c966baf1d5aea923c",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x15ddf80f8b5cd64fe1dd029c966baf1d5aea923c",
+          "parent_hash": null,
+          "parent_url": "https://farcaster.xyz/~/channel/aptosclub",
+          "root_parent_url": "https://farcaster.xyz/~/channel/aptosclub",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Next game starting in about 15 minutes -- come hang in YouTube! https://www.youtube.com/live/gzk87M0xgJg?si=CRZBcGmA89h7Dwpx",
+          "timestamp": "2025-07-31T22:47:09.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 4167,
+                "hash": "0xb8155b14a424daa684e9d69c92cdebe5a82fa686"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xb8155b14a424daa684e9d69c92cdebe5a82fa686",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 4167
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://www.youtube.com/live/gzk87M0xgJg?si=CRZBcGmA89h7Dwpx",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.youtube.com/watch?v=gzk87M0xgJg",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/gzk87M0xgJg?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"GM Facaster x Aptos poker\"></iframe>",
+                    "type": "video",
+                    "title": "GM Facaster x Aptos poker",
+                    "width": 200,
+                    "height": 113,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@GMFarcaster",
+                    "author_name": "GM Farcaster",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/gzk87M0xgJg/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "ogDate": "2025-07-31T11:00:17-07:00",
+                  "ogType": "video.other",
+                  "favicon": "https://www.youtube.com/s/desktop/5f57c66e/img/logos/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://i.ytimg.com/vi/gzk87M0xgJg/hqdefault.jpg?v=688baf34",
+                      "type": "jpg",
+                      "width": "480",
+                      "height": "360"
+                    }
+                  ],
+                  "ogTitle": "GM Facaster x Aptos poker",
+                  "ogVideo": [
+                    {
+                      "url": "https://www.youtube.com/embed/gzk87M0xgJg",
+                      "type": "text/html",
+                      "width": "640",
+                      "height": "360"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "YouTube",
+                  "ogDescription": "Come hang with some of your favorite Farcasters and the Aptos team as we play poker and chat about Aptos, Farcaster and the latest happenings around the ecos...",
+                  "ogVideoSecureURL": "https://www.youtube.com/embed/gzk87M0xgJg"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "aptosclub",
+            "name": "aptosclub",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e419a89-991c-4007-a67b-6b71f1b9f800/original"
+          }
+        }
+      },
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0198658f-b3e3-8c98-3a74-fe7cf06a3cc2.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1918,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1278,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 638,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 60
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x37eef6b0",
+    "url": "https://farcaster.xyz/linda/0x37eef6b0",
+    "author_username": "linda",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-07-30T19:18:36.000Z",
+    "text": "huge thanks to @deodad @horsefacts.eth @pirosb3 and team for making a lot of improvements to dev tooling recently! always a work in a progress to make even better, feel free to send me feedback",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 193,
+          "hash": "0x7f8c3e9277299e289f8844465c993773e4237ba7"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7f8c3e9277299e289f8844465c993773e4237ba7",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 193,
+            "username": "derek",
+            "display_name": "derek",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7830e8f-33dd-4372-441a-e9696bb26900/original",
+            "custody_address": "0x39cfd32f0670ca90dfcb0f19fd46ff10379c5b44"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7f8c3e9277299e289f8844465c993773e4237ba7",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I'd just like to shout-out and show some love to the @farcaster team (not sure who's responsible) for the Developers tooling. \n\nIt's come REALLY far in a short amount of time. Well done. 👏",
+          "timestamp": "2025-07-30T18:23:19.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7f8c3e92",
+    "url": "https://farcaster.xyz/derek/0x7f8c3e92",
+    "author_username": "derek",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 193,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7830e8f-33dd-4372-441a-e9696bb26900/original",
+    "cast_date": "2025-07-30T18:23:19.000Z",
+    "text": "I'd just like to shout-out and show some love to the @farcaster team (not sure who's responsible) for the Developers tooling. \n\nIt's come REALLY far in a short amount of time. Well done. 👏",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9d9d6406",
+    "url": "https://farcaster.xyz/gt/0x9d9d6406",
+    "author_username": "gt",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 302,
+    "author_pfp": "https://i.imgur.com/YM5spql.jpg",
+    "cast_date": "2025-07-31T14:44:07.000Z",
+    "text": "We are experimenting with an updated way of casting on Farcaster app. It will allow you browse the feed as usual while media uploads occur. \n\nIf you are someone who has been casting heavy media and want to try it out — reply in this thread.\n\nWarning: You must be comfortable with unexpected failures during the testing period.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1c32f321",
+    "url": "https://farcaster.xyz/burrrrrberry/0x1c32f321",
+    "author_username": "burrrrrberry",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 311933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c38a25a6-f3e3-471c-1d79-af3b60651500/original",
+    "cast_date": "2025-07-31T16:04:24.000Z",
+    "text": "\"GET $BETR TOGETHER\" for 40m $BETR\n\nRules:\n- You have until Monday, August 4th, to submit a VERTICAL video (can hide your face) - enjoy a boost on the leaderboard also!\n- Quote cast this cast with \"GET $BETR TOGETHER\"\n- Cross post on X for bonus points! Be sure to tag @betrmint \n\nPlease include:\n- What do you want to get BETR at?\n- Why do you want to get BETR?\n- How are you going to get BETR\n- Who can possibly help you get BETR\n\nThe top 15 on the Karma leaderboard (on Aug. 4th) will be able to nominate a finalist.\n\n@toadyhawk.eth, @netnose, Burr and celebrity guest judge @nounishprof will choose 4 winners from the nominations!\n\nEach winner will win 10m $BETR 🏆\n\nBurr and Toady will also be awarding $tipn to all entries!  Some say Toady may be unhinged with noice also.\n\nWinners will be announced on /gmfarcaster live on Wednesday, August 6th.\n\nLet's get BETR together 🤍",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/18908eed-7e37-44fa-3c05-60d0d4575b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 599225,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1079,
+            "height_px": 1074
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x096102e7",
+    "url": "https://farcaster.xyz/horsefacts.eth/0x096102e7",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2025-07-30T21:53:02.000Z",
+    "text": "Watching the social economy grow is one of the most satisfying things about building Farcaster right now. @kompreni's collectible bid just went straight to @0ffline's crowdfund. There are faces (or at least identities) to most interactions. \n\nStable exchange in cozy networks will probably always be more boring than letting the animal spirits rip. But it feels good.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3621,
+          "hash": "0xfbae71f4f78594f5053ad84d83e6db9e1c9532f6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xfbae71f4f78594f5053ad84d83e6db9e1c9532f6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3621,
+            "username": "horsefacts.eth",
+            "display_name": "horsefacts",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+            "custody_address": "0x2cd85a093261f59270804a6ea697cea4cebecafe"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xfbae71f4f78594f5053ad84d83e6db9e1c9532f6",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "There is an immediacy and velocity to exchange in the \"social economy\" that is new and different from other crypto interactions. Tips come in, tips go back out. I earned a @paperview reward last week and spent it on other people's content.\n\nThis kind of exchange is one-to-one, personal, and often repeated. \n\nThere was some of this in the \"DAO economy\" era but it was many-to-one, slow, and often captured.\n\nThere is little of this in the rest of crypto: swapping and speculating are impersonal and often antisocial.",
+          "timestamp": "2025-07-02T14:15:19.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfbae71f4",
+    "url": "https://farcaster.xyz/horsefacts.eth/0xfbae71f4",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57ed31d8-0efa-4885-0583-6d31d3a31a00/original",
+    "cast_date": "2025-07-02T14:15:19.000Z",
+    "text": "There is an immediacy and velocity to exchange in the \"social economy\" that is new and different from other crypto interactions. Tips come in, tips go back out. I earned a @paperview reward last week and spent it on other people's content.\n\nThis kind of exchange is one-to-one, personal, and often repeated. \n\nThere was some of this in the \"DAO economy\" era but it was many-to-one, slow, and often captured.\n\nThere is little of this in the rest of crypto: swapping and speculating are impersonal and often antisocial.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdc414fa8",
+    "url": "https://farcaster.xyz/phil/0xdc414fa8",
+    "author_username": "phil",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2025-08-01T00:34:15.000Z",
+    "text": "last day before demo at @nodefoundation",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01986307-9ae7-e270-372e-790bba5d433a.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 85.2
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9dbeefd3",
+    "url": "https://farcaster.xyz/linda/0x9dbeefd3",
+    "author_username": "linda",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-08-01T01:32:25.000Z",
+    "text": "im kind of tempted to try out a farcaster daily show talking to top builders in crypto + clips for virality to see how it goes and if drives new builders/users to farcaster. already stream multiple times per week for farcaster onboarding and mini apps so why not",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 129,
+          "hash": "0xeb9fc157f569261de5041fc8a056621dae9c210a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xeb9fc157f569261de5041fc8a056621dae9c210a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 129,
+            "username": "phil",
+            "display_name": "phil",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+            "custody_address": "0xf6fd7deec77d7b1061435585df1d7fdfd4682577"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x22d4f03724a4b955305299367d6057e5453b49e7",
+          "parent_hash": "0x22d4f03724a4b955305299367d6057e5453b49e7",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 12
+          },
+          "text": "They cracked a viral format. They combination of a daily show with several guests per day means that each guest is doing marketing for the show. Once you hit a critical mass and people see their friends on the show they clamor to join themselves.",
+          "timestamp": "2025-08-01T01:21:10.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xeb9fc157",
+    "url": "https://farcaster.xyz/phil/0xeb9fc157",
+    "author_username": "phil",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2025-08-01T01:21:10.000Z",
+    "text": "They cracked a viral format. They combination of a daily show with several guests per day means that each guest is doing marketing for the show. Once you hit a critical mass and people see their friends on the show they clamor to join themselves.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x198969b5",
+    "url": "https://farcaster.xyz/oxb/0x198969b5",
+    "author_username": "oxb",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 20286,
+    "author_pfp": "https://i.imgur.com/5lTpsyy.jpg",
+    "cast_date": "2025-07-31T23:34:45.000Z",
+    "text": "people who don’t believe in content coins & social trading should look at this 👇\n\n@base.base.eth app 7x more active traders per user than the old coinbase wallet\n\nif you want to lose, stay on the sidelines",
+    "embeds": [
+      {
+        "url": "https://tba-social.mypinata.cloud/ipfs/bafkreibedxapyzkbx3axsmg4f45mbgoth75lekbdpcfqmddszb4v5csq6a?zoraCoin=0x9b7d98362ec4a40c7730ccda69b5f4ddbfb45f14",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 38225,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1048,
+            "height_px": 924
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x19e98bef",
+    "url": "https://farcaster.xyz/six/0x19e98bef",
+    "author_username": "six",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 7143,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1330209e-8542-4260-522e-db1c54b98e00/original",
+    "cast_date": "2025-07-31T15:54:45.000Z",
+    "text": "explaining zora to my normie friends:\n\nit's like instagram, but every time you post you launch an erc20 (ethereum request for comment - 20) token on base which is an ethereum layer-2 blockchain by coinbase, the erc20 token is paired against another erc20 token in a uniswap version 4 liquidity pool, *that* erc20 token is your creator coin, which is paired against another erc20 token called the zora token. ethereum layer 2s are are solutions designed to enhance the scalability of the ethereum network. they operate on top of the ethereum blockchain (Layer-1), inheriting its security while striving to provide faster and less costly transactions.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9c6f4017",
+    "url": "https://farcaster.xyz/0xdesigner/0x9c6f4017",
+    "author_username": "0xdesigner",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 1317,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/42bb7ee0-7246-49fd-7993-8d138aa89000/rectcrop3",
+    "cast_date": "2025-07-31T14:24:21.000Z",
+    "text": "this is not criticism. but just clocking a feeling:\n\ni’ve been avoiding posting on the base app because i don’t want to make a coin.\n\ni’ve tried rationalizing over and over why i don’t like coins.\n\nand i don’t think i’ve gotten to the bottom of the real “why”.\n\nbut i don’t like coins. and i want to know why.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd7be2e92",
+    "url": "https://farcaster.xyz/base.base.eth/0xd7be2e92",
+    "author_username": "base.base.eth",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 12142,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce5460f6-40a2-4486-47c1-7801e4033e00/original",
+    "cast_date": "2025-07-30T16:50:03.000Z",
+    "text": "The @coinbase protocol security team is now offering free security reviews to a cohort of apps and protocols on @base.base.eth chain, in beta. \n\nSelected teams will receive a scoped review, security-related recommendations, and other assistance to improve. \n\nSpots are limited! Read more in our blog:",
+    "embeds": [
+      {
+        "url": "https://blog.base.dev/free-security-reviews",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://blog.base.dev/free-security-reviews",
+            "ogDate": "2025-07-29T18:31:49.371Z",
+            "favicon": "https://storage.googleapis.com/papyrus_images/4c3a144799fa268732aaebeb30b5b1d7.jpg",
+            "ogImage": [
+              {
+                "alt": "Introducing free security reviews for Base builders",
+                "url": "https://storage.googleapis.com/papyrus_images/89459c1540c4037efa831e58a1efb354.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Introducing free security reviews for Base builders",
+            "ogLocale": "en",
+            "ogDescription": "Today, we’re excited to launch free security reviews to a select cohort of apps and protocols on Base.",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@base-engineering-blog/free-security-reviews?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Introducing%20free%20security%20reviews%20for%20Base%20builders&blogName=Base%20Engineering%20Blog&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F4c3a144799fa268732aaebeb30b5b1d7.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F89459c1540c4037efa831e58a1efb354.jpg&size=2048&publishedDate=1753813909371"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Introducing%20free%20security%20reviews%20for%20Base%20builders&blogName=Base%20Engineering%20Blog&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F4c3a144799fa268732aaebeb30b5b1d7.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F89459c1540c4037efa831e58a1efb354.jpg&size=2048&publishedDate=1753813909371",
+            "frames_url": "https://blog.base.dev/free-security-reviews"
+          }
+        }
+      },
+      {
+        "url": "zoraCoin://0xf5ef1aafaddd96a7231085f3e4d3c78825b2214d",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xad601c58",
+    "url": "https://farcaster.xyz/jesse.base.eth/0xad601c58",
+    "author_username": "jesse.base.eth",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-07-31T18:52:43.000Z",
+    "text": "A new day one for American financial markets.",
+    "embeds": [
+      {
+        "url": "https://tba-social.mypinata.cloud/ipfs/bafybeibtd4u2g6l3ddl4ozpwqeh6cmz7gcyyvjxcok75el6e3izpzwujrm?zoraCoin=0x6ce62ea65318986f64b74a810d12ed46326d4864",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 2124633,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3703,
+            "height_px": 3703
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0d7edecc",
+    "url": "https://farcaster.xyz/barmstrong/0x0d7edecc",
+    "author_username": "barmstrong",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 20,
+    "author_pfp": "https://i.imgur.com/4t3zVHj.jpg",
+    "cast_date": "2025-07-31T23:43:06.000Z",
+    "text": "Coinbase is becoming the everything exchange.\n\nAll assets will inevitably move onchain, so we want to have everything you want to trade in one place.\n\nIncoming: DEX integration (access millions of assets) + expansion of our derivatives offerings.\n\nNext: tokenized equities + more.",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/base-app/video/upload/sp_auto/v1754005369/video_uploads/d756e8b2-a3a7-4671-9f0b-776c1096369b.m3u8?zoraCoin=0x47e7590f1f4ccce64d26bb1f638fca7878962bc5",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": 959,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 540,
+                "width_px": 960,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 270,
+                "width_px": 480,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 29.462726
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xad3b76cd",
+    "url": "https://farcaster.xyz/dwr.eth/0xad3b76cd",
+    "author_username": "dwr.eth",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-08-01T02:12:38.000Z",
+    "text": "Coinbase automatically listing all onchain assets will be the end of the listing pop Keynesian beauty contest.\n\nWill also mean the easy access to everything will make it harder to find your thing. Curation and discovery both on Coinbase and in crypto / social will become even more important.\n\nAlso shout out to @balajis.eth for correctly identifying that Coinbase model was Yahoo! (directory) and needed to shift to Google (index) all the way back in 2018.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf499981a",
+    "url": "https://farcaster.xyz/barmstrong/0xf499981a",
+    "author_username": "barmstrong",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 20,
+    "author_pfp": "https://i.imgur.com/4t3zVHj.jpg",
+    "cast_date": "2025-07-28T22:22:06.000Z",
+    "text": "We're hosting a Q&A following our Q2 financial results this week. Live on 𝕏, on August 1 at 10AM PT. (Maybe some day live on Base!)\n\nAsk your questions below, we'll answer the best ones!",
+    "embeds": [
+      {
+        "url": "https://tba-social.mypinata.cloud/ipfs/bafybeidatcmp2evgupdz75fvy4j6m6ba7rzny72uufalctn4nsgd7ynr7q?zoraCoin=0x9427e66d26e4ac8d839d21ab901d96a8221f3e94",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 743562,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 3840,
+            "height_px": 2160
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2ae2b4f9",
+    "url": "https://farcaster.xyz/chaskin.eth/0x2ae2b4f9",
+    "author_username": "chaskin.eth",
+    "show_date": "2025-08-01",
+    "show_title": "Fest FOMO, Poker Drama & Trippy PFPs — A Very Farcaster Friday: GM Farcaster ep273",
+    "source_episode_id": "sFyNiDmzx5o",
+    "author_fid": 7479,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5b2ace01-6045-4b21-5991-cf48c2b12900/original",
+    "cast_date": "2025-07-31T21:43:20.000Z",
+    "text": "reading your old tweets?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  }
+]
