@@ -113,28 +113,37 @@ export default function Leaderboard() {
     <div className="min-h-screen bg-gray-50">
       <header className="bg-white shadow-sm border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 py-6">
-          <div className="flex items-center justify-between">
-            <div>
-              <h1 className="text-2xl font-bold text-gray-900">
-                Leaderboard
-              </h1>
-              <p className="text-gray-600 mt-1">
-                Most mentioned users on{' '}
-                <a 
-                  href="https://www.youtube.com/@gmfarcaster"
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="text-purple-600 hover:text-purple-800 font-medium"
-                >
-                  GM Farcaster
-                </a>
-              </p>
-            </div>
+          {/* Row 1: Title & Subtitle (full width) */}
+          <div className="text-center mb-6">
+            <h1 className="text-2xl font-bold text-gray-900">
+              Leaderboard
+            </h1>
+            <p className="text-gray-600 mt-1">
+              The Most Mentioned Users on{' '}
+              <a 
+                href="https://www.youtube.com/@gmfarcaster"
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-purple-600 hover:text-purple-800 font-medium"
+              >
+                GM Farcaster
+              </a>
+            </p>
+          </div>
+
+          {/* Row 2: Navigation (prominent) */}
+          <div className="flex gap-3 justify-center">
             <Link 
               href="/"
-              className="px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors"
+              className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium"
             >
-              ← Back to Casts
+              ← Back to All Casts
+            </Link>
+            <Link 
+              href="/my-references"
+              className="px-6 py-3 bg-purple-700 text-white rounded-lg hover:bg-purple-800 transition-colors font-medium"
+            >
+              📍 My References
             </Link>
           </div>
         </div>

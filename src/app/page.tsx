@@ -5,7 +5,7 @@ import { useMiniApp } from '@neynar/react';
 import { EnrichedCast, SearchFilters } from '@/lib/types';
 import { searchCasts, getAllCasts, validateAndCleanCasts } from '@/lib/api';
 import CastGrid from '@/components/CastGrid';
-import FilterButtons from '@/components/FilterButtons';
+
 import DatePicker from '@/components/DatePicker';
 import UserSearch from '@/components/UserSearch';
 import Link from 'next/link';
@@ -172,43 +172,79 @@ export default function Home() {
     <main className="min-h-screen bg-gray-50">
       <header className="bg-white shadow-sm border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 py-6">
-          <div className="flex items-center justify-between">
-            <div>
-              <h1 className="text-2xl font-bold text-gray-900">
-                Farcaster Lore
-              </h1>
-              <p className="text-gray-600 mt-1">
-                Explore casts featured on{' '}
-                <a 
-                  href="https://www.youtube.com/@gmfarcaster"
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="text-purple-600 hover:text-purple-800 font-medium"
-                >
-                  GM Farcaster
-                </a>
-              </p>
-            </div>
-            <div className="flex gap-2">
-               <Link 
-                 href="/leaderboard"
-                 className="px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors"
-               >
-                 🏆 Leaderboard
-               </Link>
-            </div>
+          {/* Row 1: Title & Subtitle (full width) */}
+          <div className="text-center mb-6">
+            <h1 className="text-2xl font-bold text-gray-900">
+              Farcaster Lore
+            </h1>
+            <p className="text-gray-600 mt-1">
+              Travel through Farcaster history with every cast mentioned on{' '}
+              <a 
+                href="https://www.youtube.com/@gmfarcaster"
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-purple-600 hover:text-purple-800 font-medium"
+              >
+                GM Farcaster
+              </a>
+            </p>
+          </div>
+
+          {/* Row 2: Main Navigation (prominent) */}
+          <div className="flex gap-3 justify-center mb-4">
+            {context?.user?.fid && (
+              <Link 
+                href="/my-references"
+                className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium"
+              >
+                📍 My References
+              </Link>
+            )}
+            <Link 
+              href="/leaderboard"
+              className="px-6 py-3 bg-purple-700 text-white rounded-lg hover:bg-purple-800 transition-colors font-medium"
+            >
+              🏆 Leaderboard
+            </Link>
+          </div>
+
+          {/* Row 3: Filter Navigation (less prominent) */}
+          <div className="flex gap-2 justify-center">
+            <button 
+              onClick={() => handleFilterChange('all')}
+              className={`px-4 py-2 rounded-lg transition-colors text-sm ${
+                activeFilter === 'all' 
+                  ? 'bg-purple-100 text-purple-800 border border-purple-300' 
+                  : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+              }`}
+            >
+              All Casts
+            </button>
+            <button 
+              onClick={handleUserSearchOpen}
+              className={`px-4 py-2 rounded-lg transition-colors text-sm ${
+                activeFilter === 'pick-user' 
+                  ? 'bg-purple-100 text-purple-800 border border-purple-300' 
+                  : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+              }`}
+            >
+              Pick a User
+            </button>
+            <button 
+              onClick={handleDatePickerOpen}
+              className={`px-4 py-2 rounded-lg transition-colors text-sm ${
+                activeFilter === 'pick-date' 
+                  ? 'bg-purple-100 text-purple-800 border border-purple-300' 
+                  : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+              }`}
+            >
+              Pick a Date
+            </button>
           </div>
         </div>
       </header>
 
-      <FilterButtons 
-        onFilterChange={handleFilterChange} 
-        activeFilter={activeFilter}
-        onDatePickerOpen={handleDatePickerOpen}
-        onUserSearchOpen={handleUserSearchOpen}
-        selectedDate={selectedDate}
-        selectedUser={selectedUser}
-      />
+
 
       <DatePicker
         isOpen={isDatePickerOpen}

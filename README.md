@@ -91,16 +91,20 @@ Enriched data for each episode containing detailed cast information, engagement 
 
 ## 🖥 Features
 
-### Current (MVP)
+### Current 
 - 📋 Display all casts in a searchable grid layout
 - 🔍 Search and filter by FID, username, or date
 - 🔗 Direct links to original Farcaster posts
 - 📱 Responsive design for mobile and desktop
 - ⚡ Fast loading with progressive data enrichment
+- 📱 Farcaster MiniApp integration
 
 ### Planned
-- 📱 Farcaster MiniApp integration
+- Ability for people whose casts are here to mint an NFT badge 
+- Add a "My references" button for people to quickly see all theirs without searching for their own name
+- More styled/compelling UI
 - 🎨 Enhanced UI with cast previews
+- Prompt user to 'add miniapp' and notifications from Neynar
 
 ---
 

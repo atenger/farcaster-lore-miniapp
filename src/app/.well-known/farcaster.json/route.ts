@@ -17,7 +17,8 @@ export async function GET() {
       buttonTitle: "📚 Explore",
       splashImageUrl: miniAppConfig.splashImageUrl(),
       splashBackgroundColor: miniAppConfig.splashBackgroundColor,
-      description: "Explore casts featured on GM Farcaster episodes"
+      description: "Explore casts featured on GM Farcaster episodes",
+      webhookUrl: "https://api.neynar.com/f/app/8b98adfc-21a7-42d5-b637-0251486529de/event"
     },
     frame: {
       version: "1",
@@ -28,7 +29,8 @@ export async function GET() {
       buttonTitle: "📚 Explore",
       splashImageUrl: miniAppConfig.splashImageUrl(),
       splashBackgroundColor: miniAppConfig.splashBackgroundColor,
-      description: "Explore casts featured on GM Farcaster episodes"
+      description: "Explore casts featured on GM Farcaster episodes",
+      webhookUrl: "https://api.neynar.com/f/app/8b98adfc-21a7-42d5-b637-0251486529de/event"
     },
     "baseBuilder": {
       "allowedAddresses": ["0x6CB835229ff7e97ee8E1332139dA84D9ecB54Da6"]
