@@ -1,0 +1,1530 @@
+[
+  {
+    "cast_hash": "0xd2f3e64f",
+    "url": "https://farcaster.xyz/bradq/0xd2f3e64f",
+    "author_username": "bradq",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-08-18T12:35:56.000Z",
+    "text": "29 Seconds of Farcaster ... What did you miss this weekend?\n\n* It was a @betrmint & @tipn weekend with week 1 of the $BETR allocation winding down--contests, 1 of 1 art bids, and other creative ways to tip. There are 30+ great intros of FCers with my 'Get To Know Me $BETR' giveaway. Great to read people's stories 💜 \n\n* @colin announced a new Paragraph feature: 'remixing' that allows you to take someone's post and 'remix' it with your response or thoughts as your own post. This can expose you and the original author to each other's audience or help reluctant writers with a prompt to get started\n\n* @chintan gave some helpful reflections on 5 weeks of TBA, including that 20% of people make money their first week & that social onboarding and simplicity produce results\n\n* @livecaster continues to drive engagement in events, this week UFC and soccer. Bracky has been brought into the livecaster fold-- s/o @sayangel & @tldr for building up this fun way to engage & earn\n\n* This Week In Mini Apps featured betrmint & @scratch mini apps | https://farcaster.xyz/linda/0x8ff48370\n\n* /gmfarcaster is on at 11:30 AM EST with @adrienne & @nounishprof Monday shenanigans & news to catch up and get you ready for the week 💜",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x383eb6b7286b54f0786f2b89c9d33e8c6045ce92"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x383eb6b7286b54f0786f2b89c9d33e8c6045ce92",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x383eb6b7286b54f0786f2b89c9d33e8c6045ce92",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster back tomorrow at a west coast friendly 11:30 am ET/8:30 am PT. We'll be chatting up all the Farcaster and Base App news and covering all your favorite builders. \n\nJoin @adrienne and I on YouTube, Twitter or watch in the @gmfarcaster mini app. We'll see you in the GM!\n\nhttps://www.youtube.com/live/mpfHnBOu-18?si=fJBkncf6XfaFPnCc",
+          "timestamp": "2025-08-17T21:21:00.000Z",
+          "embeds": [
+            {
+              "url": "https://miniapp.gmfarcaster.com",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogTitle": "GM Farcaster",
+                  "ogLocale": "en",
+                  "ogDescription": "Get your daily dose of Farcaster news and culture.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch GM Farcaster",
+                      "action": {
+                        "url": "https://miniapp.gmfarcaster.com",
+                        "name": "GM Farcaster",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://miniapp.gmfarcaster.com/logo.png",
+                        "splashBackgroundColor": "#AF48CF"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://miniapp.gmfarcaster.com/api/share-image?videoId=E7H2DbAoCkE"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch GM Farcaster",
+                  "image": "https://miniapp.gmfarcaster.com/api/share-image?videoId=E7H2DbAoCkE",
+                  "frames_url": "https://miniapp.gmfarcaster.com/",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 5818,
+                    "username": "adrienne",
+                    "display_name": "adrienne",
+                    "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+                    "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjU4MTgsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgxMjQzNTE2NDA4RWU5NzZiMzQ1NzM2NzhmMkFBMDI5YjY5REU0RjAwIn0",
+                      "payload": "eyJkb21haW4iOiJtaW5pYXBwLmdtZmFyY2FzdGVyLmNvbSJ9",
+                      "signature": "MHhhZDhhNDE3OGFiMDZkOGU3MWYwYTVmYjhiNjBjMjFjOTJhYzJjYzRkNTIyMTdhNzhhNjZmZTE5NDQ3YTlmMGVmNDQ3NGY0ZDI2NmViYzg4MTU0NTI0OGUwZDYzMzg5ZGVlMTUwMTg1NWI5ODg5YzBmZTMwOGMwMWZkMzhmZjk3ODFj"
+                    },
+                    "frame": {
+                      "version": "next",
+                      "name": "GM Farcaster",
+                      "home_url": "https://miniapp.gmfarcaster.com",
+                      "icon_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_1024_1024.png",
+                      "image_url": "https://miniapp.gmfarcaster.com/logo.png",
+                      "button_title": "Launch GM Farcaster",
+                      "splash_image_url": "https://miniapp.gmfarcaster.com/logo.png",
+                      "splash_background_color": "#AF48CF",
+                      "webhook_url": "https://api.neynar.com/f/app/56d04686-0f59-4eaa-af16-c484abd555e2/event",
+                      "subtitle": "29 minutes of Farcaster news",
+                      "description": "Farcaster's Most Popular News Show, brought to you by NounishProf and Adrienne",
+                      "screenshot_urls": [
+                        "https://miniapp.gmfarcaster.com/images/screenshot1.png",
+                        "https://miniapp.gmfarcaster.com/images/screenshot2.png"
+                      ],
+                      "primary_category": "news-media",
+                      "tags": [
+                        "news",
+                        "podcast",
+                        "farcaster",
+                        "live-streaming",
+                        "community",
+                        "gmfarcaster"
+                      ],
+                      "hero_image_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_wide.png",
+                      "tagline": "29 minutes of Farcaster news",
+                      "og_title": "GM Farcaster",
+                      "og_description": "Farcaster's Most Popular News Show, brought to you by NounishProf and Adrienne",
+                      "og_image_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_wide.png",
+                      "required_chains": [
+                        "eip155:8453"
+                      ],
+                      "required_capabilities": [
+                        "wallet.getEthereumProvider",
+                        "actions.sendToken",
+                        "actions.addFrame"
+                      ]
+                    },
+                    "miniapp": {
+                      "version": "next",
+                      "name": "GM Farcaster",
+                      "home_url": "https://miniapp.gmfarcaster.com",
+                      "icon_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_1024_1024.png",
+                      "image_url": "https://miniapp.gmfarcaster.com/logo.png",
+                      "button_title": "Launch GM Farcaster",
+                      "splash_image_url": "https://miniapp.gmfarcaster.com/logo.png",
+                      "splash_background_color": "#AF48CF",
+                      "webhook_url": "https://api.neynar.com/f/app/56d04686-0f59-4eaa-af16-c484abd555e2/event",
+                      "subtitle": "29 minutes of Farcaster news",
+                      "description": "Farcaster's Most Popular News Show, brought to you by NounishProf and Adrienne",
+                      "screenshot_urls": [
+                        "https://miniapp.gmfarcaster.com/images/screenshot1.png",
+                        "https://miniapp.gmfarcaster.com/images/screenshot2.png"
+                      ],
+                      "primary_category": "news-media",
+                      "tags": [
+                        "news",
+                        "podcast",
+                        "farcaster",
+                        "live-streaming",
+                        "community",
+                        "gmfarcaster"
+                      ],
+                      "hero_image_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_wide.png",
+                      "tagline": "29 minutes of Farcaster news",
+                      "og_title": "GM Farcaster",
+                      "og_description": "Farcaster's Most Popular News Show, brought to you by NounishProf and Adrienne",
+                      "og_image_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_wide.png",
+                      "required_chains": [
+                        "eip155:8453"
+                      ],
+                      "required_capabilities": [
+                        "wallet.getEthereumProvider",
+                        "actions.sendToken",
+                        "actions.addFrame"
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "url": "https://www.youtube.com/live/mpfHnBOu-18?si=fJBkncf6XfaFPnCc",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.youtube.com/watch?v=mpfHnBOu-18",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/mpfHnBOu-18?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"GM Farcaster ep278 Monday August 18, 2025\"></iframe>",
+                    "type": "video",
+                    "title": "GM Farcaster ep278 Monday August 18, 2025",
+                    "width": 200,
+                    "height": 113,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@GMFarcaster",
+                    "author_name": "GM Farcaster",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/mpfHnBOu-18/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "ogDate": "2025-08-17T14:17:12-07:00",
+                  "ogType": "video.other",
+                  "favicon": "https://www.youtube.com/s/desktop/f717390d/img/logos/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://i.ytimg.com/vi/mpfHnBOu-18/hqdefault.jpg?v=68a246da",
+                      "type": "jpg",
+                      "width": "480",
+                      "height": "360"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster ep278 Monday August 18, 2025",
+                  "ogVideo": [
+                    {
+                      "url": "https://www.youtube.com/embed/mpfHnBOu-18",
+                      "type": "text/html",
+                      "width": "640",
+                      "height": "360"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "YouTube",
+                  "ogVideoSecureURL": "https://www.youtube.com/embed/mpfHnBOu-18"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a37dd49f-e0cf-425b-390d-f0d31e04c000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 185489,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1099
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4a5102d8",
+    "url": "https://farcaster.xyz/v/0x4a5102d8",
+    "author_username": "v",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-08-16T22:06:41.000Z",
+    "text": "New: Hide Balances on Mobile\n\nTap your total balance to hide your balances everywhere in the wallet. \n\nGreat for when you want to show your wallet in public without disclosing what you're holding.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7b3deec-5446-47de-22cc-74223a649700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 381910,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 978,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x69f201b1",
+    "url": "https://farcaster.xyz/dummie.eth/0x69f201b1",
+    "author_username": "dummie.eth",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 277952,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b60bbabf-b446-4b90-ad66-9b1e69a6b800/rectcrop3",
+    "cast_date": "2025-08-16T11:42:08.000Z",
+    "text": "Hiding my warplet balance so i don’t have to see my Ls",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a6f6471-a9d2-4752-b77c-93cc0c498e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 106127,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1378
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1b14b8ca",
+    "url": "https://farcaster.xyz/v/0x1b14b8ca",
+    "author_username": "v",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-08-16T22:41:16.000Z",
+    "text": "Hide balances, but for all your casts. \n\nhttps://farcaster.xyz/v/0x4a5102d8",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 6373,
+          "hash": "0x7fb9860b647f6296dc920d4d3af6e2576355e1e2"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7fb9860b647f6296dc920d4d3af6e2576355e1e2",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 6373,
+            "username": "priyanka",
+            "display_name": "priyanka🦉",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6e9f0068-0e44-4d03-0d25-d498fc309b00/original",
+            "custody_address": "0xc813aa9cfead4427d293227b5728089dd44a8be5"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7fb9860b647f6296dc920d4d3af6e2576355e1e2",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "guys my sisters (they’re both not in crypto or posting on socials) want to join farcaster but they’ve never seen the side of me that you all have gotten a front row seat to for the last 1.5 years\n\nwhat do i do 😫🫠😢😓😆🤓🤪🥲😊😌😇🥺😶‍🌫️🫣",
+          "timestamp": "2025-08-16T04:32:22.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x4a5102d8715821ec5e3a6a467b668944dbed5de5"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4a5102d8715821ec5e3a6a467b668944dbed5de5",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4a5102d8715821ec5e3a6a467b668944dbed5de5",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-updates",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "New: Hide Balances on Mobile\n\nTap your total balance to hide your balances everywhere in the wallet. \n\nGreat for when you want to show your wallet in public without disclosing what you're holding.",
+          "timestamp": "2025-08-16T22:06:41.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7b3deec-5446-47de-22cc-74223a649700/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 381910,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 978,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-updates",
+            "name": "fc-updates",
+            "image_url": "https://i.imgur.com/YnnrPaH.png"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8880e28b",
+    "url": "https://farcaster.xyz/v/0x8880e28b",
+    "author_username": "v",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-08-16T22:44:33.000Z",
+    "text": "Swaps now succeed 96.8% of the time (in addition to completing in 2.5s)\n\nSome of these are due to (intentional) slippage settings which prevent a trade from going through if the price has moved too much. All other issues, we're going to keep fixing. \n\nBig shoutout to @slokh for improving the reliability of swaps!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c57e4b0d-484a-49ea-d5d2-f3d08d889000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 102833,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 790,
+            "height_px": 666
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x36f1c628",
+    "url": "https://farcaster.xyz/v/0x36f1c628",
+    "author_username": "v",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-08-16T15:30:45.000Z",
+    "text": "The average time to swap in our wallet is 2.5s! \n\nH/t to @deodad @slokh and the base team for building flashblocks",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2e2487d5",
+    "url": "https://farcaster.xyz/mangkarones/0x2e2487d5",
+    "author_username": "mangkarones",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 511063,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a9913cfe-c395-475e-acb5-92d14be6d500/rectcrop3",
+    "cast_date": "2025-08-16T03:09:04.000Z",
+    "text": "The new Farcaster wallet interface when opening a token asset feels more professional, neat, and user-friendly.\n\nAll important information is clearly displayed, action buttons are easily accessible, and integration with external platforms makes the user experience more convenient 💜🫡",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3a1adcd0-7375-4948-575a-28a51e3a5100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 92242,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1050,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c7c17b87-39ba-462d-6c84-bc8372bf9200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 92864,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1066,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x39c4fe7a",
+    "url": "https://farcaster.xyz/chintan/0x39c4fe7a",
+    "author_username": "chintan",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 3506,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUi8XsUDL5RPTCNq1gnGNFboULuZ7FZ9jwPJ2qUGbbVf3?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-08-15T15:49:13.000Z",
+    "text": "It’s been 5 weeks since the @baseapp.base.eth beta launched at New Day 1.\n\nSince then, we’ve thoughtfully onboarded over 30K people. Here’s what we’ve learned so far 🧵\n\n🧠 Key Learnings\n• Clear entry points for earning are critical\n• When people understand HOW rewards work, they engage more.\n• Social onboarding > wallet funding\n• More jargon can be killed (“slippage”, “marketcap”, etc.)\n• Simple, focused, and delightful mini-apps beat complex ones\n\n👀 Behaviors We’re Seeing\n• Over 20% of people earn in week 1, just by making content\n• Posting → instant $ feels magical to people used to traditional social\n• Friend clusters through chat and invites lead to more engagement\n• AI agents + group chats unlock multiplayer magic\n• Social discovery is alpha. People want coins from friends or creators they know.\n• Alpha signals (top holders, volume spikes) drive buys\n\nCont’d",
+    "embeds": [
+      {
+        "url": "zoraCoin://0x8f66fc771b49986fcb6662708448f02af12e885c",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb86ef719",
+    "url": "https://farcaster.xyz/jnix/0xb86ef719",
+    "author_username": "jnix",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 813367,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aff93f64-38aa-4011-b050-5fdbe2b22c00/original",
+    "cast_date": "2025-08-17T22:42:02.000Z",
+    "text": "That's a wrap on ETHGlobal NYC! As always, I'm walking away SO energized and optimistic, full of gratitude to meet and jam with so many talented onchain builders\n\nIf you're not on the ground, you're not in the game - Coinbase Developer Platform and Base live and breathe that.\n\nQuick rundown of our four $5K prize winners (more from our main CDP handle on these awesome builders tomorrow):\n\n🛒 Primer: Browser extension adding crypto checkout to Amazon; also an ETHGlobal Finalist \n\n📄 PDFi: Embed wallets and onchain payments natively in PDF docs\n\n⚡ x402-flash: 20x latency improvement on x402 payments; also an ETHGlobal Finalist \n\n🟦 LaunchBase: Frictionless crypto investing for bringing a billion users onchain, on Base\n\nWe learned a ton about how we can make CDP even more powerful for onchain builders. There is *no* substitute for this direct feedback.\n\nGrateful to everyone who came out and built with us - builders and creators are going to bring the world onchain.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfe0acaa1",
+    "url": "https://farcaster.xyz/linda/0xfe0acaa1",
+    "author_username": "linda",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-08-17T18:48:49.000Z",
+    "text": "For the @ethglobal hackathon, @serdave-eth @maaria and I built a Patreon for creator coins! Creators can post exclusive content that supporters with a certain balance of their creator coin can unlock\n\nBuilt using @privy @zora @base.base.eth @ipfs 🙌",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0198b95b-eb47-2146-e3da-06230a9de3f3.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 60.059985
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaeb30c5e",
+    "url": "https://farcaster.xyz/chaskin.eth/0xaeb30c5e",
+    "author_username": "chaskin.eth",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 7479,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f6f2c8e0-5474-4d8d-8563-8ea180e31200/original",
+    "cast_date": "2025-08-17T21:57:46.000Z",
+    "text": "Ethereum 🤝 New York\nhttps://x.com/ethereumconf/status/1957192838871179389",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/54f2aad6-1700-406c-0aab-6e7301641500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 155128,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 523,
+            "height_px": 284
+          }
+        }
+      },
+      {
+        "url": "https://x.com/ethereumconf/status/1957192838871179389",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/ethereumconf/status/1957192838871179389",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Introducing ETHConf: Ethereum&#39;s Conference 📷<a href=\"https://twitter.com/ETHGlobal?ref_src=twsrc%5Etfw\">@ETHGlobal</a> is thrilled to bring 5,000+ attendees shaping the future of Ethereum to New York City in early June 2026.<br><br>Join founders and builders, 200+ speakers, and 100+ exhibitors for 3 days dedicated to exploring what&#39;s next for…</p>&mdash; ETHConf (@ethereumconf) <a href=\"https://twitter.com/ethereumconf/status/1957192838871179389?ref_src=twsrc%5Etfw\">August 17, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/ethereumconf",
+              "author_name": "ETHConf",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xec9e13fe",
+    "url": "https://farcaster.xyz/chriscocreated/0xec9e13fe",
+    "author_username": "chriscocreated",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 5701,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/117f5639-2d6f-4aef-f414-c83538564600/original",
+    "cast_date": "2025-08-15T12:31:01.000Z",
+    "text": "It's 'Felt' Friday!...with the launch of the 'Felt' mini app 🚀\n\n@felt uses the science of wellbeing to help us all live well on social\n\nToday, explore your 'closest friends' feed, capped at 15\n\nAlso, explore and share the 'Music That Brings You Joy'\n\nEach Felt Friday will bring a new release to explore!\n\nfelt.social",
+    "embeds": [
+      {
+        "url": "https://felt.social",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://felt.social/images/felt_main_card.webp",
+                "type": "webp"
+              }
+            ],
+            "ogTitle": "Felt",
+            "ogLocale": "en",
+            "ogDescription": "Live well on Farcaster",
+            "fcFrame": {
+              "button": {
+                "title": "Share Mine",
+                "action": {
+                  "url": "https://felt.social",
+                  "name": "Felt",
+                  "tags": [
+                    "wellbeing",
+                    "community",
+                    "friends"
+                  ],
+                  "type": "launch_frame",
+                  "iconUrl": "https://felt.social/icon.png",
+                  "description": "Live well on Farcaster",
+                  "splashImageUrl": "https://felt.social/splash.png",
+                  "primaryCategory": "social",
+                  "splashBackgroundColor": "#f7f7f7"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://felt.social/images/felt_main_card.webp"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Share Mine",
+            "image": "https://felt.social/images/felt_main_card.webp",
+            "frames_url": "https://felt.social/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 5701,
+              "username": "chriscocreated",
+              "display_name": "ChrisCoCreated",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/117f5639-2d6f-4aef-f414-c83538564600/original",
+              "custody_address": "0x214573f904759874c9c2e4903b1cbd0bb5821e1d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjU3MDEsInR5cGUiOiJhdXRoIiwia2V5IjoiMHgzMDdmOWNDODY1MDg2MkUwODE1QWRmODMzQjkxMjVGNGUwZWQ0MDU1In0",
+                "payload": "eyJkb21haW4iOiJmZWx0LnNvY2lhbCJ9",
+                "signature": "olE8UpQpOpuk6IT2tg4fJbc1x09mleGrCO1xk3G3gT8bAw0tqDGZKopxgldsRAFZMUj/cNzm2IKlYXrom69aaBw="
+              },
+              "frame": {
+                "version": "1",
+                "name": "Felt",
+                "home_url": "https://felt.social",
+                "icon_url": "https://felt.social/icon.png",
+                "image_url": "https://felt.social/images/felt_main_card.webp",
+                "button_title": "Explore Felt",
+                "splash_image_url": "https://felt.social/splash.png",
+                "splash_background_color": "#f7f7f7",
+                "webhook_url": "https://api.neynar.com/f/app/cf7db86f-d82e-4f6e-98ef-e1253cf06004/event",
+                "description": "Live well on Farcaster",
+                "primary_category": "social",
+                "tags": [
+                  "wellbeing",
+                  "community",
+                  "friends"
+                ],
+                "required_capabilities": [
+                  "actions.signIn",
+                  "actions.composeCast"
+                ]
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Felt",
+                "home_url": "https://felt.social",
+                "icon_url": "https://felt.social/icon.png",
+                "image_url": "https://felt.social/images/felt_main_card.webp",
+                "button_title": "Explore Felt",
+                "splash_image_url": "https://felt.social/splash.png",
+                "splash_background_color": "#f7f7f7",
+                "webhook_url": "https://api.neynar.com/f/app/cf7db86f-d82e-4f6e-98ef-e1253cf06004/event",
+                "description": "Live well on Farcaster",
+                "primary_category": "social",
+                "tags": [
+                  "wellbeing",
+                  "community",
+                  "friends"
+                ],
+                "required_capabilities": [
+                  "actions.signIn",
+                  "actions.composeCast"
+                ]
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe73e96b8",
+    "url": "https://farcaster.xyz/colin/0xe73e96b8",
+    "author_username": "colin",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 378,
+    "author_pfp": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+    "cast_date": "2025-08-15T20:29:51.000Z",
+    "text": "New on Paragraph: pair your @zora creator coin with your Paragraph posts.\n\nYour essays, ideas, stories & thoughts can now plug into the open creator economy, meaning more distribution & ways to earn.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 8,
+          "hash": "0xe6fb463ef686f8df0b65f9b8a71d2f8239ae65eb"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe6fb463ef686f8df0b65f9b8a71d2f8239ae65eb",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 8,
+            "username": "jacob",
+            "display_name": "$jacob",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89ed9bfb-655c-472d-e907-6a3da8d2ec00/rectcrop3",
+            "custody_address": "0xc6e3004b0e54a91da8d87ace80b6abc64d23e33f"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe6fb463ef686f8df0b65f9b8a71d2f8239ae65eb",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "New essay: Connect your creator coin\n\nThis post on @paragraph is connected to my @zora creator coin (!!!).\n\nI dive into the win-win-win for creators, holders and platforms that integrate creator coins.\n\nhttps://paragraph.com/@jacob.eth/connect-your-creator-coin",
+          "timestamp": "2025-08-15T19:42:34.000Z",
+          "embeds": [
+            {
+              "url": "https://paragraph.com/@jacob.eth/connect-your-creator-coin",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://paragraph.com/@jacob.eth/connect-your-creator-coin",
+                  "ogDate": "2025-08-15T19:34:21.441Z",
+                  "ogType": "article",
+                  "favicon": "https://storage.googleapis.com/papyrus_images/812c44ac9116d061b8c2677f93ee3692.jpg",
+                  "ogImage": [
+                    {
+                      "alt": "Connect your creator coin",
+                      "url": "https://storage.googleapis.com/papyrus_images/bd2a1289b38052090c98a9474deb85a1.jpg",
+                      "type": "jpg",
+                      "width": "1024",
+                      "height": "512"
+                    }
+                  ],
+                  "ogTitle": "Connect your creator coin",
+                  "ogLocale": "en",
+                  "ogDescription": "This paragraph post is paired in my Zora creator coin, highlighting the power of the Zora creator coin model and the open nature of crypto protocols. Zora has pioneered a new Creator Coin model that helps people capture the value of their content onchain. Every post you make on Zora pairs with your Creator Coin. This new model is the unlock to the new creator economy we are building. Zora creator coins aggregate all posts onchain.The beauty of crypto is that it is an open system that anyone c...",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Read",
+                      "action": {
+                        "url": "https://paragraph.com/@jacob.eth/connect-your-creator-coin?frame=true",
+                        "name": "Paragraph",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                        "splashBackgroundColor": "#26251A"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://paragraph.com/api/og?title=Connect%20your%20creator%20coin&blogName=jacob&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F812c44ac9116d061b8c2677f93ee3692.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fbd2a1289b38052090c98a9474deb85a1.jpg&size=2048&publishedDate=1755286461441"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Read",
+                  "image": "https://paragraph.com/api/og?title=Connect%20your%20creator%20coin&blogName=jacob&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F812c44ac9116d061b8c2677f93ee3692.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fbd2a1289b38052090c98a9474deb85a1.jpg&size=2048&publishedDate=1755286461441",
+                  "frames_url": "https://paragraph.com/@jacob.eth/connect-your-creator-coin",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 12312,
+                    "username": "paragraph",
+                    "display_name": "Paragraph",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4855b0cc-c1da-482c-de24-962162497200/original",
+                    "custody_address": "0x1e8dc1e7210fc6b64cc6d48f1f04acc23d640477"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjEyMzEyLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MUU4ZGMxZTcyMTBGYzZiNjRjQzZENDhmMWYwNEFjYzIzZDY0MDQ3NyJ9",
+                      "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGguY29tIn0",
+                      "signature": "MHgyZDRiMzBmYTc3ZmI0YTBjMTMyMzVjNTM1ZjRmZjU0Nzk1MTg5YjYyZmQ3NzJjMTA4NjE4ZWFmNDQ3ZjFhNzY2N2UyNjViZTc1Nzc1NDVjZjJiNmU0ZWQ3YTJhNDk3OWQ0NDExMzM2ODljNzYyNTM4NTBlNmVkMjZlMTk4MTMwNzFj"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "Paragraph",
+                      "home_url": "https://paragraph.com/home?frame=true",
+                      "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                      "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                      "button_title": "Discover great writing",
+                      "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                      "splash_background_color": "#26251A",
+                      "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                      "subtitle": "Earn from ideas that matter.",
+                      "description": "A new way to earn off your best ideas.",
+                      "primary_category": "news-media",
+                      "tags": [
+                        "blog",
+                        "newsletter",
+                        "writing",
+                        "creator",
+                        "reading"
+                      ],
+                      "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                      "tagline": "Where ideas thrive.",
+                      "og_title": "Paragraph",
+                      "og_description": "A new way to earn off your best ideas.",
+                      "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "Paragraph",
+                      "home_url": "https://paragraph.com/home?frame=true",
+                      "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                      "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                      "button_title": "Discover great writing",
+                      "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                      "splash_background_color": "#26251A",
+                      "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                      "subtitle": "Earn from ideas that matter.",
+                      "description": "A new way to earn off your best ideas.",
+                      "primary_category": "news-media",
+                      "tags": [
+                        "blog",
+                        "newsletter",
+                        "writing",
+                        "creator",
+                        "reading"
+                      ],
+                      "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                      "tagline": "Where ideas thrive.",
+                      "og_title": "Paragraph",
+                      "og_description": "A new way to earn off your best ideas.",
+                      "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5f554dd9",
+    "url": "https://farcaster.xyz/horsefacts.eth/0x5f554dd9",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72bea191-84d2-43a4-e3f9-2e2203606a00/original",
+    "cast_date": "2025-08-17T19:11:14.000Z",
+    "text": "taking a huge bong rip and catching up on the latest smart contract standards",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dffc3564-adcf-40f6-d59e-1c9389545200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 355576,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1286,
+            "height_px": 916
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdd280b93",
+    "url": "https://farcaster.xyz/july/0xdd280b93",
+    "author_username": "july",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 1287,
+    "author_pfp": "https://i.seadn.io/gcs/files/ed56e6b9a1b22720ce7490524db333e0.jpg?w=500&auto=format",
+    "cast_date": "2025-08-17T19:14:18.000Z",
+    "text": "I’ve actually read this one (erc-7777)\n\nI do think this is what we’re looking to do in the long run and makes a ton of sense to me. That’s why with roc camera we want the device to own its own keys because how else are machines vehicles robots and digitally physical ai in the world going to prove itself and prove to other machines it’s never met that it is real and it’s sensor attestation \n\nThis was one of the reasons we are building roc camera tbh",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3621,
+          "hash": "0x5f554dd9d0624254ed0e2e95aeea634f3f99ae8e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5f554dd9d0624254ed0e2e95aeea634f3f99ae8e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3621,
+            "username": "horsefacts.eth",
+            "display_name": "horsefacts",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72bea191-84d2-43a4-e3f9-2e2203606a00/original",
+            "custody_address": "0x2cd85a093261f59270804a6ea697cea4cebecafe"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5f554dd9d0624254ed0e2e95aeea634f3f99ae8e",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "taking a huge bong rip and catching up on the latest smart contract standards",
+          "timestamp": "2025-08-17T19:11:14.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dffc3564-adcf-40f6-d59e-1c9389545200/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 355576,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1286,
+                  "height_px": 916
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb8b2b640",
+    "url": "https://farcaster.xyz/patriciaxlee.eth/0xb8b2b640",
+    "author_username": "patriciaxlee.eth",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 719715,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cccc97ef-8ef1-4925-85c3-a9326be2af00/rectcrop3",
+    "cast_date": "2025-08-16T05:22:00.000Z",
+    "text": "Right after seeing my cast, @samantha sent me $10 for airplane snacks out of nowhere. How cute is she? As soon as she did this, my flight got ready for takeoff. She’s obviously magic.\n\nI have never met Sam IRL, but I have observed her quiet, humble kindness countless times in the Farcaster community. She truly embodies the name of her brand - Humankind.\n\nIn that spirit, I’d like to gift one of her beautiful candles to someone in the community who embodies this too. Tag someone by Sunday and share about how they make Farcaster a more human, more kind place.\n\nI’ll pick one of your suggestions to receive a Humankind candle of the recipient’s choosing.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 719715,
+          "hash": "0x48aa567e96ed346e698940ec998369525f51c80e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x48aa567e96ed346e698940ec998369525f51c80e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 719715,
+            "username": "patriciaxlee.eth",
+            "display_name": "Patricia Lee",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cccc97ef-8ef1-4925-85c3-a9326be2af00/rectcrop3",
+            "custody_address": "0x82c653cad9a460a4e0ee091e776aa43c5af1728d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x48aa567e96ed346e698940ec998369525f51c80e",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I wrote “while in LA” in my previous cast as if my presence in LA were in the past tense. But I’m actually still at LAX, sitting inside a plane which should have landed in SF over an hour ago.\n\nA series of misfortunate events occurred:\n\n- First, the fire extinguisher on board needed to be replaced.\n\n- After we got a new fire extinguisher, a flight attendant cut her finger in the galley and paramedics took her off the flight.\n\n- After we got a new flight attendant and began taxiing, we received a new weather report from a very foggy SFO delaying our takeoff.\n\nThere aren’t any more flights on this airline back tonight, so there’s a chance I might be stuck in LA tonight. I think these events are happening because I drank the entirety of this “chocho superfood” Erewhon smoothie earlier. A cursed elixir brewed to trap tourists.\n\nHow do I reverse the curse?",
+          "timestamp": "2025-08-16T04:26:59.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e4d013a4-51bd-47d6-c543-828413948c00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 310981,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 2000
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5e752e14-4412-440a-a223-78daaf007d00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 513555,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/018c49d0-56e0-4d7e-852f-bbbd8c0cec00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 263221,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6b44c7d3",
+    "url": "https://farcaster.xyz/bradq/0x6b44c7d3",
+    "author_username": "bradq",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-08-17T14:40:20.000Z",
+    "text": "** Get To Know Me $BETR Giveaway **\n\nI'm giving away 200,000 $BETR split to 6 winning FCers who write a nice intro cast of themselves. This is inspired by @afrochicks & @chronist yesterday, quoted below. They are the standard & are automatically entered.\n\nHow It Works: \n\n1. Quote cast this cast, this one, right here, that you are reading \n2. Put 'Get To Know Me $BETR' in your cast\n3. Write a nice intro of yourself. If you write a couple of generic things, I won't include it in the giveaway. Pictures TOTALLY optional. Just do a good job of telling us a bit about yourself\n\n* I will pick (2) winners that each get 50,000 $BETR (based on quality)\n* Randomly pick (4) winners that each get 25,000 $BETR\n\nDeadline: Monday 3PM EST, & I will announce winners Monday night & then tip the winners their share\n\nGetting to know people $BETR builds community, let's fill the feed with great intros! 💜 (Bonus: it gives you something to cast that people will like and engage with and maybe even tip you some $BETR too)\n\nhttps://farcaster.xyz/afrochicks/0xa2ca3c6a\nhttps://farcaster.xyz/chronist/0xaefe9818",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 780900,
+          "hash": "0xa2ca3c6ad2f8ccbc389323ce74a21a4071cff139"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa2ca3c6ad2f8ccbc389323ce74a21a4071cff139",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 780900,
+            "username": "afrochicks",
+            "display_name": "Naomi",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26d6fa5c-2dd8-4e6c-f788-58afe3133b00/rectcrop3",
+            "custody_address": "0xd76a379aed42b72c994d1ac3d6b6aee207e3ae87"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa2ca3c6ad2f8ccbc389323ce74a21a4071cff139",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "quick reintroduction and some lore:\n\n- hi i am naomi i am a professional triple jumper (my highest ranking was 12th in the world)\n \n- i got two injuries and had two surgeries in 2023 and 2024 but won the national champs for the 11th time last year\n\n- i am aiming to compete in the 2028 LA olympics i took a break this year after my grandad went to hospital (he is still in hospital) and i got burned out (im not burned out now tho and ready to start again soon) \n\n- i make video content and post here because i love the community here + i have also been grinding and saving to fund my athletics for my next season\n\n- i have close to 50k followers on tiktok but dont post on there 🧍🏾‍♀️ \n\n- i love matcha, not because its a trend but because i have adhd and it helps me to focus without anxiety i created /gmatcha and its my fave channel ever \n\n- i am married to kev aka @metzmusic who is a 400m athlete and music producer we’ve been married for almost 4 years!!!\n\n- my younger and only brother @natogb3  is a professional footballer\n\n- my ethnicity is nigerian and jamaican but both of my parents were born in england and i havent been to nigeria but would love to go\n\n- i have a degree in politics and statistics",
+          "timestamp": "2025-08-16T17:36:03.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/28895087-8225-498b-35c0-a529f9c65400/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 482976,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 2000
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9f7531cc-1aaf-4c57-9764-7c5c3d073900/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 374460,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1333,
+                  "height_px": 2000
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eee90ff5-2bfb-423f-09f1-d76382a2a000/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 584525,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1772
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 499579,
+          "hash": "0xaefe9818bc075ad5d0291ee97829dee587b7e13c"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xaefe9818bc075ad5d0291ee97829dee587b7e13c",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 499579,
+            "username": "chronist",
+            "display_name": "Chronist",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c1733d1a-8c0f-4a19-4d9f-799ae6a43500/original",
+            "custody_address": "0x87f368b92c33bba30fb30f90be7dcb885bc42678"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xaefe9818bc075ad5d0291ee97829dee587b7e13c",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/playroom",
+          "root_parent_url": "https://warpcast.com/~/channel/playroom",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "[Sound ON🔊] \n\nHi, I’m Chronist, and that's what you need to know about me: \n\n- I’m a scientist working with electric discharges (plasma), and a neon artist. In short: I make neon stuff wherever I can.\n\n- My art is experimental and multidisciplinary. Photos, videos, drawings, AI, and generative art. All of these are blended inside TouchDesigner.\n\n- I define my style as neon retrofuturism. Statues, CRT monitor aesthetics, emulated paintings, and other analog relics interact seamlessly with neon lines and futuristic elements.\n\n- Most of my collections are on Base.\n\n- Sometimes I post science-related stuff. \n\n- I also run the Neon Club, where holders of my $NEON coin and artworks are rewarded periodically.\n\nThis video is a glimpse of my art from recent months. \n\nMy journey is a chronicle, neon is my language, and this is my story.",
+          "timestamp": "2025-08-16T18:27:55.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.farcaster.xyz/v1/video/0198b41c-e0f5-d3d9-de31-ca421b4daddb.m3u8",
+              "metadata": {
+                "content_type": "application/x-mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1920,
+                      "width_px": 1080,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 1280,
+                      "width_px": 720,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 852,
+                      "width_px": 480,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 640,
+                      "width_px": 360,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 426,
+                      "width_px": 240,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 70
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "playroom",
+            "name": "playroom",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/656c25f0-bac4-429b-085f-6e12145dbd00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x05656051",
+    "url": "https://farcaster.xyz/0xen/0x05656051",
+    "author_username": "0xen",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 528,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b00a6313-1f6e-4a98-519d-d0873791aa00/original",
+    "cast_date": "2025-08-16T02:18:54.000Z",
+    "text": "For future reference, some notable native @base coins and their current market caps and coingecko rank on Aug 15th 2025. \n\nNothing in the top 100.\n\n#106 $aero 1.2b\n#138 $virtual 781m \n#156 $morpho 643m\n#163 $kta 578m\n#169 $brett 535m\n#250 $zora 323m\n#259 $toshi 300m\n#347 $tibbir 188m\n#420 $degen 135m\n#469 $aixbt 112m\n#483 $fai 109m\n#485 $edge 109m\n#496 $vvv 107m\n#594 $b3 80m\n#1245 $fartcoin (based) 22m\n#1457 $drb 16.8m\n\nFarcaster/Base eco coins:\n\n#420 $degen 135m\n#646 $bnkr 70m\n#823 $clanker 48m \n#1482 $bracky 16m \n#1661 $noice 12m\n#1721 $indexy 11m\n#2251 $native 5.6m\n#2288 $higher 5.4m\n#NA $QR 4.6m\n#NA $betr 2m\n#NA $tipn 2m \n#NA $opsys 1.6\n\nThis doesn't represent all of the tokens that have sprouted from FC but I'd estimate the current eco market cap somewhere between 300 and 320m.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd0b1dbfa",
+    "url": "https://farcaster.xyz/linda/0xd0b1dbfa",
+    "author_username": "linda",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-08-16T23:54:44.000Z",
+    "text": "Some thoughts / advice on mini app and general safety in case helpful\n\n1. We have automatic transaction scanning within mini apps that prevents dangerous “send me all your money” attacks\n\n2. Be skeptical when approving significantly more balance than necessary for a transaction, especially if asking for all. You can always use the Smol Frame mini app made by @horsefacts.eth for revoking contract approvals\n\n3. Check the creator of the mini app. If something feels off, it's completely okay to be skeptical and double check things. Even if you know the user, individual accounts can get compromised or the username could be a slight edit of it to look similar (common attacks that extend to outside of Farcaster and outside of crypto)\n\n4. Feel free to send me malicious/imposter accounts on Farcaster that should be nerfed\n\nhttps://farcaster.xyz/miniapps/bzs-XgtfmjIw/smol-frame",
+    "embeds": [
+      {
+        "url": "https://farcaster.xyz/miniapps/bzs-XgtfmjIw/smol-frame",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz/miniapps/01955ac2-bbfe-510b-de90-b841baa8dc91/smol-frame",
+            "ogType": "website",
+            "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fsmol-frame.vercel.app%2Favatar.png&s=d8782646882bad18c65ea60a69bb39bad0b7a42f5e99c241e562e1353d615d74",
+            "ogImage": [
+              {
+                "url": "https://smol-frame.vercel.app/og.png",
+                "type": "png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Smol Frame",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster Mini App",
+            "ogDescription": "Simple, smart and elegant dapps, designed to make your crypto journey a little bit easier.",
+            "fcFrame": {
+              "button": {
+                "title": "Launch",
+                "action": {
+                  "url": "https://smol-frame.vercel.app/",
+                  "name": "Smol Frame",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://smol-frame.vercel.app/avatar.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://smol-frame.vercel.app/og.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Launch",
+            "image": "https://smol-frame.vercel.app/og.png",
+            "frames_url": "https://farcaster.xyz/miniapps/bzs-XgtfmjIw/smol-frame"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb5ca6f81",
+    "url": "https://farcaster.xyz/adrienne/0xb5ca6f81",
+    "author_username": "adrienne",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-08-17T18:11:49.000Z",
+    "text": "Lesson learned: take the paved road.\n\nWill happily go back to the unpaved road of miniapps but for building admin tools that have no farcaster requirement and no need for distribution, using next-auth and google libraries made this so much easier.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0x510eee7c59a36a67a154f438a1f0382fe11e706b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x510eee7c59a36a67a154f438a1f0382fe11e706b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x510eee7c59a36a67a154f438a1f0382fe11e706b",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Is anyone very familiar with AuthKit and SIWF who is available sometime in the next few days to answer a few questions? \n\nI am building a web app that I want limited to certain FIDs. I have the basic SIWF working for authentication but I’m getting confused about how to restrict access to content and APIs based on FID.  I can’t add the check on the client side bc that’s not secure, and even if the check happens on the backend, anyone can change the FID being passed into the API. I was looking at the server side auth and custom sign in buttons but got stuck… and I’m wondering if I’m overthinking over complicating this.  Another question I have is whether authentication in miniapps are inherently more secure and harder to spoof than web apps?",
+          "timestamp": "2025-08-16T23:41:22.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3403c1dd",
+    "url": "https://farcaster.xyz/ted/0x3403c1dd",
+    "author_username": "ted",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-08-15T14:29:26.000Z",
+    "text": "good morning, it is 10:28am on Friday, August 15th, 2025\n\nand it is a balmy 81 degrees with 49% humidity and a light breeze of 7 mph in the great city of Manhattan\n\nand i didn't get a single whiff of trash on my walk this morning\n\ngoing to be an incredible day",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7647395e",
+    "url": "https://farcaster.xyz/eriks/0x7647395e",
+    "author_username": "eriks",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 8447,
+    "author_pfp": "https://i.seadn.io/s/raw/files/ad549379a71c7948b405e10d84e5e7b7.png?w=500&auto=format",
+    "cast_date": "2025-08-16T03:40:41.000Z",
+    "text": "fc culture is built on\n\n>giving more than taking\n>trying other ppl’s things instead of only self promotion\n>dialogue over stubborn bs\n>sharing anything u find interesting instead of sticking to one niche\n\ntime and time again this works for new ppl, fc breathes realness, there’s no “playbook” just be yourself",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8e3a9e4e",
+    "url": "https://farcaster.xyz/adrienne/0x8e3a9e4e",
+    "author_username": "adrienne",
+    "show_date": "2025-08-18",
+    "show_title": "Hide Your L’s, Not Your Casts: GM Farcaster ep278",
+    "source_episode_id": "99glWat_Pok",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-08-18T01:20:53.000Z",
+    "text": "Study scenius and follow this evergreen advice:\n\nWhen you stumble into a scenius: find a way to contribute\n\nhttps://docs.google.com/presentation/d/1NlaW0gTPEGn1LCgcbvANUC8p5YBvNSWs2kMFdNKkDyk/edit?usp=drive_link\n\nhttps://docs.google.com/presentation/d/1wIlk4BLNTBGXLdkTgLA14dp96CmLxLZuW-E4i67JFLw/edit?usp=drive_link",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x5ab899359c098dd3eef91de0e279508db50bdd22"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5ab899359c098dd3eef91de0e279508db50bdd22",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7647395eae52f7d027ce40aacd08fb4d5c6c2f62",
+          "parent_hash": "0x7647395eae52f7d027ce40aacd08fb4d5c6c2f62",
+          "parent_url": null,
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": 8447
+          },
+          "text": "sounds very scenius cc: @adrienne",
+          "timestamp": "2025-08-17T23:20:02.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      },
+      {
+        "url": "https://docs.google.com/presentation/d/1NlaW0gTPEGn1LCgcbvANUC8p5YBvNSWs2kMFdNKkDyk/edit?usp=drive_link",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://docs.google.com/presentation/d/1NlaW0gTPEGn1LCgcbvANUC8p5YBvNSWs2kMFdNKkDyk/edit?usp=drive_link&usp=embed_facebook",
+            "ogType": "article",
+            "favicon": "https://ssl.gstatic.com/docs/presentations/images/favicon-2023q4.ico",
+            "ogImage": [
+              {
+                "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyL_icpKwICREWxHdnPDBLvyNCTe4CpZPqfY0vNGySeKgT3qYcU5RbADg7_zxSbqW6ISW8Xl1sfZ0ldwYgY-g1FvxHNa1Ro_lhWC0y3RWs-nze03yVY=w1200-h630-p",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Farcaster is a Scenius",
+            "ogLocale": "en",
+            "ogSiteName": "Google Docs",
+            "ogDescription": "Farcaster as a scenius @adrienne 1"
+          }
+        }
+      },
+      {
+        "url": "https://docs.google.com/presentation/d/1wIlk4BLNTBGXLdkTgLA14dp96CmLxLZuW-E4i67JFLw/edit?usp=drive_link",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://docs.google.com/presentation/d/1wIlk4BLNTBGXLdkTgLA14dp96CmLxLZuW-E4i67JFLw/edit?usp=drive_link&usp=embed_facebook",
+            "ogType": "article",
+            "favicon": "https://ssl.gstatic.com/docs/presentations/images/favicon-2023q4.ico",
+            "ogImage": [
+              {
+                "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyIIDXK1JdYgWmsYR73Y1szGuT8887eFRYhWM6e4PpJY_XxVHRt8IWKSAu7nneFs4VR9LqyNXLv2W09265TfXJwMTwzl3DejuGiaJ-dNATKZ5ZCIj3MC=w1200-h630-p",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Is Farcaster still a scenius?",
+            "ogLocale": "en",
+            "ogSiteName": "Google Docs",
+            "ogDescription": "Is Farcaster a scenius? FarCon 2024 Lightning Talk @adrienne /scenius 1 https://paragraph.xyz/@adrienne/is-farcaster-still-a-scenius ^ still"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

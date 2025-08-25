@@ -24,6 +24,9 @@
 .DS_Store
 *.pem
 
+# windows hidden files
+*Zone.Identifier
+
 # debug
 npm-debug.log*
 yarn-debug.log*
