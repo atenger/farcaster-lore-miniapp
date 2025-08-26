@@ -6,19 +6,28 @@ import Link from 'next/link';
 import { EnrichedCast, SearchFilters } from '@/lib/types';
 import { searchCasts, validateAndCleanCasts } from '@/lib/api';
 import CastGrid from '@/components/CastGrid';
+import { useDevMode } from '@/lib/devMode';
+import { sdk } from '@farcaster/miniapp-sdk';
+import { getBaseUrl } from '@/lib/config';
 
 const CASTS_PER_PAGE = 20;
 
 export default function MyReferences() {
   const { isSDKLoaded, context } = useMiniApp();
+  const { isDevMode, devContext } = useDevMode();
+  
+  // Use dev mode context if available, otherwise use real miniapp context
+  const effectiveContext = isDevMode ? devContext : { isSDKLoaded, context };
+  
   const [casts, setCasts] = useState<EnrichedCast[]>([]);
   const [totalCasts, setTotalCasts] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
   const [isLoadingMore, setIsLoadingMore] = useState(false);
+  const [isSharing, setIsSharing] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
-  // Get user's FID from Farcaster context
-  const userFid = context?.user?.fid;
+  // Get user's FID from Farcaster context (or dev mode)
+  const userFid = effectiveContext.context?.user?.fid;
 
   const loadUserCasts = useCallback(async () => {
     if (!userFid) return;
@@ -71,19 +80,56 @@ export default function MyReferences() {
 
   const hasMore = casts.length < totalCasts;
 
+  // Create share message based on achievement
+  const createShareMessage = () => {
+    const baseUrl = getBaseUrl();
+    const myReferencesUrl = isDevMode 
+      ? `${baseUrl}/my-references?dev=true&sharedby=${userFid}` 
+      : `${baseUrl}/my-references?sharedby=${userFid}`;
+    
+    if (totalCasts === 0) {
+      return `None of my casts have been mentioned on @gmfarcaster...yet! Check out this miniapp to see if any of your casts have been mentioned on GM Farcaster`;
+    } else if (totalCasts > 10) {
+      return `${totalCasts} of my bangers have been mentioned on @gmfarcaster! Check out this miniapp to see if any of your casts have been mentioned on GM Farcaster`;
+    } else {
+      return `${totalCasts} of my bangers have been mentioned on @gmfarcaster! Check out this miniapp to see if any of your casts have been mentioned on GM Farcaster`;
+    }
+  };
+
+  // Handle share button click
+  const handleShare = async () => {
+    try {
+      const message = createShareMessage();
+      const baseUrl = getBaseUrl();
+      const myReferencesUrl = isDevMode 
+        ? `${baseUrl}/my-references?dev=true&sharedby=${userFid}` 
+        : `${baseUrl}/my-references?sharedby=${userFid}`;
+      
+      console.log('Sharing cast:', message);
+      
+      await sdk.actions.composeCast({
+        text: message,
+        embeds: [myReferencesUrl],
+      });
+    } catch (error) {
+      console.error('Error sharing cast:', error);
+      alert('Failed to share. Please try again.');
+    }
+  };
+
   // Load user's casts when FID is available
   useEffect(() => {
     if (userFid) {
       loadUserCasts();
-    } else if (isSDKLoaded && !userFid) {
+    } else if (effectiveContext.isSDKLoaded && !userFid) {
       // SDK loaded but no user FID - show appropriate message
       setIsLoading(false);
       setError('No Farcaster user detected. Please make sure you are using this MiniApp from within Farcaster.');
     }
-  }, [userFid, isSDKLoaded, loadUserCasts]);
+  }, [userFid, effectiveContext.isSDKLoaded, loadUserCasts]);
 
   // Show loading while SDK is initializing
-  if (!isSDKLoaded) {
+  if (!effectiveContext.isSDKLoaded) {
     return (
       <main className="min-h-screen bg-gray-50">
         <div className="flex items-center justify-center py-12">
@@ -97,28 +143,22 @@ export default function MyReferences() {
     <main className="min-h-screen bg-gray-50">
       <header className="bg-white shadow-sm border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 py-6">
-          {/* Row 1: Title & Subtitle (full width) */}
+          {/* Row 1: Title & Dev Mode */}
           <div className="text-center mb-6">
             <h1 className="text-2xl font-bold text-gray-900">
               My References
             </h1>
-            <p className="text-gray-600 mt-1">
-              All the times you were mentioned on{' '}
-              <a 
-                href="https://www.youtube.com/@gmfarcaster"
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="text-purple-600 hover:text-purple-800 font-medium"
-              >
-                GM Farcaster
-              </a>
-            </p>
+            {isDevMode && (
+              <div className="mt-2 inline-block bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm font-medium">
+                🧪 Dev Mode - Test FID: {userFid}
+              </div>
+            )}
           </div>
 
           {/* Row 2: Navigation (prominent) */}
           <div className="flex gap-3 justify-center">
             <Link 
-              href="/"
+              href={isDevMode ? "/?dev=true" : "/"}
               className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium"
             >
               ← Back to All Casts
@@ -153,31 +193,60 @@ export default function MyReferences() {
         </div>
       ) : (
         <div className="max-w-7xl mx-auto px-4 py-4">
-          {casts.length === 0 ? (
-            <div className="text-center py-12">
-              <p className="text-gray-600 text-lg">
-                No casts found for your FID. This might mean:
-              </p>
-              <ul className="text-gray-500 mt-2 space-y-1">
-                <li>• You haven&apos;t been mentioned on GM Farcaster yet</li>
-                <li>• You need to be using this MiniApp from within Farcaster</li>
-                <li>• There&apos;s an issue with the data</li>
-              </ul>
+          <div className="mb-6 text-center">
+            <div className="flex flex-col items-center gap-4">
+              {totalCasts === 0 ? (
+                <>
+                  <p className="text-gray-600 text-lg">
+                    Your casts haven't been mentioned on GM Farcaster yet.
+                  </p>
+                  <p className="text-gray-600 text-lg">
+                    But that's not your worth - you're good enough, smart enough, and people like you! Keep casting!
+                  </p>
+                </>
+              ) : totalCasts > 10 ? (
+                <>
+                  <p className="text-gray-600 text-lg">
+                    <span className="font-semibold text-purple-600">{totalCasts}</span> of your casts have been mentioned on GM Farcaster!
+                  </p>
+                  <p className="text-gray-600 text-lg">
+                    wowow you're a star! ⭐
+                  </p>
+                </>
+              ) : (
+                <>
+                  <p className="text-gray-600 text-lg">
+                    <span className="font-semibold text-purple-600">{totalCasts}</span> of your casts have been mentioned on GM Farcaster!
+                  </p>
+                  <p className="text-gray-600 text-lg">
+                    Keep casting those bangers! 🔥
+                  </p>
+                </>
+              )}
+              <button 
+                onClick={handleShare}
+                disabled={isSharing}
+                className="inline-flex items-center gap-2 px-6 py-3 bg-purple-500 text-white rounded-lg hover:bg-purple-600 transition-colors font-medium disabled:opacity-50 disabled:cursor-not-allowed"
+              >
+                {isSharing ? (
+                  <>
+                    <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></div>
+                    SHARING...
+                  </>
+                ) : (
+                  '🎉 SHARE'
+                )}
+              </button>
             </div>
-          ) : (
-            <>
-              <div className="mb-6 text-center">
-                <p className="text-gray-600">
-                  Found <span className="font-semibold text-purple-600">{totalCasts}</span> of your casts mentioned on GM Farcaster!
-                </p>
-              </div>
-              <CastGrid
-                casts={casts}
-                onLoadMore={loadMore}
-                hasMore={hasMore}
-                isLoading={isLoadingMore}
-              />
-            </>
+          </div>
+          
+          {casts.length > 0 && (
+            <CastGrid
+              casts={casts}
+              onLoadMore={loadMore}
+              hasMore={hasMore}
+              isLoading={isLoadingMore}
+            />
           )}
         </div>
       )}
