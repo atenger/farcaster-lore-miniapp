@@ -81,11 +81,6 @@ export default function MyReferences() {
 
   // Create share message based on achievement
   const createShareMessage = () => {
-    const baseUrl = getBaseUrl();
-    const myReferencesUrl = isDevMode 
-      ? `${baseUrl}/my-references?dev=true&sharedby=${userFid}` 
-      : `${baseUrl}/my-references?sharedby=${userFid}`;
-    
     if (totalCasts === 0) {
       return `None of my casts have been mentioned on @gmfarcaster...yet! Check out this miniapp to see if any of your casts have been mentioned on GM Farcaster`;
     } else if (totalCasts > 10) {
@@ -197,7 +192,7 @@ export default function MyReferences() {
               {totalCasts === 0 ? (
                 <>
                   <p className="text-gray-600 text-lg">
-                    Your casts haven't been mentioned on GM Farcaster yet.
+                    Your casts haven&apos;t been mentioned on GM Farcaster yet.
                   </p>
                   <p className="text-gray-600 text-lg">
                     But that&apos;s not your worth - you&apos;re good enough, smart enough, and people like you! Keep casting!
@@ -209,7 +204,7 @@ export default function MyReferences() {
                     <span className="font-semibold text-purple-600">{totalCasts}</span> of your casts have been mentioned on GM Farcaster!
                   </p>
                   <p className="text-gray-600 text-lg">
-                    wowow you're a star! ⭐
+                    wowow you&apos;re a star! ⭐
                   </p>
                 </>
               ) : (
