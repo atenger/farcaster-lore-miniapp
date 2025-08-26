@@ -23,7 +23,6 @@ export default function MyReferences() {
   const [totalCasts, setTotalCasts] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
   const [isLoadingMore, setIsLoadingMore] = useState(false);
-  const [isSharing, setIsSharing] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   // Get user's FID from Farcaster context (or dev mode)
@@ -201,7 +200,7 @@ export default function MyReferences() {
                     Your casts haven't been mentioned on GM Farcaster yet.
                   </p>
                   <p className="text-gray-600 text-lg">
-                    But that's not your worth - you're good enough, smart enough, and people like you! Keep casting!
+                    But that&apos;s not your worth - you&apos;re good enough, smart enough, and people like you! Keep casting!
                   </p>
                 </>
               ) : totalCasts > 10 ? (
@@ -225,17 +224,9 @@ export default function MyReferences() {
               )}
               <button 
                 onClick={handleShare}
-                disabled={isSharing}
-                className="inline-flex items-center gap-2 px-6 py-3 bg-purple-500 text-white rounded-lg hover:bg-purple-600 transition-colors font-medium disabled:opacity-50 disabled:cursor-not-allowed"
+                className="inline-flex items-center gap-2 px-6 py-3 bg-purple-500 text-white rounded-lg hover:bg-purple-600 transition-colors font-medium"
               >
-                {isSharing ? (
-                  <>
-                    <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></div>
-                    SHARING...
-                  </>
-                ) : (
-                  '🎉 SHARE'
-                )}
+                🎉 SHARE
               </button>
             </div>
           </div>
