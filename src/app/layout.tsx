@@ -6,18 +6,18 @@ import "./globals.css";
 
 // Dynamic metadata function - uses API share image for all pages
 export async function generateMetadata({ searchParams }: { searchParams: { sharedby?: string } }): Promise<Metadata> {
-  const sharedbyFid = searchParams?.sharedby;
+  //const sharedbyFid = searchParams?.sharedby;
   
   return {
     title: "Farcaster Lore - GM Farcaster Casts",
     description: "Explore casts featured on GM Farcaster episodes through time",
     openGraph: {
-      images: [miniAppConfig.imageUrl(sharedbyFid)],
+      images: [miniAppConfig.imageUrl()],
     },
     other: {
       "fc:frame": JSON.stringify({
         "version": "next",
-        "imageUrl": miniAppConfig.imageUrl(sharedbyFid),
+        "imageUrl": miniAppConfig.imageUrl(),
         "button": {
           "title": "Travel Through Farcaster History",
           "action": {
