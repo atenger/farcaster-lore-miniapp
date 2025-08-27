@@ -4,7 +4,7 @@ import MiniAppWrapper from "@/components/MiniAppWrapper";
 import { miniAppConfig } from "@/lib/config";
 import "./globals.css";
 
-// Dynamic metadata function
+// Dynamic metadata function - uses API share image for all pages
 export async function generateMetadata({ searchParams }: { searchParams: { sharedby?: string } }): Promise<Metadata> {
   const sharedbyFid = searchParams?.sharedby;
   
