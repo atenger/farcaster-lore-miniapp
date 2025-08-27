@@ -119,10 +119,10 @@ export async function GET(request: Request) {
           {/* Title */}
           <div
             style={{
-              fontSize: '64px',
+              fontSize: '96px',
               fontWeight: 'bold',
               textAlign: 'center',
-              textShadow: '0 4px 12px rgba(0,0,0,0.5)',
+              textShadow: '0 6px 16px rgba(0,0,0,0.6)',
             }}
           >
             Farcaster Lore
@@ -133,12 +133,12 @@ export async function GET(request: Request) {
             <img
               src={pfpUrl}
               alt="User Profile"
-              width="120"
-              height="120"
+              width="160"
+              height="160"
               style={{
-                borderRadius: '60px',
-                border: '4px solid white',
-                boxShadow: '0 4px 16px rgba(0,0,0,0.3)',
+                borderRadius: '80px',
+                border: '6px solid white',
+                boxShadow: '0 6px 20px rgba(0,0,0,0.4)',
               }}
             />
           )}
@@ -146,11 +146,11 @@ export async function GET(request: Request) {
           {/* Achievement Message */}
           <div
             style={{
-              fontSize: '28px',
-              maxWidth: '800px',
-              lineHeight: '1.4',
+              fontSize: '48px',
+              maxWidth: '900px',
+              lineHeight: '1.3',
               textAlign: 'center',
-              textShadow: '0 2px 8px rgba(0,0,0,0.5)',
+              textShadow: '0 4px 12px rgba(0,0,0,0.6)',
             }}
           >
             {sharedbyFid ? (
@@ -164,12 +164,12 @@ export async function GET(request: Request) {
           {/* Call to Action */}
           <div
             style={{
-              fontSize: '24px',
-              maxWidth: '800px',
-              lineHeight: '1.3',
+              fontSize: '42px',
+              maxWidth: '900px',
+              lineHeight: '1.2',
               textAlign: 'center',
-              textShadow: '0 2px 8px rgba(0,0,0,0.5)',
-              marginTop: '16px',
+              textShadow: '0 4px 12px rgba(0,0,0,0.6)',
+              marginTop: '20px',
               fontWeight: 'bold',
             }}
           >
