@@ -5,6 +5,7 @@ import { useMiniApp } from '@neynar/react';
 import { EnrichedCast, SearchFilters } from '@/lib/types';
 import { searchCasts, getAllCasts, validateAndCleanCasts } from '@/lib/api';
 import CastGrid from '@/components/CastGrid';
+import { useDevMode } from '@/lib/devMode';
 
 import DatePicker from '@/components/DatePicker';
 import UserSearch from '@/components/UserSearch';
@@ -14,6 +15,11 @@ const CASTS_PER_PAGE = 20;
 
 export default function Home() {
   const { context } = useMiniApp();
+  const { isDevMode, devContext } = useDevMode();
+  
+  // Use dev mode context if available, otherwise use real miniapp context
+  const effectiveContext = isDevMode ? devContext : { context };
+  
   const [casts, setCasts] = useState<EnrichedCast[]>([]);
   const [totalCasts, setTotalCasts] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
@@ -188,13 +194,18 @@ export default function Home() {
                 GM Farcaster
               </a>
             </p>
+            {isDevMode && (
+              <div className="mt-2 inline-block bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm font-medium">
+                🧪 Dev Mode - Test FID: {effectiveContext.context?.user?.fid}
+              </div>
+            )}
           </div>
 
           {/* Row 2: Main Navigation (prominent) */}
           <div className="flex gap-3 justify-center mb-4">
-            {context?.user?.fid && (
+            {effectiveContext.context?.user?.fid && (
               <Link 
-                href="/my-references"
+                href={isDevMode ? "/my-references?dev=true" : "/my-references"}
                 className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium"
               >
                 📍 My References
