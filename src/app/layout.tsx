@@ -4,6 +4,35 @@ import MiniAppWrapper from "@/components/MiniAppWrapper";
 import { miniAppConfig } from "@/lib/config";
 import "./globals.css";
 
+// Dynamic metadata function
+export async function generateMetadata({ searchParams }: { searchParams: { sharedby?: string } }): Promise<Metadata> {
+  const sharedbyFid = searchParams?.sharedby;
+  
+  return {
+    title: "Farcaster Lore - GM Farcaster Casts",
+    description: "Explore casts featured on GM Farcaster episodes through time",
+    openGraph: {
+      images: [miniAppConfig.imageUrl(sharedbyFid)],
+    },
+    other: {
+      "fc:frame": JSON.stringify({
+        "version": "next",
+        "imageUrl": miniAppConfig.imageUrl(sharedbyFid),
+        "button": {
+          "title": "Travel Through Farcaster History",
+          "action": {
+            "type": "launch_miniapp",
+            "name": "Farcaster Lore",
+            "url": miniAppConfig.homeUrl(),
+            "splashImageUrl": miniAppConfig.splashImageUrl(),
+            "splashBackgroundColor": miniAppConfig.splashBackgroundColor
+          }
+        }
+      })
+    }
+  };
+}
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -14,26 +43,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "Farcaster Lore - GM Farcaster Casts",
-  description: "Explore casts featured on GM Farcaster episodes through time",
-  other: {
-    "fc:frame": JSON.stringify({
-      "version": "next",
-      "imageUrl": miniAppConfig.imageUrl(),
-      "button": {
-        "title": "Travel Through Farcaster History",
-        "action": {
-          "type": "launch_miniapp",
-          "name": "Farcaster Lore",
-          "url": miniAppConfig.homeUrl(),
-          "splashImageUrl": miniAppConfig.splashImageUrl(),
-          "splashBackgroundColor": miniAppConfig.splashBackgroundColor
-        }
-      }
-    })
-  }
-};
+
 
 export default function RootLayout({
   children,

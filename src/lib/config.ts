@@ -18,7 +18,12 @@ export function getAssetUrl(path: string): string {
 export const miniAppConfig = {
   iconUrl: () => getAssetUrl('/loredark_icon.png'),
   homeUrl: () => getBaseUrl(),
-  imageUrl: () => getAssetUrl('/loredark_image.png'),
+  imageUrl: (sharedbyFid?: string) => {
+    if (sharedbyFid) {
+      return `${getBaseUrl()}/api/share-image?sharedby=${sharedbyFid}`;
+    }
+    return `${getBaseUrl()}/api/share-image`;
+  },
   splashImageUrl: () => getAssetUrl('/loredark_icon.png'),
   splashBackgroundColor: '#6a329f',
 }; 
