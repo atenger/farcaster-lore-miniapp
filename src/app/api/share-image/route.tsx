@@ -27,6 +27,12 @@ export async function GET(request: Request) {
   let pfpUrl: string | null = null;
   let castCount = 0;
   
+  // Type for cast data
+  interface CastData {
+    author_username: string;
+    author_fid?: number;
+  }
+  
   if (sharedbyFid) {
     try {
       // First, get username from Neynar API
@@ -49,7 +55,7 @@ export async function GET(request: Request) {
           
           // Now search for casts by username
           const castsData = await import('../../../data/casts_index.json');
-          castCount = castsData.default.filter((cast: any) => 
+          castCount = castsData.default.filter((cast: CastData) => 
             cast.author_username === username
           ).length;
           console.log('Cast count for username', username, ':', castCount);
