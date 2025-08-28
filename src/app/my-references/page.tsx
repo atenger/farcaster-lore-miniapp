@@ -33,7 +33,7 @@ export async function generateMetadata({ searchParams }: { searchParams: Promise
       }
     }
   };
-
+        
   return {
     title: "Farcaster Lore - GM Farcaster Casts",
     description: "Explore casts featured on GM Farcaster episodes through time",
