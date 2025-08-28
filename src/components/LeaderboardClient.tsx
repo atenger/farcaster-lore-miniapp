@@ -10,6 +10,7 @@ import { useSearchParams } from 'next/navigation';
 interface UserStats {
   username: string;
   count: number;
+  rank: number;
   pfpUrl?: string;
 }
 
@@ -48,6 +49,7 @@ export default function LeaderboardClient() {
             userMap.set(username, {
               username,
               count: 1,
+              rank: 0, // Will be set later
             });
           }
         });
@@ -56,6 +58,24 @@ export default function LeaderboardClient() {
         const stats = Array.from(userMap.values())
           .sort((a, b) => b.count - a.count)
           .slice(0, 100); // Top 100 users
+
+        // Add proper ranking (same count = same rank, next rank skips accordingly)
+        let currentRank = 1;
+        let previousCount = stats[0]?.count || 0;
+        
+        stats.forEach((user, index) => {
+          if (index === 0) {
+            user.rank = 1;
+          } else if (user.count === previousCount) {
+            // Same count as previous user, same rank
+            user.rank = currentRank;
+          } else {
+            // Different count, increment rank
+            currentRank = index + 1;
+            user.rank = currentRank;
+            previousCount = user.count;
+          }
+        });
 
         // Smart PFP fetching for all 100 users
         // Step 1: Get all unique episode IDs needed for top 100 users
@@ -196,7 +216,7 @@ export default function LeaderboardClient() {
                 {userStats.map((user, index) => (
                   <tr key={user.username} className="hover:bg-gray-50">
                     <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
-                      #{index + 1}
+                      #{user.rank}
                     </td>
                     <td className="px-6 py-4 whitespace-nowrap">
                       <div className="flex items-center">
