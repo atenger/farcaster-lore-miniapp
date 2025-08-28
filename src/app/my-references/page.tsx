@@ -23,7 +23,7 @@ export async function generateMetadata({ searchParams }: { searchParams: Promise
     "version": "next",
     "imageUrl": imageUrl.toString(),
     "button": {
-      "title": "Travel Through Farcaster History",
+      "title": "Check If You've Been Mentioned",
       "action": {
         "type": "launch_miniapp",
         "name": "Farcaster Lore",
