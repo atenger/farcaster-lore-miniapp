@@ -6,6 +6,7 @@ import { EnrichedCast, SearchFilters } from '@/lib/types';
 import { searchCasts, getAllCasts, validateAndCleanCasts } from '@/lib/api';
 import CastGrid from '@/components/CastGrid';
 import { useDevMode } from '@/lib/devMode';
+import { useSearchParams } from 'next/navigation';
 
 import DatePicker from '@/components/DatePicker';
 import UserSearch from '@/components/UserSearch';
@@ -16,9 +17,13 @@ const CASTS_PER_PAGE = 20;
 export default function HomeClient() {
   const { context } = useMiniApp();
   const { isDevMode, devContext } = useDevMode();
+  const searchParams = useSearchParams();
   
   // Use dev mode context if available, otherwise use real miniapp context
   const effectiveContext = isDevMode ? devContext : { context };
+  
+  // Check if dev mode is in URL params
+  const isDevModeInUrl = searchParams.get('dev') === 'true';
   
   const [casts, setCasts] = useState<EnrichedCast[]>([]);
   const [totalCasts, setTotalCasts] = useState(0);
@@ -212,7 +217,7 @@ export default function HomeClient() {
               </Link>
             )}
             <Link 
-              href="/leaderboard"
+              href={isDevModeInUrl ? "/leaderboard?dev=true" : "/leaderboard"}
               className="px-6 py-3 bg-purple-700 text-white rounded-lg hover:bg-purple-800 transition-colors font-medium"
             >
               🏆 Leaderboard

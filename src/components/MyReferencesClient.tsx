@@ -9,15 +9,20 @@ import CastGrid from '@/components/CastGrid';
 import { useDevMode } from '@/lib/devMode';
 import { sdk } from '@farcaster/miniapp-sdk';
 import { getBaseUrl } from '@/lib/config';
+import { useSearchParams } from 'next/navigation';
 
 const CASTS_PER_PAGE = 20;
 
 export default function MyReferencesClient() {
   const { isSDKLoaded, context } = useMiniApp();
   const { isDevMode, devContext } = useDevMode();
+  const searchParams = useSearchParams();
   
   // Use dev mode context if available, otherwise use real miniapp context
   const effectiveContext = isDevMode ? devContext : { isSDKLoaded, context };
+  
+  // Check if dev mode is in URL params
+  const isDevModeInUrl = searchParams.get('dev') === 'true';
   
   const [casts, setCasts] = useState<EnrichedCast[]>([]);
   const [totalCasts, setTotalCasts] = useState(0);
@@ -152,13 +157,13 @@ export default function MyReferencesClient() {
           {/* Row 2: Navigation (prominent) */}
           <div className="flex gap-3 justify-center">
             <Link 
-              href={isDevMode ? "/?dev=true" : "/"}
+              href={isDevModeInUrl ? "/?dev=true" : "/"}
               className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium"
             >
               ← Back to All Casts
             </Link>
             <Link 
-              href="/leaderboard"
+              href={isDevModeInUrl ? "/leaderboard?dev=true" : "/leaderboard"}
               className="px-6 py-3 bg-purple-700 text-white rounded-lg hover:bg-purple-800 transition-colors font-medium"
             >
               🏆 Leaderboard
