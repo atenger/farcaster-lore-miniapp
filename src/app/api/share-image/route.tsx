@@ -8,12 +8,15 @@ import { ImageResponse } from '@vercel/og'
  * 
  * Usage Examples:
  * - Get personalized image: /api/share-image?sharedby=12345
+ * - Get fallback image: /api/share-image (no params)
  * 
  * Behavior:
  * 1. Fetches user data from Farcaster API using the sharedby FID
  * 2. Generates personalized image with their PFP, username, and achievement
  * 3. Uses loredark_image as background with Farcaster Lore branding
  * 4. Image is cached for 10 minutes by Vercel
+ * 5. FALLBACK: If FID is invalid, API errors occur, or user not found, 
+ *    shows generic "Explore casts featured on GM Farcaster" message
  */
 
 export async function GET(request: Request) {
@@ -26,6 +29,7 @@ export async function GET(request: Request) {
   let username: string | null = null;
   let pfpUrl: string | null = null;
   let castCount = 0;
+  let hasValidUser = false;
   
   // Type for cast data
   interface CastData {
@@ -50,15 +54,21 @@ export async function GET(request: Request) {
         if (neynarData.users && neynarData.users[0]) {
           username = neynarData.users[0].username;
           pfpUrl = neynarData.users[0].pfp_url;
+          hasValidUser = true;
           console.log('Found username for FID', sharedbyFid, ':', username);
           console.log('PFP URL:', pfpUrl);
           
           // Now search for casts by username
-          const castsData = await import('../../../data/casts_index.json');
-          castCount = castsData.default.filter((cast: CastData) => 
-            cast.author_username === username
-          ).length;
-          console.log('Cast count for username', username, ':', castCount);
+          try {
+            const castsData = await import('../../../data/casts_index.json');
+            castCount = castsData.default.filter((cast: CastData) => 
+              cast.author_username === username
+            ).length;
+            console.log('Cast count for username', username, ':', castCount);
+          } catch (castError) {
+            console.error('Error loading cast data:', castError);
+            // Continue with castCount = 0, but still show user info
+          }
         } else {
           console.log('No user found for FID:', sharedbyFid);
         }
@@ -70,7 +80,16 @@ export async function GET(request: Request) {
     }
   }
   
-  // Super simple - just return a basic image
+  // Log final state for debugging
+  console.log('Final image generation state:', {
+    sharedbyFid,
+    hasValidUser,
+    username,
+    castCount,
+    pfpUrl: pfpUrl ? 'present' : 'missing'
+  });
+  
+  // Generate the image with fallback handling
   return new ImageResponse(
     (
       <div
@@ -128,8 +147,8 @@ export async function GET(request: Request) {
             Farcaster Lore
           </div>
           
-          {/* User PFP */}
-          {pfpUrl && (
+          {/* User PFP - only show if we have a valid user */}
+          {hasValidUser && pfpUrl && (
             <img
               src={pfpUrl}
               alt="User Profile"
@@ -153,7 +172,7 @@ export async function GET(request: Request) {
               textShadow: '0 4px 12px rgba(0,0,0,0.6)',
             }}
           >
-            {sharedbyFid ? (
+            {hasValidUser ? (
               castCount === 0 ? `${username} hasn't been mentioned on GM Farcaster yet` :
               `${castCount} of ${username}'s casts have been mentioned on GM Farcaster`
             ) : (
@@ -181,6 +200,11 @@ export async function GET(request: Request) {
     {
       width: 1200,
       height: 630,
+      headers: {
+        'Cache-Control': 'public, max-age=3600, s-maxage=86400, stale-while-revalidate',
+        //Browser cache time of 1 hour,  CDN cache of 24 hours, Serve stale content while updating
+        'Content-Type': 'image/png',
+      },
     }
   );
 }

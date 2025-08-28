@@ -21,4 +21,11 @@ export const miniAppConfig = {
   imageUrl: () => `${getBaseUrl()}/api/share-image`,
   splashImageUrl: () => getAssetUrl('/loredark_icon.png'),
   splashBackgroundColor: '#6a329f',
+
+  myReferencesUrl: (opts?: { sharedby?: string }) => {
+    const base = getBaseUrl();
+    const url = new URL('/my-references', base);
+    if (opts?.sharedby) url.searchParams.set('sharedby', opts.sharedby);
+    return url.toString();
+  },
 }; 
