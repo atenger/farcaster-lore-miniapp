@@ -87,11 +87,11 @@ export default function MyReferencesClient() {
   // Create share message based on achievement
   const createShareMessage = () => {
     if (totalCasts === 0) {
-      return `None of my casts have been mentioned on @gmfarcaster...yet! Check out this miniapp to see if any of your casts have been mentioned on Farcaster&apos;s #1 News Show`;
+      return `None of my casts have been mentioned on @gmfarcaster...yet! Check out this miniapp to see if any of your casts have been mentioned on Farcaster's #1 News Show`;
     } else if (totalCasts > 10) {
-      return `${totalCasts} of my bangers have been mentioned on @gmfarcaster! Check out this miniapp to see if any of your casts have been mentioned on Farcaster&apos;s #1 News Show`;
+      return `${totalCasts} of my bangers have been mentioned on @gmfarcaster! Check out this miniapp to see if any of your casts have been mentioned on Farcaster's #1 News Show`;
     } else {
-      return `${totalCasts} of my bangers have been mentioned on @gmfarcaster! Check out this miniapp to see if any of your casts have been mentioned on Farcaster&apos;s #1 News Show`;
+      return `${totalCasts} of my bangers have been mentioned on @gmfarcaster! Check out this miniapp to see if any of your casts have been mentioned on Farcaster's #1 News Show`;
     }
   };
 
