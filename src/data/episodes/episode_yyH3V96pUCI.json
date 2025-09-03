@@ -1,0 +1,1069 @@
+[
+  {
+    "cast_hash": "0xea2e6449",
+    "url": "https://farcaster.xyz/nounishprof/0xea2e6449",
+    "author_username": "nounishprof",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-08-23T20:14:22.000Z",
+    "text": "clip of my @clankermon.eth reveal -- full stream recording on @retake",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0xa96fae0501a74c169e55f712fb2a248f3db62005"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa96fae0501a74c169e55f712fb2a248f3db62005",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa96fae0501a74c169e55f712fb2a248f3db62005",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "live now \n\nhttps://retake.tv/live/4167",
+          "timestamp": "2025-08-23T18:18:16.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 4167,
+                "hash": "0xabd44ba87d84eace4085216e36d1adc8fdf43353"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xabd44ba87d84eace4085216e36d1adc8fdf43353",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 4167
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://retake.tv/live/4167",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {}
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0198d88f-fcf9-d5ed-db96-6971b82e92fb.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 547.09
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa84a2bb0",
+    "url": "https://farcaster.xyz/ted/0xa84a2bb0",
+    "author_username": "ted",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-08-26T17:10:43.000Z",
+    "text": "PSA !!!!!!!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1ade14bf-4e96-432b-cf91-7e88a3222900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 726893,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1293,
+            "height_px": 851
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x13350c67",
+    "url": "https://farcaster.xyz/aneri.base.eth/0x13350c67",
+    "author_username": "aneri.base.eth",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 7732,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmZTLntgcsPSpc5jgG6nsNe6tgJo8wxSPm8nbAmdv7HG5b?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-08-26T20:20:57.000Z",
+    "text": "Nothing like a celebrity engagement to remind you that prediction markets will bring the masses onchain.",
+    "embeds": [
+      {
+        "url": "https://tba-social.mypinata.cloud/ipfs/bafybeicz4bfu63sqfpq7fkjaalerocewqrwd2xvztgtmq7hasayy5txbyy?zoraCoin=0x310ce4a4fa10fb909d49744181e36a681a412791",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 276224,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1320,
+            "height_px": 1837
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7bf91e01",
+    "url": "https://farcaster.xyz/bradq/0x7bf91e01",
+    "author_username": "bradq",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-08-26T16:46:13.000Z",
+    "text": "** Rewards Leaderboard Results ** \n\n* Top 10 has a bunch of usual suspects, but I hope that doesn't make us think less of their contributions to FC -- it's not on them that the algo put them there! \n\n* s/o @patriciaxlee.eth for a top 3, @marlo back in the top 10, & @priyanka  with back to back--her first 2! \n\n* @rocketman took his cobuild release to #12..congrats!; @derek  ($NATIVE guy) at #17, don't remember seeing him that high; & welcome @jennandtonic  at #21\n\n* Meme-coveted #69 to /griv founder @igoryuzo.eth  after his first top 10 last week--which was better? ... not he narrowly edged out @jacy  (#68) who thinks #69 is the only spot that matters on the leaderboard!\n\n* Keep an eye out for first-timers to celebrate with them 🎈",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a4d1923d-fd1c-49e9-a5e4-4cae47609c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 128286,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1117,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c348f4dc-eef4-42f9-b41d-b84c22f5ce00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 126350,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1254,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5c20a61d",
+    "url": "https://farcaster.xyz/v/0x5c20a61d",
+    "author_username": "v",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-08-26T18:56:53.000Z",
+    "text": "What we're working on this week: \n\n1. Warplet improvements - price alerts for your favorite tokens, improving trending token filters.\n\n2. New color scheme - giving the mobile app a little touch up. \n\n3. Tweaking the feed algo to recommend more interesting content. \n\n4. Lots of small improvements - fixed bugs with video, slow loading pages, miniapps etc. \n\n5. App-based storage - make it easy for apps to offer 'free' onboarding for Farcaster users.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 323251,
+          "hash": "0xc244bfc469d86ae90c90c5a4a325ed9c0d74e773"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc244bfc469d86ae90c90c5a4a325ed9c0d74e773",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 323251,
+            "username": "miguelgarest.eth",
+            "display_name": "Miguelgarest",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd4ee967-70fa-46f4-90cc-55a7f47bc000/original",
+            "custody_address": "0x9528d0507d733feade8d5f63d0a2e7016466906b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc244bfc469d86ae90c90c5a4a325ed9c0d74e773",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "curious on what's next on FC. \n\n- we got the super fast Warplet \nwith cheap tx fees\n- mini apps keep thriving\n- tipping \n- 4 embeds on casts\n- banners \n- rewards\n\nwhat's next? 👀",
+          "timestamp": "2025-08-26T17:14:32.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcf1714df",
+    "url": "https://farcaster.xyz/blockheim/0xcf1714df",
+    "author_username": "blockheim",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 235128,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c9a0dcd-4729-4007-d8aa-124964935c00/rectcrop3",
+    "cast_date": "2025-08-26T22:28:02.000Z",
+    "text": "gm folks, \nbig news (see posters 1 and 2) @slokh @bigolal @tanishq and I have been busy breaking the ui to bring you a more vibrant purple and a true dark mode.\n\nnow we need brave souls to join the \"real dark side\" and help us test it to catch bugs and tell us what we missed.\nqualifications: 18+ (dog years count if you ask nicely).\n\nto get on the beta, just like or comment and we’ll get you set up in the next few days",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8b8f6efa-c69e-4a6c-520c-3c68f87aaf00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 233101,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 500,
+            "height_px": 671
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8d79b688-f051-4bd3-4b6d-c95a554bf600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 386182,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1423
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd276f03a",
+    "url": "https://farcaster.xyz/v/0xd276f03a",
+    "author_username": "v",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-08-26T23:07:10.000Z",
+    "text": "@bigolal just joined the Farcaster team yesterday! \n\nExcited to have a very experienced React Native engineer on the team. He's already cooking on his first big project with @blockheim.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1183152,
+          "hash": "0x493a210b68129871d3213c2c0ae5d38765dd7904"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x493a210b68129871d3213c2c0ae5d38765dd7904",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1183152,
+            "username": "bigolal",
+            "display_name": "Alex Risch",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/924d8eed-3ab3-42b8-4e17-a7450a8b4800/original",
+            "custody_address": "0x091975f53c09a3e9c2b33bf2d6e248557b6d4430"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x493a210b68129871d3213c2c0ae5d38765dd7904",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Hi 😀",
+          "timestamp": "2025-08-25T19:58:42.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3cee6f3b-606c-434b-408d-f06031a5f600/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 431501,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 924
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5fc31a6a-81ec-41c2-6315-041654502600/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 383936,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 924
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x493a210b",
+    "url": "https://farcaster.xyz/bigolal/0x493a210b",
+    "author_username": "bigolal",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 1183152,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/924d8eed-3ab3-42b8-4e17-a7450a8b4800/original",
+    "cast_date": "2025-08-25T19:58:42.000Z",
+    "text": "Hi 😀",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3cee6f3b-606c-434b-408d-f06031a5f600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 431501,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 924
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5fc31a6a-81ec-41c2-6315-041654502600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 383936,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 924
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd6edbb9d",
+    "url": "https://farcaster.xyz/androidsixteen.eth/0xd6edbb9d",
+    "author_username": "androidsixteen.eth",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 3635,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/68e0858a-bd96-41ab-ca47-3e25868d6a00/rectcrop3",
+    "cast_date": "2025-08-26T15:26:39.000Z",
+    "text": "Sometimes I reflect on how lucky we all are to be debating frontier subjects like how creator coins accrue value or whether prediction markets reflect reality \n\nMost people are struggling these days (anecdotally) and the general economic climate is harsh. To feel secure and have bandwidth to work on this stuff is a gift",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf2bebede",
+    "url": "https://farcaster.xyz/metamask/0xf2bebede",
+    "author_username": "metamask",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 222464,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/536899f4-7f5c-44ca-882d-c0c810fe4300/original",
+    "cast_date": "2025-08-26T14:52:17.000Z",
+    "text": "no more seed phrases or private keys.\n\ntime to onboard your friends and family who can't be trusted to store their SRP securely 😂 \n\ncreating a MetaMask wallet with Google and Apple is here.",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0198e6db-ee01-18a2-6767-0e1002edf6f6.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 9.39
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbcc6f580",
+    "url": "https://farcaster.xyz/nounishprof/0xbcc6f580",
+    "author_username": "nounishprof",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-08-26T11:56:30.000Z",
+    "text": "GM! In class last night, my students set up wallets/apps that they’ll use for the remainder of the semester to learn about Blockchain and crypto: @rainbow @base.base.eth and Farcaster. I’ll be funding these for them so they have a small amount for gas, to learn to swap etc. \n\nThey have an assignment to review 3 mini apps this week. What would you recommend? Keep the following in mind: \n\n➡️ 70% of class has never used anything in crypto\n➡️ 94% are Entrepreneurship majors\n➡️ all GenZ\n➡️ they have no funds (they will have a small amount for gas but not funded yet)\n\nLooking for mini apps that are:\n\n✅ fun & engaging\n✅ possibly educational \n✅ don’t cost anything \n✅ bonus if has a crypto component (eg mint after)\n\nI have my faves but I want to know yours—drop them in the replies. I’ll be sharing this thread with the students and tipping my fave options. TY!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x999ca6e3",
+    "url": "https://farcaster.xyz/kenny/0x999ca6e3",
+    "author_username": "kenny",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 2210,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e6f1d0c9-26ff-4701-4bc5-f748256ab900/rectcrop3",
+    "cast_date": "2025-08-26T17:57:24.000Z",
+    "text": "paying my weekly rewards forward with $80 in bounties claimable by @nounishprof's students\n\nthese are \"open\" bounties, so if anyone wants to help incentivize students exploring onchain, just click the \"add funds\" button\n\nbounties include:\n\nguerilla Ethereum marketing 🔊\ntake a trip to the beach ⛱️\ntake an egg to the library 📚\nTikTok tour of FGCU 🏛️\nfind Edgardo Carmona 🧑‍🎨\nget a selfie with Prof 🤳\nvisit Alico Arena 🏟️\n\nhttps://poidh.xyz/a/fgcu",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0xbcc6f580fa83e9bed06d39cbf5077ac8e7263c4f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbcc6f580fa83e9bed06d39cbf5077ac8e7263c4f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xbcc6f580fa83e9bed06d39cbf5077ac8e7263c4f",
+          "parent_hash": null,
+          "parent_url": "https://farcaster.xyz/~/channel/fgcu",
+          "root_parent_url": "https://farcaster.xyz/~/channel/fgcu",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM! In class last night, my students set up wallets/apps that they’ll use for the remainder of the semester to learn about Blockchain and crypto: @rainbow @base.base.eth and Farcaster. I’ll be funding these for them so they have a small amount for gas, to learn to swap etc. \n\nThey have an assignment to review 3 mini apps this week. What would you recommend? Keep the following in mind: \n\n➡️ 70% of class has never used anything in crypto\n➡️ 94% are Entrepreneurship majors\n➡️ all GenZ\n➡️ they have no funds (they will have a small amount for gas but not funded yet)\n\nLooking for mini apps that are:\n\n✅ fun & engaging\n✅ possibly educational \n✅ don’t cost anything \n✅ bonus if has a crypto component (eg mint after)\n\nI have my faves but I want to know yours—drop them in the replies. I’ll be sharing this thread with the students and tipping my fave options. TY!",
+          "timestamp": "2025-08-26T11:56:30.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fgcu",
+            "name": "fgcu",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/643bd7b4-3293-4428-1eb2-c62e6f800000/original"
+          }
+        }
+      },
+      {
+        "url": "https://poidh.xyz/a/fgcu",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogType": "website",
+            "ogImage": [
+              {
+                "url": "https://poidh.xyz/images/poidh-preview-hero-v2.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "fgcu bounties on poidh",
+            "ogLocale": "en_US",
+            "ogSiteName": "POIDH",
+            "ogDescription": "view fgcu bounties on poidh - see all current bounties, view all past bounties, or create a new bounty within the fgcu album",
+            "fcFrame": {
+              "button": {
+                "title": "fgcu bounties on poidh",
+                "action": {
+                  "url": "https://poidh.xyz/a/fgcu",
+                  "name": "view album",
+                  "type": "launch_frame",
+                  "iconUrl": "https://poidh.xyz/icon.png",
+                  "splashImageUrl": "https://poidh.xyz/Logo_poidh.svg",
+                  "splashBackgroundColor": "#2a81d5"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://poidh.xyz/images/poidh-preview-hero-v2.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "fgcu bounties on poidh",
+            "image": "https://poidh.xyz/images/poidh-preview-hero-v2.png",
+            "frames_url": "https://poidh.xyz/a/fgcu",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 2210,
+              "username": "kenny",
+              "display_name": "kenny 🎩",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e6f1d0c9-26ff-4701-4bc5-f748256ab900/rectcrop3",
+              "custody_address": "0x92d181b029db404780998882a234613c0724030d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjIyMTAsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg5MmQxODFiMDI5ZGI0MDQ3ODA5OTg4ODJBMjM0NjEzQzA3MjQwMzBkIn0",
+                "payload": "eyJkb21haW4iOiJwb2lkaC54eXoifQ",
+                "signature": "MHhjNDY5OWM2ZDJlMWQ0NDM4ZmY3ZjAwNzY0MjI3NjU5ODA1YWI4ODcyZTQ4YzcxZjI3Mzg5OTYxMDg5MzJjNzM4MDM4ZjU4NTU0NDkyZmQwM2Y5YTBkMzc4MTdhZmQ0YmRiNzViNmJjZWZkZjM4ZmZlMTgwZDFlYjIyNGVmZGMxYjFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "poidh",
+                "home_url": "https://poidh.xyz/",
+                "icon_url": "https://poidh.xyz/icon.png",
+                "splash_image_url": "https://poidh.xyz/splash.png",
+                "splash_background_color": "#6fa9e1",
+                "webhook_url": "https://poidh.xyz/api/webhook",
+                "subtitle": "incentivize things",
+                "description": "create, share, and approve bounties on Farcaster",
+                "primary_category": "social",
+                "tags": [
+                  "bounties",
+                  "tasks",
+                  "incentives",
+                  "blockchain"
+                ],
+                "hero_image_url": "https://poidh.xyz/images/poidh-preview-hero-v2.png",
+                "tagline": "incentivize things",
+                "og_title": "poidh",
+                "og_description": "incentivize tasks with bounties on Farcaster",
+                "og_image_url": "https://poidh.xyz/images/poidh-preview-hero-v2.png"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "poidh",
+                "home_url": "https://poidh.xyz/",
+                "icon_url": "https://poidh.xyz/icon.png",
+                "splash_image_url": "https://poidh.xyz/splash.png",
+                "splash_background_color": "#6fa9e1",
+                "webhook_url": "https://poidh.xyz/api/webhook",
+                "subtitle": "incentivize things",
+                "description": "create, share, and approve bounties on Farcaster",
+                "primary_category": "social",
+                "tags": [
+                  "bounties",
+                  "tasks",
+                  "incentives",
+                  "blockchain"
+                ],
+                "hero_image_url": "https://poidh.xyz/images/poidh-preview-hero-v2.png",
+                "tagline": "incentivize things",
+                "og_title": "poidh",
+                "og_description": "incentivize tasks with bounties on Farcaster",
+                "og_image_url": "https://poidh.xyz/images/poidh-preview-hero-v2.png"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8a699ab2",
+    "url": "https://farcaster.xyz/devcon/0x8a699ab2",
+    "author_username": "devcon",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 388458,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/54855a89-5657-478f-c7d7-0945d3b22200/original",
+    "cast_date": "2025-08-26T18:10:23.000Z",
+    "text": "We’re joining forces with /basepaint \n 🎨\n\nThis Wednesday, artists can paint together on a shared canvas to create pixel art with the theme Ethereum in Buenos Aires.\n\nThe final piece can be minted, with 90-95% of the income going directly to the artists. And everyone who mints has a chance to win 1 of 5 free Devconnect tickets.\n\nWe can't wait to see what the community creates ✨🧑‍🎨",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/90a52159-bb05-41ce-dc64-4cc4e3028800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 533320,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1920,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2fbf62ac",
+    "url": "https://farcaster.xyz/jacy/0x2fbf62ac",
+    "author_username": "jacy",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 2982,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63552b96-faf4-4480-7775-a93631aaa100/original",
+    "cast_date": "2025-08-26T21:46:32.000Z",
+    "text": "if you're in New York and are interested in joining me Oct 15 - 17 to learn more about @aptos at our signature event Aptos Experience, dm me for a free ticket 😃 \n\nif you wanna be more boots-on-the-ground and join the @boysclub team in creating content and bringing the vibes, we're giving away 3 all-expenses paid trips in the cast below.\n\nwhat you can expect on-stage:\n- stablecoins & RWAs\n- bringing the creator economy onchain\n- crypto regulation\n- launching public projects onchain\n- finding PMF\n- leading trends from top crypto investors",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3842,
+          "hash": "0x5a2e8fbb31159e3beed772da5b23f1096d385f23"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5a2e8fbb31159e3beed772da5b23f1096d385f23",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3842,
+            "username": "boysclub",
+            "display_name": "Boys Club™",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e67a7630-6b81-4a7e-a261-00a599530e00/rectcrop3",
+            "custody_address": "0xc8520c64d2bcde4ce642766b41ac6e5ffd368ec3"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 309857,
+            "username": "baseapp.base.eth",
+            "display_name": "Base app",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05c00f8a-3374-40b4-249c-7cc70a260500/original",
+            "custody_address": "0x20c5cfecc0d1e03d2511aec13ea016f552d639b7"
+          },
+          "thread_hash": "0x5a2e8fbb31159e3beed772da5b23f1096d385f23",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Are you buzzing about The @aptos Experience this October in Brooklyn? Us too.\n\nBoys Club is an official media partner, and WE WANT YOU TO JOIN US ON THE GROUND!\n\nWe’re looking for a few community members to join our team there: capturing moments, sharing perspectives, or helping contribute to the best possible vibes. \n\nWhether your strengths are creative, operational, or just sheer enthusiasm, you are encouraged to apply.\n\nMake your case at the link below by Sept 7th with a short note or video telling us what excites you most about The Aptos Experience and how you’d like to contribute.\n\nSelected applicants will be chosen by Boys Club + Aptos Foundation on Sept 12 2025.\n\n3 spots. Brooklyn, October 15-16. All expenses paid. Join us?",
+          "timestamp": "2025-08-25T19:35:23.000Z",
+          "embeds": [
+            {
+              "url": "https://tba-social.mypinata.cloud/ipfs/bafkreiewzvgnn356zdwvba4cjxuvo7r36d4i3asakoxutsdulvvw2waxxu",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 250690,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1064,
+                  "height_px": 1064
+                }
+              }
+            },
+            {
+              "url": "https://aptosfoundation.typeform.com/to/FmbGUBLh",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://aptosfoundation.typeform.com/to/FmbGUBLh",
+                  "oembed": {
+                    "html": "<iframe src=\"https://aptosfoundation.typeform.com/to/FmbGUBLh?typeform-embed=oembed&typeform-medium=embed-oembed\" style=\"border: 0; width: 900px; height: 600px;\" allowfullscreen allow=\"autoplay; encrypted-media\"></iframe>",
+                    "type": "rich",
+                    "title": "AE 2025 Travel Scholarship Application",
+                    "width": 900,
+                    "height": 600,
+                    "method": "auto-discovery",
+                    "success": true,
+                    "version": "1.0",
+                    "author_url": "https://aptosfoundation.typeform.com/to/FmbGUBLh",
+                    "author_name": "Typeform",
+                    "provider_url": "https://typeform.com",
+                    "provider_name": "Typeform",
+                    "thumbnail_url": "https://public-assets.typeform.com/public/admin/2VWurKeiR4R7.png",
+                    "thumbnail_width": 384,
+                    "thumbnail_height": 225
+                  },
+                  "ogType": "website",
+                  "favicon": "https://public-assets.typeform.com/public/favicon/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://public-assets.typeform.com/public/admin/2VWurKeiR4R7.png/image/default"
+                    }
+                  ],
+                  "ogTitle": "Travel Scholarship Application - Aptos Experience NYC 2025",
+                  "ogLocale": "en",
+                  "ogDescription": "This form is meant to collect applications for a travel scholarship to Aptos Experience."
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x83b48f08",
+    "url": "https://farcaster.xyz/aneri.base.eth/0x83b48f08",
+    "author_username": "aneri.base.eth",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 7732,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmZTLntgcsPSpc5jgG6nsNe6tgJo8wxSPm8nbAmdv7HG5b?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-08-26T03:31:57.000Z",
+    "text": "One of the best things about @coinbase is that we work hard, but we take rest seriously too.\n\nMany folks on the team will be on recharge this week, so will be slower to respond. \n\nAlso on the @baseapp.base.eth this cap has a market cap. $outofoffice",
+    "embeds": [
+      {
+        "url": "https://tba-social.mypinata.cloud/ipfs/bafybeidhxojuwsbg7fg6gzge7isfjbcqcjyxoh4ar5wj5cmb26wzqzex6m?zoraCoin=0xedd941699a9569dcd00fcfeee8d58df889ad36f7",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 437561,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1204,
+            "height_px": 1579
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6b6e9838",
+    "url": "https://farcaster.xyz/nounishprof/0x6b6e9838",
+    "author_username": "nounishprof",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-08-26T19:07:28.000Z",
+    "text": "Helpful info — for some reason it hasn’t been posted here even though every post on TBA can be a coin on Zora. @zora might be helpful to share this type of info here too! \n\n(also - couldn’t get this to post on @base.base.eth  app - kept failing)\n\nhttps://x.com/zora/status/1960172958389076131?s=46&t=N80rptBytKhSU-csz4Akrg",
+    "embeds": [
+      {
+        "url": "https://x.com/zora/status/1960172958389076131?s=46&t=N80rptBytKhSU-csz4Akrg",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/zora/status/1960172958389076131",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Update:<br><br>+ Coins that break community guidelines are hidden on Zora<br>+ Hidden coins are now only visible in your wallet holdings with a warning<br>+ You can trade, sell, or transfer your hidden coins<br><br>We are committed to making Zora the most trusted place to launch and trade creator… <a href=\"https://t.co/Ds0TDU1G8U\">pic.twitter.com/Ds0TDU1G8U</a></p>&mdash; $zora (@zora) <a href=\"https://twitter.com/zora/status/1960172958389076131?ref_src=twsrc%5Etfw\">August 26, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/zora",
+              "author_name": "$zora",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x520a6548",
+    "url": "https://farcaster.xyz/gmfarcaster/0x520a6548",
+    "author_username": "gmfarcaster",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 273384,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a068ff05-0b5d-427a-ee22-2088ab310800/rectcrop3",
+    "cast_date": "2025-08-27T02:53:39.000Z",
+    "text": "GM! We're bringing you something new - a summary of each episode with the full show notes, chapter links and expanded summary. We won't be sending this one via email (just our weekly) but we'll be posting this one on Farcaster for those who need a quick skim of what they've missed. Thanks for the suggestion @antimofm.eth -- hopefully this was what you had in mind! And we'll be relying heavily on our ChatGPT intern for this. Let us know if this is helpful! Read and collect below!⤵️ \n\nOH and join us tomorrow Wednesday 8/27 for GM Farcaster at 8:30 am ET ☕where we'll be joined by the Clankermon team! ➕ Be sure to add the GM Farcaster mini app and follow /gmfarcaster so you don't miss a thing! \n\nhttps://paragraph.com/@gmfarcaster/new-gm-farcaster-episode-recaps?referrer=0x5e7Ac26ab6240225569f3BDD6589C6397aC3E07f",
+    "embeds": [
+      {
+        "url": "https://paragraph.com/@gmfarcaster/new-gm-farcaster-episode-recaps?referrer=0x5e7Ac26ab6240225569f3BDD6589C6397aC3E07f",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://paragraph.com/@gmfarcaster/new-gm-farcaster-episode-recaps",
+            "ogDate": "2025-08-27T02:42:40.411Z",
+            "ogType": "article",
+            "favicon": "https://storage.googleapis.com/papyrus_images/316b5b1594aac039e53b3cc5f2901dac.jpg",
+            "ogImage": [
+              {
+                "alt": "NEW: GM Farcaster episode recaps ",
+                "url": "https://storage.googleapis.com/papyrus_images/824c44f0de34254e3fc8a3636c13f9e0.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "NEW: GM Farcaster episode recaps ",
+            "ogLocale": "en",
+            "ogDescription": "GM! We're bringing you something new - a summary of each episode with the full show notes. We won't be sending this one via email (just our weekly) but we'll be posting this one on Farcaster for those who need a quick skim of what they've missed. OH and join us tomorrow Wednesday 8/27 for GM Farcaster at 8:30 am ET ☕with the Clankermon team!",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@gmfarcaster/new-gm-farcaster-episode-recaps?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=NEW%3A%20GM%20Farcaster%20episode%20recaps%20&blogName=GM%20Farcaster&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F316b5b1594aac039e53b3cc5f2901dac.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F824c44f0de34254e3fc8a3636c13f9e0.jpg&size=2048&publishedDate=1756262560411"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=NEW%3A%20GM%20Farcaster%20episode%20recaps%20&blogName=GM%20Farcaster&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F316b5b1594aac039e53b3cc5f2901dac.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F824c44f0de34254e3fc8a3636c13f9e0.jpg&size=2048&publishedDate=1756262560411",
+            "frames_url": "https://paragraph.com/@gmfarcaster/new-gm-farcaster-episode-recaps?referrer=0x5e7Ac26ab6240225569f3BDD6589C6397aC3E07f",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 12312,
+              "username": "paragraph",
+              "display_name": "Paragraph",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4855b0cc-c1da-482c-de24-962162497200/original",
+              "custody_address": "0x1e8dc1e7210fc6b64cc6d48f1f04acc23d640477"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEyMzEyLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MUU4ZGMxZTcyMTBGYzZiNjRjQzZENDhmMWYwNEFjYzIzZDY0MDQ3NyJ9",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGguY29tIn0",
+                "signature": "MHgyZDRiMzBmYTc3ZmI0YTBjMTMyMzVjNTM1ZjRmZjU0Nzk1MTg5YjYyZmQ3NzJjMTA4NjE4ZWFmNDQ3ZjFhNzY2N2UyNjViZTc1Nzc1NDVjZjJiNmU0ZWQ3YTJhNDk3OWQ0NDExMzM2ODljNzYyNTM4NTBlNmVkMjZlMTk4MTMwNzFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                "splash_background_color": "#26251A",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                "subtitle": "Earn from ideas that matter.",
+                "description": "A new way to earn off your best ideas.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "newsletter",
+                  "writing",
+                  "creator",
+                  "reading"
+                ],
+                "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "tagline": "Where ideas thrive.",
+                "og_title": "Paragraph",
+                "og_description": "A new way to earn off your best ideas.",
+                "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                "splash_background_color": "#26251A",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                "subtitle": "Earn from ideas that matter.",
+                "description": "A new way to earn off your best ideas.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "newsletter",
+                  "writing",
+                  "creator",
+                  "reading"
+                ],
+                "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "tagline": "Where ideas thrive.",
+                "og_title": "Paragraph",
+                "og_description": "A new way to earn off your best ideas.",
+                "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x45e1030d",
+    "url": "https://farcaster.xyz/matthewb/0x45e1030d",
+    "author_username": "matthewb",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 4895,
+    "author_pfp": "https://i.imgur.com/6x4u2Cc.jpg",
+    "cast_date": "2025-08-26T22:17:46.000Z",
+    "text": "the home feed algo loves labubus",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/25112cc1-65ea-46b5-9f06-faa980226800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 214259,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1793,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd62f41d9",
+    "url": "https://farcaster.xyz/ted/0xd62f41d9",
+    "author_username": "ted",
+    "show_date": "2025-08-27",
+    "show_title": "Digital Pets and Irish Accents: GM Farcaster ep282",
+    "source_episode_id": "yyH3V96pUCI",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-08-25T12:30:43.000Z",
+    "text": "U.S. Open fits feat labubu and big Pickle propaganda (bold move cotton)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa48b7a0-5999-49d1-ebe1-d68ffb29fd00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 707413,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bd45156-0c0a-45c0-a0a3-adeb80986900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 875849,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d287ea82-ddcf-4b80-b316-20137da75200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 529531,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/90cc2bdf-ae40-447f-6e5f-9605495d7d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 369483,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

@@ -1,0 +1,1865 @@
+[
+  {
+    "cast_hash": "0x25a99393",
+    "url": "https://farcaster.xyz/rocketman/0x25a99393",
+    "author_username": "rocketman",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 238425,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/404de53a-4a3f-4711-dd0c-2dadf004a200/original",
+    "cast_date": "2025-08-29T08:54:38.000Z",
+    "text": "can't stop won't stop shippin 🌃 \n\nevery cobuilder now has a portfolio you can view\n\nclick any username to dive in",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/87209811-c5a5-4fee-e7ff-afcd8e168500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 192906,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 752,
+            "height_px": 750
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x15962d11",
+    "url": "https://farcaster.xyz/nounishprof/0x15962d11",
+    "author_username": "nounishprof",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-08-29T02:54:26.000Z",
+    "text": "and I 💜 u all\n\n*****\n55 people back me on @cobuild\n\nMy top 5 backers - @koh  @rocketman  @cav4lier  @jesse.base.eth  @cobuild",
+    "embeds": [
+      {
+        "url": "https://justco.build/s/0x9353CC2583356cE6eA8f92E239D7C9Eb8412ACAF?type=backers",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://justco.build/api/og/backers/0x9353cc2583356ce6ea8f92e239d7c9eb8412acaf"
+              }
+            ],
+            "ogTitle": "Cobuild · Supported creators",
+            "ogLocale": "en",
+            "ogDescription": "Buy someone's coin when you like, comment, or follow",
+            "fcFrame": {
+              "button": {
+                "title": "Find my backers",
+                "action": {
+                  "url": "https://justco.build?type=backers",
+                  "name": "Launch miniapp",
+                  "type": "launch_frame"
+                }
+              },
+              "version": "1",
+              "imageUrl": "https://justco.build/api/og/backers/0x9353cc2583356ce6ea8f92e239d7c9eb8412acaf"
+            }
+          },
+          "frame": {
+            "version": "1",
+            "title": "Find my backers",
+            "image": "https://justco.build/api/og/backers/0x9353cc2583356ce6ea8f92e239d7c9eb8412acaf",
+            "frames_url": "https://justco.build/s/0x9353CC2583356cE6eA8f92E239D7C9Eb8412ACAF?type=backers",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1252503,
+              "username": "cobuild",
+              "display_name": "cobuild",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6edd6022-181f-4e36-8aba-190b6578fe00/original",
+              "custody_address": "0xc1d8d00824ad9fa55274b8826ab80a5769608b23"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEyNTI1MDMsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhjMWQ4RDAwODI0YUQ5ZkE1NTI3NEI4ODI2QUI4MEE1NzY5NjA4YjIzIn0",
+                "payload": "eyJkb21haW4iOiJqdXN0Y28uYnVpbGQifQ",
+                "signature": "MHg0NDRiOTAzZjIwYjM5NTFlZDQyMzdlZGJhODlkOTM4OWZjM2MwZTBlZWJiZTQ1NGQ0MGIzODRkOTc1YzRhYzNhNzBkZGVmNWE4YTc4Y2IxOWZiYTM0MzU1NTlhNjlmOWQyOTk4OWQ4MmY1NjkzODYzNmVlODhmMzUyYzI2YTIzMTFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Cobuild",
+                "home_url": "https://justco.build",
+                "icon_url": "https://justco.build/web-app-icon-1000x1000.png",
+                "image_url": "https://justco.build/image.png",
+                "button_title": "Start earning",
+                "splash_image_url": "https://justco.build/logo_200_200.png",
+                "splash_background_color": "#FFFFFF",
+                "webhook_url": "https://api.neynar.com/f/app/e724d2e6-a7cb-448e-b5c7-d12414baa3a3/event",
+                "subtitle": "Back the future",
+                "description": "Buy someone's coin when you like, comment, or follow",
+                "primary_category": "finance",
+                "tags": [
+                  "cobuild",
+                  "fundraising",
+                  "dao"
+                ],
+                "hero_image_url": "https://justco.build/image.png",
+                "tagline": "Back the future",
+                "og_image_url": "https://justco.build/image.png"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Cobuild",
+                "home_url": "https://justco.build",
+                "icon_url": "https://justco.build/web-app-icon-1000x1000.png",
+                "image_url": "https://justco.build/image.png",
+                "button_title": "Start earning",
+                "splash_image_url": "https://justco.build/logo_200_200.png",
+                "splash_background_color": "#FFFFFF",
+                "webhook_url": "https://api.neynar.com/f/app/e724d2e6-a7cb-448e-b5c7-d12414baa3a3/event",
+                "subtitle": "Back the future",
+                "description": "Buy someone's coin when you like, comment, or follow",
+                "primary_category": "finance",
+                "tags": [
+                  "cobuild",
+                  "fundraising",
+                  "dao"
+                ],
+                "hero_image_url": "https://justco.build/image.png",
+                "tagline": "Back the future",
+                "og_image_url": "https://justco.build/image.png"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf81e3b28",
+    "url": "https://farcaster.xyz/v/0xf81e3b28",
+    "author_username": "v",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-08-29T13:25:47.000Z",
+    "text": "New: A Slightly Darker Dark\n\nDark mode got a glow up with a brand new color scheme. We also touched up the notifications screens and made a few tweaks to light mode as well. \n\nMobile only for now, rolling out to all users. h/t @blockheim @tanishq @bigolal @slokh",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e3387cca-6992-4422-f600-25badb114600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 552059,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 978,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a2be62bf-5d40-4f72-d2a0-a7f443a15200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 544380,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 978,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb3da2c8e",
+    "url": "https://farcaster.xyz/v/0xb3da2c8e",
+    "author_username": "v",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-08-27T23:09:51.000Z",
+    "text": "New: Earn Rewards points for verifying wallets \n\nIf you verify ownership of any wallet with at least $25 in it, you'll earn 500 points to your weekly rewards. \n\nGo to Settings > Verified Addresses > Verify Address on web or mobile.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xde59ec29",
+    "url": "https://farcaster.xyz/pichi/0xde59ec29",
+    "author_username": "pichi",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 234616,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/343ce6bb-b2d3-4f7c-1359-deba9af91000/original",
+    "cast_date": "2025-08-29T02:25:11.000Z",
+    "text": "The leaderboard is a vibe coded excel sheet cosplaying as true engagement metric dashboard. \n\nAnd if your score dipped… it’s not you.\n\nYour work didn’t suddenly get worse.\n\nTreating the leaderboard as an important metric is the fastest way to resent this place.",
+    "embeds": [
+      {
+        "url": "zoraCoin://0x570726788bd69b0885cf2f3a52b414bd84c46b59",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1d945ec8",
+    "url": "https://farcaster.xyz/v/0x1d945ec8",
+    "author_username": "v",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-08-27T23:22:32.000Z",
+    "text": "Proposing a copyleft license for Snapchain \n\nWe need to release Snapchain under an open source license for people to be able to use the code safely. We're proposing using GPL v3, which is a copy left license. \n\nThis means that you can use, modify and redistribute it freely as long as any changes are also made public and available to all.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x429d5ff0",
+    "url": "https://farcaster.xyz/horsefacts.eth/0x429d5ff0",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72bea191-84d2-43a4-e3f9-2e2203606a00/original",
+    "cast_date": "2025-08-27T20:18:20.000Z",
+    "text": "💡 Profile Tokens\n\nProblem: many people want to share their association with a specific token. Maybe it's an app token, their creator coin, or a token community.\n\nProposal: add a \"profile token\" field to profiles to share one self-declared token association on your Farcaster profile.\n\nMore details below 👇",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0534b712-4ace-41dc-f393-9d166cb37300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 261698,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 804,
+            "height_px": 962
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcf754aaa",
+    "url": "https://farcaster.xyz/linda/0xcf754aaa",
+    "author_username": "linda",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-08-28T18:23:33.000Z",
+    "text": "Hell yeah, Farcaster featured on the Ethereum Twitter account with 3.9m followers 🔥\n\nhttps://x.com/ethereum/status/1961107707626492250?s=46",
+    "embeds": [
+      {
+        "url": "https://x.com/ethereum/status/1961107707626492250?s=46",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/ethereum/status/1961107707626492250",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Farcaster is built on Ethereum.<a href=\"https://twitter.com/farcaster_xyz?ref_src=twsrc%5Etfw\">@farcaster_xyz</a> is a decentralized social protocol that lets developers build apps where users own their data, identity, and social graph.<br><br>It aims to make social networking open, portable, and censorship-resistant. <a href=\"https://t.co/K8b5iRzDYM\">pic.twitter.com/K8b5iRzDYM</a></p>&mdash; Ethereum (@ethereum) <a href=\"https://twitter.com/ethereum/status/1961107707626492250?ref_src=twsrc%5Etfw\">August 28, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/ethereum",
+              "author_name": "Ethereum",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9f545ab5",
+    "url": "https://farcaster.xyz/v/0x9f545ab5",
+    "author_username": "v",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-08-28T23:06:38.000Z",
+    "text": "We had a bug in our backend which incorrectly thought that ~2000 users were out of storage units and prevented them from logging in.\n\nThe protocol was unaffected, all your data is safe and you can use other clients. \n\nWe are working on a fix, hope to have it resolved soon.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2,
+          "hash": "0x4b44100b04928cc3aeab619ec1331c0142790ef9"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4b44100b04928cc3aeab619ec1331c0142790ef9",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2,
+            "username": "v",
+            "display_name": "Varun Srinivasan",
+            "pfp_url": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+            "custody_address": "0x4114e33eb831858649ea3702e1c9a2db3f626446"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4b44100b04928cc3aeab619ec1331c0142790ef9",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Seeing a few users affected by this error. We are investigating.",
+          "timestamp": "2025-08-28T22:48:50.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 725,
+                "hash": "0x3ac3d1f6babc5b4619a0462f902b50800fc7b501"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x3ac3d1f6babc5b4619a0462f902b50800fc7b501",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 725
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 854973
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9fb8738f",
+    "url": "https://farcaster.xyz/brianjckim/0x9fb8738f",
+    "author_username": "brianjckim",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 426,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/42872000-12c5-4b57-cd79-55f889997600/original",
+    "cast_date": "2025-08-28T17:38:22.000Z",
+    "text": "IS THIS TRUE\n\nhttps://x.com/thenickpattison/status/1961119848458506704?s=46",
+    "embeds": [
+      {
+        "url": "https://x.com/thenickpattison/status/1961119848458506704?s=46",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/thenickpattison/status/1961119848458506704",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Next up: rebranding <a href=\"https://twitter.com/farcaster_xyz?ref_src=twsrc%5Etfw\">@farcaster_xyz</a> <br><br>Honored to be able to rock with <a href=\"https://twitter.com/dwr?ref_src=twsrc%5Etfw\">@dwr</a> and <a href=\"https://twitter.com/varunsrin?ref_src=twsrc%5Etfw\">@varunsrin</a> on this. Let’s gooo <a href=\"https://t.co/t2zt3BM7AI\">pic.twitter.com/t2zt3BM7AI</a></p>&mdash; Nick Pattison (@thenickpattison) <a href=\"https://twitter.com/thenickpattison/status/1961119848458506704?ref_src=twsrc%5Etfw\">August 28, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/thenickpattison",
+              "author_name": "Nick Pattison",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfef1b8eb",
+    "url": "https://farcaster.xyz/bradq/0xfef1b8eb",
+    "author_username": "bradq",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-08-29T13:37:25.000Z",
+    "text": "Farcaster rebrand ideas ngmi ... neon is far $betr",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3642,
+          "hash": "0x0e88c21b3e31f0ee9583dc6facbf13b28b8a1e32"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0e88c21b3e31f0ee9583dc6facbf13b28b8a1e32",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3642,
+            "username": "toadyhawk.eth",
+            "display_name": "Toady Hawk",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+            "custody_address": "0xe9787add64f50909eb9c7a2de5992cd4510907c9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0e88c21b3e31f0ee9583dc6facbf13b28b8a1e32",
+          "parent_hash": null,
+          "parent_url": "https://farcaster.xyz/~/channel/betr",
+          "root_parent_url": "https://farcaster.xyz/~/channel/betr",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "gm I got a sneak peek at the new farcaster rebrand by nick pattison",
+          "timestamp": "2025-08-29T12:53:24.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f2f0bd32-3d16-42b0-e67c-0f502e245f00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 446616,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "betr",
+            "name": "BETR & BETRMINT",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/86a2efcf-add7-4467-6973-a9e6ed14b100/original"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d72740b1-0cc1-422c-39e8-9d465c3cea00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 127082,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1536,
+            "height_px": 1024
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0e88c21b",
+    "url": "https://farcaster.xyz/toadyhawk.eth/0x0e88c21b",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-08-29T12:53:24.000Z",
+    "text": "gm I got a sneak peek at the new farcaster rebrand by nick pattison",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f2f0bd32-3d16-42b0-e67c-0f502e245f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 446616,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf77e0c25",
+    "url": "https://farcaster.xyz/antimofm.eth/0xf77e0c25",
+    "author_username": "antimofm.eth",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 4923,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ecab7b34-e9a7-4c3d-2cd4-c3f0f887b500/original",
+    "cast_date": "2025-08-28T12:13:33.000Z",
+    "text": "Interesting new take on minimalism: founder mode vs manager moe",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1c042f26-ec6f-4fbc-c169-3b7694801900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 260680,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1194,
+            "height_px": 996
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbfd33eb5",
+    "url": "https://farcaster.xyz/thekris/0xbfd33eb5",
+    "author_username": "thekris",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 670639,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80bcef5f-002d-41a5-c8fd-6deaf17ed800/rectcrop3",
+    "cast_date": "2025-08-28T16:51:11.000Z",
+    "text": "🎙️ Building Media Onchain-First with @gmfarcaster \n\n🎥 How they built a livestream-native, community-powered show\n🧠 Why Farcaster is evolving from protocol to culture engine\n🛠️ Building with mini apps, community tools & open frameworks\n\nReally enjoyed the conversation with @adrienne and @nounishprof and excited about what is coming up! :D\n\ncc: @vittoriocappelli \n\nhttps://pods.media/the-optimism-show/media-bots-and-mini-apps-farcaster-as-a-creative-playground?referrer=0x7BeC1f3285B83D273d640369282283B233e43786",
+    "embeds": [
+      {
+        "url": "https://pods.media/the-optimism-show/media-bots-and-mini-apps-farcaster-as-a-creative-playground?referrer=0x7BeC1f3285B83D273d640369282283B233e43786",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://pods.media/the-optimism-show/media-bots-and-mini-apps-farcaster-as-a-creative-playground",
+            "favicon": "/icon.svg?0e6eb4a8ea10ec02",
+            "ogAudio": "https://gateway.irys.xyz/kk2ZzqE03nu9r-4iKPA9inEiD9XtxoA4DdcYLA9LUuI/9xOpAInfbEXI90ttFQ04N5QjF3JDDhIS0US-l_eMS-0.mp3",
+            "ogImage": [
+              {
+                "alt": "Media, Bots, and Mini Apps: Farcaster as a Creative Playground Cover Art",
+                "url": "https://pods.media/api/og/frame/the-optimism-show/media-bots-and-mini-apps-farcaster-as-a-creative-playground"
+              }
+            ],
+            "ogTitle": "Media, Bots, and Mini Apps: Farcaster as a Creative Playground",
+            "ogLocale": "en",
+            "ogSiteName": "pods.media",
+            "ogDescription": "Collect this episode to support The Optimism Show and secure your spot on the leaderboard!",
+            "fcFrame": {
+              "button": {
+                "title": "View Episode",
+                "action": {
+                  "url": "https://pods.media/the-optimism-show/media-bots-and-mini-apps-farcaster-as-a-creative-playground",
+                  "name": "View Episode",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://pods.media/icon.svg",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://pods.media/api/framesV2/og/the-optimism-show/media-bots-and-mini-apps-farcaster-as-a-creative-playground"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "View Episode",
+            "image": "https://pods.media/api/framesV2/og/the-optimism-show/media-bots-and-mini-apps-farcaster-as-a-creative-playground",
+            "frames_url": "https://pods.media/the-optimism-show/media-bots-and-mini-apps-farcaster-as-a-creative-playground?referrer=0x7BeC1f3285B83D273d640369282283B233e43786",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 13875,
+              "username": "pods",
+              "display_name": "pods.media",
+              "pfp_url": "https://i.imgur.com/9S7gylW.jpg",
+              "custody_address": "0x162a557e0f569e0ae4a5a28fb666473d2bb0b7e6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEzODc1LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MTYyQTU1N0UwZjU2OWUwQUU0QTVhMjhGQjY2NjQ3M2QyYkIwYjdFNiJ9",
+                "payload": "eyJkb21haW4iOiJwb2RzLm1lZGlhIn0",
+                "signature": "MHg0NjYzNGEyMzhiZTJjODMwMGZkOTY0MDhmYjk3Zjg2ODNjYjUyNGYzYTc0MmY1MGJiZGU4ZmFhMWVkNWEwNDQxMzBmOTJhNjU3MTQ3ODY0NmE2NTY1YmQwMjkxMzc2NjZjYWVhYjMxYjg2YTAwYjMxNWNiYmQ5NGVhYTQ2ZDA0NTFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Pods",
+                "home_url": "https://pods.media",
+                "icon_url": "https://pods.media/assets/outline-fill.png",
+                "splash_image_url": "https://pods.media/icon.svg",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://pods.media/api/framesV2/webhook",
+                "subtitle": "Collect conversations.",
+                "description": "Pods connects podcast creators with their biggest fans.",
+                "primary_category": "entertainment",
+                "tags": [
+                  "podcast",
+                  "media",
+                  "content",
+                  "social"
+                ],
+                "hero_image_url": "https://pods.media/brand/open-graph.png",
+                "tagline": "Collect conversations.",
+                "og_title": "Pods",
+                "og_description": "Pods connects podcast creators with their biggest fans.",
+                "og_image_url": "https://pods.media/brand/open-graph.png"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Pods",
+                "home_url": "https://pods.media",
+                "icon_url": "https://pods.media/assets/outline-fill.png",
+                "splash_image_url": "https://pods.media/icon.svg",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://pods.media/api/framesV2/webhook",
+                "subtitle": "Collect conversations.",
+                "description": "Pods connects podcast creators with their biggest fans.",
+                "primary_category": "entertainment",
+                "tags": [
+                  "podcast",
+                  "media",
+                  "content",
+                  "social"
+                ],
+                "hero_image_url": "https://pods.media/brand/open-graph.png",
+                "tagline": "Collect conversations.",
+                "og_title": "Pods",
+                "og_description": "Pods connects podcast creators with their biggest fans.",
+                "og_image_url": "https://pods.media/brand/open-graph.png"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2b5693db",
+    "url": "https://farcaster.xyz/neynar/0x2b5693db",
+    "author_username": "neynar",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 6131,
+    "author_pfp": "https://i.imgur.com/UjBZ3pV.png",
+    "cast_date": "2025-08-28T19:38:37.000Z",
+    "text": "a reminder that while you can of course tag me to chat in public, we also have a Neynar AI companion miniapp (that's open to all Farcaster users regardless of your score!)\n\nhttps://farcaster.xyz/miniapps/w1O_146jGEE9/neynar-ai",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 214447,
+          "hash": "0x14dc8a5a73423063807a0b062a9d601840bd8c44"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x14dc8a5a73423063807a0b062a9d601840bd8c44",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 214447,
+            "username": "yes2crypto.eth",
+            "display_name": "YES2Crypto 🎩 🟪🟡",
+            "pfp_url": "https://i.imgur.com/dBoVmnG.jpg",
+            "custody_address": "0xb1f55f9b6adf2dbe565385f59f7d2c5e58730340"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x14dc8a5a73423063807a0b062a9d601840bd8c44",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "now there's a @neynar AI companion app\n\nI like that it didn't ask to be added as a mini-app until AFTER  you asked a question.\n\nThe response it gave me on whether I should bother trying to improve my neynar score:\n\nYour Neynar score reflects your reputation and trustworthiness on Farcaster, based on your activity and interactions. Scores close to 1 (like your 0.97) are already excellent.\n\n**Can you improve it?**  \nMaybe—by continuing to engage positively, avoiding spammy behavior, and building genuine connections. However, since you’re already at 0.97, any changes will likely be small.\n\n**Is it worth it?**  \nThere’s usually no practical benefit in pushing from 0.97 to 1.0. Most features and mini apps look for users above a certain trust threshold (often 0.85–0.9), which you already surpass. Gaming the system isn’t recommended—organic activity is best.\n\nBottom line: You’re in great standing! Focus on authentic participation rather than trying to “optimize” your score.",
+          "timestamp": "2025-08-28T19:35:23.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/miniapps/w1O_146jGEE9/neynar-ai",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz/miniapps/019736b1-7ade-cac1-f7f8-c650614947a3/neynar-ai",
+            "ogType": "website",
+            "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fai.neynar.com%2Ficon2.png&s=a48b8f2dc9ab640a7ef9856fe2f7041eaaafa7c8f68e348c176e1d26045c779f",
+            "ogImage": [
+              {
+                "url": "https://ai.neynar.com/preview.png",
+                "type": "png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Neynar AI",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster Mini App",
+            "ogDescription": "AI agent for Farcaster",
+            "fcFrame": {
+              "button": {
+                "title": "Ask me anything",
+                "action": {
+                  "url": "https://ai.neynar.com",
+                  "name": "Neynar AI",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://ai.neynar.com/icon.png",
+                  "splashBackgroundColor": "#7f62c6"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://ai.neynar.com/preview.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Ask me anything",
+            "image": "https://ai.neynar.com/preview.png",
+            "frames_url": "https://farcaster.xyz/miniapps/w1O_146jGEE9/neynar-ai"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbd09dfaf",
+    "url": "https://farcaster.xyz/mvr/0xbd09dfaf",
+    "author_username": "mvr",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 230238,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7f6bc84f-bf28-45d2-cd57-de2090054900/original",
+    "cast_date": "2025-08-28T11:46:06.000Z",
+    "text": "Curious what the contents of a deleted cast were? Vibeshift now links you to Dune where you can restore deleted casts\n\n(you might have to be logged in to Dune and run the query) \n\nThanks for the example @je11yf15h \n\nhttps://Vibeshift.ham.cooking",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0198f07d-bcf8-61c2-3d3c-391660dac9a3.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 2316,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1544,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1028,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 772,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 514,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 23.5
+          }
+        }
+      },
+      {
+        "url": "https://Vibeshift.ham.cooking",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/icon.ico?ce57434906455d8d",
+            "ogTitle": "vibeshift",
+            "ogLocale": "en",
+            "ogDescription": "Catch every vibe shift",
+            "fcFrame": {
+              "button": {
+                "title": "Catch Every Move",
+                "action": {
+                  "url": "https://vibeshift.ham.cooking/",
+                  "name": "vibeshift",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://vibeshift.ham.cooking/vibeshift/splash.png",
+                  "splashBackgroundColor": "#000024"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://vibeshift.ham.cooking/share-image"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Catch Every Move",
+            "image": "https://vibeshift.ham.cooking/share-image",
+            "frames_url": "https://vibeshift.ham.cooking/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 230238,
+              "username": "mvr",
+              "display_name": "mvr 🐹",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7f6bc84f-bf28-45d2-cd57-de2090054900/original",
+              "custody_address": "0xb9aecdec70b384990b47201b27187ec6581995ec"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjIzMDIzOCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEI5QWVDZEVjNzBCMzg0OTkwYjQ3MjAxYjI3MTg3RUM2NTgxOTk1ZWMifQ",
+                "payload": "eyJkb21haW4iOiJ2aWJlc2hpZnQuaGFtLmNvb2tpbmcifQ",
+                "signature": "MHg5MzM4NmJhMDRhZDBmMDhkYTg3ZDg4MzI2ODA1NDUyMTZiZmQ0NTMwMTZmZWY3NGU5NzMyMDlmODRjYmU2ZmY5NWUwMzAxOTM2YmZjYmMwMjQ4NDU0ZjI0MTU2NDVkMDIwZTMzNTAxYzI0MGFkYzA0MDc5N2Q0YjUyYmZjNGE5MTFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "vibeshift",
+                "home_url": "https://vibeshift.ham.cooking/",
+                "icon_url": "https://vibeshift.ham.cooking/vibeshift/icon.png",
+                "splash_image_url": "https://vibeshift.ham.cooking/vibeshift/splash.png",
+                "splash_background_color": "#000024",
+                "webhook_url": "https://vibeshift.ham.cooking/vibeshift/api/webhook",
+                "subtitle": "Catch every vibe shift",
+                "description": "Catch every vibe shift",
+                "screenshot_urls": [],
+                "primary_category": "utility",
+                "tags": [
+                  "follow",
+                  "unfollow",
+                  "notification",
+                  "vibe",
+                  "shift"
+                ],
+                "hero_image_url": "https://vibeshift.ham.cooking/vibeshift/promo.jpg",
+                "tagline": "Catch every vibe shift",
+                "og_title": "vibeshift",
+                "og_description": "Catch every vibe shift",
+                "og_image_url": "https://vibeshift.ham.cooking/vibeshift/promo.jpg",
+                "cast_share_url": "https://vibeshift.ham.cooking//cast"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "vibeshift",
+                "home_url": "https://vibeshift.ham.cooking/",
+                "icon_url": "https://vibeshift.ham.cooking/vibeshift/icon.png",
+                "splash_image_url": "https://vibeshift.ham.cooking/vibeshift/splash.png",
+                "splash_background_color": "#000024",
+                "webhook_url": "https://vibeshift.ham.cooking/vibeshift/api/webhook",
+                "subtitle": "Catch every vibe shift",
+                "description": "Catch every vibe shift",
+                "screenshot_urls": [],
+                "primary_category": "utility",
+                "tags": [
+                  "follow",
+                  "unfollow",
+                  "notification",
+                  "vibe",
+                  "shift"
+                ],
+                "hero_image_url": "https://vibeshift.ham.cooking/vibeshift/promo.jpg",
+                "tagline": "Catch every vibe shift",
+                "og_title": "vibeshift",
+                "og_description": "Catch every vibe shift",
+                "og_image_url": "https://vibeshift.ham.cooking/vibeshift/promo.jpg",
+                "cast_share_url": "https://vibeshift.ham.cooking//cast"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x954a5f88",
+    "url": "https://farcaster.xyz/ahn.eth/0x954a5f88",
+    "author_username": "ahn.eth",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 8004,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cca05e9f-4f52-45c9-ebdb-c60ec8f93d00/rectcrop3",
+    "cast_date": "2025-08-28T09:26:08.000Z",
+    "text": "use @quidli to send tokens to accounts & channels on farcaster\n\nuse @quidli to send tokens to contacts & group chats on telegram\n\nuse @quidli to send tokens to friends, servers and channels on discord\n\nuse quidli.xyz 🦑",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0198effb-280b-2eac-d871-36d230de2afb.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 34.191992
+          }
+        }
+      },
+      {
+        "url": "https://quidli.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogLocale": "en",
+            "fcFrame": {
+              "button": {
+                "title": "Start",
+                "action": {
+                  "url": "https://dapp.quid.li",
+                  "name": "Quidli",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://dapp.quid.li/fc/splash.png",
+                  "splashBackgroundColor": "#0a0a0a"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://dapp.quid.li/opengraph-image"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Start",
+            "image": "https://dapp.quid.li/opengraph-image",
+            "frames_url": "https://quidli.xyz/"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x49cac5c6",
+    "url": "https://farcaster.xyz/quotient/0x49cac5c6",
+    "author_username": "quotient",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 1043408,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2de10ec4-8711-41bb-b015-580eeaeb9100/rectcrop3",
+    "cast_date": "2025-08-28T20:31:25.000Z",
+    "text": "@tipn campaigns deliver measurable results for token projects. \n\nHere's the data from the recent @betrmint campaign, which was guided by Quotient analytics.\n- Every $1 in $BETR distributed by the campaign drove $4+ dollars in buy volume\n- Average daily buy volume jumped from $5,000 the week before the campaign was announced, to $26,000 in the run-up to and during the campaign \n- $400+ new holders, who bought on average $110 of BETR\n- These new holders are high quality, with a median Farcaster Cred Score of .66, which corresponds to the top 2,300 users on Farcaster \n\nWe work closely with the @tipn team to optimize campaign allocations to make sure incentives go to authentic + aligned users and not farmers.\n\nReach out to @ruminations or @niftytime.eth if you're interested in running a comment tipping campaign for your project!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1045817,
+          "hash": "0xca928aa320d41c5084e360ab7aa845f1ded82dbb"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xca928aa320d41c5084e360ab7aa845f1ded82dbb",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1045817,
+            "username": "tipn",
+            "display_name": "Tip ‘n Earn",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2bc5eb2e-6115-490f-b98d-eebe5cc48200/rectcrop3",
+            "custody_address": "0xa4647517e2ca5a8d352c17e674aaca17d6f9d1b8"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xca928aa320d41c5084e360ab7aa845f1ded82dbb",
+          "parent_hash": null,
+          "parent_url": "https://farcaster.xyz/~/channel/tipn",
+          "root_parent_url": "https://farcaster.xyz/~/channel/tipn",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "And that’s a wrap on S2 of $BETR Tipn Allocations🫡\n\nBIG ty to @toadyhawk.eth @netnose @burrrrrberry, the Betr Belever group chat, and all the Allocators who lit up the TL over the last two weeks\n\nEnd-of-season $BETR bonuses go out to Allocators Thursday\n\nS3 Allocation announcement is coming soon too 👀\n\nLtg🌱\n\nh/t @lewisosb",
+          "timestamp": "2025-08-26T16:01:12.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ffed1435-7488-472b-b7f5-1a43e4b84400/original",
+              "metadata": {
+                "content_type": "image/gif",
+                "content_length": 1751722,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 900,
+                  "height_px": 900
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "tipn",
+            "name": "Tipn",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/34cb6585-de6d-4315-eade-b8de05443e00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xca928aa3",
+    "url": "https://farcaster.xyz/tipn/0xca928aa3",
+    "author_username": "tipn",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 1045817,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2bc5eb2e-6115-490f-b98d-eebe5cc48200/rectcrop3",
+    "cast_date": "2025-08-26T16:01:12.000Z",
+    "text": "And that’s a wrap on S2 of $BETR Tipn Allocations🫡\n\nBIG ty to @toadyhawk.eth @netnose @burrrrrberry, the Betr Belever group chat, and all the Allocators who lit up the TL over the last two weeks\n\nEnd-of-season $BETR bonuses go out to Allocators Thursday\n\nS3 Allocation announcement is coming soon too 👀\n\nLtg🌱\n\nh/t @lewisosb",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ffed1435-7488-472b-b7f5-1a43e4b84400/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 1751722,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 900,
+            "height_px": 900
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x63655675",
+    "url": "https://farcaster.xyz/hamta.eth/0x63655675",
+    "author_username": "hamta.eth",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 443225,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7478f251-16e9-48bf-93bb-f6f471e2c100/original",
+    "cast_date": "2025-08-28T20:17:29.000Z",
+    "text": "What if the whole Farcaster community voted on YOU? 👀\n\nThat’s exactly what’s coming with /hon \nFace-offs. Tokens. Badges. Leaderboards.\n\nSoon, everyone will know who’s HOT… and who’s NOT. ⏳\nScreenshot 1: @joeblau Vs @nounishprof \nScreenshot 2: @erica Vs @segall",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7c22064c-3977-46a9-5903-306a69bcec00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 171412,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1322,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fcf140d3-c8fe-4106-cb11-28c1c34be600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 163222,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1323,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x95944b17",
+    "url": "https://farcaster.xyz/adrienne/0x95944b17",
+    "author_username": "adrienne",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-08-27T21:39:29.000Z",
+    "text": "List of projects I’ve coded for GM Farcaster:\n\n1) the OG @warpee.eth , an AI bot who will answer your questions using its knowledge about @gmfarcaster \n\n2) the GM Farcaster miniapp so you can watch our live stream or latest episode without leaving the app miniapp.gmfarcaster.com\n\n3) a lore explorer which shows every cast we’ve featured on @gmfarcaster and lets you search to see yours lore.gmfarcaster.com \n\n4) our main informational website gmfarcaster.com\n\n5) a media kit with information for potential sponsors mediakit.gmfarcaster.com\n\nI was a software engineer in the early 2000s but when I got into people management I stopped coding. I took a web3 dev course in 2022 which was my first time getting back into hands on coding in 15 years, and only with AI copilots have I been able to do so much for @gmfarcaster \n\nI’ve learned a ton this past year and look forward to continuing to iterate and build and learn",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 19858,
+          "hash": "0xa2d870e30d0ee582099faeaddc4409fa6ef50001"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa2d870e30d0ee582099faeaddc4409fa6ef50001",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 19858,
+            "username": "borrowlucid.eth",
+            "display_name": "Christina BorrowLucid | Chones",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8f1427ef-d611-4317-55d1-6fd14eeed000/original",
+            "custody_address": "0x5bea8329d3bcb814726de791d4af70968fbfc7e2"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x85ab532b165e7dd5350819361cdd3a3a21426d33",
+          "parent_hash": "0x85ab532b165e7dd5350819361cdd3a3a21426d33",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 5818
+          },
+          "text": "Adrienne, you have the best agent and apps💜🥳",
+          "timestamp": "2025-08-27T13:47:21.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://miniapp.gmfarcaster.com",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogTitle": "GM Farcaster",
+            "ogLocale": "en",
+            "ogDescription": "Get your daily dose of Farcaster news and culture.",
+            "fcFrame": {
+              "button": {
+                "title": "Launch GM Farcaster",
+                "action": {
+                  "url": "https://miniapp.gmfarcaster.com",
+                  "name": "GM Farcaster",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://miniapp.gmfarcaster.com/logo.png",
+                  "splashBackgroundColor": "#AF48CF"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://miniapp.gmfarcaster.com/api/share-image?videoId=rm4fxIGnK5A"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Launch GM Farcaster",
+            "image": "https://miniapp.gmfarcaster.com/api/share-image?videoId=rm4fxIGnK5A",
+            "frames_url": "https://miniapp.gmfarcaster.com/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 5818,
+              "username": "adrienne",
+              "display_name": "adrienne",
+              "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+              "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjU4MTgsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgxMjQzNTE2NDA4RWU5NzZiMzQ1NzM2NzhmMkFBMDI5YjY5REU0RjAwIn0",
+                "payload": "eyJkb21haW4iOiJtaW5pYXBwLmdtZmFyY2FzdGVyLmNvbSJ9",
+                "signature": "MHhhZDhhNDE3OGFiMDZkOGU3MWYwYTVmYjhiNjBjMjFjOTJhYzJjYzRkNTIyMTdhNzhhNjZmZTE5NDQ3YTlmMGVmNDQ3NGY0ZDI2NmViYzg4MTU0NTI0OGUwZDYzMzg5ZGVlMTUwMTg1NWI5ODg5YzBmZTMwOGMwMWZkMzhmZjk3ODFj"
+              },
+              "frame": {
+                "version": "next",
+                "name": "GM Farcaster",
+                "home_url": "https://miniapp.gmfarcaster.com",
+                "icon_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_1024_1024.png",
+                "image_url": "https://miniapp.gmfarcaster.com/logo.png",
+                "button_title": "Launch GM Farcaster",
+                "splash_image_url": "https://miniapp.gmfarcaster.com/logo.png",
+                "splash_background_color": "#AF48CF",
+                "webhook_url": "https://api.neynar.com/f/app/56d04686-0f59-4eaa-af16-c484abd555e2/event",
+                "subtitle": "29 minutes of Farcaster news",
+                "description": "Farcaster's Most Popular News Show, brought to you by NounishProf and Adrienne",
+                "screenshot_urls": [
+                  "https://miniapp.gmfarcaster.com/images/screenshot1.png",
+                  "https://miniapp.gmfarcaster.com/images/screenshot2.png"
+                ],
+                "primary_category": "news-media",
+                "tags": [
+                  "news",
+                  "podcast",
+                  "farcaster",
+                  "live-streaming",
+                  "community",
+                  "gmfarcaster"
+                ],
+                "hero_image_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_wide.png",
+                "tagline": "29 minutes of Farcaster news",
+                "og_title": "GM Farcaster",
+                "og_description": "Farcaster's Most Popular News Show, brought to you by NounishProf and Adrienne",
+                "og_image_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_wide.png",
+                "required_chains": [
+                  "eip155:8453"
+                ],
+                "required_capabilities": [
+                  "wallet.getEthereumProvider",
+                  "actions.sendToken",
+                  "actions.addFrame"
+                ]
+              },
+              "miniapp": {
+                "version": "next",
+                "name": "GM Farcaster",
+                "home_url": "https://miniapp.gmfarcaster.com",
+                "icon_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_1024_1024.png",
+                "image_url": "https://miniapp.gmfarcaster.com/logo.png",
+                "button_title": "Launch GM Farcaster",
+                "splash_image_url": "https://miniapp.gmfarcaster.com/logo.png",
+                "splash_background_color": "#AF48CF",
+                "webhook_url": "https://api.neynar.com/f/app/56d04686-0f59-4eaa-af16-c484abd555e2/event",
+                "subtitle": "29 minutes of Farcaster news",
+                "description": "Farcaster's Most Popular News Show, brought to you by NounishProf and Adrienne",
+                "screenshot_urls": [
+                  "https://miniapp.gmfarcaster.com/images/screenshot1.png",
+                  "https://miniapp.gmfarcaster.com/images/screenshot2.png"
+                ],
+                "primary_category": "news-media",
+                "tags": [
+                  "news",
+                  "podcast",
+                  "farcaster",
+                  "live-streaming",
+                  "community",
+                  "gmfarcaster"
+                ],
+                "hero_image_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_wide.png",
+                "tagline": "29 minutes of Farcaster news",
+                "og_title": "GM Farcaster",
+                "og_description": "Farcaster's Most Popular News Show, brought to you by NounishProf and Adrienne",
+                "og_image_url": "https://miniapp.gmfarcaster.com/images/gmfc_logo_wide.png",
+                "required_chains": [
+                  "eip155:8453"
+                ],
+                "required_capabilities": [
+                  "wallet.getEthereumProvider",
+                  "actions.sendToken",
+                  "actions.addFrame"
+                ]
+              }
+            }
+          }
+        }
+      },
+      {
+        "url": "https://lore.gmfarcaster.com",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "Farcaster Lore - GM Farcaster Casts",
+            "ogLocale": "en",
+            "ogDescription": "Explore casts featured on GM Farcaster episodes through time",
+            "fcFrame": {
+              "button": {
+                "title": "Travel Through Farcaster History",
+                "action": {
+                  "url": "https://lore.gmfarcaster.com",
+                  "name": "Farcaster Lore",
+                  "type": "launch_miniapp",
+                  "splashImageUrl": "https://lore.gmfarcaster.com/loredark_icon.png",
+                  "splashBackgroundColor": "#6a329f"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://lore.gmfarcaster.com/api/share-image"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Travel Through Farcaster History",
+            "image": "https://lore.gmfarcaster.com/api/share-image",
+            "frames_url": "https://lore.gmfarcaster.com/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 5818,
+              "username": "adrienne",
+              "display_name": "adrienne",
+              "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+              "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjU4MTgsInR5cGUiOiJhdXRoIiwia2V5IjoiMHhCMUIyMTg4NGFmRTY1ODFGM0M0OTk3YjAzMjA0NjVGMThFOTY4MkMwIn0",
+                "payload": "eyJkb21haW4iOiJsb3JlLmdtZmFyY2FzdGVyLmNvbSJ9",
+                "signature": "mIYJ0xeG8jvxkxWxuJ2sHC160QrkYHfL/vmy6jHo0h4Lf4j8BNMOC/PK0+DCGNev77xL42x8LcSFiHoNfWoarBw="
+              },
+              "frame": {
+                "version": "1",
+                "name": "Farcaster Lore",
+                "home_url": "https://lore.gmfarcaster.com",
+                "icon_url": "https://lore.gmfarcaster.com/loredark_icon.png",
+                "image_url": "https://lore.gmfarcaster.com/api/share-image",
+                "button_title": "📚 Explore",
+                "splash_image_url": "https://lore.gmfarcaster.com/loredark_icon.png",
+                "splash_background_color": "#6a329f",
+                "webhook_url": "https://api.neynar.com/f/app/8b98adfc-21a7-42d5-b637-0251486529de/event",
+                "description": "Explore casts featured on GM Farcaster episodes"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Farcaster Lore",
+                "home_url": "https://lore.gmfarcaster.com",
+                "icon_url": "https://lore.gmfarcaster.com/loredark_icon.png",
+                "image_url": "https://lore.gmfarcaster.com/api/share-image",
+                "button_title": "📚 Explore",
+                "splash_image_url": "https://lore.gmfarcaster.com/loredark_icon.png",
+                "splash_background_color": "#6a329f",
+                "webhook_url": "https://api.neynar.com/f/app/8b98adfc-21a7-42d5-b637-0251486529de/event",
+                "description": "Explore casts featured on GM Farcaster episodes"
+              }
+            }
+          }
+        }
+      },
+      {
+        "url": "https://mediakit.gmfarcaster.com",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/icon.png",
+            "ogTitle": "GM Farcaster Media Kit",
+            "ogLocale": "en",
+            "ogDescription": "Media Kit for GM Farcaster Network"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x42f5b356",
+    "url": "https://farcaster.xyz/adrienne/0x42f5b356",
+    "author_username": "adrienne",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-08-28T18:44:24.000Z",
+    "text": "Dynamic embed image working yayyyyyy \n\nThis was at the same time so simple and yet so hard \n\nI simulated results for other FIDs but hard to really test this so lmk if you see any issues",
+    "embeds": [
+      {
+        "url": "https://lore.gmfarcaster.com/my-references?sharedby=5818",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "Farcaster Lore - GM Farcaster Casts",
+            "ogLocale": "en",
+            "ogDescription": "Explore casts featured on GM Farcaster episodes through time",
+            "fcFrame": {
+              "button": {
+                "title": "Travel Through Farcaster History",
+                "action": {
+                  "url": "https://lore.gmfarcaster.com/my-references?sharedby=5818",
+                  "name": "Farcaster Lore",
+                  "type": "launch_miniapp",
+                  "splashImageUrl": "https://lore.gmfarcaster.com/loredark_icon.png",
+                  "splashBackgroundColor": "#6a329f"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://lore.gmfarcaster.com/api/share-image?sharedby=5818"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Travel Through Farcaster History",
+            "image": "https://lore.gmfarcaster.com/api/share-image?sharedby=5818",
+            "frames_url": "https://lore.gmfarcaster.com/my-references?sharedby=5818",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 5818,
+              "username": "adrienne",
+              "display_name": "adrienne",
+              "pfp_url": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+              "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjU4MTgsInR5cGUiOiJhdXRoIiwia2V5IjoiMHhCMUIyMTg4NGFmRTY1ODFGM0M0OTk3YjAzMjA0NjVGMThFOTY4MkMwIn0",
+                "payload": "eyJkb21haW4iOiJsb3JlLmdtZmFyY2FzdGVyLmNvbSJ9",
+                "signature": "mIYJ0xeG8jvxkxWxuJ2sHC160QrkYHfL/vmy6jHo0h4Lf4j8BNMOC/PK0+DCGNev77xL42x8LcSFiHoNfWoarBw="
+              },
+              "frame": {
+                "version": "1",
+                "name": "Farcaster Lore",
+                "home_url": "https://lore.gmfarcaster.com",
+                "icon_url": "https://lore.gmfarcaster.com/loredark_icon.png",
+                "image_url": "https://lore.gmfarcaster.com/api/share-image",
+                "button_title": "📚 Explore",
+                "splash_image_url": "https://lore.gmfarcaster.com/loredark_icon.png",
+                "splash_background_color": "#6a329f",
+                "webhook_url": "https://api.neynar.com/f/app/8b98adfc-21a7-42d5-b637-0251486529de/event",
+                "description": "Explore casts featured on GM Farcaster episodes"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Farcaster Lore",
+                "home_url": "https://lore.gmfarcaster.com",
+                "icon_url": "https://lore.gmfarcaster.com/loredark_icon.png",
+                "image_url": "https://lore.gmfarcaster.com/api/share-image",
+                "button_title": "📚 Explore",
+                "splash_image_url": "https://lore.gmfarcaster.com/loredark_icon.png",
+                "splash_background_color": "#6a329f",
+                "webhook_url": "https://api.neynar.com/f/app/8b98adfc-21a7-42d5-b637-0251486529de/event",
+                "description": "Explore casts featured on GM Farcaster episodes"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x23c12a18",
+    "url": "https://farcaster.xyz/mvr/0x23c12a18",
+    "author_username": "mvr",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 230238,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7f6bc84f-bf28-45d2-cd57-de2090054900/original",
+    "cast_date": "2025-08-28T13:02:48.000Z",
+    "text": "What are all these new 'mining' apps on my feed? \n\nWhat are we mining? Mini App Dev rewards for their devs?\n\nAll popfi clones?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xef8ce967",
+    "url": "https://farcaster.xyz/deployer/0xef8ce967",
+    "author_username": "deployer",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 4482,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8614dfae-0aa3-48ee-ef1b-6c5dc59db800/original",
+    "cast_date": "2025-08-28T06:13:38.000Z",
+    "text": "if 10 people i know have bought it i end up exit liquidity.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5effc836-710c-45b4-a08b-eed03f91a000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 22316,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 619,
+            "height_px": 84
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3f36ec6b",
+    "url": "https://farcaster.xyz/ruburi/0x3f36ec6b",
+    "author_username": "ruburi",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 423406,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ab781317-697b-4e7c-0775-66f8fb74a600/original",
+    "cast_date": "2025-08-28T03:40:01.000Z",
+    "text": "Thank You.\n\nI should have been asleep in my bed 2 hrs ago but i'm up because i'm kinda overwhelmed with feelings and you know if someone gives me good vibes -> i always share them back. I always give back because I appreciate it. That’s why I'm here, sharing this with y'all.\n\nI don't think I can express how much I'm grateful for this opportunity and I'm so happy that you are supporting me. That means so fkn much.\n\nAs I said earlier, I have grand plans for this one. I'm not here to shill or run narratives or other bs (i've seen a lot of stuff and i've been rugged a few times because i was a hard believer). Just putting out what’s on my mind right now.\n\nI don't have many public projects, I don't have famous or recognizable collabs. I'm just here -> another human you see on the Internet. Here's the thing -> we need to appreciate raw feelings more, respect and support each other. I believed, believe and will believe in this vision. That's why I'm building Pet Rock Life. This is not an investment. These are rocks.\n\nI hope I won't let y'all down. I just want to bring some positive energy here with my little creation. I created a token to fund this project, probably I will need to assemble a team or something since I'm a solo dev. Maybe not now, but in the future.\n\nTokens are locked until 1 December 2025, and will be vested until 1 January 2026. I locked 17% supply because it seems reasonable to me -> most of these tokens will go on funding the project. I'm currently full-time working on PRL right now. Yeah, simply speaking -> if you believe in me -> you can buy some to support me. Please don't expect gains. You can lose money.\n\nFinally ->\nAnd I wonder if you know\nWhat it means to find your dreams come true\n\n$ROCK 🪨",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d62f6c5-13c7-43a0-d5c8-522519e30e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 42673,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 744,
+            "height_px": 154
+          }
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/~/c/base:0x0df425f1e02bb508a7a6952b1853c9238fb7cb07",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x37eddd2f",
+    "url": "https://farcaster.xyz/ruburi/0x37eddd2f",
+    "author_username": "ruburi",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 423406,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ab781317-697b-4e7c-0775-66f8fb74a600/original",
+    "cast_date": "2025-08-28T14:58:18.000Z",
+    "text": "Let me address this so you all can know a bit more about trading world. If you see a wallet that only sells with no buys -> it can simply mean that some traders are trying to hide their activity or something else. You also need to understand the concept of copy trading. When some famous wallet buys something -> it gets immediately copy traded. There is even a functionality for this on Interface if you didn't know.\n\nThis is the first point.\n\nSecondly, let me clarify the launch details. I'm not affiliated with anyone, and I have no team at all. I can provide all proofs if absolutely necessary. $ROCK is a stealth launch (launched 7d ago), announced first on @petrock account. You can prove that (no one bought before this cast, only the sniper and me with my first buy). Stop calling it insider trading. Anyone who was following at that time could buy this token when it was low mcap (if you WANT to make gains on it). Stop accusing me of this bs. I don't want to be related to it.\n\nI won't be replying to every 'scam' accusation because it's very normal to me. There were a lot of scams and other stuff in crypto, so no token or a project can pass without these accusations. The thing is that I'm here standing for my reputation and public image. People just don't understand how crypto works and someone even think that they supposed to buy this token or I ask them to buy it. If you think I'm a scammer -> then don't buy it. It's crystal clear.\n\nSad for me to see people who I thought were genuinely good people and even supported PRL now calling me a scammer because some trader takes profits on it from his empty wallets",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 410577,
+          "hash": "0x0356583f07a09d9c596fa3f0b14a41c6807c1a52"
+        },
+        "cast": {}
+      },
+      {
+        "url": "https://farcaster.xyz/~/ca/0x0356583f07a09d9c596fa3f0b14a41c6807c1a52",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz/~/ca/0x0356583f07a09d9c596fa3f0b14a41c6807c1a52",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://farcaster.xyz/og-logo.png",
+                "type": "png",
+                "width": "512",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "0x0356583f07a09d9c596fa3f0b14a41c6807c1a52 on Farcaster",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster"
+          }
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/~/c/base:0x0df425f1e02bb508a7a6952b1853c9238fb7cb07",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0356583f",
+    "url": "https://farcaster.xyz/zwillow/0x0356583f",
+    "author_username": "zwillow",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "enrichment_status": "FAILED",
+    "enrichment_status_code": 404
+  },
+  {
+    "cast_hash": "0x6872ccc2",
+    "url": "https://farcaster.xyz/nounishprof/0x6872ccc2",
+    "author_username": "nounishprof",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-08-27T21:31:12.000Z",
+    "text": "Let me get this straight — you’re trying to engagement farm by tagging and calling me a grandma? And you thought that was a good idea? \n\nI’m old for this platform but I’m like a good decade away from grandma status so sit down boy — don’t make me take off my hoops & throw hands.",
+    "embeds": [
+      {
+        "url": "https://media.tenor.com/YBpY0Qaq7YIAAAAC/i-dont-like-you-golden-girls.gif",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 1371812,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 498,
+            "height_px": 373
+          }
+        }
+      },
+      {
+        "url": "https://media.tenor.com/YBpY0Qaq7YIAAAAC/i-dont-like-you-golden-girls.gif",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 1371812,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 498,
+            "height_px": 373
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfac1964c",
+    "url": "https://farcaster.xyz/phil/0xfac1964c",
+    "author_username": "phil",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2025-08-29T04:56:53.000Z",
+    "text": "i have been told that i cannot share pictures otherwise i'll be banned from the rewards leaderboard for life",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 129,
+          "hash": "0x73c3593d45f0f9777d2a4c914a58456d11d6df3a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x73c3593d45f0f9777d2a4c914a58456d11d6df3a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 129,
+            "username": "phil",
+            "display_name": "phil",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+            "custody_address": "0xf6fd7deec77d7b1061435585df1d7fdfd4682577"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x73c3593d45f0f9777d2a4c914a58456d11d6df3a",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "cannot believe i just saw dan at burning man wearing nipple pasties",
+          "timestamp": "2025-08-29T04:20:46.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x73c3593d",
+    "url": "https://farcaster.xyz/phil/0x73c3593d",
+    "author_username": "phil",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2025-08-29T04:20:46.000Z",
+    "text": "cannot believe i just saw dan at burning man wearing nipple pasties",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa7febbc7",
+    "url": "https://farcaster.xyz/dwr.eth/0xa7febbc7",
+    "author_username": "dwr.eth",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-08-29T11:12:55.000Z",
+    "text": "burning man was crazy",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/95d653e6-d63b-4307-0d3d-4b804f44a200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 699631,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1500
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9e4c28a2-cdde-4c40-a1fd-c3652d3f2900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 556148,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1500
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0356e55b",
+    "url": "https://farcaster.xyz/thumb/0x0356e55b",
+    "author_username": "thumb",
+    "show_date": "2025-08-29",
+    "show_title": "From Likes to Coins—How CoBuild Prints Tokens in Your Sleep: GM Farcaster ep283",
+    "source_episode_id": "-_pZFh2zLCU",
+    "author_fid": 791687,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e986d62a-79a7-4901-32e2-f8b068d67500/original",
+    "cast_date": "2025-08-29T12:43:42.000Z",
+    "text": "taking one for the team",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 129,
+          "hash": "0xfac1964c18b269caaefd634134d67d8f870a2316"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xfac1964c18b269caaefd634134d67d8f870a2316",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 129,
+            "username": "phil",
+            "display_name": "phil",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+            "custody_address": "0xf6fd7deec77d7b1061435585df1d7fdfd4682577"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xfac1964c18b269caaefd634134d67d8f870a2316",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "i have been told that i cannot share pictures otherwise i'll be banned from the rewards leaderboard for life",
+          "timestamp": "2025-08-29T04:56:53.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 129,
+                "hash": "0x73c3593d45f0f9777d2a4c914a58456d11d6df3a"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x73c3593d45f0f9777d2a4c914a58456d11d6df3a",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 129
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5244f2d3-b46f-4f5f-7bd4-c738d1721b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 299368,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1459,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

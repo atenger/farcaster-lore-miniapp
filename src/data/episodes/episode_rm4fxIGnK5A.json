@@ -1,0 +1,1378 @@
+[
+  {
+    "cast_hash": "0xf0f8e557",
+    "url": "https://farcaster.xyz/bradq/0xf0f8e557",
+    "author_username": "bradq",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-09-02T12:44:27.000Z",
+    "text": "29 Seconds of Farcaster ... What did you miss this (long) weekend?\n\n* An era of $DEGEN has ended as allocations are finished and we move toward the mini app & client era. Thanks to @jacek for an amazing run and here's to the future of the hat! 🎩 \n\n* @betrmint released a $BETR staking rewards claim with daily spins of the NEON wheel to get your daily rewards & a shot at a jackpot for anyone with 10M $BETR staked. s/o @toadyhawk.eth & @netnose for the design & @burrrrrberry for keeping the FUN in staking claims 🥩 daily available in the mini app\n\n* $BRACKY stepped it up with Football--College & NFL and is headed to X/Twitter this Fall. There were some serious Bracky sessions Friday night after the football release\n\n* @bertwurst.eth held a Labor Day 'Toy Draft' for the ceremonial exchanging of 'active' toys for September and live-streamed it. Bert seemed thrown off at first by the new format, but eventually 'Roadkill' was the winner and @erica & @laurenmessner had the top brackets and received face licks, tail wags, & generational wealth\n\n* A bit more niche, but @mcbain shared some videos about his inspiring work trying to turn his neighborhood into a community--which may be useful for some, but also shows off why Farcasters are great. It even led to Presidential campaign rumors from a certain /gmfarcaster host.\n\n* Speaking of /gmfarcaster @adrienne & @nounishprof are on today at 11:30 AM EST/ 8:30 PST to catch you up on all things purple (and blue)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4179eaf4-e814-42c0-293f-eeb8f91c9a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 185506,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1099
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x3af51ce7e1a43396a2a2760c12a73871fa97308c"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3af51ce7e1a43396a2a2760c12a73871fa97308c",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3af51ce7e1a43396a2a2760c12a73871fa97308c",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster will be off on Monday for the Labor Day holiday but back on Tuesday at a west coast friendly 11:30 am ET/8:30 am PT. Join @adrienne and I on YouTube, Twitter or in the GMFC mini app!\n\nAdd the mini app now for a notification whenever we go live! See you in the GM (on Tuesday)!\n\nhttps://www.youtube.com/watch?v=b6Ezc0RG27g\n\nhttps://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+          "timestamp": "2025-08-31T23:24:28.000Z",
+          "embeds": [
+            {
+              "url": "https://www.youtube.com/watch?v=b6Ezc0RG27g",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.youtube.com/watch?v=b6Ezc0RG27g",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/b6Ezc0RG27g?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"GM Farcaster ep284 Tuesday September 2, 2025\"></iframe>",
+                    "type": "video",
+                    "title": "GM Farcaster ep284 Tuesday September 2, 2025",
+                    "width": 200,
+                    "height": 113,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@GMFarcaster",
+                    "author_name": "GM Farcaster",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/b6Ezc0RG27g/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "ogDate": "2025-08-31T16:21:49-07:00",
+                  "ogType": "video.other",
+                  "favicon": "https://www.youtube.com/s/desktop/271635d3/img/logos/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://i.ytimg.com/vi/b6Ezc0RG27g/hqdefault.jpg?v=68b4d90f",
+                      "type": "jpg",
+                      "width": "480",
+                      "height": "360"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster ep284 Tuesday September 2, 2025",
+                  "ogVideo": [
+                    {
+                      "url": "https://www.youtube.com/embed/b6Ezc0RG27g",
+                      "type": "text/html",
+                      "width": "640",
+                      "height": "360"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "YouTube",
+                  "ogDescription": "Adrienne and Prof bringing you the latest news from the Farcaster and Base App ecosystems.",
+                  "ogVideoSecureURL": "https://www.youtube.com/embed/b6Ezc0RG27g"
+                }
+              }
+            },
+            {
+              "url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://farcaster.xyz/miniapps/0196efb5-5ae3-676b-f83f-869e756c74d0/gm-farcaster",
+                  "ogType": "website",
+                  "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fminiapp.gmfarcaster.com%2Flogo.png&s=9e7f26424405d9b5c54c06233c2a5916f158e16b3037ec32ab93873d7875597d",
+                  "ogImage": [
+                    {
+                      "url": "https://miniapp.gmfarcaster.com/api/share-image?videoId=-_pZFh2zLCU",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster",
+                  "ogLocale": "en",
+                  "ogSiteName": "Farcaster Mini App",
+                  "ogDescription": "Get your daily dose of Farcaster news and culture.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch GM Farcaster",
+                      "action": {
+                        "url": "https://miniapp.gmfarcaster.com",
+                        "name": "GM Farcaster",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://miniapp.gmfarcaster.com/logo.png",
+                        "splashBackgroundColor": "#AF48CF"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://miniapp.gmfarcaster.com/api/share-image?videoId=-_pZFh2zLCU"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch GM Farcaster",
+                  "image": "https://miniapp.gmfarcaster.com/api/share-image?videoId=-_pZFh2zLCU",
+                  "frames_url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7379001e",
+    "url": "https://farcaster.xyz/alexpaden/0x7379001e",
+    "author_username": "alexpaden",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 533,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52fe8f75-1edc-4ec7-7580-a100d43a8700/original",
+    "cast_date": "2025-09-02T03:23:27.000Z",
+    "text": "top 10 on farcaster are all women",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9a28c4e7-4e94-45c5-5fb7-ffa674ebf000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 256311,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 804,
+            "height_px": 1464
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaae2d69d",
+    "url": "https://farcaster.xyz/hyper/0xaae2d69d",
+    "author_username": "hyper",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 283,
+    "author_pfp": "https://i.imgur.com/I16ipuj.jpg",
+    "cast_date": "2025-09-02T00:03:56.000Z",
+    "text": "Many ppl are asking for the full and complete restoration of the original farcaster leaderboard",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8bf327a5",
+    "url": "https://farcaster.xyz/pirosb3/0x8bf327a5",
+    "author_username": "pirosb3",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 12152,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7229dfa5-4873-42d0-9dd0-69f4f3fc4d00/original",
+    "cast_date": "2025-08-30T17:00:28.000Z",
+    "text": "🔁 New small UX feature added to annotate swaps for gas\n\nIf you’re low on ETH but have a token balance, you may prompt you to convert up to $1 for gas. In the past, we did not annotate this, and some of you were confused. We fixed this now, and a gas swap is appropriately annotated!\n\nThank you @tanishq for the design and @horsefacts.eth for the idea",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5780ff4a-0212-4685-573e-f4c992401d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 321742,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 742,
+            "height_px": 1552
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x89173fe4",
+    "url": "https://farcaster.xyz/v/0x89173fe4",
+    "author_username": "v",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-08-29T16:44:40.000Z",
+    "text": "will add a $100 bounty on top @bountybot",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 13596,
+          "hash": "0x3de6491978940a8c9766515be1300e6086e0022a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3de6491978940a8c9766515be1300e6086e0022a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 13596,
+            "username": "hellno.eth",
+            "display_name": "hellno the optimist",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/415baeae-ab4c-4d2f-bccd-3f319e89ec00/original",
+            "custody_address": "0x817318d6fff66a18d83a1376a76f6e30b43c8889"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3de6491978940a8c9766515be1300e6086e0022a",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "any open source devs interested in tackling this?\n\nhigh impact task, many users have asked to schedule long casts.\nwe have scheduled casts in @herocast, but Farcaster app has long casts. \n\nhttps://github.com/hero-org/herocast/issues/602",
+          "timestamp": "2025-08-29T16:01:56.000Z",
+          "embeds": [
+            {
+              "url": "https://github.com/hero-org/herocast/issues/602",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://github.com/hero-org/herocast/issues/602",
+                  "ogType": "object",
+                  "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+                  "ogImage": [
+                    {
+                      "alt": "Is your feature request related to a problem? Please describe. Farcaster app has long casts feature. we want to have this too. Describe the solution you'd like Let users write longer casts. Add sim...",
+                      "url": "https://opengraph.githubassets.com/5f2c5ec62a4f463a0eeac246192aba447cde12131d582f70e4a502da76f204d9/hero-org/herocast/issues/602",
+                      "width": "1200",
+                      "height": "600"
+                    }
+                  ],
+                  "ogTitle": "Add long casts · Issue #602 · hero-org/herocast",
+                  "ogLocale": "en",
+                  "ogSiteName": "GitHub",
+                  "ogDescription": "Is your feature request related to a problem? Please describe. Farcaster app has long casts feature. we want to have this too. Describe the solution you'd like Let users write longer casts. Add sim..."
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3de64919",
+    "url": "https://farcaster.xyz/hellno.eth/0x3de64919",
+    "author_username": "hellno.eth",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 13596,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/415baeae-ab4c-4d2f-bccd-3f319e89ec00/original",
+    "cast_date": "2025-08-29T16:01:56.000Z",
+    "text": "any open source devs interested in tackling this?\n\nhigh impact task, many users have asked to schedule long casts.\nwe have scheduled casts in @herocast, but Farcaster app has long casts. \n\nhttps://github.com/hero-org/herocast/issues/602",
+    "embeds": [
+      {
+        "url": "https://github.com/hero-org/herocast/issues/602",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://github.com/hero-org/herocast/issues/602",
+            "ogType": "object",
+            "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+            "ogImage": [
+              {
+                "alt": "Is your feature request related to a problem? Please describe. Farcaster app has long casts feature. we want to have this too. Describe the solution you'd like Let users write longer casts. Add sim...",
+                "url": "https://opengraph.githubassets.com/5f2c5ec62a4f463a0eeac246192aba447cde12131d582f70e4a502da76f204d9/hero-org/herocast/issues/602",
+                "width": "1200",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "Add long casts · Issue #602 · hero-org/herocast",
+            "ogLocale": "en",
+            "ogSiteName": "GitHub",
+            "ogDescription": "Is your feature request related to a problem? Please describe. Farcaster app has long casts feature. we want to have this too. Describe the solution you'd like Let users write longer casts. Add sim..."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6d0529ad",
+    "url": "https://farcaster.xyz/tanishq/0x6d0529ad",
+    "author_username": "tanishq",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 2341,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0a1dc0bd-cdf3-4bc7-af2e-28ce90b0dd00/original",
+    "cast_date": "2025-09-02T05:11:07.000Z",
+    "text": "Why mini apps over websites? \n\nMini Apps in Farcaster’s context is much more than accessing a crypto service with your wallet baked in\n\nIt’s also your connections, your history, your content, your entire context— what you prefer, how you interact, what tokens you hold, who do you respond to, publicly \n\nMini Apps that build on Farcaster get to leverage their user’s entire context to make them highly personalized instantly (results in higher conversion)\n\nI wrote about it a few days ago— Apps fit well because Farcaster acts as an operating system for the ecosystem \n\nhttps://farcaster.xyz/tanishq/0x972e8fee",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2341,
+          "hash": "0x972e8fee4f2475fb2f08c0e5b2880a7b0508e472"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x972e8fee4f2475fb2f08c0e5b2880a7b0508e472",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2341,
+            "username": "tanishq",
+            "display_name": "tani",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0a1dc0bd-cdf3-4bc7-af2e-28ce90b0dd00/original",
+            "custody_address": "0x757d35fd39b2d25f93a04a41bd9ea4a13159b7f6"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x972e8fee4f2475fb2f08c0e5b2880a7b0508e472",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "My thesis for Farcaster as an operating system has only gotten stronger\n\n> Decentralized social graph\n> Mini Apps & App Coins\n> Integrated wallet\n> Embedded tokens in casts\n> Token discovery\n> Near-instant cross chain swaps\n> and so many upcoming primitives\n\nDevelopers can create permissionless apps (social graph, wallet) and incentivize people (tips) for distribution (embedded tokens in casts), tap into cross-chain liquidity with no trace of friction.",
+          "timestamp": "2025-08-27T16:46:36.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 2341,
+                "hash": "0xed91ac27f7fd199e7df04c3267a6d508dcbdd755"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xed91ac27f7fd199e7df04c3267a6d508dcbdd755",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 2341
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd10a0e89",
+    "url": "https://farcaster.xyz/jacek/0xd10a0e89",
+    "author_username": "jacek",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 15983,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+    "cast_date": "2025-08-31T21:58:38.000Z",
+    "text": "1/3 Hey Degens, today marks the last ever $DEGEN airdrop.\n\nOver the past 19 months, we’ve given out over $50 million to content creators on Farcaster, making this one of the largest airdrops in crypto history! 🎩",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94250335-83a1-47bf-b030-f754b4e08a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 236561,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1024
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf08bd76f",
+    "url": "https://farcaster.xyz/androidsixteen.eth/0xf08bd76f",
+    "author_username": "androidsixteen.eth",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 3635,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/68e0858a-bd96-41ab-ca47-3e25868d6a00/rectcrop3",
+    "cast_date": "2025-08-29T19:54:48.000Z",
+    "text": "I held out for a long time, but I’ve finally accepted it — liberally muting people is the only sane way to use social media\n\nUsed to think everyone deserved a chance to be heard. But some people are resolved to be negative / victims and it’s not worth joining them in the drama triangle as the persecutor OR rescuer",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7274cdfd",
+    "url": "https://farcaster.xyz/vrypan.eth/0x7274cdfd",
+    "author_username": "vrypan.eth",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 280,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6d4b02ce-7315-4636-4793-f3ea88e83400/original",
+    "cast_date": "2025-08-30T16:43:00.000Z",
+    "text": "If find it amazing how much onchain activity is generated every time I react to a cast:\n\n- @noiceapp sends a tip in $lemon3\n- @tipn sends a tip in $USDC\n- @cobuild swaps an amount of $USDC to the cast creator's coin\n\nThese \"social emissions\" are a mind-blowing phenomenon that we take for granted just because we are used to it.\n\n(Not to mention tips in $DEGEN, recently $BETR, etc)",
+    "embeds": [
+      {
+        "url": "https://farcaster.xyz/~/c/base:0xe0907762b1d9cdfbe8061ae0cc4a0501fa077421",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/~/c/base:0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/~/c/base:0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/~/c/base:0x051024b653e8ec69e72693f776c41c2a9401fb07",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6f552190",
+    "url": "https://farcaster.xyz/7858.eth/0x6f552190",
+    "author_username": "7858.eth",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 2494,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/278cba4a-3eea-42b7-c752-65be7c9a2200/original",
+    "cast_date": "2025-08-30T01:51:25.000Z",
+    "text": "A lot of my replies have been going unliked recently\n\nI wonder if we’ve signed ourselves up for so many pay to like services that it’s having a cooling effect on engagement \n\nIt used to be that basically every reply was sure to get a like from the OP at least\n\nSomething something skin in the game, revealed preferences, etc\n\nOr maybe I am just not posting good posts",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x394fdbbd",
+    "url": "https://farcaster.xyz/tldr/0x394fdbbd",
+    "author_username": "tldr",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c8a5399-3ae5-4994-a9fe-d1e6c5ebc600/original",
+    "cast_date": "2025-08-29T18:31:22.000Z",
+    "text": "🚨 Today at 5pmET.\n\n    100+ Football markets open for trading.\n\n🏈 2025-26 NFL Playoffs? 32 teams.\n🏈 2025-26 NCAA Playoffs? 67 teams.\n🏈 Games of the Week. 6 games (below).\n\n    Bracky is going to 𝕏... but FC eats first! \n\n    More details below 🧵↓",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aa7c3838-3d62-4492-cbe1-1bcc0d6cd400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 193604,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1024
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5c24258a-ee32-49d4-ca30-cc78d3929600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 470841,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1410,
+            "height_px": 1168
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdc96622f",
+    "url": "https://farcaster.xyz/sayangel/0xdc96622f",
+    "author_username": "sayangel",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 1725,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/449ec2f2-7742-4f52-ed62-ed27fe863400/rectcrop3",
+    "cast_date": "2025-08-30T20:07:22.000Z",
+    "text": "Ok this is nuts. @avneesh sends me some $BRACKY via X (!!!) and then I get a Farcaster notification that I received the shares in my @bracketgame wallet.\n\nChoo choo @tldr",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/077e877e-a3e9-4bc5-80ed-49779e234200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 215982,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1183,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ecf0485f-e2a2-411d-6ce9-a2d2e8d3a900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 51053,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 400
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaa013ed2",
+    "url": "https://farcaster.xyz/nickysap/0xaa013ed2",
+    "author_username": "nickysap",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 269091,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9898cc1f-6574-453c-5817-da0e8bc3a800/original",
+    "cast_date": "2025-08-29T16:46:05.000Z",
+    "text": "I won! \n\nAmazing to earn actual money for my writing and to be recognized in this way. Thank you for the support 🙏🙏🙏\n\nBullish @paragraph 🚀",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 540093,
+          "hash": "0x47850c06ac4e510bd9e5b6bc840ebe7c4bc9c8e6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x47850c06ac4e510bd9e5b6bc840ebe7c4bc9c8e6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 540093,
+            "username": "reidtandy",
+            "display_name": "Reid DeRamus",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2ecac306-28a0-43e8-92ef-dec3b8e68e00/original",
+            "custody_address": "0x1cfc50e98ac83e8ccfce84112e97bb1072bdd638"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x47850c06ac4e510bd9e5b6bc840ebe7c4bc9c8e6",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Congrats to the winners of our Remix contest!\n\n🥇 $500 USDC - @nickysap\n🥈 $200 - @farcasthoe\n🥉 $100 - @stellaachenbach\n\nWe got a treasure trove of feedback - huge thank you to everyone who remixed & share their ideas and thoughts.\n\nLinks to posts in comments below ⬇️",
+          "timestamp": "2025-08-29T16:25:24.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 540093,
+                "hash": "0xff28fca78d4b84bc3f5e7c3f74ab99e69b5c1364"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xff28fca78d4b84bc3f5e7c3f74ab99e69b5c1364",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 540093
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe6d6ee4d",
+    "url": "https://farcaster.xyz/matchaxyz/0xe6d6ee4d",
+    "author_username": "matchaxyz",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 17114,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmVehWZbWAYkDnUYrh8uTbdT7NJYCw9a8SDQVeLBDXQHNA?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-08-29T16:44:12.000Z",
+    "text": "With our new integration of @farcaster’s social graph on the Matcha homepage, your trades just got a whole lot friendlier",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0198f6b5-7624-89d0-cd6f-e8759819fe8f.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1560,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1040,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 780,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 520,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 27.29
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0e089f6f",
+    "url": "https://farcaster.xyz/zora/0x0e089f6f",
+    "author_username": "zora",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 20910,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1b471987-45b1-48e3-6af4-44929b6e4900/original",
+    "cast_date": "2025-08-29T15:05:58.000Z",
+    "text": "Announcing: Zora Top Trader Competition\n\nA weekly trading competition rewarding the top traders on Zora.\n\nThe first week is a $100K prize pool for the top 10 traders.",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0198f65c-9700-2426-2830-9f36038190c1.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 13
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe841bd63",
+    "url": "https://farcaster.xyz/dwr.eth/0xe841bd63",
+    "author_username": "dwr.eth",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-08-30T08:27:09.000Z",
+    "text": "Haven’t done one of these in a while.\n\nAMA!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd7bc1415",
+    "url": "https://farcaster.xyz/christin/0xd7bc1415",
+    "author_username": "christin",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 15850,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bd90b57-732c-445b-4670-00040e540100/original",
+    "cast_date": "2025-08-29T20:50:11.000Z",
+    "text": "you know @patriciaxlee.eth I actually have a mobile office when my wife is fishing",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 719715,
+          "hash": "0x2e7284dc8828bd53931c5ccf0f25ce005b56e7c0"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x2e7284dc8828bd53931c5ccf0f25ce005b56e7c0",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 719715,
+            "username": "patriciaxlee.eth",
+            "display_name": "Patricia Lee",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cccc97ef-8ef1-4925-85c3-a9326be2af00/rectcrop3",
+            "custody_address": "0x82c653cad9a460a4e0ee091e776aa43c5af1728d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xaf52d6ef7aa39e76536ac1e4f7b1bf05f377edb0",
+          "parent_hash": "0xaf52d6ef7aa39e76536ac1e4f7b1bf05f377edb0",
+          "parent_url": null,
+          "root_parent_url": "https://warpcast.com/~/channel/blank",
+          "parent_author": {
+            "fid": 210698
+          },
+          "text": "I have seriously considered doing this by the ocean where I live and sitting down to work for the whole day. People would probably think it’s performance art or a weird attempt at going viral.\n\nBut for me it’s just because I think it would just feel really, really awesome to experience. I’d also want to let other people sit at the desk. I want to do so many things for my own sensory experience in this lifetime that I feel would be misconstrued as performance for an audience.\n\ncc @christin and @july should I do this as a /thenextwave thing?",
+          "timestamp": "2025-08-29T19:16:45.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "blank",
+            "name": "blank",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e4fe32c9-6319-4ae4-3b3e-595654a98200/original"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1ddefe2e-984f-450f-b044-ea4c21c32500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 602260,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1976,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0aa2ed82",
+    "url": "https://farcaster.xyz/jeff-xyz/0x0aa2ed82",
+    "author_username": "jeff-xyz",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 1045847,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/438c528e-eec2-455f-459e-637929bebf00/rectcrop3",
+    "cast_date": "2025-08-30T16:36:12.000Z",
+    "text": "If you’re a @farcaster maxi, have you:\n\nMet /founders on here, and helped them with their projects and provided them feedback?\n\nDid the founders appreciate it? \n\nDid they continue to ask for your feedback?\n\nDid you end up getting burnt out because it was taking away from something else you were doing?\n\nWould you have continued to provide that feedback if you were recognized for it / paid for your feedback?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe7d12ee5",
+    "url": "https://farcaster.xyz/bertwurst.eth/0xe7d12ee5",
+    "author_username": "bertwurst.eth",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 864405,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0c58c61-1cdb-4eb3-0fe7-7a8905680300/original",
+    "cast_date": "2025-08-30T19:00:00.000Z",
+    "text": "Feeling uninspired today. Does anyone else get in a funk sometimes? Can you do me a favor and show me your favorite piece of irl art you own? Just hold me up to it so I can see it. (and maybe cast a picture of it so I can show the Assistants.)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5457e2c7-babf-423e-95d5-2ffbaa381300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 590975,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1809,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbb88a631",
+    "url": "https://farcaster.xyz/bertwurst.eth/0xbb88a631",
+    "author_username": "bertwurst.eth",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 864405,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0c58c61-1cdb-4eb3-0fe7-7a8905680300/original",
+    "cast_date": "2025-09-02T00:10:08.000Z",
+    "text": "I 💜 Roadkill! \n\nBig congrats to @laurenmessner and @erica for knowing me best. Bragging rights secured + $20 of $BERTWURST.ETH. 🦝 \n\nThanks to @retake for hosting!\nhttps://farcaster.xyz/erica/0x2337ab4c\nhttps://farcaster.xyz/laurenmessner/0x6f02227d",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/71c9a626-8613-4ef7-46c5-a5b3742ee800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 472919,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1800,
+            "height_px": 1200
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 20270,
+          "hash": "0x2337ab4cd34e09ba4a12fe37342b60a18055eb86"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x2337ab4cd34e09ba4a12fe37342b60a18055eb86",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 20270,
+            "username": "erica",
+            "display_name": "erica",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa6a9c8a-ade1-496b-2534-c9b6f7a1cf00/original",
+            "custody_address": "0x92ce59c18a97646e9a7e011653d8417d3a08bb2b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0c8c7746186734c53c5961610f0bbcc2186b86b3",
+          "parent_hash": "0x0c8c7746186734c53c5961610f0bbcc2186b86b3",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 864405
+          },
+          "text": "put me in coach\n\nlowkey want jessica to win but i'm trying to be realistic here",
+          "timestamp": "2025-09-01T18:25:09.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7fa26b83-46f1-46d9-6d4e-c51daa655300/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 509451,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1333
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 4077,
+          "hash": "0x6f02227d1b4ce13607c30f2f73ef66e9e18e44f6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x6f02227d1b4ce13607c30f2f73ef66e9e18e44f6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4077,
+            "username": "laurenmessner",
+            "display_name": "Lauren Messner",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/df5f9101-090f-406b-2d2f-517229872d00/rectcrop3",
+            "custody_address": "0x12b53c286e4b721fad87e2a4c0995d9388f60299"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x6f02227d1b4ce13607c30f2f73ef66e9e18e44f6",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Poppy helped me draft this. Her favorite toy (also from Barkbox) is the weird toy we call Boogies (short for bogeyman). So obviously roadkill is winning this",
+          "timestamp": "2025-09-01T16:18:31.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 864405,
+                "hash": "0x0c8c7746186734c53c5961610f0bbcc2186b86b3"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x0c8c7746186734c53c5961610f0bbcc2186b86b3",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 864405
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b51a5581-ff0f-45c4-1583-a63248de1a00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 350747,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1316
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/751c3de2-d5c3-4109-c62b-68e468089000/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 548332,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1500,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/~/c/base:0xe934d3360fa0c5f30b140d15ee0b5a4e4e5edb07",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5828a53b",
+    "url": "https://farcaster.xyz/sayangel/0x5828a53b",
+    "author_username": "sayangel",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 1725,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/449ec2f2-7742-4f52-ed62-ed27fe863400/rectcrop3",
+    "cast_date": "2025-09-02T04:23:35.000Z",
+    "text": "I created a list to record prominent posters here who still actively call them frames. It's not complete and I'll add to it over time. People have their reasons, but also it's worth knowing who is and who is not contributing to the survival of frames and lack of mini app growth.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 6841,
+          "hash": "0xd0183bd8bbe7aea3c7e95ef5f2675d2fd86c6669"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd0183bd8bbe7aea3c7e95ef5f2675d2fd86c6669",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 6841,
+            "username": "deodad",
+            "display_name": "Tony D’Addeo",
+            "pfp_url": "https://i.imgur.com/dMoIan7.jpg",
+            "custody_address": "0xf9d3d372d0097bf26cbf2444b34f5b9522afaa4b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd0183bd8bbe7aea3c7e95ef5f2675d2fd86c6669",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "i was too chicken to copy pasta",
+          "timestamp": "2025-09-02T03:41:58.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3f1dbcad-cc7c-4c5d-302b-277b169c4800/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 350163,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1874
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x23f7a134",
+    "url": "https://farcaster.xyz/grace/0x23f7a134",
+    "author_username": "grace",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 1189,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c93bc7b1-6de2-4eae-c19d-79610aa11500/original",
+    "cast_date": "2025-09-01T16:47:01.000Z",
+    "text": "october feels like a good month to lock in again",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 680,
+          "hash": "0x03fd83d18237439bfbd0011b8feb2ee826070870"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x03fd83d18237439bfbd0011b8feb2ee826070870",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 680,
+            "username": "woj",
+            "display_name": "​woj",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/12b1c3e0-75cd-404d-d931-8f1196827300/original",
+            "custody_address": "0x0b28a373fc8d92669aefb420499e74ce2dd5d356"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x03fd83d18237439bfbd0011b8feb2ee826070870",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "october feels like a good month to lock in again",
+          "timestamp": "2025-09-01T13:16:43.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x23f7a134",
+    "url": "https://farcaster.xyz/grace/0x23f7a134",
+    "author_username": "grace",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 1189,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c93bc7b1-6de2-4eae-c19d-79610aa11500/original",
+    "cast_date": "2025-09-01T16:47:01.000Z",
+    "text": "october feels like a good month to lock in again",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 680,
+          "hash": "0x03fd83d18237439bfbd0011b8feb2ee826070870"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x03fd83d18237439bfbd0011b8feb2ee826070870",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 680,
+            "username": "woj",
+            "display_name": "​woj",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/12b1c3e0-75cd-404d-d931-8f1196827300/original",
+            "custody_address": "0x0b28a373fc8d92669aefb420499e74ce2dd5d356"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x03fd83d18237439bfbd0011b8feb2ee826070870",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "october feels like a good month to lock in again",
+          "timestamp": "2025-09-01T13:16:43.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xedcd048b",
+    "url": "https://farcaster.xyz/burrrrrberry/0xedcd048b",
+    "author_username": "burrrrrberry",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 311933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c38a25a6-f3e3-471c-1d79-af3b60651500/original",
+    "cast_date": "2025-08-30T14:57:39.000Z",
+    "text": "We did it 🙌\n\n- Wildwood amusements\n- Ocean city for salt water taffy and mini golf\n- Ventnor beaching\n- Crabs and buffets\n- more candy\n- movies and memories\n- tons of laughing \n- \"Good Job\" Jar paid out\n\nI love these monsters so much 🤍🙌\n\nBut please go back home.  I'm broke and tired now 🤣😬 \n\n@warpc0st prepare my beanbag and fun thing today 🔥 BACK TO BURR BEING #1 PRIORITY 🤣",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d4b15c0-666c-479d-c248-d68950897600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 275538,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1499,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/03e40f96-0cd0-49dc-2f82-18052ae03400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 387860,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1503,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1a75c075",
+    "url": "https://farcaster.xyz/burrrrrberry/0x1a75c075",
+    "author_username": "burrrrrberry",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 311933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c38a25a6-f3e3-471c-1d79-af3b60651500/original",
+    "cast_date": "2025-08-29T20:57:51.000Z",
+    "text": "Nobody tells you these lil mfers will steal your chicken nuggets.\n\nAnd people wonder why I don't have kids 🤬👿",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x190e45d5",
+    "url": "https://farcaster.xyz/nt/0x190e45d5",
+    "author_username": "nt",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 3237,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/46d2cf72-9466-4f09-f68f-a4dac397d300/original",
+    "cast_date": "2025-08-28T21:56:08.000Z",
+    "text": "I come back to this app because of interesting conversations + most people here don’t just want to dunk on each other. \n\nInsta: no interesting conversations + no dunking\n\nReddit/HN: interesting conversations + dunking keyboard warriors \n\nX: no interesting conversations + dunking olympics (fun to watch tho 🍿)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8b26235b",
+    "url": "https://farcaster.xyz/adrienne/0x8b26235b",
+    "author_username": "adrienne",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-08-31T23:20:46.000Z",
+    "text": "I just changed my @cobuild coin to $cbBTC so if you are using cobuild and you interact with my casts you’ll be buying yourself a little bit of coinbase wrapped bitcoin 🫡 \n\ncbBTC is an easy way to get bitcoin exposure without leaving the eth or base ecosystem \n\n@rocketman “X raised for token-name” is a little misleading because i haven’t raised any for that current token yet, the $16 was for my Zora token that was set earlier",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/734faee7-1250-4878-ace4-e2df967a2600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 145715,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1578,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/~/c/base:0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2fb21772",
+    "url": "https://farcaster.xyz/zaal/0x2fb21772",
+    "author_username": "zaal",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 19640,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f9277373-2f85-411b-5d94-d8e11a43de00/original",
+    "cast_date": "2025-09-01T19:06:45.000Z",
+    "text": "Gm farcaster\n\nWearing this awesome shirt on my meetings today! \n\n/gmfarcaster",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3a16bd45-4d43-4fc5-6e8e-d9302e153000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 481063,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x46c66c11",
+    "url": "https://farcaster.xyz/caro.eth/0x46c66c11",
+    "author_username": "caro.eth",
+    "show_date": "2025-09-02",
+    "show_title": "Locking In September (But Halfway, Because Horses 🐎): GM Farcaster ep284",
+    "source_episode_id": "rm4fxIGnK5A",
+    "author_fid": 480509,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/65532bbe-4d8f-4404-1b98-9dbf27852d00/rectcrop3",
+    "cast_date": "2025-09-01T23:10:05.000Z",
+    "text": "represent, they say 🫡",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0a4936c9-492a-4113-207f-d288dd808000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 314682,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]
