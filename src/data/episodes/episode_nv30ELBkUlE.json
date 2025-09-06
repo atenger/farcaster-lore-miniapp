@@ -1,0 +1,1101 @@
+[
+  {
+    "cast_hash": "0x9a98db8a",
+    "url": "https://farcaster.xyz/dwr.eth/0x9a98db8a",
+    "author_username": "dwr.eth",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-09-02T21:42:39.000Z",
+    "text": "back at my desk until christmas\n\nlfg",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8b265074",
+    "url": "https://farcaster.xyz/dwr.eth/0x8b265074",
+    "author_username": "dwr.eth",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-09-02T22:08:29.000Z",
+    "text": "\"it's a sufficiently decentralized christian rap social network with 37 users. a lot of interest in toe spacers and co2 monitors. obsessed with leaderboards. interesting.\"",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/faf95c18-036d-4112-0dce-fe0ad8f3da00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 176341,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 959,
+            "height_px": 638
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf6b9f374",
+    "url": "https://farcaster.xyz/horsefacts.eth/0xf6b9f374",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72bea191-84d2-43a4-e3f9-2e2203606a00/original",
+    "cast_date": "2025-09-02T23:58:36.000Z",
+    "text": "Profile tokens are now live in the Farcaster app!\n\nhttps://farcaster.xyz/horsefacts.eth/0xad21f64e\n\nhttps://farcaster.xyz/horsefacts.eth/0x429d5ff0",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3621,
+          "hash": "0xad21f64eea4a9afa8fa957132b3ae1f5ed8aa89f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xad21f64eea4a9afa8fa957132b3ae1f5ed8aa89f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3621,
+            "username": "horsefacts.eth",
+            "display_name": "horsefacts",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72bea191-84d2-43a4-e3f9-2e2203606a00/original",
+            "custody_address": "0x2cd85a093261f59270804a6ea697cea4cebecafe"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xad21f64eea4a9afa8fa957132b3ae1f5ed8aa89f",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "✨ New on Farcaster: Profile Tokens\n\nShowcase your favorite token on your profile. In the mobile app, tap \"Edit Profile\" and choose a token, or select \"Set as my Profile Token\" from the menu options on the token screen.",
+          "timestamp": "2025-09-02T23:57:03.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.farcaster.xyz/v1/video/01990cd9-a895-5b76-2d04-dff11c7e4334.m3u8",
+              "metadata": {
+                "content_type": "application/vnd.apple.mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1924,
+                      "width_px": 1080,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 1282,
+                      "width_px": 720,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 854,
+                      "width_px": 480,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 640,
+                      "width_px": 360,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 426,
+                      "width_px": 240,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 9.89
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3621,
+          "hash": "0x429d5ff03678ddf72a19689dae3bbffe13c219e4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x429d5ff03678ddf72a19689dae3bbffe13c219e4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3621,
+            "username": "horsefacts.eth",
+            "display_name": "horsefacts",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72bea191-84d2-43a4-e3f9-2e2203606a00/original",
+            "custody_address": "0x2cd85a093261f59270804a6ea697cea4cebecafe"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x429d5ff03678ddf72a19689dae3bbffe13c219e4",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "💡 Profile Tokens\n\nProblem: many people want to share their association with a specific token. Maybe it's an app token, their creator coin, or a token community.\n\nProposal: add a \"profile token\" field to profiles to share one self-declared token association on your Farcaster profile.\n\nMore details below 👇",
+          "timestamp": "2025-08-27T20:18:20.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0534b712-4ace-41dc-f393-9d166cb37300/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 261698,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 804,
+                  "height_px": 962
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xad21f64e",
+    "url": "https://farcaster.xyz/horsefacts.eth/0xad21f64e",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72bea191-84d2-43a4-e3f9-2e2203606a00/original",
+    "cast_date": "2025-09-02T23:57:03.000Z",
+    "text": "✨ New on Farcaster: Profile Tokens\n\nShowcase your favorite token on your profile. In the mobile app, tap \"Edit Profile\" and choose a token, or select \"Set as my Profile Token\" from the menu options on the token screen.",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01990cd9-a895-5b76-2d04-dff11c7e4334.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1924,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1282,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 854,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 9.89
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x429d5ff0",
+    "url": "https://farcaster.xyz/horsefacts.eth/0x429d5ff0",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72bea191-84d2-43a4-e3f9-2e2203606a00/original",
+    "cast_date": "2025-08-27T20:18:20.000Z",
+    "text": "💡 Profile Tokens\n\nProblem: many people want to share their association with a specific token. Maybe it's an app token, their creator coin, or a token community.\n\nProposal: add a \"profile token\" field to profiles to share one self-declared token association on your Farcaster profile.\n\nMore details below 👇",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0534b712-4ace-41dc-f393-9d166cb37300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 261698,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 804,
+            "height_px": 962
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x67cd5cc4",
+    "url": "https://farcaster.xyz/bradq/0x67cd5cc4",
+    "author_username": "bradq",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-09-02T16:01:51.000Z",
+    "text": "** Rewards Leaderboard Results **\n\n* Oh, ladies...8 of top 10, 13 of top 20...\n\n* The people returned the OG Vibe Queen to the top, @erica #1 after a hiatus; @keccers.eth is starting to look like 'Fairway Jesus' (iykyk) taking another runner-up finish, but that's better than those 11 & 12 finishes!\n\n* @m00npapi.eth & @bertwurst.eth broke up the feminine inclination to take the whole top 10 at #5 & #6 (but with Assistant #1 doing so much help for Bert. it's like half a leaderboard spot to the ladies anyway; & @0ffline slipped back into the top 10 at #10 this week\n\n* Down leaderboard @shawmakesmagic just misses top 10 at #11, but highest finish; @bombaymalayali a #21 is highest ever (I think); & @gabrioche rides apartment renovation videos to a debut at #26; Plus @lambchop slips into the top 30 at #29\n\n* Meme-coveted #69 goes to...drumroll.... /los-fomos @tako-unik 🌶️ \n\n* We are always watching for first timers and new tiers achieved to celebrate with folks 🎈",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6957f482-aee2-4189-4683-bc4ed7d4fc00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 227519,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 756,
+            "height_px": 1342
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2c3664e1",
+    "url": "https://farcaster.xyz/yes2crypto.eth/0x2c3664e1",
+    "author_username": "yes2crypto.eth",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 214447,
+    "author_pfp": "https://i.imgur.com/dBoVmnG.jpg",
+    "cast_date": "2025-09-02T14:29:43.000Z",
+    "text": "How come mini apps that have notification style sounds don’t honor a phone’s sound/vibration setting?\n\nFor example, the QR app started making a chime when claiming. They’re not the only one. I DO NOT WANT SOUND when I’m mini apping and I have sound off.  \n\nMany mini apps do this. \n\nI’d like a Farcaster app control over this if I can get it.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x18cff33b",
+    "url": "https://farcaster.xyz/lawrenceroman/0x18cff33b",
+    "author_username": "lawrenceroman",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 248762,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5563c51f-451c-48b3-213b-ba8e75c6ff00/original",
+    "cast_date": "2025-09-02T15:48:40.000Z",
+    "text": "Should Farcaster mini apps include a user review system?",
+    "embeds": [
+      {
+        "url": "zoraCoin://0x13994c2840fbeec36067618e985c9cfd533b7e24",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbda98ace",
+    "url": "https://farcaster.xyz/farcaster/0xbda98ace",
+    "author_username": "farcaster",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 1,
+    "author_pfp": "https://i.imgur.com/I2rEbPF.png",
+    "cast_date": "2025-09-02T18:08:27.000Z",
+    "text": "We'll be hosting a livestream with @shawmakesmagic, the founder of Eliza Labs, on Thu Sep 4th at 12pm PT about @elizaos agents and the move to Farcaster",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/994f597f-5f0c-4a68-84d7-e8429ad77900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 358621,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1920,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2ddca58f",
+    "url": "https://farcaster.xyz/ahn.eth/0x2ddca58f",
+    "author_username": "ahn.eth",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 8004,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cca05e9f-4f52-45c9-ebdb-c60ec8f93d00/rectcrop3",
+    "cast_date": "2025-09-02T17:09:52.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://tba-social.mypinata.cloud/ipfs/bafkreifrv5x4tipm2grtwvlhvcnpifcp26pgc6r4iajd27br4wyvw3cohe",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 193066,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 280,
+            "height_px": 356
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 1107323,
+          "hash": "0x68a76ee557e7faa64fc27583ea3182476208736e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x68a76ee557e7faa64fc27583ea3182476208736e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1107323,
+            "username": "elizaos",
+            "display_name": "elizaOS",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6d3ecaf3-fafa-41cc-26e7-be2c1742c100/original",
+            "custody_address": "0x9cd95a9cefddcc3d6f247c10e6d6c04d2078e5a5"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x68a76ee557e7faa64fc27583ea3182476208736e",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "building where agents persist. Farcaster is home.",
+          "timestamp": "2025-09-02T16:00:08.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/146c412b-7143-4c18-ba30-7a51f0d07500/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 892164,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1875
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x68a76ee5",
+    "url": "https://farcaster.xyz/elizaos/0x68a76ee5",
+    "author_username": "elizaos",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 1107323,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6d3ecaf3-fafa-41cc-26e7-be2c1742c100/original",
+    "cast_date": "2025-09-02T16:00:08.000Z",
+    "text": "building where agents persist. Farcaster is home.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/146c412b-7143-4c18-ba30-7a51f0d07500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 892164,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1875
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcaf296e0",
+    "url": "https://farcaster.xyz/adrienne/0xcaf296e0",
+    "author_username": "adrienne",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-09-02T17:00:07.000Z",
+    "text": "Welcome to farcastHER",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1,
+          "hash": "0x78f7c6396d3f6315ec41b653da624a460bd52812"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x78f7c6396d3f6315ec41b653da624a460bd52812",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1,
+            "username": "farcaster",
+            "display_name": "Farcaster",
+            "pfp_url": "https://i.imgur.com/I2rEbPF.png",
+            "custody_address": "0x8773442740c17c9d0f0b87022c722f9a136206ed"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x78f7c6396d3f6315ec41b653da624a460bd52812",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Welcome to Farcaster, @elizaos.",
+          "timestamp": "2025-09-02T16:47:26.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 1107323,
+                "hash": "0x68a76ee557e7faa64fc27583ea3182476208736e"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x68a76ee557e7faa64fc27583ea3182476208736e",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 1107323
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/76f37a72-f069-4d61-88d8-4624604c0600/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 892227,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1875
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c0e66d6a-d060-4593-e00f-2cc8f8fc1700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 800060,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 894,
+            "height_px": 838
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4b346018",
+    "url": "https://farcaster.xyz/base.base.eth/0x4b346018",
+    "author_username": "base.base.eth",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 12142,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce5460f6-40a2-4486-47c1-7801e4033e00/original",
+    "cast_date": "2025-09-02T23:30:26.000Z",
+    "text": "Pick your client. Own your audience. Build without needing permission.\n\nThat’s decentralized social.\n\nThe Farcaster team on why the future is open.",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/base-app/video/upload/sp_auto/v1756855810/video_uploads/ba1034f5-f2de-4ce4-a096-2f6fd1d837e1.m3u8?zoraCoin=0xefb0d7fb927da40bc8e4a72134b7adc3e58a7183",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": 504,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 540,
+                "width_px": 960,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 270,
+                "width_px": 480,
+                "codec_name": "h264"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x10a86925",
+    "url": "https://farcaster.xyz/geoffgolberg/0x10a86925",
+    "author_username": "geoffgolberg",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 4528,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/873e23da-8440-4b3e-e6b4-790c34800300/rectcrop3",
+    "cast_date": "2025-09-02T20:06:07.000Z",
+    "text": "Base’s head of product, @tom.base.eth, is stepping away from his role (worth noting he shared on X.. not on FC) https://x.com/neodaoist/status/1962945616880816464",
+    "embeds": [
+      {
+        "url": "https://x.com/neodaoist/status/1962945616880816464",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/neodaoist/status/1962945616880816464",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">good morning, to all based builders.<br><br>I have some bittersweet news to share today – I’m stepping away from my role as head of product for <a href=\"https://twitter.com/base?ref_src=twsrc%5Etfw\">@base</a>.<br><br>it’s been an incredible run – fun, challenging, rewarding. I extend sincere gratitude to Jesse, Brian, and Coinbase for the… <a href=\"https://t.co/LVGW3lscfk\">pic.twitter.com/LVGW3lscfk</a></p>&mdash; tom.base.eth (@neodaoist) <a href=\"https://twitter.com/neodaoist/status/1962945616880816464?ref_src=twsrc%5Etfw\">September 2, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/neodaoist",
+              "author_name": "tom.base.eth",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1f223d5b",
+    "url": "https://farcaster.xyz/jesse.base.eth/0x1f223d5b",
+    "author_username": "jesse.base.eth",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-09-02T20:23:26.000Z",
+    "text": "top of mind for me coming back from recharge\n\nignore the noise, stay focused, keep building",
+    "embeds": [
+      {
+        "url": "https://tba-social.mypinata.cloud/ipfs/bafkreiewjl56apkiixtvu3ibnwsa7mxmw435vsru3zg4yadkcba4ppbyby?zoraCoin=0x4677de3f100742d7b134fce2070c96dedb3d8a0b",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 110717,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1860,
+            "height_px": 1046
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc6f4d2dc",
+    "url": "https://farcaster.xyz/tayyab/0xc6f4d2dc",
+    "author_username": "tayyab",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 66,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04ad2f2e-0625-4125-cdc5-aacec3749c00/rectcrop3",
+    "cast_date": "2025-09-03T12:34:39.000Z",
+    "text": "Excited to announce what we’ve been working on. \n\nGLXY becomes the first public company to tokenize their shares! \n\nhttps://x.com/galaxyhq/status/1963210771912929652?s=46",
+    "embeds": [
+      {
+        "url": "https://x.com/galaxyhq/status/1963210771912929652?s=46",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/galaxyhq/status/1963210771912929652",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">A historic first: We’ve partnered with <a href=\"https://twitter.com/superstatefunds?ref_src=twsrc%5Etfw\">@superstatefunds</a> to allow stockholders to tokenize and hold <a href=\"https://twitter.com/search?q=%24GLXY&amp;src=ctag&amp;ref_src=twsrc%5Etfw\">$GLXY</a> shares onchain. This milestone marks the first time a public company has tokenized its SEC-registered equity directly on a major blockchain. Effective immediately,… <a href=\"https://t.co/pYHrwzGfuh\">pic.twitter.com/pYHrwzGfuh</a></p>&mdash; Galaxy (@galaxyhq) <a href=\"https://twitter.com/galaxyhq/status/1963210771912929652?ref_src=twsrc%5Etfw\">September 3, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/galaxyhq",
+              "author_name": "Galaxy",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb4f61885",
+    "url": "https://farcaster.xyz/talent/0xb4f61885",
+    "author_username": "talent",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 20442,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d4038f79-b5ca-4026-d4f9-1fd628e7d200/original",
+    "cast_date": "2025-09-03T10:32:26.000Z",
+    "text": "Base Builder Rewards are rolling again!\n\n✔️ Aug 18–24 rewards went out yesterday evening.\n🔜 Aug 25–31 distribution is coming today. \n\nStay tuned 🫡",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 20442,
+          "hash": "0x0515399386608ef5710b864e3a840cf3c41fb6ad"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0515399386608ef5710b864e3a840cf3c41fb6ad",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 20442,
+            "username": "talent",
+            "display_name": "Talent Protocol",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d4038f79-b5ca-4026-d4f9-1fd628e7d200/original",
+            "custody_address": "0x445776c58d6ffb45d9b9f6d68246e985e1830265"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0515399386608ef5710b864e3a840cf3c41fb6ad",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/talent",
+          "root_parent_url": "https://warpcast.com/~/channel/talent",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Some builders flagged inconsistencies in how onchain activity was tracked for @base.base.eth Builder Rewards.\n\nThanks to that feedback, we’ve identified the root cause and are already working on a fix.\n ⸻ \nIn the meantime, we’ve decided to delay last week’s rewards distribution to ensure all activity from Aug 18–24 is properly counted.\n\nThe Base Builder Rewards App currently shows last week’s leaderboard, which will be updated before rewards are distributed.\n ⸻ \nActivity from the current week (Aug 25–31) is not yet reflected in the app. It will appear once last week’s rewards have been finalized. We’ll share an official update as soon as it’s live. \n⸻ \nThanks to all builders for your patience and for helping us spot and resolve these issues. 🫡\n\nWe’ll use this thread to post further updates.",
+          "timestamp": "2025-08-26T19:05:01.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c048417-dce9-44ca-7b07-afbc54e9f800/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 629367,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1920,
+                  "height_px": 1080
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "talent",
+            "name": "Talent",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/002f0efe-2513-41e7-3d89-d38875d76800/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe1d71666",
+    "url": "https://farcaster.xyz/arbitrum/0xe1d71666",
+    "author_username": "arbitrum",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 536359,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7e03b9ab-d239-48da-a04f-fa4f9686cf00/rectcrop3",
+    "cast_date": "2025-09-02T19:46:30.000Z",
+    "text": "EPOCH 6 HAS WRAPPED UP!\n \nAnnouncing the Top 5 Arbitrum Mini Apps for August 25th - 31st:\n\n🥇 Arb Box/Send It — @eth-5k \n🥈 Ok Arbitrum — @0xsayan.eth \n🥉 Dice Jackpot — @0xsayan.eth \n🎖️ 2048 — @cashlessman.eth\n🏅 Flapbitrum — @harshshukla \n\nWinners can expect to receive a DM from us on how to receive their share of the $2500 grant.\n\nCast your favorite Arbitrum mini apps in the comments below! 🤗",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xedd13a35",
+    "url": "https://farcaster.xyz/gabo/0xedd13a35",
+    "author_username": "gabo",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 12949,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2737fccf-ace2-4b1f-ca50-1ef721b8be00/original",
+    "cast_date": "2025-09-02T19:26:20.000Z",
+    "text": "/poap birthday arriving soon ! Collector /poap and raffle. \n\nTo commemorate this special occasion, we've crafted a unique POAP Inc Anniversary POAP. You can mint it via Airship using the link below 👇\n\nMint it to:\n• Collect a piece of POAP history\n• Enter a raffle for USDC and Swag\n\nhttps://x.com/poapxyz/status/1962955965130514572",
+    "embeds": [
+      {
+        "url": "https://x.com/poapxyz/status/1962955965130514572",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/poapxyz/status/1962955965130514572",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">To celebrate POAP Inc&#39;s 4th anniversary on Sept 9th, we&#39;re issuing a special anniversary POAP and hosting a community contest. We want to know what you wish you got a POAP for! <br><br>To learn how you can participate, read on! 👇 <a href=\"https://t.co/m5wxjOSfwP\">pic.twitter.com/m5wxjOSfwP</a></p>&mdash; POAP - Bookmarks for your life (@poapxyz) <a href=\"https://twitter.com/poapxyz/status/1962955965130514572?ref_src=twsrc%5Etfw\">September 2, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/poapxyz",
+              "author_name": "POAP - Bookmarks for your life",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa071611d",
+    "url": "https://farcaster.xyz/cardno.eth/0xa071611d",
+    "author_username": "cardno.eth",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 10051,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/759b349c-3028-44a0-ea1d-91b5ecafdc00/original",
+    "cast_date": "2025-09-02T20:57:06.000Z",
+    "text": "4 Years of POAP Inc 🏅\n\nPOAP Inc turns 4 on Sept 9th and we’ve issued a commemorative collectible you can mint for $2 USDC.\n\nAll funds raised will be raffled off to to a random minter using POAP Fun. \n\nGet yours 👇 https://airship.poap.xyz/4-years-of-poap-inc",
+    "embeds": [
+      {
+        "url": "https://airship.poap.xyz/4-years-of-poap-inc",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://airship.poap.xyz/4-years-of-poap-inc",
+            "ogType": "website",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://airship.poap.xyz/4-years-of-poap-inc/preview",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Minting Dashboard for 4 YEARS of POAP INC",
+            "ogLocale": "en",
+            "ogSiteName": "Minting Dashboard for 4 YEARS of POAP INC",
+            "ogDescription": "Monitor this on-chain POAP sale"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf7ce45a5",
+    "url": "https://farcaster.xyz/bradq/0xf7ce45a5",
+    "author_username": "bradq",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-09-02T23:48:09.000Z",
+    "text": "Happy 4 Years of POAP to all who celebrate. Thank you @worthalter \n\nHere are some favorites, all from Noun O'Clock Live...\n\n#1 - Boxy #472 when Ugly DAO bought it .. s/o @toadyhawk.eth @nounishprof & the gang\n\n#2 - Da Bomb by @supertightwoody with a song he created attached\n\n#3 - Lobster by greta gremplin",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 10051,
+          "hash": "0xa071611d0abe24de9b825717c52f30f77e7a7b63"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa071611d0abe24de9b825717c52f30f77e7a7b63",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 10051,
+            "username": "cardno.eth",
+            "display_name": "cardno ⌐◨-◨",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/759b349c-3028-44a0-ea1d-91b5ecafdc00/original",
+            "custody_address": "0x701ac66e8635873aece077c3f070973e7d6cd637"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa071611d0abe24de9b825717c52f30f77e7a7b63",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/poap",
+          "root_parent_url": "https://warpcast.com/~/channel/poap",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "4 Years of POAP Inc 🏅\n\nPOAP Inc turns 4 on Sept 9th and we’ve issued a commemorative collectible you can mint for $2 USDC.\n\nAll funds raised will be raffled off to to a random minter using POAP Fun. \n\nGet yours 👇 https://airship.poap.xyz/4-years-of-poap-inc",
+          "timestamp": "2025-09-02T20:57:06.000Z",
+          "embeds": [
+            {
+              "url": "https://airship.poap.xyz/4-years-of-poap-inc",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://airship.poap.xyz/4-years-of-poap-inc",
+                  "ogType": "website",
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://airship.poap.xyz/4-years-of-poap-inc/preview",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "Minting Dashboard for 4 YEARS of POAP INC",
+                  "ogLocale": "en",
+                  "ogSiteName": "Minting Dashboard for 4 YEARS of POAP INC",
+                  "ogDescription": "Monitor this on-chain POAP sale"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "poap",
+            "name": "POAP 🏅",
+            "image_url": "https://i.imgur.com/Cm6zKAi.jpg"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/33fb77bf-0bfd-4c78-8d6c-00e1a9cf0c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 826349,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1162,
+            "height_px": 1280
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5dde0ec1-dce9-4a4f-a1a8-b0f360fd4900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 652225,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1140,
+            "height_px": 1346
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/77f4c46c-1b29-4024-eec8-6fafde4aeb00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 656916,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1158,
+            "height_px": 1324
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb819e0a5",
+    "url": "https://farcaster.xyz/bradq/0xb819e0a5",
+    "author_username": "bradq",
+    "show_date": "2025-09-03",
+    "show_title": "Profile Tokens, Leaderboards & Prep for DevConnect: GM Farcaster ep285",
+    "source_episode_id": "nv30ELBkUlE",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-09-02T18:42:30.000Z",
+    "text": "farcatser",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 347050,
+          "hash": "0xbe14234d4e09635321c8db6e9396cf6d9a249a24"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbe14234d4e09635321c8db6e9396cf6d9a249a24",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 347050,
+            "username": "trupty",
+            "display_name": "Trupty Somaiah 🦉",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/14a815fa-d6cc-4388-e8b7-eaf187f60400/rectcrop3",
+            "custody_address": "0x64116e340ae712b58060820f2f328023ddbedf0a"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xbe14234d4e09635321c8db6e9396cf6d9a249a24",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "farcatser",
+          "timestamp": "2025-09-02T12:10:19.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 5142,
+                "hash": "0xc9b9ccd6be8c7d4de3024890ddcb8008c5aa4e2f"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xc9b9ccd6be8c7d4de3024890ddcb8008c5aa4e2f",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 5142
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dbcfd96b-2ce0-426c-ad77-6820ddd05e00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 231850,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1534,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/79ea1d4e-56f4-4e2f-46de-08b033166800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 576626,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 698,
+            "height_px": 1236
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]
