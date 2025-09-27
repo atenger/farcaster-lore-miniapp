@@ -1,0 +1,1640 @@
+[
+  {
+    "cast_hash": "0x7fe06439",
+    "url": "https://farcaster.xyz/toadyhawk.eth/0x7fe06439",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-08-25T18:23:08.000Z",
+    "text": "What could be BETR than winning together? \n\nThe @betrmint neon flywheel is about to start spinning even faster, because BETRStake just soft-launched! \n\nStake your $BETR to share in our success. Spin-to-Claim your rewards daily starting Sep 1 and hit big yield jackpots. Plus Karma Boosts and more 👀 \n\n👉 betrmint.fun/stake\n\nFull announcement and details in the @paragraph essay below, which will featured in today’s round of BETRMINT!\n\nhttps://paragraph.com/@toadyhawk/what-could-be-betr-than-winning-together",
+    "embeds": [
+      {
+        "url": "https://betrmint.fun/stake",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://betrmint.fun/images/stake-og-embed.jpg",
+                "type": "jpg",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "BETRMINT",
+            "ogLocale": "en",
+            "ogDescription": "Stake $BETR to Earn $BETR",
+            "fcFrame": {
+              "button": {
+                "title": "Stake $BETR to Earn $BETR",
+                "action": {
+                  "url": "https://betrmint.fun/stake",
+                  "name": "BETRMINT",
+                  "type": "launch_frame",
+                  "iconUrl": "https://betrmint.fun/images/icon.png",
+                  "splashImageUrl": "https://betrmint.fun/images/icon.png",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://betrmint.fun/images/stake-embed.jpg"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Stake $BETR to Earn $BETR",
+            "image": "https://betrmint.fun/images/stake-embed.jpg",
+            "frames_url": "https://betrmint.fun/stake",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1047658,
+              "username": "betrmint",
+              "display_name": "BETRMINT",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7ee13472-a96b-414e-052f-0bb019cd4400/original",
+              "custody_address": "0x0fcb5e52ae5d29c31c3be94a46ba8cffcb77e8b6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEwNDc2NTgsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwZkNiNUU1MmFFNUQyOWMzMUMzYkU5NGE0NmJBOENmRmNiNzdlOGI2In0",
+                "payload": "eyJkb21haW4iOiJiZXRybWludC5mdW4ifQ",
+                "signature": "MHg2OTU0OGM3YTI4MzYzNTZjMTAxYjkzYzlhMDUyODJiOGViNGE0YjNmMDQwMDE1NWE0MGRkODVkYWQ0MWQ2NDIwMTNkNDczNDk1N2QwY2ZkZjk5ODlhOGYzMmE1YWZkOTE1ZTgzMTBhNzgyZjgwNWQyYjdlZmQ1YjgzM2E5NGM0MTFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "BETRMINT",
+                "home_url": "https://betrmint.fun/",
+                "icon_url": "https://betrmint.fun/images/app-icon.png",
+                "image_url": "https://betrmint.fun/images/fc-image.jpeg",
+                "button_title": "CLICK TO SPIN & WIN!",
+                "splash_image_url": "https://betrmint.fun/images/icon.png",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://api.neynar.com/f/app/2e29eb7d-4cd2-43a3-9047-bee80cf1a944/event",
+                "subtitle": "Mint. Spin. Win.",
+                "description": "Bet on Based Creators, Win Base Memecoins!",
+                "primary_category": "games",
+                "tags": [
+                  "spin",
+                  "win",
+                  "slots",
+                  "fun",
+                  "prizes"
+                ],
+                "hero_image_url": "https://betrmint.fun/images/og-image.jpeg",
+                "tagline": "Mint. Spin. Win.",
+                "og_title": "BETRMINT",
+                "og_description": "Bet on Based Creators, Win Base Memecoins!",
+                "og_image_url": "https://betrmint.fun/images/og-image.jpeg"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "BETRMINT",
+                "home_url": "https://betrmint.fun/",
+                "icon_url": "https://betrmint.fun/images/app-icon.png",
+                "image_url": "https://betrmint.fun/images/fc-image.jpeg",
+                "button_title": "CLICK TO SPIN & WIN!",
+                "splash_image_url": "https://betrmint.fun/images/icon.png",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://api.neynar.com/f/app/2e29eb7d-4cd2-43a3-9047-bee80cf1a944/event",
+                "subtitle": "Mint. Spin. Win.",
+                "description": "Bet on Based Creators, Win Base Memecoins!",
+                "primary_category": "games",
+                "tags": [
+                  "spin",
+                  "win",
+                  "slots",
+                  "fun",
+                  "prizes"
+                ],
+                "hero_image_url": "https://betrmint.fun/images/og-image.jpeg",
+                "tagline": "Mint. Spin. Win.",
+                "og_title": "BETRMINT",
+                "og_description": "Bet on Based Creators, Win Base Memecoins!",
+                "og_image_url": "https://betrmint.fun/images/og-image.jpeg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "url": "https://paragraph.com/@toadyhawk/what-could-be-betr-than-winning-together",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://paragraph.com/@toadyhawk/what-could-be-betr-than-winning-together",
+            "ogDate": "2025-08-25T18:09:18.978Z",
+            "ogType": "article",
+            "favicon": "https://storage.googleapis.com/papyrus_images/b5f8b1d0f7ac82c2200ead3f09255b13.jpg",
+            "ogImage": [
+              {
+                "alt": "What Could Be BETR Than Winning Together?",
+                "url": "https://storage.googleapis.com/papyrus_images/522770f8ae3d13eff21d01a23f1ca3ea.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "What Could Be BETR Than Winning Together?",
+            "ogLocale": "en",
+            "ogDescription": "The BETRMINT neon flywheel is about to start spinning even faster, because BETRStake is now live!\n\nStake your $BETR to share in our success. Spin-to-Claim your rewards daily and potentially hit big yield jackpots. Read on for all the details!",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@toadyhawk/what-could-be-betr-than-winning-together?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=What%20Could%20Be%20BETR%20Than%20Winning%20Together%3F&blogName=Toad%20Talk&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fb5f8b1d0f7ac82c2200ead3f09255b13.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F522770f8ae3d13eff21d01a23f1ca3ea.jpg&size=2048&publishedDate=1756145358978"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=What%20Could%20Be%20BETR%20Than%20Winning%20Together%3F&blogName=Toad%20Talk&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fb5f8b1d0f7ac82c2200ead3f09255b13.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F522770f8ae3d13eff21d01a23f1ca3ea.jpg&size=2048&publishedDate=1756145358978",
+            "frames_url": "https://paragraph.com/@toadyhawk/what-could-be-betr-than-winning-together",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 12312,
+              "username": "paragraph",
+              "display_name": "Paragraph",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4855b0cc-c1da-482c-de24-962162497200/original",
+              "custody_address": "0x1e8dc1e7210fc6b64cc6d48f1f04acc23d640477"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEyMzEyLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MUU4ZGMxZTcyMTBGYzZiNjRjQzZENDhmMWYwNEFjYzIzZDY0MDQ3NyJ9",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGguY29tIn0",
+                "signature": "MHgyZDRiMzBmYTc3ZmI0YTBjMTMyMzVjNTM1ZjRmZjU0Nzk1MTg5YjYyZmQ3NzJjMTA4NjE4ZWFmNDQ3ZjFhNzY2N2UyNjViZTc1Nzc1NDVjZjJiNmU0ZWQ3YTJhNDk3OWQ0NDExMzM2ODljNzYyNTM4NTBlNmVkMjZlMTk4MTMwNzFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                "splash_background_color": "#26251A",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                "subtitle": "Earn from ideas that matter.",
+                "description": "A new way to earn off your best ideas.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "newsletter",
+                  "writing",
+                  "creator",
+                  "reading"
+                ],
+                "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "tagline": "Where ideas thrive.",
+                "og_title": "Paragraph",
+                "og_description": "A new way to earn off your best ideas.",
+                "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                "splash_background_color": "#26251A",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                "subtitle": "Earn from ideas that matter.",
+                "description": "A new way to earn off your best ideas.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "newsletter",
+                  "writing",
+                  "creator",
+                  "reading"
+                ],
+                "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "tagline": "Where ideas thrive.",
+                "og_title": "Paragraph",
+                "og_description": "A new way to earn off your best ideas.",
+                "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x51659fb2",
+    "url": "https://farcaster.xyz/bradq/0x51659fb2",
+    "author_username": "bradq",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-09-08T12:34:37.000Z",
+    "text": "29 Seconds of Farcaster ... What did you miss this weekend?\n\n* @tldr released Bracky 2.0 with trading on Twitter, LIve NFL games, & a new mini app! Won't be surprised when Bracky is alongside FanDuel & Draft Kings\n\n* Interesting opportunity with /clankermon & cast collectibles--two auctions are ending today: @garrett a /clankermon starter kit of 3 mons-current bid $37 ending about 6 PM EST https://farcaster.xyz/garrett/0x0c7aace7 & @olystuart has a DEGEN clankermon at $640 ending about 2PM EST https://farcaster.xyz/olystuart/0x71551df4\n\n* In other news, NOBODY cares about decentralization with one notable exception that EVERYBODY cares about decentralization 🤷‍♂️ \n\n* Interesting share from @deployer on how easy it is to bridge to other chains with @bnkr https://farcaster.xyz/deployer/0x8840c2e5\n\n* @cassie was busy this weekend with lots of Qulibrium; this might be the place to start https://farcaster.xyz/cassie/0x355260a3\n\n* In final round up news: @bertwurst.eth survived abandonment from the Assistants with a sleepover at Uncle Pierre's & @dwr shared a FC mission statement: \"Build a credibly neutral decentralized protocol used by 1 billion plus people every day.\" \n\n* /gmfarcaster is West-Coast friendly at 11:30 AM EST/ 8:30 PST with Adrienne gone, couldn't think of a betr fill in than @burr.eth joining @nounishprof for all your purple news to start the week 💜",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x57c2fd1421673f89622a77b751ff01130ccc37a6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x57c2fd1421673f89622a77b751ff01130ccc37a6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x57c2fd1421673f89622a77b751ff01130ccc37a6",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster back tomorrow at a west coast friendly 11:30 am ET/8:30 am PT with @burr.eth filling in for the vacationing @adrienne.  Join @burr.eth and I on YouTube for the most active chat or watch on Twitter or in the GMFC mini app! See you in the GM!\n\nhttps://www.youtube.com/watch?v=W3I39UdVVNc\nhttps://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+          "timestamp": "2025-09-08T00:24:49.000Z",
+          "embeds": [
+            {
+              "url": "https://www.youtube.com/watch?v=W3I39UdVVNc",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.youtube.com/watch?v=W3I39UdVVNc",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/W3I39UdVVNc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"GM Farcaster ep287 Monday September 8, 2025 with guest cohost @burrrrrberry\"></iframe>",
+                    "type": "video",
+                    "title": "GM Farcaster ep287 Monday September 8, 2025 with guest cohost @burrrrrberry",
+                    "width": 200,
+                    "height": 113,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@GMFarcaster",
+                    "author_name": "GM Farcaster",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/W3I39UdVVNc/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "ogDate": "2025-09-07T17:22:24-07:00",
+                  "ogType": "video.other",
+                  "favicon": "https://www.youtube.com/s/desktop/814d40a6/img/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://i.ytimg.com/vi/W3I39UdVVNc/hqdefault.jpg?v=68be21c3",
+                      "type": "jpg",
+                      "width": "480",
+                      "height": "360"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster ep287 Monday September 8, 2025 with guest cohost @burrrrrberry",
+                  "ogVideo": [
+                    {
+                      "url": "https://www.youtube.com/embed/W3I39UdVVNc",
+                      "type": "text/html",
+                      "width": "640",
+                      "height": "360"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "YouTube",
+                  "ogDescription": "This week we'll have guest cohosts filling in for Adrienne while she's on vacay! First up -- the lovely and amazing Melissa Burr! Excited to have @burrrrrber...",
+                  "ogVideoSecureURL": "https://www.youtube.com/embed/W3I39UdVVNc"
+                }
+              }
+            },
+            {
+              "url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://farcaster.xyz/miniapps/0196efb5-5ae3-676b-f83f-869e756c74d0/gm-farcaster",
+                  "ogType": "website",
+                  "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fminiapp.gmfarcaster.com%2Flogo.png&s=9e7f26424405d9b5c54c06233c2a5916f158e16b3037ec32ab93873d7875597d",
+                  "ogImage": [
+                    {
+                      "url": "https://miniapp.gmfarcaster.com/api/share-image?videoId=CnDikV_WNGc",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster",
+                  "ogLocale": "en",
+                  "ogSiteName": "Farcaster Mini App",
+                  "ogDescription": "Get your daily dose of Farcaster news and culture.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch GM Farcaster",
+                      "action": {
+                        "url": "https://miniapp.gmfarcaster.com",
+                        "name": "GM Farcaster",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://miniapp.gmfarcaster.com/logo.png",
+                        "splashBackgroundColor": "#AF48CF"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://miniapp.gmfarcaster.com/api/share-image?videoId=CnDikV_WNGc"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch GM Farcaster",
+                  "image": "https://miniapp.gmfarcaster.com/api/share-image?videoId=CnDikV_WNGc",
+                  "frames_url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b56a54f7-9246-4163-2b4a-f1c6e5980b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 185506,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1099
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x09109f59",
+    "url": "https://farcaster.xyz/horsefacts.eth/0x09109f59",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e5a7aa9-75b7-40e5-9add-9716ffc8e300/original",
+    "cast_date": "2025-09-05T18:18:33.000Z",
+    "text": "surest sign of a scam lately is a slick app that appears fully formed out of nowhere promising you free money. don't let them run this rug playbook.\n\nhttps://farcaster.xyz/horsefacts.eth/0xf9c1f65c",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 9856,
+          "hash": "0x74e0e6a395d9bafe1a54f248a13ec06390c90251"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x74e0e6a395d9bafe1a54f248a13ec06390c90251",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 9856,
+            "username": "0xluo.eth",
+            "display_name": "0xLuo",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94f2a2b9-05ad-46df-4352-2c66e2ed9000/original",
+            "custody_address": "0xffe946d9c24ca4d6f785447a923c9e812e4e7b95"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x74e0e6a395d9bafe1a54f248a13ec06390c90251",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/police",
+          "root_parent_url": "https://warpcast.com/~/channel/police",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "High-risk project alert: @farlegacy just launched a token $SHARD , and the dev quickly sold after launch, cashing out over $30K.\n\nThey seem like a very experienced team, building a card miniapp around Base memecoins, driving viral growth through referral link sharing, and previously attempting to sell NFTs. Now they’ve issued a token to pull people in and then quickly rug. \n\nLooking closely, the scam was obvious from the start. Always stay alert in crypto!",
+          "timestamp": "2025-09-05T17:30:49.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 1015309,
+                "hash": "0xf89c66025bec804635f8ae9f2ceae50869404ce2"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xf89c66025bec804635f8ae9f2ceae50869404ce2",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 1015309
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/58c58aab-06ce-4abf-b086-2d96bf621200/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 266729,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1465
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "police",
+            "name": "police",
+            "image_url": "https://i.imgur.com/ZoKit3B.jpg"
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 3621,
+          "hash": "0xf9c1f65c3350519a4af032b173807f1cb7963553"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf9c1f65c3350519a4af032b173807f1cb7963553",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3621,
+            "username": "horsefacts.eth",
+            "display_name": "horsefacts",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e5a7aa9-75b7-40e5-9add-9716ffc8e300/original",
+            "custody_address": "0x2cd85a093261f59270804a6ea697cea4cebecafe"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf9c1f65c3350519a4af032b173807f1cb7963553",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/brypto",
+          "root_parent_url": "https://warpcast.com/~/channel/brypto",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "average crypto mf: \"I can't believe they just invented free lunches and they're gonna give one to ME!!\"",
+          "timestamp": "2025-08-29T00:25:27.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "brypto",
+            "name": "brypto",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f5200b23-e328-4f32-31f2-4f6985e40700/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7c65ad76",
+    "url": "https://farcaster.xyz/burrrrrberry/0x7c65ad76",
+    "author_username": "burrrrrberry",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 311933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c38a25a6-f3e3-471c-1d79-af3b60651500/original",
+    "cast_date": "2025-09-05T18:03:21.000Z",
+    "text": "Oh man another project where the dev was hiding their identity was a scam?\n\nI'm shocked. \n\n@kel66.eth when will they learn?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x34c2e372",
+    "url": "https://farcaster.xyz/plotchy/0x34c2e372",
+    "author_username": "plotchy",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 18254,
+    "author_pfp": "https://i.imgur.com/daEYOJQ.jpg",
+    "cast_date": "2025-09-05T16:59:53.000Z",
+    "text": "If @dwr has engaged with any of your content in the history of farcaster, you just got airdropped one of his casts.\n\nFor the people who he engaged with the most (likes/replies/recast/follow), we airdropped more.\n\nAll 4500 users included got at least 1\nTop 500 got another +6\nTop 60 got another +10\nAnyone who has won one of his casts in auction got another +6\n\nGo see yours at miniapp.dwrcasts.com",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 477126,
+          "hash": "0x6834ba89d8478f57d3f069b130b04dba34b072c6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x6834ba89d8478f57d3f069b130b04dba34b072c6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 477126,
+            "username": "mikadoe.eth",
+            "display_name": "MikaDoe",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8b2c6f32-a324-4890-aa18-4ed63ff72a00/original",
+            "custody_address": "0x218a9b58b929dbd0d9132ad4fec0dfdb792452bd"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xabcfec1072bf9dbb89928a73230f857845269cd6",
+          "parent_hash": "0xabcfec1072bf9dbb89928a73230f857845269cd6",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 18254
+          },
+          "text": "lol I got a whole bunch of them",
+          "timestamp": "2025-09-05T16:53:27.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ee8d2d06-e7ae-4df0-4fa4-56c67165a700/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 211652,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1133,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://miniapp.dwrcasts.com",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogImage": [
+              {
+                "url": "https://miniapp.dwrcasts.com/featured_resized.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "DWRCasts NFT Viewer",
+            "ogLocale": "en",
+            "ogDescription": "View and explore DWRCasts NFTs - collectible Farcaster casts from @dwr.eth",
+            "fcFrame": {
+              "button": {
+                "title": "View DWRCasts NFTs",
+                "action": {
+                  "url": "https://miniapp.dwrcasts.com",
+                  "name": "DWRCasts NFT Viewer",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://miniapp.dwrcasts.com/logo.jpg",
+                  "splashBackgroundColor": "#f7f7f7"
+                }
+              },
+              "version": "1",
+              "imageUrl": "https://miniapp.dwrcasts.com/featured_resized.jpg"
+            }
+          },
+          "frame": {
+            "version": "1",
+            "title": "View DWRCasts NFTs",
+            "image": "https://miniapp.dwrcasts.com/featured_resized.jpg",
+            "frames_url": "https://miniapp.dwrcasts.com/"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd397d4b7",
+    "url": "https://farcaster.xyz/plotchy/0xd397d4b7",
+    "author_username": "plotchy",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 18254,
+    "author_pfp": "https://i.imgur.com/daEYOJQ.jpg",
+    "cast_date": "2025-09-05T16:47:33.000Z",
+    "text": "Each of the 12,000+ DWRCasts were hand-typed by @dwr himself.\n\nThe traits we imprinted on them were in relation to his typical slang, his posting cadence, and his common topics of discussion.\n\nLet's take a look at the 5 most rare 🧵",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/048b17a8-165c-4e5e-8e9a-4eb40da46200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 364688,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 884
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbfac6411",
+    "url": "https://farcaster.xyz/v/0xbfac6411",
+    "author_username": "v",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-09-05T16:50:13.000Z",
+    "text": "Composability was a mistake. People are too unhinged.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 18254,
+          "hash": "0xd397d4b74d6b4b6501f247ad874fd70f634eeb45"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd397d4b74d6b4b6501f247ad874fd70f634eeb45",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 18254,
+            "username": "plotchy",
+            "display_name": "plotchy",
+            "pfp_url": "https://i.imgur.com/daEYOJQ.jpg",
+            "custody_address": "0xc7be809d0af64ab88c242268cf533994401d0b11"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd397d4b74d6b4b6501f247ad874fd70f634eeb45",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Each of the 12,000+ DWRCasts were hand-typed by @dwr himself.\n\nThe traits we imprinted on them were in relation to his typical slang, his posting cadence, and his common topics of discussion.\n\nLet's take a look at the 5 most rare 🧵",
+          "timestamp": "2025-09-05T16:47:33.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/048b17a8-165c-4e5e-8e9a-4eb40da46200/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 364688,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 884
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3d2551bb",
+    "url": "https://farcaster.xyz/nounishprof/0x3d2551bb",
+    "author_username": "nounishprof",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-09-08T00:08:26.000Z",
+    "text": "Back to class Monday and this is a thread for my students - they'll be reviewing 3 mini apps and I'm creating a thread with a some to start with to make it easier. Students will need to review one from each of the following categories and post in the discussion on Canvas:\n\n✅ crypto integration (at least an nft mint or some kind of integration)\n✅ utility/productivity/educational\n✅ gaming\n\nCast one of your reviews in this /fgcu for extra credit and crypto tips!\n \nUse the mini app explore page to find many many more apps or see the other recommendations from other Farcasters at the end of this thread.\n\nStarting with gaming since there's a lot! First group here are general gaming mini apps.\n\n🎮 /remix previously known as /farcade - the TikTok of gaming\n🎮 /farville tend your crops (Farcaster verson of Farmville)\n🎮 /clankermon gotta clank 'em all\n🎮 Perfect shot \n\nmax number I can share is 4 so continuing 🧵 in replies \n\nhttps://farcaster.xyz/miniapps/70JYaQHoZSlz/remix \nhttps://farcaster.xyz/miniapps/WoLihpyQDh7w/farville \nhttps://farcaster.xyz/miniapps/RssPhFeD24W_/clankermon \nhttps://farcaster.xyz/miniapps/Ger7p7BjfrAs/perfect-shot",
+    "embeds": [
+      {
+        "url": "https://farcaster.xyz/miniapps/70JYaQHoZSlz/remix",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz/miniapps/0197c296-d04b-21d0-ee2f-a97b35ed5979/remix",
+            "ogType": "website",
+            "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fplay.remix.gg%2Ficons%2Ficon-512x512.png&s=06663830ff1707ccdb4e364aa3ca2f82c59572613ed18ee7109067a5ac60702e",
+            "ogImage": [
+              {
+                "url": "https://play.remix.gg/opengraph-image?v=1",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Farcade",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster Mini App",
+            "ogDescription": "Play. Create. Remix.",
+            "fcFrame": {
+              "button": {
+                "title": "🕹️ Play",
+                "action": {
+                  "url": "https://play.remix.gg",
+                  "name": "Farcade",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://play.remix.gg/icons/craig-splash.png",
+                  "splashBackgroundColor": "#09090B"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://play.remix.gg/opengraph-image?v=1"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "🕹️ Play",
+            "image": "https://play.remix.gg/opengraph-image?v=1",
+            "frames_url": "https://farcaster.xyz/miniapps/70JYaQHoZSlz/remix"
+          }
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/miniapps/WoLihpyQDh7w/farville",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz/miniapps/01965dbe-5ac7-6641-42c7-17d29bcf0306/farville",
+            "ogType": "website",
+            "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Ffarville.farm%2Fimages%2Ficon.png&s=1fe1fca2d9e4f409d285a7b4c5708258a8f25052b895e327811c4fda37434185",
+            "ogImage": [
+              {
+                "url": "https://farville.farm/images/hero.jpg",
+                "type": "jpg",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": " - Farcaster Mini Apps",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster Mini App",
+            "ogDescription": "Plant, harvest, compete and earn",
+            "fcFrame": {
+              "button": {
+                "title": "Open",
+                "action": {
+                  "url": "https://farville.farm/",
+                  "name": "Farville",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://farville.farm/images/splash.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://farville.farm/images/hero.jpg"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Open",
+            "image": "https://farville.farm/images/hero.jpg",
+            "frames_url": "https://farcaster.xyz/miniapps/WoLihpyQDh7w/farville"
+          }
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/miniapps/RssPhFeD24W_/clankermon",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz/miniapps/0197901a-d4bb-b381-5c9a-50066d1731a9/clankermon",
+            "ogType": "website",
+            "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fclankermon.com%2FclankermonIcon.png&s=d4b36c5d4d7b2d57af7c557d4b69b7ecec980c97ca0abc7228905f836110bca2",
+            "ogImage": [
+              {
+                "url": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg",
+                "type": "jpeg",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Clankermon",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster Mini App",
+            "ogDescription": "where your favourite tokens literally come to life",
+            "fcFrame": {
+              "button": {
+                "title": "Play Now",
+                "action": {
+                  "url": "https://clankermon.com/",
+                  "name": "Clankermon",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://storage.googleapis.com/clankermon/metatags/clankermonaltlogo.png",
+                  "splashBackgroundColor": "#19111E"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Play Now",
+            "image": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg",
+            "frames_url": "https://farcaster.xyz/miniapps/RssPhFeD24W_/clankermon"
+          }
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/miniapps/Ger7p7BjfrAs/perfect-shot",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz/miniapps/019838db-e0ea-9ffa-3b8e-bde638327355/perfect-shot",
+            "ogType": "website",
+            "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Ffarcaster.perfectshot.io%2Ficon.png&s=7931ccf883a4de6b96bdd8080bba0af0d4e6581ce8d5373fb55ef8e843e10650",
+            "ogImage": [
+              {
+                "url": "https://farcaster.perfectshot.io/banner.png",
+                "type": "png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Perfect Shot",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster Mini App",
+            "ogDescription": "A space-themed, roguelike arcade shooter where players control a ship navigating through procedurally generated space environments.",
+            "fcFrame": {
+              "button": {
+                "title": "Play Perfect Shot",
+                "action": {
+                  "url": "https://farcaster.perfectshot.io",
+                  "name": "Perfect Shot",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://farcaster.perfectshot.io/splash-image.png",
+                  "splashBackgroundColor": "#2a1c40"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://farcaster.perfectshot.io/banner.png",
+              "aspectRatio": "3:2"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Play Perfect Shot",
+            "image": "https://farcaster.perfectshot.io/banner.png",
+            "frames_url": "https://farcaster.xyz/miniapps/Ger7p7BjfrAs/perfect-shot"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc4eb7d30",
+    "url": "https://farcaster.xyz/nounishprof/0xc4eb7d30",
+    "author_username": "nounishprof",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-09-07T19:10:32.000Z",
+    "text": "What’s at the top of your movie faves? 🍿 Kiddo has been making an effort to watch older/classic/award-winning movies and has a running list of his favorites that he has watched or rewatched in the past year. \n\n🎥 We just rewatched Good Will Hunting and he confirmed it’s #1 placement. (My list would be different but this would be in my top 10 at least) \n\nWhen he started this a while back, Top Gun Maverick was at the top of this list. Lots of progress made. He also has a running list of movies he has yet to watch.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5bca6d03-dd1c-4d15-03d2-bad0cdb14900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 167620,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1214,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4f0ecf62-bdb2-4076-7189-72e35bc5c500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 182022,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1251,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x456e66b4",
+    "url": "https://farcaster.xyz/myk/0x456e66b4",
+    "author_username": "myk",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 217248,
+    "author_pfp": "https://res.cloudinary.com/base-app/image/upload/f_auto/v1757722464/image_uploads/b3f3c1db-262c-407c-8100-4f4fb0798440.jpg",
+    "cast_date": "2025-09-07T14:47:24.000Z",
+    "text": "throwback to yesterday when @jesse.base.eth congratulated the winners of Log a Dog Season 2\n\nseveral people earned thousands of dollars onchain by posting pics of themselves eating hotdogs\n\ncrazy? yes\nthe catch? none\nwhy? showcase the possibilities unlocked by building w/ onchain lego blocks like clanker, zora & base",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/base-app/video/upload/sp_auto/v1757256410/video_uploads/c3c7a63c-1d13-4b5d-a13b-7956d1e7aa0a.m3u8?zoraCoin=0x01a2ff6d4928bdf23f5e8b4db3a9e79bcf3e93c9",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": 226,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1278,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 958,
+                "width_px": 540,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 478,
+                "width_px": 270,
+                "codec_name": "h264"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0c631b70",
+    "url": "https://farcaster.xyz/baseapp.base.eth/0x0c631b70",
+    "author_username": "baseapp.base.eth",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 309857,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05c00f8a-3374-40b4-249c-7cc70a260500/original",
+    "cast_date": "2025-09-04T16:34:27.000Z",
+    "text": "Live now in the beta: Trade, straight from your feed.\n\nBase app brings the market to you. Discover and trade without switching a tab or changing apps, all in real time.",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/base-app/video/upload/sp_auto/v1757003646/video_uploads/4d8f3955-753e-45e0-a4e7-01fa323b9618.m3u8?zoraCoin=0x0706a1476c268b834827340a911505439568e8d3",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": 474,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 540,
+                "width_px": 960,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 270,
+                "width_px": 480,
+                "codec_name": "h264"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfd7bbeb5",
+    "url": "https://farcaster.xyz/adrienne/0xfd7bbeb5",
+    "author_username": "adrienne",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-09-05T21:15:35.000Z",
+    "text": "TBA feedback: Can these auto expire without me having to decline them? @oxb \n\nAnd I hope all these people requesting money for no reason from people they aren’t connected to get put on the naughty list",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/008ab539-d147-4339-16c4-4805006e3a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 190684,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1672,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x49b8462c",
+    "url": "https://farcaster.xyz/pugson/0x49b8462c",
+    "author_username": "pugson",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 557,
+    "author_pfp": "https://i.seadn.io/gae/5hjYfRyqiRJV4EQ7ieSJrmb1LtO_vcAvREXSqnlY4HXXBsvgh1vumOwj5e4GwGhppEU2jLC9qJHEgEkaJ9V_B02jIFY9XmzgK1_F?w=500&auto=format",
+    "cast_date": "2025-09-08T11:34:33.000Z",
+    "text": "day 7 of asking people what is basecamp",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7572a5bc",
+    "url": "https://farcaster.xyz/tldr/0x7572a5bc",
+    "author_username": "tldr",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c8a5399-3ae5-4994-a9fe-d1e6c5ebc600/original",
+    "cast_date": "2025-09-07T18:07:14.000Z",
+    "text": "Introducing... Bracky 2.0!\n\n+ Trade on X.\n+ New mini app.\n+ All NFL games live.\n\nLet's have some fun ;) 🏈🎾🏎️⚽",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0199255a-f279-8738-e753-68b9c69af32c.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1550,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1032,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 774,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 516,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 71.39
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa2476854",
+    "url": "https://farcaster.xyz/tldr/0xa2476854",
+    "author_username": "tldr",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c8a5399-3ae5-4994-a9fe-d1e6c5ebc600/original",
+    "cast_date": "2025-09-08T03:19:43.000Z",
+    "text": "If you need someone to talk you off the ledge…\n\nIt ain’t Bracky 🤣",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/42fc3ca8-7f27-458c-a028-bca955ce8000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 196955,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 923,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x299016c7",
+    "url": "https://farcaster.xyz/burrrrrberry/0x299016c7",
+    "author_username": "burrrrrberry",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 311933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c38a25a6-f3e3-471c-1d79-af3b60651500/original",
+    "cast_date": "2025-09-07T16:22:43.000Z",
+    "text": "Reply for $REPLY\n\nThe mission for $tipn is distribution. \n\nI accept.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4fbfc755-b68e-4153-7056-3663fd1b0f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 148526,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1782,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb35683d4",
+    "url": "https://farcaster.xyz/matthewfox/0xb35683d4",
+    "author_username": "matthewfox",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 4282,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8bd5af17-733b-44be-c432-640af4fb9e00/original",
+    "cast_date": "2025-09-08T00:24:00.000Z",
+    "text": "Clankermon Mint Update \n\nIn the final strech of the launch mint - 389 remaining\n\nFor the remaining mints, we're slightly bumping the mint price, reducing the player discount we launched with and are raising the mint cap to 10\n\nLater this week, as we reopen onboarding with some changes we will remove the cap entirely as we work to add the in app marketplace for secondary trading\n\nThanks for supporting the mons ❤️",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0199268e-0700-cb8f-a494-ffa0b468bdca.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1278,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 638,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 7.9
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb4dbc24a",
+    "url": "https://farcaster.xyz/burrrrrberry/0xb4dbc24a",
+    "author_username": "burrrrrberry",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 311933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c38a25a6-f3e3-471c-1d79-af3b60651500/original",
+    "cast_date": "2025-09-08T00:52:19.000Z",
+    "text": "I\n\nJUST\n\nMINTED\n\nA\n\nBETRMON\n\n@matthewfox",
+    "embeds": [
+      {
+        "url": "https://clankermon.com/frames/shareRevealClankermon?ref=311933&clankermonSpeciesId=0x7c5ba9641bbc8614b25bbfe61769139c8730f03c7bf66c1928da47b08abe206b&modifier=-1.00&probability=3.70",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://clankermon.com/frames/shareRevealClankermon?ref=311933&clankermonSpeciesId=0x7c5ba9641bbc8614b25bbfe61769139c8730f03c7bf66c1928da47b08abe206b&modifier=-1.00&probability=3.70",
+            "ogType": "website",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "Betr - Clankermon Reveal Details",
+                "url": "https://clankermon.com/api/frame/services/shareRevealClankermonImageGen?clankermonSpeciesId=0x7c5ba9641bbc8614b25bbfe61769139c8730f03c7bf66c1928da47b08abe206b&modifier=-1.00&probability=3.70&pfp=https%3A%2F%2Fimagedelivery.net%2FBXluQx4ige9GuW0Ia56BHw%2Fc38a25a6-f3e3-471c-1d79-af3b60651500%2Foriginal&username=burrrrrberry",
+                "width": "1200",
+                "height": "630"
+              },
+              {
+                "url": "https://clankermon.com/api/frame/services/shareRevealClankermonImageGen?clankermonSpeciesId=0x7c5ba9641bbc8614b25bbfe61769139c8730f03c7bf66c1928da47b08abe206b&modifier=-1.00&probability=3.70&pfp=https%3A%2F%2Fimagedelivery.net%2FBXluQx4ige9GuW0Ia56BHw%2Fc38a25a6-f3e3-471c-1d79-af3b60651500%2Foriginal&username=burrrrrberry"
+              }
+            ],
+            "ogTitle": "Betr - Clankermon",
+            "ogLocale": "en",
+            "ogSiteName": "Clankermon",
+            "ogDescription": "A psychic creature with dark steel abilities",
+            "fcFrame": {
+              "button": {
+                "title": "Play Now",
+                "action": {
+                  "url": "https://clankermon.com?ref=311933",
+                  "name": "Clankermon",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://storage.googleapis.com/clankermon/metatags/clankermonaltlogo.png",
+                  "splashBackgroundColor": "#19111E"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://clankermon.com/api/frame/services/shareRevealClankermonImageGen?clankermonSpeciesId=0x7c5ba9641bbc8614b25bbfe61769139c8730f03c7bf66c1928da47b08abe206b&modifier=-1.00&probability=3.70&pfp=https%3A%2F%2Fimagedelivery.net%2FBXluQx4ige9GuW0Ia56BHw%2Fc38a25a6-f3e3-471c-1d79-af3b60651500%2Foriginal&username=burrrrrberry"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Play Now",
+            "image": "https://clankermon.com/api/frame/services/shareRevealClankermonImageGen?clankermonSpeciesId=0x7c5ba9641bbc8614b25bbfe61769139c8730f03c7bf66c1928da47b08abe206b&modifier=-1.00&probability=3.70&pfp=https%3A%2F%2Fimagedelivery.net%2FBXluQx4ige9GuW0Ia56BHw%2Fc38a25a6-f3e3-471c-1d79-af3b60651500%2Foriginal&username=burrrrrberry",
+            "frames_url": "https://clankermon.com/frames/shareRevealClankermon?ref=311933&clankermonSpeciesId=0x7c5ba9641bbc8614b25bbfe61769139c8730f03c7bf66c1928da47b08abe206b&modifier=-1.00&probability=3.70",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 4282,
+              "username": "matthewfox",
+              "display_name": "Matthew Fox 🌐",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8bd5af17-733b-44be-c432-640af4fb9e00/original",
+              "custody_address": "0x76136ab779cff2ec24161d83aef5ee7ece414b05"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjQyODIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg3NjEzNmFiNzc5Y2ZGMmVjMjQxNjFEODNBZUY1RWU3RUNlNDE0QjA1In0",
+                "payload": "eyJkb21haW4iOiJjbGFua2VybW9uLmNvbSJ9",
+                "signature": "MHgxMmJjZGNmNjg0NGRmMjFkMzg3MzE3NzI3Y2NhYWM2YzU0Y2IyOGQzYTBjOWViMzg0OTM4MzZkY2ViMmZjYjJkMzZjODRmN2E0YmEyMjY1MWU1N2ViYzBmNGZkNzhhMTJiMGI4NzViOWJiZDJkZjhiYjZkYWUwYWI5YWY0Yjc1NTFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Clankermon",
+                "home_url": "https://clankermon.com",
+                "icon_url": "https://clankermon.com/clankermonIcon.png",
+                "image_url": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg",
+                "button_title": "Play Now",
+                "splash_image_url": "https://storage.googleapis.com/clankermon/metatags/clankermonaltlogo.png",
+                "splash_background_color": "#19111E",
+                "webhook_url": "https://clankermon.com/api/webhook",
+                "subtitle": "Believe in something",
+                "description": "where your favourite tokens literally come to life",
+                "screenshot_urls": [
+                  "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg"
+                ],
+                "primary_category": "games",
+                "tags": [
+                  "clankermon",
+                  "game",
+                  "monsters",
+                  "rpg",
+                  "idle"
+                ],
+                "hero_image_url": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg",
+                "tagline": "Believe in something",
+                "og_title": "Clankermon",
+                "og_description": "where your favourite tokens literally come to life",
+                "og_image_url": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Clankermon",
+                "home_url": "https://clankermon.com",
+                "icon_url": "https://clankermon.com/clankermonIcon.png",
+                "image_url": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg",
+                "button_title": "Play Now",
+                "splash_image_url": "https://storage.googleapis.com/clankermon/metatags/clankermonaltlogo.png",
+                "splash_background_color": "#19111E",
+                "webhook_url": "https://clankermon.com/api/webhook",
+                "subtitle": "Believe in something",
+                "description": "where your favourite tokens literally come to life",
+                "screenshot_urls": [
+                  "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg"
+                ],
+                "primary_category": "games",
+                "tags": [
+                  "clankermon",
+                  "game",
+                  "monsters",
+                  "rpg",
+                  "idle"
+                ],
+                "hero_image_url": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg",
+                "tagline": "Believe in something",
+                "og_title": "Clankermon",
+                "og_description": "where your favourite tokens literally come to life",
+                "og_image_url": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0c7aace7",
+    "url": "https://farcaster.xyz/garrett/0x0c7aace7",
+    "author_username": "garrett",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 2802,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c131c034-0090-4610-45a4-acda4b805000/rectcrop3",
+    "cast_date": "2025-09-07T22:39:54.000Z",
+    "text": "Bid on this cast to win 3 Clankermons which is a perfect starter kit to train your mons and get started playing!\n\nWinner will receive the 3 mons: Runner, Degenos and Anon\n\nhttps://clankermon.com?ref=2802",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7bca0f71-9fc7-4936-9158-ed1650b6ca00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 223612,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1490,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bf700291-b9c7-4ccc-28cb-238208a14400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 233941,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/90e00f28-4437-4fc5-abfd-4be87a2fec00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 239885,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1476,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://clankermon.com?ref=2802",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "Clankermon",
+            "ogLocale": "en",
+            "ogDescription": "where your favourite tokens literally come to life",
+            "fcFrame": {
+              "button": {
+                "title": "Play Now",
+                "action": {
+                  "url": "https://clankermon.com/",
+                  "name": "Clankermon",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://storage.googleapis.com/clankermon/metatags/clankermonaltlogo.png",
+                  "splashBackgroundColor": "#19111E"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Play Now",
+            "image": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg",
+            "frames_url": "https://clankermon.com/?ref=2802",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 4282,
+              "username": "matthewfox",
+              "display_name": "Matthew Fox 🌐",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8bd5af17-733b-44be-c432-640af4fb9e00/original",
+              "custody_address": "0x76136ab779cff2ec24161d83aef5ee7ece414b05"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjQyODIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg3NjEzNmFiNzc5Y2ZGMmVjMjQxNjFEODNBZUY1RWU3RUNlNDE0QjA1In0",
+                "payload": "eyJkb21haW4iOiJjbGFua2VybW9uLmNvbSJ9",
+                "signature": "MHgxMmJjZGNmNjg0NGRmMjFkMzg3MzE3NzI3Y2NhYWM2YzU0Y2IyOGQzYTBjOWViMzg0OTM4MzZkY2ViMmZjYjJkMzZjODRmN2E0YmEyMjY1MWU1N2ViYzBmNGZkNzhhMTJiMGI4NzViOWJiZDJkZjhiYjZkYWUwYWI5YWY0Yjc1NTFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Clankermon",
+                "home_url": "https://clankermon.com",
+                "icon_url": "https://clankermon.com/clankermonIcon.png",
+                "image_url": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg",
+                "button_title": "Play Now",
+                "splash_image_url": "https://storage.googleapis.com/clankermon/metatags/clankermonaltlogo.png",
+                "splash_background_color": "#19111E",
+                "webhook_url": "https://clankermon.com/api/webhook",
+                "subtitle": "Believe in something",
+                "description": "where your favourite tokens literally come to life",
+                "screenshot_urls": [
+                  "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg"
+                ],
+                "primary_category": "games",
+                "tags": [
+                  "clankermon",
+                  "game",
+                  "monsters",
+                  "rpg",
+                  "idle"
+                ],
+                "hero_image_url": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg",
+                "tagline": "Believe in something",
+                "og_title": "Clankermon",
+                "og_description": "where your favourite tokens literally come to life",
+                "og_image_url": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Clankermon",
+                "home_url": "https://clankermon.com",
+                "icon_url": "https://clankermon.com/clankermonIcon.png",
+                "image_url": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg",
+                "button_title": "Play Now",
+                "splash_image_url": "https://storage.googleapis.com/clankermon/metatags/clankermonaltlogo.png",
+                "splash_background_color": "#19111E",
+                "webhook_url": "https://clankermon.com/api/webhook",
+                "subtitle": "Believe in something",
+                "description": "where your favourite tokens literally come to life",
+                "screenshot_urls": [
+                  "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg"
+                ],
+                "primary_category": "games",
+                "tags": [
+                  "clankermon",
+                  "game",
+                  "monsters",
+                  "rpg",
+                  "idle"
+                ],
+                "hero_image_url": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg",
+                "tagline": "Believe in something",
+                "og_title": "Clankermon",
+                "og_description": "where your favourite tokens literally come to life",
+                "og_image_url": "https://storage.googleapis.com/clankermon/metatags/pinkGirl_1200x630.jpeg"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x71551df4",
+    "url": "https://farcaster.xyz/olystuart/0x71551df4",
+    "author_username": "olystuart",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 436728,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d7db08c1-9264-49e3-fcd3-0b7200577100/rectcrop3",
+    "cast_date": "2025-09-07T18:18:28.000Z",
+    "text": "Announcing: The First Ever Degen Mon Public Auction!\n**This cast is a live auction for Degen mon #10131. Bid on this cast to bid on the degen mon. Subject to reserve price, winning bid will win the degen mon. Details below**\n[NOTE: I started this on another cast yesterday but was advised to change it from a reply auction to a cast auction. Updated to this cast with agreement from the existing bidder.]\n$Degen mon is very rare in $Clankermon, with a roughly 0.5% drop rate. There have been only eight revealed so far in 1,855 mons (based on opensea data). I pulled two of those out of my 20 mons revealed, I've been playing clankermon since release.\nReserve price: 0.15 ETH. You may bid below that but at the end if the reserve has not been met I will decide whether or not to take the top bid or keep the degen mon. If the reserve has been met I will honor the top bid.\nRules are determined by the cast auction mechanism.\nIf the winner is someone who knows me we can work out transfer arrangements, we can always use a trusted third party if needed, we can discuss this in DM if you want. I've run many auctions for rare magic cards and haven't had a problem.\n(Video is a degen mon render from @matthewfox animated using Seedance 1.0 Pro on nightcafe. Feel free to use it.)",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01992565-5bec-bee2-4935-df92f2a693ea.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1440,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 960,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 320,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 5
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x90c4cc57",
+    "url": "https://farcaster.xyz/eggcooker/0x90c4cc57",
+    "author_username": "eggcooker",
+    "show_date": "2025-09-08",
+    "show_title": "Muted Mics & Mongolian Camels—A Very Monday Monday: GM Farcaster ep287 with cohost @burrrrrberry",
+    "source_episode_id": "QJXywu15sUU",
+    "author_fid": 442770,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cbc9183a-8785-4109-932b-1e13aedf7c00/original",
+    "cast_date": "2025-09-07T20:55:58.000Z",
+    "text": "🚨Eggman virus infection report\n\nhorsensefacts @horsefacts.eth \n\nYou have developed Eggman virus infection!\nEggman virus is a scary infection that turns PFP into Eggman when infected.\n\nYou are a secondary infection from @stevedv.eth .\nYou were infected when you volunteered to be infected in his infection report.\n\nUnfortunately, there is no vaccine or cure.\nThe Eggman virus is highly contagious, so please be careful. \nWho wants to be infected? 😈\nIf anyone wants to be infected, please reply here.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15b36ab5-95ef-425d-b4d5-03b4058cbf00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 511514,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3c611860-2be8-4fa3-afed-6d6b94903f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 100644,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

@@ -1,0 +1,1120 @@
+[
+  {
+    "cast_hash": "0x42ad2682",
+    "url": "https://farcaster.xyz/nounishprof/0x42ad2682",
+    "author_username": "nounishprof",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-09-25T21:01:08.000Z",
+    "text": "👀🏝️ 🤖 🟪 🔜",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d3e40ad-6391-49f6-c077-5633c3d90e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 64881,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 500,
+            "height_px": 500
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x355d298c",
+    "url": "https://farcaster.xyz/horsefacts.eth/0x355d298c",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e5a7aa9-75b7-40e5-9add-9716ffc8e300/original",
+    "cast_date": "2025-09-25T21:18:36.000Z",
+    "text": "Found the cause and released a fix to mobile and web wallet. If you're still seeing swap errors, quit and reopen the mobile app or hard refresh web.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3621,
+          "hash": "0x5f65788fbf2633604d64c477e64ac7a4c36ef05e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5f65788fbf2633604d64c477e64ac7a4c36ef05e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3621,
+            "username": "horsefacts.eth",
+            "display_name": "horsefacts",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e5a7aa9-75b7-40e5-9add-9716ffc8e300/original",
+            "custody_address": "0x2cd85a093261f59270804a6ea697cea4cebecafe"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5f65788fbf2633604d64c477e64ac7a4c36ef05e",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "PSA: seeing elevated swap errors related to gas estimation on Base, especially for wallets with low balances. Investigating.",
+          "timestamp": "2025-09-25T15:21:40.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa62cdaad",
+    "url": "https://farcaster.xyz/dwr/0xa62cdaad",
+    "author_username": "dwr",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-09-25T16:20:21.000Z",
+    "text": "Farcaster team priorities\n\nDesign — doing a light brand refresh this week and next\n\nWallet — focused on per asset PnL tracking and better price reliability \n\nOnboarding — experimenting with algorithmic free onboarding\n\nRewards — new referrals system shipping this week\n\nNew user experience — AI generated news summaries of whats happening in crypto\n\nMini apps — bug fixes\n\nProtocol — App-based storage",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xabfe7567",
+    "url": "https://farcaster.xyz/linda/0xabfe7567",
+    "author_username": "linda",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-09-25T17:21:35.000Z",
+    "text": "would love a boost on this! \n\nvery excited to do a livestream showcasing farcaster mini apps with @chaskin.eth @ethereumfndn next week \n\nhttps://x.com/ethereumfndn/status/1971258398998954056",
+    "embeds": [
+      {
+        "url": "https://x.com/ethereumfndn/status/1971258398998954056",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/ethereumfndn/status/1971258398998954056",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Farcaster Mini App Showcase<br><br>Join <a href=\"https://twitter.com/ljxie?ref_src=twsrc%5Etfw\">@ljxie</a> and <a href=\"https://twitter.com/jchaskin22?ref_src=twsrc%5Etfw\">@jchaskin22</a> as they explore and test out <a href=\"https://twitter.com/farcaster_xyz?ref_src=twsrc%5Etfw\">@farcaster_xyz</a> mini apps in real time. <br><br>September 29th @ 6pm UTC<a href=\"https://t.co/j8mAS1iprU\">https://t.co/j8mAS1iprU</a></p>&mdash; Ethereum Foundation (@ethereumfndn) <a href=\"https://twitter.com/ethereumfndn/status/1971258398998954056?ref_src=twsrc%5Etfw\">September 25, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/ethereumfndn",
+              "author_name": "Ethereum Foundation",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbe7d6df1",
+    "url": "https://farcaster.xyz/phil/0xbe7d6df1",
+    "author_username": "phil",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 129,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+    "cast_date": "2025-09-25T17:00:11.000Z",
+    "text": "Welcome @tamarawinter! \n\nTamara is the Commissioning Editor for Stripe Press. I like to think of Stripe Press as a distribution channel for the most interesting ideas in the world. \n\nShe has kindly agreed to do an AMA. \n\nReply with your questions :)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2ab3735d-34dc-4b86-7d3d-a0611d124500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 807831,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1125
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7bb83e46",
+    "url": "https://farcaster.xyz/bradq/0x7bb83e46",
+    "author_username": "bradq",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-09-25T16:09:41.000Z",
+    "text": "① Have \n② you\n③ noticed\n④ the\n⑤ @derek \n⑥ trend\n⑦ is \n⑧ now\n⑨ spreading?\n\nhttps://farcaster.xyz/ceej/0x331d87cc",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 9933,
+          "hash": "0x2e1872b87f79a833b41c6fd10e7b1ca7d0e15159"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x2e1872b87f79a833b41c6fd10e7b1ca7d0e15159",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 9933,
+            "username": "m00npapi.eth",
+            "display_name": "m00npapi.eth",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/73624966-027e-43f7-82f9-d7ce481dda00/rectcrop3",
+            "custody_address": "0x820ae05036e269becbd3b01aa7e30bbc9f75026d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x2e1872b87f79a833b41c6fd10e7b1ca7d0e15159",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "𝘁𝗼𝗽 𝟵 𝘀oups\n① New England clam chowder\n② Ajiaco\n③ Campbell’s cream of mushroom\n④ French onion \n⑤ tom kha \n⑥ lentil \n⑦ leek and potato \n⑧ pho\n⑨ wonton eggdrop \n\nHM:\n• tomato basil, esp w grilled cheese\n• butternut squash \n• split pea \n• Italian wedding\n• baked potato soup from Outback Steakhouse",
+          "timestamp": "2025-09-24T21:01:23.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 292642,
+          "hash": "0x331d87cc1c6067e3aa987a660d46befc0ec4e8fe"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x331d87cc1c6067e3aa987a660d46befc0ec4e8fe",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 292642,
+            "username": "ceej",
+            "display_name": "ceej",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d62d96b4-f4b0-4f46-e0b6-1475b6f3ab00/original",
+            "custody_address": "0xf4b0cff90c4639ccb713c3c71e9eeccdd487861a"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x331d87cc1c6067e3aa987a660d46befc0ec4e8fe",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0xa390bc5b492f4d378ca2ef513a45a89d54538f02",
+          "root_parent_url": "chain://eip155:7777777/erc721:0xa390bc5b492f4d378ca2ef513a45a89d54538f02",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "ᴛᴏᴘ 𝟿 ᴠɪᴅᴇᴏ ɢᴀᴍᴇᴤ ᴀғᴛᴇʀ 𝟷𝟿𝟿𝟿\n① balatro\n② zelda breath of the wild\n③ baldur's gate 3\n④ stardew valley\n⑤ cyberpunk\n⑥ pokemon snap (N64 version)\n⑦ it takes two\n⑧ peggle\n⑨ guitar hero\n\nɢᴜᴅ ɢᴀᴍᴇs\n• zelda tears of the kingdom\n• witcher\n• donkey kong bonanza\n• super mario 3D world/bowsers fury\n• kirby and the forgotten land\n• overcooked\n• cuphead",
+          "timestamp": "2025-09-25T15:55:46.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gaming",
+            "name": "Gaming",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafybeicej2ef7467g642ccwj3d56ctdyn33qda2zkuorbejftaed3wfube"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0f17a987",
+    "url": "https://farcaster.xyz/tldr/0x0f17a987",
+    "author_username": "tldr",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c8a5399-3ae5-4994-a9fe-d1e6c5ebc600/original",
+    "cast_date": "2025-09-20T22:14:07.000Z",
+    "text": "“Top 9 Unicode Characters”\n\n① ①\n② ②\n③ ③\n④ ④\n⑤ ⑤ \n⑥ ⑥ \n⑦ ⑦\n⑧ ⑧\n⑨ ⑨",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc1625547",
+    "url": "https://farcaster.xyz/derek/0xc1625547",
+    "author_username": "derek",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 193,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7830e8f-33dd-4372-441a-e9696bb26900/original",
+    "cast_date": "2025-09-25T16:22:37.000Z",
+    "text": "𝗯𝗿𝗮𝗰𝗸𝗲𝘁 𝗼𝗳 𝗯𝗲𝗮𝘁𝗹𝗲𝘀*\n\npaul    ┐\n           ├   paul    ┐\njohn    ┘               │\n                            ├ paul\ngeorge.   ┐           │         \n               ├ ringo ┘\nringo**    ┘\n\n*they're all terrible\n**on name alone",
+    "embeds": [
+      {
+        "url": "zoraCoin://0xe3f853c667aee50acaf690ed82aac30ce334d5a1",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc4e67175",
+    "url": "https://farcaster.xyz/skycastle/0xc4e67175",
+    "author_username": "skycastle",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 1322716,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cdff3e04-fa02-4f9c-bacf-4815f16c1000/original",
+    "cast_date": "2025-09-25T19:03:23.000Z",
+    "text": "Today we introduce Skycastle, and our network token, $SKY.\n\nSkycastle is the tokenized incubator for the Base + Farcaster ecosystems. We help early builders become credible founders and unify our network under one token.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/541a3706-d984-4d25-7b20-d629e36ab400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 351772,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1200,
+            "height_px": 675
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x37d1e1f0",
+    "url": "https://farcaster.xyz/geoffgolberg/0x37d1e1f0",
+    "author_username": "geoffgolberg",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 4528,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/873e23da-8440-4b3e-e6b4-790c34800300/rectcrop3",
+    "cast_date": "2025-09-25T21:44:10.000Z",
+    "text": "cabal member: “there is no cabal”\n\nme: “umm, i can see you” https://farcaster.xyz/geoffgolberg/0x14d7c126",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1a0ce6c7-9bd6-4b96-b1de-98052169ec00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 287830,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1333
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 4528,
+          "hash": "0x14d7c126d1693606e92e41095a3bfaa32950b6b9"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x14d7c126d1693606e92e41095a3bfaa32950b6b9",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4528,
+            "username": "geoffgolberg",
+            "display_name": "Geoff Golberg",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/873e23da-8440-4b3e-e6b4-790c34800300/rectcrop3",
+            "custody_address": "0xa463d8c67ae19d09436acd2308e2033093947ba7"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x14d7c126d1693606e92e41095a3bfaa32950b6b9",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "there is no cabal\n\n(just a bunch of insiders casting images of sky castles who clearly knew $sky was about to launch)",
+          "timestamp": "2025-09-25T19:24:20.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb1446d56",
+    "url": "https://farcaster.xyz/jacy/0xb1446d56",
+    "author_username": "jacy",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 2982,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63552b96-faf4-4480-7775-a93631aaa100/original",
+    "cast_date": "2025-09-25T20:13:14.000Z",
+    "text": "i think skycastle is a great concept. \n\nit helps focus liquidity. \n\ncabal-ing becomes somewhat more public and transparent. \n\nand there are clearly some very strong and solid names backing this project. \n\nfor all these reasons, i've bought some $SKY - both on my fc and non-doxxed wallets. \n\nthat said, i'd be remiss in not mentioning my disappointment in the lack of diversity in the partner network.\n\nforgive me if i'm mistaken here, but as far as i can tell, Debbie is either among - or the only - woman on this Partner list.\n\nif the expertise offered by this group is \"strategy, PMF, product build, comms, GTM, brand, UX, and tokenomics\" then i can assure you there are plenty of bright, experienced women on base and farcaster who fit the mold.\n\ni could tag some of them here but the list would honestly be too long.\n\ni also wanna be really clear - i personally know a lot of the people associated with skycastle to be terrific, bright and inclusive individuals. so this isn't run-of-the-mill FUD aimed to tear them down.\n\ni just think the optics here matters. \n\nand i'm not sure if it was intentional or an oversight, but either way i'm disappointed that a project with so much promise and visibility missed the opportunity to set a stronger example on diversity and representation. \n\nespecially given how central inclusivity is to building long-lasting communities.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1322716,
+          "hash": "0x0be8f06a7a1afacf804ce06f94bf742d8cc4dce5"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0be8f06a7a1afacf804ce06f94bf742d8cc4dce5",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1322716,
+            "username": "skycastle",
+            "display_name": "SKYCASTLE",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cdff3e04-fa02-4f9c-bacf-4815f16c1000/original",
+            "custody_address": "0x13db91aba1d13f8a136296c4148484877101a49b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0be8f06a7a1afacf804ce06f94bf742d8cc4dce5",
+          "parent_hash": "0x1bb34b0f68969e9e504215a839c47d2d3ab32a92",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 1322716
+          },
+          "text": "Our network is anchored by 30 Partners bringing expertise across tokens, product, engineering, marketing, distribution, community & capital. \n\nBeyond that, we expand to a Council of 64, invited by Partners & aligned via shared incentives to broaden reach, perspective & support.\n\nIncluding our two founders & four senior advisors, the network extends 100 deep – all working for & committed to the success of your next project.",
+          "timestamp": "2025-09-25T19:03:23.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/58bca5a7-fccd-4b4f-7de2-d542dc778200/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 613615,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1200,
+                  "height_px": 1200
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xeef72aa6",
+    "url": "https://farcaster.xyz/burr.eth/0xeef72aa6",
+    "author_username": "burr.eth",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 311933,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c38a25a6-f3e3-471c-1d79-af3b60651500/original",
+    "cast_date": "2025-09-25T20:27:28.000Z",
+    "text": "Like @jacy, I also bought $SKY and believe in the concept.\n\nHonestly, I never even checked the men:women ratio because I consider Farcaster pretty inclusive.\n\nIt's definitely disappointing to only see 1 women among 30 advisors.\n\nAs Dad Burr would say when I was younger, \"I'm not mad, I'm just disappointed\" 🫡",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2982,
+          "hash": "0xb1446d567cbe7957bcb2d968550f1f58709a84f0"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb1446d567cbe7957bcb2d968550f1f58709a84f0",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2982,
+            "username": "jacy",
+            "display_name": "sparkz",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63552b96-faf4-4480-7775-a93631aaa100/original",
+            "custody_address": "0x1c17f77cf9597f28af7e8051893620ec3b8d93db"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb1446d567cbe7957bcb2d968550f1f58709a84f0",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "i think skycastle is a great concept. \n\nit helps focus liquidity. \n\ncabal-ing becomes somewhat more public and transparent. \n\nand there are clearly some very strong and solid names backing this project. \n\nfor all these reasons, i've bought some $SKY - both on my fc and non-doxxed wallets. \n\nthat said, i'd be remiss in not mentioning my disappointment in the lack of diversity in the partner network.\n\nforgive me if i'm mistaken here, but as far as i can tell, Debbie is either among - or the only - woman on this Partner list.\n\nif the expertise offered by this group is \"strategy, PMF, product build, comms, GTM, brand, UX, and tokenomics\" then i can assure you there are plenty of bright, experienced women on base and farcaster who fit the mold.\n\ni could tag some of them here but the list would honestly be too long.\n\ni also wanna be really clear - i personally know a lot of the people associated with skycastle to be terrific, bright and inclusive individuals. so this isn't run-of-the-mill FUD aimed to tear them down.\n\ni just think the optics here matters. \n\nand i'm not sure if it was intentional or an oversight, but either way i'm disappointed that a project with so much promise and visibility missed the opportunity to set a stronger example on diversity and representation. \n\nespecially given how central inclusivity is to building long-lasting communities.",
+          "timestamp": "2025-09-25T20:13:14.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 1322716,
+                "hash": "0x0be8f06a7a1afacf804ce06f94bf742d8cc4dce5"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x0be8f06a7a1afacf804ce06f94bf742d8cc4dce5",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 1322716
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9290fe40",
+    "url": "https://farcaster.xyz/nounishprof/0x9290fe40",
+    "author_username": "nounishprof",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-09-25T23:50:13.000Z",
+    "text": "sigh",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2982,
+          "hash": "0xb1446d567cbe7957bcb2d968550f1f58709a84f0"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb1446d567cbe7957bcb2d968550f1f58709a84f0",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2982,
+            "username": "jacy",
+            "display_name": "sparkz",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63552b96-faf4-4480-7775-a93631aaa100/original",
+            "custody_address": "0x1c17f77cf9597f28af7e8051893620ec3b8d93db"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb1446d567cbe7957bcb2d968550f1f58709a84f0",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "i think skycastle is a great concept. \n\nit helps focus liquidity. \n\ncabal-ing becomes somewhat more public and transparent. \n\nand there are clearly some very strong and solid names backing this project. \n\nfor all these reasons, i've bought some $SKY - both on my fc and non-doxxed wallets. \n\nthat said, i'd be remiss in not mentioning my disappointment in the lack of diversity in the partner network.\n\nforgive me if i'm mistaken here, but as far as i can tell, Debbie is either among - or the only - woman on this Partner list.\n\nif the expertise offered by this group is \"strategy, PMF, product build, comms, GTM, brand, UX, and tokenomics\" then i can assure you there are plenty of bright, experienced women on base and farcaster who fit the mold.\n\ni could tag some of them here but the list would honestly be too long.\n\ni also wanna be really clear - i personally know a lot of the people associated with skycastle to be terrific, bright and inclusive individuals. so this isn't run-of-the-mill FUD aimed to tear them down.\n\ni just think the optics here matters. \n\nand i'm not sure if it was intentional or an oversight, but either way i'm disappointed that a project with so much promise and visibility missed the opportunity to set a stronger example on diversity and representation. \n\nespecially given how central inclusivity is to building long-lasting communities.",
+          "timestamp": "2025-09-25T20:13:14.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 1322716,
+                "hash": "0x0be8f06a7a1afacf804ce06f94bf742d8cc4dce5"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x0be8f06a7a1afacf804ce06f94bf742d8cc4dce5",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 1322716
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4522bd09-2add-4743-17ad-81912fd1e700/original",
+        "metadata": {
+          "content_type": "image/gif",
+          "content_length": 2001394,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 540,
+            "height_px": 415
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbac15543",
+    "url": "https://farcaster.xyz/derek/0xbac15543",
+    "author_username": "derek",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 193,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7830e8f-33dd-4372-441a-e9696bb26900/original",
+    "cast_date": "2025-09-25T22:21:06.000Z",
+    "text": "My takes on the categories of $SKY critiques I've seen* \n\n*𝘐'𝘮 𝘫𝘶𝘴𝘵 𝘰𝘯𝘦 𝘨𝘶𝘺. 𝘐 𝘥𝘰𝘯'𝘵 𝘴𝘱𝘦𝘢𝘬 𝘧𝘰𝘳 𝘦𝘷𝘦𝘳𝘺𝘰𝘯𝘦 𝘪𝘯 $𝘚𝘒𝘠, 𝘯𝘰𝘳 𝘴𝘩𝘰𝘶𝘭𝘥 𝘐. 𝘛𝘩𝘦𝘴𝘦 𝘢𝘳𝘦 𝘮𝘺 𝗼𝗽𝗶𝗻𝗶𝗼𝗻𝘀 𝘢𝘯𝘥 𝘢𝘳𝘦 𝘯𝘰𝘵 𝘭𝘪𝘬𝘦𝘭𝘺 𝘵𝘰 𝘣𝘦 𝘴𝘩𝘢𝘳𝘦𝘥 𝘣𝘺 𝘮𝘺 𝘧𝘦𝘭𝘭𝘰𝘸 𝘱𝘢𝘳𝘵𝘯𝘦𝘳𝘴. \n\n𝗟𝗮𝗰𝗸 𝗼𝗳 𝗗𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 \nI don't believe in quotas. And I believe that diversity is more than external appearance, gender or otherwise. \n\nBut this is a real short-sighted failing. I'm guilty, and I'm sorry.\n\nI will speak for myself and say that I'll strive to do better here.\n\n𝗖𝗮𝗯𝗮𝗹 𝗔𝗰𝗰𝘂𝘀𝗮𝘁𝗶𝗼𝗻𝘀\nCabal in modern parlance is just a midcurve word for what's referred to as mafias (Paypal, YC, etc.) in SV. \n\nShort of a solo-founder doing a fair-market launch (like $NATIVE), this will be a perennial barb. \n\nThat said, a true cabal would not be as visible as this group is. You know who's in it. You know how it works. The docs are available on day one. It's a token on the open-market. \n\nYes, it took pre-meditated coordination and planning that didn't involve posting every decision to the feed (see: DAOs, Rainbow's M&A department, etc.).\n\nBut that's how the real world works. \n\n𝗧𝗵𝗲 𝗡𝗔𝗩 𝗠𝗼𝗱𝗲𝗹\nVery fair sets of questions here. My assessment in joining $SKY was primarily around this. My answer? The NAV model, especially when tokenized, aligns our incentives with founders and token-holders from Day Zero. \n\nIt puts the onus on us to a) pick great projects with plenty of room to grow and move the needle for our entire space and b) help add value to those projects through effort and elbow grease.",
+    "embeds": [
+      {
+        "url": "zoraCoin://0xe3f853c667aee50acaf690ed82aac30ce334d5a1",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb667cdff",
+    "url": "https://farcaster.xyz/chompix/0xb667cdff",
+    "author_username": "chompix",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 847988,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7788107b-e0a0-4864-310f-ab9631520800/rectcrop3",
+    "cast_date": "2025-09-25T17:54:52.000Z",
+    "text": "I posted this through the base app.\n\nSo, is base app another way to access the farcaster app? I’m so confused 😵‍💫 \n\n/gmfarcasfer",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 847988,
+          "hash": "0xd70c529d3c5cfa8ee264806b3f5440dc470fc192"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd70c529d3c5cfa8ee264806b3f5440dc470fc192",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 847988,
+            "username": "chompix",
+            "display_name": "Chompix",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7788107b-e0a0-4864-310f-ab9631520800/rectcrop3",
+            "custody_address": "0x6e6c2d0bd5cceefb3ed8dc6080d438dd840e1d87"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 309857,
+            "username": "baseapp.base.eth",
+            "display_name": "Base app",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05c00f8a-3374-40b4-249c-7cc70a260500/original",
+            "custody_address": "0x20c5cfecc0d1e03d2511aec13ea016f552d639b7"
+          },
+          "thread_hash": "0xd70c529d3c5cfa8ee264806b3f5440dc470fc192",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Hello base world!",
+          "timestamp": "2025-09-25T17:44:20.000Z",
+          "embeds": [
+            {
+              "url": "zoraCoin://0x25ecbe85e7935cc8fbb9d0de5f72d654a637a3d9",
+              "metadata": {
+                "_status": "PENDING"
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7406337c",
+    "url": "https://farcaster.xyz/talent/0x7406337c",
+    "author_username": "talent",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 20442,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d4038f79-b5ca-4026-d4f9-1fd628e7d200/original",
+    "cast_date": "2025-09-25T14:08:39.000Z",
+    "text": "It takes 3 simple steps to start earning @walletconnect Builder Rewards:\n\n• Basename\n• Builder Score ≥ 40\n• Integrate WalletConnect in your app\n\nGet started now 👇\nhttps://walletconnect.builderscore.xyz/",
+    "embeds": [
+      {
+        "url": "https://walletconnect.builderscore.xyz/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "WalletConnect Builder Rewards",
+                "url": "https://walletconnect.builderscore.xyz/images/walletconnect/frame-image.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "WalletConnect Builder Rewards",
+            "ogLocale": "en",
+            "ogDescription": "WalletConnect Rewards for the most impactful builders.",
+            "fcFrame": {
+              "button": {
+                "title": "WalletConnect Builder Rewards",
+                "action": {
+                  "url": "https://walletconnect.builderscore.xyz",
+                  "name": "WalletConnect Builder Rewards",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://walletconnect.builderscore.xyz/images/walletconnect/icon.png",
+                  "splashBackgroundColor": "#0988F0"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://walletconnect.builderscore.xyz/images/walletconnect/frame-image.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "WalletConnect Builder Rewards",
+            "image": "https://walletconnect.builderscore.xyz/images/walletconnect/frame-image.png",
+            "frames_url": "https://walletconnect.builderscore.xyz/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 20442,
+              "username": "talent",
+              "display_name": "Talent Protocol",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d4038f79-b5ca-4026-d4f9-1fd628e7d200/original",
+              "custody_address": "0x445776c58d6ffb45d9b9f6d68246e985e1830265"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjIwNDQyLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4NDQ1Nzc2QzU4RDZmZkI0NWQ5YjlmNkQ2ODI0NkU5ODVFMTgzMDI2NSJ9",
+                "payload": "eyJkb21haW4iOiJ3YWxsZXRjb25uZWN0LmJ1aWxkZXJzY29yZS54eXoifQ",
+                "signature": "MHg2ZDQwNzIyYTkzYWNiOTQ3MzJjMjcwNGVkNGJkYTRmNjllMDUwMzNiMzQ3ZDQ3NDhkZjUxMzljYmYyNGQ1ZTc1NTM5MTNlYmE1NzJjYzQ1MTVlNGI1MzRlNzZmOTM0OWU0YTJmYTU5YTE4YzgyOTNjODk4ZWRmMWIyYzA5ZWU4ZjFi"
+              },
+              "frame": {
+                "version": "0.0.1",
+                "name": "WalletConnect Builder Rewards",
+                "home_url": "https://walletconnect.builderscore.xyz",
+                "icon_url": "https://walletconnect.builderscore.xyz/images/walletconnect/icon.png",
+                "image_url": "https://walletconnect.builderscore.xyz/images/walletconnect/frame-image.png",
+                "button_title": "WalletConnect Builder Rewards",
+                "splash_image_url": "https://walletconnect.builderscore.xyz/images/walletconnect/icon.png",
+                "splash_background_color": "#0988F0",
+                "webhook_url": "https://api.neynar.com/f/app/95a0ed9e-3fac-4761-a711-ba6cce02f8b7/event"
+              },
+              "miniapp": {
+                "version": "0.0.1",
+                "name": "WalletConnect Builder Rewards",
+                "home_url": "https://walletconnect.builderscore.xyz",
+                "icon_url": "https://walletconnect.builderscore.xyz/images/walletconnect/icon.png",
+                "image_url": "https://walletconnect.builderscore.xyz/images/walletconnect/frame-image.png",
+                "button_title": "WalletConnect Builder Rewards",
+                "splash_image_url": "https://walletconnect.builderscore.xyz/images/walletconnect/icon.png",
+                "splash_background_color": "#0988F0",
+                "webhook_url": "https://api.neynar.com/f/app/95a0ed9e-3fac-4761-a711-ba6cce02f8b7/event"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x09937ae9",
+    "url": "https://farcaster.xyz/thumb/0x09937ae9",
+    "author_username": "thumb",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 791687,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e986d62a-79a7-4901-32e2-f8b068d67500/original",
+    "cast_date": "2025-09-26T02:27:28.000Z",
+    "text": "INSIDE BASECAMP | Exclusive Trailer\n\nComing soon to a theater near you @base.base.eth",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/base-app/video/upload/sp_auto/v1758853580/video_uploads/ef7640aa-8e99-41f0-8d25-9ab0e6bb61d6.m3u8?zoraCoin=0x1ff93be82fca60271a941daa1a72c59a3e840b84",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": 504,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 540,
+                "width_px": 960,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 270,
+                "width_px": 480,
+                "codec_name": "h264"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb3bbceae",
+    "url": "https://farcaster.xyz/christin/0xb3bbceae",
+    "author_username": "christin",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 15850,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bd90b57-732c-445b-4670-00040e540100/original",
+    "cast_date": "2025-09-24T21:45:32.000Z",
+    "text": "NEXT Tuesday September 30th\n8AM PT / 11AM ET / 3PM UTC\n\nchristin and @cameron returns with a whiplash!\n\nhttps://www.youtube.com/watch?v=2vXj7ZypVeo",
+    "embeds": [
+      {
+        "url": "https://www.youtube.com/watch?v=2vXj7ZypVeo",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.youtube.com/watch?v=2vXj7ZypVeo",
+            "oembed": {
+              "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/2vXj7ZypVeo?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"whiplash.\"></iframe>",
+              "type": "video",
+              "title": "whiplash.",
+              "width": 200,
+              "height": 113,
+              "method": "provider-api",
+              "version": "1.0",
+              "author_url": "https://www.youtube.com/@okbangershow",
+              "author_name": "OK Banger",
+              "provider_url": "https://www.youtube.com/",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/2vXj7ZypVeo/hqdefault.jpg",
+              "thumbnail_width": 480,
+              "thumbnail_height": 360
+            },
+            "ogDate": "2025-09-24T14:40:19-07:00",
+            "ogType": "video.other",
+            "favicon": "https://www.youtube.com/s/desktop/d2ab3412/img/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://i.ytimg.com/vi/2vXj7ZypVeo/maxresdefault.jpg?v=68d46547",
+                "type": "jpg",
+                "width": "1280",
+                "height": "720"
+              }
+            ],
+            "ogTitle": "whiplash.",
+            "ogVideo": [
+              {
+                "url": "https://www.youtube.com/embed/2vXj7ZypVeo",
+                "type": "text/html",
+                "width": "640",
+                "height": "360"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "YouTube",
+            "ogDescription": "christin and cameron returns with a whiplash!live streams every tue 11am ET/8am PT/3pm UTC",
+            "ogVideoSecureURL": "https://www.youtube.com/embed/2vXj7ZypVeo"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xb7caff96",
+    "url": "https://farcaster.xyz/cardno.eth/0xb7caff96",
+    "author_username": "cardno.eth",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 10051,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/759b349c-3028-44a0-ea1d-91b5ecafdc00/original",
+    "cast_date": "2025-09-25T09:41:29.000Z",
+    "text": "Planning your trip to /devconnect and have questions you want answered by experts?\n\nJoin @worthalter and @sassal.eth on the /eth-staker YouTube channel at 5pm ET, October 10th for a friendly review of what you absolutely need to know before coming to Buenos Aires for Devconnect!\n\nLink + details 👇",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53f57da5-d850-416d-bc7c-7ea391130400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 473044,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1124
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc8a290a2",
+    "url": "https://farcaster.xyz/sahil/0xc8a290a2",
+    "author_username": "sahil",
+    "show_date": "2025-09-26",
+    "show_title": "Ringo in the Bracket, Skycastle in the Clouds: GM Farcaster ep291",
+    "source_episode_id": "KTc_SdOEGvI",
+    "author_fid": 725,
+    "author_pfp": "https://lh3.googleusercontent.com/ELQOEk4_UQ1iLnH3VBoNovAoYrEn2Fpm73fQb8cE1wsVCFLwU6eT3USqlb7P8Ju6JLBKacWt_otOsOHy0GrZOumx7xQk_i-42lO97A",
+    "cast_date": "2025-09-16T22:42:24.000Z",
+    "text": "excited to onboard @javabu.eth to build and grow a home base for /politics on cura. \n\nwe're going to support him in curating the best politics related conversations/feed, onboard net new users and enable crypto native incentives and mini apps for the /politics channel.\n\n👀 ready to take on giants",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 13893,
+          "hash": "0x3034274a3f75cb15c2f8feb78449157dfe5be298"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3034274a3f75cb15c2f8feb78449157dfe5be298",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 13893,
+            "username": "javabu.eth",
+            "display_name": "Jared",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/933681b7-c5d1-427c-36af-9e5f354a0100/original",
+            "custody_address": "0x9d5ffc8ff2f7f05752209f3822c09168e01d7658"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3034274a3f75cb15c2f8feb78449157dfe5be298",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/politics",
+          "root_parent_url": "https://warpcast.com/~/channel/politics",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Farcaster doesn’t really work for channels — good posts get lost, notifications don’t land, and it’s hard to track who’s contributing. And Base? It doesn’t even support channels.\n\nThat’s why /politics now is working to fully integrate with @cura. What does that mean for you?\n\n1. Top posts stay pinned and curated — plus we’ll be rewarding curated content.\n2. Notifications make sure you don’t miss updates or replies.\n3. Contributors get real recognition with leaderboards, recurring $Buster drops, and ways to earn.\n4. Everything lives in one place: posting, following, rewards, and curation.\n5. Our content spreads beyond Cura too — showing up on Farcaster, Base, and X.\n\nYou can open the /politics home base inside the mini apps on Farcaster and Base. But for the full experience, go straight to cura.network/politics (web) or download the iOS app https://apps.apple.com/us/developer/karma3-labs/id1795955093",
+          "timestamp": "2025-09-16T22:20:05.000Z",
+          "embeds": [
+            {
+              "url": "https://cura.network/politics",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://cura.network/politics?t=hot",
+                  "favicon": "/icon.png",
+                  "ogImage": [
+                    {
+                      "alt": "Post image",
+                      "url": "https://cura.network/api/og/feed?channelId=politics&feedType=hot",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "/politics on Cura",
+                  "ogLocale": "en",
+                  "ogDescription": "Cura lets you curate, reward, and tokenize your community",
+                  "fcFrame": {
+                    "button": {
+                      "title": "/politics on Cura",
+                      "action": {
+                        "url": "https://cura.network/politics?t=hot",
+                        "name": "Cura",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://cura.network/icon.png",
+                        "splashBackgroundColor": "#000000"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://cura.network/api/og/feed?channelId=politics&feedType=hot&frame=true"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "/politics on Cura",
+                  "image": "https://cura.network/api/og/feed?channelId=politics&feedType=hot&frame=true",
+                  "frames_url": "https://cura.network/politics",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 864314,
+                    "username": "curabot",
+                    "display_name": "cura",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c0ba4d19-001a-4887-f271-9f7da83c2000/original",
+                    "custody_address": "0xbcb984a6faa20ff56a633653f57e82a23d498aa0"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjg2NDMxNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEJjYjk4NEE2ZmFhMjBmRjU2QTYzMzY1M0Y1N2U4MmEyM2Q0OThhQTAifQ",
+                      "payload": "eyJkb21haW4iOiJjdXJhLm5ldHdvcmsifQ",
+                      "signature": "MHhhZDAwYWNiN2I0YjgxNzljZTBlNTc3NWZjZDkyOWU2OTFkZGUyNzMzODAwNDk5ZjUwZDZiOWViZjFlMzUzZTI3NzQ0NzllNmEyNmNlODkxMjM1MTAzODcxNzFmMTViOTMwYTY0YzUyM2YwNTg1MDA0MTI0MGMwNGQ3OGZmYzRiMjFj"
+                    },
+                    "frame": {
+                      "version": "0.0.1",
+                      "name": "Cura",
+                      "home_url": "https://cura.network",
+                      "icon_url": "https://cura.network/icon.png",
+                      "splash_image_url": "https://cura.network/icon.png",
+                      "splash_background_color": "#111111",
+                      "webhook_url": "https://notifications.cura.network/api/v1/webhooks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiY3VyYS5uZXR3b3JrIn0.PONNJOwdS8Je59nk9CnpgbZAaENHCe3zLHPCcX0wB0w",
+                      "primary_category": "social",
+                      "tags": [
+                        "cura",
+                        "openrank",
+                        "community",
+                        "moderation",
+                        "channels"
+                      ]
+                    },
+                    "miniapp": {
+                      "version": "0.0.1",
+                      "name": "Cura",
+                      "home_url": "https://cura.network",
+                      "icon_url": "https://cura.network/icon.png",
+                      "splash_image_url": "https://cura.network/icon.png",
+                      "splash_background_color": "#111111",
+                      "webhook_url": "https://notifications.cura.network/api/v1/webhooks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiY3VyYS5uZXR3b3JrIn0.PONNJOwdS8Je59nk9CnpgbZAaENHCe3zLHPCcX0wB0w",
+                      "primary_category": "social",
+                      "tags": [
+                        "cura",
+                        "openrank",
+                        "community",
+                        "moderation",
+                        "channels"
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "url": "https://apps.apple.com/us/developer/karma3-labs/id1795955093",
+              "metadata": {
+                "content_type": "text/html",
+                "content_length": 34695,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://apps.apple.com/us/developer/karma3-labs/id1795955093",
+                  "ogType": "website",
+                  "favicon": "https://apps.apple.com/assets/images/favicon/favicon-apps-48-fad34e0d87e86dcf72ded1faff4ba9d0.png",
+                  "ogTitle": "‎Karma3 Labs Apps on the App Store",
+                  "ogLocale": "en_US",
+                  "ogSiteName": "App Store",
+                  "ogDescription": "‎Download apps by Karma3 Labs, including Cura by OpenRank."
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "politics",
+            "name": "politics",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d8894790-e2fe-4e21-94bf-5207aafe6a00/original"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7a5175f6-68f6-4fc4-9999-21dbf652a000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 631398,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1356,
+            "height_px": 960
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/462983cc-1f47-4edc-f84e-e783d7ffbf00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 335671,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1088
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cecc1a53-0dd8-4b09-f893-92d612dd0400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 163350,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1928,
+            "height_px": 1004
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

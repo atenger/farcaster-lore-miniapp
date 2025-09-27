@@ -1,0 +1,1607 @@
+[
+  {
+    "cast_hash": "0x266e5c21",
+    "url": "https://farcaster.xyz/v/0x266e5c21",
+    "author_username": "v",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-09-08T19:03:28.000Z",
+    "text": "Security Update: NPM QIX attack\n\n1. If you're using the Farcaster app on web or mobile, you are safe. \n\n2. If you're using a Farcaster miniapp, be cautious unless the developer has confirmed it's safe. Reject any transactions from miniapps you don’t fully understand.\n\nWhat happened? \n\nAn attacker took over an NPM developer's account and replaced packages with malicious versions. These low-level, open-source components are used by many apps, including popular crypto wallets. Any app that updates these packages today may load the malicious code, which can propose dangerous transactions to users.\n\nThe Farcaster app uses some of these packages, but we have confirmed we haven’t updated them since the attack. It's therefore safe to use our app. \n\nFarcaster miniapps could have been affected. If a miniapp is impacted, it may propose a dangerous transaction. Our security scanning should catch most of these, and even if something slips through, you’ll see a transaction preview to review and reject. If you’re using a miniapp, it’s important to read the details and accept only transactions you understand.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2de616bb",
+    "url": "https://farcaster.xyz/horsefacts.eth/0x2de616bb",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e5a7aa9-75b7-40e5-9add-9716ffc8e300/original",
+    "cast_date": "2025-09-08T18:32:27.000Z",
+    "text": "summary of today's NPM compromise, vulnerable package versions, and action items for devs here, from @andrewmohawk at Privy.\n\nif your app uses NPM (includes mini apps), please check your dependencies.\n\nhttps://x.com/AndrewMohawk/status/1965116722375209305\nhttps://x.com/AndrewMohawk/status/1965117607750881561",
+    "embeds": [
+      {
+        "url": "https://x.com/AndrewMohawk/status/1965116722375209305",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/AndrewMohawk/status/1965116722375209305",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Lot of chatter about the QIX NPM compromise. TL;DR<br>-- Dev was compromised ~9am ET ( <a href=\"https://t.co/bgOwN57xyz\">https://t.co/bgOwN57xyz</a> )<br>-- Malicious packages removed at ~11.30 ET ( <a href=\"https://t.co/XApcXgcQoK\">https://t.co/XApcXgcQoK</a> )<br>If you installed in this time please check your codebase.</p>&mdash; AndrewMohawk⁽ⁿᵘˡˡ⁾ (@AndrewMohawk) <a href=\"https://twitter.com/AndrewMohawk/status/1965116722375209305?ref_src=twsrc%5Etfw\">September 8, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/AndrewMohawk",
+              "author_name": "AndrewMohawk⁽ⁿᵘˡˡ⁾",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      },
+      {
+        "url": "https://x.com/AndrewMohawk/status/1965117607750881561",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/AndrewMohawk/status/1965117607750881561",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">This would only impact you if:<br>- FRESH install between ~9am and ~11.30am ET <br>- OR Package-lock.json created in that time<br>- Vuln packages in direct or transient dependencies</p>&mdash; AndrewMohawk⁽ⁿᵘˡˡ⁾ (@AndrewMohawk) <a href=\"https://twitter.com/AndrewMohawk/status/1965117607750881561?ref_src=twsrc%5Etfw\">September 8, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/AndrewMohawk",
+              "author_name": "AndrewMohawk⁽ⁿᵘˡˡ⁾",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf9b7a450",
+    "url": "https://farcaster.xyz/debbie/0xf9b7a450",
+    "author_username": "debbie",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 1628,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/61321600-eb11-4ccb-e5f7-6ed519f6b000/original",
+    "cast_date": "2025-09-08T18:55:31.000Z",
+    "text": "1/ You may have seen reports of today’s npm supply chain attack. \n\n@privy is not impacted – none of the compromised packages are part of our direct dependencies. \n\nOur security team has also created a script for others to scan their own code bases.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf4e2731f",
+    "url": "https://farcaster.xyz/base.base.eth/0xf4e2731f",
+    "author_username": "base.base.eth",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 12142,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce5460f6-40a2-4486-47c1-7801e4033e00/original",
+    "cast_date": "2025-09-09T16:34:58.000Z",
+    "text": "Base products (including the @baseapp.base.eth are not impacted by the recent npm supply chain attack.\n\nAll systems remain secure and funds are safe.",
+    "embeds": [
+      {
+        "url": "zoraCoin://0xa781505b02dfed3c7d504a5e4c8a2aedeefea379",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf3a0f04b",
+    "url": "https://farcaster.xyz/pirosb3/0xf3a0f04b",
+    "author_username": "pirosb3",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 12152,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7f3409a0-80ae-4aa6-2a1b-a536b34aeb00/original",
+    "cast_date": "2025-09-09T19:36:57.000Z",
+    "text": "🚀 New Mini App SDK Action: signManifest\n\nMini apps can now request users to sign domain ownership. This unlocks V0/Lovable for Farcaster: AI platforms that let you vibe code mini apps and host them FOR you while keeping ownership tied to YOUR account\n\nWhat this means:\n- Create your mini app with prompting, platform hosts while you own\n- You get the developer rewards\n- You're recognized as the creator\n\nhttps://miniapps.farcaster.xyz/docs/sdk/actions/sign-manifest",
+    "embeds": [
+      {
+        "url": "https://miniapps.farcaster.xyz/docs/sdk/actions/sign-manifest",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 9188,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "miniapps-docs-pl928bmy8-farcaster.vercel.app",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://og-five-eta.vercel.app/api/og/mini-apps?title=signManifest (Experimental)&description=Signs a domain manifest for verification&section=Action"
+              }
+            ],
+            "ogTitle": "signManifest (Experimental)",
+            "ogLocale": "en",
+            "ogDescription": "Signs a domain manifest for verification"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x673bd166",
+    "url": "https://farcaster.xyz/linda/0x673bd166",
+    "author_username": "linda",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-09-09T19:46:23.000Z",
+    "text": "Very excited about this update! Now vibe coders on platforms that use this new Farcaster sdk action can own the mini apps they create 🔥",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 12152,
+          "hash": "0xf3a0f04bebf2175023cf447a2287d3910442be09"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf3a0f04bebf2175023cf447a2287d3910442be09",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12152,
+            "username": "pirosb3",
+            "display_name": "Daniel - Bountycaster",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7f3409a0-80ae-4aa6-2a1b-a536b34aeb00/original",
+            "custody_address": "0x0bf45f967e90ffd60635d1ac195062a3a9fcc62b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xf3a0f04bebf2175023cf447a2287d3910442be09",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "🚀 New Mini App SDK Action: signManifest\n\nMini apps can now request users to sign domain ownership. This unlocks V0/Lovable for Farcaster: AI platforms that let you vibe code mini apps and host them FOR you while keeping ownership tied to YOUR account\n\nWhat this means:\n- Create your mini app with prompting, platform hosts while you own\n- You get the developer rewards\n- You're recognized as the creator\n\nhttps://miniapps.farcaster.xyz/docs/sdk/actions/sign-manifest",
+          "timestamp": "2025-09-09T19:36:57.000Z",
+          "embeds": [
+            {
+              "url": "https://miniapps.farcaster.xyz/docs/sdk/actions/sign-manifest",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": 9188,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "miniapps-docs-pl928bmy8-farcaster.vercel.app",
+                  "ogType": "website",
+                  "favicon": "/favicon.png",
+                  "ogImage": [
+                    {
+                      "url": "https://og-five-eta.vercel.app/api/og/mini-apps?title=signManifest (Experimental)&description=Signs a domain manifest for verification&section=Action"
+                    }
+                  ],
+                  "ogTitle": "signManifest (Experimental)",
+                  "ogLocale": "en",
+                  "ogDescription": "Signs a domain manifest for verification"
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8c7b5e6f",
+    "url": "https://farcaster.xyz/v/0x8c7b5e6f",
+    "author_username": "v",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-09-09T16:45:05.000Z",
+    "text": "We have a bug with some prices showing up higher than expected in the UI. \n\nFunds are safe, will fix this shortly.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 280,
+          "hash": "0x3f1c683d89d3a72495c55062bc2872c70adb8cd9"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3f1c683d89d3a72495c55062bc2872c70adb8cd9",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 280,
+            "username": "vrypan.eth",
+            "display_name": "vrypan |--o--|",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a770fe54-0624-4415-28b7-cca5360e0400/original",
+            "custody_address": "0xd05d60b5762728466b43dd94ba882d050b60af67"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3f1c683d89d3a72495c55062bc2872c70adb8cd9",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Farlet lives in the future",
+          "timestamp": "2025-09-09T16:38:27.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1a87bc51-3cee-4a62-270d-fe865a6d7900/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 109761,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1648,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x06e68cd7",
+    "url": "https://farcaster.xyz/v/0x06e68cd7",
+    "author_username": "v",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-09-09T21:32:47.000Z",
+    "text": "Looking for beta testers for token alerts. \n\nA new feature which lets you get alerts when people you know trade or when tokens reach specific price targets. \n\nReply if you're interested in testing this out!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x56b9c9a4",
+    "url": "https://farcaster.xyz/bradq/0x56b9c9a4",
+    "author_username": "bradq",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-09-09T16:43:19.000Z",
+    "text": "** Rewards Leaderboard Results **\n\nIt's @bertwurst.eth & his Ladies! ... oh, and @pugson 😆 ...\n\n* While it feels like 'all the names are the same,' that's not the case for some each week: @samantha at #2 is not typical, she's usually not in the top 10 and what better use of Rewards than funding Humankind?\n\n* Also @0ffline #6 and @triumph #7 is not typical, though they've both been up there before. \n\n* Downleaderboard @jacy at #18 strikes me as her highest ever; @amethystaura debut in top 30 at #20; & @frametheglobe & @drivenbyboredom first entry into the top 30 at #24 & #29\n\n* Meme-coveted #69 goes to Boston pedicab @mxjxn \n\n* Been seeing more first-timers the last couple weeks, so keep an eye out to celebrate 🎈",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7285d5c5-7293-41bc-00a8-4f361948e000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 223167,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 766,
+            "height_px": 1344
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0bfbf3bb",
+    "url": "https://farcaster.xyz/yonfrula/0x0bfbf3bb",
+    "author_username": "yonfrula",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 243300,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d733b69f-7ebb-4c2a-82d9-c3eef656a200/original",
+    "cast_date": "2025-09-10T02:03:08.000Z",
+    "text": "honestly, we're thrilled with the love @choochoo is receiving so far 🚂💨\n\nhuge thanks to @jonbray.eth for bringing my artwork to life in such a fun and magical way, and big shoutout to @garrett for making it all happen behind the scenes, coordinating everything and sparking ideas along the way.\n\nexcited to see the train roll through many more stations.\nyou're free now, choo-choo…enjoy the ride.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 377557,
+          "hash": "0xb68bba3e2e2aee8f4e7e6b1b6a3d27a7d86c0a32"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xb68bba3e2e2aee8f4e7e6b1b6a3d27a7d86c0a32",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 377557,
+            "username": "jonbray.eth",
+            "display_name": "jon",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/473d6899-74f4-45f0-3967-727cf871cb00/original",
+            "custody_address": "0xc686c603a540878614af059e26733899e35ae975"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xb68bba3e2e2aee8f4e7e6b1b6a3d27a7d86c0a32",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "super cool to see so many people enjoying @choochoo, seeing the groups it gets passed around to and everyone having fun\n\nthat's what it's all about!\n\nhonored to be a part of bringing @yonfrula's art to life",
+          "timestamp": "2025-09-10T01:33:14.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e1fb52c-25b6-4de0-0ef2-16fd61897300/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 56239,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1055,
+                  "height_px": 131
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc3e3fd3a",
+    "url": "https://farcaster.xyz/matchaxyz/0xc3e3fd3a",
+    "author_username": "matchaxyz",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 17114,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmVehWZbWAYkDnUYrh8uTbdT7NJYCw9a8SDQVeLBDXQHNA?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-09-09T15:56:14.000Z",
+    "text": "You love the purple app, and so do we 😈\n\nTrade every @farcaster project and coin, including our new besties @betrmint, with a premium suite of features to supersize your swaps.\n\nThe place to trade everything on @base.base.eth? It's matcha.xyz.",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01992f27-85ad-6a32-a16a-ffcc5204f00b.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 35.9
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xaa988e62",
+    "url": "https://farcaster.xyz/baseapp.base.eth/0xaa988e62",
+    "author_username": "baseapp.base.eth",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 309857,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05c00f8a-3374-40b4-249c-7cc70a260500/original",
+    "cast_date": "2025-09-09T22:23:45.000Z",
+    "text": "Time to update the Base app. Here's what's new in our latest update:\n🔹 Browse an improved feed with more posts from the people you follow (and posts you can buy)\n🔹Create posts directly from the compose icon on your home tab\n🔹See avatars for group chats and get notifications to join\n🔹Share posts with dynamic previews, linking to base․app for those not using the app\n🔹Hit your Farcaster storage limit? Now we’ll automatically upgrade you so you can keep posting\n🔹Find coins you’ve created easier than ever with better asset logos\n🔹…And tons of performance gains across the app with fixes to deep links, permissions, and pre-fetching\n\nTell us what you want next.",
+    "embeds": [
+      {
+        "url": "https://tba-social.mypinata.cloud/ipfs/bafkreiclbvfciw5jtanppdb4n2jhzrvc2rnrhpeqbncpp3qcdf5rsgmgoe?zoraCoin=0xd04f2f78e972cac65406406ff47bf55db2e64854",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 134371,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1080
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdb02e6b2",
+    "url": "https://farcaster.xyz/oxb/0xdb02e6b2",
+    "author_username": "oxb",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 20286,
+    "author_pfp": "https://i.imgur.com/5lTpsyy.jpg",
+    "cast_date": "2025-09-09T21:36:49.000Z",
+    "text": "just fixed a crucial UI issue for trading content coins on @baseapp.base.eth\n\nwe removed the $ equivalent in the trade widget → way smoother now\n\nupdate your app & try it rn",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/base-app/video/upload/sp_auto/v1757453794/video_uploads/ce6f5737-66f0-4841-9b6c-679db85c4597.m3u8?zoraCoin=0xcd1b231644a393dd7d0c0b5e9c4ddfd3159c830a",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": 227,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1280,
+                "width_px": 590,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 960,
+                "width_px": 442,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 220,
+                "codec_name": "h264"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x04ef8b83",
+    "url": "https://farcaster.xyz/toadyhawk.eth/0x04ef8b83",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-09-10T02:26:30.000Z",
+    "text": "We’ll be doing some live reflection tomorrow on The Based Builders Show as @jackwyldes.eth and I host @audiocrypt from from the Black Mirror project on @base.base.eth. \n\nStreaming live from @buildonbase on X at 11AM EST, RSVP on LUMA below!\n\nhttps://luma.com/r0x9lshg",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/41bddb18-9084-4d2b-b434-35bb25f36d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 422011,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1977
+          }
+        }
+      },
+      {
+        "url": "https://luma.com/r0x9lshg",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://luma.com/r0x9lshg",
+            "ogType": "article",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://og.luma.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=419/api/event-one?calendar_avatar=https%3A%2F%2Fcdn.lu.ma%2Favatars-default%2Fcommunity_avatar_5.png&calendar_name&color0=%2311529e&color1=%232b222c&color2=%23f3bb1c&color3=%2363b88d&host_avatar=https%3A%2F%2Fcdn.lu.ma%2Favatars-default%2Favatar_21.png&host_name=Toady%20Hawk&img=https%3A%2F%2Fimages.lumacdn.com%2Fevent-covers%2Fmh%2F0eba0662-bd55-42c5-a3a1-840ec35b850f.jpg&name=The%20Based%20Builders%20Show%20with%20Toady%20%26%20Jack%3A%20Black%20Mirror%20Arrives%20on%20Base",
+                "width": "800",
+                "height": "419"
+              }
+            ],
+            "ogTitle": "The Based Builders Show with Toady & Jack: Black Mirror Arrives on Base · Luma",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfe5168f8",
+    "url": "https://farcaster.xyz/brendannn.eth/0xfe5168f8",
+    "author_username": "brendannn.eth",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 14127,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/46a19a2b-0253-4ea6-41e3-7653616e5100/original",
+    "cast_date": "2025-09-10T02:07:22.000Z",
+    "text": "interesting \n\nfc does not mark this morpho cast as an ad but tba does\n\nalso the casts are different. cast itself is the same but the image is subtly different\n\ndifferent app publisher\ndifferent $ values\n\nhow’s this happen? would love to learn more",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bad0942c-7fe0-43b5-3dec-be13e2c21f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 134463,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 922,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8c8b2f2a-dc02-42ae-bba7-fe0d8427ce00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 129401,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 922,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3763af17",
+    "url": "https://farcaster.xyz/nounishprof/0x3763af17",
+    "author_username": "nounishprof",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-09-09T20:26:38.000Z",
+    "text": "Basecamp schedule out (on Twitter 🤔) looking forward to seeing fellow campers next week! \n\nhttps://x.com/base/status/1965099203472109963?s=46&t=N80rptBytKhSU-csz4Akrg",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/base-app/image/upload/f_m3u8,f_png/v1757449594/video_uploads/02ae1e07-c670-4acc-bc83-ea981184eff5.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 821376,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1350
+          }
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/base-app/image/upload/f_m3u8,f_png/v1757449595/video_uploads/6d80286c-c559-4bc9-8828-87232575e18c.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 95569,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1080,
+            "height_px": 1350
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x675a9594",
+    "url": "https://farcaster.xyz/rainbow/0x675a9594",
+    "author_username": "rainbow",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 20919,
+    "author_pfp": "https://i.imgur.com/b3SgimD.jpg",
+    "cast_date": "2025-09-09T20:15:10.000Z",
+    "text": "⏳ Get ready for a rewards upgrade.\n\nWe're soon rolling out something much bigger than weekly ETH drops. To ship it, we're temporarily pausing the current weekly ETH rewards distributions, effective today.\n\nYour dedication and all the Points you've farmed are about to pay off. What comes next is built for you.\n\nA sneak peek at what we are cooking:\n• Rewards distributed in real time\n• Everyone gets rewards not just top 1000\n• Rewards denominated in $████\n\nThe wait is almost over. Phase 3 is upon us.\nhttps://x.com/rainbowdotme/status/1803177579932950946",
+    "embeds": [
+      {
+        "url": "https://x.com/rainbowdotme/status/1803177579932950946",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/rainbowdotme/status/1803177579932950946",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Next week. Phase 1. 🌈 <a href=\"https://t.co/eiwewusSMe\">pic.twitter.com/eiwewusSMe</a></p>&mdash; Rainbow (@rainbowdotme) <a href=\"https://twitter.com/rainbowdotme/status/1803177579932950946?ref_src=twsrc%5Etfw\">June 18, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/rainbowdotme",
+              "author_name": "Rainbow",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1ba2a468",
+    "url": "https://farcaster.xyz/nickysap/0x1ba2a468",
+    "author_username": "nickysap",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 269091,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9898cc1f-6574-453c-5817-da0e8bc3a800/original",
+    "cast_date": "2025-09-09T22:07:46.000Z",
+    "text": "Sure, happy to address this absolute mess. \n\nI announced a CTO of Circus a few weeks back. We handed over the project to a team we had worked with for a couple of months who successfully closed deals with some KOLs, managed launches, community engagement, etc. \n\nI met with their dev, who also came across as a reasonably knowledgeable guy. \n\nThese were people we spoke to on a daily basis via either Telegram or voice. \n\nWe didn’t have any reason to consider this team untrustworthy. If anything they were eager to make the project succeed. \n\nA CTO is just that, a take over. The deal was that we would provide them with the LP tokens and would keep paying for the infra while we transitioned the code to their team. \n\nIn return, they would keep the project going, grow it, and give it new life where we couldn’t. \n\nThey continually dragged the launch date out further and further but kept us in the loop constantly. We were even going to help them with some of the configurations for the launch. With the intention to use the Circus Launchpad. \n\nThe other night, the lead guy started threatening me. Trying to squeeze me for money. He sent me pics of my family and made several threats I would consider severe. \n\nThe following day, he apologized for “crashing out” and went on to continue planning the launch, which was meant to be this week. \n\nAt approximately 23:30 CEST I start getting messages about a rug that occurred and tweets from the Circus social accounts, which we had turned over weeks ago. \n\nProbably the worst possible outcome imaginable and I am still getting all the facts myself. Very frustrating, especially when I’m not at my desk and able to handle things appropriately.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 473136,
+          "hash": "0x4532b58bf272490574615e7f5c7044990600bcce"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4532b58bf272490574615e7f5c7044990600bcce",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 473136,
+            "username": "thebestpizza.eth",
+            "display_name": "pizza.base.eth",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1aa93429-a9fb-4ca8-afd2-a889b476aa00/original",
+            "custody_address": "0x4d69254d31cd09967826dd12ba13f305ab8e39e5"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xee69ae9c1f951d1c078c337124e12d0013e42a42",
+          "parent_hash": "0x5fb878539670e7ea2b282c8b29a02c875ca1ce29",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 1699
+          },
+          "text": "irresponsible and non-sensical to hand over full supply control to a team to takeover\n\nmany people have been scammed and the “team” both new and old are blaming each other\n\nno one even had a chance to choose to sell since they drained the liquidity pool and asked for more funds for the relaunch, knew it was trouble from that point\n\n@nickysap this needs answers\n\n@jesse.base.eth and @base.base.eth team were widely sharing this project months ago and the reason many bought in",
+          "timestamp": "2025-09-09T21:57:11.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf2ada1b2",
+    "url": "https://farcaster.xyz/ripsapp/0xf2ada1b2",
+    "author_username": "ripsapp",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 1132540,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a6861c5b-59b4-467a-cc92-a8453948ec00/original",
+    "cast_date": "2025-09-09T16:05:05.000Z",
+    "text": "You open your free daily Rips pack...\n\nWhich of these coins are you hoping to pull? 👇",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa8ca027-a586-4a6b-c7f1-b1a52ad1ee00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 864980,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1170,
+            "height_px": 1036
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1f2c68ea",
+    "url": "https://farcaster.xyz/mvr/0x1f2c68ea",
+    "author_username": "mvr",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 230238,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a5d4aa0-e46e-4f5f-5b13-9aff6d3a8800/original",
+    "cast_date": "2025-09-08T16:04:20.000Z",
+    "text": "ripping friction out of tipping\n\nuse ripper to retroactively tip who you interacted with on Farcastee in the past X days\n\nhttps://ripper.onchain.cooking",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 280,
+          "hash": "0xdd1fcf2564412117431902bca7b33da74b6112af"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xdd1fcf2564412117431902bca7b33da74b6112af",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 280,
+            "username": "vrypan.eth",
+            "display_name": "vrypan |--o--|",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a770fe54-0624-4415-28b7-cca5360e0400/original",
+            "custody_address": "0xd05d60b5762728466b43dd94ba882d050b60af67"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xdd1fcf2564412117431902bca7b33da74b6112af",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Yes, tipping has added unwanted friction. The problem is all these services are unbound, there is no spending limit.\n\nI think tipping should not be real-time. I want to be able to set the amount I want to spend (per day? per week?) and have the tipping services distribute the fixed amount to all my reactions in this period.\n\nFor example, I want to spend $10/week: Group all the events that trigger tips throughout the week, and distribute my $10 accordingly. \n\nAggregating this activity, opens the door to additional features. For example, new distribution rules, like \"no more than 30% to a single recipient\" (just because we engaged in an endless thread), \"favor new users\", \"ignore specific users\" (automation bots), etc. \n\nht/t to @nounishprof and @adrienne for bringing the topic up in GMFarcaster #284.\n\nhttps://farcaster.xyz/7858.eth/0x6f552190",
+          "timestamp": "2025-09-03T06:07:08.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 2494,
+                "hash": "0x6f55219006d76a28c9d446575a8effbd13b8033f"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x6f55219006d76a28c9d446575a8effbd13b8033f",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 2494
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://ripper.onchain.cooking",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/miniapps/ripper/icon.ico",
+            "ogTitle": "Ripper",
+            "ogLocale": "en",
+            "ogDescription": "Retroactive Tipping on Farcaster",
+            "fcFrame": {
+              "button": {
+                "title": "Send a Rip",
+                "action": {
+                  "url": "https://ripper.onchain.cooking/",
+                  "name": "Ripper",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://ripper.onchain.cooking/ripper/splash.png",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://ripper.onchain.cooking/share-image"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Send a Rip",
+            "image": "https://ripper.onchain.cooking/share-image",
+            "frames_url": "https://ripper.onchain.cooking/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 230238,
+              "username": "mvr",
+              "display_name": "mvr 🐹",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a5d4aa0-e46e-4f5f-5b13-9aff6d3a8800/original",
+              "custody_address": "0xb9aecdec70b384990b47201b27187ec6581995ec"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjIzMDIzOCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEI5QWVDZEVjNzBCMzg0OTkwYjQ3MjAxYjI3MTg3RUM2NTgxOTk1ZWMifQ",
+                "payload": "eyJkb21haW4iOiJyaXBwZXIub25jaGFpbi5jb29raW5nIn0",
+                "signature": "MHg2ZWE2Zjk5Njg4YzVjYzkwMTE5MmY2MzEwZTJmODY3NWEyMDZjYjRhNDM4OWFhM2Y1ZDY5YmU2MzU2YTJjNTNhMTFjYmFjMmMzNWQ3NGRhYmVkZDY2ZDEyNGUyNGI4MTk5NGU3YjRkNDU1OGYxZTkyZThlZTJmNzBiZmNhZjI3ZjFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Ripper",
+                "home_url": "https://ripper.onchain.cooking/",
+                "icon_url": "https://ripper.onchain.cooking/ripper/icon.png",
+                "splash_image_url": "https://ripper.onchain.cooking/ripper/splash.png",
+                "splash_background_color": "#121926",
+                "webhook_url": "https://ripper.onchain.cooking/ripper/api/webhook",
+                "subtitle": "Reward your supporters",
+                "description": "Retroactive Tipping on Farcaster",
+                "screenshot_urls": [],
+                "primary_category": "finance",
+                "tags": [
+                  "rewards",
+                  "tips",
+                  "friends",
+                  "engagement",
+                  "money"
+                ],
+                "hero_image_url": "https://ripper.onchain.cooking/ripper/promo.jpg",
+                "tagline": "Reward your supporters",
+                "og_title": "Ripper",
+                "og_description": "Retroactive Tipping on Farcaster",
+                "og_image_url": "https://ripper.onchain.cooking/ripper/promo.jpg",
+                "cast_share_url": "https://ripper.onchain.cooking//cast"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Ripper",
+                "home_url": "https://ripper.onchain.cooking/",
+                "icon_url": "https://ripper.onchain.cooking/ripper/icon.png",
+                "splash_image_url": "https://ripper.onchain.cooking/ripper/splash.png",
+                "splash_background_color": "#121926",
+                "webhook_url": "https://ripper.onchain.cooking/ripper/api/webhook",
+                "subtitle": "Reward your supporters",
+                "description": "Retroactive Tipping on Farcaster",
+                "screenshot_urls": [],
+                "primary_category": "finance",
+                "tags": [
+                  "rewards",
+                  "tips",
+                  "friends",
+                  "engagement",
+                  "money"
+                ],
+                "hero_image_url": "https://ripper.onchain.cooking/ripper/promo.jpg",
+                "tagline": "Reward your supporters",
+                "og_title": "Ripper",
+                "og_description": "Retroactive Tipping on Farcaster",
+                "og_image_url": "https://ripper.onchain.cooking/ripper/promo.jpg",
+                "cast_share_url": "https://ripper.onchain.cooking//cast"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x820d508c",
+    "url": "https://farcaster.xyz/colin/0x820d508c",
+    "author_username": "colin",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 378,
+    "author_pfp": "https://lh3.googleusercontent.com/Bi85y1_3rVxhL-x8O4QSfSAL27fvgDNmjQ-RH05uuIIGI4i-LsS5TWBTStkYZgL2422kVvLoJ2O5FGWEijOGMQFTi_CvEdsotr6t5A",
+    "cast_date": "2025-09-10T04:02:34.000Z",
+    "text": "Over time, financial products become social & social products become financial \n\nhttps://x.com/robinhoodapp/status/1965589746937446623?s=46&t=cgGzF2JBgIxcU6bXp88iZQ",
+    "embeds": [
+      {
+        "url": "https://x.com/robinhoodapp/status/1965589746937446623?s=46&t=cgGzF2JBgIxcU6bXp88iZQ",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/RobinhoodApp/status/1965589746937446623",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Introducing Robinhood Social. Coming next year.<br><br>Show off your recent gains, discuss strategies, follow your favorite traders, and make market moves in real-time.<a href=\"https://twitter.com/hashtag/RobinhoodPresents?src=hash&amp;ref_src=twsrc%5Etfw\">#RobinhoodPresents</a> <a href=\"https://t.co/cLhiCw7bpH\">https://t.co/cLhiCw7bpH</a> <a href=\"https://t.co/LYaLgkcuuM\">pic.twitter.com/LYaLgkcuuM</a></p>&mdash; Robinhood (@RobinhoodApp) <a href=\"https://twitter.com/RobinhoodApp/status/1965589746937446623?ref_src=twsrc%5Etfw\">September 10, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/RobinhoodApp",
+              "author_name": "Robinhood",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd48cd9d4",
+    "url": "https://farcaster.xyz/dwr.eth/0xd48cd9d4",
+    "author_username": "dwr.eth",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-09-10T04:17:26.000Z",
+    "text": "A lot harder to add a social network to your trading app than trading to your social app.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x25d9d342",
+    "url": "https://farcaster.xyz/nounishprof/0x25d9d342",
+    "author_username": "nounishprof",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-09-09T01:10:38.000Z",
+    "text": "During class tonight, we launched the Extra Credit $xtra token which I'll be using during the rest of the semester as a way to demonstrate some tokenomics and allow for them to see a token from creation on. This was done as part of a lecture on tokenomics and review of clanker as a lead up to a tokenomics project they have. (they will develop a concept for their own token). I'll be using this as a reward for students during the class. \n\nWe did do a 30% 30 day lockup. Most of this will be burned with some distributed to holders. In terms of what else we'll be doing with this token, I'll keep you posted. But this primarily will be used as a teaching tool and fees will cover funds I send to the students. (I've already given them .005 eth each plus some usdc to use during the class for various assignments).\n\nI'll also be incorporating this token into Noice for tipping of students who interact on Farcaster. Just giving everyone a heads up on the plans for this token.",
+    "embeds": [
+      {
+        "url": "https://farcaster.xyz/~/c/base:0x97f8a7a113c47c9bb3b2950e6ae5e93f95ab0b07",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x384d9476",
+    "url": "https://farcaster.xyz/goose/0x384d9476",
+    "author_username": "goose",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 225,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd82f5e9-389e-4e79-aba0-f2426021c700/rectcrop3",
+    "cast_date": "2025-09-09T20:42:14.000Z",
+    "text": "worst colors of all time for iPhone Pro",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7692b445-bb99-41b4-b26a-9522897e1700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 754684,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1794,
+            "height_px": 1038
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x952c4504",
+    "url": "https://farcaster.xyz/dwr.eth/0x952c4504",
+    "author_username": "dwr.eth",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-09-09T23:39:39.000Z",
+    "text": "I'm sure the forthcoming AI device will have similar levels of engineering. Run-of-the-mill stuff, you know?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c672d139-0336-4c27-6357-db786cb60100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 561264,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1182,
+            "height_px": 948
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x11cddd2f",
+    "url": "https://farcaster.xyz/jacy/0x11cddd2f",
+    "author_username": "jacy",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 2982,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63552b96-faf4-4480-7775-a93631aaa100/original",
+    "cast_date": "2025-09-09T17:11:39.000Z",
+    "text": "wowww the new apple airpods pro has real-time two-way translation. \n\ntranslates what you’re hearing into your native language directly in-ear. \n\nand translates what you’re saying into theirs via text on your iphone. \n\ninsanely useful.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfa620932",
+    "url": "https://farcaster.xyz/metamask/0xfa620932",
+    "author_username": "metamask",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 222464,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/536899f4-7f5c-44ca-882d-c0c810fe4300/original",
+    "cast_date": "2025-09-10T05:02:54.000Z",
+    "text": "Introducing the Apple x MetaMask iPhone 🦊",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e58846e4-104b-4ceb-59a9-30da7f4e5e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 235696,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1152,
+            "height_px": 1152
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9e2dfaca",
+    "url": "https://farcaster.xyz/supertightwoody/0x9e2dfaca",
+    "author_username": "supertightwoody",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 3702,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8142f07b-3232-41a9-16ca-f9140789f000/original",
+    "cast_date": "2025-09-09T14:55:17.000Z",
+    "text": "I Made a Full Song Using My Dogs 🐶 (Barks, Wags & Woofs)\n\nWhat should I make music with next? 🤔",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/01992ef5-d94f-bccd-641b-9a9374c85428.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 278.575931
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8553ca01",
+    "url": "https://farcaster.xyz/nounishprof/0x8553ca01",
+    "author_username": "nounishprof",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-09-09T16:34:16.000Z",
+    "text": "This is SO FUN! 🐶 go watch how this was made and then collect on @tortoise-on-fc - you crushed this one @supertightwoody  \n(@bertwurst.eth you gotta hear this!)\n\nhttps://tortoise.studio/song/my-dogs",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3702,
+          "hash": "0x9e2dfacaac3181ca07f5197b218e248f56e3961e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x9e2dfacaac3181ca07f5197b218e248f56e3961e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3702,
+            "username": "supertightwoody",
+            "display_name": "Super Tight Woody",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8142f07b-3232-41a9-16ca-f9140789f000/original",
+            "custody_address": "0xecde21944027c7d146dabec70f385a08a96f0278"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9e2dfacaac3181ca07f5197b218e248f56e3961e",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I Made a Full Song Using My Dogs 🐶 (Barks, Wags & Woofs)\n\nWhat should I make music with next? 🤔",
+          "timestamp": "2025-09-09T14:55:17.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.farcaster.xyz/v1/video/01992ef5-d94f-bccd-641b-9a9374c85428.m3u8",
+              "metadata": {
+                "content_type": "application/vnd.apple.mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 480,
+                      "width_px": 852,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 278.575931
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://tortoise.studio/song/my-dogs",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/icon.png",
+            "ogImage": [
+              {
+                "url": "https://gray-adequate-egret-120.mypinata.cloud/ipfs/bafybeicwtmnsqlpcmp4znlkwyspuzg7ly6q7jngqgtyujjpabae77mz3l4"
+              }
+            ],
+            "ogTitle": "My Dogs by Super Tight Woody",
+            "ogLocale": "en",
+            "ogDescription": "Listen to \"My Dogs\" by Super Tight Woody on @tortoise-on-fc",
+            "fcFrame": {
+              "button": {
+                "title": "🎵 Play Song",
+                "action": {
+                  "url": "https://tortoise.studio/song/my-dogs",
+                  "name": "Tortoise",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://tortoise.studio/icon.png",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://gray-adequate-egret-120.mypinata.cloud/ipfs/bafybeicwtmnsqlpcmp4znlkwyspuzg7ly6q7jngqgtyujjpabae77mz3l4"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "🎵 Play Song",
+            "image": "https://gray-adequate-egret-120.mypinata.cloud/ipfs/bafybeicwtmnsqlpcmp4znlkwyspuzg7ly6q7jngqgtyujjpabae77mz3l4",
+            "frames_url": "https://tortoise.studio/song/my-dogs",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 6591,
+              "username": "mattlee",
+              "display_name": "Matt",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f5aac6a1-6ad7-407a-4d8d-8034c2a7b400/original",
+              "custody_address": "0x10e566ae27d6d22801f8fd43c1a619c8417da1de"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjY1OTEsInR5cGUiOiJhdXRoIiwia2V5IjoiMHgxQ2VFNjI5Q2VCMDY1Mzg4NzRmMzBlYWQxMjRjMDA0Q0VDQkViMDg5In0",
+                "payload": "eyJkb21haW4iOiJ0b3J0b2lzZS5zdHVkaW8ifQ",
+                "signature": "m7uSprud16JLNxzNpvhHRsMIYXCEmNH/hmz4r/m2fPdc9BU12XrNhuhzNUvnUq9BklqEGFTDvB0eIT2u1Z2zgRw="
+              },
+              "frame": {
+                "version": "1",
+                "name": "Tortoise",
+                "home_url": "https://tortoise.studio",
+                "icon_url": "https://tortoise.studio/icon.png",
+                "image_url": "https://tortoise.studio/image.png",
+                "button_title": "Open Tortoise",
+                "splash_image_url": "https://tortoise.studio/icon.png",
+                "splash_background_color": "#eeccff",
+                "webhook_url": "https://api.neynar.com/f/app/d4df66ee-7a1f-4bca-88a1-dc12a0ef302b/event",
+                "subtitle": "Social music",
+                "description": "Listen to, collect and share music with your friends",
+                "screenshot_urls": [
+                  "https://tortoise.studio/screenshots/1.png",
+                  "https://tortoise.studio/screenshots/2.png",
+                  "https://tortoise.studio/screenshots/3.png"
+                ],
+                "primary_category": "music",
+                "tags": [
+                  "music",
+                  "social",
+                  "collect",
+                  "share",
+                  "nft"
+                ],
+                "hero_image_url": "https://tortoise.studio/hero.png",
+                "tagline": "Listen, collect, share",
+                "og_title": "Tortoise: Social Music",
+                "og_description": "Listen to, collect and share music with your friends",
+                "og_image_url": "https://tortoise.studio/hero.png",
+                "canonical_domain": "tortoise.studio"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Tortoise",
+                "home_url": "https://tortoise.studio",
+                "icon_url": "https://tortoise.studio/icon.png",
+                "image_url": "https://tortoise.studio/image.png",
+                "button_title": "Open Tortoise",
+                "splash_image_url": "https://tortoise.studio/icon.png",
+                "splash_background_color": "#eeccff",
+                "webhook_url": "https://api.neynar.com/f/app/d4df66ee-7a1f-4bca-88a1-dc12a0ef302b/event",
+                "subtitle": "Social music",
+                "description": "Listen to, collect and share music with your friends",
+                "screenshot_urls": [
+                  "https://tortoise.studio/screenshots/1.png",
+                  "https://tortoise.studio/screenshots/2.png",
+                  "https://tortoise.studio/screenshots/3.png"
+                ],
+                "primary_category": "music",
+                "tags": [
+                  "music",
+                  "social",
+                  "collect",
+                  "share",
+                  "nft"
+                ],
+                "hero_image_url": "https://tortoise.studio/hero.png",
+                "tagline": "Listen, collect, share",
+                "og_title": "Tortoise: Social Music",
+                "og_description": "Listen to, collect and share music with your friends",
+                "og_image_url": "https://tortoise.studio/hero.png",
+                "canonical_domain": "tortoise.studio"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8b7028f4",
+    "url": "https://farcaster.xyz/rachelw/0x8b7028f4",
+    "author_username": "rachelw",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 14396,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmfMJyNCATvCnXrchAuNvLzxatRpRSYPnsUfaHF17RF46U?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-09-04T18:26:02.000Z",
+    "text": "I’m joining the CityKids Foundation as part-time Director of Emerging Tech & Digital Programs.\n\nI’ve loved advising this team for years, and now I’ll help lead the strategy for a vision that belongs onchain: CityKids Speak on Liberty , Keith Haring’s largest work, created with 1,000 kids in the 80s.\n\n90 feet tall. A living, breathing work of Artivism. Known as the people’s masterpiece, it has toured the U.S. and once stood behind Paul McCartney at the Super Bowl.\n\nWe’ve recently uncovered a vault of never-before-seen footage of Keith and the kids creating the banner, now being developed into a documentary for the 2026 festival circuit.\n\nI’m beginning conversations with marketplaces, chains, funders, partners, and auction houses. Let’s chat!",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/base-app/video/upload/sp_auto/v1757010360/video_uploads/33d37862-4241-4d60-8c28-aaf9262aa633.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": 252,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 960,
+                "width_px": 540,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 270,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 7.206732
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfb519f4e",
+    "url": "https://farcaster.xyz/rachelw/0xfb519f4e",
+    "author_username": "rachelw",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 14396,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmfMJyNCATvCnXrchAuNvLzxatRpRSYPnsUfaHF17RF46U?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-09-01T15:32:03.000Z",
+    "text": "Kicking off something new at Good News Studio. Each week, we'll share a thought piece inspired by conversations from our podcast, The Good News Is...diving into culture, tech, and consciousness. First up: the future of health + why ancient wisdom still matters. Full read 👇",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 12312,
+          "hash": "0xcf2296614eb76dd53d9b1b40febb9efdcb348526"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xcf2296614eb76dd53d9b1b40febb9efdcb348526",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12312,
+            "username": "paragraph",
+            "display_name": "Paragraph",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4855b0cc-c1da-482c-de24-962162497200/original",
+            "custody_address": "0x1e8dc1e7210fc6b64cc6d48f1f04acc23d640477"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 12312,
+            "username": "paragraph",
+            "display_name": "Paragraph",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4855b0cc-c1da-482c-de24-962162497200/original",
+            "custody_address": "0x1e8dc1e7210fc6b64cc6d48f1f04acc23d640477"
+          },
+          "thread_hash": "0xcf2296614eb76dd53d9b1b40febb9efdcb348526",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "In a rapidly changing world, advanced technologies in medicine may improve diagnostic capabilities, yet they cannot address the underlying lifestyle choices that profoundly influence health. @rachelw's latest blog emphasizes the need for a holistic approach that prioritizes sleep, nutrition, and emotional wellbeing alongside technological advancements. Highlighting insights from expert Luke Coutinho, the blog navigates toward a future where individual agency and mindful living reframe our collective approach to health and wellness.",
+          "timestamp": "2025-09-01T15:29:54.000Z",
+          "embeds": [
+            {
+              "url": "https://paragraph.com/@goodnews/the-future-of-health-modern-science-meets-ancient-wisdom",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://paragraph.com/@goodnews/the-future-of-health-modern-science-meets-ancient-wisdom",
+                  "ogDate": "2025-09-01T15:29:51.290Z",
+                  "ogType": "article",
+                  "favicon": "https://storage.googleapis.com/papyrus_images/720e9d5e0e56c04d96385b1849fbbf7b.png",
+                  "ogImage": [
+                    {
+                      "alt": "The Future of Health: Modern Science Meets Ancient Wisdom",
+                      "url": "https://storage.googleapis.com/papyrus_images/d28dd0d0f2b52b177fec16f3901bd8a8.jpg",
+                      "type": "jpg",
+                      "width": "1024",
+                      "height": "512"
+                    }
+                  ],
+                  "ogTitle": "The Future of Health: Modern Science Meets Ancient Wisdom",
+                  "ogLocale": "en",
+                  "ogDescription": "We are living in an age of acceleration. Artificial intelligence, biotechnology, and advanced diagnostics are transforming our understanding of the human body at a pace that would have seemed unimaginable just a decade ago. Within five years, experts predict, our approach to disease will look radically different. Already, continuous glucose monitors, genome sequencing, and AI-driven imaging tools are enabling us to detect disease earlier and intervene more precisely. But technology alone cann...",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Read",
+                      "action": {
+                        "url": "https://paragraph.com/@goodnews/the-future-of-health-modern-science-meets-ancient-wisdom?frame=true",
+                        "name": "Paragraph",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                        "splashBackgroundColor": "#26251A"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://paragraph.com/api/og?title=The%20Future%20of%20Health%3A%20Modern%20Science%20Meets%20Ancient%20Wisdom&blogName=Good%20News%20Studio&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F720e9d5e0e56c04d96385b1849fbbf7b.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fd28dd0d0f2b52b177fec16f3901bd8a8.jpg&size=2048&publishedDate=1756740591290"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Read",
+                  "image": "https://paragraph.com/api/og?title=The%20Future%20of%20Health%3A%20Modern%20Science%20Meets%20Ancient%20Wisdom&blogName=Good%20News%20Studio&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F720e9d5e0e56c04d96385b1849fbbf7b.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fd28dd0d0f2b52b177fec16f3901bd8a8.jpg&size=2048&publishedDate=1756740591290",
+                  "frames_url": "https://paragraph.com/@goodnews/the-future-of-health-modern-science-meets-ancient-wisdom",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 12312,
+                    "username": "paragraph",
+                    "display_name": "Paragraph",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4855b0cc-c1da-482c-de24-962162497200/original",
+                    "custody_address": "0x1e8dc1e7210fc6b64cc6d48f1f04acc23d640477"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjEyMzEyLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MUU4ZGMxZTcyMTBGYzZiNjRjQzZENDhmMWYwNEFjYzIzZDY0MDQ3NyJ9",
+                      "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGguY29tIn0",
+                      "signature": "MHgyZDRiMzBmYTc3ZmI0YTBjMTMyMzVjNTM1ZjRmZjU0Nzk1MTg5YjYyZmQ3NzJjMTA4NjE4ZWFmNDQ3ZjFhNzY2N2UyNjViZTc1Nzc1NDVjZjJiNmU0ZWQ3YTJhNDk3OWQ0NDExMzM2ODljNzYyNTM4NTBlNmVkMjZlMTk4MTMwNzFj"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "Paragraph",
+                      "home_url": "https://paragraph.com/home?frame=true",
+                      "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                      "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                      "button_title": "Discover great writing",
+                      "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                      "splash_background_color": "#26251A",
+                      "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                      "subtitle": "Earn from ideas that matter.",
+                      "description": "A new way to earn off your best ideas.",
+                      "primary_category": "news-media",
+                      "tags": [
+                        "blog",
+                        "newsletter",
+                        "writing",
+                        "creator",
+                        "reading"
+                      ],
+                      "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                      "tagline": "Where ideas thrive.",
+                      "og_title": "Paragraph",
+                      "og_description": "A new way to earn off your best ideas.",
+                      "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+                    },
+                    "miniapp": {
+                      "version": "1",
+                      "name": "Paragraph",
+                      "home_url": "https://paragraph.com/home?frame=true",
+                      "icon_url": "https://paragraph.com/branding/v2/logomark.png",
+                      "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                      "button_title": "Discover great writing",
+                      "splash_image_url": "https://paragraph.com/branding/v2/logomark.png",
+                      "splash_background_color": "#26251A",
+                      "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                      "subtitle": "Earn from ideas that matter.",
+                      "description": "A new way to earn off your best ideas.",
+                      "primary_category": "news-media",
+                      "tags": [
+                        "blog",
+                        "newsletter",
+                        "writing",
+                        "creator",
+                        "reading"
+                      ],
+                      "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                      "tagline": "Where ideas thrive.",
+                      "og_title": "Paragraph",
+                      "og_description": "A new way to earn off your best ideas.",
+                      "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd6bf0962",
+    "url": "https://farcaster.xyz/rachelw/0xd6bf0962",
+    "author_username": "rachelw",
+    "show_date": "2025-09-11",
+    "show_title": "From Nounish Sails to Choo-Choo Trains: GM Farcaster ep288 with guest cohost Rachel Wilkins",
+    "source_episode_id": "ZGo4SZ2AHm4",
+    "author_fid": 14396,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmfMJyNCATvCnXrchAuNvLzxatRpRSYPnsUfaHF17RF46U?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-09-09T01:43:24.000Z",
+    "text": "Every year, the first glimpse of the 9/11 remembrance lights stops me in my tracks. A powerful reminder etched into the sky spotted tonight on my walk home from yoga class.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2ddb771e-06de-4827-72f7-e87a80fce200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 407904,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1640,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]
