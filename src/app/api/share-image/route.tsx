@@ -34,7 +34,7 @@ export async function GET(request: Request) {
   // Type for cast data
   interface CastData {
     author_username: string;
-    author_fid?: number;
+    author_fid?: string | number;
   }
   
   if (sharedbyFid) {
