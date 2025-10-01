@@ -11,6 +11,7 @@ interface CastIndexEntry {
   show_date: string;
   show_title: string;
   source_episode_id: string;
+  author_fid?: string;
 }
 
 interface SearchFilters {
@@ -39,6 +40,8 @@ function filterCasts(casts: CastIndexEntry[], filters: SearchFilters): CastIndex
       if (!match) return false;
     }
     if (filters.episode && cast.source_episode_id !== filters.episode) return false;
+    // FID filtering on index data (author_fid is string in index)
+    if (filters.fid && (!cast.author_fid || parseInt(cast.author_fid) !== filters.fid)) return false;
     return true;
   });
 }
@@ -67,7 +70,12 @@ async function enrichCastsWithEpisodeData(casts: CastIndexEntry[]): Promise<Enri
   // Merge index data with enriched data
   return casts.map(cast => {
     const enrichedData = episodeDataMap.get(cast.cast_hash);
-    return enrichedData || cast; // Fallback to index data if enrichment fails
+    if (enrichedData) {
+      // Preserve FID from index data, merge with enriched data
+      return { ...enrichedData, author_fid: cast.author_fid };
+    }
+    // Fallback to index data if enrichment fails
+    return cast;
   });
 }
 
@@ -75,7 +83,7 @@ async function enrichCastsWithEpisodeData(casts: CastIndexEntry[]): Promise<Enri
 function filterEnrichedCasts(casts: EnrichedCast[], filters: SearchFilters): EnrichedCast[] {
   return casts.filter(cast => {
     // FID filtering can only be done on enriched data
-    if (filters.fid && cast.author_fid !== filters.fid) return false;
+    if (filters.fid && cast.author_fid != filters.fid) return false;
     // Username search: starts with (prefix match)
     if (filters.author) {
       const uname = cast.author_username.toLowerCase();
@@ -98,7 +106,7 @@ function detectDuplicates(casts: CastIndexEntry[]): void {
   const duplicates: string[] = [];
   
   casts.forEach(cast => {
-    const key = `${cast.cast_hash}-${cast.author_username}-${cast.show_date}`;
+    const key = `${cast.cast_hash}-${cast.source_episode_id}-${cast.author_username}`;
     if (seen.has(key)) {
       duplicates.push(key);
     } else {
@@ -135,10 +143,14 @@ export async function GET(request: Request) {
       enrichedCasts = filterEnrichedCasts(enrichedCasts, filters);
       enrichedCasts = enrichedCasts.sort((a, b) => (b.cast_date || b.show_date).localeCompare(a.cast_date || a.show_date));
     }
+    
+    // Calculate the correct total before pagination
+    const totalCasts = enrichedCasts.length;
     const paginatedCasts = enrichedCasts.slice(filters.offset, filters.offset! + filters.limit!);
+    
     return NextResponse.json({
       casts: paginatedCasts,
-      total: enrichedCasts.length,
+      total: totalCasts,
       limit: filters.limit,
       offset: filters.offset,
     }, {

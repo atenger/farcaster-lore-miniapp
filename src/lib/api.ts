@@ -93,7 +93,7 @@ export function validateAndCleanCasts(casts: EnrichedCast[]): EnrichedCast[] {
   
   casts.forEach(cast => {
     // Create a unique identifier for each cast
-    const uniqueId = `${cast.cast_hash}-${cast.author_username}-${cast.cast_date || cast.show_date}`;
+    const uniqueId = `${cast.cast_hash}-${cast.author_username}-${cast.source_episode_id}`;
     
     if (seen.has(uniqueId)) {
       duplicates.push(uniqueId);

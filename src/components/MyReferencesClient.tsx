@@ -59,10 +59,11 @@ export default function MyReferencesClient() {
   }, [userFid]);
 
   const loadMore = async () => {
-    if (isLoadingMore || !userFid) return;
+    if (isLoadingMore || !userFid || !hasMore) return;
     
     try {
       setIsLoadingMore(true);
+      setError(null); // Clear any previous errors
       
       const filters: SearchFilters = {
         fid: userFid,
@@ -73,7 +74,15 @@ export default function MyReferencesClient() {
       const response = await searchCasts(filters);
       const cleanedCasts = validateAndCleanCasts(response.casts);
       
-      setCasts(prev => [...prev, ...cleanedCasts]);
+      // Only update if we got new casts
+      if (cleanedCasts.length > 0) {
+        setCasts(prev => [...prev, ...cleanedCasts]);
+      }
+      
+      // Update total if it changed (in case of data updates)
+      if (response.total !== totalCasts) {
+        setTotalCasts(response.total);
+      }
     } catch (error) {
       console.error('Error loading more casts:', error);
       setError('Failed to load more casts. Please try again.');
@@ -83,6 +92,19 @@ export default function MyReferencesClient() {
   };
 
   const hasMore = casts.length < totalCasts;
+  
+  // Debug logging for pagination issues
+  useEffect(() => {
+    if (isDevMode) {
+      console.log('Pagination Debug:', {
+        castsLength: casts.length,
+        totalCasts,
+        hasMore,
+        isLoadingMore,
+        userFid
+      });
+    }
+  }, [casts.length, totalCasts, hasMore, isLoadingMore, userFid, isDevMode]);
 
   // Create share message based on achievement
   const createShareMessage = () => {

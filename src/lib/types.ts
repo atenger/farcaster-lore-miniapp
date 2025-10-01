@@ -7,10 +7,11 @@ export interface CastIndexEntry {
   show_date: string;
   show_title: string;
   source_episode_id: string;
+  author_fid?: string;
 }
 
-export interface EnrichedCast extends CastIndexEntry {
-  author_fid?: number;
+export interface EnrichedCast extends Omit<CastIndexEntry, 'author_fid'> {
+  author_fid?: string | number;
   author_pfp?: string;
   cast_date?: string;
   text?: string;

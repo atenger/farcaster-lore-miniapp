@@ -45,11 +45,11 @@ export default function CastGrid({ casts, onLoadMore, hasMore, isLoading }: Cast
     // Try to create a unique key using multiple fields
     const baseKey = cast.cast_hash;
     const authorKey = cast.author_username;
-    const dateKey = cast.cast_date || cast.show_date;
+    const episodeKey = cast.source_episode_id;
     
-    // If we have a cast date, use it to make the key more unique
-    if (dateKey) {
-      return `${baseKey}-${authorKey}-${dateKey}`;
+    // Use source_episode_id to make the key more unique
+    if (episodeKey) {
+      return `${baseKey}-${authorKey}-${episodeKey}`;
     }
     
     // Fallback to index if we can't create a unique key
@@ -61,7 +61,7 @@ export default function CastGrid({ casts, onLoadMore, hasMore, isLoading }: Cast
     const isDuplicate = unique.find(existing => 
       existing.cast_hash === cast.cast_hash && 
       existing.author_username === cast.author_username &&
-      existing.cast_date === cast.cast_date
+      existing.source_episode_id === cast.source_episode_id
     );
     
     if (!isDuplicate) {

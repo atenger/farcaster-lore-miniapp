@@ -22,9 +22,15 @@ export default function CastCard({ cast }: CastCardProps) {
   };
 
   const truncateText = (text: string | null | undefined, maxLength: number = 200) => {
-    if (!text) return 'Cast not found';
+    if (!text) return null; // Return null for no text, let the component handle display
     if (text.length <= maxLength) return text;
     return text.substring(0, maxLength) + '...';
+  };
+
+  const isCastNotFound = () => {
+    // Cast is not found if enrichment failed or if there's no text AND no embeds
+    return cast.enrichment_status === 'failed' || 
+           (!cast.text && (!cast.embeds || cast.embeds.length === 0));
   };
 
   const getEmbedImage = () => {
@@ -82,22 +88,32 @@ export default function CastCard({ cast }: CastCardProps) {
           window.open(cast.url, '_blank');
         }
       }}>
-        <p className="text-gray-800 text-sm leading-relaxed mb-3">
-          {truncateText(cast.text)}
-        </p>
-        
-        {embedImage && (
-          <div className="mt-3">
-            {/* TODO: Migrate to Next.js <Image /> for optimization */}
-            <img 
-              src={embedImage} 
-              alt="Embed preview"
-              className="w-full h-32 object-cover rounded-lg"
-              onError={(e) => {
-                e.currentTarget.style.display = 'none';
-              }}
-            />
-          </div>
+        {isCastNotFound() ? (
+          <p className="text-gray-500 text-sm italic mb-3">
+            Cast not found
+          </p>
+        ) : (
+          <>
+            {truncateText(cast.text) && (
+              <p className="text-gray-800 text-sm leading-relaxed mb-3">
+                {truncateText(cast.text)}
+              </p>
+            )}
+            
+            {embedImage && (
+              <div className="mt-3">
+                {/* TODO: Migrate to Next.js <Image /> for optimization */}
+                <img 
+                  src={embedImage} 
+                  alt="Embed preview"
+                  className="w-full h-32 object-cover rounded-lg"
+                  onError={(e) => {
+                    e.currentTarget.style.display = 'none';
+                  }}
+                />
+              </div>
+            )}
+          </>
         )}
       </div>
       
