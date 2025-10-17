@@ -1,0 +1,1584 @@
+[
+  {
+    "cast_hash": "0x85a7320a",
+    "url": "https://farcaster.xyz/yerbearserker/0x85a7320a",
+    "author_username": "yerbearserker",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 409857,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2e2e66dd-30c0-4b05-5a05-163fc8dbec00/original",
+    "cast_date": "2025-10-02T14:44:47.000Z",
+    "text": "⚡️ Empire Builder update — October 2, 2025 🏛️⚡️\n( EmpireBuilder.world powered by $glanker )\n\nBig shipping day + live wins across Builders:\n\n🛠️ Fresh Builder features (by @diviflyy )\n1️⃣ $TIPN Affinity custom leaderboards — instantly create a leaderboard of everyone a Farcaster user has tipped with Tipn Affinity NFTs 🔥\n2️⃣ $FARVERSE staked balances now count in Farverse Empire leaderboards 💪\n\nTweet: https://x.com/glankerempire/status/1973753108716290282\nCast: https://farcaster.xyz/diviflyy/0xa4255f76\n\n🕹️ @mfbevan.eth — Slay-to-Earn S2 launches tomorrow 🏆\n• Competitive dungeon mode + fresh leaderboards\n• Prize pool scales with active players\n• Higher conviction = bigger rewards\n• Paper hands lose S2 airdrop (unless they buy back & stake today!)\n\n⏳ Last call to claim S1 — unclaimed funds roll to the $FARVERSE Empire Treasury tomorrow.\nDetails: https://farcaster.xyz/yerbearserker/0x118f28d1\n🎮 Play / stake: https://farcaster.xyz/miniapps/LKH4wBsF1zYm/slay-to-earn\n\n🥇 @chronist — Seamless Empire migration & airdrop\nMoved his long-running $NEON Empire to Clanker v4.1 with zero friction:\n• Exported his old leaderboard (weighted by $NEON + boosters/NFTs)\n• Uploaded it as a Custom CSV Leaderboard in the new $NEONCLUB Empire\n• Instantly airdropped $NEONCLUB to his true core supporters 🎯\n👉 https://farcaster.xyz/yerbearserker/0x62ae5f7c\n\n🎧 @disky.eth — zoundClub is live\nA playful new 3D mini-app club to hang, mint Clanker selfies, burn tokens & vibe — powered by $ZORZOUND + its own Empire.\n👉 https://farcaster.xyz/yerbearserker/0xfcaa8d9f\n\n🥂 Congrats @thedude — $BRIBE hits Champagne Clankers\nBig milestone: first Empire Builder-deployed Arbitrum token to join the Champagne Clankers list 🎉\n👉 https://farcaster.xyz/yerbearserker/0xb65aa39b\n\n⚡ Empire Builder = simple power for creators & builders:\n• No-code token + NFT tracking\n• Dynamic leaderboards (NFT / token / CSV / Tipn Affinity / API)\n• Built-in airdrops & reward tools\n• Treasury & Booster Multipliers\n\n🧑‍🔧 Ready to grow from Dream → Empire?\nDeploy a test token & explore: https://www.empirebuilder.world\nSwing by our Discord https://discord.gg/6g8syHhvs9\nOr just say hi & drop us questions on our Empire Builder /glanker casts!\n\nGlank glank ⚡️🏛️\n~ 🧉🐻⚔️\n\ncc: @dish @kylepatrick.eth @nounishprof @bradq",
+    "embeds": [
+      {
+        "url": "https://EmpireBuilder.world",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogType": "website",
+            "favicon": "/tpng.png",
+            "ogImage": [
+              {
+                "alt": "Empire Builder Logo",
+                "url": "https://www.empirebuilder.world/empiremain.png",
+                "type": "png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Empire Builder",
+            "ogLocale": "en_US",
+            "ogDescription": "The ultimate tool for utility-pilling your tokens",
+            "fcFrame": {
+              "button": {
+                "title": "Build Your Empire",
+                "action": {
+                  "url": "https://www.empirebuilder.world",
+                  "name": "Empire Builder",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://www.empirebuilder.world/tpng.png",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://www.empirebuilder.world/empiremain.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Build Your Empire",
+            "image": "https://www.empirebuilder.world/empiremain.png",
+            "frames_url": "https://empirebuilder.world/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 369863,
+              "username": "diviflyy",
+              "display_name": "DiviFlyy 🏛️",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/68486cbd-1549-4c14-f092-bdcbcfc1d900/original",
+              "custody_address": "0xe1aaf7ec0f3363057c87fefb02b78598b51377b6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM2OTg2MywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGUxYWFGN0VDMEYzMzYzMDU3Qzg3ZmVGQjAyQjc4NTk4QjUxMzc3QjYifQ",
+                "payload": "eyJkb21haW4iOiJlbXBpcmVidWlsZGVyLndvcmxkIn0",
+                "signature": "MHg4MTNiZGM0YmNjMTcxMWU3ZTYyMWY3YTg0MmRlZjk2OWZkODBjNmI1NDZkY2RjMzA4NDAzZmQ4MWFmYjc5NWEzMDY1ZWUyZjQ4MTJmYTc1OTQ0YzI4ZjYyZGRiNmIwMTI0ZTdhNmZlY2ZmZDZkYzQ1Mzc2ODhkN2QyMzg5OTYxMzFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Empire Builder",
+                "home_url": "https://empirebuilder.world",
+                "icon_url": "https://empirebuilder.world/purplepng.png",
+                "image_url": "https://empirebuilder.world/empire2.png",
+                "button_title": "Build Your Empire",
+                "splash_image_url": "https://empirebuilder.world/tpng.png",
+                "splash_background_color": "#000000"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Empire Builder",
+                "home_url": "https://empirebuilder.world",
+                "icon_url": "https://empirebuilder.world/purplepng.png",
+                "image_url": "https://empirebuilder.world/empire2.png",
+                "button_title": "Build Your Empire",
+                "splash_image_url": "https://empirebuilder.world/tpng.png",
+                "splash_background_color": "#000000"
+              }
+            }
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 369863,
+          "hash": "0xa4255f762aec93c4c4b316b8c7a72ac6c06afafa"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa4255f762aec93c4c4b316b8c7a72ac6c06afafa",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 369863,
+            "username": "diviflyy",
+            "display_name": "DiviFlyy 🏛️",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/68486cbd-1549-4c14-f092-bdcbcfc1d900/original",
+            "custody_address": "0xe1aaf7ec0f3363057c87fefb02b78598b51377b6"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa4255f762aec93c4c4b316b8c7a72ac6c06afafa",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/glanker",
+          "root_parent_url": "https://warpcast.com/~/channel/glanker",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "🏛️ Empire Builder update!\n\n1. $TIPN Affinity custom leaderboards are live! Simply enter a username or FID, and you can create a leaderboard of all users that person has tipped using the new Tipn Affinity NFT function 🔥 \n\n2. $FARVERSE leaderboards now take your staked balance into account when calculating your score - so you won't miss out on Farverse Empire rewards if you're staking in the Farverse mini app 💪 \n\ncc. @kompreni @mfbevan.eth @yerbearserker @dish \n\nGet glonky with it!",
+          "timestamp": "2025-10-02T14:11:46.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/02189082-981b-40c0-d00d-2e6b16af9500/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 212826,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 856,
+                  "height_px": 922
+                }
+              }
+            },
+            {
+              "url": "https://farcaster.xyz/~/c/base:0xdfe23e2c07f8edf23eba9c9a45e23303417c6b07",
+              "metadata": {
+                "_status": "PENDING"
+              }
+            },
+            {
+              "url": "https://farcaster.xyz/~/c/base:0x5ba8d32579a4497c12d327289a103c3ad5b64eb1",
+              "metadata": {
+                "_status": "PENDING"
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "glanker",
+            "name": "Empire Builder",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a179fa0-a068-43e8-e7cc-23d442cf5f00/original"
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 409857,
+          "hash": "0x118f28d17d8f52d9f9d9f4b08ced35ce49a4c1f7"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x118f28d17d8f52d9f9d9f4b08ced35ce49a4c1f7",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 409857,
+            "username": "yerbearserker",
+            "display_name": "yerbearserker.base.eth 🏛️",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2e2e66dd-30c0-4b05-5a05-163fc8dbec00/original",
+            "custody_address": "0xb5120cd056353732744c61836a6a045e3bed376c"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x118f28d17d8f52d9f9d9f4b08ced35ce49a4c1f7",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/glanker",
+          "root_parent_url": "https://warpcast.com/~/channel/glanker",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "⏳ Last call to claim your $FARVERSE S1 airdrop — unclaimed funds go into the $FARVERSE Empire Treasury tomorrow! 👀\n(Glank Glank 🫡)\n\n@mfbevan.eth is crushing it with Slay-to-Earn & the expanding $FARVERSE onchain gaming universe (incl. FarPets & Democracy).\nOne of the top game devs on Farcaster right now — shipping real gameplay, real rewards & true player-first design. 🕹️⚡️\n\nSeason Two — Competitive Dungeon Mode — launches tomorrow 🏆\n• Fresh leaderboards to climb\n• Prize pool scales with active players\n• Higher conviction (stakers & holders) = bigger rewards\n• Paper hands get nerfed — Sold airdrop or gameplay rewards? No S2 Airdrop (unless you buy back & stake today!)\n\nStake 100M to unlock the top in-game bonus & Slay to Earn!\n👉 https://farcaster.xyz/miniapps/LKH4wBsF1zYm/slay-to-earn\n\ncc: @dish @kylepatrick.eth @bizarrebeast @linda @diviflyy @floar.eth @afrochicks",
+          "timestamp": "2025-10-02T07:48:41.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 385651,
+                "hash": "0x8182ef03a0f6e98e9720fdb38d54973eed20bfa5"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x8182ef03a0f6e98e9720fdb38d54973eed20bfa5",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 385651
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://farcaster.xyz/miniapps/LKH4wBsF1zYm/slay-to-earn",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://farcaster.xyz/miniapps/01989458-366b-f83f-e7d1-27083dc7f3dc/slay-to-earn",
+                  "ogType": "website",
+                  "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fassets.foundly.dev%2Fslay%2Flogo%2Flogo_256.png&s=90171d5eac52d7b298d2921c4b8d05ae600f10afb79fb8b5aa64e2888f68132e",
+                  "ogImage": [
+                    {
+                      "url": "https://assets.foundly.dev/slay/embed.png",
+                      "type": "png",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "Slay to Earn",
+                  "ogLocale": "en",
+                  "ogSiteName": "Farcaster Mini App",
+                  "ogDescription": "Slay Enemies. Earn Rewards.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Slay to Earn!",
+                      "action": {
+                        "url": "https://slay.farverse.games/",
+                        "name": "Slay to Earn",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://assets.foundly.dev/slay/logo/logo_transparent.png",
+                        "splashBackgroundColor": "#1d0d28"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://assets.foundly.dev/slay/embed.png"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Slay to Earn!",
+                  "image": "https://assets.foundly.dev/slay/embed.png",
+                  "frames_url": "https://farcaster.xyz/miniapps/LKH4wBsF1zYm/slay-to-earn"
+                }
+              }
+            },
+            {
+              "url": "https://farcaster.xyz/~/c/base:0xdfe23e2c07f8edf23eba9c9a45e23303417c6b07",
+              "metadata": {
+                "_status": "PENDING"
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "glanker",
+            "name": "Empire Builder",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a179fa0-a068-43e8-e7cc-23d442cf5f00/original"
+          }
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/miniapps/LKH4wBsF1zYm/slay-to-earn",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz/miniapps/01989458-366b-f83f-e7d1-27083dc7f3dc/slay-to-earn",
+            "ogType": "website",
+            "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fassets.foundly.dev%2Fslay%2Flogo%2Flogo_256.png&s=90171d5eac52d7b298d2921c4b8d05ae600f10afb79fb8b5aa64e2888f68132e",
+            "ogImage": [
+              {
+                "url": "https://assets.foundly.dev/slay/embed.png",
+                "type": "png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Slay to Earn",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster Mini App",
+            "ogDescription": "Slay Enemies. Earn Rewards.",
+            "fcFrame": {
+              "button": {
+                "title": "Slay to Earn!",
+                "action": {
+                  "url": "https://slay.farverse.games/",
+                  "name": "Slay to Earn",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://assets.foundly.dev/slay/logo/logo_transparent.png",
+                  "splashBackgroundColor": "#1d0d28"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://assets.foundly.dev/slay/embed.png"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Slay to Earn!",
+            "image": "https://assets.foundly.dev/slay/embed.png",
+            "frames_url": "https://farcaster.xyz/miniapps/LKH4wBsF1zYm/slay-to-earn"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x72c32b0e",
+    "url": "https://farcaster.xyz/dish/0x72c32b0e",
+    "author_username": "dish",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 15549,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/87fbe83b-1455-4f62-f389-ae82d7452900/original",
+    "cast_date": "2025-10-01T17:18:01.000Z",
+    "text": "Our airdrop contracts have been upgraded with increased admin capabilities!\n\nNew features: \n- Recover unclaimed tokens two weeks after recipients have had full access to their airdrop\n- Choose to add the merkle root post-deployment\n- Change the merkle root if claiming has been live a day and no one has claimed\n\nDocs ⬇️",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x070c00e4",
+    "url": "https://farcaster.xyz/bradq/0x070c00e4",
+    "author_username": "bradq",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-10-06T12:33:42.000Z",
+    "text": "29 Seconds of Farcaster ... What did you miss this weekend?\n\n* Weekends have become $BETR coded recently with @betrmint providing a lot of activity on quiet weekends--poker, spins, & this weekend a partnership and contest with $DRAW as well as their DAU--Dope Artists Unleashed--contest ended. Plus a poker collab with @mintedmerch \n\nIf you think weekends are boring, I suggest notifications on for @toadyhawk.eth & @burr.eth & your weekends will get $BETR \n\n* The Network State Conference is available online here: https://www.youtube.com/live/j22fmkUFJl0 & here is a short clip from @dwr talking about Noice app https://farcaster.xyz/srijan.eth/0x0f427012\n\n* This Week In Mini Apps was with @atown & @nodes talking Emerge & PoolFans | https://farcaster.xyz/linda/0x66c4e38f\n\n* FC Wallet charts got another upgrade, and we expect many more features and upgrades coming off Dan's appearance on /gmfarcaster from Friday...watch here: https://farcaster.xyz/nounishprof/0xe34a6d15\n\n* Speaking of /gmfarcaster they are back at 11:30 AM EST for news, catchup, and the 2nd Clanker Spotlight w/ guests @yerbearserker & @diviflyy joining @adrienne & @nounishprof to talk Empire Builder",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x3b0934c7abdd28319da280a8110e7f070950c640"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x3b0934c7abdd28319da280a8110e7f070950c640",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x3b0934c7abdd28319da280a8110e7f070950c640",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster back tomorrow with a Clanker Spotlight with @yerbearserker and @diviflyy of Empire Builder @glanker! Join @adrienne and I at 11:30 am ET for 29 minutes of Farcaster news followed by our chat with the Empire Builder crew at noon ET. \n\nJoin us on YouTube for the most active chat or watch on Twitter or in our mini app. See you in the GM! \n\nhttps://www.youtube.com/watch?v=mJZL1STM5zM\nhttps://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+          "timestamp": "2025-10-05T18:48:18.000Z",
+          "embeds": [
+            {
+              "url": "https://www.youtube.com/watch?v=mJZL1STM5zM",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.youtube.com/watch?v=mJZL1STM5zM",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/mJZL1STM5zM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"GM Farcaster ep295 Monday October 6, 2025 with Empire Builder\"></iframe>",
+                    "type": "video",
+                    "title": "GM Farcaster ep295 Monday October 6, 2025 with Empire Builder",
+                    "width": 200,
+                    "height": 113,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@GMFarcaster",
+                    "author_name": "GM Farcaster",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/mJZL1STM5zM/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "ogDate": "2025-10-03T10:55:58-07:00",
+                  "ogType": "video.other",
+                  "favicon": "https://www.youtube.com/s/desktop/dae87be3/img/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://i.ytimg.com/vi/mJZL1STM5zM/hqdefault.jpg?v=68e00eae",
+                      "type": "jpg",
+                      "width": "480",
+                      "height": "360"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster ep295 Monday October 6, 2025 with Empire Builder",
+                  "ogVideo": [
+                    {
+                      "url": "https://www.youtube.com/embed/mJZL1STM5zM",
+                      "type": "text/html",
+                      "width": "640",
+                      "height": "360"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "YouTube",
+                  "ogDescription": "Join Adrienne and NounishProf for 29 minutes of Farcaster news followed by a chat with the crew from Empire Builder, the ultimate tool for utility-pilling yo...",
+                  "ogVideoSecureURL": "https://www.youtube.com/embed/mJZL1STM5zM"
+                }
+              }
+            },
+            {
+              "url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://farcaster.xyz/miniapps/0196efb5-5ae3-676b-f83f-869e756c74d0/gm-farcaster",
+                  "ogType": "website",
+                  "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fminiapp.gmfarcaster.com%2Flogo.png&s=9e7f26424405d9b5c54c06233c2a5916f158e16b3037ec32ab93873d7875597d",
+                  "ogImage": [
+                    {
+                      "url": "https://miniapp.gmfarcaster.com/api/share-image?videoId=MA1F_zF_H0U",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster",
+                  "ogLocale": "en",
+                  "ogSiteName": "Farcaster Mini App",
+                  "ogDescription": "Get your daily dose of Farcaster news and culture.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch GM Farcaster",
+                      "action": {
+                        "url": "https://miniapp.gmfarcaster.com",
+                        "name": "GM Farcaster",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://miniapp.gmfarcaster.com/logo.png",
+                        "splashBackgroundColor": "#AF48CF"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://miniapp.gmfarcaster.com/api/share-image?videoId=MA1F_zF_H0U"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch GM Farcaster",
+                  "image": "https://miniapp.gmfarcaster.com/api/share-image?videoId=MA1F_zF_H0U",
+                  "frames_url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/79d86998-f86d-41dc-0ee5-46b40b6f9b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 185506,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1099
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1c77377a",
+    "url": "https://farcaster.xyz/v/0x1c77377a",
+    "author_username": "v",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-10-04T21:12:21.000Z",
+    "text": "Pushed a fix for this, should be coming back to normal soon",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5713,
+          "hash": "0x26e1383ed2a5bcc13688db998ebd1030d6849230"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x26e1383ed2a5bcc13688db998ebd1030d6849230",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5713,
+            "username": "streetphoto",
+            "display_name": "streetphotography.eth",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f3e8d331-1ce3-4d57-fa1e-e32322fef900/rectcrop3",
+            "custody_address": "0xa0c523f92cb8b191258826dab0b5c38211cf846b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 6131,
+            "username": "neynar",
+            "display_name": "Neynar",
+            "pfp_url": "https://i.imgur.com/UjBZ3pV.png",
+            "custody_address": "0xa6a8736f18f383f1cc2d938576933e5ea7df01a1"
+          },
+          "thread_hash": "0x26e1383ed2a5bcc13688db998ebd1030d6849230",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Anyone else experiencing the Farcaster app crashing repeatedly? Can’t use it. There wasn’t a specific thing I did that caused it either, just being on the home feed. @slokh @v ",
+          "timestamp": "2025-10-04T21:08:39.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6494d7a1",
+    "url": "https://farcaster.xyz/v/0x6494d7a1",
+    "author_username": "v",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-10-04T02:17:33.000Z",
+    "text": "Feature Friday: Fast Charts! \n\nCharts now load super fast, have better granularity and show your entries and exits. \n\nh/t @slokh and @tanishq for the fast ship!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3887,
+          "hash": "0xa2e32961a4be55b6a72aeb5ec3ac4abf483e063d"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa2e32961a4be55b6a72aeb5ec3ac4abf483e063d",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3887,
+            "username": "slokh",
+            "display_name": "Kartik",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b845040-5cca-4773-00e3-71bcf41fdb00/original",
+            "custody_address": "0x333601a803cac32b7d17a38d32c9728a93b422f4"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa2e32961a4be55b6a72aeb5ec3ac4abf483e063d",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "We made some improvements to token charts!\n\n- More accurate with faster updates\n- Chart data is more granular\n- See your buys and sells overlayed\n- Haptics / Performance improvements",
+          "timestamp": "2025-10-04T02:13:02.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1634ecd8-acc3-48b3-e8ab-03e982045b00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 287129,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1168,
+                  "height_px": 1404
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa2e32961",
+    "url": "https://farcaster.xyz/slokh/0xa2e32961",
+    "author_username": "slokh",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 3887,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b845040-5cca-4773-00e3-71bcf41fdb00/original",
+    "cast_date": "2025-10-04T02:13:02.000Z",
+    "text": "We made some improvements to token charts!\n\n- More accurate with faster updates\n- Chart data is more granular\n- See your buys and sells overlayed\n- Haptics / Performance improvements",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1634ecd8-acc3-48b3-e8ab-03e982045b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 287129,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1168,
+            "height_px": 1404
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3283b143",
+    "url": "https://farcaster.xyz/nounishprof/0x3283b143",
+    "author_username": "nounishprof",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-10-04T03:55:34.000Z",
+    "text": "It works! dots and all the buy/sell info when you press on the balance 🙌 warplet keeps getting better!",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3887,
+          "hash": "0xbf412fe792ba39571da6bd283bacca731c769312"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbf412fe792ba39571da6bd283bacca731c769312",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3887,
+            "username": "slokh",
+            "display_name": "Kartik",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b845040-5cca-4773-00e3-71bcf41fdb00/original",
+            "custody_address": "0x333601a803cac32b7d17a38d32c9728a93b422f4"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5aa4429e1a75b17b599457103a6044874fa13fa2",
+          "parent_hash": "0xc25acb04ceff3411749b5f4971e6fa454fa2b866",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 4167
+          },
+          "text": "Pressing on the balance section should show you that (or if not will launch soon)",
+          "timestamp": "2025-10-04T01:59:34.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0199ad5b-0dd4-94a9-7018-45ee67549dbb.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1474,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 982,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 736,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 490,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 17.5
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xef3f6981",
+    "url": "https://farcaster.xyz/v/0xef3f6981",
+    "author_username": "v",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-10-06T00:45:08.000Z",
+    "text": "If Farcaster let you import a wallet and use it privately, would you use that feature? \n\nPlease reply or dm me if you would, looking for feedback.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x37b681b8",
+    "url": "https://farcaster.xyz/rhynotic/0x37b681b8",
+    "author_username": "rhynotic",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 231034,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2cf5d209-a0d8-414b-cded-23ded11bac00/original",
+    "cast_date": "2025-10-04T18:43:51.000Z",
+    "text": "I released punkstrategy.fun a few weeks ago, and we're nearing our 24th CryptoPunk purchased by the protocol.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 231034,
+          "hash": "0xc3f2bb3bc8b91ef7dbe8825fdb6c3a3e2952b082"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc3f2bb3bc8b91ef7dbe8825fdb6c3a3e2952b082",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 231034,
+            "username": "rhynotic",
+            "display_name": "Adam",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2cf5d209-a0d8-414b-cded-23ded11bac00/original",
+            "custody_address": "0x87ba75bf473a7edfdb8c9724e7a2c4bb67618fc4"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc3f2bb3bc8b91ef7dbe8825fdb6c3a3e2952b082",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I released punkstrategy.fun a few days ago, and we're nearing our first CryptoPunk purchased by the protocol.",
+          "timestamp": "2025-09-08T17:17:02.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80ac962f-2345-41f3-e801-928c9365f000/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 575983,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1006
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4c3246a8-6479-467a-d1c9-2a390a247200/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 147117,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1006
+                }
+              }
+            },
+            {
+              "url": "https://punkstrategy.fun",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": 5523,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://punkstrategy.fun/",
+                  "ogType": "website",
+                  "favicon": "/punks/punk0298.png",
+                  "ogImage": [
+                    {
+                      "url": "https://punkstrategy.fun/og-image.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "PunkStrategy™",
+                  "ogLocale": "en",
+                  "ogDescription": "Perpertual Punk Machine"
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a3d67972-7e76-4bdd-1ac4-a7104e397300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 607909,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1252
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5d07441f-b5fa-44eb-2d3b-0af1038f6800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 561289,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1252
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe89ad45f",
+    "url": "https://farcaster.xyz/dwr/0xe89ad45f",
+    "author_username": "dwr",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-10-04T16:50:28.000Z",
+    "text": "There’s alpha on Farcaster if you know where to look",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 231034,
+          "hash": "0xc3f2bb3bc8b91ef7dbe8825fdb6c3a3e2952b082"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc3f2bb3bc8b91ef7dbe8825fdb6c3a3e2952b082",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 231034,
+            "username": "rhynotic",
+            "display_name": "Adam",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2cf5d209-a0d8-414b-cded-23ded11bac00/original",
+            "custody_address": "0x87ba75bf473a7edfdb8c9724e7a2c4bb67618fc4"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc3f2bb3bc8b91ef7dbe8825fdb6c3a3e2952b082",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I released punkstrategy.fun a few days ago, and we're nearing our first CryptoPunk purchased by the protocol.",
+          "timestamp": "2025-09-08T17:17:02.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80ac962f-2345-41f3-e801-928c9365f000/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 575983,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1006
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4c3246a8-6479-467a-d1c9-2a390a247200/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 147117,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1006
+                }
+              }
+            },
+            {
+              "url": "https://punkstrategy.fun",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": 5523,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://punkstrategy.fun/",
+                  "ogType": "website",
+                  "favicon": "/punks/punk0298.png",
+                  "ogImage": [
+                    {
+                      "url": "https://punkstrategy.fun/og-image.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "PunkStrategy™",
+                  "ogLocale": "en",
+                  "ogDescription": "Perpertual Punk Machine"
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf7e064db",
+    "url": "https://farcaster.xyz/toadyhawk.eth/0xf7e064db",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-10-05T23:47:21.000Z",
+    "text": "I don’t know what the plan is for curating these top stories on the new search page and keeping them fresh, but in addition to any LLM strategy, I hope the farcaster team will also tap into the feeds of the people who are collating the important stories here every day, like:\n\n@kylepatrick.eth and his README @paragraph \n\n@bradq and his daily threads \n\nand of course \n\n@nounishprof and @adrienne’s GMfarcaster\n\n@drewcoffman.eth also does a nice weekly “this week on base” thread and article.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/22d54bad-7ab3-43c3-ac30-b80411a16a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 137878,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1243
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa7386333",
+    "url": "https://farcaster.xyz/kenny/0xa7386333",
+    "author_username": "kenny",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 2210,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e6f1d0c9-26ff-4701-4bc5-f748256ab900/rectcrop3",
+    "cast_date": "2025-10-04T15:51:50.000Z",
+    "text": "had a lot of fun writing this one\n\nDEGEN, @thehaberdashery, and the story of @davebachinsky's kickflip world record 🎩\n\nhttps://paragraph.com/@poidh/degen-haberdashery-dave-bachinsky-kickflip-world-record",
+    "embeds": [
+      {
+        "url": "https://paragraph.com/@poidh/degen-haberdashery-dave-bachinsky-kickflip-world-record",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://paragraph.com/@poidh/degen-haberdashery-dave-bachinsky-kickflip-world-record",
+            "ogDate": "2025-10-04T03:55:35.526Z",
+            "ogType": "article",
+            "favicon": "https://storage.googleapis.com/papyrus_images/0db0bc2812248048d5d53e983ab69a26.jpg",
+            "ogImage": [
+              {
+                "alt": "Degen, The Haberdashery, and the story of Dave Bachinsky's kickflip world record",
+                "url": "https://storage.googleapis.com/papyrus_images/3a0b72e84ecf038a2b83515266bc1b078f5ffb9e30558671b8899f5af6f7d965.jpg",
+                "type": "jpg",
+                "width": "1024",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "Degen, The Haberdashery, and the story of Dave Bachinsky's kickflip world record",
+            "ogLocale": "en",
+            "ogDescription": "Yesterday, the coolest moment in poidh history dropped: Dave Bachinsky @davebachinsky I’ve never done so many kickflips in my life This was such a gnarly challenge trying to beat this record We made it happen @drsalsaverde !! 176 7:14 AM • Oct 2, 2025 Legendary skateboarder Dave Bachinsky broke the Guinness World Record for most skateboard kickflips in one minute to claim a poidh bounty worth 10 million DEGEN (~$29,000 at the time of claim). How did several different parties come together to ...",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@poidh/degen-haberdashery-dave-bachinsky-kickflip-world-record?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark.png",
+                  "splashBackgroundColor": "#26251A"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=Degen%2C%20The%20Haberdashery%2C%20and%20the%20story%20of%20Dave%20Bachinsky's%20kickflip%20world%20record&blogName=poidh&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F0db0bc2812248048d5d53e983ab69a26.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F3a0b72e84ecf038a2b83515266bc1b078f5ffb9e30558671b8899f5af6f7d965.jpg&size=2048&publishedDate=1759550135526"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=Degen%2C%20The%20Haberdashery%2C%20and%20the%20story%20of%20Dave%20Bachinsky's%20kickflip%20world%20record&blogName=poidh&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F0db0bc2812248048d5d53e983ab69a26.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F3a0b72e84ecf038a2b83515266bc1b078f5ffb9e30558671b8899f5af6f7d965.jpg&size=2048&publishedDate=1759550135526",
+            "frames_url": "https://paragraph.com/@poidh/degen-haberdashery-dave-bachinsky-kickflip-world-record",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 12312,
+              "username": "paragraph",
+              "display_name": "Paragraph",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4855b0cc-c1da-482c-de24-962162497200/original",
+              "custody_address": "0x1e8dc1e7210fc6b64cc6d48f1f04acc23d640477"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEyMzEyLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MUU4ZGMxZTcyMTBGYzZiNjRjQzZENDhmMWYwNEFjYzIzZDY0MDQ3NyJ9",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGguY29tIn0",
+                "signature": "MHgyZDRiMzBmYTc3ZmI0YTBjMTMyMzVjNTM1ZjRmZjU0Nzk1MTg5YjYyZmQ3NzJjMTA4NjE4ZWFmNDQ3ZjFhNzY2N2UyNjViZTc1Nzc1NDVjZjJiNmU0ZWQ3YTJhNDk3OWQ0NDExMzM2ODljNzYyNTM4NTBlNmVkMjZlMTk4MTMwNzFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark_cobalt.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark_white_nopadding.png",
+                "splash_background_color": "#131111",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                "subtitle": "Earn from ideas that matter.",
+                "description": "A new way to earn off your best ideas.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "newsletter",
+                  "writing",
+                  "creator",
+                  "reading"
+                ],
+                "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "tagline": "Where ideas thrive.",
+                "og_title": "Paragraph",
+                "og_description": "A new way to earn off your best ideas.",
+                "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark_cobalt.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark_white_nopadding.png",
+                "splash_background_color": "#131111",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                "subtitle": "Earn from ideas that matter.",
+                "description": "A new way to earn off your best ideas.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "newsletter",
+                  "writing",
+                  "creator",
+                  "reading"
+                ],
+                "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "tagline": "Where ideas thrive.",
+                "og_title": "Paragraph",
+                "og_description": "A new way to earn off your best ideas.",
+                "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x19cc5062",
+    "url": "https://farcaster.xyz/sahil/0x19cc5062",
+    "author_username": "sahil",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 725,
+    "author_pfp": "https://lh3.googleusercontent.com/ELQOEk4_UQ1iLnH3VBoNovAoYrEn2Fpm73fQb8cE1wsVCFLwU6eT3USqlb7P8Ju6JLBKacWt_otOsOHy0GrZOumx7xQk_i-42lO97A",
+    "cast_date": "2025-10-03T18:30:39.000Z",
+    "text": "we just made new user growth and onboarding for channels super simple,  measurable, and easier to coordinate among mods\n\nchannel mods\n→ create multiple invite links\n→ track usage for each link and recycle anytime\n→ allocate unique links to others (like top contributors in channel)\n→ access analytics on invite link usage and new user contribution\n\nnew users\n→ receive an invite link and join the channel directly (multiple abstractions)\n→ land on a welcome page with channel rules, suggested follows, and first cast actions\n\nworking on improving speed of signup flows",
+    "embeds": [
+      {
+        "url": "https://videos.cura.network/v/982ee3542c88c2adecc478f481198f0b/video.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1832,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1222,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 814,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 610,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 406,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 51
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa76b392d",
+    "url": "https://farcaster.xyz/ahn.eth/0xa76b392d",
+    "author_username": "ahn.eth",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 8004,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cca05e9f-4f52-45c9-ebdb-c60ec8f93d00/rectcrop3",
+    "cast_date": "2025-10-06T08:23:34.000Z",
+    "text": "gm 🎩💻",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/30f67266-452f-4f95-0f12-0cd7f5c56c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 413531,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1998,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3c5a474e-0e0d-4a01-a8fc-135ef8b5b900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 345789,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1998,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cbcca168-61cc-48bd-9322-2cbbb42dc900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 442047,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1999,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/126f2e9a-d164-4979-5bcc-643bc1eb8200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 438604,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1998,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2e75b999",
+    "url": "https://farcaster.xyz/kmacb.eth/0x2e75b999",
+    "author_username": "kmacb.eth",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 4163,
+    "author_pfp": "https://images.colorino.site/cc214ccf3914a741130fbae423610b69406f9c7052751bd24bd0703e6d604686.png",
+    "cast_date": "2025-10-04T15:36:23.000Z",
+    "text": "It’s not @adrienne I swear",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0199afdd-a0a2-6985-77a4-a8c25061bd15.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 872,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 654,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 436,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 10
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x511502bb",
+    "url": "https://farcaster.xyz/mikedemarais.eth/0x511502bb",
+    "author_username": "mikedemarais.eth",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 534,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9059e9f0-9d7e-4cb2-24ae-900ad80f0600/rectcrop3",
+    "cast_date": "2025-10-04T03:05:12.000Z",
+    "text": "rainbow.me/icons",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0199ad2d-c01e-252d-a8c8-9e206b377446.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 872,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 654,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 436,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 9.69
+          }
+        }
+      },
+      {
+        "url": "https://rainbow.me/icons",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x902d5d60",
+    "url": "https://farcaster.xyz/nounishprof/0x902d5d60",
+    "author_username": "nounishprof",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-10-06T14:21:06.000Z",
+    "text": "they are way too perky — I think we’re safe (for now) @adrienne",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 17355,
+          "hash": "0x71c6d118344e4ce64eb6927d8faeeccb68c29579"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x71c6d118344e4ce64eb6927d8faeeccb68c29579",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 17355,
+            "username": "degencummunist.eth",
+            "display_name": "𝖘𝖈𝖚𝖒",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cf9c8b85-05b2-4a37-e2ed-e00cf2b44f00/original",
+            "custody_address": "0xd2c73c7401762c018dbe5e8c6da06eafb0a65b56"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x71c6d118344e4ce64eb6927d8faeeccb68c29579",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM @farcaster \n\n@adrienne @nounishprof",
+          "timestamp": "2025-10-06T13:48:58.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.farcaster.xyz/v1/video/0199b9c7-e6f4-247c-85c2-25aace912b3b.m3u8",
+              "metadata": {
+                "content_type": "application/vnd.apple.mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 872,
+                      "width_px": 480,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 654,
+                      "width_px": 360,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 436,
+                      "width_px": 240,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 10
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "farcaster",
+            "name": "Farcaster",
+            "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc1ee2f0c",
+    "url": "https://farcaster.xyz/pederzani/0xc1ee2f0c",
+    "author_username": "pederzani",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 938091,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0aa9152-70b1-465d-9b01-a468105f8500/original",
+    "cast_date": "2025-10-04T02:21:34.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0199ad05-f6a5-a34a-b841-e546e040a179.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 872,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 654,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 436,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 10
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe2e5dcaf",
+    "url": "https://farcaster.xyz/adrienne/0xe2e5dcaf",
+    "author_username": "adrienne",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 5818,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmUde33nkJWk9gGWQXHLhSrjBfGjDosrH9dKWSpLURkZZC?pinataGatewayToken=PMz6RFTDuk-300OttNnb_U0PSKbbXQdzLmUqdiEq7lesXcsVK8TK7S5GoOtxRGl2",
+    "cast_date": "2025-10-05T19:34:38.000Z",
+    "text": "Oh did you say you want more eagle hunter content?",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0199b5de-0f1c-1f29-0eaf-c93b5b8f59e1.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 872,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 654,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 436,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 9.69
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd6c4eaaa",
+    "url": "https://farcaster.xyz/horsefacts.eth/0xd6c4eaaa",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-10-06",
+    "show_title": "Building Empires: GM Farcaster ep295 with Jordan from Empire Builder",
+    "source_episode_id": "qRjQxkihNpQ",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/202fea64-6f17-42eb-9722-db2eee869a00/original",
+    "cast_date": "2025-10-01T19:55:36.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4294,
+          "hash": "0xbd30e13a352846d2ceb5db51d107402934d36e20"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbd30e13a352846d2ceb5db51d107402934d36e20",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4294,
+            "username": "tricil",
+            "display_name": "tricil",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ddd583af-5a09-4635-b274-1a061872bf00/original",
+            "custody_address": "0x644ec1de03d02753482c904982d075d7354f6657"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xbd30e13a352846d2ceb5db51d107402934d36e20",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "sloptober",
+          "timestamp": "2025-10-01T18:04:45.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0199a157-ca6c-52c0-d162-25e4abbfc8fc.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 872,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 654,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 436,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 10
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

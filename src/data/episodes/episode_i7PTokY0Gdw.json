@@ -1,0 +1,1268 @@
+[
+  {
+    "cast_hash": "0x97315c87",
+    "url": "https://farcaster.xyz/pugson/0x97315c87",
+    "author_username": "pugson",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 557,
+    "author_pfp": "https://i.seadn.io/gae/5hjYfRyqiRJV4EQ7ieSJrmb1LtO_vcAvREXSqnlY4HXXBsvgh1vumOwj5e4GwGhppEU2jLC9qJHEgEkaJ9V_B02jIFY9XmzgK1_F?w=500&auto=format",
+    "cast_date": "2025-10-09T00:44:20.000Z",
+    "text": "i like living life though purple tinted glasses",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 426,
+          "hash": "0xe65f1474bf38cf2dcd4b9d95616ee0040f10e441"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe65f1474bf38cf2dcd4b9d95616ee0040f10e441",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 426,
+            "username": "brianjckim",
+            "display_name": "Brian Kim",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/42872000-12c5-4b57-cd79-55f889997600/original",
+            "custody_address": "0xa0d3e165c60ae136ab1189c99f0933298267dc5d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe65f1474bf38cf2dcd4b9d95616ee0040f10e441",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "starting to feel like one of those step change moments for the purple app",
+          "timestamp": "2025-10-09T00:10:38.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe65f1474",
+    "url": "https://farcaster.xyz/brianjckim/0xe65f1474",
+    "author_username": "brianjckim",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 426,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/42872000-12c5-4b57-cd79-55f889997600/original",
+    "cast_date": "2025-10-09T00:10:38.000Z",
+    "text": "starting to feel like one of those step change moments for the purple app",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x00828dc2",
+    "url": "https://farcaster.xyz/dwr/0x00828dc2",
+    "author_username": "dwr",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-10-08T20:54:26.000Z",
+    "text": "New on Farcaster: support for BSC\n\nSwaps, sends and trending tokens are live today.\n\nInstant cross-chain swaps -- no bridging required!\n\nBinance Smart Chain is an EVM chain popular in Asia. Recently it's seen a surge of new tokens and trading volume.\n\nWe've heard from our most active wallet users they would be interested in trading on BSC but it's too much of a hassle to bridge and get set up with a new wallet.\n\nNow you can just do it from Farcaster wallet—it just works.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e6c2080c-9774-43fc-65ca-5fb7e7766900/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 304533,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1125
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2ff9310f",
+    "url": "https://farcaster.xyz/dwr/0x2ff9310f",
+    "author_username": "dwr",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-10-08T22:05:10.000Z",
+    "text": "Instant cross-chain swaps to BSC",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0199c5da-f12f-30fb-b1ea-7e76d2156eab.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1440,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 960,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 320,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 11.3
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa1b1c478",
+    "url": "https://farcaster.xyz/horsefacts.eth/0xa1b1c478",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/202fea64-6f17-42eb-9722-db2eee869a00/original",
+    "cast_date": "2025-10-08T21:49:31.000Z",
+    "text": "尊贵的交易员们，能成为您们的退出流动性，我深感荣幸。🫡",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x00828dc23d5d4b434d19de35520bf18487291840"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x00828dc23d5d4b434d19de35520bf18487291840",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x00828dc23d5d4b434d19de35520bf18487291840",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "New on Farcaster: support for BSC\n\nSwaps, sends and trending tokens are live today.\n\nInstant cross-chain swaps -- no bridging required!\n\nBinance Smart Chain is an EVM chain popular in Asia. Recently it's seen a surge of new tokens and trading volume.\n\nWe've heard from our most active wallet users they would be interested in trading on BSC but it's too much of a hassle to bridge and get set up with a new wallet.\n\nNow you can just do it from Farcaster wallet—it just works.",
+          "timestamp": "2025-10-08T20:54:26.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e6c2080c-9774-43fc-65ca-5fb7e7766900/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 304533,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1125
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9d673664",
+    "url": "https://farcaster.xyz/toadyhawk.eth/0x9d673664",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-10-08T23:39:10.000Z",
+    "text": "I just blindly copytraded a Chinese whale on here into a mandarin memecoin on BSC and made $1200 in 25 minutes. Incredible tech @slokh",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa9b66740",
+    "url": "https://farcaster.xyz/v/0xa9b66740",
+    "author_username": "v",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-10-08T21:48:44.000Z",
+    "text": "He literally shipped BSC in < 24 hours",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3887,
+          "hash": "0x034e204e0b0a900ea558751d00981ee3c7f158f6"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x034e204e0b0a900ea558751d00981ee3c7f158f6",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3887,
+            "username": "slokh",
+            "display_name": "Kartik",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b845040-5cca-4773-00e3-71bcf41fdb00/original",
+            "custody_address": "0x333601a803cac32b7d17a38d32c9728a93b422f4"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x034e204e0b0a900ea558751d00981ee3c7f158f6",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "~24 hours from \"we should do this\" to \"we did this\"",
+          "timestamp": "2025-10-08T21:45:50.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 3,
+                "hash": "0x00828dc23d5d4b434d19de35520bf18487291840"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x00828dc23d5d4b434d19de35520bf18487291840",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8143770f",
+    "url": "https://farcaster.xyz/v/0x8143770f",
+    "author_username": "v",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 2,
+    "author_pfp": "https://i.seadn.io/gae/sYAr036bd0bRpj7OX6B-F-MqLGznVkK3--DSneL_BT5GX4NZJ3Zu91PgjpD9-xuVJtHq0qirJfPZeMKrahz8Us2Tj_X8qdNPYC-imqs?w=500&auto=format",
+    "cast_date": "2025-10-08T21:07:05.000Z",
+    "text": "Found him in the corner of the office like this, frozen with a smile on his face, whispering \"imagine if we had just stuck with the warplet\"",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/01bf0c12-62c9-4c11-1ca1-632fb498d700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 301399,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1024
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x86cdec47",
+    "url": "https://farcaster.xyz/ted/0x86cdec47",
+    "author_username": "ted",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-10-08T21:52:19.000Z",
+    "text": "yoooo i actually personally do NOT want people knowing what i buy\n\nlet me choose to make this private or public like venmo come on\n\notherwise doing my large volume trades in other wallets",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c1e49e61-d8e7-4515-6f7a-9c43f435ac00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 85771,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 650,
+            "height_px": 550
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x567cb0fc",
+    "url": "https://farcaster.xyz/deployer/0x567cb0fc",
+    "author_username": "deployer",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 4482,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8614dfae-0aa3-48ee-ef1b-6c5dc59db800/original",
+    "cast_date": "2025-10-09T22:04:29.000Z",
+    "text": "They just booted @bankr off of Telegram and X within 1 hour from each other. \n\nyou can still interact with bankr through the private terminal at http://bankr.bot and decentralized options like Farcaster, XMTP, and the Base App. \n\nwe'll try to connect with these platforms to get everyone's favorite money buddy back online in those places.",
+    "embeds": [
+      {
+        "url": "http://bankr.bot",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 904,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.bankr.bot/",
+            "ogType": "website",
+            "favicon": "/favicon.svg",
+            "ogImage": [
+              {
+                "url": "https://www.bankr.bot/crypto-ai-agent-banker.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Bankr - Your Friendly AI-Powered Crypto Banker",
+            "ogLocale": "en",
+            "ogDescription": "Bankr is an AI agent that can buy, sell, swap coins and place limit orders.",
+            "fcFrame": {
+              "button": {
+                "title": "Try Bankr Now",
+                "action": {
+                  "url": "https://bankr.bot/terminal",
+                  "name": "Bankr",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://bankr.bot/bankr-spinning-small.gif",
+                  "splashBackgroundColor": "#a78bfa"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://bankr.bot/frame-embed.jpg"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Try Bankr Now",
+            "image": "https://bankr.bot/frame-embed.jpg",
+            "frames_url": "http://bankr.bot/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 4482,
+              "username": "deployer",
+              "display_name": "Deployer",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8614dfae-0aa3-48ee-ef1b-6c5dc59db800/original",
+              "custody_address": "0xda8c2a87afe4a1855cc48ddd7d411b8317048df0"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjQ0ODIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhEQThDMmE4N2FGZTRBMTg1NWNDNDhkZGQ3ZDQxMUI4MzE3MDQ4ZGYwIn0",
+                "payload": "eyJkb21haW4iOiJiYW5rci5ib3QifQ",
+                "signature": "MHgwNDllNmE0YmNjZTczNjdhNmMzODliMjBlNjBhZGM3ODc5ZTQ1NTQ1OWFhOWMwOWRiOGRkMzUzNDFlMmUwMDg3NmMxNzcxYmQ5ZTNmZjExYTMwY2Y4M2QyNzA5OTY3NTcxNzJlY2I1NjBjZGZjYTJmNzQ2NjVjNjVlZjE2NmU2MTFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Bankr",
+                "home_url": "https://bankr.bot/terminal",
+                "icon_url": "https://bankr.bot/frame-icon.jpg",
+                "splash_image_url": "https://bankr.bot/bankr-spinning-small.gif",
+                "splash_background_color": "#a78bfa",
+                "webhook_url": "https://api.neynar.com/f/app/79dcaca8-33c3-48f1-a47b-8d4fe3fa441e/event",
+                "subtitle": "AI-Powered Crypto Companion",
+                "description": "Buy, sell, swap, place limit orders, deploy coins and manage your wallet effortlessly—just by sending a message.",
+                "primary_category": "finance",
+                "tags": [
+                  "crypto",
+                  "defi",
+                  "wallet",
+                  "trading",
+                  "ai"
+                ],
+                "required_chains": [
+                  "eip155:8453",
+                  "eip155:137",
+                  "eip155:1"
+                ],
+                "cast_share_url": "https://bankr.bot/terminal"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Bankr",
+                "home_url": "https://bankr.bot/terminal",
+                "icon_url": "https://bankr.bot/frame-icon.jpg",
+                "splash_image_url": "https://bankr.bot/bankr-spinning-small.gif",
+                "splash_background_color": "#a78bfa",
+                "webhook_url": "https://api.neynar.com/f/app/79dcaca8-33c3-48f1-a47b-8d4fe3fa441e/event",
+                "subtitle": "AI-Powered Crypto Companion",
+                "description": "Buy, sell, swap, place limit orders, deploy coins and manage your wallet effortlessly—just by sending a message.",
+                "primary_category": "finance",
+                "tags": [
+                  "crypto",
+                  "defi",
+                  "wallet",
+                  "trading",
+                  "ai"
+                ],
+                "required_chains": [
+                  "eip155:8453",
+                  "eip155:137",
+                  "eip155:1"
+                ],
+                "cast_share_url": "https://bankr.bot/terminal"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0638b0e3",
+    "url": "https://farcaster.xyz/ted/0x0638b0e3",
+    "author_username": "ted",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 239,
+    "author_pfp": "https://openseauserdata.com/files/fd28c65d9b5192168fb259009a3afd36.png",
+    "cast_date": "2025-10-10T01:58:55.000Z",
+    "text": "nikita in @dwr mode",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/51d0c982-fa25-4ce6-52bf-098ff2605c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 170873,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1538
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc8b8a6a3",
+    "url": "https://farcaster.xyz/bertwurst.eth/0xc8b8a6a3",
+    "author_username": "bertwurst.eth",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 864405,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0a933a84-7f05-42da-9e4d-1b7d10507600/original",
+    "cast_date": "2025-10-09T22:03:19.000Z",
+    "text": "ˢᵒᵐᵉᵗᶦᵐᵉˢ ᴵ ᵐᶦˢˢ ᵗʰᵉ ᵗʳᵉⁿᵈᶦⁿᵍ ᶠᵉᵉᵈ",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfb37f041",
+    "url": "https://farcaster.xyz/dwr/0xfb37f041",
+    "author_username": "dwr",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-10-09T14:43:21.000Z",
+    "text": "Counter: the biggest wealth event this cycle was $HYPE.\n\nThey built a better mousetrap.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 7143,
+          "hash": "0xd4a10150a78d2e7caf77ac908541b58708743fae"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd4a10150a78d2e7caf77ac908541b58708743fae",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 7143,
+            "username": "six",
+            "display_name": "six",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/099fd9ad-9186-4efa-c063-d325d08b1300/original",
+            "custody_address": "0xe7339c6f99c1026b0e43cbb5f6fa1d6da6bc4579"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd4a10150a78d2e7caf77ac908541b58708743fae",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "feel like the truly asymmetric outcomes in crypto are when people invent or at least catalyze adoption of a new financial product. not product as in app, but like a new asset class/structure.",
+          "timestamp": "2025-10-09T03:25:31.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd4a10150",
+    "url": "https://farcaster.xyz/six/0xd4a10150",
+    "author_username": "six",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 7143,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/099fd9ad-9186-4efa-c063-d325d08b1300/original",
+    "cast_date": "2025-10-09T03:25:31.000Z",
+    "text": "feel like the truly asymmetric outcomes in crypto are when people invent or at least catalyze adoption of a new financial product. not product as in app, but like a new asset class/structure.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x403a7bea",
+    "url": "https://farcaster.xyz/neynar/0x403a7bea",
+    "author_username": "neynar",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 6131,
+    "author_pfp": "https://i.imgur.com/UjBZ3pV.png",
+    "cast_date": "2025-10-08T21:09:03.000Z",
+    "text": "big release! we now have a webhook that triggers when farcaster users complete trades.\n\nyou can filter by FIDs, neynar score, or minimum USD amount. great for setting up alerts, custom products around social trading, and more. \n\n(just on Base to start)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 20603,
+          "hash": "0xfc3654280223eb1c63e787eac5a4a92df6385278"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xfc3654280223eb1c63e787eac5a4a92df6385278",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 20603,
+            "username": "topocount.eth",
+            "display_name": "Topocount",
+            "pfp_url": "https://i.imgur.com/HkvtlF5.jpg",
+            "custody_address": "0xabf14cde5363681ed0e59a3edb113de189dcf65b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xfc3654280223eb1c63e787eac5a4a92df6385278",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/fc-devs",
+          "root_parent_url": "https://warpcast.com/~/channel/fc-devs",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "It's pretty hard to find onchain activity that is directly associated with farcaster users, since you not only need to index onchain activity but also to index farcaster activity. Our first product that solves this a webhook payload that triggers whenever a farcaster user completes a trade. You can filter webhook deliveries by neynar user score, a list of fids, or minimum trade amount denominated in USDC! Try it out either via the api or the dev portal https://docs.neynar.com/reference/publish-webhook#body-subscription-trade-created https://dev.neynar.com/webhook/create\n\nbig ups to @quazia and @arpita-205 for this one\n\n🪐",
+          "timestamp": "2025-10-08T20:56:39.000Z",
+          "embeds": [
+            {
+              "url": "https://docs.neynar.com/reference/publish-webhook#body-subscription-trade-created",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://docs.neynar.com/reference/publish-webhook",
+                  "ogType": "website",
+                  "favicon": "/mintlify-assets/_mintlify/favicons/neynar/3WfJgs2Xhfdlo048/_generated/favicon/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://neynar.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DWebhook%26appearance%3Ddark%26title%3DCreate%2Ba%2Bwebhook%26description%3DCreate%2Ba%2Bwebhook%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fneynar%252FV7Un5QUQSGJFAZfS%252Flogo%252Flogo-light.png%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DV7Un5QUQSGJFAZfS%2526q%253D85%2526s%253D2a3b3ddc57b5449fa9ebe459b2bcecec%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fneynar%252FV7Un5QUQSGJFAZfS%252Flogo%252Flogo-dark.png%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DV7Un5QUQSGJFAZfS%2526q%253D85%2526s%253D8890fa376e4f82dd1145f9c9a85814cb%26primaryColor%3D%2523482b82%26lightColor%3D%25238512e0%26darkColor%3D%2523482b82%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230b090f&w=1200&q=100",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "Neynar Documentation",
+                  "ogLocale": "en",
+                  "ogSiteName": "Neynar Docs",
+                  "ogDescription": "Create a webhook"
+                }
+              }
+            },
+            {
+              "url": "https://dev.neynar.com/webhook/create",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogLocale": "en"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "fc-devs",
+            "name": "Farcaster Devs",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a0a4802-6819-47ee-2c3b-29b681d7c500/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8762dbe0",
+    "url": "https://farcaster.xyz/jacob/0x8762dbe0",
+    "author_username": "jacob",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 8,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89ed9bfb-655c-472d-e907-6a3da8d2ec00/rectcrop3",
+    "cast_date": "2025-10-08T22:20:56.000Z",
+    "text": "I’m pretty sure that Farcaster objectively has the most comprehensive crypto trading app in the market right now on an asset coverage basis? Even compared to centralized exchanges. \n\nRight now you can trade more assets more seamlessly than anywhere else. \n\nVery cool to see.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x6c237d8d",
+    "url": "https://farcaster.xyz/jc4p/0x6c237d8d",
+    "author_username": "jc4p",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 977233,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+    "cast_date": "2025-10-08T21:48:12.000Z",
+    "text": "oh also the hugging face datasets are updated for september (200M casts) + i made these graphs using them https://huggingface.co/datasets/jc4p/farcaster-casts",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e4c02bd6-2cb2-4950-b120-4dea7f8b6000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 245737,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1093
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/33cddbba-9a66-472e-498c-c29bb25ebf00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 100504,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 926
+          }
+        }
+      },
+      {
+        "url": "https://huggingface.co/datasets/jc4p/farcaster-casts",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 599669,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://huggingface.co/datasets/jc4p/farcaster-casts",
+            "ogType": "website",
+            "ogImage": [
+              {
+                "url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/jc4p/farcaster-casts.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "jc4p/farcaster-casts · Datasets at Hugging Face",
+            "ogDescription": "We’re on a journey to advance and democratize artificial intelligence through open source and open science."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x510c844c",
+    "url": "https://farcaster.xyz/chasesommer/0x510c844c",
+    "author_username": "chasesommer",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 375245,
+    "author_pfp": "https://i.imgur.com/IiIozsy.png",
+    "cast_date": "2025-10-08T12:29:27.000Z",
+    "text": "I’ve been on Farcaster for like 1.5 years now - essentially every day\n\nHere’s what I’ve observed about this space \n\nPeople seem to forget to zoom out and look at progress of this space\n\nI feel like people expect the Farcaster team to create $DEGEN and $CLANKER moments out of thin air, when in fact it was the community who made those things\n\nWe are so early in this space that people make fun of us still on X - I see that as a good thing. It confirms being early. \n\nBeyond simply making money off rewards or tips, you are building a dope network of people. I think in 10 years we will all be called the cabal lol (including @geoffgolberg)\n\nI’m not technical, but I do have good intuition. My intuition says to keep going. Keep building on Farcaster and connecting. It will be worth it :)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x97b80b31",
+    "url": "https://farcaster.xyz/jesse.base.eth/0x97b80b31",
+    "author_username": "jesse.base.eth",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 99,
+    "author_pfp": "https://tba-mobile.mypinata.cloud/ipfs/QmdD5hZrJz1CDVLs2Tg5JLnNR8hjWFVZmMqVWRAWoWYFJd?pinataGatewayToken=3nq0UVhtd3rYmgYDdb1I9qv7rHsw-_DzwdWkZPRQ-QW1avFI9dCS8knaSfq_R5_q",
+    "cast_date": "2025-10-08T18:52:40.000Z",
+    "text": "EVERY BASE MEMECOIN IS NOW ON COINBASE",
+    "embeds": [
+      {
+        "url": "zoraCoin://0x147dcaa11746b459c63244d6e4a47b0ea7c17c92",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x44b53073",
+    "url": "https://farcaster.xyz/metamask/0x44b53073",
+    "author_username": "metamask",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 222464,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/536899f4-7f5c-44ca-882d-c0c810fe4300/original",
+    "cast_date": "2025-10-08T13:05:44.000Z",
+    "text": "🚨 PERPS ARE NOW LIVE 🚨\n\nYou can start trading perps on MetaMask Mobile.\n\nAnd rewards are coming soon. 🧵👇",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0199c3db-494b-e5fe-b079-17a68c86e379.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1920,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 852,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 640,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 426,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 33
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x04940da0",
+    "url": "https://farcaster.xyz/diviflyy/0x04940da0",
+    "author_username": "diviflyy",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 369863,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/68486cbd-1549-4c14-f092-bdcbcfc1d900/original",
+    "cast_date": "2025-10-08T12:05:00.000Z",
+    "text": "Empire Tiny Interns are now live!! 🏛️🤖 \n\nYou can now deploy an AI assistant (and create its custom personality) to serve as your Empire's dedicated intern on Farcaster. \n\nAnyone can simply tag your Tiny Intern to ask for comprehensive details of your Empire's leaderboards, boosters, treasury holdings, and reward distributions.\n\nAll powered by @tinylabs and $SMOL \n\nMassive thank you to @mesutgulecen and the tinylabs team for making this possible! Huge effort from their end - forever grateful to these legends and what they are building 💪 \n\ncc. @yerbearserker @dish \n\nhttps://farcaster.xyz/tinylabs/0x36caf6de",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 900657,
+          "hash": "0x36caf6de12c9d500aa921f144eb0daf2dd32f178"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x36caf6de12c9d500aa921f144eb0daf2dd32f178",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 900657,
+            "username": "tinylabs",
+            "display_name": "TinyLabs",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/502d39f1-50d9-48af-fed4-8faaf6303000/rectcrop3",
+            "custody_address": "0xb471f2c6206306e44c6d12354c5545323411561f"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x36caf6de12c9d500aa921f144eb0daf2dd32f178",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/glanker",
+          "root_parent_url": "https://warpcast.com/~/channel/glanker",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "We’re happy to announce our first B2B partner — empirebuilder.world\n\nTogether, we’re building the first case study for the upcoming TinyAgents API — a framework that lets any client deploy autonomous Farcaster growth agents trained on their own data.\n\nThis partnership will allow every Empire holder to launch their own on-chain agent — fully automated, fully composable.\n\nAll running on $SMOL — now expanding from social to B2B infrastructure.",
+          "timestamp": "2025-10-06T15:48:09.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9deebc67-2099-4cb7-defb-0e9b2858ae00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 157945,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1125
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "glanker",
+            "name": "Empire Builder",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a179fa0-a068-43e8-e7cc-23d442cf5f00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x992e5918",
+    "url": "https://farcaster.xyz/antimofm.eth/0x992e5918",
+    "author_username": "antimofm.eth",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 4923,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4cf9cf02-1813-42d7-55bc-e1e53fce3100/original",
+    "cast_date": "2025-10-08T22:33:52.000Z",
+    "text": "This is not a drill \n\nStarting this Friday @ 2pm GMT, I'll be roasting mini apps live on stream\n\nRSVP on https://luma.com/o6b8znir\n\n/red lives",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/97f075dc-fe6d-44b1-a354-8a9064129800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 231857,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1000,
+            "height_px": 1000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xeade94cb",
+    "url": "https://farcaster.xyz/awedjob/0xeade94cb",
+    "author_username": "awedjob",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 8332,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4358a797-a428-4d25-40ed-21fecf8ea100/original",
+    "cast_date": "2025-10-09T22:56:43.000Z",
+    "text": "Want to join @shefi cohort 15 but can’t afford it? /dcl has you covered. The Decentraland Foundation is sponsoring 2 scholarships ($799 each) but you only have 5 days to apply!\n\nDetails on the Decentraland Discord Server\nhttps://discord.com/channels/417796904760639509/433376431603580970/1425947690084339803",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bdefe4db-3166-4289-d788-1786e8737a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 249594,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1126
+          }
+        }
+      },
+      {
+        "url": "https://discord.com/channels/417796904760639509/433376431603580970/1425947690084339803",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogType": "website",
+            "favicon": "/assets/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://cdn.discordapp.com/assets/og_img_discord_home.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Discord - Group Chat That’s All Fun & Games",
+            "ogSiteName": "Discord",
+            "ogDescription": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4c2b7347",
+    "url": "https://farcaster.xyz/toadyhawk.eth/0x4c2b7347",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-10-09T17:55:25.000Z",
+    "text": "Today’s Bonus round of @betrmint (coming up in one hour) will be held in honor of our intrepid Chief Fun Officer @burr.eth. ♥️♠️♦️♣️\n\n@netnose and I wanted to do something to show how much we appreciate everything she has done and continues to do for this community, so we commissioned the talented @doodledaydarling to create a (literal) token of appreciation inspired by her. We hope she (and you) enjoy the resulting piece! \n\nTurn notis on to collect editions of “BETR WITH BURR” at 3PM EST, with the creator rewards split between the artist (doodle) and the muse (burr.)\n\nBETR together. 💪 \n\nhttps://bp.fun/collect/base:0x63558ba42995265338d9d9f1c7b03fe3adce504a/1",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f74c07a5-3bd5-455e-e5b0-a7f78b20f300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 504274,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://bp.fun/collect/base:0x63558ba42995265338d9d9f1c7b03fe3adce504a/1",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://imagedelivery.net/D2wuZEhVf0x-h1CHOs5uOg/24ab094c-aa04-4514-c337-0df9eae75000/public",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Blueprint | Discover The Best Media Onchain",
+            "ogLocale": "en",
+            "ogSiteName": "bp.fun",
+            "ogDescription": "Explore and collect exclusive content from Blueprint alumni.",
+            "fcFrame": {
+              "button": {
+                "title": "Start Earning",
+                "action": {
+                  "url": "https://bp.fun/collect/base:0x63558ba42995265338d9d9f1c7b03fe3adce504a/1?v=incentive",
+                  "name": "Blueprint",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://bp.fun/img/ios.png",
+                  "splashBackgroundColor": "#1b1b2f"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://imagedelivery.net/D2wuZEhVf0x-h1CHOs5uOg/24ab094c-aa04-4514-c337-0df9eae75000/public",
+              "aspectRatio": "3:2"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Start Earning",
+            "image": "https://imagedelivery.net/D2wuZEhVf0x-h1CHOs5uOg/24ab094c-aa04-4514-c337-0df9eae75000/public",
+            "frames_url": "https://bp.fun/collect/base:0x63558ba42995265338d9d9f1c7b03fe3adce504a/1",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 397872,
+              "username": "blueprint-fun.eth",
+              "display_name": "Blueprint",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/02372d65-6d65-49c5-d8a7-442245ca6400/original",
+              "custody_address": "0xfa476b9897b4440130672a9c466e3beb49c2b008"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM5Nzg3MiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEZhNDc2Yjk4OTdCNDQ0MDEzMDY3MmE5YzQ2NmUzYkViNDlDMmIwMDgifQ",
+                "payload": "eyJkb21haW4iOiJicC5mdW4ifQ",
+                "signature": "MHgzMDY1N2QyNGYyYzcxMjc4ZjI4N2YzZTEwYjdiNzlhODljODYxMTY3ZmRhZWVhOWYzNDBhMGQ0MGRiNjU5NzMwMzBjNGQyMDYxYmFmMTg4NDA2YmZjM2M0ZjYwYzZiM2ExODcwMDdiNGRmZGIxYTAwZDdlZTBjOGNiMDhmMzZkMjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Blueprint",
+                "home_url": "https://bp.fun",
+                "icon_url": "https://bp.fun/img/ios.png",
+                "image_url": "https://bp.fun/img/ios.png",
+                "button_title": "Start Earning",
+                "splash_image_url": "https://bp.fun/img/ios.png",
+                "splash_background_color": "#1b1b2f",
+                "webhook_url": "https://api.neynar.com/f/app/d4da81ce-3f92-478f-a245-ec617a7cc8db/event",
+                "subtitle": "Collect content. Earn rewards.",
+                "description": "Collect content. Earn rewards. Support your onchain creators!",
+                "screenshot_urls": [
+                  "https://imagedelivery.net/D2wuZEhVf0x-h1CHOs5uOg/20e1f1c5-a365-425b-cedb-3e416266f000/public"
+                ],
+                "primary_category": "social",
+                "tags": [
+                  "blueprint",
+                  "bpdotfun",
+                  "bp",
+                  "bp.fun"
+                ],
+                "hero_image_url": "https://imagedelivery.net/D2wuZEhVf0x-h1CHOs5uOg/447ed023-2f90-4356-746b-5b34378dfa00/public",
+                "tagline": "Collect content. Earn rewards.",
+                "og_title": "Collect content. Earn rewards.",
+                "og_description": "Collect content. Earn rewards. Support your onchain creators!",
+                "og_image_url": "https://bp.fun/img/ios.png",
+                "cast_share_url": "https://farcaster.xyz/~/compose?embeds[]=https://bp.fun"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Blueprint",
+                "home_url": "https://bp.fun",
+                "icon_url": "https://bp.fun/img/ios.png",
+                "image_url": "https://bp.fun/img/ios.png",
+                "button_title": "Start Earning",
+                "splash_image_url": "https://bp.fun/img/ios.png",
+                "splash_background_color": "#1b1b2f",
+                "webhook_url": "https://api.neynar.com/f/app/d4da81ce-3f92-478f-a245-ec617a7cc8db/event",
+                "subtitle": "Collect content. Earn rewards.",
+                "description": "Collect content. Earn rewards. Support your onchain creators!",
+                "screenshot_urls": [
+                  "https://imagedelivery.net/D2wuZEhVf0x-h1CHOs5uOg/20e1f1c5-a365-425b-cedb-3e416266f000/public"
+                ],
+                "primary_category": "social",
+                "tags": [
+                  "blueprint",
+                  "bpdotfun",
+                  "bp",
+                  "bp.fun"
+                ],
+                "hero_image_url": "https://imagedelivery.net/D2wuZEhVf0x-h1CHOs5uOg/447ed023-2f90-4356-746b-5b34378dfa00/public",
+                "tagline": "Collect content. Earn rewards.",
+                "og_title": "Collect content. Earn rewards.",
+                "og_description": "Collect content. Earn rewards. Support your onchain creators!",
+                "og_image_url": "https://bp.fun/img/ios.png",
+                "cast_share_url": "https://farcaster.xyz/~/compose?embeds[]=https://bp.fun"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0081654c",
+    "url": "https://farcaster.xyz/uniswap/0x0081654c",
+    "author_username": "uniswap",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 212722,
+    "author_pfp": "https://i.imgur.com/B5HadsY.jpg",
+    "cast_date": "2025-10-08T14:28:03.000Z",
+    "text": "The Compact is an open-source composable smart contract system that enables seamless crosschain interop\n\nBuilders can enable credible commitments within their applications, made possible with The Compact's resource locking mechanism\n\nHow it works ⤵",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a780c114-7822-4afc-37d6-e17a00ddc400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 493518,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1800,
+            "height_px": 1130
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbc9fe98a",
+    "url": "https://farcaster.xyz/chasesommer/0xbc9fe98a",
+    "author_username": "chasesommer",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 375245,
+    "author_pfp": "https://i.imgur.com/IiIozsy.png",
+    "cast_date": "2025-10-08T18:05:17.000Z",
+    "text": "ANNOUNCEMENT:\n\nI'm launching a farcaster matchmaking service!\n\nto kick it off, I'm giving out free tips for finding love on farcaster:\n\n- ladies: be sure to compliment his mini-app and say the market cap for his token is HUGE \n\n- guys: put a real picture of yourself on your profile so they know you're not a stalker/murderer. also post 3+ times a month about how you want to be a dad one day\n\nto sign up for early access, reply with your favorite color",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe47c1a00",
+    "url": "https://farcaster.xyz/matthewb/0xe47c1a00",
+    "author_username": "matthewb",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 4895,
+    "author_pfp": "https://i.imgur.com/6x4u2Cc.jpg",
+    "cast_date": "2025-10-09T16:27:11.000Z",
+    "text": "you may not personally be interested in trading or markets more broadly but it is a valid (and popular) form of content nonetheless",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf8a2a341",
+    "url": "https://farcaster.xyz/patriciaxlee.eth/0xf8a2a341",
+    "author_username": "patriciaxlee.eth",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 719715,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cccc97ef-8ef1-4925-85c3-a9326be2af00/rectcrop3",
+    "cast_date": "2025-10-09T18:15:15.000Z",
+    "text": "I don't fully understand what I'm looking at when I open the search page and wallet.\n\nThis isn't a criticism of the team's recent updates - just a public confession of my ignorance to all of you who seem to swim through all of this like fish in water.\n\nI mostly ignore tokens here - not out of cynicism, but confusion. When I click on token pages, even popular ones like $DEGEN, I struggle to understand what the project actually is. (The bottom of the $DEGEN page says \"No casts about this token yet.\")\n\nAfter a few months on Farcaster, I feel I'm missing out on an interesting way to support interesting projects - beyond donating via Crowdfund. The terms I'm seeing blend together in my eyes: \"app coins, \"memecoins\", \"creator coins\", \"streamer coins\" and things just called \"coins.\" Plus \"scam coins\" flagged by the community.\n\nThis cast is not a request for trading tips. I'm looking for your personal perspectives or reading recommendations to understand what drives this activity everyone seems so fluent in and what makes Farcaster a special place to do it. What motivates you to buy tokens here?\n\nI'm having a boomer moment and want to overcome it. Thank you.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5df8dfd-dc0c-414f-e6a4-1095926d4a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 10922,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 236,
+            "height_px": 314
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1e4c0f1a-fd5f-4a74-ceac-b4ce28fada00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 26640,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 600,
+            "height_px": 600
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc41cd2e5",
+    "url": "https://farcaster.xyz/rosaliesrainbow/0xc41cd2e5",
+    "author_username": "rosaliesrainbow",
+    "show_date": "2025-10-10",
+    "show_title": "Binance Meme Rush & Bankr’s Double Ban Bonanza: GM Farcaster ep297",
+    "source_episode_id": "i7PTokY0Gdw",
+    "author_fid": 977479,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c82b3ce4-72e6-4e20-ba6b-4cad6bb91000/rectcrop3",
+    "cast_date": "2025-10-09T19:08:31.000Z",
+    "text": "This is Rosalie, she has Rett Syndrome.\n\nReverse Rett is a charity funding research to reverse the symptoms that come from a mutated gene. \n\nThese symptoms limit Rosalie and thousands of others from being able to use their body to its fullest potential. It often leads to breathing issues and seizures and early deaths, particularly for boys. \n\nI'm running for Reverse Rett on Sunday at the Royal Parks Half Marathon. If you're able and willing to sponsor me, you can do so here: https://www.justgiving.com/page/phil-royal-parks-reverse-rett",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85e483fc-bfad-4463-ff24-67831c0a9500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 309702,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 924,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://www.justgiving.com/page/phil-royal-parks-reverse-rett",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://www.justgiving.com/page/phil-royal-parks-reverse-rett?utm_source=FB?utm_campaign=009",
+            "ogImage": [
+              {
+                "url": "https://images.justgiving.com/image/c22ec8ec-2010-4087-b608-f3205018417a.jpg?template=size1200x630face",
+                "type": "jpg",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Royal Parks Half for Reverse Rett",
+            "ogLocale": "en-GB",
+            "ogSiteName": "JustGiving",
+            "ogDescription": "Help Philip Duncalfe raise money to support Reverse Rett"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]
