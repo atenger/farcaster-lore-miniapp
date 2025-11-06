@@ -71,8 +71,16 @@ async function enrichCastsWithEpisodeData(casts: CastIndexEntry[]): Promise<Enri
   return casts.map(cast => {
     const enrichedData = episodeDataMap.get(cast.cast_hash);
     if (enrichedData) {
-      // Preserve FID from index data, merge with enriched data
-      return { ...enrichedData, author_fid: cast.author_fid };
+      // Preserve episode-specific fields from index data (show_date, show_title, source_episode_id)
+      // and FID from index data, merge with enriched data
+      // This ensures correct show_date when the same cast appears in multiple episodes
+      return { 
+        ...enrichedData, 
+        show_date: cast.show_date,
+        show_title: cast.show_title,
+        source_episode_id: cast.source_episode_id,
+        author_fid: cast.author_fid 
+      };
     }
     // Fallback to index data if enrichment fails
     return cast;
