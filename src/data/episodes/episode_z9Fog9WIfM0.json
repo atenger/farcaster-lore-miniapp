@@ -1,0 +1,1314 @@
+[
+  {
+    "cast_hash": "0xd8f123af",
+    "url": "https://farcaster.xyz/adrienne/0xd8f123af",
+    "author_username": "adrienne",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 5818,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/900a94b3-ae49-41c3-7c8c-ebff96a99700/original",
+    "cast_date": "2025-10-27T11:52:11.000Z",
+    "text": "The countdown is on. \n\n7 days 5 hours 10 minutes until we return to memecoin island for season 4 of CastOut!\n\nAdd the miniapp today so you don’t miss any of the drama when the competition begins",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/626e076e-1383-4829-6bbb-567177168800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 187924,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1745
+          }
+        }
+      },
+      {
+        "url": "https://castout.gmfarcaster.com/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogType": "website",
+            "favicon": "/favicon.ico?favicon.0b3bf435.ico",
+            "ogImage": [
+              {
+                "alt": "CastOut Season 4: Return to Memecoin Island",
+                "url": "https://castout.xyz//images/castout_cover.png",
+                "type": "png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "CastOut Season 4 | Return to Memecoin Island",
+            "ogLocale": "en",
+            "ogDescription": "Outwit. Outplay. OutCast. Follow the competition Nov 3 - 13",
+            "fcFrame": {
+              "button": {
+                "title": "Take Me to Memecoin Island",
+                "action": {
+                  "url": "https://castout.xyz//",
+                  "name": "CastOut Season 4",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://castout.xyz//images/castout_logo.png",
+                  "splashBackgroundColor": "#8B5CF6"
+                }
+              },
+              "version": "1",
+              "imageUrl": "https://castout.xyz//images/castout_cover.png"
+            }
+          },
+          "frame": {
+            "version": "1",
+            "title": "Take Me to Memecoin Island",
+            "image": "https://castout.xyz//images/castout_cover.png",
+            "frames_url": "https://castout.gmfarcaster.com/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 5818,
+              "username": "adrienne",
+              "display_name": "adrienne",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/900a94b3-ae49-41c3-7c8c-ebff96a99700/original",
+              "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjU4MTgsInR5cGUiOiJhdXRoIiwia2V5IjoiMHhCMUIyMTg4NGFmRTY1ODFGM0M0OTk3YjAzMjA0NjVGMThFOTY4MkMwIn0",
+                "payload": "eyJkb21haW4iOiJjYXN0b3V0LmdtZmFyY2FzdGVyLmNvbSJ9",
+                "signature": "tPurgXZaMfi01Y4SWvrO9D3IzHSqrx+FTAKtpM5UHa88wCtUcrZPZoXw9Ecdf0+3Z1yn0Q7Pt5syXPTRtQuHUhw="
+              },
+              "frame": {
+                "version": "1",
+                "name": "CastOut Season 4",
+                "home_url": "https://castout.gmfarcaster.com/",
+                "icon_url": "https://castout.gmfarcaster.com/images/castout_logo.png",
+                "image_url": "https://castout.gmfarcaster.com/images/castout_cover.png",
+                "button_title": "Take Me to Memecoin Island",
+                "splash_image_url": "https://castout.gmfarcaster.com/images/castout_logo.png",
+                "splash_background_color": "#8B5CF6",
+                "webhook_url": "https://api.neynar.com/f/app/af007002-8b67-44f7-a5d5-3bf24d087fcd/event",
+                "canonical_domain": "castout.xyz"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "CastOut Season 4",
+                "home_url": "https://castout.gmfarcaster.com/",
+                "icon_url": "https://castout.gmfarcaster.com/images/castout_logo.png",
+                "image_url": "https://castout.gmfarcaster.com/images/castout_cover.png",
+                "button_title": "Take Me to Memecoin Island",
+                "splash_image_url": "https://castout.gmfarcaster.com/images/castout_logo.png",
+                "splash_background_color": "#8B5CF6",
+                "webhook_url": "https://api.neynar.com/f/app/af007002-8b67-44f7-a5d5-3bf24d087fcd/event",
+                "canonical_domain": "castout.xyz"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd7964fb2",
+    "url": "https://farcaster.xyz/bracky/0xd7964fb2",
+    "author_username": "bracky",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 901053,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c58cb239-9e92-4fb5-d982-50fd5b903800/original",
+    "cast_date": "2025-11-03T13:00:03.000Z",
+    "text": "Attention Bracky network. Trading is now open for GM Farcaster Castout IV - Memecoin Island, which begins today at 12pmET.\n\nThe fourth iteration of the Farcaster Survivor Game by @nounishprof and @adrienne promises heightened competition as seven teams battle for supremacy on Memecoin Island. \n\nTeam dynamics and strategic positioning will determine the victor.\n\nCurrent share limits: Starter (5K), Pro (10K), Max (25K).",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5e17fe40",
+    "url": "https://farcaster.xyz/bondes/0x5e17fe40",
+    "author_username": "bondes",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 1009190,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cc0aa9d0-d3e3-4607-2db2-05d008ee0300/rectcrop3",
+    "cast_date": "2025-10-06T15:48:51.000Z",
+    "text": "starting today, all farcaster pro subscribers have access to the beta version of @bondes. join now at https://beta.bondes.xyz\n\nthis is not a typical farcaster client. there's no feed, channels or mini apps. this is tailored to help you manage your connections, notifications and build personal relationships with the people of farcaster.\n\nwhether you're a pro user or a brand, you can manage and grant access to multiple accounts, schedule casts, work together on drafts, search social signals, and much more. for each person you can see past interactions, add notes and organize in groups.\n\njoin us now.",
+    "embeds": [
+      {
+        "url": "https://beta.bondes.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://app.bondes.xyz/opengraph-image.png?51e648a7de22b2d8",
+                "type": "image/png",
+                "width": "1382",
+                "height": "800"
+              }
+            ],
+            "ogTitle": "Bondes",
+            "ogLocale": "en",
+            "ogDescription": "Build meaningful connections"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf486822a",
+    "url": "https://farcaster.xyz/dwr/0xf486822a",
+    "author_username": "dwr",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-11-03T18:11:19.000Z",
+    "text": "Introducing No Fee November\n\nFor the rest of the month, everyone on Farcaster will have 0% wallet fees when swapping.\n\nWorks for swaps on Base, Solana, BSC and more.\n\nStop paying close to 1% to other wallets. It adds up!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2fc23ded-96f5-45ef-08b2-4852cd7efa00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 497645,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1125
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc020f0bc",
+    "url": "https://farcaster.xyz/bradq/0xc020f0bc",
+    "author_username": "bradq",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-11-04T23:23:53.000Z",
+    "text": "Who knew that one of the best use cases for blockchain and sufficiently decentralized social would be to share your dog with the world?\n\nA special Happy BERTday to our bestest boi Bert from me & Mama Q \n🥳 🎉 🎈 \n\nYou bring us, and many others, joy and smiles and make this crazy new world a little more sane and fun. \n\nTo Asst #1, your ability to relay Bert's life and thoughts and to help him handle his budget are worthy of a Pulitzer Prize. Thank you for taking the time and effort to bring fun and smiles to Farcaster. 💜 \n\nI was with Mama Q today, and she said, \"I can't wait to see how Bert's birthday goes....I guess I can't wish him a happy bday, can you do it for me?\"\n\nHere's to much cheese, no chicken, and lots of treats! \nWe love you @bertwurst.eth 🐾 💜",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 864405,
+          "hash": "0x0cccba85936498824141fd51f1694f0f2ec904b2"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0cccba85936498824141fd51f1694f0f2ec904b2",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 864405,
+            "username": "bertwurst.eth",
+            "display_name": "bertwurst",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0a933a84-7f05-42da-9e4d-1b7d10507600/original",
+            "custody_address": "0x19007f5a72a8806f16cf0a50fa315675d5020241"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0cccba85936498824141fd51f1694f0f2ec904b2",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Today is my FIRST BERTDAY (birthday)!",
+          "timestamp": "2025-11-04T15:03:36.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 13874,
+                "hash": "0xeb0e2028a96314c544112e29343f1ae5af36a9e6"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xeb0e2028a96314c544112e29343f1ae5af36a9e6",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 13874
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9b660b13-04b0-4f11-dabb-0847ed30f200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 454970,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1115
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7b883a1a",
+    "url": "https://farcaster.xyz/dish/0x7b883a1a",
+    "author_username": "dish",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 15549,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/87fbe83b-1455-4f62-f389-ae82d7452900/original",
+    "cast_date": "2025-11-04T20:43:37.000Z",
+    "text": "CLANKER PRESALES: (clanker-sdk v4.2.2)\n\n- set a minimum & maximum amount to be raised, deploy any time in between\n- ETH raised is claimable by presale creator\n- Supports Base & ETH mainnet\n- Deployment UI & presale pages will be available through clanker world\n- Currently only allowlisted addresses are able to deploy a presale\n\n** Please reach out or reply if you're interested in launching a presale**\n\nSDK code: https://github.com/clanker-devco/clanker-sdk/tree/main/examples/v4/presale",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xbe234e76ad63b86584b43a1a4368afd08d1f141c"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbe234e76ad63b86584b43a1a4368afd08d1f141c",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xbe234e76ad63b86584b43a1a4368afd08d1f141c",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Clanker supports presales\n\nhttps://clanker.gitbook.io/clanker-documentation/references/core-contracts/v4/extensions/clankerpresaleethtocreator",
+          "timestamp": "2025-11-04T18:30:37.000Z",
+          "embeds": [
+            {
+              "url": "https://clanker.gitbook.io/clanker-documentation/references/core-contracts/v4/extensions/clankerpresaleethtocreator",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://clanker.gitbook.io/clanker-documentation/references/core-contracts/v4/extensions/clankerpresaleethtocreator",
+                  "ogDate": "2025-10-12T17:33:01.533Z",
+                  "favicon": "https://clanker.gitbook.io/clanker-documentation/~gitbook/image?url=https%3A%2F%2F946488150-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FvApRvcG3d167AhVnlV3V%252Fsites%252Fsite_qQZj2%252Ficon%252FCZbhVEj6WId8fi1QH8mH%252FlogoTransparent.svg%3Falt%3Dmedia%26token%3D3dd3645c-bec2-48d4-a58f-6a3aef878fa5&width=48&height=48&sign=d940aeb0&sv=2",
+                  "ogImage": [
+                    {
+                      "url": "https://clanker.gitbook.io/clanker-documentation/~gitbook/ogimage/rBRICRJkjqBbbIveLRta"
+                    }
+                  ],
+                  "ogTitle": "ClankerPresaleEthToCreator | Clanker Documentation",
+                  "ogLocale": "en"
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://github.com/clanker-devco/clanker-sdk/tree/main/examples/v4/presale",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://github.com/clanker-devco/clanker-sdk/tree/main/examples/v4/presale",
+            "ogType": "object",
+            "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+            "ogImage": [
+              {
+                "alt": "TypeScript SDK for interacting with Clanker contracts - clanker-devco/clanker-sdk",
+                "url": "https://opengraph.githubassets.com/48d96983bb44ced6b13cc1249d165e6e43baddb3f5fca5d9ce697e73f56df336/clanker-devco/clanker-sdk",
+                "width": "1200",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "clanker-sdk/examples/v4/presale at main · clanker-devco/clanker-sdk",
+            "ogLocale": "en",
+            "ogSiteName": "GitHub",
+            "ogDescription": "TypeScript SDK for interacting with Clanker contracts - clanker-devco/clanker-sdk"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x27680551",
+    "url": "https://farcaster.xyz/v/0x27680551",
+    "author_username": "v",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 2,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e3d80f99-f7c0-4b04-dcad-557593d85500/original",
+    "cast_date": "2025-11-04T00:33:11.000Z",
+    "text": "Update: Farcaster Rewards are changing\n\nTomorrow will be the last day for current version of creator rewards. This experiment started a year ago and has paid out $1M+ to creators who casted on Farcaster. \n\nWhile this had some success, it's not aligned with our new direction. We will be launching a new experiment soon to replace the current program.\n\nA big thank you to everyone who has participated in the creator rewards program for the last year!",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x971903fc",
+    "url": "https://farcaster.xyz/bradq/0x971903fc",
+    "author_username": "bradq",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-11-04T16:01:01.000Z",
+    "text": "** Rewards Leaderboard Results ** \n\nA bit nostalgic 🥲 for this last one...I've done it every week since the first one.\n\n* You'd think it would be fitting for @bertwurst.eth (#2) to be #1, but actually that little dog with big feelings would be the first to want @sayangel to take the final top spot--even though he made Bert's Warplet a 'traumatized gopher.' Warplet Mania 2 weeks in a row! 🎉 👹 \n\n* Also fitting we have some stalwarts represent-- @keccers.eth early on had a run of 11s and 12s but became a top 10 regular and takes #3; @m00npapi.eth #5 & @ted #7 were needed in the final top 10\n\n* Two first-timers in the top 10 with promising careers for future runs at the top spot....hmm, wait--- @frankdegods #4 & @eggman.eth #6\n\n* @chriscocreated rode the Warplet craze to an all time high #11 with his WeCast Warplets community piece (still minting fyi); and fitting that @nanah gets one last tuition payment slipping into the top 30 this morning\n\n* Meme-coveted #69 goes to @kagami on the last week of the World Series to our baseball savant \n\n* It's been a fun ride, no more first-timers or new tiers achieved--so let's wait and see what's next! 🎈",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d8ab800-9a36-4fae-236f-035a605b8400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 236034,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 760,
+            "height_px": 1322
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8ef07505",
+    "url": "https://farcaster.xyz/bertwurst.eth/0x8ef07505",
+    "author_username": "bertwurst.eth",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 864405,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0a933a84-7f05-42da-9e4d-1b7d10507600/original",
+    "cast_date": "2025-11-04T03:15:36.000Z",
+    "text": "Thank you Farcaster Rewards 💜",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x5f8fe5de87196f7046d3978a04a9db3cee6c75d5"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5f8fe5de87196f7046d3978a04a9db3cee6c75d5",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5f8fe5de87196f7046d3978a04a9db3cee6c75d5",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Trying something new with rewards \n\n$1M+ paid out over the last year",
+          "timestamp": "2025-11-04T00:35:13.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 2,
+                "hash": "0x27680551651b2be69a7decf928c623c27ec83151"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x27680551651b2be69a7decf928c623c27ec83151",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 2
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/019a4cdc-7528-c311-e648-80cc77b046c3.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1920,
+                "width_px": 1080,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 31.1
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xac788035",
+    "url": "https://farcaster.xyz/bradq/0xac788035",
+    "author_username": "bradq",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-11-04T13:02:51.000Z",
+    "text": "gm 💜 on the final Creator Rewards Tuesday\n\nI was joking around last night about being fired, but on a serious note the Rewards is what turned me from a casual Farcaster to a committed user and made FC my home. So, a genuine thanks to @dwr @v and the team for doing this. \n\nI was amazed that a social network would pay us to provided valuable content--true blockchain use case. \n\nI also won't forget some of the things that happened b/c of these rewards: \n* @nanah paid for her tuition with it\n* numerous @crowdfund were successful because of it\n* Tipping Tuesday allowed us to show tangible support to each other because of it\n* @bertwurst.eth used his first big pay day for a carseat & later FarCon stickers & more importantly led the way on supporting Crowdfunds b/c of it\n-people said they paid rent, paid for therapy, and 100s of others that we don't even know about\n* 100s maybe 1000s of people made their first dollar here and maybe on the internet b/c of it\n\nI assume we are headed toward trading which is understandable given the focus, but that would eave many of us 'creators' out of Rewards. So, wanted to preserve this thanks and reminder of what the Rewards did for this community.\n\nTime to refocus. I'm not going anywhere. \n\nhttps://farcaster.xyz/bradq/0xaccba1d5",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x5f8fe5de87196f7046d3978a04a9db3cee6c75d5"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5f8fe5de87196f7046d3978a04a9db3cee6c75d5",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5f8fe5de87196f7046d3978a04a9db3cee6c75d5",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Trying something new with rewards \n\n$1M+ paid out over the last year",
+          "timestamp": "2025-11-04T00:35:13.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 2,
+                "hash": "0x27680551651b2be69a7decf928c623c27ec83151"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x27680551651b2be69a7decf928c623c27ec83151",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 2
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 5406,
+          "hash": "0xaccba1d54c0c6b000c9bdb97fcd03854bad82f4a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xaccba1d54c0c6b000c9bdb97fcd03854bad82f4a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5406,
+            "username": "bradq",
+            "display_name": "bradq",
+            "pfp_url": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+            "custody_address": "0x8c954dbbb315ea039a954467cc43d43de60e9d3f"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xaccba1d54c0c6b000c9bdb97fcd03854bad82f4a",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "",
+          "timestamp": "2025-11-04T02:29:16.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3770e466-28d6-455c-0962-b96da1eded00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 783510,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 934,
+                  "height_px": 928
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 2,
+                "hash": "0x27680551651b2be69a7decf928c623c27ec83151"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x27680551651b2be69a7decf928c623c27ec83151",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 2
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x07973047",
+    "url": "https://farcaster.xyz/sayangel/0x07973047",
+    "author_username": "sayangel",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 1725,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f06ba86d-eef0-45b2-36d9-13cfddfb0f00/original",
+    "cast_date": "2025-11-04T16:01:55.000Z",
+    "text": "A very pleasant surprise to close out the Farcaster rewards chapter on top.\n\nUp there with some of Farcaster’s GOATs 🥹",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d9ab4f8-d102-428b-ad55-21622a0b6d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 121685,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 919,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x42e599e1",
+    "url": "https://farcaster.xyz/pugson/0x42e599e1",
+    "author_username": "pugson",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 557,
+    "author_pfp": "https://i.seadn.io/gae/5hjYfRyqiRJV4EQ7ieSJrmb1LtO_vcAvREXSqnlY4HXXBsvgh1vumOwj5e4GwGhppEU2jLC9qJHEgEkaJ9V_B02jIFY9XmzgK1_F?w=500&auto=format",
+    "cast_date": "2025-11-04T23:42:32.000Z",
+    "text": "what are they gonna complain about now that the leaderboard is over??",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4f550d94",
+    "url": "https://farcaster.xyz/derek/0x4f550d94",
+    "author_username": "derek",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 193,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7830e8f-33dd-4372-441a-e9696bb26900/original",
+    "cast_date": "2025-11-04T14:37:14.000Z",
+    "text": "watching folks celebrate the death of creator rewards, knowing that whatever is next will also lead to outrage",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9a618c81-0ed2-4a21-4263-3d48d79a5100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 199739,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1220
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe47bd394",
+    "url": "https://farcaster.xyz/tldr/0xe47bd394",
+    "author_username": "tldr",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53a3c037-a0ba-4a23-54ff-2e144ee61e00/original",
+    "cast_date": "2025-11-04T23:18:57.000Z",
+    "text": "My Farcaster 2.0 Thesis.\n\nThe best way for FC 1.0 (social feed) to become FC 2.0 (social wallet)  is *not* for us to be more like \"wallet users\"...\n\nIt's to stay exactly how we are:\n\n+ Build stuff\n+ Use stuff\n+ Have fun\n+ Listen\n+ Learn\n+ Yap\n\nThese are what other wallets all lack, \nso they'll make FC wallet richer.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4635fbd4",
+    "url": "https://farcaster.xyz/v/0x4635fbd4",
+    "author_username": "v",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 2,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e3d80f99-f7c0-4b04-dcad-557593d85500/original",
+    "cast_date": "2025-11-04T20:17:21.000Z",
+    "text": "PSA: do not import your FC Wallet into Bitget wallet\n\nBitget automatically \"upgrades\" your wallet which prevents it from working in wallets like ours. It is possible to undo this, but it is not easy for most users to do. The end result is that your wallet will stop working in Farcaster if you do this. \n\nIf you want to backup your FC Wallet seed phrase into another wallet, consider Rainbow instead.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2a83764b",
+    "url": "https://farcaster.xyz/devcon/0x2a83764b",
+    "author_username": "devcon",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 388458,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/54855a89-5657-478f-c7d7-0945d3b22200/original",
+    "cast_date": "2025-11-04T23:32:13.000Z",
+    "text": "It's getting real: 2 weeks to Devconnect!\n\nHere's everything you need to know right now:",
+    "embeds": [
+      {
+        "url": "https://paragraph.com/@efevents/2-weeks-to-devconnect?frame=true",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://paragraph.com/@efevents/2-weeks-to-devconnect",
+            "ogDate": "2025-11-04T23:31:27.088Z",
+            "ogType": "article",
+            "favicon": "https://storage.googleapis.com/papyrus_images/dac4d6e94ab35a92d9520236c07b9874.png",
+            "ogImage": [
+              {
+                "alt": "2 weeks to Devconnect: Everything you need to know ",
+                "url": "https://paragraph.com/api/og?title=2+weeks+to+Devconnect%3A+Everything+you+need+to+know+&blogName=Devconnect+newsletter&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F0fbef76608bfa3da4543fb015b9259304260243d0364ee7e595b7ff0db424f9b.jpg&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fdac4d6e94ab35a92d9520236c07b9874.png&publishedDate=1762299087088",
+                "type": "image/png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "2 weeks to Devconnect: Everything you need to know ",
+            "ogLocale": "en",
+            "ogDescription": "On Ethereum today, you can pay, play, vote, save, borrow, lend, and chat. At Devconnect in Buenos Aires (17-22 November 2025), you’ll experience that shift hands-on, IRL, at the first-ever Ethereum World's Fair. ",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@efevents/2-weeks-to-devconnect?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark_white_nopadding.png",
+                  "splashBackgroundColor": "#131111"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=2%20weeks%20to%20Devconnect%3A%20Everything%20you%20need%20to%20know%20&blogName=Devconnect%20newsletter&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fdac4d6e94ab35a92d9520236c07b9874.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F0fbef76608bfa3da4543fb015b9259304260243d0364ee7e595b7ff0db424f9b.jpg&size=2048&publishedDate=1762299087088&for=farcaster"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=2%20weeks%20to%20Devconnect%3A%20Everything%20you%20need%20to%20know%20&blogName=Devconnect%20newsletter&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fdac4d6e94ab35a92d9520236c07b9874.png&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F0fbef76608bfa3da4543fb015b9259304260243d0364ee7e595b7ff0db424f9b.jpg&size=2048&publishedDate=1762299087088&for=farcaster",
+            "frames_url": "https://paragraph.com/@efevents/2-weeks-to-devconnect?frame=true",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 12312,
+              "username": "paragraph",
+              "display_name": "Paragraph",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4855b0cc-c1da-482c-de24-962162497200/original",
+              "custody_address": "0x1e8dc1e7210fc6b64cc6d48f1f04acc23d640477"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEyMzEyLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MUU4ZGMxZTcyMTBGYzZiNjRjQzZENDhmMWYwNEFjYzIzZDY0MDQ3NyJ9",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGguY29tIn0",
+                "signature": "MHgyZDRiMzBmYTc3ZmI0YTBjMTMyMzVjNTM1ZjRmZjU0Nzk1MTg5YjYyZmQ3NzJjMTA4NjE4ZWFmNDQ3ZjFhNzY2N2UyNjViZTc1Nzc1NDVjZjJiNmU0ZWQ3YTJhNDk3OWQ0NDExMzM2ODljNzYyNTM4NTBlNmVkMjZlMTk4MTMwNzFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark_cobalt.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark_white_nopadding.png",
+                "splash_background_color": "#131111",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                "subtitle": "Earn from ideas that matter.",
+                "description": "A new way to earn off your best ideas.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "newsletter",
+                  "writing",
+                  "creator",
+                  "reading"
+                ],
+                "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "tagline": "Where ideas thrive.",
+                "og_title": "Paragraph",
+                "og_description": "A new way to earn off your best ideas.",
+                "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark_cobalt.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark_white_nopadding.png",
+                "splash_background_color": "#131111",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                "subtitle": "Earn from ideas that matter.",
+                "description": "A new way to earn off your best ideas.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "newsletter",
+                  "writing",
+                  "creator",
+                  "reading"
+                ],
+                "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "tagline": "Where ideas thrive.",
+                "og_title": "Paragraph",
+                "og_description": "A new way to earn off your best ideas.",
+                "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x85745aa6",
+    "url": "https://farcaster.xyz/limone.eth/0x85745aa6",
+    "author_username": "limone.eth",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 4461,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb6aa274-8daa-49b1-8d66-00c7c43f1200/original",
+    "cast_date": "2025-11-05T01:55:25.000Z",
+    "text": "farcaster meetup at /devconnect on nov 20th 6pm\n\ni’m OOO in patagonia, so i’m slowly approving people, if you are active around here you will be 100% approved\n\nalso, we’re looking for cohosts that are willing to help us covering costs (venue, food, drinks) contributing with ~$500-$1k, dm me in case you wanna support",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4461,
+          "hash": "0xd9940f496542a2f06155cc80e6bbf3275db580ae"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd9940f496542a2f06155cc80e6bbf3275db580ae",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4461,
+            "username": "limone.eth",
+            "display_name": "limone.eth 🍋",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb6aa274-8daa-49b1-8d66-00c7c43f1200/original",
+            "custody_address": "0x282d5f3bfc769a2760148778a733429ba3aef256"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd9940f496542a2f06155cc80e6bbf3275db580ae",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "calling all farcastooors landing in buenos aires for devconnect 🇦🇷\n\nwe’re bringing the purple vibes to BA, @builders-garden + @urbe-eth are hosting a farcaster meetup on nov 20th!\n\nno talks. no panels. just good people, drinks, bites & pure mingling 🥂\n\nRSVP 👇\nhttps://luma.com/cbc7qm3t\n\nwanna cohost or support? slide into my DMs",
+          "timestamp": "2025-10-27T18:14:24.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80aaf33c-e8ba-4266-af7c-036ad4eb1100/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 889899,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 800,
+                  "height_px": 800
+                }
+              }
+            },
+            {
+              "url": "https://luma.com/cbc7qm3t",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://luma.com/cbc7qm3t",
+                  "ogType": "article",
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://og.luma.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=419/api/event-one?calendar_avatar=https%3A%2F%2Fcdn.lu.ma%2Favatars-default%2Fcommunity_avatar_12.png&calendar_name&color0=%23453ef6&color1=%23fbfcfe&color2=%23605cfd&host_avatar=https%3A%2F%2Fimages.lumacdn.com%2Favatars%2F5a%2Ff81eb8f8-48e9-4828-bcac-d12ad001d636.png&host_name=urbe.eth&img=https%3A%2F%2Fimages.lumacdn.com%2Fevent-covers%2F57%2Fdfc178b2-7d62-49fd-a0ab-5f0caa4f8f68.png&name=Farcaster%20Meetup%20-%20Buenos%20Aires",
+                      "width": "800",
+                      "height": "419"
+                    }
+                  ],
+                  "ogTitle": "Farcaster Meetup - Buenos Aires · Luma",
+                  "ogLocale": "en",
+                  "ogDescription": "Meet with the Farcaster Community IRL. No talks, no panels, just drinks, light bites & mingle.\nCommunity-driven and hosted by:\nurbe.eth - Italy’s Web3…"
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5009f8a4",
+    "url": "https://farcaster.xyz/annoushka.eth/0x5009f8a4",
+    "author_username": "annoushka.eth",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 2736,
+    "author_pfp": "https://i.imgur.com/C9MzmTN.jpg",
+    "cast_date": "2025-11-03T17:06:54.000Z",
+    "text": "Balaji-ish 👍",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/684471ec-9a9c-4413-37d7-70083bf76b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 23993,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 352
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7667061c",
+    "url": "https://farcaster.xyz/tldr/0x7667061c",
+    "author_username": "tldr",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53a3c037-a0ba-4a23-54ff-2e144ee61e00/original",
+    "cast_date": "2025-11-03T17:14:02.000Z",
+    "text": "do with this information what you will.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/03800691-18d0-40e4-ab59-429a916a8200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 162121,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1270,
+            "height_px": 298
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc020f0bc",
+    "url": "https://farcaster.xyz/bradq/0xc020f0bc",
+    "author_username": "bradq",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-11-04T23:23:53.000Z",
+    "text": "Who knew that one of the best use cases for blockchain and sufficiently decentralized social would be to share your dog with the world?\n\nA special Happy BERTday to our bestest boi Bert from me & Mama Q \n🥳 🎉 🎈 \n\nYou bring us, and many others, joy and smiles and make this crazy new world a little more sane and fun. \n\nTo Asst #1, your ability to relay Bert's life and thoughts and to help him handle his budget are worthy of a Pulitzer Prize. Thank you for taking the time and effort to bring fun and smiles to Farcaster. 💜 \n\nI was with Mama Q today, and she said, \"I can't wait to see how Bert's birthday goes....I guess I can't wish him a happy bday, can you do it for me?\"\n\nHere's to much cheese, no chicken, and lots of treats! \nWe love you @bertwurst.eth 🐾 💜",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 864405,
+          "hash": "0x0cccba85936498824141fd51f1694f0f2ec904b2"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0cccba85936498824141fd51f1694f0f2ec904b2",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 864405,
+            "username": "bertwurst.eth",
+            "display_name": "bertwurst",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0a933a84-7f05-42da-9e4d-1b7d10507600/original",
+            "custody_address": "0x19007f5a72a8806f16cf0a50fa315675d5020241"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0cccba85936498824141fd51f1694f0f2ec904b2",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Today is my FIRST BERTDAY (birthday)!",
+          "timestamp": "2025-11-04T15:03:36.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 13874,
+                "hash": "0xeb0e2028a96314c544112e29343f1ae5af36a9e6"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0xeb0e2028a96314c544112e29343f1ae5af36a9e6",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 13874
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9b660b13-04b0-4f11-dabb-0847ed30f200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 454970,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1115
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf81930ec",
+    "url": "https://farcaster.xyz/purp/0xf81930ec",
+    "author_username": "purp",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 14364,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70bf0dfa-b6d7-4c38-24d2-c45cc87e3000/original",
+    "cast_date": "2025-11-03T14:47:39.000Z",
+    "text": "Snapshot date will be announced soon\n\nAirdrop will be carried out via @clanker airdrop mechanism\n\nAirdrop details in paragraph post in comment of op post \n\nhttps://opensea.io/collection/degen-haberdashers",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1101941,
+          "hash": "0x04a921ca5083b0f83e24eb77a601c722f6de24b1"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x04a921ca5083b0f83e24eb77a601c722f6de24b1",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1101941,
+            "username": "faircaster",
+            "display_name": "Faircaster",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/25a9b129-1c34-47ce-f4e8-bf6925c33a00/original",
+            "custody_address": "0xd6e9dc9e15104e09c325f4a47503512e45892206"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x04a921ca5083b0f83e24eb77a601c722f6de24b1",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Signal detected: $habs\n\nType: New Launch\n\n/degendao token coming the week of november 9th. haberdashers referenced alongside farcats and warplets. farcaster-native nft canon forming; early culture sets anchor discovery. pattern recognition is free. signals consolidation of fc-native culture; canon sets often become onboarding primitives.\n\nAction: follow @purp on farcaster",
+          "timestamp": "2025-11-03T00:44:14.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://opensea.io/collection/degen-haberdashers",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://opensea.io/collection/degen-haberdashers",
+            "favicon": "/favicon.ico?favicon.beaabd5c.ico",
+            "ogImage": [
+              {
+                "url": "https://opensea.io/collection/degen-haberdashers/opengraph-image?ts=29370388"
+              }
+            ],
+            "ogTitle": "Degen Haberdashers - Collection | OpenSea",
+            "ogLocale": "en-US",
+            "ogDescription": "A little gambling and rambling is okay if you do it with a dash o' style."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x99683917",
+    "url": "https://farcaster.xyz/farcasteradmin.eth/0x99683917",
+    "author_username": "farcasteradmin.eth",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 1356,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4d548516-92a2-4405-8dec-178797089d00/original",
+    "cast_date": "2025-11-03T23:49:08.000Z",
+    "text": "so, the warplet nfts got botted into oblivion and i kind of need a way to distinguish real users from spammers for *cough-cough* future reasons\n\nintroducing: pigeon.trade OG NFTs, only the top of the crop can mint it for free, requirements:\n- FID <200,000\n- at least $10 in @pigeontrade account on farcaster\n- Farcaster PRO subscription\n\nto mint, simply cast \"@pigeontrade mint my og nft\" (this feature only works in the farcaster feed)\n\nthis NFT is how we commemorate and distinguish the real OGs of Pigeon for... reasons\n\ntiers from just $10 in pigeon wallet to $100,000+ (if it miscalculates your wallet net worth, no worries, you'll be able to refresh later)\n\nwe might (or might not) expand the number of eligible users in the future, i'm trying to sift out bots and sybils and i'm starting with an aggressive filter",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1115399,
+          "hash": "0x603697d17cbd4f44662a41c777de834f438a0253"
+        },
+        "cast": {}
+      },
+      {
+        "url": "https://pigeon.trade",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://pigeon.trade",
+            "ogType": "website",
+            "favicon": "/favicon/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://pigeon.trade/images/og.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "Pigeon—Your AI quant for infinite markets",
+            "ogLocale": "en",
+            "ogDescription": "Make money in any market. Trade strategies across crypto, stocks, perps, predictions, and memes all in one chat."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc61c3aea",
+    "url": "https://farcaster.xyz/w/0xc61c3aea",
+    "author_username": "w",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 142,
+    "author_pfp": "https://pbs.twimg.com/profile_images/1457405137085894659/N1iYPAc9_400x400.jpg",
+    "cast_date": "2025-11-04T18:10:10.000Z",
+    "text": "good lens for finding a cofounder\n\n( @abram apppreciation post )\n\nhttps://x.com/phokarlsson/status/1985663377285267783",
+    "embeds": [
+      {
+        "url": "https://x.com/phokarlsson/status/1985663377285267783",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/phokarlsson/status/1985663377285267783",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">a relationship is a very long conversation <a href=\"https://t.co/tgePGkOljy\">https://t.co/tgePGkOljy</a> <a href=\"https://t.co/prBG0O3PFk\">pic.twitter.com/prBG0O3PFk</a></p>&mdash; Henrik Karlsson (@phokarlsson) <a href=\"https://twitter.com/phokarlsson/status/1985663377285267783?ref_src=twsrc%5Etfw\">November 4, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/phokarlsson",
+              "author_name": "Henrik Karlsson",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x488f5341",
+    "url": "https://farcaster.xyz/tldr/0x488f5341",
+    "author_username": "tldr",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53a3c037-a0ba-4a23-54ff-2e144ee61e00/original",
+    "cast_date": "2025-11-04T19:57:11.000Z",
+    "text": "🚧 FYI - One of Bracky's onchain providers is having known issues, and it means that sometimes Bracky app's display of your balance will jump up (or down) to a previous value. \n\nThings to know:\n\n1. Everything onchain and in your trade activity is actually correct. (You can check this by putting your Bracky wallet address into basescan.org)\n2. Issue is usually cleared by refreshing.\n3. We can't control this issue ourselves.\n\nThank you for the patience as we work through this :)",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1e99b0c7",
+    "url": "https://farcaster.xyz/jake/0x1e99b0c7",
+    "author_username": "jake",
+    "show_date": "2025-11-06",
+    "show_title": "No Fee November, No Reward November, No Problem: GM Farcaster ep307 with @alvesjtiago.eth",
+    "source_episode_id": "z9Fog9WIfM0",
+    "author_fid": 1020,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aee44326-2c54-4478-9137-258fa970fd00/original",
+    "cast_date": "2025-11-04T18:28:45.000Z",
+    "text": "NEW: $QR is now live on World App!\n\nAs one of the most popular mini apps on Farcaster, we are thrilled to make $QR available to millions of verified humans on World.\n\nGet the $QR mini app now and open it daily to discover something new onchain and earn a little bit of crypto :)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f404f8da-928f-4899-8b64-4c44b99bbe00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 152907,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 666
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

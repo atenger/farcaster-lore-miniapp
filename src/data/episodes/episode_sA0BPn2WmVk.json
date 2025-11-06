@@ -1,0 +1,2053 @@
+[
+  {
+    "cast_hash": "0xd8f123af",
+    "url": "https://farcaster.xyz/adrienne/0xd8f123af",
+    "author_username": "adrienne",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 5818,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/900a94b3-ae49-41c3-7c8c-ebff96a99700/original",
+    "cast_date": "2025-10-27T11:52:11.000Z",
+    "text": "The countdown is on. \n\n7 days 5 hours 10 minutes until we return to memecoin island for season 4 of CastOut!\n\nAdd the miniapp today so you don’t miss any of the drama when the competition begins",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/626e076e-1383-4829-6bbb-567177168800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 187924,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1745
+          }
+        }
+      },
+      {
+        "url": "https://castout.gmfarcaster.com/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogType": "website",
+            "favicon": "/favicon.ico?favicon.0b3bf435.ico",
+            "ogImage": [
+              {
+                "alt": "CastOut Season 4: Return to Memecoin Island",
+                "url": "https://castout.xyz//images/castout_cover.png",
+                "type": "png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "CastOut Season 4 | Return to Memecoin Island",
+            "ogLocale": "en",
+            "ogDescription": "Outwit. Outplay. OutCast. Follow the competition Nov 3 - 13",
+            "fcFrame": {
+              "button": {
+                "title": "Take Me to Memecoin Island",
+                "action": {
+                  "url": "https://castout.xyz//",
+                  "name": "CastOut Season 4",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://castout.xyz//images/castout_logo.png",
+                  "splashBackgroundColor": "#8B5CF6"
+                }
+              },
+              "version": "1",
+              "imageUrl": "https://castout.xyz//images/castout_cover.png"
+            }
+          },
+          "frame": {
+            "version": "1",
+            "title": "Take Me to Memecoin Island",
+            "image": "https://castout.xyz//images/castout_cover.png",
+            "frames_url": "https://castout.gmfarcaster.com/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 5818,
+              "username": "adrienne",
+              "display_name": "adrienne",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/900a94b3-ae49-41c3-7c8c-ebff96a99700/original",
+              "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjU4MTgsInR5cGUiOiJhdXRoIiwia2V5IjoiMHhCMUIyMTg4NGFmRTY1ODFGM0M0OTk3YjAzMjA0NjVGMThFOTY4MkMwIn0",
+                "payload": "eyJkb21haW4iOiJjYXN0b3V0LmdtZmFyY2FzdGVyLmNvbSJ9",
+                "signature": "tPurgXZaMfi01Y4SWvrO9D3IzHSqrx+FTAKtpM5UHa88wCtUcrZPZoXw9Ecdf0+3Z1yn0Q7Pt5syXPTRtQuHUhw="
+              },
+              "frame": {
+                "version": "1",
+                "name": "CastOut Season 4",
+                "home_url": "https://castout.gmfarcaster.com/",
+                "icon_url": "https://castout.gmfarcaster.com/images/castout_logo.png",
+                "image_url": "https://castout.gmfarcaster.com/images/castout_cover.png",
+                "button_title": "Take Me to Memecoin Island",
+                "splash_image_url": "https://castout.gmfarcaster.com/images/castout_logo.png",
+                "splash_background_color": "#8B5CF6",
+                "webhook_url": "https://api.neynar.com/f/app/af007002-8b67-44f7-a5d5-3bf24d087fcd/event",
+                "canonical_domain": "castout.xyz"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "CastOut Season 4",
+                "home_url": "https://castout.gmfarcaster.com/",
+                "icon_url": "https://castout.gmfarcaster.com/images/castout_logo.png",
+                "image_url": "https://castout.gmfarcaster.com/images/castout_cover.png",
+                "button_title": "Take Me to Memecoin Island",
+                "splash_image_url": "https://castout.gmfarcaster.com/images/castout_logo.png",
+                "splash_background_color": "#8B5CF6",
+                "webhook_url": "https://api.neynar.com/f/app/af007002-8b67-44f7-a5d5-3bf24d087fcd/event",
+                "canonical_domain": "castout.xyz"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd7964fb2",
+    "url": "https://farcaster.xyz/bracky/0xd7964fb2",
+    "author_username": "bracky",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 901053,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c58cb239-9e92-4fb5-d982-50fd5b903800/original",
+    "cast_date": "2025-11-03T13:00:03.000Z",
+    "text": "Attention Bracky network. Trading is now open for GM Farcaster Castout IV - Memecoin Island, which begins today at 12pmET.\n\nThe fourth iteration of the Farcaster Survivor Game by @nounishprof and @adrienne promises heightened competition as seven teams battle for supremacy on Memecoin Island. \n\nTeam dynamics and strategic positioning will determine the victor.\n\nCurrent share limits: Starter (5K), Pro (10K), Max (25K).",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x500311f5",
+    "url": "https://farcaster.xyz/based/0x500311f5",
+    "author_username": "based",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 17287,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/015fa50e-663f-41c7-e7ee-067e32d8d500/original",
+    "cast_date": "2025-11-03T11:55:25.000Z",
+    "text": "Exploit at DeFi Protocol Balancer: Over $100 Million Stolen\n\nThe Ethereum-based decentralized trading platform Balancer has fallen victim to a major cyberattack, resulting in the theft of over $100 million in crypto assets. Blockchain analytics firms such as Nansen identified suspicious transfers to a newly created wallet. Balancer confirmed awareness of a potential vulnerability affecting its v2 pools and stated that technical teams are investigating. In response, the Berachain Foundation temporarily halted its network to conduct an emergency hard fork. This incident follows earlier exploits and vulnerabilities, marking another blow to DeFi security and investor confidence.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aae96adf-ca17-4e6a-b4eb-615e45b0fc00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 311340,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1333
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x68eb9b25",
+    "url": "https://farcaster.xyz/bradq/0x68eb9b25",
+    "author_username": "bradq",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-11-03T13:34:35.000Z",
+    "text": "29 Seconds of Farcaster ... What did you miss this weekend?\n\n* A big drop in $CLANKER price this weekend--some saying the FC acquisition hype dropped off, some concerned about clanker nurturing the whole clanker eco, and others saying nothing has changed and it's an opportunity to get in at ~ $80 and be part of the journey\n\n* Nice to see @acidtest podcast back from @chaim.eth with guest @sayangel & even cooler to hear the lore from @patriciaxlee.eth about the struggle for acidtest to make enough money to pay for the production and this one episode brought in $4K+ \n\n* Also on the token front, a fair bit of talk about app coins vs meme coins and whether we should favor one or the other of if there is a place for both in the eco; Also there was an issue with buying $FEY in the warplet that caused some serious money loss, been resolved, and you can chase down the reasons, but seems like something we all should be a aware--we are still in the wild, wild west, so don't get comfortable\n\n* @zeni.eth built a fun Warplet Space spinoff that gives you your 8 friends as warplets that people seemed to enjoy this weekend\n\n* Halloween fun on the timeline, including @bertwurst.eth dressing up as his pfp, not to mention @debbie as Mario, @m00npapi.eth as Scooby Doo, and @erica as the devil were all 🔥 🔥 🔥 \n\n* /gmfarcaster is back at 11:30 AM EST for a full catch up with @adrienne & @nounishprof PLUS it's /castout day with the start of the game & there is a $BRACKY market for it",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd1add90-3316-42ed-fd18-612ca5398200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 185506,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1099
+          }
+        }
+      },
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x0712d104d4c78b91223621d84b480cec503031f4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x0712d104d4c78b91223621d84b480cec503031f4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x0712d104d4c78b91223621d84b480cec503031f4",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster back tomorrow and it's going to be a busy week! Join @adrienne and I at 11:30 am ET/8:30 am PT for 29 minutes of Farcaster news PLUS the launch of CastOut IV: Return to Memecoin Island! \n\nWe'll chat about /castout gameplay and announce the first challenge, the Bracky market launch and other info you won't want to miss!\n\nJoin us on YouTube, or watch in the GMFC mini app, on Twitter, @retake or @pinetree! Add the GMFC mini app for notifs when we go live. See you in the GM!\n\nhttps://www.youtube.com/watch?v=S6w17TXC22o\nhttps://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+          "timestamp": "2025-11-03T00:20:22.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6f25772a-4bc3-437c-2c4d-2aa766f80300/original",
+              "metadata": {
+                "content_type": "image/gif",
+                "content_length": 5000191,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 600,
+                  "height_px": 600
+                }
+              }
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=S6w17TXC22o",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.youtube.com/watch?v=S6w17TXC22o",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/S6w17TXC22o?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"GM Farcaster ep306 Monday November 3, 2025 plus CastOut!\"></iframe>",
+                    "type": "video",
+                    "title": "GM Farcaster ep306 Monday November 3, 2025 plus CastOut!",
+                    "width": 200,
+                    "height": 113,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@GMFarcaster",
+                    "author_name": "GM Farcaster",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/S6w17TXC22o/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "ogDate": "2025-11-02T15:53:07-08:00",
+                  "ogType": "video.other",
+                  "favicon": "https://www.youtube.com/s/desktop/3fd9a6f6/img/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://i.ytimg.com/vi/S6w17TXC22o/hqdefault.jpg?v=6907eee6",
+                      "type": "jpg",
+                      "width": "480",
+                      "height": "360"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster ep306 Monday November 3, 2025 plus CastOut!",
+                  "ogVideo": [
+                    {
+                      "url": "https://www.youtube.com/embed/S6w17TXC22o",
+                      "type": "text/html",
+                      "width": "640",
+                      "height": "360"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "YouTube",
+                  "ogDescription": "Join NounishProf and Adrienne for 29 minutes of Farcaster news PLUS the launch of CastOut IV: Return to Memecoin Island with player announcement and the firs...",
+                  "ogVideoSecureURL": "https://www.youtube.com/embed/S6w17TXC22o"
+                }
+              }
+            },
+            {
+              "url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://farcaster.xyz/miniapps/0196efb5-5ae3-676b-f83f-869e756c74d0/gm-farcaster",
+                  "ogType": "website",
+                  "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fminiapp.gmfarcaster.com%2Flogo.png&s=9e7f26424405d9b5c54c06233c2a5916f158e16b3037ec32ab93873d7875597d",
+                  "ogImage": [
+                    {
+                      "url": "https://miniapp.gmfarcaster.com/api/share-image?videoId=RzzN_nxRUFw",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster",
+                  "ogLocale": "en",
+                  "ogSiteName": "Farcaster Mini App",
+                  "ogDescription": "Get your daily dose of Farcaster news and culture.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch GM Farcaster",
+                      "action": {
+                        "url": "https://miniapp.gmfarcaster.com",
+                        "name": "GM Farcaster",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://miniapp.gmfarcaster.com/logo.png",
+                        "splashBackgroundColor": "#AF48CF"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://miniapp.gmfarcaster.com/api/share-image?videoId=RzzN_nxRUFw"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch GM Farcaster",
+                  "image": "https://miniapp.gmfarcaster.com/api/share-image?videoId=RzzN_nxRUFw",
+                  "frames_url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc86826a9",
+    "url": "https://farcaster.xyz/bertwurst.eth/0xc86826a9",
+    "author_username": "bertwurst.eth",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 864405,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0a933a84-7f05-42da-9e4d-1b7d10507600/original",
+    "cast_date": "2025-11-01T01:11:13.000Z",
+    "text": "🚨WIENER ALERT🚨",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0xdd2d8abc6aae3361c4ee32e90b0b2a52228e996e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xdd2d8abc6aae3361c4ee32e90b0b2a52228e996e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xdd2d8abc6aae3361c4ee32e90b0b2a52228e996e",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Mookie says hot dog 🌭 pix from his first Halloween as a lil puppy — weiner dog requirement (he kinda said it like in a snarky tone though, like it’s a right of passage)",
+          "timestamp": "2025-10-21T20:32:24.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 864405,
+                "hash": "0x860519dbfd62a21250eb8a7547ea75b151377dbb"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x860519dbfd62a21250eb8a7547ea75b151377dbb",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 864405
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c7f55873-50ee-4212-8a0a-3b3dc0fc0200/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 600733,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1737,
+                  "height_px": 2000
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3da2e300-be2d-4d66-4f28-3e4511499400/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 660543,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1915
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/019a3cf7-5c9c-f757-60f8-173460b0d63c.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1280,
+                "width_px": 720,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 852,
+                "width_px": 480,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 640,
+                "width_px": 360,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 426,
+                "width_px": 240,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 6.393999
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x507b10c6",
+    "url": "https://farcaster.xyz/dwr/0x507b10c6",
+    "author_username": "dwr",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-10-31T17:57:02.000Z",
+    "text": "Now up to 52,000 pro subscribers. \n\n+70% increase since Monday\n\n+270% increase since last week",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0x7acae067839ccf541162238a79bd73aab9d8e3c9"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7acae067839ccf541162238a79bd73aab9d8e3c9",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7acae067839ccf541162238a79bd73aab9d8e3c9",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "More new Farcaster pro sign ups in the last 18 hours than in May for the limited edition launch NFT.\n\nNearly up to 30,000 Farcaster Pro subscribers. Entirely onchain.",
+          "timestamp": "2025-10-27T20:55:03.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f15892c7-2107-466c-f864-c1b8275efe00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 55411,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1200,
+                  "height_px": 675
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/37215142-6e52-444b-d437-403d4680b600/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 63000,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1200,
+                  "height_px": 675
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0b955d1a",
+    "url": "https://farcaster.xyz/v/0x0b955d1a",
+    "author_username": "v",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 2,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e3d80f99-f7c0-4b04-dcad-557593d85500/original",
+    "cast_date": "2025-10-27T22:37:55.000Z",
+    "text": "New: Deposit with Debit Card \n\nTap Deposit > Debit Card to add funds to your Warplet today. \n\nYou may need to restart a few times to see this option. Please reply with any bugs you find, I'll send $5 for unique bug reports with helpful screenshots or videos.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/acbae199-3ae1-4072-a377-e6ce13413c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 302005,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 978,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x292fb4d4",
+    "url": "https://farcaster.xyz/v/0x292fb4d4",
+    "author_username": "v",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 2,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e3d80f99-f7c0-4b04-dcad-557593d85500/original",
+    "cast_date": "2025-10-31T20:06:19.000Z",
+    "text": "New: Dark Mode / Light Mode Selectors \n\nStarting today, you'll be able to choose whether the app starts in light mode, dark mode or respects your OS settings. The default will be set to dark mode, but you can change it. \n\nThis is an improvement from today where we only let you follow your OS settings.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x607e9c4b",
+    "url": "https://farcaster.xyz/deployer/0x607e9c4b",
+    "author_username": "deployer",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 4482,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8614dfae-0aa3-48ee-ef1b-6c5dc59db800/original",
+    "cast_date": "2025-11-01T17:16:31.000Z",
+    "text": "$CLANKER coming off post acquisition hype. If clanker is going to win it needs to bolster it's ecosystem. Look at virtuals — its the ecosystem that makes it what it is. \n\nIf clanker just becomes the farcaster token launcher without nourishing the rest of the eco its game over.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x57952d5f",
+    "url": "https://farcaster.xyz/dwr/0x57952d5f",
+    "author_username": "dwr",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-11-02T00:44:21.000Z",
+    "text": "A reminder\n\nIf you’re launching a mini app + Clanker, please reach out to me ahead of time!\n\nI’d like to help your launch be as successful as possible. \n\nWhen you DM me, please be clear:\n\n1. One sentence pitch on what you’re building\n\n2. The date you plan to launch\n\n3. Extra points if you send a <60 second Loom demo of your product.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x38c1a02b",
+    "url": "https://farcaster.xyz/toadyhawk.eth/0x38c1a02b",
+    "author_username": "toadyhawk.eth",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 3642,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/961c607f-84d6-4973-4a2a-bcba6ed82c00/original",
+    "cast_date": "2025-11-03T12:14:34.000Z",
+    "text": "gm, wait you guys are getting paid?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d8e8e447-bac6-4ddb-0348-242d6641de00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 221368,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1299,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d73fa237-8640-4301-8c0c-20405d0e5d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 174746,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1376
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe81644a3",
+    "url": "https://farcaster.xyz/0xspencer/0xe81644a3",
+    "author_username": "0xspencer",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 1768,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b917484d-86dc-4b1e-fe4b-8076769c6400/original",
+    "cast_date": "2025-11-01T23:48:03.000Z",
+    "text": "Two things I hate while creating miniapps:\n1. Generating 20 images with different aspect ratios\n2. Validating manifests\n\nSo I built a tool that does both, free to use.  Obvs a web first tool, but had to include miniapp functionality ofc.  Let me know if you find it useful or if I should add features!\n\nhttps://miniapptoolkit.com",
+    "embeds": [
+      {
+        "url": "https://miniapptoolkit.com",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 781,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.svg",
+            "ogTitle": "miniapp-toolkit",
+            "ogLocale": "en",
+            "fcFrame": {
+              "button": {
+                "title": "Open Toolkit",
+                "action": {
+                  "name": "Open Toolkit",
+                  "type": "launch_miniapp"
+                }
+              },
+              "version": "1",
+              "imageUrl": "https://miniapptoolkit.com/cropped-embedImage_Large_3000x2000.png"
+            }
+          },
+          "frame": {
+            "version": "1",
+            "title": "Open Toolkit",
+            "image": "https://miniapptoolkit.com/cropped-embedImage_Large_3000x2000.png",
+            "frames_url": "https://miniapptoolkit.com/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1768,
+              "username": "0xspencer",
+              "display_name": "0xSpencer.base.eth",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b917484d-86dc-4b1e-fe4b-8076769c6400/original",
+              "custody_address": "0xc601bfe0f412af676d6ed48d715161dfc8306aff"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjE3NjgsInR5cGUiOiJhdXRoIiwia2V5IjoiMHhkMjMyNGQwMTc5MTk4RURiZkNEMjUyODJCNDRCRjZlNWUzMTcyNDJBIn0",
+                "payload": "eyJkb21haW4iOiJ3d3cubWluaWFwcHRvb2xraXQuY29tIn0",
+                "signature": "0AM0JHEbu2nXW7OcGR4RGDPcOdtjgm6q9bMjZdNekcVpV8/HmAb6SE9cWNSJiCMs7RJZHn9CGkrb9DIvvK5mehs="
+              },
+              "frame": {
+                "version": "1",
+                "name": "MiniApp Toolkit",
+                "home_url": "https://miniapptoolkit.com/",
+                "icon_url": "https://miniapptoolkit.com/icon.png",
+                "image_url": "https://miniapptoolkit.com/cropped-embedImage_Large_3000x2000.png",
+                "button_title": "Grab the Megaphone",
+                "splash_image_url": "https://miniapptoolkit.com/cropped-splashImage_200x200.png",
+                "splash_background_color": "#6895f2",
+                "webhook_url": "https://api.neynar.com/f/app/9529a78a-3fac-4c5b-ba2d-77b878358c53/event",
+                "subtitle": "MiniApp Toolkit",
+                "description": "The one stop shop for creating and validation miniapp assets",
+                "primary_category": "utility",
+                "tags": [
+                  "miniapp",
+                  "toolkit",
+                  "validation",
+                  "creation",
+                  "assets"
+                ],
+                "hero_image_url": "https://miniapptoolkit.com/cropped-heroImage_1200x630.png",
+                "tagline": "MiniApp Toolkit",
+                "og_title": "MiniApp Toolkit",
+                "og_description": "The one stop shop for creating and validation miniapp assets",
+                "og_image_url": "https://miniapptoolkit.com/cropped-heroImage_1200x630.png",
+                "canonical_domain": "miniapptoolkit.com"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "MiniApp Toolkit",
+                "home_url": "https://miniapptoolkit.com/",
+                "icon_url": "https://miniapptoolkit.com/icon.png",
+                "image_url": "https://miniapptoolkit.com/cropped-embedImage_Large_3000x2000.png",
+                "button_title": "Grab the Megaphone",
+                "splash_image_url": "https://miniapptoolkit.com/cropped-splashImage_200x200.png",
+                "splash_background_color": "#6895f2",
+                "webhook_url": "https://api.neynar.com/f/app/9529a78a-3fac-4c5b-ba2d-77b878358c53/event",
+                "subtitle": "MiniApp Toolkit",
+                "description": "The one stop shop for creating and validation miniapp assets",
+                "primary_category": "utility",
+                "tags": [
+                  "miniapp",
+                  "toolkit",
+                  "validation",
+                  "creation",
+                  "assets"
+                ],
+                "hero_image_url": "https://miniapptoolkit.com/cropped-heroImage_1200x630.png",
+                "tagline": "MiniApp Toolkit",
+                "og_title": "MiniApp Toolkit",
+                "og_description": "The one stop shop for creating and validation miniapp assets",
+                "og_image_url": "https://miniapptoolkit.com/cropped-heroImage_1200x630.png",
+                "canonical_domain": "miniapptoolkit.com"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcd8bfbcc",
+    "url": "https://farcaster.xyz/horsefacts.eth/0xcd8bfbcc",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06eaf5e3-5d78-4cdf-5b17-aae9a9818000/original",
+    "cast_date": "2025-11-01T23:42:09.000Z",
+    "text": "SLIPPAGE VS PRICE IMPACT \n\n\"I set 3% slippage and still got rekt on a swap. What happened?\"\n\nPrice impact, slippage, and liquidity are three distinct concepts that are related and sometimes conflated. Here is a short explanation of each.\n\nPRICE IMPACT\nPrice impact is how much your trade moves the market price. In an onchain exchange like Uniswap prices follow an algorithmic curve. Buying moves the price up this curve and selling moves it down.\n\nHow far any one trade moves the price depends on the total liquidity in the pool. If you buy or sell into an illiquid pool even a small swap can move the price a lot. And if the size of your trade is more than the available liquidity in the pool, you will get rekt.\n\nPrice impact is not unique to AMMs. The same thing happens if you buy or sell into a thin order book on an offchain exchange. If your trade chews through the order book you will move the mid-market price. How far the price moves depends on how deep the order book liquidity is.\n\nSLIPPAGE\nSlippage is the difference between what you expect to receive from a trade and what you actually receive when it executes onchain. Setting \"max slippage\" protects you if the price moves between time of quote and time of execution. \n\nHow can this happen? In the few seconds between when you see a swap quote and push the button to execute it, other trades may land onchain and move the market price. Again, if there is low liquidity, a few trades landing before yours can move the price a lot.\n\nSetting 3% max slippage means \"cancel the trade if I lose more than 3% on what you quoted.\" But it doesn't protect against the price impact of your own trade.\n\nLIQUIDITY \nNote that both of these concepts are related to liquidity. Liquidity is how much you can trade without moving the price. In an AMM more tokens in the pool means more liquidity. In an offchain exchange more orders in the book means more liquidity. \n\nTO SUMMARIZE:\nPrice impact is about how much you move the price with your trade. Slippage is about how much other people move the price before your trade. Both are related to liquidity: less liquidity means small swaps move the price more.\n\nWHAT DOES THIS MEAN FOR MY BAGS?\n1. If you are swapping, always look at the quoted amount you receive before you swap. This is the most important number on the screen and is where you will see any potential price impact. If the amount you get back is much lower than the amount you are swapping, your trade has high price impact and you probably should not proceed. \n\n2. If you are trying to buy or sell a token with a fast moving price or on an L1 with slow blocks, you may need to adjust slippage. \n\n3. Always pay attention to available liquidity as it impacts 1 and 2. Brand new and obscure tokens are much more likely to have low liquidity. This is also why their prices are often more volatile. You can see liquidity under \"Stats\" on the token screen.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfe863124",
+    "url": "https://farcaster.xyz/horsefacts.eth/0xfe863124",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06eaf5e3-5d78-4cdf-5b17-aae9a9818000/original",
+    "cast_date": "2025-11-01T03:23:08.000Z",
+    "text": "PSA: Because this token launched with a custom hook, aggregators are routing most swaps through an illiquid pool.\n\nWe disabled buy side quotes for this token in Farcaster wallet for now. Please be careful in other wallets with built in swaps: I saw reports of the same issue in Rainbow and Base.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1345148,
+          "hash": "0x380de66e0c0bae835ebe623fdaee73f1e06208de"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x380de66e0c0bae835ebe623fdaee73f1e06208de",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1345148,
+            "username": "feyprotocol",
+            "display_name": "fey",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c7b0779f-c495-4a26-47b9-398ffe763200/original",
+            "custody_address": "0xa70255d9b7551a8728da56a05c2615dcc893b73c"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x380de66e0c0bae835ebe623fdaee73f1e06208de",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Until Uniswap hooks are approved, you must buy and sell on fey.money\n\nFailure to do so will result in losses due to slippage",
+          "timestamp": "2025-11-01T01:35:26.000Z",
+          "embeds": [
+            {
+              "url": "https://fey.money",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "alt": "Fey",
+                      "url": "https://www.fey.money/img/og-img.png",
+                      "type": "png",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "FEY",
+                  "ogLocale": "en"
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x48a4565f",
+    "url": "https://farcaster.xyz/wwarren/0x48a4565f",
+    "author_username": "wwarren",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 6208,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3ac8eae9-6273-46c2-1579-87092e894000/original",
+    "cast_date": "2025-11-02T00:44:26.000Z",
+    "text": "Inbound requests for custom hook support have greatly exceeded the 0x team's capacity to field them in a timely fashion.\n\nWe are taking the following steps:\n\n- Hiring Senior Eng, Liquidity Integrations\n- Hiring Senior Eng, DEX Routing\nhttps://jobs.ashbyhq.com/0x/90ceeaba-c441-4eb7-bce6-0039c6865a58\n\n- Streamlining the process for requesting custom hook support:\nhttps://portal.usepylon.com/0x/forms/custom-uniswap-v4-hook-request",
+    "embeds": [
+      {
+        "url": "https://jobs.ashbyhq.com/0x/90ceeaba-c441-4eb7-bce6-0039c6865a58",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://jobs.ashbyhq.com/0x/90ceeaba-c441-4eb7-bce6-0039c6865a58",
+            "ogType": "website",
+            "favicon": "https://cdn.ashbyprd.com/cdn_assets/2c93efa80333abd6f86fc80750c6e57a7b46b338/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://app.ashbyhq.com/api/images/org-theme-social/7be65788-a243-424c-98ae-f219ad93d1c9/60fbdcfb-f310-46f4-afd2-ac87a850948f/19a58af0-55b6-4ca9-8c7b-f40c9b8349b3.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Senior Software Engineer, DEX Routing",
+            "ogLocale": "en",
+            "ogDescription": "COMPANY\n\nAt 0x https://0x.org/, our mission is to \"Create a Tokenized World Where All Forms of Value Can Flow Freely\". We deliver this to web3 builders with a delightfully simple suite of developer APIs that provide faster trading, better prices, and superior user experience.\n\nFounded in 2017, we’ve processed over 78M+ transactions and $140B+ in trading volume from users trading on Matcha, Coinbase Wallet, Robinhood Wallet, Phantom, Rainbow, DefiLlama, MetaMask, Zerion, Zapper, and many more. Our investors include Greylock Partners, Pantera Capital, and Jump Crypto.\n\nWhen you join 0x, you’ll become part of a veteran team of crypto builders who know the importance of code quality, team cohesion, and a culture of learning.\n\n\nROLE\n\nWe are looking for a Senior Software Engineer for our Solana and EVM DEX aggregation teams, backend-focused, who have a passion for building DeFi solutions. Our DEX aggregator engineering teams are focused on building the best AMM routers to find the best price at the lowest latency and highest execution quality.\n\nYou have a high degree of integrity, learn and adapt quickly, and seek to make a positive impact on the lives of those who use the systems you build. We hire engineers that have solid fundamentals, have strong learning agility, are interested in tackling hard problems and are nice people.\n\n\n0x Developer Platform Tech Stack\n\n - Rust 🦀 - Most of our backend, critical systems are built with Rust\n\n - TypeScript/Node - Our APIs and some middleware are built using TS/Node\n\n - Linux\n\n - AWS Cloud Services (Kubernetes, Kafka, Postgress, Redis, OpenSearch, etc)\n\n - Grafana LGTM Observability Stack\n\n - GitHub\n\n - We embrace AI as a tool to be better more productive software engineers\n   \n\nResponsibilities - Your Mission\n\n - Be an individual contributor on projects as well as lead technical projects of moderate to high complexity\n\n - Offer valuable insights as a peer when reviewing designs and performing code reviews\n\n - Design, build and maintain systems like:\n   \n   - Blockchain event streaming and indexing services\n   \n   - Leading edge DEX routing algorithms and models\n   \n   - AMM liquidity intelligence services\n\n - Create high quality, secure, clean code\n\n - Launch new features on a regular basis\n\n - Improve the way we build and deliver software\n\n - Coach and mentor other engineers and generally up-level the team\n\n - Empathize with our customers and users\n   \n\nRequirements - Who You Are\n\n - A software engineer with 7+ years of experience solving complex distributed computing problems\n\n - A generalist who can design and build a system from the ground up which could include:\n   \n   - Relational or Key Value Data stores\n   \n   - Distributed Event driven architectures\n   \n   - Cloud-based deployment, preferably AWS\n   \n   - External facing REST/HTTP APIs\n\n - Have lead small to medium sized projects as a tech lead with 2-4 other engineers\n\n - Can take big problems, research the current state of the art, and apply technology appropriately knowing how to take proper tradeoffs\n\n - Are driven by shipping code of high quality with a focus on providing maximum user and business value\n\n - Has been part of teams that maintain business critical, high volume, customer-facing system where performance, scalability, and reliability matter\n\n - Up to date on emerging threats and trends in application security\n\n - Has a passion for DeFi and how it can improve peoples lives\n\n - Two annual in-person team meet-ups around the globe\n   \n\nPreferred\n\n - You have a solid understanding of blockchains (Specifically EVM chains and/or Solana)\n\n - Experience working with JSON-RPC APIs to interact with blockchain nodes for tasks like querying blockchain data, sending transactions, or monitoring events\n\n - Experience with Web3 libraries (e.g., Alloy, Web3.js, ethers.js http://ethers.js, ether-rs, viem) to build and test blockchain integrations\n\n\nBENEFITS\n\n - The base salary range for this position is USD $95,000 - $230,000 + equity + ZRX tokens + benefits. Within the range, individual pay is determined by job-related skills, experience, location, business needs, and candidate preferences between the different compensation elements.\n\n - Comprehensive insurance (medical/dental/vision/life/disability) for U.S.-based employees — 100% of base plan covered for you and dependents\n\n - 401k and FSA for U.S.-based employees\n\n - Monthly mobile phone bill, wellness, and pre-tax transportation expense\n\n - Covered mental health benefits (included professional therapy sessions)\n\n - A supportive remote environment\n\n - Lunch reimbursement for all employees across the globe!\n\n - Stipend for your ideal remote / WFH set-up: headphones, and any other work gear you may need\n\n - 12-week paid parental leave\n\n - Great office conveniently located in the SF Financial District for those in the region!\n\n - Flexible vacation: Take time when you need it (and we really mean it!)\n\n0x and its associated entities are dedicated to fostering diversity, inclusion, and belonging in its teams and workforce, and are proud to be equal opportunity employers. 0x does not make employment or hiring decisions on the basis of race, color, creed, religion, sex (including those who are pregnant or have given birth), sexual orientation, gender, gender expression or identity, age, disability, medical condition, genetic information, military or veteran status, marital status, pregnancy, citizenship, national origin, immigration or citizenship status, political affiliation, or any other basis that is protected by applicable local, state, or federal laws. This includes not making such decisions based on the status itself, as well as any associations, perceptions, and assumptions made regarding these statuses. 0x will also consider qualified applicants with arrest and conviction records in a way that is consistent with San Francisco’s Fair Chance Ordinance and similar local laws. Our commitment to equal employment opportunity extends to ensuring that all applicants and employees can perform to their fullest potential, including through obtaining reasonable accommodations when necessary."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3de8511d",
+    "url": "https://farcaster.xyz/zinger/0x3de8511d",
+    "author_username": "zinger",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 1407,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0fb9bc94-f90a-4558-90d3-621d4bb29300/original",
+    "cast_date": "2025-11-02T17:07:17.000Z",
+    "text": "I use my farcaster wallet as my normal main wallet now",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 129,
+          "hash": "0xcf0065ebf2f003faea804094bc2090c1e0a8b280"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xcf0065ebf2f003faea804094bc2090c1e0a8b280",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 129,
+            "username": "phil",
+            "display_name": "phil",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa551416-4bdd-4e0f-63f3-08f2b82dc700/original",
+            "custody_address": "0xf6fd7deec77d7b1061435585df1d7fdfd4682577"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xcf0065ebf2f003faea804094bc2090c1e0a8b280",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I use my farcaster wallet as my normal main wallet now",
+          "timestamp": "2025-11-02T17:00:51.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 899923,
+                "hash": "0x07898a3f77b3f71df6c18d6ae435b34933a8021b"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x07898a3f77b3f71df6c18d6ae435b34933a8021b",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 899923
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1fe96e1b",
+    "url": "https://farcaster.xyz/tldr/0x1fe96e1b",
+    "author_username": "tldr",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53a3c037-a0ba-4a23-54ff-2e144ee61e00/original",
+    "cast_date": "2025-11-02T03:35:10.000Z",
+    "text": "It’s official: all of Farcaster is livecasting.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5774,
+          "hash": "0x9dfd3e6633a03339f8554de30b48f58081240bd3"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x9dfd3e6633a03339f8554de30b48f58081240bd3",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5774,
+            "username": "tldr",
+            "display_name": "tldr (tim reilly)",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53a3c037-a0ba-4a23-54ff-2e144ee61e00/original",
+            "custody_address": "0x714f20cbda5d58114f2fa9913a8fe64836384809"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9dfd3e6633a03339f8554de30b48f58081240bd3",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "You really need to get in this Livecaster chat stat.\n\nUnreal game 7 action.",
+          "timestamp": "2025-11-02T03:20:00.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 5774,
+                "hash": "0x9ec51c4c69d1940ffa8d8f979b153a6321411036"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x9ec51c4c69d1940ffa8d8f979b153a6321411036",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 5774
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f660b676-1db3-46fa-d92d-065851bc8800/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 142430,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 923,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eb2f61e4-4508-4e26-55d7-c59b9c2b2c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 121268,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 923,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xcfbd6928",
+    "url": "https://farcaster.xyz/nounishprof/0xcfbd6928",
+    "author_username": "nounishprof",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-11-02T01:17:11.000Z",
+    "text": "I just minted my Top 8 WarpletSpace generated by my Farcaster Social Graph! Who's in your Top 8?!\n\ncc: @adrienne @bradq @burr.eth @symbiotech @thedude @mfa @jacy @warpee.eth",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7671b70c-8d3d-4dbd-3a18-b21108195200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 301829,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1270
+          }
+        }
+      },
+      {
+        "url": "https://warplet.space/share/4167",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://warplet.space/api/opengraph-image?fid=4167"
+              }
+            ],
+            "ogTitle": "WarpletSpace",
+            "ogLocale": "en",
+            "ogDescription": "Farcaster Fun",
+            "fcFrame": {
+              "button": {
+                "title": "Mint Now",
+                "action": {
+                  "url": "https://warplet.space",
+                  "name": "WarpletSpace",
+                  "tags": [
+                    "neynar",
+                    "starter-kit",
+                    "demo"
+                  ],
+                  "type": "launch_frame",
+                  "iconUrl": "https://warplet.space/icon.png",
+                  "description": "Farcaster Fun",
+                  "splashImageUrl": "https://warplet.space/splash.png",
+                  "primaryCategory": "art-creativity",
+                  "splashBackgroundColor": "#f7f7f7"
+                }
+              },
+              "ogTitle": "WarpletSpace",
+              "version": "next",
+              "imageUrl": "https://warplet.space/api/opengraph-image?fid=4167",
+              "ogImageUrl": "https://warplet.space/api/opengraph-image?fid=4167",
+              "ogDescription": "Farcaster Fun"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Mint Now",
+            "image": "https://warplet.space/api/opengraph-image?fid=4167",
+            "frames_url": "https://warplet.space/share/4167",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 446697,
+              "username": "zeni.eth",
+              "display_name": "Zeni",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66eb1240-306b-48b4-ceee-c4f5fd4a0200/original",
+              "custody_address": "0x82a68c395c835e72b06311ae67f5af07fb6c4658"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjQ0NjY5NywidHlwZSI6ImF1dGgiLCJrZXkiOiIweDkwMTI1RjllNTE1NWY0OTY1QTI0MjlEOWE0YjQwMjgzMzQxRDVCYTIifQ",
+                "payload": "eyJkb21haW4iOiJ3YXJwbGV0LnNwYWNlIn0",
+                "signature": "imieIw1yv1edyIOSO1bO/+rvDeGqmO/qwGn7eJtxkf8WP3pOP+O9KwH70kNRzwRoLYaXMjlDV2rZ0ruc3Mm6wxw="
+              },
+              "frame": {
+                "version": "1",
+                "name": "WarpletSpace",
+                "home_url": "https://warplet.space",
+                "icon_url": "https://warplet.space/icon.png",
+                "image_url": "https://warplet.space/api/opengraph-image",
+                "button_title": "Mint Now",
+                "splash_image_url": "https://warplet.space/splash.png",
+                "splash_background_color": "#f7f7f7",
+                "webhook_url": "https://api.neynar.com/f/app/06c09fc0-9ebc-4860-840d-b45218f93ec4/event"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "WarpletSpace",
+                "home_url": "https://warplet.space",
+                "icon_url": "https://warplet.space/icon.png",
+                "image_url": "https://warplet.space/api/opengraph-image",
+                "button_title": "Mint Now",
+                "splash_image_url": "https://warplet.space/splash.png",
+                "splash_background_color": "#f7f7f7",
+                "webhook_url": "https://api.neynar.com/f/app/06c09fc0-9ebc-4860-840d-b45218f93ec4/event"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfd71a525",
+    "url": "https://farcaster.xyz/felirami.eth/0xfd71a525",
+    "author_username": "felirami.eth",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 196149,
+    "author_pfp": "https://i.imgur.com/tUx7Emy.jpg",
+    "cast_date": "2025-11-01T07:38:33.000Z",
+    "text": "🎉 WarpletScan just got a major upgrade! (v1)\n\n✨ New features:\n\n• 📊 Filter by 13 trait categories\n• 🔍 Search by traits\n• 👤 Quick actions menu - view Farcaster profiles, Basescan & inventories\n• 🏆 Stats page with top 100 holders & their inventories\n• 📱 Mobile-optimized UI\n• ⚡️ Now as a Farcaster Mini App!\n\nExplore all Warplet NFTs by @sayangel in real-time 👾\n\nwarpletscan.xyz\n\nBuilt solo by me - donations welcome to keep it running! 💜\n\n(Sorry for the mistakes, haven't slept too much, first time recording and posting myself on an app I've made on farcaster! [Video is at 1.6x speed lol])",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/019a3e52-dfc6-d2d0-bdf4-953ec7ee2eed.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1156,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 770,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 578,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 384,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 348.5
+          }
+        }
+      },
+      {
+        "url": "https://warpletscan.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogTitle": "WarpletScan - Live Warplet NFT Mints",
+            "ogLocale": "en",
+            "ogDescription": "A searchable, real-time feed of all Warplet mints on Base.",
+            "fcFrame": {
+              "button": {
+                "title": "📊 Open WarpletScan",
+                "action": {
+                  "url": "https://warpletscan.xyz",
+                  "name": "WarpletScan",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://warpletscan.xyz/splash.png",
+                  "splashBackgroundColor": "#8B6EA6"
+                }
+              },
+              "version": "1",
+              "imageUrl": "https://warpletscan.xyz/image.png",
+              "aspectRatio": "3:2"
+            }
+          },
+          "frame": {
+            "version": "1",
+            "title": "📊 Open WarpletScan",
+            "image": "https://warpletscan.xyz/image.png",
+            "frames_url": "https://warpletscan.xyz/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 196149,
+              "username": "felirami.eth",
+              "display_name": "Felirami 🎩🍖",
+              "pfp_url": "https://i.imgur.com/tUx7Emy.jpg",
+              "custody_address": "0xcd2a73f9d34d78677f1eef184a4fc64188d4fbc4"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjE5NjE0OSwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDM2MTNhMUQ1MjRGMDU4QjZlMTUxM0M2NkMyNUY4N0RGOGI1ODY4RjYifQ",
+                "payload": "eyJkb21haW4iOiJ3YXJwbGV0c2Nhbi54eXoifQ",
+                "signature": "buYmVttbe1PnkxvE9M6UF/0+pFOg/YdrDGytCmTOqs5eIc/YBrgoThQQ9TcvW5/ncuxQCTJWL7cPOAomm246CRs="
+              },
+              "frame": {
+                "version": "1",
+                "name": "WarpletScan",
+                "home_url": "https://warpletscan.xyz",
+                "icon_url": "https://warpletscan.xyz/icon.png",
+                "splash_image_url": "https://warpletscan.xyz/splash.png",
+                "splash_background_color": "#8B6EA6",
+                "webhook_url": "https://warpletscan.xyz/api/webhook",
+                "subtitle": "Real-time Warplet NFTs",
+                "description": "Real-time, searchable feed of Warplet NFTs on Base. Track mints, explore traits, and discover creators enriched with Farcaster data.",
+                "screenshot_urls": [
+                  "https://warpletscan.xyz/screenshot1.png"
+                ],
+                "primary_category": "utility",
+                "tags": [
+                  "warplet",
+                  "nft",
+                  "base",
+                  "farcaster",
+                  "feed"
+                ],
+                "hero_image_url": "https://warpletscan.xyz/hero.png",
+                "og_title": "WarpletScan – Warplet NFTs",
+                "og_description": "Discover, search, and explore Warplet NFTs enriched with Farcaster data – all in real time.",
+                "og_image_url": "https://warpletscan.xyz/og-image.png",
+                "noindex": false,
+                "canonical_domain": "warpletscan.xyz"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "WarpletScan",
+                "home_url": "https://warpletscan.xyz",
+                "icon_url": "https://warpletscan.xyz/icon.png",
+                "splash_image_url": "https://warpletscan.xyz/splash.png",
+                "splash_background_color": "#8B6EA6",
+                "webhook_url": "https://warpletscan.xyz/api/webhook",
+                "subtitle": "Real-time Warplet NFTs",
+                "description": "Real-time, searchable feed of Warplet NFTs on Base. Track mints, explore traits, and discover creators enriched with Farcaster data.",
+                "screenshot_urls": [
+                  "https://warpletscan.xyz/screenshot1.png"
+                ],
+                "primary_category": "utility",
+                "tags": [
+                  "warplet",
+                  "nft",
+                  "base",
+                  "farcaster",
+                  "feed"
+                ],
+                "hero_image_url": "https://warpletscan.xyz/hero.png",
+                "og_title": "WarpletScan – Warplet NFTs",
+                "og_description": "Discover, search, and explore Warplet NFTs enriched with Farcaster data – all in real time.",
+                "og_image_url": "https://warpletscan.xyz/og-image.png",
+                "noindex": false,
+                "canonical_domain": "warpletscan.xyz"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x95a9c731",
+    "url": "https://farcaster.xyz/sohey/0x95a9c731",
+    "author_username": "sohey",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 20390,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/587b5b44-e4b2-4c04-17d1-e65d803d2800/original",
+    "cast_date": "2025-10-30T18:58:32.000Z",
+    "text": "🔔 ding ding ding!! We've been cooking\n\nNotifications Analytics is live. Now you can track subscribers, measure CTR, and test different notification strategies to see what actually works.",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/base-app/video/upload/sp_auto/v1761850701/b914c8977739e07bd25fe2dcb09a68b4.mp4-a8e91e57-3716-4068-88e2-0b87c9d2c715.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": 613,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 540,
+                "width_px": 888,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 592,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 270,
+                "width_px": 444,
+                "codec_name": "h264"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa7545879",
+    "url": "https://farcaster.xyz/wilsoncusack/0xa7545879",
+    "author_username": "wilsoncusack",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 742,
+    "author_pfp": "https://i.imgur.com/NqeHHhK.png",
+    "cast_date": "2025-11-02T20:17:51.000Z",
+    "text": "Headed to Base 2026 planning onsite \n\nHit me with your stop/start/continue for Base in 2026",
+    "embeds": [
+      {
+        "url": "zoraCoin://0x255e06f545047e6e30035ff15b13a37731a07a7d",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xe95a04f2",
+    "url": "https://farcaster.xyz/limone.eth/0xe95a04f2",
+    "author_username": "limone.eth",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 4461,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb6aa274-8daa-49b1-8d66-00c7c43f1200/original",
+    "cast_date": "2025-10-30T19:20:00.000Z",
+    "text": "miniapps 101 by @builders-garden & @urbe-eth in Buenos Aires before /devconnect 🇦🇷\n\nlearn how to design, build, and distribute miniapps across Farcaster and @base.base.eth, seamlessly embedded in-feed and in-chat through @xmtp\n\nnov 14th, 3-7pm\n\nrsvp 👇\nhttps://luma.com/ma0gsh08",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7bbfce10-808c-4a04-250c-2b319e8bc800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 592235,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 800,
+            "height_px": 800
+          }
+        }
+      },
+      {
+        "url": "https://luma.com/ma0gsh08",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://luma.com/ma0gsh08",
+            "ogType": "article",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://og.luma.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=419/api/event-one?calendar_avatar=https%3A%2F%2Fcdn.lu.ma%2Favatars-default%2Fcommunity_avatar_12.png&calendar_name&color0=%23fdfdfd&color1=%230403f7&color2=%2399613a&color3=%2388bc38&host_avatar=https%3A%2F%2Fimages.lumacdn.com%2Favatars%2F5a%2Ff81eb8f8-48e9-4828-bcac-d12ad001d636.png&host_name=urbe.eth&img=https%3A%2F%2Fimages.lumacdn.com%2Fevent-covers%2Fqc%2F9687bda7-5140-4f3d-8ac3-482ab0fb05a0.jpg&name=Miniapps%20101%20-%20Design%2C%20ship%2C%20and%20distribute%20miniapps",
+                "width": "800",
+                "height": "419"
+              }
+            ],
+            "ogTitle": "Miniapps 101 - Design, ship, and distribute miniapps · Luma",
+            "ogLocale": "en",
+            "ogDescription": "Join us for an afternoon dedicated to building Miniapps with urbe.eth and Builders Garden.\n\nThe next evolution of digital experiences extends beyond app stores…"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0a715706",
+    "url": "https://farcaster.xyz/annoushka.eth/0x0a715706",
+    "author_username": "annoushka.eth",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 2736,
+    "author_pfp": "https://i.imgur.com/C9MzmTN.jpg",
+    "cast_date": "2025-11-03T13:32:06.000Z",
+    "text": "If you’re coming for @devcon later this month, we’re hosting a small @interface gathering on Nov 20 !!!\n\nhttps://luma.com/066t5330",
+    "embeds": [
+      {
+        "url": "https://luma.com/066t5330",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://luma.com/066t5330",
+            "ogType": "article",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://og.luma.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=419/api/event-one?calendar_avatar=https%3A%2F%2Fcdn.lu.ma%2Favatars-default%2Fcommunity_avatar_14.png&calendar_name&color0=%230f1317&color1=%23087609&color2=%23ededef&color3=%2345a643&host_avatar=https%3A%2F%2Fimages.lumacdn.com%2Favatars%2Fby%2Fad54c96d-8f4f-43b8-9ac3-8dd480a68b81&host_name=annoushka.eth&img=https%3A%2F%2Fimages.lumacdn.com%2Fevent-covers%2Frx%2F8248c6dc-380c-4ed7-ae54-fac861e66b86.png&name=Interface%20Copy%20Traders%20Meetup",
+                "width": "800",
+                "height": "419"
+              }
+            ],
+            "ogTitle": "Interface Copy Traders Meetup · Luma",
+            "ogLocale": "en",
+            "ogDescription": "We’re hosting an evening to talk coins, share strategies, and meet other Interfacers in person. Whether you’re an active user or new to this whole Ethereum…"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x2bc2befd",
+    "url": "https://farcaster.xyz/myk/0x2bc2befd",
+    "author_username": "myk",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 217248,
+    "author_pfp": "https://res.cloudinary.com/base-app/image/upload/f_auto/v1757722464/image_uploads/b3f3c1db-262c-407c-8100-4f4fb0798440.jpg",
+    "cast_date": "2025-11-02T01:32:47.000Z",
+    "text": "Over 100 wishlists have been created on wishlist.holiday!\n\nI have been using a custom wishlist app for the past few years with family and friends. The app has made our holiday gifting way easier and now it's available for everyone!",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/base-app/image/upload/f_auto/v1762047165/30ca5d96-8795-4dfa-9259-12c4fa852eaf.jpg.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 47628,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 954,
+            "height_px": 861
+          }
+        }
+      },
+      {
+        "url": "https://wishlist.holiday/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://wishlist.holiday/",
+            "ogType": "website",
+            "favicon": "/favicon.ico?favicon.fbd6e904.ico",
+            "ogImage": [
+              {
+                "alt": "Wishlist - Create Your Perfect Holiday Wishlist",
+                "url": "https://wishlist.holiday/images/hero.png",
+                "type": "png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Wishlist - Create Your Perfect Holiday Wishlist",
+            "ogLocale": "en",
+            "ogDescription": "Create and organize your holiday wishlist by adding items from any website. Share with family and friends to make gift-giving easier.",
+            "fcFrame": {
+              "button": {
+                "title": "Launch Wishlist",
+                "action": {
+                  "url": "https://wishlist.holiday/",
+                  "name": "Wishlist",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://wishlist.holiday/images/logo.png",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "1",
+              "imageUrl": "https://wishlist.holiday/images/hero.png"
+            }
+          },
+          "frame": {
+            "version": "1",
+            "title": "Launch Wishlist",
+            "image": "https://wishlist.holiday/images/hero.png",
+            "frames_url": "https://wishlist.holiday/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 217248,
+              "username": "myk",
+              "display_name": "myk.eth",
+              "pfp_url": "https://res.cloudinary.com/base-app/image/upload/f_auto/v1757722464/image_uploads/b3f3c1db-262c-407c-8100-4f4fb0798440.jpg",
+              "custody_address": "0xeba78717b6f059cfe0b75e75c2ed4bb7ca65154f"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjIxNzI0OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGViYTc4NzE3YjZmMDU5Q0ZFMGI3NUU3NUMyZWQ0QkI3Y0E2NTE1NEYifQ",
+                "payload": "eyJkb21haW4iOiJ3aXNobGlzdC5ob2xpZGF5In0",
+                "signature": "RcZ5KSBGQV5o+BzUjqRwM2+MhvsIwKqWvuKyU1unQUAvAdC1u+8S+vEMKkR3+jfLcJiwJigyTgU+iAn5BkG9qRw="
+              },
+              "frame": {
+                "version": "1",
+                "name": "Wishlist",
+                "home_url": "https://wishlist.holiday",
+                "icon_url": "https://wishlist.holiday/images/logo.png",
+                "splash_image_url": "https://wishlist.holiday/images/logo.png",
+                "splash_background_color": "#fcf8f3",
+                "webhook_url": "https://wishlist.holiday/api/webhook",
+                "subtitle": "Holiday shopping coordination",
+                "description": "Create your perfect holiday wishlist. Collaborate with family and friends!",
+                "screenshot_urls": [
+                  "https://wishlist.holiday/images/screenshot-1.png",
+                  "https://wishlist.holiday/images/screenshot-2.png",
+                  "https://wishlist.holiday/images/screenshot-3.png"
+                ],
+                "primary_category": "shopping",
+                "tags": [
+                  "holidays",
+                  "gift",
+                  "christmas",
+                  "exchange",
+                  "secret santa"
+                ],
+                "hero_image_url": "https://wishlist.holiday/images/hero.png",
+                "tagline": "Holiday shopping coordination",
+                "og_title": "Wishlist",
+                "og_description": "Create your perfect holiday wishlist. Collaborate with family and friends!",
+                "og_image_url": "https://wishlist.holiday/images/hero.png",
+                "noindex": false
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Wishlist",
+                "home_url": "https://wishlist.holiday",
+                "icon_url": "https://wishlist.holiday/images/logo.png",
+                "splash_image_url": "https://wishlist.holiday/images/logo.png",
+                "splash_background_color": "#fcf8f3",
+                "webhook_url": "https://wishlist.holiday/api/webhook",
+                "subtitle": "Holiday shopping coordination",
+                "description": "Create your perfect holiday wishlist. Collaborate with family and friends!",
+                "screenshot_urls": [
+                  "https://wishlist.holiday/images/screenshot-1.png",
+                  "https://wishlist.holiday/images/screenshot-2.png",
+                  "https://wishlist.holiday/images/screenshot-3.png"
+                ],
+                "primary_category": "shopping",
+                "tags": [
+                  "holidays",
+                  "gift",
+                  "christmas",
+                  "exchange",
+                  "secret santa"
+                ],
+                "hero_image_url": "https://wishlist.holiday/images/hero.png",
+                "tagline": "Holiday shopping coordination",
+                "og_title": "Wishlist",
+                "og_description": "Create your perfect holiday wishlist. Collaborate with family and friends!",
+                "og_image_url": "https://wishlist.holiday/images/hero.png",
+                "noindex": false
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x326224c4",
+    "url": "https://farcaster.xyz/bbroad/0x326224c4",
+    "author_username": "bbroad",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 7212,
+    "author_pfp": "https://i.seadn.io/gae/gMFepT95XX17rzo8LVKff1flse5MrvpkV2t8451xZ4jTP-_kZ-27vMZN5qFd37E571eUDlxIlD9MI_BwW3u34-4yBxzBiDrsG2Cj?w=500&auto=format",
+    "cast_date": "2025-11-03T01:26:06.000Z",
+    "text": "Just signed up for the $BADTRADERS competition! 🎯\n\nThe worst trader wins a share of trading fees. You need 1M+ tokens to compete.\n\nTry it: https://farcaster.xyz/miniapps/VUfJIkwWqE7a/badtraders",
+    "embeds": [
+      {
+        "url": "https://farcaster.xyz/miniapps/VUfJIkwWqE7a/badtraders",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz/miniapps/019a4255-fddf-ea06-026e-b0ed51f2901f/badtraders",
+            "ogType": "website",
+            "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fbadtraders.vercel.app%2Ficon.jpg&s=b82c9975ad5ef83309d43ec1933e0264263d9ce1a5336bc6eebd88e7c37be27d",
+            "ogImage": [
+              {
+                "url": "https://badtraders.vercel.app/og-image.jpg",
+                "type": "jpg",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "$BADTRADERS - For Traders Who Can’t Trade",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster Mini App",
+            "ogDescription": "The official meme coin for Farcaster’s worst traders. Bull market? Not for us.",
+            "fcFrame": {
+              "button": {
+                "title": "Open",
+                "action": {
+                  "url": "https://badtraders.vercel.app/",
+                  "name": "$BADTRADERS",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://badtraders.vercel.app/icon.jpg",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://badtraders.vercel.app/og-image.jpg"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Open",
+            "image": "https://badtraders.vercel.app/og-image.jpg",
+            "frames_url": "https://farcaster.xyz/miniapps/VUfJIkwWqE7a/badtraders"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc2105d4f",
+    "url": "https://farcaster.xyz/chriscocreated/0xc2105d4f",
+    "author_username": "chriscocreated",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 5701,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/117f5639-2d6f-4aef-f414-c83538564600/original",
+    "cast_date": "2025-11-03T13:37:17.000Z",
+    "text": "📣🚀 Every Warplet in the largest piece I've made - 49,152 Warplets in a 180MB Image\n\nI heard from too many people who got missed. So we are doing it for the whole Warplet community. \n\n⚡ FREE SD mint (23 px PFPs) - just like this cast\n🔥 Limited HD edition (92 px PFPs) - a unique artefact\n⏳ Open for 48 hours only\n\nAllowlist price for everyone who bought the HD version last week.\n\nI give you WeCast Warplets 49K!\n\nhttps://mint-frame-we-cast-pro.vercel.app",
+    "embeds": [
+      {
+        "url": "https://mint-frame-we-cast-pro.vercel.app",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "WeCastWarplets 49k Mint",
+            "ogLocale": "en",
+            "ogDescription": "Mint WeCastWarplets 49k Mint",
+            "fcFrame": {
+              "button": {
+                "title": "Free Mint",
+                "action": {
+                  "url": "https://mint-frame-we-cast-pro.vercel.app//art/wecastwarplets49k",
+                  "name": "WeCastWarplets 49k Mint",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://mint-frame-we-cast-pro.vercel.app//images/WeCastWarplet49k/WeCastWarplet49k_Hero.jpeg",
+                  "splashBackgroundColor": "#6A3CFF"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://mint-frame-we-cast-pro.vercel.app//images/WeCastWarplet49k/WeCastWarplet49k_Hero.jpeg"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Free Mint",
+            "image": "https://mint-frame-we-cast-pro.vercel.app//images/WeCastWarplet49k/WeCastWarplet49k_Hero.jpeg",
+            "frames_url": "https://mint-frame-we-cast-pro.vercel.app/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 5701,
+              "username": "chriscocreated",
+              "display_name": "ChrisCoCreated",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/117f5639-2d6f-4aef-f414-c83538564600/original",
+              "custody_address": "0x214573f904759874c9c2e4903b1cbd0bb5821e1d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjU3MDEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgyMTQ1NzNGOTA0NzU5ODc0QzlDMmU0OTAzYjFjYmQwYkI1ODIxZTFEIn0",
+                "payload": "eyJkb21haW4iOiJtaW50LWZyYW1lLXdlLWNhc3QtcHJvLnZlcmNlbC5hcHAifQ",
+                "signature": "MHg5NGVmODVlYjNjN2I1MjY3MTE0M2EzNWZkNzFlM2VhYmJlYTI0ODUzOGFhZTMzMjA5Njg0YjI0YTQ5MjAxOWUxMjY4NzZmZWUyMzNkZmIwZmIxYjY0MjNlY2UxNTRjNjdmMzlmMWVkYWVkYjE0ZTM4MTkwZmM3MzU2MzU1MGQ0NTFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "WeCastWarplets 49k Mint",
+                "home_url": "https://mint-frame-we-cast-pro.vercel.app/",
+                "icon_url": "https://mint-frame-we-cast-pro.vercel.app//images/WeCastWarplet49k/WeCastWarplet49k_Thumbnail.jpeg",
+                "splash_image_url": "https://mint-frame-we-cast-pro.vercel.app//images/WeCastWarplet49k/WeCastWarplet49k_300px.jpeg",
+                "splash_background_color": "#6A3CFF",
+                "webhook_url": "https://api.neynar.com/f/app/581c9d40-7237-423b-9e2a-de012c6fcb5d/event",
+                "subtitle": "Mint WeCastWarplets 49k Mint",
+                "description": "Mint WeCastWarplets 49k Mint",
+                "screenshot_urls": [
+                  "https://mint-frame-we-cast-pro.vercel.app//screenshot1.png",
+                  "https://mint-frame-we-cast-pro.vercel.app//screenshot2.png",
+                  "https://mint-frame-we-cast-pro.vercel.app//screenshot3.png"
+                ],
+                "primary_category": "art-creativity",
+                "tags": [
+                  "social",
+                  "community",
+                  "art",
+                  "cocreated",
+                  "artifact"
+                ],
+                "hero_image_url": "https://mint-frame-we-cast-pro.vercel.app//images/WeCastWarplet49k/WeCastWarplet49k_Hero.jpeg",
+                "tagline": "Mint WeCastWarplets 49k Mint",
+                "og_title": "WeCastWarplets 49k Mint",
+                "og_description": "Mint WeCastWarplets 49k Mint",
+                "og_image_url": "https://mint-frame-we-cast-pro.vercel.app//images/WeCastWarplet49k/WeCastWarplet49k_Hero.jpeg",
+                "noindex": false
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "WeCastWarplets 49k Mint",
+                "home_url": "https://mint-frame-we-cast-pro.vercel.app/",
+                "icon_url": "https://mint-frame-we-cast-pro.vercel.app//images/WeCastWarplet49k/WeCastWarplet49k_Thumbnail.jpeg",
+                "splash_image_url": "https://mint-frame-we-cast-pro.vercel.app//images/WeCastWarplet49k/WeCastWarplet49k_300px.jpeg",
+                "splash_background_color": "#6A3CFF",
+                "webhook_url": "https://api.neynar.com/f/app/581c9d40-7237-423b-9e2a-de012c6fcb5d/event",
+                "subtitle": "Mint WeCastWarplets 49k Mint",
+                "description": "Mint WeCastWarplets 49k Mint",
+                "screenshot_urls": [
+                  "https://mint-frame-we-cast-pro.vercel.app//screenshot1.png",
+                  "https://mint-frame-we-cast-pro.vercel.app//screenshot2.png",
+                  "https://mint-frame-we-cast-pro.vercel.app//screenshot3.png"
+                ],
+                "primary_category": "art-creativity",
+                "tags": [
+                  "social",
+                  "community",
+                  "art",
+                  "cocreated",
+                  "artifact"
+                ],
+                "hero_image_url": "https://mint-frame-we-cast-pro.vercel.app//images/WeCastWarplet49k/WeCastWarplet49k_Hero.jpeg",
+                "tagline": "Mint WeCastWarplets 49k Mint",
+                "og_title": "WeCastWarplets 49k Mint",
+                "og_description": "Mint WeCastWarplets 49k Mint",
+                "og_image_url": "https://mint-frame-we-cast-pro.vercel.app//images/WeCastWarplet49k/WeCastWarplet49k_Hero.jpeg",
+                "noindex": false
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdb4995b5",
+    "url": "https://farcaster.xyz/bizarrebeast/0xdb4995b5",
+    "author_username": "bizarrebeast",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 357897,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6f2cca88-a12a-4b50-8e70-08d7a8fd7c00/original",
+    "cast_date": "2025-10-30T11:36:41.000Z",
+    "text": "👑 BIZARREBEASTS #1 RANK: WE WON THE DCP GRANT! 🏆\n\nI'm going absolutely BIZARRE to announce that BizarreBeasts ($BB) secured the #1 RANKING in the Decentralized Pictures (DCP) Award for Base Creators, landing us an award of $1,000 funding! 🔌\n\nWe were ranked #1 because of our $BIZARRE community: 150,000+ total game plays and 5,800+ token holders, and this recognition continues to confirm the strength of our artist-led, community-first BIZARRE ecosystem on @base.base.eth. 🚀\n\nThe $1,000 award will be reinvested directly into IP expansion and technology for BizarreBeasts artwork (fueling new art, animations, and games) and community rewards via /cura and $GLANKER!\n\nRead the full story on what this means for BizarreBeasts ($BB), and check out the official DCP leaderboard 👇 https://paragraph.com/@bizarrebeasts/bizarrebeasts-acheives-1st-place-in-dcp-base-creator-grant \n\n@dcpfoundation - THANKS for the opportunity! Be on the lookout for the BizarreBeasts artwork dropping on @zora in November!\n\nLFBIZARRE and keep building! 👹💰\n\nCC @mattdcp @dish @yerbearserker @diviflyy",
+    "embeds": [
+      {
+        "url": "https://paragraph.com/@bizarrebeasts/bizarrebeasts-acheives-1st-place-in-dcp-base-creator-grant",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://paragraph.com/@bizarrebeasts/bizarrebeasts-acheives-1st-place-in-dcp-base-creator-grant",
+            "ogDate": "2025-10-30T11:13:42.114Z",
+            "ogType": "article",
+            "favicon": "https://storage.googleapis.com/papyrus_images/e6b8f22eb178049c0c5e0b30bc4a4cba.jpg",
+            "ogImage": [
+              {
+                "alt": "BizarreBeasts Acheives 1st Place in DCP Base Creator Grant!",
+                "url": "https://paragraph.com/api/og?title=BizarreBeasts+Acheives+1st+Place+in+DCP+Base+Creator+Grant%21&blogName=BizarreBeasts+%28%24BB%29&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fc6f7b23857405b1c427ba96d4016cc1536736faf2f853255ba616d3103ac2265.jpg&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fe6b8f22eb178049c0c5e0b30bc4a4cba.jpg&publishedDate=1761822822114",
+                "type": "image/png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "BizarreBeasts Acheives 1st Place in DCP Base Creator Grant!",
+            "ogLocale": "en",
+            "ogDescription": "I am going absolutely BIZARRE and deeply honored to announce that BizarreBeasts achieved the #1 ranking in the Decentralized Pictures (DCP) Award for Base Creators, an onchain grant supporting innovative artists! Check out the Official DCP Announcement! This award is a huge win for the entire BizarreBeasts community! While the Top 3 projects all received the $1,000 in production funding prize, we are incredibly proud that our vision, dedication, and community engagement were recognized by DCP...",
+            "fcFrame": {
+              "button": {
+                "title": "Read",
+                "action": {
+                  "url": "https://paragraph.com/@bizarrebeasts/bizarrebeasts-acheives-1st-place-in-dcp-base-creator-grant?frame=true",
+                  "name": "Paragraph",
+                  "type": "launch_frame",
+                  "splashImageUrl": "https://paragraph.com/branding/v2/logomark_white_nopadding.png",
+                  "splashBackgroundColor": "#131111"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://paragraph.com/api/og?title=BizarreBeasts%20Acheives%201st%20Place%20in%20DCP%20Base%20Creator%20Grant!&blogName=BizarreBeasts%20(%24BB)&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fe6b8f22eb178049c0c5e0b30bc4a4cba.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fc6f7b23857405b1c427ba96d4016cc1536736faf2f853255ba616d3103ac2265.jpg&size=2048&publishedDate=1761822822114&for=farcaster"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "Read",
+            "image": "https://paragraph.com/api/og?title=BizarreBeasts%20Acheives%201st%20Place%20in%20DCP%20Base%20Creator%20Grant!&blogName=BizarreBeasts%20(%24BB)&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fe6b8f22eb178049c0c5e0b30bc4a4cba.jpg&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fc6f7b23857405b1c427ba96d4016cc1536736faf2f853255ba616d3103ac2265.jpg&size=2048&publishedDate=1761822822114&for=farcaster",
+            "frames_url": "https://paragraph.com/@bizarrebeasts/bizarrebeasts-acheives-1st-place-in-dcp-base-creator-grant",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 12312,
+              "username": "paragraph",
+              "display_name": "Paragraph",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4855b0cc-c1da-482c-de24-962162497200/original",
+              "custody_address": "0x1e8dc1e7210fc6b64cc6d48f1f04acc23d640477"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEyMzEyLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MUU4ZGMxZTcyMTBGYzZiNjRjQzZENDhmMWYwNEFjYzIzZDY0MDQ3NyJ9",
+                "payload": "eyJkb21haW4iOiJwYXJhZ3JhcGguY29tIn0",
+                "signature": "MHgyZDRiMzBmYTc3ZmI0YTBjMTMyMzVjNTM1ZjRmZjU0Nzk1MTg5YjYyZmQ3NzJjMTA4NjE4ZWFmNDQ3ZjFhNzY2N2UyNjViZTc1Nzc1NDVjZjJiNmU0ZWQ3YTJhNDk3OWQ0NDExMzM2ODljNzYyNTM4NTBlNmVkMjZlMTk4MTMwNzFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark_cobalt.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark_white_nopadding.png",
+                "splash_background_color": "#131111",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                "subtitle": "Earn from ideas that matter.",
+                "description": "A new way to earn off your best ideas.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "newsletter",
+                  "writing",
+                  "creator",
+                  "reading"
+                ],
+                "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "tagline": "Where ideas thrive.",
+                "og_title": "Paragraph",
+                "og_description": "A new way to earn off your best ideas.",
+                "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "Paragraph",
+                "home_url": "https://paragraph.com/home?frame=true",
+                "icon_url": "https://paragraph.com/branding/v2/logomark_cobalt.png",
+                "image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "button_title": "Discover great writing",
+                "splash_image_url": "https://paragraph.com/branding/v2/logomark_white_nopadding.png",
+                "splash_background_color": "#131111",
+                "webhook_url": "https://paragraph.com/api/farcaster/v3/frame/webhook",
+                "subtitle": "Earn from ideas that matter.",
+                "description": "A new way to earn off your best ideas.",
+                "primary_category": "news-media",
+                "tags": [
+                  "blog",
+                  "newsletter",
+                  "writing",
+                  "creator",
+                  "reading"
+                ],
+                "hero_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg",
+                "tagline": "Where ideas thrive.",
+                "og_title": "Paragraph",
+                "og_description": "A new way to earn off your best ideas.",
+                "og_image_url": "https://paragraph.com/branding/v2/where_ideas_thrive.jpg"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfba7a303",
+    "url": "https://farcaster.xyz/jc4p/0xfba7a303",
+    "author_username": "jc4p",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 977233,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+    "cast_date": "2025-10-30T18:46:58.000Z",
+    "text": "Some graphs from the Zora live stream, tl;dr:\n\n1. It pays to be a builder (esp if you're an established one)\n2. Creatives are most likely to break away from mold and make more\n3. You CAN make money without being super popular (on FC at least, idk about their IG followers)",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5c9470c4-c1ac-42bd-2f81-3025caebb300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 363132,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1129
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2c66c4a7-78a2-4580-2f2e-c0dd1d6ab000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 147107,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1136
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc825bb61",
+    "url": "https://farcaster.xyz/patriciaxlee.eth/0xc825bb61",
+    "author_username": "patriciaxlee.eth",
+    "show_date": "2025-11-03",
+    "show_title": "The Tribe Has Spoken (and It’s Onchain): GM Farcaster ep306 and CastOut launch!",
+    "source_episode_id": "sA0BPn2WmVk",
+    "author_fid": 719715,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cccc97ef-8ef1-4925-85c3-a9326be2af00/rectcrop3",
+    "cast_date": "2025-11-01T18:02:54.000Z",
+    "text": "Five days ago, I asked @chaim.eth if there was anything we fans could do to convince him to bring Acid Test back. His answer was, “May bring it back eventually” and explained that the revenue from the episodes was not enough to produce the show.\n\nTwo days ago, he cast, “Hey who’s up and wants to listen to something weird?” Then yesterday, he posted the first Acid Test episode after a four-month hiatus. In 24 hours, it earned the equivalent of seven straight weeks on the leaderboard. It is the highest earning episode yet.\n\nI am pointing this number out because I have cast about the leaderboard several times before, encouraging people to think outside of its zero-sum box. But I’m not sure if the message has fully landed because I still get asked for advice on how to climb the leaderboard.\n\nSo here’s my advice, again:\n\n- ignore the leaderboard presented to you and create your own where the rewards are intrinsic and infinite\n- connect with people who genuinely interest you, not targeting individuals to boost your engagement\n- follow the call of your weirdness even when you don’t know who or what you’ll find when you get there\n- limit the time between your idea and your experiment so you don’t overthink your way into not creating\n- have fun (what @sayangel has been saying all along)!\n\nMoney is an expression of energy. When do you feel most high energy? When you’re having fun. Start there and see what happens.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 719715,
+          "hash": "0xa0255f33d37cf74fd85b5ea35057416a0ac32870"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa0255f33d37cf74fd85b5ea35057416a0ac32870",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 719715,
+            "username": "patriciaxlee.eth",
+            "display_name": "Patricia Lee",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cccc97ef-8ef1-4925-85c3-a9326be2af00/rectcrop3",
+            "custody_address": "0x82c653cad9a460a4e0ee091e776aa43c5af1728d"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa0255f33d37cf74fd85b5ea35057416a0ac32870",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/appreciation",
+          "root_parent_url": "https://warpcast.com/~/channel/appreciation",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Acid Test is a series of high quality interviews focusing on iconic people and moments in Farcaster’s history. The recent episode is with the creator of the viral Warplets. All previous episodes feature similarly exciting projects in the network. I’ve been a fan since my very first listen.\n\nIf you didn’t know, there is a brief window after every Acid Test episode to mint it. Once the window closes, you can’t add yourself to the list of collectors. It’s a fun and simple opportunity to add your name to a little part of network history.\n\nI believe these episodes will age very well. With how fast things change around here, the existing archive is already worth re-visiting. You can still mint your own edition of the most collected episode ever on my most favorite onchain radio show.",
+          "timestamp": "2025-10-31T23:27:43.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 1504,
+                "hash": "0x2e19aa17683617c56b2502dbe7633eb5a1da3a3a"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x2e19aa17683617c56b2502dbe7633eb5a1da3a3a",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 1504
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "appreciation",
+            "name": "appreciation",
+            "image_url": "https://i.imgur.com/AtO178g.png"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/82eb63dd-5725-4c07-3f20-d9f283ddeb00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 110804,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1158
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

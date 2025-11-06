@@ -1,0 +1,1286 @@
+[
+  {
+    "cast_hash": "0xe539ef79",
+    "url": "https://farcaster.xyz/bertwurst.eth/0xe539ef79",
+    "author_username": "bertwurst.eth",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 864405,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0a933a84-7f05-42da-9e4d-1b7d10507600/original",
+    "cast_date": "2025-10-17T22:12:13.000Z",
+    "text": "Wasn't sure about sizing but I think we nailed it. \n\nThank you @m00npapi.eth and @clanker for the /firefit.",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/87610d60-d88e-4e9c-ffa4-11fcb657b300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 981374,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1879,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xad59e0a5",
+    "url": "https://farcaster.xyz/dish/0xad59e0a5",
+    "author_username": "dish",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 15549,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/87fbe83b-1455-4f62-f389-ae82d7452900/original",
+    "cast_date": "2025-10-17T21:43:22.000Z",
+    "text": "wondering what @poolfans building on top of clanker? \n\ncheck this thread out to see how tokenizing fees can look like for your project, which supports existing tokens as well as new tokens!\n\nThey're also covering clanker from a technical perspective too on their thorough docs, check it out: https://poolfans.gitbook.io/poolfans-docs/guides/clanker",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 240260,
+          "hash": "0xd21da85bcac2d4378289887db8173a7fd82ef7be"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xd21da85bcac2d4378289887db8173a7fd82ef7be",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 240260,
+            "username": "nodes",
+            "display_name": "Nodar 💦",
+            "pfp_url": "https://i.imgur.com/MUPXrC8.jpg",
+            "custody_address": "0x438ebd9ff8b26ab88205171f7645a91a04d950bd"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xd21da85bcac2d4378289887db8173a7fd82ef7be",
+          "parent_hash": null,
+          "parent_url": "https://farcaster.xyz/~/channel/poolfans",
+          "root_parent_url": "https://farcaster.xyz/~/channel/poolfans",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "ayo PoolFam this might be too complex if you're not too deep in defi but for those who want to dive in i also made this model in Google Colab: https://colab.research.google.com/drive/1CuBXvMtO_LNThAgKhoNV7I1fubBAjpbw?usp=sharing \n  \n🚀 Model Features:\n\n  1. Bonding Curves (4 types)\n\n  - Linear: Simple proportional pricing\n  - Quadratic: Accelerating growth\n  - Exponential: Compound growth (recommended)\n  - Sigmoid: S-shaped with natural limits\n\n  2. Fee Token Auctions\n\n  - Simulates competitive bidding\n  - Calculates optimal token minting\n  - Tracks auction efficiency (bid/fee ratio)\n  - Analyzes competition effects\n\n  3. Market Dynamics Simulation\n\n  - 30-day trading simulation\n  - Buy/sell pressure modeling\n  - Protocol fee collection tracking\n  - Token burn mechanics\n  - Volatility analysis\n\n  4. Price Impact Analysis\n\n  - Calculates slippage for different trade sizes\n  - Separate analysis for buys and sells\n  - Helps determine optimal trade limits\n\n  5. Reward Distribution\n\n  - Performance-based allocation\n  - Proportional distribution\n  - Equal distribution options\n  - Gini coefficient for inequality measurement\n\nHappy learning and please post your questions/suggestions right in the colab file i made comments available 🙏",
+          "timestamp": "2025-10-15T19:14:10.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 240260,
+                "hash": "0x1668aa1e2d2cac3b2fc5e88aa31eed727446d31e"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x1668aa1e2d2cac3b2fc5e88aa31eed727446d31e",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 240260
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 309857
+                }
+              }
+            },
+            {
+              "url": "https://colab.research.google.com/drive/1CuBXvMtO_LNThAgKhoNV7I1fubBAjpbw?usp=sharing",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogType": "article",
+                  "favicon": "https://ssl.gstatic.com/colaboratory-static/common/00d9594a798035db0237ab83f0d9cdd0/img/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://colab.research.google.com/img/colab_favicon_256px.png",
+                      "type": "png"
+                    }
+                  ],
+                  "ogTitle": "Google Colab",
+                  "ogLocale": "en"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "poolfans",
+            "name": "PoolFans",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/12cbb088-5e8f-41b0-875c-b16ae4224700/original"
+          }
+        }
+      },
+      {
+        "url": "https://poolfans.gitbook.io/poolfans-docs/guides/clanker",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://poolfans.gitbook.io/poolfans-docs/guides/clanker",
+            "ogDate": "2025-10-14T04:22:13.920Z",
+            "favicon": "https://poolfans.gitbook.io/poolfans-docs/~gitbook/image?url=https%3A%2F%2F3806795857-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FpkD1iB7QGxaitQwv3EK2%252Fsites%252Fsite_D1xX5%252Ficon%252FY9o8C0k8Z6rsTcNPpmsp%252Fappicon.jpeg%3Falt%3Dmedia%26token%3D474f5fcc-1165-4415-8c85-7768e4bd8a2a&width=48&height=48&sign=181622fb&sv=2",
+            "ogImage": [
+              {
+                "url": "https://poolfans.gitbook.io/poolfans-docs/~gitbook/ogimage/tRrw2VCEGQiS8gH9bb3r"
+              }
+            ],
+            "ogTitle": "Clanker | PoolFans Docs",
+            "ogLocale": "en"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x870a758b",
+    "url": "https://farcaster.xyz/thedude/0x870a758b",
+    "author_username": "thedude",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 13874,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/77692cb0-6fb5-40c7-ced3-42353e178b00/original",
+    "cast_date": "2025-09-30T21:59:35.000Z",
+    "text": "Introducing @bribe literally put blood, sweat, tears, magic and weed into this mini-app. I hope you guys like it!!\n\nYOU CAN FINALLY SEND AUDIO MESSAGES ON FARCASTER - with a twist!\n\nIt allows you to send bribes as audio messages to anyone on Farcaster, and if they listen to it on time, they get to claim the $bribe you sent them!! If they don't listen to it on time, you reclaim your $bribe back!!\n\nit's on Arb, so you need some gas on there to claim!! \n\nhttps://bribe-lyart.vercel.app/\n\nThe CA is: 0x014d482f8403227cf65e1512e94d95606d536b07\n\nClank Clank!!",
+    "embeds": [
+      {
+        "url": "https://bribe-lyart.vercel.app/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://bribe-lyart.vercel.app/",
+            "ogType": "website",
+            "ogImage": [
+              {
+                "alt": "Bribe - Audio Messages with Bribes",
+                "url": "https://bribe-lyart.vercel.app/ogImageUrl.png",
+                "type": "png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Bribe - Audio Messages with Bribes",
+            "ogLocale": "en_US",
+            "ogSiteName": "Bribe",
+            "ogDescription": "Send audio messages with cryptocurrency bribes on Farcaster",
+            "fcFrame": {
+              "title": "Bribe - Audio Messages with Bribes",
+              "button": {
+                "title": "Start Bribing",
+                "action": {
+                  "url": "https://bribe-lyart.vercel.app/",
+                  "name": "Bribe",
+                  "type": "launch_miniapp",
+                  "splashImageUrl": "https://bribe-lyart.vercel.app/splashImageUrl.png",
+                  "splashBackgroundColor": "#000000"
+                }
+              },
+              "version": "1",
+              "imageUrl": "https://bribe-lyart.vercel.app/ogImageUrl.png",
+              "description": "Send audio messages with cryptocurrency bribes on Farcaster"
+            }
+          },
+          "frame": {
+            "version": "1",
+            "title": "Start Bribing",
+            "image": "https://bribe-lyart.vercel.app/ogImageUrl.png",
+            "frames_url": "https://bribe-lyart.vercel.app/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 13874,
+              "username": "thedude",
+              "display_name": "The Dude Bart🐘🌳 ⌐◨-◨",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/77692cb0-6fb5-40c7-ced3-42353e178b00/original",
+              "custody_address": "0x35b532e3d91a43325433c445c5881e944ff12221"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEzODc0LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MzVCNTMyRTNkOTFhNDMzMjU0MzNjNDQ1QzU4ODFlOTQ0RmYxMjIyMSJ9",
+                "payload": "eyJkb21haW4iOiJicmliZS1seWFydC52ZXJjZWwuYXBwIn0",
+                "signature": "MHgyZDYyZTFjYzkyZjdiNzIxMDVlODIxNjY1MWUwZDQ5NzQ4YmZhNmI3NmJiNjI3YWViMzkzNzNmMzQ1NThkOTY5MDFlMzQ5MzI5ZGYwOTdkOWYzOWVjNWFhZjg0YTI0MzEwYTdhN2Q2NTJjNGUyNDIyMzQ2OTQ4NWUyNzA3NGU4ZTFi"
+              },
+              "frame": {
+                "version": "4.2.0",
+                "name": "Bribe",
+                "home_url": "https://bribe-lyart.vercel.app/",
+                "icon_url": "https://bribe-lyart.vercel.app/iconUrl.png",
+                "image_url": "https://bribe-lyart.vercel.app/ogImageUrl.png",
+                "button_title": "Start Bribing",
+                "splash_image_url": "https://bribe-lyart.vercel.app/splashImageUrl.png",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://api.neynar.com/f/app/8ff8ac38-a5e6-48f1-a1c2-1df4429e58a7/event",
+                "description": "Send audio messages with cryptocurrency bribes on Farcaster"
+              },
+              "miniapp": {
+                "version": "4.2.0",
+                "name": "Bribe",
+                "home_url": "https://bribe-lyart.vercel.app/",
+                "icon_url": "https://bribe-lyart.vercel.app/iconUrl.png",
+                "image_url": "https://bribe-lyart.vercel.app/ogImageUrl.png",
+                "button_title": "Start Bribing",
+                "splash_image_url": "https://bribe-lyart.vercel.app/splashImageUrl.png",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://api.neynar.com/f/app/8ff8ac38-a5e6-48f1-a1c2-1df4429e58a7/event",
+                "description": "Send audio messages with cryptocurrency bribes on Farcaster"
+              }
+            }
+          }
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/~/ca/0x014d482f8403227cf65e1512e94d95606d536b07",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz/~/ca/0x014d482f8403227cf65e1512e94d95606d536b07",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://farcaster.xyz/og-logo.png",
+                "type": "png",
+                "width": "512",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "$ on Farcaster",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x4f36fd6c",
+    "url": "https://farcaster.xyz/pugson/0x4f36fd6c",
+    "author_username": "pugson",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 557,
+    "author_pfp": "https://i.seadn.io/gae/5hjYfRyqiRJV4EQ7ieSJrmb1LtO_vcAvREXSqnlY4HXXBsvgh1vumOwj5e4GwGhppEU2jLC9qJHEgEkaJ9V_B02jIFY9XmzgK1_F?w=500&auto=format",
+    "cast_date": "2025-10-19T16:58:07.000Z",
+    "text": "mfw they ask me for my opinion on some crypto topic",
+    "embeds": [
+      {
+        "url": "https://dump.farcaster.vision/1760893086872-dumpchat-1760893086051.png",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 1890249,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2106,
+            "height_px": 1010
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc923531b",
+    "url": "https://farcaster.xyz/bradq/0xc923531b",
+    "author_username": "bradq",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-10-20T12:37:39.000Z",
+    "text": "29 Seconds of Farcaster ... What did you miss this weekend?\n\n* The dominating topic this weekend was creator coins & the direction of Base & to some degree Farcaster. It's too much to summarize here, but I think /gmfarcaster will discuss today. I thought it revealed a lot of interesting thoughts from sharp people about the big picture of why we are here--even if at times wrapped in a less than helpful way. But safe to say, it brought out all 37 users and about 43 opinions. 🤷‍♂️ \n(Maybe I should gather the casts for a summary)\n\n* @limone.eth announced that FarCon Rome has dates, a location, as well as a mini app & website to the excitement of many who are going.\n\n* @atown has continued to hold the attention of the timeline with @tryemerge and this weekend released a big feature that you can now upload a photo to use in creating a workflow, elevating FCers creativity\n\n* @haole announced that Recaster (FC client) is going to focus on delivering content and not trading & coin news. He said it's for his own taste, but it seems like if done welll could draw quite a bit of interest from FCers\n\n* @hankmoody does great work in the background to build community and help new people. He was at it this weekend laying out a cluster of apps and tools for new people https://farcaster.xyz/hankmoody/0x5b47730e\n\n* @stevebeachy has a great series on 'Learning Crypto With Sense' and he dropped an explanation of Monad which everyone seems excited about but nobody seems to know what it is https://farcaster.xyz/stevebeachy/0x7ac3a5a3\n\n* @adrienne & @nounishprof are on today at 11:30 AM EST for episode #301 of /gmfarcaster should be a banger show, catching up on this stuff, and then they have their new Clankcaster Spotlight with everyone's favorite @thedude",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x5d6bc91cf1d7a469e77cef19f4a8cc77e5b00db8"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5d6bc91cf1d7a469e77cef19f4a8cc77e5b00db8",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5d6bc91cf1d7a469e77cef19f4a8cc77e5b00db8",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster back tomorrow with the first episode of GMFC szn4! And after the news, we'll be continuing our Clankcaster Spotlight series with @thedude to chat about $bribe and the Bribe mini app. \n\nJoin @adrienne and I on YouTube for the most active chat or watch on Twitter or in our mini app. See you in the GM!\n\nhttps://www.youtube.com/watch?v=PZw-_VsyAo0\nhttps://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+          "timestamp": "2025-10-19T23:39:31.000Z",
+          "embeds": [
+            {
+              "url": "https://www.youtube.com/watch?v=PZw-_VsyAo0",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://www.youtube.com/watch?v=PZw-_VsyAo0",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/PZw-_VsyAo0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"GM Farcaster ep301 Monday October 20, 2025 presented by Clanker\"></iframe>",
+                    "type": "video",
+                    "title": "GM Farcaster ep301 Monday October 20, 2025 presented by Clanker",
+                    "width": 200,
+                    "height": 113,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@GMFarcaster",
+                    "author_name": "GM Farcaster",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/PZw-_VsyAo0/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "ogDate": "2025-10-19T16:21:13-07:00",
+                  "ogType": "video.other",
+                  "favicon": "https://www.youtube.com/s/desktop/a192c735/img/favicon.ico",
+                  "ogImage": [
+                    {
+                      "url": "https://i.ytimg.com/vi/PZw-_VsyAo0/hqdefault.jpg?v=68f5765f",
+                      "type": "jpg",
+                      "width": "480",
+                      "height": "360"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster ep301 Monday October 20, 2025 presented by Clanker",
+                  "ogVideo": [
+                    {
+                      "url": "https://www.youtube.com/embed/PZw-_VsyAo0",
+                      "type": "text/html",
+                      "width": "640",
+                      "height": "360"
+                    }
+                  ],
+                  "ogLocale": "en",
+                  "ogSiteName": "YouTube",
+                  "ogDescription": "Join Adrienne and NounishProf for the first episode of season 4 of GM Farcaster, presented by Clanker! Farcaster/Base App news followed by our Clankcaster Sp...",
+                  "ogVideoSecureURL": "https://www.youtube.com/embed/PZw-_VsyAo0"
+                }
+              }
+            },
+            {
+              "url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://farcaster.xyz/miniapps/0196efb5-5ae3-676b-f83f-869e756c74d0/gm-farcaster",
+                  "ogType": "website",
+                  "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fminiapp.gmfarcaster.com%2Flogo.png&s=9e7f26424405d9b5c54c06233c2a5916f158e16b3037ec32ab93873d7875597d",
+                  "ogImage": [
+                    {
+                      "url": "https://miniapp.gmfarcaster.com/api/share-image?videoId=RzzN_nxRUFw",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster",
+                  "ogLocale": "en",
+                  "ogSiteName": "Farcaster Mini App",
+                  "ogDescription": "Get your daily dose of Farcaster news and culture.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch GM Farcaster",
+                      "action": {
+                        "url": "https://miniapp.gmfarcaster.com",
+                        "name": "GM Farcaster",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://miniapp.gmfarcaster.com/logo.png",
+                        "splashBackgroundColor": "#AF48CF"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://miniapp.gmfarcaster.com/api/share-image?videoId=RzzN_nxRUFw"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch GM Farcaster",
+                  "image": "https://miniapp.gmfarcaster.com/api/share-image?videoId=RzzN_nxRUFw",
+                  "frames_url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0f1e0c42-a35e-4f51-d437-f6fabf0c8200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 185506,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1099
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x486be2d1",
+    "url": "https://farcaster.xyz/limone.eth/0x486be2d1",
+    "author_username": "limone.eth",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 4461,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb6aa274-8daa-49b1-8d66-00c7c43f1200/original",
+    "cast_date": "2025-10-19T14:50:47.000Z",
+    "text": "/farcon-rome is happening on May 4–5, 2026\n\nenjoy the best time of the year in the ETHernal City, spring sunshine and the energy of Rome in full bloom, while meeting your Farcaster friends IRL\n\nour venue, Palazzo Brancaccio, is a historic gem in the heart of the city, just a short walk from the Colosseum and easily accessible from both trains and airports\n\n🎟️ public ticket sales open soon, stay tuned",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5857e9b6-3ee2-4e03-6b17-2f46af493700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 608937,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1125
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xd5a0e5ed",
+    "url": "https://farcaster.xyz/dwr/0xd5a0e5ed",
+    "author_username": "dwr",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-10-17T19:41:38.000Z",
+    "text": "PSA\n\nFarcaster is adding more crypto functionality, and mobile app store policies in some regions don't allow crypto apps. Other popular wallets also have to follow these rules. A very small number of users will be affected by these changes. \n\nIf you are one of those users, the app will notify you and will let you export both your Farcaster and wallet recovery phrases.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x5416d006",
+    "url": "https://farcaster.xyz/dylsteck.eth/0x5416d006",
+    "author_username": "dylsteck.eth",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 616,
+    "author_pfp": "https://zku9gdedgba48lmr.public.blob.vercel-storage.com/basenames/avatar/dylsteck.base.eth/1724182478110/ds-logo-white-bg-LjfhiIB4NhZTVF0hTjv3E87lih5Qbu.png",
+    "cast_date": "2025-10-17T16:10:00.000Z",
+    "text": "mini app notifications are now live in @baseapp.base.eth! regularly re-engage users or drive them to live actions in your mini app. existing farcaster mini apps with notifs should work out of the box, but check our docs in the next post for more info on how to integrate",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/base-app/video/upload/sp_auto/v1760717371/-9025501878484327366screenshare_-_2025-10-16_1_22_48_pm.mp4-fef58c5c-05c5-4521-98d3-74412f23c88f.m3u8",
+        "metadata": {
+          "content_type": "application/x-mpegurl",
+          "content_length": 684,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 720,
+                "width_px": 1280,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 540,
+                "width_px": 960,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 270,
+                "width_px": 480,
+                "codec_name": "h264"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbce407be",
+    "url": "https://farcaster.xyz/pichi/0xbce407be",
+    "author_username": "pichi",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 234616,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/343ce6bb-b2d3-4f7c-1359-deba9af91000/original",
+    "cast_date": "2025-10-17T23:36:42.000Z",
+    "text": "Happy 300th Episode @gmfarcaster \n\nMy mom is one of your biggest fans and made this to celebrate!\n\nA little nod to spooky season and all the hard work @nounishprof and @adrienne put in each day. You ladies are crushing it and we are both super proud of you!",
+    "embeds": [
+      {
+        "url": "https://res.cloudinary.com/base-app/image/upload/f_auto/v1760744188/IMG_7631.jpg-fe47a8fa-4062-4945-a1dd-458d6a7a9056.heic?zoraCoin=0x4d53c3012682ed0844f3d968d5680e4f11850e7a",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 2346457,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 4284,
+            "height_px": 5712
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1402d008",
+    "url": "https://farcaster.xyz/jake/0x1402d008",
+    "author_username": "jake",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 1020,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aee44326-2c54-4478-9137-258fa970fd00/original",
+    "cast_date": "2025-10-17T20:07:17.000Z",
+    "text": "300 episodes is a lot of work\n\nhaving done a lot of podcasts myself, i admire that persistence\n\nmuch respect to @nounishprof & @adrienne \n\nfor @gmfarcaster, the most prolific podcast on farcaster",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 2982,
+          "hash": "0x4c38720187583d23976d92cfbaa2ad6f3a7a6609"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4c38720187583d23976d92cfbaa2ad6f3a7a6609",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 2982,
+            "username": "jacy",
+            "display_name": "sparkz",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63552b96-faf4-4480-7775-a93631aaa100/original",
+            "custody_address": "0x1c17f77cf9597f28af7e8051893620ec3b8d93db"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4c38720187583d23976d92cfbaa2ad6f3a7a6609",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "happy 300th episode @gmfarcaster !!\n\nstoked to be celebrating with you live today alongside @thedude @kylepatrick.eth @aivan and happy to be on this journey with you @nounishprof & @adrienne 🥳🥳",
+          "timestamp": "2025-10-17T15:48:27.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/27db3f70-8049-4e0d-e70c-d3bf408af100/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 457273,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 2000,
+                  "height_px": 1597
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbe35ad6f",
+    "url": "https://farcaster.xyz/tayyab/0xbe35ad6f",
+    "author_username": "tayyab",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 66,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6f4eb4b8-048d-45b1-69c2-0f1ebddcd700/original",
+    "cast_date": "2025-10-17T22:40:12.000Z",
+    "text": "Which FC celebrity is actually an undercover CIA agent?",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x9c2d763b",
+    "url": "https://farcaster.xyz/rocketman/0x9c2d763b",
+    "author_username": "rocketman",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 238425,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/404de53a-4a3f-4711-dd0c-2dadf004a200/original",
+    "cast_date": "2025-10-17T09:03:01.000Z",
+    "text": "Introducing @cobuild DCA\n\nYou can now subscribe to your favorite coins on Farcaster\n\nWith as little as $1 a month, buy coins continuously today!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5394bf0d-06da-4669-9e5e-c8e34b77ff00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 54206,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 786,
+            "height_px": 262
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x3b275dc1",
+    "url": "https://farcaster.xyz/nounishprof/0x3b275dc1",
+    "author_username": "nounishprof",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-10-20T12:59:17.000Z",
+    "text": "Interesting experiment - let’s see how long until I’m out bid",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 8151,
+          "hash": "0xe76be6048b496bcaf087ac542c9a871a36d2d6f0"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xe76be6048b496bcaf087ac542c9a871a36d2d6f0",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 8151,
+            "username": "if",
+            "display_name": "sebayaki.eth",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af94895c-d6ef-48f0-cc98-892d67532200/original",
+            "custody_address": "0x2bd2b6e88b6653bb3615961090d421ac58e44be4"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xe76be6048b496bcaf087ac542c9a871a36d2d6f0",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "$SIGNET token economics explained 🧵\n\nThe app is dead simple. Fully on-chain. Permissionless.\n\nWant to feature your Farcaster cast on the on-chain spotlight?\nYou buy 100 $SIGNET, your cast takes the spotlight, and those 100 $SIGNET go straight into your wallet. That’s literally it.\n\nMore traffic → more spotlight value → more motivation to mint → higher token price → more traffic → (the loop keeps turning)\n\nBut here’s the cool part 👇\n\nEvery $SIGNET is backed by $HUNT through Mint Club’s bonding-curve system. When you mint $SIGNET, the contract locks an equivalent amount of $HUNT inside the curve.\n\nSo both tokens move together:\nmore spotlight action → more HUNT locked → deeper liquidity → rising value for both SIGNET and HUNT.\n\nThick liquidity, tight supply, and a feedback loop powered by community attention.\n\nCurrent numbers:\n- The #1 Trending Mini App on Farcaster\n- Market cap ≈ $82 K\n- Liquidity on Mint Club ≈ $18 K in HUNT (96 000 HUNT locked)\n- Liquidity on Uniswap ≈ $22 K in ETH + SIGNET\n\nThat’s roughly a 48 % liquidity ratio - unusually thick for a microcap.\n✅ Low slippage for buyers\n✅ Price grounded in real reserves\n✅ A sustainable, not hype-driven, loop for both $SIGNET and $HUNT",
+          "timestamp": "2025-10-20T05:16:30.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/34319619-26ca-43e4-d6ce-cc31b5ba4500/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 378539,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 919,
+                  "height_px": 2000
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1e51c93c-351c-41e3-4698-c64c3ecd8400/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 133010,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 830,
+                  "height_px": 432
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/59e194fd-7f43-42ca-2588-692b7b9fb800/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 397327,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1147,
+                  "height_px": 838
+                }
+              }
+            },
+            {
+              "url": "https://farcaster.xyz/~/c/base:0xdf2b673ec06d210c8a8be89441f8de60b5c679c9",
+              "metadata": {
+                "_status": "PENDING"
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/030cc7a2-c6bc-4850-c7ae-419963a00300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 287475,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1059,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x83b345cc",
+    "url": "https://farcaster.xyz/kenny/0x83b345cc",
+    "author_username": "kenny",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 2210,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e6f1d0c9-26ff-4701-4bc5-f748256ab900/rectcrop3",
+    "cast_date": "2025-10-15T21:39:23.000Z",
+    "text": "Jacek says we're running it back so we're running it back\n\n2025 DEGEN Halloween Costume Contest is live! 🎩☠️👹👻🎃🕷️🧟‍♂️\n\nhttps://poidh.xyz/degen/bounty/1189",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 15983,
+          "hash": "0x6ee1b83b9ad5b33a605e7212d1ba00a61b9493a3"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x6ee1b83b9ad5b33a605e7212d1ba00a61b9493a3",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 15983,
+            "username": "jacek",
+            "display_name": "Jacek.degen.eth 🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85b47d38-7b53-46b0-7e6a-80ec1b9b3d00/original",
+            "custody_address": "0x10501b5e63f24b3d8a4f2de44352faac53feb3ac"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x9ed7c4e40cb834620f86cbf01b28e00f865aa7e1",
+          "parent_hash": "0x0589fa61b338482fca1d1aaa6ef57a5e9b485863",
+          "parent_url": null,
+          "root_parent_url": "https://warpcast.com/~/channel/poidh",
+          "parent_author": {
+            "fid": 2210
+          },
+          "text": "Let’s run it back, last year was awesome! 🎩",
+          "timestamp": "2025-10-15T21:24:19.000Z",
+          "embeds": [],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "poidh",
+            "name": "pics or it didn't happen",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/151dca9d-4e55-4a8f-0d4f-79cace50d000/original"
+          }
+        }
+      },
+      {
+        "url": "https://poidh.xyz/degen/bounty/1189",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogType": "website",
+            "ogImage": [
+              {
+                "url": "https://poidh.xyz/api/og/bounty?data=%7B%22title%22%3A%22%F0%9F%8E%83%20DEGEN%20Halloween%20Costume%20Contest%20%F0%9F%8E%83%22%2C%22amount%22%3A%22285222000000000000000000%22%2C%22chainId%22%3A666666666%2C%22currencyRate%22%3A0.00154%2C%22participants%22%3A%5B%220xa3491e7361abaa631ab84ee34d535cd9a0ade66f%22%2C%220x10fc964ef70c8467cd8c53e9ed9347422adf96a8%22%2C%220x43d9a5cb3c0299e3de882e10036ee9de0497f234%22%5D%7D&imageFormat=og"
+              }
+            ],
+            "ogTitle": "🎃 DEGEN Halloween Costume Contest 🎃",
+            "ogLocale": "en_US",
+            "ogSiteName": "POIDH",
+            "ogDescription": "a Halloween costume contest for DEGENs 🎩\n\nto enter, take a pic in your costume while holding a handwritten sign that says \"Happy $DEGEN Halloween\"\n\npost the pic on either twitter or farcaster, then upload the same pic here + include a link to your social media post in the claim description\n\na single winner of the contest will be chosen by the poidh + DEGEN teams and announced on November 1st\n\none entry per person, anyone spamming will be disqualified",
+            "fcFrame": {
+              "button": {
+                "title": "view bounty",
+                "action": {
+                  "url": "https://poidh.xyz/degen/bounty/1189",
+                  "name": "poidh",
+                  "type": "launch_frame",
+                  "iconUrl": "https://poidh.xyz/icon.png",
+                  "splashImageUrl": "https://poidh.xyz/Logo_poidh.svg",
+                  "splashBackgroundColor": "#2a81d5"
+                }
+              },
+              "version": "next",
+              "imageUrl": "https://poidh.xyz/api/og/bounty?data=%7B%22title%22%3A%22%F0%9F%8E%83%20DEGEN%20Halloween%20Costume%20Contest%20%F0%9F%8E%83%22%2C%22amount%22%3A%22285222000000000000000000%22%2C%22chainId%22%3A666666666%2C%22currencyRate%22%3A0.00154%2C%22participants%22%3A%5B%220xa3491e7361abaa631ab84ee34d535cd9a0ade66f%22%2C%220x10fc964ef70c8467cd8c53e9ed9347422adf96a8%22%2C%220x43d9a5cb3c0299e3de882e10036ee9de0497f234%22%5D%7D&imageFormat=preview"
+            }
+          },
+          "frame": {
+            "version": "next",
+            "title": "view bounty",
+            "image": "https://poidh.xyz/api/og/bounty?data=%7B%22title%22%3A%22%F0%9F%8E%83%20DEGEN%20Halloween%20Costume%20Contest%20%F0%9F%8E%83%22%2C%22amount%22%3A%22285222000000000000000000%22%2C%22chainId%22%3A666666666%2C%22currencyRate%22%3A0.00154%2C%22participants%22%3A%5B%220xa3491e7361abaa631ab84ee34d535cd9a0ade66f%22%2C%220x10fc964ef70c8467cd8c53e9ed9347422adf96a8%22%2C%220x43d9a5cb3c0299e3de882e10036ee9de0497f234%22%5D%7D&imageFormat=preview",
+            "frames_url": "https://poidh.xyz/degen/bounty/1189",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 2210,
+              "username": "kenny",
+              "display_name": "kenny 🎩",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e6f1d0c9-26ff-4701-4bc5-f748256ab900/rectcrop3",
+              "custody_address": "0x92d181b029db404780998882a234613c0724030d"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjIyMTAsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg5MmQxODFiMDI5ZGI0MDQ3ODA5OTg4ODJBMjM0NjEzQzA3MjQwMzBkIn0",
+                "payload": "eyJkb21haW4iOiJwb2lkaC54eXoifQ",
+                "signature": "MHhjNDY5OWM2ZDJlMWQ0NDM4ZmY3ZjAwNzY0MjI3NjU5ODA1YWI4ODcyZTQ4YzcxZjI3Mzg5OTYxMDg5MzJjNzM4MDM4ZjU4NTU0NDkyZmQwM2Y5YTBkMzc4MTdhZmQ0YmRiNzViNmJjZWZkZjM4ZmZlMTgwZDFlYjIyNGVmZGMxYjFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "poidh",
+                "home_url": "https://poidh.xyz/",
+                "icon_url": "https://poidh.xyz/icon.png",
+                "splash_image_url": "https://poidh.xyz/splash.png",
+                "splash_background_color": "#6fa9e1",
+                "webhook_url": "https://api.neynar.com/f/app/b02dfa0b-9b86-4a5b-9e36-8224f2bf81c0/event",
+                "subtitle": "incentivize things",
+                "description": "create, share, and approve bounties on Farcaster",
+                "primary_category": "social",
+                "tags": [
+                  "bounties",
+                  "tasks",
+                  "incentives",
+                  "blockchain"
+                ],
+                "hero_image_url": "https://poidh.xyz/images/poidh-preview-hero-v2.png",
+                "tagline": "incentivize things",
+                "og_title": "poidh",
+                "og_description": "incentivize tasks with bounties on Farcaster",
+                "og_image_url": "https://poidh.xyz/images/poidh-preview-hero-v2.png"
+              },
+              "miniapp": {
+                "version": "1",
+                "name": "poidh",
+                "home_url": "https://poidh.xyz/",
+                "icon_url": "https://poidh.xyz/icon.png",
+                "splash_image_url": "https://poidh.xyz/splash.png",
+                "splash_background_color": "#6fa9e1",
+                "webhook_url": "https://api.neynar.com/f/app/b02dfa0b-9b86-4a5b-9e36-8224f2bf81c0/event",
+                "subtitle": "incentivize things",
+                "description": "create, share, and approve bounties on Farcaster",
+                "primary_category": "social",
+                "tags": [
+                  "bounties",
+                  "tasks",
+                  "incentives",
+                  "blockchain"
+                ],
+                "hero_image_url": "https://poidh.xyz/images/poidh-preview-hero-v2.png",
+                "tagline": "incentivize things",
+                "og_title": "poidh",
+                "og_description": "incentivize tasks with bounties on Farcaster",
+                "og_image_url": "https://poidh.xyz/images/poidh-preview-hero-v2.png"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xff9a9a8c",
+    "url": "https://farcaster.xyz/sofiagarcia/0xff9a9a8c",
+    "author_username": "sofiagarcia",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 240239,
+    "author_pfp": "https://i.imgur.com/DH0sxvs.jpg",
+    "cast_date": "2025-10-17T17:14:21.000Z",
+    "text": "These bots… they’re trying to kill (scam) me\n\nHow is it this easy for bots to get onboarded onto fc anyway?",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/81c68f5b-43cd-4541-8bc8-a6e071db4c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 185940,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1905,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/93c93869-3db3-4c74-eced-376e31a23d00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 170901,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1978
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/de61bdab-6c07-45fb-3d8d-c2591297b500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 209582,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1698,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/387e7e23-3ecb-4d6b-ffa6-07bf5923f000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 229201,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1536,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa9a25b3f",
+    "url": "https://farcaster.xyz/jonathancolton/0xa9a25b3f",
+    "author_username": "jonathancolton",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 296687,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f3a9e672-ff00-417c-1025-5e7cc51b4f00/original",
+    "cast_date": "2025-10-20T12:47:54.000Z",
+    "text": "#69 in the Mini-App Store @woj's resume https://farcaster.xyz/miniapps/udr4zWurAloS/woj",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd6be0bb-a43c-4648-b333-b09608a4c200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 573577,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2000,
+            "height_px": 1377
+          }
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/miniapps/udr4zWurAloS/woj",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz/miniapps/0199e968-917c-746f-06af-40737f0bf37b/woj",
+            "ogType": "website",
+            "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fwoj.ventures%2Fpfp.jpeg&s=0220099c1c8b0bcb4e7f4c2ccbe74aa868ebfc24ed0a1c482eab341f1f36e29c",
+            "ogImage": [
+              {
+                "url": "https://woj.ventures/miniapp-card.svg",
+                "type": "svg",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "woj",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster Mini App",
+            "ogDescription": "I build companies",
+            "fcFrame": {
+              "button": {
+                "title": "Open woj adventures",
+                "action": {
+                  "url": "https://woj.ventures/",
+                  "name": "woj adventures",
+                  "type": "launch_miniapp",
+                  "splashImageUrl": "https://woj.ventures/pfp.jpeg",
+                  "splashBackgroundColor": "#ffffff"
+                }
+              },
+              "version": "1",
+              "imageUrl": "https://woj.ventures/miniapp-card.svg"
+            }
+          },
+          "frame": {
+            "version": "1",
+            "title": "Open woj adventures",
+            "image": "https://woj.ventures/miniapp-card.svg",
+            "frames_url": "https://farcaster.xyz/miniapps/udr4zWurAloS/woj"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x394d787c",
+    "url": "https://farcaster.xyz/itsbasil/0x394d787c",
+    "author_username": "itsbasil",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 20384,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85122c7a-7ac9-4ef4-cfc1-38be5d114200/original",
+    "cast_date": "2025-10-17T17:35:24.000Z",
+    "text": "i love this place but it’s not getting any better. \n\ni talk to four or five builders every single day, and over the past few weeks, the tides have started to turn. almost everyone i’ve spoken to who’s trying to build a real, scalable product with the intention of surviving across cycles is seriously questioning the direction of base & exploring alternatives. it’s heartbreaking. \n\nnobody — not a single person i’ve spoken to — wants creator coins. not one. the only people building in that vertical are the ones trying to fix the very problems they created.\n\nwe’re perpetually pushing ten people on zora all with deep coinbase relationships. what does this have to do with base blockchain? half of them aren’t even builders & more than half of them won’t be here in a year. can we be honest about that? it’s not even because they’re bad ideas, but because they launched on a creator coin launchpad that makes zero sense. are they creator coins? are these projects? why is there a trading competition? none of this makes sense. why are we forcing a square peg into a round hole just to sustain a broken narrative that doesn’t make sense? \n\ndo you know what builders really want?\nthey want a faster chain. they want gas stability & sponsorships. they want $10k checks. they want to build on YOUR blockchain, not build around it, not forced into an app chain or elsewhere.\n\nyou ARE the blockchain. build the blockchain & support the folks building on it. that’s all they want. that is your only job. \n\ninstead, we’re throwing invalidated shit at the wall — doubling, tripling, quadrupling down on failing, directionless projects while real, multi-person teams with momentum & traction get ignored. we hide behind greed, ignorance & inertia, pretending not to see what’s happening right in front of us. talk to the people. this isn’t good. they are not happy. they are leaving. you think i’m loud for clout on a 100 person network? i am loud because these builders are my friends; because i am building with them. i’m loud because they don’t care to be: they are ready to throw in the gloves.\n\nwe’ve learned nothing from the lessons that came before — from friend tech, from virtuals, from zora x5, from farcaster, from tba, from crypto itself over the last eight years — why are we ignoring all of it? why?\n\ndo we really not see this? again? for the nth time? this only goes ONE way. please, can we be real? farcaster tried to build for creators for THREE years & got NOWHERE. what about lens? what about every single attempt before? what about the last 5 zora models? cmon, man…\n\nthese are people’s livelihoods; these builders have families, children, spouses. they quit their jobs to build on YOUR chain; to strengthen YOUR network, to make YOU money.\n\nwhy are we doing this?\n\nand now, we’re about to push another unvalidated model as if Jesus came down from the heavens & wrote the code himself — one that lets founders dump FIFTY PRECENT of their token on their holders, with zero connection to fundamentals, revenue, product, or users. just another attention game, another cycle of manipulation…\n\nzero validation, yet we’re rolling it out across multiple pads, multiple teams, as THE model that will feed the hungry, pushing it top-down. come on.\n\nwe laughed at binance for asking 8% for a listing. the whole base community joined in: “how absurd! we don’t want the largest exchange in the world dumping on us!” and yet here we are, pushing creator coins with fifty percent insider ownership whose ENTIRE purpose is to be dumped on their own communities… launchpads with fifty percent insider ownership whose ENTIRE purpose is to be dumped on their own communities…\n\nit’s just sad. genuinely sad; and it’s painful to hear the same thing, every day, from people who’ve been here for years. \n\ni just don’t get it anymore.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 309857,
+          "hash": "0xbacdc414cb8079297a44440f6db8ddff61378fe2"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xbacdc414cb8079297a44440f6db8ddff61378fe2",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 309857,
+            "username": "baseapp.base.eth",
+            "display_name": "Base app",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05c00f8a-3374-40b4-249c-7cc70a260500/original",
+            "custody_address": "0x20c5cfecc0d1e03d2511aec13ea016f552d639b7"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 309857,
+            "username": "baseapp.base.eth",
+            "display_name": "Base app",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05c00f8a-3374-40b4-249c-7cc70a260500/original",
+            "custody_address": "0x20c5cfecc0d1e03d2511aec13ea016f552d639b7"
+          },
+          "thread_hash": "0xbacdc414cb8079297a44440f6db8ddff61378fe2",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "We’re launching creator coins in the Base app.\n\nWhy? Because creators deserve to own the upside of everything they make, and their communities should be rewarded for being part of it. Creator coins make this real.\n\nCreator coins are in early access. We’re starting with a small group to shape the foundation and build the best tools to support them.\n\nThese coins let creators:\n→ Create and earn, globally\n→ Build lasting value from the content they create, benefitting from long-term growth and active trading\n→ Reward their audience\n\nBuilt with @zora on the Base app.",
+          "timestamp": "2025-10-16T16:07:37.000Z",
+          "embeds": [
+            {
+              "url": "https://res.cloudinary.com/base-app/image/upload/f_auto/v1760630837/IMG_0973.jpg-f47316ec-51aa-45fc-a9ff-2f7f659ae6b9.jpg?zoraCoin=0xa645ef6610a7088eebf7f36f14bde7aa56744b70",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 132094,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1638,
+                  "height_px": 2048
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x0c94827b",
+    "url": "https://farcaster.xyz/derek/0x0c94827b",
+    "author_username": "derek",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 193,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7830e8f-33dd-4372-441a-e9696bb26900/original",
+    "cast_date": "2025-10-17T18:29:07.000Z",
+    "text": "This is a great read from @itsbasil, tho a touch cynical even for me. ;)\n\nI'll preface this long thread with the fact that I love what @barmstrong, @jesse.base.eth, and the @base.base.eth team are building. \n\nAlso: I'm not an armchair quarterback here. I am a builder/creator with a spouse, children, and bills. I'm all-in on Base with Birthday Labs and that's why I care. I'll support and build even through strategic disagreement.\n\nMy concern is a bit orthogonal to Basil's, and related to my \"credible neutrality\" post: the folks building the infrastructure are also the tastemakers.\n\nI believe Base should be neutral, but it's not.\n\nIf their opinionated approach with @baseapp.base.eth doesn't work, Base as a chain will suffer, whether we like it or not. \n\nPhilosophically this isn't the case, as the two are distinct endeavors, but practically speaking they are inextricably linked. Not just in name.\n\nIn a real way, Base the L2 (not just TBA the consumer product) is betting the farm on creator coins.\n\nMy take?\nBase should 𝘴𝘰𝘭𝘦𝘭𝘺 focus on builders, developers, startups.\n\nLet us worry about creators, consumers, products.\n\nPut another way: Base Build, Base Ecosystem Fund, & CDP should have 𝘪𝘯𝘧𝘪𝘯𝘪𝘵𝘦𝘭𝘺 more attention, cheerleading, and hard resources than TBA.\n\nLet startups and builders figure out consumer products, product-market fit, and tokenomics. \n\nGive us robust, canonical onchain primitives, similar to what @dwr, @v, and Farcaster are doing with the social graph. \n\nDon't add cognitive load to devs who have to support Farcaster and TBA with differing APIs and approaches. Easy to say \"you can just choose not to!\", but it's literally 𝘵𝘩𝘦 𝘉𝘢𝘴𝘦 𝘢𝘱𝘱. Practically speaking, there's no choice.\n\nLet builders build.\n\nI think the opportunity Base has is MASSIVE. I pray they'll get it right.\n\nhttps://farcaster.xyz/itsbasil/0x394d787c",
+    "embeds": [
+      {
+        "url": "zoraCoin://0xe3f853c667aee50acaf690ed82aac30ce334d5a1",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      },
+      {
+        "url": "https://farcaster.xyz/itsbasil/0x394d787c",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://farcaster.xyz/itsbasil/0x394d787c",
+            "ogType": "article",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://i.imgur.com/kynnpYw.jpg",
+                "type": "jpg",
+                "width": "64"
+              }
+            ],
+            "ogTitle": "itsbasil on Farcaster",
+            "ogLocale": "en",
+            "ogSiteName": "Farcaster",
+            "ogDescription": "i love this place but it’s not getting any better. \n\ni talk to four or five builders every single day, and over the past few weeks, the tides have started to turn. almost everyone i’ve spoken to who’s trying to build a real, scalable product with the intention of surviving across cycles is seriously questioning the direction of base & exploring alternatives. it’s heartbreaking. \n\nnobody — not a single person i’ve spoken to — wants creator coins. not one. the only people building in that vertical are the ones trying to fix the very problems they created.\n\nwe’re perpetually pushing ten people on zora all with deep coinbase relationships. what does this have to do with base blockchain? half of them aren’t even builders & more than half of them won’t be here in a year. can we be honest about that? it’s not even because they’re bad ideas, but because they launched on a creator coin launchpad that makes zero sense. are they creator coins? are these projects? why is there a trading competition? none of this makes sense. why are we forcing a square peg into a round hole just to sustain a broken narrative that doesn’t make sense? \n\ndo you know what builders really want?\nthey want a faster chain. they want gas stability & sponsorships. they want $10k checks. they want to build on YOUR blockchain, not build around it, not forced into an app chain or elsewhere.\n\nyou ARE the blockchain. build the blockchain & support the folks building on it. that’s all they want. that is your only job. \n\ninstead, we’re throwing invalidated shit at the wall — doubling, tripling, quadrupling down on failing, directionless projects while real, multi-person teams with momentum & traction get ignored. we hide behind greed, ignorance & inertia, pretending not to see what’s happening right in front of us. talk to the people. this isn’t good. they are not happy. they are leaving. you think i’m loud for clout on a 100 person network? i am loud because these builders are my friends; because i am building with them. i’m loud because they don’t care to be: they are ready to throw in the gloves.\n\nwe’ve learned nothing from the lessons that came before — from friend tech, from virtuals, from zora x5, from farcaster, from tba, from crypto itself over the last eight years — why are we ignoring all of it? why?\n\ndo we really not see this? again? for the nth time? this only goes ONE way. please, can we be real? farcaster tried to build for creators for THREE years & got NOWHERE. what about lens? what about every single attempt before? what about the last 5 zora models? cmon, man…\n\nthese are people’s livelihoods; these builders have families, children, spouses. they quit their jobs to build on YOUR chain; to strengthen YOUR network, to make YOU money.\n\nwhy are we doing this?\n\nand now, we’re about to push another unvalidated model as if Jesus came down from the heavens & wrote the code himself — one that lets founders dump FIFTY PRECENT of their token on their holders, with zero connection to fundamentals, revenue, product, or users. just another attention game, another cycle of manipulation…\n\nzero validation, yet we’re rolling it out across multiple pads, multiple teams, as THE model that will feed the hungry, pushing it top-down. come on.\n\nwe laughed at binance for asking 8% for a listing. the whole base community joined in: “how absurd! we don’t want the largest exchange in the world dumping on us!” and yet here we are, pushing creator coins with fifty percent insider ownership whose ENTIRE purpose is to be dumped on their own communities… launchpads with fifty percent insider ownership whose ENTIRE purpose is to be dumped on their own communities…\n\nit’s just sad. genuinely sad; and it’s painful to hear the same thing, every day, from people who’ve been here for years. \n\ni just don’t get it anymore. https://farcaster.xyz/baseapp.base.eth/0xbacdc414"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x14b83640",
+    "url": "https://farcaster.xyz/kompreni/0x14b83640",
+    "author_username": "kompreni",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 15732,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2b7cdbbc-92fe-4d37-450a-fdbb88e7e100/original",
+    "cast_date": "2025-10-19T19:59:46.000Z",
+    "text": "For as long as I've been working in crypto, people have been trying crypto-social experiments aimed at rewarding content creators. I know because I've been one of those people. I previously cofounded Cent, a web3 social network that ran a ton of different experiments: incentivized upvotes, incentivized subscriptions, incentivized subscriptions, you name it. Our \"breakout\" moment was when we tokenized posts and sold Jack Dorsey's first tweet as an NFT. Before us, there was Steemit. After us, came Bitclout, then Friendtech, and most recently Zora. History does not repeat, but it certainly does rhyme. \n\nIntuitively, it makes sense that if you're creating something, and millions of people are consuming it, it has value. But the path to realizing that value has historically been loosely correlated. At best, you'll get a sponsorship deal, some paid subscribers, or revenue from ads. But the incentives always feel tacked on, because they ARE tacked on. The expectation is that first, you must create \"for free.\" If you don't, someone else will. Getting capital \"upfront\" is an assumption I don't expect to change. \n\nRecently, there has been a push, particularly from the Base team, to tokenize creativity on Zora. The intentions are pure and good: creators want more money, and web3/internet capital should be able to deliver that somehow. The disconnect lies in what most creators do not - and will not - do: make themselves the subject for others' profit and loss. This model is actually WORSE than the models of the previous era - labels, galleries, platforms, et al – because now the loss is no longer just the artist's to bear. It's on their fans, too. The ones who bought their coins after snipers, the ones who are sitting on losses, the ones who are exit liquidity if - god forbid - an artist wants to reap some of the benefit for themselves and sell.\n\nIn many senses, memecoin traders are worse than labels. Their time preference is high. There are no long-term commitments, they're not dependable, they're always looking for the next place to reallocate their poker chips. If you're an artist, you probably don't want retail funding your creativity this way. You think your label or manager is annoying? Try a horde of psuedo-anon tokenholders busting your balls on your token price. \n\nNo fucking thanks.",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x47170db7",
+    "url": "https://farcaster.xyz/samuellhuber.eth/0x47170db7",
+    "author_username": "samuellhuber.eth",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 16085,
+    "author_pfp": "https://i.imgur.com/OHMozjv.jpg",
+    "cast_date": "2025-10-18T15:18:09.000Z",
+    "text": "I don't think Farcaster is going to fail. \n\nI don't think Base is failing.\n\nThe discussions about both \"failing\" is because we care.\n\nYou don't find that non price related care in 99% of ecosystems.\n\nWe have something special here.\n\nglad to see the discussions\n\nThough I always remind myself of the above",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xfebbb144",
+    "url": "https://farcaster.xyz/nounishprof/0xfebbb144",
+    "author_username": "nounishprof",
+    "show_date": "2025-10-20",
+    "show_title": "Pichi’s Mom Enters the Chat (and Brings a Skeleton in Noggles): GM Farcaster ep301",
+    "source_episode_id": "F3yej6ZT8QU",
+    "author_fid": 4167,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+    "cast_date": "2025-10-20T12:38:18.000Z",
+    "text": "Mookie says GM",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 12,
+          "hash": "0x44a4669d22e1dd598aa64dd4bc83ac3b9aa9b0ed"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x44a4669d22e1dd598aa64dd4bc83ac3b9aa9b0ed",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 12,
+            "username": "linda",
+            "display_name": "Linda Xie",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+            "custody_address": "0xb43575d58c49d2be880e0f821ddf51d15c13c376"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x44a4669d22e1dd598aa64dd4bc83ac3b9aa9b0ed",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "If you have a dog it is your obligation to share a cute photo of them in the feed to help us start off this coming week great :)",
+          "timestamp": "2025-10-20T02:24:47.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4dbf4352-de39-4e0d-472f-916273d6f100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 554421,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1500,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]

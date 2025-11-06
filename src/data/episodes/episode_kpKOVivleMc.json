@@ -1,0 +1,973 @@
+[
+  {
+    "cast_hash": "0xff7d68cd",
+    "url": "https://farcaster.xyz/adrienne/0xff7d68cd",
+    "author_username": "adrienne",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 5818,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/900a94b3-ae49-41c3-7c8c-ebff96a99700/original",
+    "cast_date": "2025-10-17T13:37:36.000Z",
+    "text": "",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x06b2c54934dec995a6b4e72c938baeba108e05eb"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x06b2c54934dec995a6b4e72c938baeba108e05eb",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x06b2c54934dec995a6b4e72c938baeba108e05eb",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster special episode 300 tomorrow live from NYC!!! @adrienne and I will be streaming together IRL in New York, touching on some recent FC news and celebrating this 300 episode milestone!\n\nJoin us on YouTube for the most active chat or watch on Twitter or in the  GMFC mini app. See you in the GM!\n\nhttps://www.youtube.com/watch?v=FX8Da1hG0iA\nhttps://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+          "timestamp": "2025-10-16T17:54:12.000Z",
+          "embeds": [
+            {
+              "url": "https://www.youtube.com/watch?v=FX8Da1hG0iA",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "undefined",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/FX8Da1hG0iA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"GM Farcaster ep300 Friday October 17, 2025\"></iframe>",
+                    "type": "video",
+                    "title": "GM Farcaster ep300 Friday October 17, 2025",
+                    "width": 200,
+                    "height": 113,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@GMFarcaster",
+                    "author_name": "GM Farcaster",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/FX8Da1hG0iA/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "favicon": "https://www.youtube.com/s/desktop/3d178601/img/favicon.ico",
+                  "ogTitle": " - YouTube",
+                  "ogLocale": "en",
+                  "ogDescription": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+                }
+              }
+            },
+            {
+              "url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://farcaster.xyz/miniapps/0196efb5-5ae3-676b-f83f-869e756c74d0/gm-farcaster",
+                  "ogType": "website",
+                  "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fminiapp.gmfarcaster.com%2Flogo.png&s=9e7f26424405d9b5c54c06233c2a5916f158e16b3037ec32ab93873d7875597d",
+                  "ogImage": [
+                    {
+                      "url": "https://miniapp.gmfarcaster.com/api/share-image?videoId=RzzN_nxRUFw",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster",
+                  "ogLocale": "en",
+                  "ogSiteName": "Farcaster Mini App",
+                  "ogDescription": "Get your daily dose of Farcaster news and culture.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch GM Farcaster",
+                      "action": {
+                        "url": "https://miniapp.gmfarcaster.com",
+                        "name": "GM Farcaster",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://miniapp.gmfarcaster.com/logo.png",
+                        "splashBackgroundColor": "#AF48CF"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://miniapp.gmfarcaster.com/api/share-image?videoId=RzzN_nxRUFw"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch GM Farcaster",
+                  "image": "https://miniapp.gmfarcaster.com/api/share-image?videoId=RzzN_nxRUFw",
+                  "frames_url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/62ca35be-8d20-4ea4-523c-6997ca300500/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 416635,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1317,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xdd069e80",
+    "url": "https://farcaster.xyz/adrienne/0xdd069e80",
+    "author_username": "adrienne",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 5818,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/900a94b3-ae49-41c3-7c8c-ebff96a99700/original",
+    "cast_date": "2025-10-17T13:16:19.000Z",
+    "text": "GM Farcaster celebrates our 300th episode today 🎉🎉\n\nWe couldn’t have made it without the support of some very special brands that have partnered with us at some point over the past 2 years. \n\nClanker, Octant, Piñata, Snickerdoodle, Base, Nouns, Matcha, lil nouns, cat town, dynamic, bolide, evmavericks, burrfrens, the creators, Aptos, degen, ponder, bracky, and purple will all get a special shout out on our 300th show today. \n\n💜💜",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 4167,
+          "hash": "0x06b2c54934dec995a6b4e72c938baeba108e05eb"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x06b2c54934dec995a6b4e72c938baeba108e05eb",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 4167,
+            "username": "nounishprof",
+            "display_name": "Nounish Prof ⌐◧-◧🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e0686be-ae1a-47d2-c737-5beecfe21700/rectcrop3",
+            "custody_address": "0xbb54a63ad8241710eba3a98af224080b611ff8e9"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x06b2c54934dec995a6b4e72c938baeba108e05eb",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "GM Farcaster special episode 300 tomorrow live from NYC!!! @adrienne and I will be streaming together IRL in New York, touching on some recent FC news and celebrating this 300 episode milestone!\n\nJoin us on YouTube for the most active chat or watch on Twitter or in the  GMFC mini app. See you in the GM!\n\nhttps://www.youtube.com/watch?v=FX8Da1hG0iA\nhttps://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+          "timestamp": "2025-10-16T17:54:12.000Z",
+          "embeds": [
+            {
+              "url": "https://www.youtube.com/watch?v=FX8Da1hG0iA",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "undefined",
+                  "oembed": {
+                    "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/FX8Da1hG0iA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"GM Farcaster ep300 Friday October 17, 2025\"></iframe>",
+                    "type": "video",
+                    "title": "GM Farcaster ep300 Friday October 17, 2025",
+                    "width": 200,
+                    "height": 113,
+                    "method": "provider-api",
+                    "version": "1.0",
+                    "author_url": "https://www.youtube.com/@GMFarcaster",
+                    "author_name": "GM Farcaster",
+                    "provider_url": "https://www.youtube.com/",
+                    "provider_name": "YouTube",
+                    "thumbnail_url": "https://i.ytimg.com/vi/FX8Da1hG0iA/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "thumbnail_height": 360
+                  },
+                  "favicon": "https://www.youtube.com/s/desktop/3d178601/img/favicon.ico",
+                  "ogTitle": " - YouTube",
+                  "ogLocale": "en",
+                  "ogDescription": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+                }
+              }
+            },
+            {
+              "url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogUrl": "https://farcaster.xyz/miniapps/0196efb5-5ae3-676b-f83f-869e756c74d0/gm-farcaster",
+                  "ogType": "website",
+                  "favicon": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fminiapp.gmfarcaster.com%2Flogo.png&s=9e7f26424405d9b5c54c06233c2a5916f158e16b3037ec32ab93873d7875597d",
+                  "ogImage": [
+                    {
+                      "url": "https://miniapp.gmfarcaster.com/api/share-image?videoId=RzzN_nxRUFw",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "GM Farcaster",
+                  "ogLocale": "en",
+                  "ogSiteName": "Farcaster Mini App",
+                  "ogDescription": "Get your daily dose of Farcaster news and culture.",
+                  "fcFrame": {
+                    "button": {
+                      "title": "Launch GM Farcaster",
+                      "action": {
+                        "url": "https://miniapp.gmfarcaster.com",
+                        "name": "GM Farcaster",
+                        "type": "launch_frame",
+                        "splashImageUrl": "https://miniapp.gmfarcaster.com/logo.png",
+                        "splashBackgroundColor": "#AF48CF"
+                      }
+                    },
+                    "version": "next",
+                    "imageUrl": "https://miniapp.gmfarcaster.com/api/share-image?videoId=RzzN_nxRUFw"
+                  }
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "Launch GM Farcaster",
+                  "image": "https://miniapp.gmfarcaster.com/api/share-image?videoId=RzzN_nxRUFw",
+                  "frames_url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster"
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f130fde0-6ea4-457b-189a-fc3a26e55800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 86765,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1229,
+            "height_px": 2000
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xf7c6fef7",
+    "url": "https://farcaster.xyz/dwr/0xf7c6fef7",
+    "author_username": "dwr",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-10-15T19:16:24.000Z",
+    "text": "lol wtf",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 5818,
+          "hash": "0x89fcd11a9d53ad884ab44b25a4bea925d5270f05"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x89fcd11a9d53ad884ab44b25a4bea925d5270f05",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 5818,
+            "username": "adrienne",
+            "display_name": "adrienne",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/900a94b3-ae49-41c3-7c8c-ebff96a99700/original",
+            "custody_address": "0x1243516408ee976b34573678f2aa029b69de4f00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x89fcd11a9d53ad884ab44b25a4bea925d5270f05",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "root_parent_url": "https://warpcast.com/~/channel/gmfarcaster",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Sorry @dwr you are not my favorite guest on @gmfarcaster anymore",
+          "timestamp": "2025-10-15T18:32:47.000Z",
+          "embeds": [
+            {
+              "url": "https://stream.farcaster.xyz/v1/video/0199e923-f090-2de3-e20d-2ef070ba93e3.m3u8",
+              "metadata": {
+                "content_type": "application/vnd.apple.mpegurl",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "video": {
+                  "streams": [
+                    {
+                      "height_px": 1920,
+                      "width_px": 1080,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 1280,
+                      "width_px": 720,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 852,
+                      "width_px": 480,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 640,
+                      "width_px": 360,
+                      "codec_name": "h264"
+                    },
+                    {
+                      "height_px": 426,
+                      "width_px": 240,
+                      "codec_name": "h264"
+                    }
+                  ],
+                  "duration_s": 35.09
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "gmfarcaster",
+            "name": "GM Farcaster (podcast)",
+            "image_url": "https://i.imgur.com/8OMHbYB.jpg"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x1cf93631",
+    "url": "https://farcaster.xyz/jacy/0x1cf93631",
+    "author_username": "jacy",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 2982,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63552b96-faf4-4480-7775-a93631aaa100/original",
+    "cast_date": "2025-10-15T22:12:54.000Z",
+    "text": "day 1 of @aptos experience in the books!! heading to our Barclay's Invitational event at the home of the Brooklyn Nets, but not without dropping some of the casts i've seen from our amazing farcaster community!! \n\nhuge thanks to all 37 of you for showing up!!!! my heart is full\n\nand it goes without saying - but for anyone who doesn't know - @poymeetsworld is a legend ❤️‍🔥",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x83514ff8",
+    "url": "https://farcaster.xyz/bradq/0x83514ff8",
+    "author_username": "bradq",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 5406,
+    "author_pfp": "https://i.postimg.cc/6pTmz237/bradq-out-of-box-more-of-me-woody.png",
+    "cast_date": "2025-10-14T16:04:05.000Z",
+    "text": "** Rewards Leaderboard Results **\n\nI think we have a first...3 new first-timers in the top 3 🥳 🎉 🎈 \n\n* Marriage pays on Farcaster as @matthewb proves at #1 following this now proven use case for FC Rewards led recently by @ceej & @greywash w/ top 10s during their 💍 week\n\n* @trupty has certainly found her place here as an artist and supportive Farcaster at #2; & @shawmakesmagic slips into the #3 spot\n\n* Sommer season continues with @chasesommer becoming a regular at the top at #4 & @madisonsommer at #25 solidifying the household double income\n\n* Another first time top 10er with @liamvoss vibing his way to #6; down leaderboard I see a likely hightest finish for @tinyrainboot at #17\n\n* Meme-coveted #69 to @tldr --his second time and the only 2 time winner I can remember; & I recall him calling for a commemorative NFT the first time--can the devs do something???\n\n* It's amazing that there are first time Rewards winners every week, posting and excited so we keep watching & celebrating with them 🎈",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d98b1690-4492-442b-d7b1-d96db630c400/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 217398,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 762,
+            "height_px": 1336
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xc141a537",
+    "url": "https://farcaster.xyz/jc4p/0xc141a537",
+    "author_username": "jc4p",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 977233,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+    "cast_date": "2025-10-14T23:14:13.000Z",
+    "text": "The people who were in top 10 of rewards in the last 4 weeks' estimated $ per post:\n\nMinimum: $1.19/post\nMaximum: $28.57/post\nMean: $7.78/post\nMedian: $7.22/post\n\nI don't know any other social network where you can make even $1/post tbh, what a gift!\n\nFull data: https://gist.github.com/jc4p/c2dba3e350adf126ab233c9493375267",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/33b18e45-49aa-44b3-261b-1399c3c99700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 194335,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1043,
+            "height_px": 547
+          }
+        }
+      },
+      {
+        "url": "https://gist.github.com/jc4p/c2dba3e350adf126ab233c9493375267",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://gist.github.com/jc4p/c2dba3e350adf126ab233c9493375267",
+            "ogType": "article",
+            "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+            "ogImage": [
+              {
+                "alt": "GitHub Gist: instantly share code, notes, and snippets.",
+                "url": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "reward_efficiency_ranking.json",
+            "ogLocale": "en",
+            "ogSiteName": "Gist",
+            "ogDescription": "GitHub Gist: instantly share code, notes, and snippets."
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x914b97f1",
+    "url": "https://farcaster.xyz/v/0x914b97f1",
+    "author_username": "v",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 2,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e3d80f99-f7c0-4b04-dcad-557593d85500/original",
+    "cast_date": "2025-10-14T21:54:01.000Z",
+    "text": "A quick update on deposit bonuses: \n\n1. We crossed our 2 week goal in less than 24 hours! \n\n2. We're pausing new enrollment for bonuses at 3pm Pacific, Oct 14th. \n\n3. If you deposited before 3pm Pacific, you're still eligible for rewards. \n\nThank you all for trusting Farcaster with your funds. We hope to bring back a version of deposit bonuses soon. \n\nIf you're new, we hope you’ll stick around and keeping swapping in our wallet and hanging out with our community!",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b19559f-619b-49c6-1455-d1213aa3ec00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 26888,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 720,
+            "height_px": 405
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xbb3c64b9",
+    "url": "https://farcaster.xyz/dwr/0xbb3c64b9",
+    "author_username": "dwr",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 3,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "cast_date": "2025-10-15T15:35:17.000Z",
+    "text": "100K DAU in Farcaster app yesterday",
+    "embeds": [],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x67140951",
+    "url": "https://farcaster.xyz/linda/0x67140951",
+    "author_username": "linda",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-10-16T19:41:31.000Z",
+    "text": "Did an interview with Blockworks about Farcaster and the wallet! https://x.com/blockworks_/status/1978871038294241609?s=46",
+    "embeds": [
+      {
+        "url": "https://x.com/blockworks_/status/1978871038294241609?s=46",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/Blockworks_/status/1978871038294241609",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">A look at Farcaster by the numbers, plus the strategy around its built-in wallet <a href=\"https://t.co/xHgFQ5wWMq\">pic.twitter.com/xHgFQ5wWMq</a></p>&mdash; Blockworks (@Blockworks_) <a href=\"https://twitter.com/Blockworks_/status/1978871038294241609?ref_src=twsrc%5Etfw\">October 16, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/Blockworks_",
+              "author_name": "Blockworks",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x8c32363a",
+    "url": "https://farcaster.xyz/linda/0x8c32363a",
+    "author_username": "linda",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 12,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6aa18817-6238-4b25-086f-1edd0c438f00/original",
+    "cast_date": "2025-10-17T03:39:42.000Z",
+    "text": "For those checking Farcaster network Dune dashboards, please note those metrics don't include non-protocol actions taken on each individual client e.g. using wallet in Farcaster app (which is our team's big push recently)",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 3,
+          "hash": "0xf159135102c13575efdfb14e69b98fea31e1c68d"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xf159135102c13575efdfb14e69b98fea31e1c68d",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 3,
+            "username": "dwr",
+            "display_name": "Dan Romero",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+            "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xbb3c64b9b4a27ba675004e1ade9fccc0db1ed9dc",
+          "parent_hash": "0x60a64002642013d8343b55dd157cb13e55073a13",
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": 7479
+          },
+          "text": "app != protocol\n\nIf you cast, like, follow then would appear on Dune.\n\nOpening the app and doing non-protocol things, e.g. using wallet, won't be captured there.",
+          "timestamp": "2025-10-15T15:56:06.000Z",
+          "embeds": [],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xa9f32ea0",
+    "url": "https://farcaster.xyz/v/0xa9f32ea0",
+    "author_username": "v",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 2,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e3d80f99-f7c0-4b04-dcad-557593d85500/original",
+    "cast_date": "2025-10-14T22:36:20.000Z",
+    "text": "Guess who is working on improving token search today",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 280248,
+          "hash": "0x7ce85850ebcb32fa8a145ff942841b038387b8a1"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7ce85850ebcb32fa8a145ff942841b038387b8a1",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 280248,
+            "username": "lokpray",
+            "display_name": "Lokp Ray",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/62c9236c-fdb1-44ed-e262-bf7fbbc4be00/original",
+            "custody_address": "0x248d3d57aa5cb5ccde94340e7260fca7fbe64a75"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7ce85850ebcb32fa8a145ff942841b038387b8a1",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "i realized bsc meme coins like to have either 2 or 4 characters chinese words:",
+          "timestamp": "2025-10-14T22:33:33.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c0665356-f78c-4b6d-9664-1ff9211a3600/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 614834,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1730,
+                  "height_px": 1286
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x7ce85850",
+    "url": "https://farcaster.xyz/lokpray/0x7ce85850",
+    "author_username": "lokpray",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 280248,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/62c9236c-fdb1-44ed-e262-bf7fbbc4be00/original",
+    "cast_date": "2025-10-14T22:33:33.000Z",
+    "text": "i realized bsc meme coins like to have either 2 or 4 characters chinese words:",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c0665356-f78c-4b6d-9664-1ff9211a3600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 614834,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1730,
+            "height_px": 1286
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x88b12c04",
+    "url": "https://farcaster.xyz/tldr/0x88b12c04",
+    "author_username": "tldr",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 5774,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53a3c037-a0ba-4a23-54ff-2e144ee61e00/original",
+    "cast_date": "2025-10-15T20:58:19.000Z",
+    "text": "Introducing Bracky Pro!  (sound on)\n\n🧵 1/n",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0199e995-26f9-523f-fb92-a2c09d2ac354.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 1080,
+                "width_px": 1670,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 720,
+                "width_px": 1112,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 480,
+                "width_px": 742,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 556,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 370,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 104.5
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x42a926a8",
+    "url": "https://farcaster.xyz/horsefacts.eth/0x42a926a8",
+    "author_username": "horsefacts.eth",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 3621,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06eaf5e3-5d78-4cdf-5b17-aae9a9818000/original",
+    "cast_date": "2025-10-16T20:19:38.000Z",
+    "text": "even if you simply held your \"little treats\" airdrop (the very first campaign on Farcaster) you are now up over 3.5x",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 440747,
+          "hash": "0x94b1d0569a9370eaf6de66f2eee4c00011f73bc4"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x94b1d0569a9370eaf6de66f2eee4c00011f73bc4",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 440747,
+            "username": "arob1000",
+            "display_name": "arob.base.eth 🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c3246a20-232d-4fcc-fcd5-b3c9ed569000/original",
+            "custody_address": "0x9918b8ade46e5c682b659c7433855d10c219e713"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x94b1d0569a9370eaf6de66f2eee4c00011f73bc4",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/bracket",
+          "root_parent_url": "https://warpcast.com/~/channel/bracket",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "It’s been a few months since this post but with $BRACKY hitting an ATH today I figured it was time to resurface it.\n\nI’ve been actively trading on @bracky and have ~125,000,000 $BRACKY in my trading wallet plus active positions.  The $7 airdrop is now worth ~$21,000 a ~3000x.\n\nA lot has changed in the past 3 months but my conviction in @tldr @passafiume.eth and the @bracky devs and community has never been higher and we’re just getting started.",
+          "timestamp": "2025-10-16T03:37:54.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 440747,
+                "hash": "0x1c7ab96af2db3bfd6f3c75cfdb782a95780454e3"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x1c7ab96af2db3bfd6f3c75cfdb782a95780454e3",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 440747
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "bracket",
+            "name": "Bracket",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9b892b27-7564-49b9-8ea6-faca31cdfb00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0x94b1d056",
+    "url": "https://farcaster.xyz/arob1000/0x94b1d056",
+    "author_username": "arob1000",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 440747,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c3246a20-232d-4fcc-fcd5-b3c9ed569000/original",
+    "cast_date": "2025-10-16T03:37:54.000Z",
+    "text": "It’s been a few months since this post but with $BRACKY hitting an ATH today I figured it was time to resurface it.\n\nI’ve been actively trading on @bracky and have ~125,000,000 $BRACKY in my trading wallet plus active positions.  The $7 airdrop is now worth ~$21,000 a ~3000x.\n\nA lot has changed in the past 3 months but my conviction in @tldr @passafiume.eth and the @bracky devs and community has never been higher and we’re just getting started.",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 440747,
+          "hash": "0x1c7ab96af2db3bfd6f3c75cfdb782a95780454e3"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1c7ab96af2db3bfd6f3c75cfdb782a95780454e3",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 440747,
+            "username": "arob1000",
+            "display_name": "arob.base.eth 🎩",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c3246a20-232d-4fcc-fcd5-b3c9ed569000/original",
+            "custody_address": "0x9918b8ade46e5c682b659c7433855d10c219e713"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1c7ab96af2db3bfd6f3c75cfdb782a95780454e3",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/bracket",
+          "root_parent_url": "https://warpcast.com/~/channel/bracket",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Cracked the 100,000,000 $BRACKY milestone with some bets on Jannik Sinner who had a huge win over Carlos Alcaraz at Wimbledon. 🎾 \n\nTurned a 200,000 $BRACKY~$7 airdrop into 100,000,000 (~500x) by following sports with @bracky",
+          "timestamp": "2025-07-13T18:33:44.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 440747,
+                "hash": "0x8456265cf33bdd94acc64a6f3c7af5cbf81022d7"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x8456265cf33bdd94acc64a6f3c7af5cbf81022d7",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 440747
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f537a39a-c89b-4704-b63c-d6284a1fa700/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 264255,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1290,
+                  "height_px": 1610
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "bracket",
+            "name": "Bracket",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9b892b27-7564-49b9-8ea6-faca31cdfb00/original"
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  },
+  {
+    "cast_hash": "0xea501478",
+    "url": "https://farcaster.xyz/eggman.eth/0xea501478",
+    "author_username": "eggman.eth",
+    "show_date": "2025-10-17",
+    "show_title": "Live from New York it’s GM Farcaster: GM Farcaster ep300!!!",
+    "source_episode_id": "kpKOVivleMc",
+    "author_fid": 310124,
+    "author_pfp": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c75111bf-03ec-48c7-110a-232b09369d00/original",
+    "cast_date": "2025-10-16T00:27:20.000Z",
+    "text": "Made us a nice flag for Uptober (with /imgn ofc)\n\nAlright, done bad-beat venting now. Back to work, we're still going up.",
+    "embeds": [
+      {
+        "url": "https://stream.farcaster.xyz/v1/video/0199ea68-f272-6936-0161-ee94b60e26b8.m3u8",
+        "metadata": {
+          "content_type": "application/vnd.apple.mpegurl",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "video": {
+            "streams": [
+              {
+                "height_px": 480,
+                "width_px": 850,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 360,
+                "width_px": 638,
+                "codec_name": "h264"
+              },
+              {
+                "height_px": 240,
+                "width_px": 424,
+                "codec_name": "h264"
+              }
+            ],
+            "duration_s": 10
+          }
+        }
+      }
+    ],
+    "enrichment_status": "SUCCESS"
+  }
+]
